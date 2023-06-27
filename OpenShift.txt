@@ -9,8 +9,8 @@ Logo, o OpenShift oferece segurança consistente, monitoramento integrado, geren
 Tanto o Kubernetes quanto o OpenShift apresentam uma arquitetura robusta e escalável que permite o desenvolvimento, a implantação e o gerenciamento de aplicativos rápidos e em larga escala. Temos então algumas diferenças fundamentais aqui, principalmente no tocante a implantação, vejamos:
 
 O Kubernetes oferece mais flexibilidade como uma estrutura de código aberto e pode ser instalado em praticamente qualquer plataforma — como Microsoft Azure e AWS — bem como em qualquer
-distribuição  Linux,  incluindo  Ubuntu  e Debian. O  OpenShift, por  outro  lado, requer o Red Hat Enterprise Linux Atomic Host (RHELAH), Fedora ou CentOS proprietário da Red Hat. Isso restringe as opções para muitas empresas, especialmente se elas ainda não estiverem usando essas plataformas. As imagens no OpenShift são armazenadas no componente registry.
-Enquanto que o Kubernetes contém uma interface web complexa que pode confundir  os novatos.
+distribuição Linux, incluindo Ubuntu e Debian. O OpenShift, por outro lado, requer o Red Hat Enterprise Linux Atomic Host (RHELAH), Fedora ou CentOS proprietário da Red Hat. Isso restringe as opções para muitas empresas, especialmente se elas ainda não estiverem usando essas plataformas. As imagens no OpenShift são armazenadas no componente registry.
+Enquanto que o Kubernetes contém uma interface web complexa que pode confundir os novatos.
 
 Os usuários que desejam acessar a interface gráfica do usuário (GUI) da Web do Kubernetes devem instalar o painel do Kubernetes e usar o kube-proxy para enviar a porta de sua máquina para o servidor de cluster. Já o OpenShift, por outro lado, apresenta um console web intuitivo que inclui uma página de login com um toque. O console oferece uma interface simples e baseada em formulário, permitindo que os usuários adicionem, excluam e modifiquem recursos. As imagens dos contêineres no OpenShift podem ser armazenadas no componente denominado registry. No OpenShift o estado persistente do master é armazenado no componente etcd.
 

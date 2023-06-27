@@ -1,7 +1,7 @@
 Capítulo. Kubernetes.
 
 
-O Kubernetes é um sistema de código aberto que foi desenvolvido pelo Google para gerenciamento de aplicativos em containers através de múltiplos hosts de um cluster. Tem como principal objetivo facilitar a implantação de  aplicativos  baseados em  microservices.  Ele foi baseado na experiência do Google de muitos anos trabalho com containers, adaptando-o para se trabalhar com Docker.
+O Kubernetes é um sistema de código aberto que foi desenvolvido pelo Google para gerenciamento de aplicativos em containers através de múltiplos hosts de um cluster. Tem como principal objetivo facilitar a implantação de aplicativos baseados em microservices. Ele foi baseado na experiência do Google de muitos anos trabalho com containers, adaptando-o para se trabalhar com Docker.
 O Kubernetes é uma ferramenta de orquestração que oferece recursos de gerenciamento para containers, foi muito útil para ser utilizado até o Docker Swarm 1.0, pois disponibilizava muitos recursos que o Docker não disponibilizava até aquele momento, entre eles: Balanceamento de carga e movimento de containers sem perda de dados.
 
 A principal vantagem que se tem ao utilizar o Kubernetes é que você não está preso as limitações da API do Docker, logo você tem total liberdade já que o Kubernetes não foi desenvolvido especialmente para o Docker, você pode trocar a sua estrutura de Docker para Rockets e vice-versa por exemplo.
@@ -21,17 +21,17 @@ Pessoal, o Kubernetes é composto por uma vários componentes, cada um com um pr
 
 NODE
 
-O papel de um node é executar os  contêineres que encapsulam as aplicações.
+O papel de um node é executar os contêineres que encapsulam as aplicações.
 
 
 ETCD
 
-O etcd é a base de dados distribuída que é utilizada para  armazenar tudo o que acontece dentro do cluster, incluindo o estado da  aplicação.
+O etcd é a base de dados distribuída que é utilizada para armazenar tudo o que acontece dentro do cluster, incluindo o estado da aplicação.
 
 
 MASTER
 
-O  master é responsável pelos principais componentes do kubernetes, como o scheduler,  que tem a responsabilidadae de controlar a alocação de recursos no cluster.
+O master é responsável pelos principais componentes do kubernetes, como o scheduler, que tem a responsabilidadae de controlar a alocação de recursos no cluster.
 
 Como já vimos as aplicações que utilizam microsserviços, constumam utilizar containers para encapsulamento dos microsserviços. No entanto, quando falamos sobre aplicações sendo executadas em um cluster Kubernetes, não falamos sobre contêineres diretamente, mas sim sobre Pods. No Kubernetes, temos o kubelet que é uma pequena aplicação localizada em um nó que se comunica com o plano de controle, assegurando que os containers estejam em execução em um pod, que consiste no menor e mais simples objeto do Kubernetes.
 Pods são a unidade básica de um cluster. Os Pods encapsulam um ou mais containers de uma aplicação e representam um processo dentro do cluster. Logo, quando fazemos o deploy de uma aplicação no Kubernetes, estamos criando uma ou mais Pods. No Kubernetes, kubelet é uma pequena aplicação localizada em um nó que se comunica com o plano de controle, assegurando que os containers estejam em execução em um pod, que consiste no menor e mais simples objeto do Kubernetes.

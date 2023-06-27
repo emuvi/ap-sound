@@ -133,7 +133,7 @@ git status
 
 Adicionar um arquivo em específico (staged area)
 
-git  add meu_arquivo.txt
+git add meu_arquivo.txt
 
 
 Adicionar um diretório em específico
@@ -147,10 +147,10 @@ git add .
 
 
 Adicionar um arquivo que esta listado no
-.gitignore  (geral ou do repositório)
+.gitignore (geral ou do repositório)
 
 
-git  add - f arquivo_no_gitignore.txt
+git add - f arquivo_no_gitignore.txt
 
 
 Comitar um arquivo
@@ -165,12 +165,12 @@ git commit meu_arquivo.txt meu_outro_arquivo.txt
 
 Comitar informando mensagem
 
-git commit meuarquivo.txt - m  " minha mensagem de  commit "
+git commit meuarquivo.txt - m " minha mensagem de commit "
 
 
 Remover arquivo
 
-git rm  meu_arquivo.txt
+git rm meu_arquivo.txt
 
 
 Remover diretório
@@ -187,10 +187,10 @@ Exibir histórico com diff das duas últimas
 alterações
 
 
-git  log - p - 2
+git log - p - 2
 
 
-Exibir  resumo do histórico (hash completa, autor, data, comentário e quantidade de alterações ( + / - ))
+Exibir resumo do histórico (hash completa, autor, data, comentário e quantidade de alterações ( + / - ))
 
 
 git log -- stat
@@ -200,22 +200,22 @@ Exibir informações resumidas em uma linha
 (hash completa e comentário)
 
 
-git  log -- pretty = oneline
+git log -- pretty = oneline
 
 
 Exibir histórico com formatação específica
-(hash abreviada,  autor, data e comentário)
+(hash abreviada, autor, data e comentário)
 
 
-git log -- pretty = format : " % h - % a n ,   % a r : % s "
+git log -- pretty = format : " % h - % a n , % a r : % s "
 
-% h:  Abreviação do hash;
+% h: Abreviação do hash;
 
 % a n: Nome do autor;
 
 % a r: Data;
 
-% s:  Comentário.
+% s: Comentário.
 
 
 Exibir histório de um arquivo específico
@@ -223,7 +223,7 @@ Exibir histório de um arquivo específico
 git log -- <caminho_do_arquivo>
 
 
-Exibir histórico de um arquivo  específico
+Exibir histórico de um arquivo específico
 que contêm uma determinada palavra
 
 
@@ -238,13 +238,13 @@ git log -- diff-filter = M -- <caminho_do_arquivo>
 Exibir revisão e autor da última modificação de uma bloco de linhas
 
 
-git  blame - L 12 , 22 meu_arquivo.txt
+git blame - L 12 , 22 meu_arquivo.txt
 
 
 Desfazendo alteração local (working directory)
 
 
-git  checkout -- meu_arquivo.txt
+git checkout -- meu_arquivo.txt
 
 
 Desfazendo alteração local (staging area)
@@ -267,7 +267,7 @@ git remote add origin git @ github . com : usuario / repositorio
 Exibir informações dos repositórios remotos
 
 
-git  remote show origin
+git remote show origin
 
 
 Renomear um repositório remoto
@@ -277,13 +277,13 @@ git remote rename origin curso-git
 
 Desvincular um repositório remoto
 
-git remote rm  curso-git
+git remote rm curso-git
 
 
-Enviar arquivos/diretórios para  o repositório remoto
+Enviar arquivos/diretórios para o repositório remoto
 
 
-git  push - u origin master
+git push - u origin master
 
 
 Listar configurações
@@ -293,7 +293,7 @@ git config -- list
 
 Setar usuário
 
-git config -- global user . name  "nome"
+git config -- global user . name "nome"
 
 
 Setar editor
@@ -306,21 +306,21 @@ Setar ferramenta de merge
 git config -- global merge . tool vimdiff
 
 
-Atualizar os arquivos no branch  atual
+Atualizar os arquivos no branch atual
 
-git  pull
+git pull
 
 
-Buscar as alterações, mas não  aplica-las no
+Buscar as alterações, mas não aplica-las no
 branch atual
 
 
-git  fetch
+git fetch
 
 
 Clonar um repositório remoto já existente
 
-git clone  git @ <caminho_do_arquivo>
+git clone git @ <caminho_do_arquivo>
 
 
 Usa busca binária para encontrar o commit

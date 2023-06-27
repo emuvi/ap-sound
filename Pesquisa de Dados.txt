@@ -3,7 +3,7 @@ Capítulo. Pesquisa de Dados.
 De Pointel - PiWiKi
 
 
-Uma das tarefas de maior importância na computação é a pesquisa de informações contidas em coleções de dados. Em geral, desejamos que essa tarefa seja executada sem que haja a necessidade de inspecionar toda a coleção de dados. Existem algumas maneiras de realizar pesquisas, tais como: Pesquisa Sequencial, Pesquisa Binária, Tabelas de Dispersão (Hashing), Árvores AVL, Árvores B e Árvores B+.
+Uma das tarefas de maior importância na computação é a pesquisa de informações contidas em coleções de dados. Em geral, desejamos que essa tarefa seja executada sem que haja a necessidade de inspecionar toda a coleção de dados. Existem algumas maneiras de realizar pesquisas, tais como: Pesquisa Sequencial, Pesquisa Binária, Tabelas de Dispersão (Hashing), Árvores AVL, Árvores B e Árvores B+.
 
 Busca Sequencial
 

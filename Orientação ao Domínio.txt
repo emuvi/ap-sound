@@ -19,13 +19,13 @@ Durante o processo de design, lembramos e fazemos muitas referências ao modelo.
 DDD pode ser visto por alguns como a volta da orientação a objetos. É verdade que o livro é um chamado às boas práticas de programação que já existem desde a época remota do SmallTalk.
 Quando se fala em Orientação a Objetos pensa-se logo em classes, heranças, polimorfismo, encapsulamento. Mas a essência da Orientação a Objetos também tem elementos como:
 
-·      Alinhamento do código com o negócio: o contato dos desenvolvedores com os especialistas do domínio é algo essencial quando se faz DDD (o pessoal de métodos ágeis já sabe disso faz tempo);
+· Alinhamento do código com o negócio: o contato dos desenvolvedores com os especialistas do domínio é algo essencial quando se faz DDD (o pessoal de métodos ágeis já sabe disso faz tempo);
 
-·      Favorecer reutilização: os blocos de construção, que veremos adiante, facilitam aproveitar um mesmo conceito de domínio ou um mesmo código em vários lugares;
+· Favorecer reutilização: os blocos de construção, que veremos adiante, facilitam aproveitar um mesmo conceito de domínio ou um mesmo código em vários lugares;
 
-·      Mínimo de acoplamento: Com um modelo bem-feito, organizado, as várias partes de um sistema interagem sem que haja muita dependência entre módulos ou classes de objetos de conceitos distintos;
+· Mínimo de acoplamento: Com um modelo bem-feito, organizado, as várias partes de um sistema interagem sem que haja muita dependência entre módulos ou classes de objetos de conceitos distintos;
 
-·      Independência da Tecnologia: DDD não foca em tecnologia, mas sim em entender as regras de negócio e como elas devem estar refletidas no código e no modelo de domínio. Não que a tecnologia usada não seja importante, mas essa não é uma preocupação de DDD.
+· Independência da Tecnologia: DDD não foca em tecnologia, mas sim em entender as regras de negócio e como elas devem estar refletidas no código e no modelo de domínio. Não que a tecnologia usada não seja importante, mas essa não é uma preocupação de DDD.
 
 Para ter um software que atenda perfeitamente a um determinado domínio, é necessário que se estabeleça, em primeiro lugar, uma Linguagem Ubíqua, ou Linguagem comum, com termos bem definidos, que fazem parte do domínio do negócio e que são usados por todas as pessoas que fazem parte do processo de desenvolvimento de software. Nessa linguagem estão termos que fazem parte das conversas diárias entre especialistas de negócio e times de desenvolvimento. Todos devem usar os mesmos termos tanto na linguagem falada quanto no código.
 
@@ -33,11 +33,11 @@ Naked Objects
 
 Naked Objects é um padrão de arquitetura usado na engenharia de software. É definida por três princípios:
 
-·      Toda a lógica de negócios deve ser encapsulada nos objetos de domínio. Este princípio não é exclusivo de objetos nus; é um forte compromisso com o encapsulamento.
+· Toda a lógica de negócios deve ser encapsulada nos objetos de domínio. Este princípio não é exclusivo de objetos nus; é um forte compromisso com o encapsulamento.
 
-·      A interface do usuário deve ser uma representação direta dos objetos do domínio, com todas as ações do usuário consistindo em criar, recuperar ou invocar métodos nos objetos do domínio. Este princípio não é exclusivo de objetos nus: é uma interpretação de uma interface de usuário orientada a objetos.
+· A interface do usuário deve ser uma representação direta dos objetos do domínio, com todas as ações do usuário consistindo em criar, recuperar ou invocar métodos nos objetos do domínio. Este princípio não é exclusivo de objetos nus: é uma interpretação de uma interface de usuário orientada a objetos.
 
-·      O recurso inovador do padrão de objeto nu surge combinando o 1º e 2º princípios em um 3º princípio:
+· O recurso inovador do padrão de objeto nu surge combinando o 1º e 2º princípios em um 3º princípio:
 
 A interface do usuário deve ser criada de forma totalmente automática a partir das definições dos objetos do domínio. Isso pode ser feito usando reflexão ou geração de código-fonte.
 O padrão de Naked Objects foi descrito formalmente pela primeira vez na tese de doutorado de Richard Pawson que inclui investigação de antecedentes e inspirações para o padrão, incluindo, por exemplo, a interface de usuário mórfica.

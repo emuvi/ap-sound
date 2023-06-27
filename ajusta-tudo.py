@@ -1,4 +1,5 @@
 import os
+import re
 
 
 def adjust_empty_lines(text):
@@ -7,6 +8,7 @@ def adjust_empty_lines(text):
     empty = 3
     for line in text:
         line = line.strip()
+        line = re.sub(r'\s+', ' ', line)
         if not line:
             empty += 1
         else:

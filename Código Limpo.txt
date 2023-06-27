@@ -431,19 +431,19 @@ Também são desnecessários os comentários de fechamento das ações e blocos,
 
 Entretanto, há situações em que é recomendado fazer uso dos comentários, como:
 
-·  Legal Comments: copyright e authorship podem ser necessários e razoáveis de se colocar no início de cada arquivo.
+· Legal Comments: copyright e authorship podem ser necessários e razoáveis de se colocar no início de cada arquivo.
 
-·  Informative Comments: por exemplo, explicando o formato aceito por uma expressão regular.
+· Informative Comments: por exemplo, explicando o formato aceito por uma expressão regular.
 
-·  Explanation of Intent: explicar a intenção por trás de uma decisão.
+· Explanation of Intent: explicar a intenção por trás de uma decisão.
 
-·  Clarification: quando o código não puder ser modificado e algo obscuro necessitar ser explicado.
+· Clarification: quando o código não puder ser modificado e algo obscuro necessitar ser explicado.
 
-·  Warning of Consequences: avisar os efeitos colaterais de se executar um método.Ex: Test case demorado.
+· Warning of Consequences: avisar os efeitos colaterais de se executar um método.Ex: Test case demorado.
 
-·  TODO Comments: não é uma desculpa para deixar código ruim no sistema. Serve como um lembrete.
+· TODO Comments: não é uma desculpa para deixar código ruim no sistema. Serve como um lembrete.
 
-·  Amplification: amplifica a importância de uma ação que caso contrário poderia parecer sem importância.
+· Amplification: amplifica a importância de uma ação que caso contrário poderia parecer sem importância.
 
 Formatação
 
@@ -458,9 +458,9 @@ Faça uma boa utilização das Naming Conventions, temos alguns padrões para as
 
 Os principais padrões de Naming Conventions para o java são:
 
-·  CamelCase - Utilizado para nomear funções e variáveis, este padrão remete que são utilizadas palavras compostas e faz a distinção por iniciais em maiúsculo. EX: daysInMonth.
+· CamelCase - Utilizado para nomear funções e variáveis, este padrão remete que são utilizadas palavras compostas e faz a distinção por iniciais em maiúsculo. EX: daysInMonth.
 
-·  SNAKE_CASE - Utilizado para nomear constantes, este padrão é normalmente utilizado com todos os caracteres em maiúsculo e um "_" para a separação das palavras compostas, como no exemplo a seguir:
+· SNAKE_CASE - Utilizado para nomear constantes, este padrão é normalmente utilizado com todos os caracteres em maiúsculo e um "_" para a separação das palavras compostas, como no exemplo a seguir:
 
 
 Tipos de Formatação
@@ -559,55 +559,55 @@ Objetos e Estruturas de Dados
 Descrição
 
 
-Anti-simetria  data/objeto
+Anti-simetria data/objeto
 
 
-Os objetos usam abstrações para esconder seus  dados, e expõem as funções que operam em tais dados. As estruturas de dados  expõem seus dados e não possuem funções significativas. Note a natureza complementar das duas definições. Elas são praticamente opostas. Essa diferença pode parecer trivial, mas possui grandes implicações.
+Os objetos usam abstrações para esconder seus dados, e expõem as funções que operam em tais dados. As estruturas de dados expõem seus dados e não possuem funções significativas. Note a natureza complementar das duas definições. Elas são praticamente opostas. Essa diferença pode parecer trivial, mas possui grandes implicações.
 
 
 A lei de Demeter
 
 
-Um módulo não deve enxergar o interior dos objetos  que ele manipula. Os objetos escondem seus dados e expõem as operações. Isso significa que um  objeto não deve expor sua estrutura interna por meio dos métodos acessores, pois isso seria  expor, e não ocultar, sua estrutura interna. Mais precisamente, a Lei de  Demeter diz que um método f de uma classe C só deve chamar os métodos de:
+Um módulo não deve enxergar o interior dos objetos que ele manipula. Os objetos escondem seus dados e expõem as operações. Isso significa que um objeto não deve expor sua estrutura interna por meio dos métodos acessores, pois isso seria expor, e não ocultar, sua estrutura interna. Mais precisamente, a Lei de Demeter diz que um método f de uma classe C só deve chamar os métodos de:
 
--  C
+- C
 
--   Um objeto  criado por f
+- Um objeto criado por f
 
--   Um objeto  passado como parâmetro para f
+- Um objeto passado como parâmetro para f
 
--   Um objeto  dentro de uma instância da variável C
+- Um objeto dentro de uma instância da variável C
 
-O método não deve chamar os métodos em objetos  retornados por qualquer outra das funções permitidas. Em outras palavras,  fale apenas com conhecidos, não com estranhos.
-
-
-Carrinhos de  trem
+O método não deve chamar os métodos em objetos retornados por qualquer outra das funções permitidas. Em outras palavras, fale apenas com conhecidos, não com estranhos.
 
 
-Esse tipo de código costuma ser chamador de  carrinho de trem, pois parece com um monte de carrinhos de trem acoplados. Cadeias  de chamadas como  essa geralmente são consideradas descuidadas e devem  ser evitadas. Na maioria  das vezes é melhor dividi-las.
+Carrinhos de trem
+
+
+Esse tipo de código costuma ser chamador de carrinho de trem, pois parece com um monte de carrinhos de trem acoplados. Cadeias de chamadas como essa geralmente são consideradas descuidadas e devem ser evitadas. Na maioria das vezes é melhor dividi-las.
 
 
 Híbridos
 
 
-Estruturas híbridas ruins são metade objeto e  metade estrutura de dados. Elas possuem funções que fazem algo significativo, e também variáveis ou métodos de acesso e de  alteração públicos que, para todos os efeitos, tornam públicas as variáveis privadas, incitando outras  funções externas a usarem tais variáveis da forma como um programa  procedimental usaria uma estrutura de dados". Esses híbridos dificultam tanto a adição de novas  funções como de novas  estruturas de dados.  Eles são a pior coisa  em ambas as condições. Evite criá-los. Eles indicam um modelo confuso  cujos autores não tinham certeza - ou pior, não sabiam se precisavam se  proteger de funções ou tipos.
+Estruturas híbridas ruins são metade objeto e metade estrutura de dados. Elas possuem funções que fazem algo significativo, e também variáveis ou métodos de acesso e de alteração públicos que, para todos os efeitos, tornam públicas as variáveis privadas, incitando outras funções externas a usarem tais variáveis da forma como um programa procedimental usaria uma estrutura de dados". Esses híbridos dificultam tanto a adição de novas funções como de novas estruturas de dados. Eles são a pior coisa em ambas as condições. Evite criá-los. Eles indicam um modelo confuso cujos autores não tinham certeza - ou pior, não sabiam se precisavam se proteger de funções ou tipos.
 
 
 Estruturas Ocultas
 
 
-A mistura adicionada de diferentes níveis de  detalhes é um pouco confusa. Pontos, barras, extensão de arquivos e objetos  não devem ser misturadas entre si e nem com o código que os circunda.
+A mistura adicionada de diferentes níveis de detalhes é um pouco confusa. Pontos, barras, extensão de arquivos e objetos não devem ser misturadas entre si e nem com o código que os circunda.
 
 
 Objetos de transferência de dados
 
 
-A forma perfeita de uma estrutura de dados é uma  classe com variáveis públicas e nenhuma função. Às vezes, chama- se isso de objeto de  transferência de dados, ou DTO (sigla em inglês). Os DTOs são estruturas  muitos úteis, especialmente para se comunicar com bancos de dados ou analisar  sintaticamente de mensagens provenientes de sockets e assim por diante. Eles costumam  se tornar os primeiros numa série de estágios de tradução que convertem dados  brutos num banco de dados em objetos no código do aplicativo. Os beans têm variáveis privadas manipuladas por  métodos de escrita e leitura. O aparente encapsulamento dos beans parece  fazer alguns puristas da OO sentirem-se melhores, mas geralmente não oferece  vantagem alguma.
+A forma perfeita de uma estrutura de dados é uma classe com variáveis públicas e nenhuma função. Às vezes, chama- se isso de objeto de transferência de dados, ou DTO (sigla em inglês). Os DTOs são estruturas muitos úteis, especialmente para se comunicar com bancos de dados ou analisar sintaticamente de mensagens provenientes de sockets e assim por diante. Eles costumam se tornar os primeiros numa série de estágios de tradução que convertem dados brutos num banco de dados em objetos no código do aplicativo. Os beans têm variáveis privadas manipuladas por métodos de escrita e leitura. O aparente encapsulamento dos beans parece fazer alguns puristas da OO sentirem-se melhores, mas geralmente não oferece vantagem alguma.
 
 
-O Active  Record
+O Active Record
 
 
-Os Active Records são formas especiais de DTOS.  Eles são estruturas de dados com variáveis públicas (ou acessadas por Beans);  mas eles tipicamente possuem métodos de navegação, como save (salvar) e find  (buscar). Esses Active Records são traduções diretas das tabelas de bancos de  dados ou de outras fontes de dados. Infelizmente, costumamos encontrar desenvolvedores  tentando tratar essas estruturas de dados como se fossem objetos, colocando  métodos de regras de negócios neles. Isso é complicado, pois cria um híbrido  entre uma estrutura de dados e um objeto. A solução, é claro, é tratar o  Record Active como uma estrutura de dados e criar objetos separados que  contenham as regras de negócio e que  ocultem seus dados internos (que provavelmente são apenas instâncias do  Active Record).
+Os Active Records são formas especiais de DTOS. Eles são estruturas de dados com variáveis públicas (ou acessadas por Beans); mas eles tipicamente possuem métodos de navegação, como save (salvar) e find (buscar). Esses Active Records são traduções diretas das tabelas de bancos de dados ou de outras fontes de dados. Infelizmente, costumamos encontrar desenvolvedores tentando tratar essas estruturas de dados como se fossem objetos, colocando métodos de regras de negócios neles. Isso é complicado, pois cria um híbrido entre uma estrutura de dados e um objeto. A solução, é claro, é tratar o Record Active como uma estrutura de dados e criar objetos separados que contenham as regras de negócio e que ocultem seus dados internos (que provavelmente são apenas instâncias do Active Record).
 
 

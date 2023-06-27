@@ -1,17 +1,17 @@
-Capítulo. Complexidade de Algoritmos.
+﻿Capítulo. Complexidade de Algoritmos.
 
 
 Galera, por que estudamos a complexidade de algoritmos? Para determinar o custo computacional (tempo, espaço, etc) para execução de algoritmos. Em outras palavras, ela classifica problemas computacionais de acordo com sua dificuldade inerente. E importante entender isso para posteriormente estudarmos a complexidade de métodos de ordenação e métodos de pesquisa.
 
 Nosso estudo aqui será bastante superficial por duas razões: primeiro, concursos cobram pouco e, quando cobram, querem saber as complexidades dos métodos de ordenação mais conhecidos; segundo, essa é uma disciplina absurdamente complexa que envolve Análise Assintótica, Cálculo Diferencial, Análise Polinomial (Linear, Exponencial, etc). Logo, vamos nos ater ao que cai em concurso público!
 
-Só uma pausa: passei dias sem dormir na minha graduação por conta dessa disciplina! Na UnB, ela era ministrada pelo Instituto de Matemática e era considerada a disciplina mais difícil do curso :-(. Continuando: lá em cima eu falei sobre custo computacional! Ora, para que eu escolha um algoritmo, eu preciso definir algum parâmetro.
+Só uma pausa: passei dias sem dormir na minha graduação por conta dessa disciplina! Na UnB, ela era ministrada pelo Instituto de Matemática e era considerada a disciplina mais difícil do curso :-(. Continuando: lá em cima eu falei sobre custo computacional! Ora, para que eu escolha um algoritmo, eu preciso definir algum parâmetro.
 
 Podemos começar com Tempo! Um algoritmo que realiza uma tarefa em 20 minutos é melhor do que um algoritmo que realiza uma tarefa em 20 dias? Não é uma boa estratégia, porque depende do computador que eu estou utilizando (e todo o hardware correspondente), depende das otimizações realizadas pelo compilador, entre outras variáveis.
 
 Vamos analisar, então, Espaço! Um algoritmo que utiliza 20Mb de RAM é melhor do que um algoritmo que utiliza 20Gb? Seguem os mesmos argumentos utilizados para o Tempo, ou seja, não é uma boa opção! E agora, o que faremos? Galera, eu tenho uma sugestão: investigar a quantidade de vezes que operações são executadas na execução do algoritmo!
 
-Essa estratégia independe do computador (e hardware associado), do compilador, da linguagem de programação, das condições de implementação, entre outros fatores - ela depende apenas da qualidade inerente do algoritmol implementado. Utilizam-se algumas simplificações matemáticas para se ter uma ideia do comportamento do algoritmo. Prosseguindo...
+Essa estratégia independe do computador (e hardware associado), do compilador, da linguagem de programação, das condições de implementação, entre outros fatores - ela depende apenas da qualidade inerente do algoritmo implementado. Utilizam-se algumas simplificações matemáticas para se ter uma ideia do comportamento do algoritmo. Prosseguindo...
 
 Dada uma entrada de dados de tamanho N, podemos calcular o custo computacional de um algoritmo em seu pior caso, médio caso e melhor caso! Como assim, professor? Para entender isso, vamos utilizar a metáfora de um jogo de baralho! Imaginem que eu estou jogando contra vocês. Vocês embaralham e me entregam 5 cartas, eu embaralho novamente e lhes entrego 5 cartas.
 
@@ -49,13 +49,13 @@ Polinomial - O de ( n elevado a c )
 
 Exponencial - O de ( c elevado a n )
 
-Fatorial - O de ( n ! )
+Fatorial - O de ( n ! )
 
 Quando dizemos que o Shellsort é um algoritmo O(n2), estamos querendo dizer que a complexidade (nesse caso, o número de operações) para ordenar um conjunto de n dados com o Algoritmo Shellsort é proporcional ao quadrado do número de elementos no conjunto! Grosso modo, para ordenar 20 números, é necessário realizar 400 operações (sem entrar em detalhes sobre a operação em si, nem sobre as simplificações matemáticas que são realizadas).
 
 Entender como se chega a esses valores para cada método de ordenação e pesquisa é extremamente complexo! Galera, apesar de eu nunca ter visto isso em prova, é bom que vocês saibam que existem outras notações! Utiliza-se Notação Big-O (O) para pior caso; Notação Big- Ômega para melhor caso (Q); e Notação Big-Theta (0) para caso médio.
 
-Como na prática utiliza-se Big-O para tudo, o que eu recomendo (infelizmente, porque eu sei que vocês têm zilhões de coisas para decorar) é memorizar o pior caso dos principais métodos. Dessa forma, é possível responder a maioria das questões de prova sobre esse tema. Eventualmente, as questões pedem também caso médio e melhor caso, mas é menos comum. Bacana? :-)
+Como na prática utiliza-se Big-O para tudo, o que eu recomendo (infelizmente, porque eu sei que vocês têm zilhões de coisas para decorar) é memorizar o pior caso dos principais métodos. Dessa forma, é possível responder a maioria das questões de prova sobre esse tema. Eventualmente, as questões pedem também caso médio e melhor caso, mas é menos comum. Bacana? :-)
 
 Por último, uma pergunta muito frequente: Professor, já vi questões cobrando Logaritmo na Base 10, Logaritmo na Base 2, Logaritmo Neperiano, etc... isso não está errado? Galera, suponha que um algoritmo levou um tempo 0(log1O n). Você também poderia dizer que levou um tempo 0(lg n) (ou seja, 0(log2 n)). Você pode utilizar qualquer base.
 

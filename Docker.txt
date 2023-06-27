@@ -25,21 +25,21 @@ O LXC é um método de virtualização a nível de sistema operacional que permi
 Assim, pode-se criar ambientes de teste e/ou produção utilizando o LXC de forma ágil e segura (isolada). Não há a necessidade de se preocupar com tantos detalhes como na virtualização tradicional.
 Quanto as instruções Docker, uma se destaca por ser responsável por indicar ao docker a porta que o container deve utilizar em tempo de execução, trata-se da EXPOSE. Outras instruções importantes, seriam:
 
--  ADD : Adiciona um arquivo ou diretório dos sistemas de arquivo local para a imagem;
+- ADD : Adiciona um arquivo ou diretório dos sistemas de arquivo local para a imagem;
 
--  COPY : Copia arquivos remotos e/ou locais para a imagem.
+- COPY : Copia arquivos remotos e/ou locais para a imagem.
 
--  CMD : Comando padrão a ser executado pela imagem;
+- CMD : Comando padrão a ser executado pela imagem;
 
--   ENTRYPOINT : Permite configurar o contêiner ou apenas definir o comando a ser executado (Sobrepõe o CMD);
+- ENTRYPOINT : Permite configurar o contêiner ou apenas definir o comando a ser executado (Sobrepõe o CMD);
 
--  ENV : Define variáveis de ambiente;
+- ENV : Define variáveis de ambiente;
 
--  FROM : Inicia a imagem a partir de outra imagem: Ex “FROM debian:8”;
+- FROM : Inicia a imagem a partir de outra imagem: Ex “FROM debian:8”;
 
--  RUN : Roda um comando no sistema operacional da imagem;
+- RUN : Roda um comando no sistema operacional da imagem;
 
--  ARG : Define variáveis de ambiente, mas permite que no momento da construção da imagem seja passado o valor para a variável específicada. Útil para quando se deseja permitir que o usuário construa imagens para mais de uma versão do mesmo software usando o mesmo DockerFile.
+- ARG : Define variáveis de ambiente, mas permite que no momento da construção da imagem seja passado o valor para a variável específicada. Útil para quando se deseja permitir que o usuário construa imagens para mais de uma versão do mesmo software usando o mesmo DockerFile.
 
 Como o Docker trabalha utilizando cliente e servidor (toda a comunicação entre o Docker Daemon e Docker client é realizada através de API), basta apenas ter instalado o serviço do Docker em um lugar, e apontar em o Docker Client para esse servidor. A plataforma do Docker em si utilizada alguns conjuntos de recursos, seja para a criação ou administração dos containers.
 

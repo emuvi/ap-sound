@@ -60,7 +60,7 @@ Pilhas e Filas são subespécies de Listas. No entanto, cuidado na hora de respo
 Precisamos falar um pouco sobre Fragmentação! O que é isso, professor? Galera, falou em fragmentação, lembrem-se de desperdício de espaço disponível de memória. O fenômeno no qual existem vários blocos disponíveis pequenos e não-contíguos é chamado fragmentação externa porque o espaço disponível é desperdiçado fora dos blocos alocados.
 Esse fenômeno é o oposto da fragmentação interna, no qual o espaço disponível é desperdiçado dentro dos blocos alocados, como apresenta a imagem abaixo. Sistemas Operacionais possuem uma estrutura de dados que armazena informações sobre áreas ou blocos livres (geralmente uma lista ou tabela). Uma lista encadeada elimina o problema da fragmentação externa. Por que?
 Porque mantém os arquivos, cada um, como uma lista encadeada de blocos de disco. Dessa forma, uma parte de cada bloco é usada como ponteiro para o próximo bloco e o restante do bloco é usado para dados. Uma vantagem desse tipo de alocação é que o tamanho do arquivo não precisa ser conhecido antes de sua criação, já que cada bloco terá um ponteiro para o próximo bloco.
-Galera... e o acesso a uma lista? A Lista é uma estrutura de acesso sequencial, i.e., é preciso percorrer nó por nó para acessar um dado específico. Logo, é proporcional ao número de elementos – Acesso O(n). E os Vetores? Eles são uma estrutura de acesso direto, i.e., pode-se acessar um elemento diretamente. Portanto, não precisa percorrer elemento por elemento ( Acesso  O ( 1 ) ).
+Galera... e o acesso a uma lista? A Lista é uma estrutura de acesso sequencial, i.e., é preciso percorrer nó por nó para acessar um dado específico. Logo, é proporcional ao número de elementos – Acesso O(n). E os Vetores? Eles são uma estrutura de acesso direto, i.e., pode-se acessar um elemento diretamente. Portanto, não precisa percorrer elemento por elemento ( Acesso O ( 1 ) ).
 
 Pilhas
 
@@ -97,11 +97,11 @@ Galera, em uma Árvore de Busca Binária, podemos fazer três percursos: pré-or
 
 Quando um nó é enumerado, diz-se que ele foi "visitado". Vamos ver agora esses três percursos:
 
-§  Pré-Ordem (ou Profundidade): visita a raiz; percorre a subárvore esquerda em pré-ordem; percorre a subárvore direita em pré-ordem
+§ Pré-Ordem (ou Profundidade): visita a raiz; percorre a subárvore esquerda em pré-ordem; percorre a subárvore direita em pré-ordem
 
 § In-Ordem (ou Simétrica): percorre a subárvore esquerda em in-ordem; visita a raiz; percorre a subárvore direita em in-ordem.
 
-§  Pós-Ordem: percorre a subárvore esquerda em pós-ordem; percorre a subárvore direita em pós-ordem; visita a raiz.
+§ Pós-Ordem: percorre a subárvore esquerda em pós-ordem; percorre a subárvore direita em pós-ordem; visita a raiz.
 
 Agora vamos falar um pouquinho sobre três tipos especiais e árvores: Árvore B, Árvore B+ e Árvore AVL. E aí, eu preciso bastante da atenção de vocês agora! Eu coloco esse assunto porque os editais pedem apenas Árvore e não especificam a profundidade do assunto. Com exceção da CESGRANRIO, é raro outras bancas cobrarem esse assunto na profundidade que veremos agora.
 É um assunto mais difícil e que cai pouco em prova, portanto só recomendo seguir caso queiram realmente cercar todas as possibilidades. Galera, época de faculdade, segundo semestre, disciplina de Estrutura de Dados! O trabalho final da disciplina era construir um compactador! Isso mesmo! Uma espécie de WinZip, WinRar, etc. E a estrutura usada para compactar arquivos de índices era uma Árvore B.
@@ -119,7 +119,7 @@ Então, galera, caso a árvore não esteja balanceada, é necessário seu balanc
 No caso Direita-Direita, basta fazer uma rotação simples para a esquerda no nó desbalanceado. No caso Direita-Esquerda, temos que fazer uma rotação dupla, i.e., faz-se uma rotação para direita no nó filho, seguida de uma rotação para esquerda no nó desbalanceado. Bacana? Vocês entenderão isso melhor nos exercícios. Vamos ver agora a complexidade logarítmica dessas estruturas.
 
 
-ÁRVORE BINÁRIA  DE BUSCA
+ÁRVORE BINÁRIA DE BUSCA
 
 
 ALGORITMO
@@ -171,7 +171,7 @@ PIOR CASO
 O ( n )
 
 
-ÁRVORE B /  ÁRVORE AVL
+ÁRVORE B / ÁRVORE AVL
 
 ALGORITMO
 
@@ -226,29 +226,29 @@ Grafos
 
 Fiz uma disciplina na faculdade chamada Teoria dos Grafos! Aquilo era absurdamente complexo, mas para concursos a teoria é beeeem mais tranquila e muito rara de cair. Portanto fiquem tranquilos, bacana? Uma definição de grafo afirma que ele é uma estrutura de dados que consiste em um conjunto de nós (ou vértices) e um conjunto de arcos (ou arestas).
 Em outras palavras, podemos dizer que é simplesmente um conjunto de pontos e linhas que conectam vários pontos. Ou também que é uma representação abstrata de um conjunto de objetos e das relações existentes entre eles. Uma grande variedade de estruturas do mundo real podem ser representadas abstratamente através de grafos. Professor, pode me passar um exemplo? Claro!
-Vejam só como se trata de um conceito bastante abrangente!  O Facebook pode ser considerado um grafo (pessoas  se interligam através de amizades); um mapa rodoviário pode ser considerado um grafo (cidades se relacionam através de estradas); as eliminatórias de um campeonato de futebol também podem ser consideradas um grafo (times jogam entre si para ganhar o campeonato).
+Vejam só como se trata de um conceito bastante abrangente! O Facebook pode ser considerado um grafo (pessoas se interligam através de amizades); um mapa rodoviário pode ser considerado um grafo (cidades se relacionam através de estradas); as eliminatórias de um campeonato de futebol também podem ser consideradas um grafo (times jogam entre si para ganhar o campeonato).
 Abaixo temos um exemplo de um grafo que eu desenhei e que nos ajudará a entender melhor a terminologia utilizada. Seguem as premissas:
 
-Ø N = {A, B, C, D, E, F}
+Ø N = {A, B, C, D, E, F}
 Ø G = {(A,B), (B,A), (B,C), (B,D), (C,C), (D,A), (D,C), (E,F)}
 
-§  Nó, Nodo ou Vértice: Qualquer elemento de um conjunto N.
+§ Nó, Nodo ou Vértice: Qualquer elemento de um conjunto N.
 
-§  Aresta ou Arco: Qualquer elemento de um conjunto A.
+§ Aresta ou Arco: Qualquer elemento de um conjunto A.
 
-§  Nós Adjacentes (Relação de Adjacência): São aqueles nós ligados por um arco (Ex: A é adjacente a D).
+§ Nós Adjacentes (Relação de Adjacência): São aqueles nós ligados por um arco (Ex: A é adjacente a D).
 
-§  Arco Incidente (Relação de Incidência): São aqueles arcos que levam a um nó (Ex: (C,D) é incidente em D).
+§ Arco Incidente (Relação de Incidência): São aqueles arcos que levam a um nó (Ex: (C,D) é incidente em D).
 
-§  Grau: É a quantidade de arcos que partem ou chegam em/de um nó.
+§ Grau: É a quantidade de arcos que partem ou chegam em/de um nó.
 
-§  Caminho: Sequência de arcos que levam de um nó a outro (Ex: AàC <(A,B), (B,D), (D,C)>).
+§ Caminho: Sequência de arcos que levam de um nó a outro (Ex: AàC <(A,B), (B,D), (D,C)>).
 
-§  Circuito ou Ciclo:É o caminho que leva ao mesmo nó do qual saiu (Ex: <(A,B), (B,D), (D,A)>).
+§ Circuito ou Ciclo:É o caminho que leva ao mesmo nó do qual saiu (Ex: <(A,B), (B,D), (D,A)>).
 
-§  Laço: É o circuito de um único arco (<(C,C)>).
+§ Laço: É o circuito de um único arco (<(C,C)>).
 
-§  Ordem: É a quantidade de vértices totais do grafo.
+§ Ordem: É a quantidade de vértices totais do grafo.
 
 Vamos ver agora alguns conceitos importantes! Um grafo pode ser dirigido – também chamado direcionado, orientado ou dígrafo –, se as arestas tiverem uma direção (imagem da esquerda), ou não dirigido, se as arestas não tiverem direção (imagem central). Se as arestas tiverem associado um peso ou custo, o grafo passa a ser chamado ponderado, valorado ou pesado (imagem da direita).
 Um grafo simples é aquele que não contém laços. Um grafo vazio é aquele que contém exclusivamente vértices (não contém arcos). Um grafo misto é aquele que possui arestas dirigidas e não-dirigidas. Um grafo trivial é aquele que possui somente um vértice. Um grafo é denso se contém muitos arcos em relação ao número de vértices e esparso se contém poucos arcos. Como assim, professor?

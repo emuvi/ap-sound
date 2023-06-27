@@ -16,7 +16,7 @@ Cada um adapta o padrão genérico ao seu ambiente específico para resolver um 
 
 É possível utilizar soluções com nomes que facilitam a comunicação, compreensão e documentação. Eles facilitam o reúso de soluções arquiteturais bem-sucedidas e permitem desenvolver softwares de melhor qualidade. Padrões capturam a estrutura estática e a colaboração dinâmica entre objetos participantes no projeto de sistemas. Eles utilizam conceitos de orientação a objetos para construir código reutilizável, eficiente, de alta coesão e baixo acoplamento.
 
-Então há apenas benefícios em se utilizar padrões de projetos? Claro que não! Muitas vezes, as tentativas de se escrever um código que esteja em conformidade com um determinado padrão de projeto aumentam desnecessariamente a complexidade do código. Em outras palavras, a tentativa de simplificar pode acabar complicando a implementação. Ademais, estudos mostram que grande parte dos padrões podem ser simplificados ou eliminados. Como, professor? utilizando-se recursos diretos das próprias linguagens de programação, como em LISP e DYLAN. Portanto, os Design Patterns podem ser simplesmente um indicativo de que algumas linguagens de programação falham em oferecer determinadas características. Cada padrão de projeto é organizado  segundo  quatro elementos:  Nome,  Problema, Solução e
+Então há apenas benefícios em se utilizar padrões de projetos? Claro que não! Muitas vezes, as tentativas de se escrever um código que esteja em conformidade com um determinado padrão de projeto aumentam desnecessariamente a complexidade do código. Em outras palavras, a tentativa de simplificar pode acabar complicando a implementação. Ademais, estudos mostram que grande parte dos padrões podem ser simplificados ou eliminados. Como, professor? utilizando-se recursos diretos das próprias linguagens de programação, como em LISP e DYLAN. Portanto, os Design Patterns podem ser simplesmente um indicativo de que algumas linguagens de programação falham em oferecer determinadas características. Cada padrão de projeto é organizado segundo quatro elementos: Nome, Problema, Solução e
 Consequências. Nome simplesmente identifica o padrão; Problema descreve a condição em que ele deve ser aplicado; Solução descreve como resolvê-lo; e Consequência descreve os impactos.
 
 Por fim, algumas observações importantes! Esses 23 Design Patterns somente podem ser utilizados em projetos de tecnologia da informação? Claro, eles são padrões de projeto de software. Esses 23 Design Patterns somente podem ser utilizados em projetos orientados a objetos? Sim, também. Pessoal, Padrões GOF somente com Orientação a Objetos! Padrões de Projeto, em geral, podem usar qualquer paradigma ou linguagem!
@@ -147,7 +147,7 @@ Evitar o acoplamento dando oportunidade a outros objetos...
 
 PROVAVELMENTE SERÁ.
 
-CHAIN OF  RESPONSABILITY
+CHAIN OF RESPONSABILITY
 
 FALOU EM.
 

@@ -178,13 +178,13 @@ Chegamos ao conceito de Modificadores de Acesso! Eles são utilizados para modif
 
 Pessoal, esses Modificadores de Acesso determinam quão acessíveis são esses elementos. Vamos vê-los agora em mais detalhes:
 
-§  public : essa instrução indica que a classe, método ou atributo assim declaradas podem ser acessadas em qualquer lugar e a qualquer momento da execução do programa – é o modificador menos restritivo.
+§ public : essa instrução indica que a classe, método ou atributo assim declaradas podem ser acessadas em qualquer lugar e a qualquer momento da execução do programa – é o modificador menos restritivo.
 
-§  private : essa instrução indica que métodos ou atributos (classes, não) assim declaradas podem ser acessadas apenas dentro da classe que os criou. Subclasses herdam-nos, mas não os acessam – é o modificador mais restritivo1.
+§ private : essa instrução indica que métodos ou atributos (classes, não) assim declaradas podem ser acessadas apenas dentro da classe que os criou. Subclasses herdam-nos, mas não os acessam – é o modificador mais restritivo1.
 
-§  protected : essa instrução indica que métodos ou atributos (classes, não) assim declaradas somente podem ser acessadas dentro do pacote em que está contida ou por subclasses no mesmo pacote.
+§ protected : essa instrução indica que métodos ou atributos (classes, não) assim declaradas somente podem ser acessadas dentro do pacote em que está contida ou por subclasses no mesmo pacote.
 
-§  default : também chamado friendly, não há palavra para esse modificador porque ele é, na verdade, a ausência de um modificador. Indica-se que a classe, método ou atributo podem ser acessadas por classes do mesmo pacote.
+§ default : também chamado friendly, não há palavra para esse modificador porque ele é, na verdade, a ausência de um modificador. Indica-se que a classe, método ou atributo podem ser acessadas por classes do mesmo pacote.
 
 Especificador
 
@@ -281,9 +281,9 @@ A palavra Polimorfismo vem do grego: muitas formas. Trata-se da capacidade de um
 
 Existem dois tipos de polimorfismo:
 
-§  Polimorfismo Estático: ocorre quando uma classe possui métodos com mesmo nome, entretanto assinaturas diferentes, i.e., métodos de uma mesma classe se sobrecarregando. Pode ser chamada também de Sobrecarga ou Overloading. Ocorre em Tempo de Compilação e alguns não o consideram um tipo de polimorfismo, porque a assinatura é diferente.
+§ Polimorfismo Estático: ocorre quando uma classe possui métodos com mesmo nome, entretanto assinaturas diferentes, i.e., métodos de uma mesma classe se sobrecarregando. Pode ser chamada também de Sobrecarga ou Overloading. Ocorre em Tempo de Compilação e alguns não o consideram um tipo de polimorfismo, porque a assinatura é diferente.
 
-§  Polimorfismo Dinâmico: ocorre quando uma classe possui um método com mesmo nome e mesma assinatura que um método de sua superclasse, i.e., o método da classe-filha sobrescreve o método da classe-pai. Pode ser chamada também de Sobrescrita, Overriding, Redefinição ou Sobreposição. Ocorre em Tempo de Execução e é um corolário do conceito de herança.
+§ Polimorfismo Dinâmico: ocorre quando uma classe possui um método com mesmo nome e mesma assinatura que um método de sua superclasse, i.e., o método da classe-filha sobrescreve o método da classe-pai. Pode ser chamada também de Sobrescrita, Overriding, Redefinição ou Sobreposição. Ocorre em Tempo de Execução e é um corolário do conceito de herança.
 Professor, o que você quer dizer com mesma assinatura e assinatura diferente? É a mesma quantidade, tipo e ordem dos parâmetros. Em outras palavras:
 
 
