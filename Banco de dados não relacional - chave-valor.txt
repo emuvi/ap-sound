@@ -1,4 +1,4 @@
-Capítulo. Banco de dados não relacional chave-valor.
+Capítulo. Banco de dados não relacional - chave-valor.
 
 Um banco de dados não relacional chave-valor é um tipo de banco de dados NoSQL (Not Only SQL) que armazena e recupera dados na forma de pares de chave-valor. Nesse modelo, os dados são organizados em uma estrutura simples, onde cada valor é associado a uma chave única. Os bancos de dados chave-valor são conhecidos por sua simplicidade, alta escalabilidade e desempenho. Aqui estão algumas características importantes desses bancos de dados:
 

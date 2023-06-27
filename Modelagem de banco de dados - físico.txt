@@ -1,4 +1,4 @@
-Capítulo. Modelagem de banco de dados físico.
+Capítulo. Modelagem de banco de dados - físico.
 
 
 A modelagem de banco de dados físico é a etapa do processo de modelagem em que o modelo conceitual é convertido em um esquema físico específico para um sistema de gerenciamento de banco de dados (SGBD) escolhido. É nessa fase que os detalhes de implementação, como tipos de dados, índices, chaves primárias e estruturas de armazenamento, são definidos. Aqui estão os passos envolvidos na modelagem de banco de dados físico:

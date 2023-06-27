@@ -1,4 +1,4 @@
-Capítulo. Banco de dados não relacional orientado a documento.
+Capítulo. Banco de dados não relacional - orientado a documento.
 
 Um banco de dados não relacional orientado a documento é um tipo de banco de dados NoSQL (Not Only SQL) que armazena e recupera dados em formato de documentos. Diferentemente dos bancos de dados relacionais, que organizam os dados em tabelas com estruturas predefinidas, os bancos de dados orientados a documento permitem que os dados sejam armazenados em documentos flexíveis, como JSON ou BSON (Binary JSON). Esses documentos podem ter estruturas diferentes, o que os torna especialmente adequados para dados sem uma estrutura fixa.
 

@@ -1,4 +1,4 @@
-Capítulo. Banco de dados não relacional time series.
+Capítulo. Banco de dados não relacional - time series.
 
 
 Um banco de dados não relacional de séries temporais é um tipo específico de banco de dados NoSQL (Not Only SQL) projetado para armazenar e consultar dados sequenciais em função do tempo. Ele é otimizado para trabalhar com dados que possuem marcação temporal, como registros de sensores, logs de eventos, métricas de monitoramento e dados de séries temporais em geral. Esses bancos de dados oferecem recursos especializados para lidar com a alta ingestão de dados e consultas eficientes baseadas em tempo. Aqui estão algumas características importantes dos bancos de dados não relacionais de séries temporais:

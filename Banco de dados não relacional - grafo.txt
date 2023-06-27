@@ -1,4 +1,4 @@
-Capítulo. Banco de dados não relacional grafo.
+Capítulo. Banco de dados não relacional - grafo.
 
 
 Um banco de dados não relacional grafo é um tipo de banco de dados NoSQL (Not Only SQL) que armazena e recupera dados usando estruturas de grafos. Nesse modelo, os dados são representados como nós (vertices) e relacionamentos (arestas) entre esses nós. Esses bancos de dados são projetados para modelar e consultar relacionamentos complexos de maneira eficiente. Aqui estão algumas características importantes dos bancos de dados não relacionais grafo:
