@@ -1,7 +1,5 @@
 Capítulo. Estrutura de Arquivos.
 
-De Pointel - PiWiKi
-
 
 É senso comum que há a necessidade de salvar ou guardar nossos dados ou programas. E onde podemos fazer isso? Em geral, em dispositivos persistentes (Discos, PenDrive, Fitas, etc). O armazenamento de pequenos volumes de dados, via de regra, não encerra grandes problemas no que diz respeito à distribuição dos registros dentro de um arquivo.
 À medida que cresce o volume de dados, a frequência ou a complexidade dos acessos, crescem também os problemas de eficiência do armazenamento dos arquivos e do acesso a seus registros, sendo a sofisticação das técnicas de armazenamento e recuperação de dados uma consequência da necessidade de acesso rápido a grandes arquivos ou arquivos muito solicitados.

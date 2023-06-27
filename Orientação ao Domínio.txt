@@ -1,7 +1,5 @@
 Capítulo. Orientação ao Domínio.
 
-De Pointel - PiWiKi
-
 
 Design Orientado ao Domínio (Domain-Driven Design – DDD)
 Um domínio geralmente é mais extenso do que alguns objetos e, para torná-lo mais gerenciável, o DDD divide um domínio em subdomínios. O termo DDD 'domínio do problema' é usado para definir uma área funcional dentro de um contexto como uma organização ou departamento.

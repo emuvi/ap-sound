@@ -16,14 +16,12 @@ def adjust_empty_lines(text):
     return result
 
 
-def adjust_chapter(text):
+def adjust_chapter(text, path):
     print('Ajustando capítulos...')
     text[0] = text[0].strip()
-    if not text[0].startswith('Capítulo. '):
-        text[0] = 'Capítulo. ' + text[0]
-    if not text[0].endswith('.'):
-        text[0] = text[0] + '.'
-    text[0] = text[0] + '\n'
+    main_title = 'Capítulo. ' + os.path.splitext(os.path.basename(path))[0] + '.\n'
+    if not text[0] == main_title:
+        text[0] = main_title
     return text
 
 
@@ -54,15 +52,15 @@ def read_text(path):
         return file.readlines()
 
 
-def adjust_text(text):
+def adjust_text(text, path):
     print('Ajustando: ' + path)
     text = adjust_empty_lines(text)
-    text = adjust_chapter(text)
+    text = adjust_chapter(text, path)
     text = adjust_items(text)
     return text
 
 
-def save_text(path, text):
+def save_text(text, path):
     print('Salvando: ' + path)
     with open(path, 'w', encoding="utf-8") as file:
         file.writelines(text)
@@ -70,4 +68,4 @@ def save_text(path, text):
 
 if __name__ == '__main__':
     for path in list_paths():
-        save_text(path, adjust_text(read_text(path)))
+        save_text(adjust_text(read_text(path), path), path)
