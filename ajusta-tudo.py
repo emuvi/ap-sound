@@ -4,14 +4,14 @@ import os
 def adjust_empty_lines(text):
     print('Ajustando linhas vazias...')
     result = []
-    empty = 0
+    empty = 3
     for line in text:
         line = line.strip()
-        if line == '':
+        if not line:
             empty += 1
         else:
             empty = 0
-        if empty < 2:
+        if empty <= 2:
             result.append(line + '\n')
     return result
 
