@@ -1,0 +1,298 @@
+Capítulo. Matérias do Analista de Tecnologia.
+
+Tópico 1. Segurança da Informação.
+
+Item 1. ISO 27000 – Confiabilidade, integridade e disponibilidade.
+
+Item 2. Mecanismos de segurança.
+
+Item 2.1. Criptografia.
+
+Item 2.1.1. Criptografia simétrica.
+
+Item 2.1.1. Criptografia assimétrica.
+
+Item 2.1.3. Algoritmos de criptografia em detalhes.
+
+Item 2.2. Assinatura digital.
+
+2.3. Garantia de integridade.
+
+2.4. Controle de acesso.
+
+2.5. Certificação digital.
+
+2.6. ICP-Brasil.
+
+3. Gerência de riscos.
+
+3.1. Ameaça, vulnerabilidade e impacto.
+
+4. Políticas de segurança.
+
+4.1. NBR ISO/IEC 27002:2005.
+
+4.2. NBR ISO/IEC 27001:2013.
+
+4.3. NBR ISO/IEC 15408.
+
+5. Políticas de senhas.
+
+5.1. Autenticação de dois fatores (MFA).
+
+6. Autenticação e autorização.
+
+6.1. OAuth 2.
+
+6.2. JWT.
+
+6.3. SSO.
+
+6.4. Open ID Connect.
+
+6.5. SAML.
+
+7. OWASP Top 10.
+
+7.1. O que mudou no Top 10 em 2021.
+
+
+Processos de Desenvolvimento e Sustentação de Software.
+
+1. Gerenciamento de Produtos de Software.
+
+1.1. Gerenciamento de produtos com métodos ágeis
+
+1.2. Scrum
+
+1.3. Kanban
+
+1.4. XP
+
+1.5. Lean
+
+2. Gerenciamento de serviços (ITIL V4).
+
+Tecnologia.
+
+1. Banco de dados.
+
+1.1. Arquitetura de banco de dados: relacional (PostgreSQL, Oracle, SqlServer), não relacional (orientado a documento, chave-valor, grafo, colunar, time series).
+
+1.2. Modelagem de banco de dados: físico, lógico e conceitual.
+
+1.3. Álgebra relacional, SQL/ANSI e linguagens procedurais embarcadas.
+
+1.4. Gestão de banco de dados.
+
+1.4.1. Controle de acesso, usuário, cálculo volumétrico, replicação, cluster, particionamento e esquemas.
+
+2. Servidores web e de aplicação.
+
+2.1. Wildfly, IIS, Apache, Nginx.
+
+3. Linguagens de programação.
+
+3.1. Java, JavaScript, TypeScript, Python, PHP, C# e Go.
+
+4. Tecnologias e práticas frontend web: HTML, CSS, Ajax, frameworks (Bootstrap, Angular, VueJS e React).
+
+4.1. Padrões de frontend.
+
+4.1.1. SPA e PWA.
+
+4.2. Design de interface e de experiência do usuário, responsividade, usabilidade e acessibilidade, prototipação, testes A/B.
+
+5. Tecnologias backend.
+
+5.1. Frameworks: Hibernate, .NET Core, Quarkus, SpringBoot, Flask, Django, NodeJS, Express e NestJS.
+
+5.2 Especificações: JEE (JPA, EJB, JSF, JMS e JTA), JVM.
+
+6. Tecnologia de desenvolvimento móvel: Android (Kotlin), IOS (Swift), Flutter, ReactNative, Ionic, Xamarin e Banco de Dados SQLite.
+
+7. Ferramentas de gestão de configuração: versionamento (Git e GitLab), CI/CD (GitLab CI).
+
+8. Protocolos HTTPS, SSL/TLS, HTTP/2, gRPC e WebSockets.
+
+9. Ferramentas de integração assíncrona.
+
+9.1. Protocolos AMQP e MQTT.
+
+9.2. Ferramentas Kafka, NATS Streaming, ActiveMQ, RabbitMQ e WebSphereMQ.
+
+10. Containers.
+
+10.1. Docker
+
+10.2. Orquestração de Containers.
+
+10.2.1. Kubernetes
+
+10.2.2. OpenShift
+
+## Engenharia de Software.
+
+1. Engenharia de requisitos.
+
+1.1. Gestão de backlog.
+
+1.2. Produto mínimo viável (MVP).
+
+1.3. Gestão de Dívida Técnica.
+
+1.4. Técnicas de priorização, de estimativas (Análise de Pontos de Função, Story Points).
+
+2. Análise e projeto.
+
+3. Implementação: orientação a objetos, estrutura de dados e algoritmos.
+
+3.1. Estrutura de Arquivos
+
+3.2. Estrutura de Dados
+
+3.3. Orientação a Objetos
+
+3.4. Métodos de Ordenação
+
+3.5. Complexidade de Algoritmos
+
+3.6. Pesquisa de Dados
+
+4. Qualidade.
+
+4.1. Análise estática de código.
+
+4.2. Teste unitário.
+
+4.3. Mock, stubs.
+
+4.4. Teste de integração.
+
+4.5. Teste de RNF (carga, estresse).
+
+4.6. Revisão e programação por pares.
+
+5. Gestão de configuração.
+
+5.1. DevOps, modelo de versionamento, merge, branch, pipeline, CI/CD e database migration.
+
+5.1.1. DevOps
+
+5.1.2. Controle de Versão
+
+6. Infraestrutura.
+
+6.1. Infraestrutura como código (IAC).
+
+6.2. Linguagens de script (Ansible, Terraform, ShellScript).
+
+7. Resiliência de aplicações.
+
+7.1. Técnica (Cache, Fallback, Circuitbrake, Disaster Recovery, Contingência, Balanceamento de Carga Global de Servidores (GSLB), Site Ativo X Ativo).
+
+8. Monitoração e observabilidade.
+
+9. Low-code e no-code software development.
+
+Arquitetura.
+
+1. Padrões de projeto (GoF, de criação, estruturais, comportamentais)
+
+1.1. Padrões de Projeto
+
+2. Padrões GRASP (controller, expert).
+
+3. SOLID e Clean Code.
+
+4. Tecnologias de integração.
+
+4.1. Workflow.
+
+4.2. Web services.
+
+4.2.1. RESTful, SOAP e GraphQL.
+
+4.3. Mensageria, stream e CORBA.
+
+5. Design de software.
+
+5.1. DDD - Domain-Driven Design.
+
+Orientação ao Domínio
+
+5.2. Arquitetura hexagonal.
+
+5.3. Microsserviços (orquestração de serviços e API gateway) e containers.
+
+5.3.1. Padrões de microsserviços (SAGA e CQRS).
+
+6. Transações distribuídas.
+
+Nuvem.
+1. 12 factories.
+
+2. Orientação a serviço.
+
+2.1. IaaS - Infraestrutura com Serviço.
+
+2.2. SaaS – Software como Serviço.
+
+2.3. PaaS – Plataforma como Serviço.
+
+Tópicos Avançados.
+1. Inteligência artificial.
+
+1.1. Análise de dados (Pandas, NumPy, Jupiter, R).
+
+1.2. Aprendizado de máquina.
+
+1.2.1. Técnicas de classificação.
+
+1.2.2. Técnicas de regressão.
+
+1.2.3. Técnicas de agrupamento.
+
+1.2.4. Técnicas de redução de dimensionalidade.
+
+1.2.5. Técnicas de associação.
+
+1.2.6. Sistemas de recomendação.
+
+1.3. Processamento de linguagem natural (PLN).
+
+1.4. Visão computacional.
+
+1.5. Deep learning.
+
+2. Ciência de dados.
+
+2.1. Big Data.
+
+2.1.1. Fundamentos.
+
+2.1.2. Armazenamento de big data.
+
+2.1.3. Pipeline de dados.
+
+2.1.4. Processamento distribuído.
+
+2.1.5. Conceitos de data lake.
+
+2.2. Armazenamento de Dados.
+
+2.2.1. Sistemas de arquivos distribuídos.
+
+2.2.2. Armazenamento orientado a objeto (object store).
+
+2.2.3. Sistemas de indexação.
+
+2.3. Processamento de Dados.
+
+2.3.1. Conceitos de processamento massivo e paralelo.
+
+2.3.2. Processamento em lote (batch).
+
+2.3.3. Processamento em tempo real (real time).
+
+2.3.4. Processamento MapReduce

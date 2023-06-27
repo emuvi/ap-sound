@@ -1,0 +1,49 @@
+﻿
+
+
+
+	
+	
+	
+	
+	Estrutura de Arquivos
+	
+		De Pointel - PiWiKi
+		
+		
+		
+		
+		É senso comum que há a necessidade de salvar ou guardar nossos dados ou programas. E onde podemos fazer isso? Em geral, em dispositivos persistentes (Discos, PenDrive, Fitas, etc). O armazenamento de pequenos volumes de dados, via de regra, não encerra grandes problemas no que diz respeito à distribuição dos registros dentro de um arquivo.
+À medida que cresce o volume de dados, a frequência ou a complexidade dos acessos, crescem também os problemas de eficiência do armazenamento dos arquivos e do acesso a seus registros, sendo a sofisticação das técnicas de armazenamento e recuperação de dados uma consequência da necessidade de acesso rápido a grandes arquivos ou arquivos muito solicitados.
+A maneira intuitiva de armazenar um arquivo consiste na distribuição dos seus registros em uma ordem arbitrária, um após o outro, dentro da área destinada. Esta ordem pode ser, por exemplo, aquela na qual os registros são gerados, causando dificuldade na localização e perda de eficiência, mas esta técnica é bastante usada, principalmente durante as fases preliminares da geração de um arquivo.
+Quando escrevemos um programa para gerar um arquivo de dados, costumamos agrupar os campos que fornecem informações sobre um mesmo indivíduo em um registro. Um arquivo é formado por uma coleção de registros lógicos, cada um deles representando um objeto ou entidade. E o que seria um registro lógico? É uma sequência de itens, sendo cada item chamado campo ou atributo.
+Cada item corresponde a uma característica ou propriedade do objeto representado. Existem três formas de acessar arquivos: sequencial, direta ou indexado. No primeiro caso, os registros são lidos em sequência, um após o outro. A cada registro lido o indicador de posição de arquivo é avançado para que a próxima leitura ocorra iniciando naquele ponto.
+No segundo caso, pode-se acessar qualquer posição do arquivo, para tanto é necessário preciso ajustar o indicador de posição do arquivo para onde deseja-se realizar uma operação de leitura/escrita. No terceiro caso, o arquivo é visto como um conjunto de registros indexados por uma chave.
+
+BITMAPS
+
+Nesta aula vamos aprender um pouco mais sobre indexação utilizando mapas de bits, os bitmaps. Não estamos falando do formato de imagem que todos devem conhecer, bpm, muito utilizado antes de haver algoritmos de compressão, mas de uma estrutura de indexação que facilita o acesso a informações disponibilizadas em bancos de dados.
+Antes de apresentar os bitmaps e como são utilizados para recuperar informações, temos que relembrar alguns conceitos de bancos de dados. Uma tabela é definida por suas colunas e por suas entradas (linhas) com os dados armazenados, chamadas de tuplas. Cada coluna apresenta uma característica da tabela, enquanto cada tupla apresenta uma observação da tabela. Para facilitar, vamos criar uma tabela de exemplo, representando “Banda”.
+Ainda relembrando um pouco de banco de dados, se quisermos buscar toda as bandas inglesas, podemos realizar a consulta abaixo:
+SELECT * FROM BANDA WHERE PAIS = ‘Inglaterra’
+E se quiséssemos saber quais são dos EUA e da Inglaterra? Teríamos a consulta a seguir SELECT * FROM BANDA WHERE PAIS = ‘Inglaterra’ OR PAIS = ‘EUA’
+As consultas funcionam normalmente, mas para realizá-las, o sistema gerenciador de banco de dados (SGDB) deve percorrer todas as tuplas (linhas/observações) e comparar ‘Inglaterra’ com o valor da coluna ‘PAIS’, na primeira consulta, e com ‘Inglaterra’ e ‘EUA’ na segunda. Essas “varreduras”, chamadas==2d4a97==                                de FULL TABLE SCAN, são muito custosas para o banco e, dependendo do tamanho da tabela, podem levar a um tempo excessivamente grande para serem executadas. Um modo de acessar de forma mais direta, sem necessidade de realizar pesquisas custosas é a criação de índices. Existem muitas técnicas para criar índices e uma delas é a utilização dos bitmaps, ou ainda, mapas de bits.
+Um bitmap deve indicar quais tuplas possuem um certo valor para a coluna escolhida para se criar o índice. Se consultas como a que mostramos for muito comum, é válido criarmos um índice para a coluna ‘PAIS’ e facilitar o acesso.
+O bitmap é uma tabela onde as linhas são os possíveis valores da coluna selecionada para criar o índice (nesse caso, todos os valores de ‘PAIS’) e as colunas são os números da tuplas (ROWID). Para cada linha do bitmap, serão preenchidos os valores 0 e 1 caso o valor de ‘PAIS’ da referida tupla da tabela ‘Banda’ ser ou não daquele país. Ou seja, para o caso específico, teremos três tuplas no bitmap, cada uma correspondente a um valor de ‘PAIS’: EUA, Inglaterra e Suécia. As colunas do bitmap são os números das tuplas da tabela ‘Banda’, ou seja: 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10. Professor, não entendi nadinha! Para visualizar melhor como um bitmap é construído, vamos criar um representando a coluna ‘PAIS’:
+Para entender o preenchimento temos que nos remeter à tabela original ‘Banda’. Percebam que as bandas da Inglaterra são as de número 2, 3, 6, e 9. Desse modo, no bitmap, preenchemos com valor 1 as colunas correspondentes aos números (ROWID) das tuplas na tabela original. Da mesma forma se faz com EUA e Suécia. Percebam também que, uma vez uma linha preenchida com 1, as outras colunas serão obrigatoriamente 0, pois uma banda somente pode ser de um país e o índice deve refletir o mesmo.
+Professor, e isso serve para... Se quisermos realizar as consultas anteriores utilizando os índices em bitmap temos que executar uma varredura completa, assim como antes de termos o índice, mas utilizando os bitmaos não haverá comparações de strings, mas somente uma avaliação bit a bit, que é muito mais performática. Ademais, é possível compactar os bitmaps com algoritmos que reduzem bastante o espaço exigido dessas estruturas.
+Os bitmaps são muito utilizados para criação de índices em SGDBs, Oracle, PostgreSQL, Teradata, dentre outros. O seu uso é mais premente e performático em sistemas OLAP (Online Analytical Processing), pois nestes a necessidade de atualização dos dados é muito menor, algo que é relativamente custoso no uso de bitmaps, pois, qualquer alteração nas colunas onde há índices criados, deve-se atualizar os bits do mapa.
+Somente como último exemplo, vamos criar um bitmap para outra coluna da tabela 'Banda', agora para a coluna 'Estilo'. Quantas linhas o bitmap dessa coluna terá? E quantas colunas?
+Se fizermos uma pesquisa para saber quais bandas são de punk rock ou indie rock, pelo bitmap podemos rapidamente verificar que são as tuplas 1, 3, 4, 7, 9 e 10. Um computador pode ler vários bits de uma vez ao vez de realizar a comparação um a um, aumentando muito a performance de pesquisas que utilizam o índice em bitmap.
+Mostramos a criação de bitmaps para somente uma coluna, mas é possível criamos para mais de uma. Esses índices são interessantes quando consultas frequentes com mais de uma coluna. Um exemplo seria consultar bandas que são da Inglaterra que tocam o estilo indie rock. Para construir um índice com duas ou mais colunas, temos que representar todas as combinações possíveis entre os valores das colunas e preencher os bits com o valor 1 nas tuplas onde os dois valores ocorrem simultaneamente. Como exemplo, vamos criar um índice para PAISESTILO:
+A consulta das bandas inglesas que tocam indie rock, portanto, são as tuplas 1 e 4.
+Bitmaps, portanto, são estruturas utilizadas como índices em bancos de dados para facilitar consultas, principalmente com colunas com pouca cardinalidade, ou seja, poucos valores possíveis.
+
+HASHING
+
+As Tabelas de Dispersão, também conhecidas como Tabelas de Espelhamento ou Tabelas Hashing, armazenam uma coleção de valores, sendo que cada valor está associado a uma chave. Tais chaves têm que ser todas distintas e são usadas para mapear os valores na tabela. Esse mapeamento é feito por uma função de hashing, que chamaremos de h.
+Por exemplo, podemos implementar uma tabela de dispersão usando um vetor com oito posições e utilizar h(x) = x MOD 8 como função de hashing1. Dizemos que h(k) é a posição original da chave k e é nessa posição da tabela que a chave k deve ser inserida. A imagem abaixo ilustra a inserção de uma coleção de valores com suas respectivas chaves numa Tabela de Dispersão.
+Observe que o valor Gil foi colocado na posição 7 da tabela, pois a chave associada a Gil é 31 e h(31) = 7. O que aconteceria se tratássemos de inserir nessa tabela o valor Ivo com chave 33? Observe que h(33) = 1, mas a posição 1 da tabela já está ocupada. Dizemos que as chaves 25 e 33 colidiram. Mais precisamente, duas chaves x e y colidem se h(x) = h(y).
+Note que o problema da colisão de chaves ocorre porque, na maioria dos casos, o domínio das chaves é maior que a quantidade de posições da tabela. Sendo assim, pelo princípio da casa de pombos, qualquer função do conjunto das chaves para o conjunto das posições da tabela não é injetora.
+Não é aceitável recusar a inserção de uma chave que colida com outra já existente na tabela se ela ainda tiver posições livres. Precisamos de alguma estratégia para lidar com as colisões de chaves. Há diversas técnicas para lidar com as colisões, tais como Hashing Fechado ou Hashing Aberto. O Método de Hashing é recomendado para um grande número de dados que possuam faixas de valores variáveis.
+
