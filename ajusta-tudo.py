@@ -35,11 +35,16 @@ def adjust_items(text):
         if initial_space > 0:
             initial_part = line[:initial_space]
             only_numbers_or_dots = True
+            there_is_a_dot = False
+            there_is_a_number = False
             for c in initial_part:
                 if not c.isdigit() and c != '.':
                     only_numbers_or_dots = False
-                    break
-            if only_numbers_or_dots:
+                elif c.isdigit():
+                    there_is_a_number = True
+                elif c == '.':
+                    there_is_a_dot = True
+            if only_numbers_or_dots and there_is_a_number and there_is_a_dot:
                 text[i] = "Item. " + text[i]
     return text
 
