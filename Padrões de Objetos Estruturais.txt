@@ -1,34 +1,23 @@
+Capítulo. Padrões Estruturais.
+
+De Pointel - PiWiKi
 
 
+Índice
 
+Item. 1 Adapter
 
-	
-	
-	
-	
-	Padrões Estruturais
-	
-		De Pointel - PiWiKi
-		
-		
-		
-		
-		Índice
+Item. 2 Bridge
 
-1 Adapter
+Item. 3 Composite
 
-2 Bridge
+Item. 4 Decorator
 
-3 Composite
+Item. 5 Façade
 
-4 Decorator
+Item. 6 Flyweight
 
-5 Façade
-
-6 Flyweight
-
-7 Proxy
-
+Item. 7 Proxy
 
 
 Adapter
@@ -55,7 +44,7 @@ Por meio de uma árvore de forma transparente para o cliente – ele não precis
 
 Decorator
 
-Esse padrão anexa responsabilidades adicionais a um objeto dinamicamente. Fornece uma alternativa flexível em relação à herança para estender funcionalidades. 
+Esse padrão anexa responsabilidades adicionais a um objeto dinamicamente. Fornece uma alternativa flexível em relação à herança para estender funcionalidades.
 Esse padrão de projeto deve ser utilizado quando se quer adicionar responsabilidades a objetos individuais dinâmica e transparentemente, isto é, sem afetar outros objetos. Também é utilizado quando extensões por subclasses forem impraticáveis, tendo em vista o possível número de extensões independentes. Considerem a hipótese de um Subway! Usando-se herança, cria-se uma classe abstrata sanduíche e várias classes concretas para implementá-la.
 No entanto, há sanduíches com almôndega, sem queijo, com tomate, sem cebola, etc. É customizável, portanto é completamente inviável construir classes concretas para cada tipo de sanduíche, devido a gigantesca quantidade de combinações. O Padrão Decorator sugere que o objeto sanduíche anexe diversas responsabilidades dinamicamente. Dessa forma, em tempo de execução, à medida que se adicione um novo ingrediente, cria-se mais uma responsabilidade.
 Ao contrário da herança, que aplica funcionalidades a todos os seus objetos, o Decorator aplica funcionalidades apenas a um objeto específico.
@@ -78,6 +67,5 @@ Proxy
 Esse padrão provê um substituto ou ponto através do qual um objeto pode controlar o acesso a outro objeto.
 Esse padrão de projeto deve ser utilizado quando houver uma necessidade de uma referência mais versátil ou sofisticada para um objeto do que um simples ponteiro. Por exemplo, proxies virtuais criam objetos caros por demanda e proxies de proteção controlam o acesso ao objeto original. Considerem a hipótese de um sistema que acesse um banco de dados por meio de uma classe de conexão.
 No entanto, por medidas de segurança, vamos supor que se deseja que esse sistema não tenha acesso direto ao banco de dados referido. Dessa forma, o usuário se conectará ao Proxy (isto é, a classe substituta ou suplente) e o Proxy que irá se conectar ao banco de dados. Claro, tudo isso ocorrendo de maneira transparente para o usuário.
-
 
 

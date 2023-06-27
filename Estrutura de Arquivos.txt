@@ -1,19 +1,9 @@
+Capítulo. Estrutura de Arquivos.
+
+De Pointel - PiWiKi
 
 
-
-
-	
-	
-	
-	
-	Estrutura de Arquivos
-	
-		De Pointel - PiWiKi
-		
-		
-		
-		
-		É senso comum que há a necessidade de salvar ou guardar nossos dados ou programas. E onde podemos fazer isso? Em geral, em dispositivos persistentes (Discos, PenDrive, Fitas, etc). O armazenamento de pequenos volumes de dados, via de regra, não encerra grandes problemas no que diz respeito à distribuição dos registros dentro de um arquivo.
+É senso comum que há a necessidade de salvar ou guardar nossos dados ou programas. E onde podemos fazer isso? Em geral, em dispositivos persistentes (Discos, PenDrive, Fitas, etc). O armazenamento de pequenos volumes de dados, via de regra, não encerra grandes problemas no que diz respeito à distribuição dos registros dentro de um arquivo.
 À medida que cresce o volume de dados, a frequência ou a complexidade dos acessos, crescem também os problemas de eficiência do armazenamento dos arquivos e do acesso a seus registros, sendo a sofisticação das técnicas de armazenamento e recuperação de dados uma consequência da necessidade de acesso rápido a grandes arquivos ou arquivos muito solicitados.
 A maneira intuitiva de armazenar um arquivo consiste na distribuição dos seus registros em uma ordem arbitrária, um após o outro, dentro da área destinada. Esta ordem pode ser, por exemplo, aquela na qual os registros são gerados, causando dificuldade na localização e perda de eficiência, mas esta técnica é bastante usada, principalmente durante as fases preliminares da geração de um arquivo.
 Quando escrevemos um programa para gerar um arquivo de dados, costumamos agrupar os campos que fornecem informações sobre um mesmo indivíduo em um registro. Um arquivo é formado por uma coleção de registros lógicos, cada um deles representando um objeto ou entidade. E o que seria um registro lógico? É uma sequência de itens, sendo cada item chamado campo ou atributo.

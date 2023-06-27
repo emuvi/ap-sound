@@ -1,33 +1,25 @@
-	
-	
-	
-	Métodos de Ordenação
-	
+Capítulo. Métodos de Ordenação.
 
-		
-		
-		
-		
-		Métodos de Ordenação são algoritmos que têm o objetivo principal de posicionar os elementos de uma estrutura de dados em uma determinada ordem. Para que, professor? Ora, isso possibilita o acesso mais rápido e eficiente aos dados. Existem dezenas de métodos, todavia nessa aula veremos apenas os mais importantes: BubbleSort, QuickSort, InsertionSort, SelectionSort, MergeSort, ShellSort e HeapSort.
+
+Métodos de Ordenação são algoritmos que têm o objetivo principal de posicionar os elementos de uma estrutura de dados em uma determinada ordem. Para que, professor? Ora, isso possibilita o acesso mais rápido e eficiente aos dados. Existem dezenas de métodos, todavia nessa aula veremos apenas os mais importantes: BubbleSort, QuickSort, InsertionSort, SelectionSort, MergeSort, ShellSort e HeapSort.
 Antes de iniciar, vamos falar sobre o conceito de Estabilidade! Um método estável é aquele em que os itens com chaves iguais mantêm-se com a posição inalterada durante o processo de ordenação, i.e., preserva-se a ordem relativa dos itens com chaves duplicadas ou iguais. Métodos Estáveis: Bubble, Insertion e Merge; Métodos Instáveis: Selection, Quick, Heap e Shell. Vejamos um exemplo:
 Na imagem acima, foi colocado um sinal de aspas simples e duplas apenas para diferenciá-los, mas trata-se do mesmo número. Um algoritmo estável ordena todo o restante e não perde tempo trocando as posições de elementos que possuam chaves idênticas. Já um algoritmo instável ordena todos os elementos, inclusive aqueles que possuem chaves idênticas (sob algum outro critério).
 
 Índice
 
-1 BubbleSort (Troca)
+Item. 1 BubbleSort (Troca)
 
-2 InsertionSort (Inserção)
+Item. 2 InsertionSort (Inserção)
 
-3 SelectionSort (Seleção)
+Item. 3 SelectionSort (Seleção)
 
-4 QuickSort (Troca)
+Item. 4 QuickSort (Troca)
 
-5 ShellSort (Inserção)
+Item. 5 ShellSort (Inserção)
 
-6 MergeSort (Intercalação)
+Item. 6 MergeSort (Intercalação)
 
-7 HeapSort (Seleção)
-
+Item. 7 HeapSort (Seleção)
 
 
 BubbleSort (Troca)
@@ -108,7 +100,7 @@ Complexidade do Algoritmo:
 
 Melhor caso: O ( n log de n )
 
-Caso médio: Depende do gap 
+Caso médio: Depende do gap
 
 Pior caso: O ( n ao quadrado )
 

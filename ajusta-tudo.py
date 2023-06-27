@@ -27,6 +27,23 @@ def adjust_chapter(text):
     return text
 
 
+def adjust_items(text):
+    print('Ajustando itens...')
+    for i in range(len(text)):
+        line = text[i]
+        initial_space = line.find(' ')
+        if initial_space > 0:
+            initial_part = line[:initial_space]
+            only_numbers_or_dots = True
+            for c in initial_part:
+                if not c.isdigit() and c != '.':
+                    only_numbers_or_dots = False
+                    break
+            if only_numbers_or_dots:
+                text[i] = "Item. " + text[i]
+    return text
+
+
 def list_paths():
     return [p for p in os.listdir('.') if p[-4:] == '.txt']
 
@@ -41,6 +58,7 @@ def adjust_text(text):
     print('Ajustando: ' + path)
     text = adjust_empty_lines(text)
     text = adjust_chapter(text)
+    text = adjust_items(text)
     return text
 
 

@@ -1,7 +1,4 @@
-
-
-
-Complexidade de Algoritmos
+Capítulo. Complexidade de Algoritmos.
 
 Galera, por que estudamos a complexidade de algoritmos? Para determinar o custo computacional (tempo, espaço, etc) para execução de algoritmos. Em outras palavras, ela classifica problemas computacionais de acordo com sua dificuldade inerente. E importante entender isso para posteriormente estudarmos a complexidade de métodos de ordenação e métodos de pesquisa.
 
@@ -33,9 +30,9 @@ Quando dizemos que um algoritmo é O(n2), estamos querendo dizer que esse algori
 
 Nome - Notação
 
-Constante - 0 de ( 1 )  
+Constante - 0 de ( 1 )
 
-Logarítmica - O de ( log n )  
+Logarítmica - O de ( log n )
 
 Polilogarítmica - O de [ ( log n ) c ]
 
@@ -43,13 +40,13 @@ Linear - O de ( n )
 
 Linear Logarítmica - O de ( n log n )
 
-Quadrática - O de ( n elevado a 2 )  
+Quadrática - O de ( n elevado a 2 )
 
-Cúbica - O de ( n elevador a 3 )  
+Cúbica - O de ( n elevador a 3 )
 
 Polinomial - O de ( n elevado a c )
 
-Exponencial - O de ( c elevado a n )  
+Exponencial - O de ( c elevado a n )
 
 Fatorial - O de ( n ! )
 

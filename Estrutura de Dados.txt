@@ -1,19 +1,7 @@
+Capítulo. Estrutura de Dados.
 
 
-
-
-	
-	
-	
-	
-	Estrutura de Dados
-	
-		De Pointel - PiWiKi
-		
-		
-		
-		
-		Pessoal, um programa pode ser visto como uma especificação formal da solução de um problema. Wirth expressa esse conceito por meio de uma equação:
+Pessoal, um programa pode ser visto como uma especificação formal da solução de um problema. Wirth expressa esse conceito por meio de uma equação:
 
 PROGRAMA = ALGORITMO + ESTRUTURA DE DADOS
 
@@ -38,18 +26,17 @@ Em outras palavras, o nível semântico trata do comportamento de um tipo abstra
 
 Índice
 
-1 Vetores e Matrizes
+Item. 1 Vetores e Matrizes
 
-2 Lista Encadeada
+Item. 2 Lista Encadeada
 
-3 Pilhas
+Item. 3 Pilhas
 
-4 Filas
+Item. 4 Filas
 
-5 Árvore
+Item. 5 Árvore
 
-6 Grafos
-
+Item. 6 Grafos
 
 
 Vetores e Matrizes
@@ -124,13 +111,12 @@ Uma vez que chegou à FNAC, você pode observar cada uma das descrições de cor
 É assim que funcionam as Árvores B! Ao organizar os dados de forma específica, podemos aproveitá-las para que não desperdicemos nosso tempo buscando dados que tenham chance zero de armazenar os dados que estamos procurando. E a árvore já é construída de maneira a organizar os dados da melhor forma possível. Bacana, pessoal?
 E qual a diferença de uma Árvore B para uma Árvore B+? Galera, a principal diferença é que, em uma Árvore B, as chaves e os dados podem ser armazenados tanto nos nós internos da árvore quanto nas folhas da árvore, enquanto que em uma Árvore B+ as chaves podem ser armazenadas em qualquer nó, mas os dados só podem ser armazenados nas folhas.
 Por fim, vamos falar um pouco sobre Árvores AVL! Uma Árvore AVL (Adelson-Vesky e Landis) é uma Árvore Binária de Busca em que, para qualquer nó, a altura das subárvores da esquerda e da direita não podem ter uma diferença maior do que 1, portanto uma Árvore AVL é uma Árvore Binária de Busca autobalanceável. Calma que nós vamos ver isso em mais detalhes...
-Observem o Nó 3: a altura da subárvore da esquerda é 2 e da subárvore da direita também é 2. Vejamos agora o Nó 1: a altura da subárvore da esquerda é 1 e da subárvore da direita também é 1. E o Nó 5: a altura da subárvore da esquerda é 1 e da subárvore da direita é 0 (visto que ela não existe). Vocês podem ver todos os nós e não encontrarão subárvore da esquerda e direita com diferença maior que 1. 
+Observem o Nó 3: a altura da subárvore da esquerda é 2 e da subárvore da direita também é 2. Vejamos agora o Nó 1: a altura da subárvore da esquerda é 1 e da subárvore da direita também é 1. E o Nó 5: a altura da subárvore da esquerda é 1 e da subárvore da direita é 0 (visto que ela não existe). Vocês podem ver todos os nós e não encontrarão subárvore da esquerda e direita com diferença maior que 1.
 Uma Árvore AVL mantém seu equilíbrio de altura executando operações de rotação se algum dos nós violar a propriedade da diferença maior que 1. Exemplo 1: para a seguinte árvore, a propriedade da árvore AVL é violada no Nó 5, porque a subárvore esquerda possui altura 2, mas a subárvore da direita tem altura 0, então eles diferem em 2. Entenderam?
 Essa diferença de 2 é construída nos dois ramos esquerdos - Ramo 5-4 e Ramo 4-3. Concordam? Se a diferença de 2 for construída por dois ramos esquerdos, chamamos esse caso de um Caso Esquerdo- Esquerdo (Genial, né?). Neste caso, realizamos uma rotação à direita no Ramo 5-4 como mostrado na imagem abaixo de forma a rebalancear a árvore.
 Já na imagem abaixo, a Árvore AVL tem sua propriedade violada no Nó 8. A altura da subárvore esquerda é maior do que a altura da subárvore direita em 2. Essa diferença de 2 é construída por um ramo esquerdo (Ramo 8-4) e um ramo direito (Ramo 4-6), logo é um Caso Esquerdo-Direito. Para restaurar o equilíbrio de altura, executamos uma rotação esquerda seguida de uma rotação direita. Vejam...
 Então, galera, caso a árvore não esteja balanceada, é necessário seu balanceamento através de rotações. No Caso Esquerda-Esquerda, basta fazer uma rotação simples para direita no nó desbalanceado. No caso Esquerda-Direita, temos que fazer uma rotação dupla, i.e., faz-se uma rotação para esquerda no nó filho e uma rotação para direita no nó desbalanceado.
 No caso Direita-Direita, basta fazer uma rotação simples para a esquerda no nó desbalanceado. No caso Direita-Esquerda, temos que fazer uma rotação dupla, i.e., faz-se uma rotação para direita no nó filho, seguida de uma rotação para esquerda no nó desbalanceado. Bacana? Vocês entenderão isso melhor nos exercícios. Vamos ver agora a complexidade logarítmica dessas estruturas.
-
 
 
 ÁRVORE BINÁRIA  DE BUSCA
@@ -183,7 +169,6 @@ O ( log n )
 PIOR CASO
 
 O ( n )
-
 
 
 ÁRVORE B /  ÁRVORE AVL

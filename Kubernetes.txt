@@ -1,19 +1,7 @@
+Capítulo. Kubernetes.
 
 
-
-
-	
-	
-	
-	
-	Kubernetes
-	
-		De Pointel - PiWiKi
-		
-		
-		
-		
-		O Kubernetes é um sistema de código aberto que foi desenvolvido pelo Google para gerenciamento de aplicativos em containers através de múltiplos hosts de um cluster. Tem como principal objetivo facilitar a implantação de  aplicativos  baseados em  microservices.  Ele foi baseado na experiência do Google de muitos anos trabalho com containers, adaptando-o para se trabalhar com Docker.
+O Kubernetes é um sistema de código aberto que foi desenvolvido pelo Google para gerenciamento de aplicativos em containers através de múltiplos hosts de um cluster. Tem como principal objetivo facilitar a implantação de  aplicativos  baseados em  microservices.  Ele foi baseado na experiência do Google de muitos anos trabalho com containers, adaptando-o para se trabalhar com Docker.
 O Kubernetes é uma ferramenta de orquestração que oferece recursos de gerenciamento para containers, foi muito útil para ser utilizado até o Docker Swarm 1.0, pois disponibilizava muitos recursos que o Docker não disponibilizava até aquele momento, entre eles: Balanceamento de carga e movimento de containers sem perda de dados.
 
 A principal vantagem que se tem ao utilizar o Kubernetes é que você não está preso as limitações da API do Docker, logo você tem total liberdade já que o Kubernetes não foi desenvolvido especialmente para o Docker, você pode trocar a sua estrutura de Docker para Rockets e vice-versa por exemplo.
@@ -25,11 +13,10 @@ Pensando nisso a arquitetura de microsserviços adotou o Kubernetes como uma ref
 Como esses contêineres possuem o serviço e todas as suas dependências, eles se tornam independentes da infraestrutura, podendo ser facilmente migrados de uma cloud para outra, por exemplo, facilitando escalabilidade e deploy.
 Dentro desse contexto, o Kubernetes oferece várias funcionalidades, dentre eles temos a ideia central, isto é, o estado da aplicação. Para o Kubernetes existes dois estados de uma aplicação: o atual e o desejado. O estado atual da aplicação descreve a realidade. Por exemplo, quantas réplicas de um determinado serviço estão em execução, qual a versão em produção de cada serviço e por aí vai.
 
-Já o estado desejado descreve como o time ou a pessoa responsável pela aplicação deseja que ela esteja naquele momento. O Kubernetes implementa uma série de loops que ficam constantemente verificando se o estado atual é igual ao estado desejado. Esse papel é desempenhado pelos chamados Controllers. 
+Já o estado desejado descreve como o time ou a pessoa responsável pela aplicação deseja que ela esteja naquele momento. O Kubernetes implementa uma série de loops que ficam constantemente verificando se o estado atual é igual ao estado desejado. Esse papel é desempenhado pelos chamados Controllers.
 Quando um controller identifica que o estado atual é diferente do estado desejado, ele aciona outros componentes do sistema para fazer novamente com que o estado atual se iguale ao estado desejado. Todo esse processo de monitoramento e gestão do estado da aplicação, sem contar a execução da aplicação em si, exige uma série de componentes. É por isso que a arquitetura de um ambiente Kubernetes é baseada em um cluster de máquinas.
 
 Pessoal, o Kubernetes é composto por uma vários componentes, cada um com um propósito diferente. Para garantir que exista uma separação de responsabilidades e que o sistema seja resiliente, o kubernetes utiliza um cluster de máquinas para ser executado, logo as máquinas de um cluster são separadas em três tipos: Node, Etcd e Master.
-
 
 
 NODE

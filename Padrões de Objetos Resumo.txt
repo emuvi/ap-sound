@@ -1,19 +1,9 @@
+Capítulo. Padrões de Projeto.
+
+De Pointel - PiWiKi
 
 
-
-
-	
-	
-	
-	
-	Padrões de Projeto
-	
-		De Pointel - PiWiKi
-		
-		
-		
-		
-		Pessoal, vamos iniciar pelo básico! O que é um Padrão? É um modelo testado ou documentado para se alcançar um determinado objetivo. O autor Christopher Alexander afirma que cada padrão descreve um problema que ocorre repetidas vezes em nosso ambiente e o núcleo de sua solução, de tal forma que ela pode ser usada diversas vezes sem que seja realizada da mesma maneira. E o que seriam Padrões de Projeto (do inglês, Design Patterns)?
+Pessoal, vamos iniciar pelo básico! O que é um Padrão? É um modelo testado ou documentado para se alcançar um determinado objetivo. O autor Christopher Alexander afirma que cada padrão descreve um problema que ocorre repetidas vezes em nosso ambiente e o núcleo de sua solução, de tal forma que ela pode ser usada diversas vezes sem que seja realizada da mesma maneira. E o que seriam Padrões de Projeto (do inglês, Design Patterns)?
 Respondo: são descrições de objetos que se comunicam e classes que são customizadas para resolver um problema genérico em um contexto específico. Esses padrões nomeiam, abstraem e identificam aspectos comuns em uma estrutura e os torna úteis para que sejam realizados. Como é isso, professor? Suponham que haja uma fábrica de software que desenvolve diversos sistemas para as mais variadas áreas de negócio.
 
 Sabe-se que, mesmo em áreas aparentemente distintas ou contrastantes, grande parte dos problemas já possuem uma solução conhecida, formalmente documentada e exaustivamente testada, uma vez que se tratam de problemas recorrentes. Portanto, não há necessidade de se resolver o problema do início se já existe uma solução adequada. Assim sendo, os padrões de projeto são modelos para solucionar problemas gerais de projeto em um contexto particular.
@@ -55,7 +45,6 @@ Iterator
 Bridge
 
 Pessoal, se vocês estiverem com o tempo muito apertado, estudem apenas esses acima! Do mesmo modo, podemos afirmar que, dos 23 Padrões de Projeto, onze correspondem à 15% das questões de prova: Decorator, Flyweight, Proxy, Chain of Responsability, Interpreter, Mediator, Memento, State, Strategy e Template Method. Os seis padrões restantes, estão no meio termo e correspondem a 30% das questões de prova.
-
 
 
 FALOU EM.
@@ -243,7 +232,6 @@ PROVAVELMENTE SERÁ.
 VISITOR
 
 
-
 PADRÕES CRIACIONAIS
 
 DESCRIÇÃO
@@ -272,7 +260,6 @@ Esse padrão garante que uma classe tenha apenas uma instância e provê um pont
 FACTORY METHOD
 
 Esse padrão define uma interface para criar um objeto, mas deixa as subclasses decidirem qual classe instanciar.
-
 
 
 PADRÕES ESTRUTURAIS
@@ -313,7 +300,6 @@ Esse padrão utiliza compartilhamento para suportar eficientemente grandes quant
 PROXY
 
 Esse padrão provê um substituto ou ponto através do qual um objeto pode controlar o acesso a outro objeto.
-
 
 
 PADRÕES COMPORTAMENTAIS

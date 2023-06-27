@@ -1,19 +1,9 @@
+Capítulo. Orientação ao Domínio.
+
+De Pointel - PiWiKi
 
 
-
-
-	
-	
-	
-	
-	Orientação ao Domínio
-	
-		De Pointel - PiWiKi
-		
-		
-		
-		
-		Design Orientado ao Domínio (Domain-Driven Design – DDD)
+Design Orientado ao Domínio (Domain-Driven Design – DDD)
 Um domínio geralmente é mais extenso do que alguns objetos e, para torná-lo mais gerenciável, o DDD divide um domínio em subdomínios. O termo DDD 'domínio do problema' é usado para definir uma área funcional dentro de um contexto como uma organização ou departamento.
 O desenvolvimento de software é mais frequentemente aplicado para automatizar processos que existem no mundo real ou fornecer soluções para problemas de negócios reais. Os processos de negócios sendo automatizados ou problemas do mundo real que o software é o domínio do software. Devemos entender desde o início que o software é originado e profundamente relacionado a este domínio.
 Software é feito de código. Podemos ser tentados a gastar também muito tempo com o código e ver o software simplesmente como objetos e métodos. Considere a fabricação de carros como uma metáfora. Os trabalhadores envolvidos na fabricação de automóveis podem se especializar na produção de peças do carro, mas, ao fazê-lo, muitas vezes têm uma visão limitada do carro inteiro.

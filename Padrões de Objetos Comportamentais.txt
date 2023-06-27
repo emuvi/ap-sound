@@ -1,42 +1,31 @@
+Capítulo. Padrões Comportamentais.
+
+De Pointel - PiWiKi
 
 
+Índice
 
+Item. 1 Chain of Responsability
 
-	
-	
-	
-	
-	Padrões Comportamentais
-	
-		De Pointel - PiWiKi
-		
-		
-		
-		
-		Índice
+Item. 2 Command
 
-1 Chain of Responsability
+Item. 3 Interpreter
 
-2 Command
+Item. 4 Iterator
 
-3 Interpreter
+Item. 5 Mediator
 
-4 Iterator
+Item. 6 Memento
 
-5 Mediator
+Item. 7 Observer
 
-6 Memento
+Item. 8 State
 
-7 Observer
+Item. 9 Strategy
 
-8 State
+Item. 10 Template Method
 
-9 Strategy
-
-10 Template Method
-
-11 Visitor
-
+Item. 11 Visitor
 
 
 Chain of Responsability
@@ -81,7 +70,7 @@ Ele captura o que estava escrito e mostra ao usuário, mas sem acesso direto ao 
 
 Observer
 
-Esse padrão define uma dependência um-para-muitos entre objetos para que, quando um objeto 
+Esse padrão define uma dependência um-para-muitos entre objetos para que, quando um objeto
 mudar de estado, os seus dependentes sejam notificados e atualizados automaticamente.
 Esse padrão de projeto deve ser utilizado quando uma mudança em um objeto requisitar mudanças em outros objetos e não se souber quantos objetos necessitam ser modificados. Ele também é utilizado quando uma abstração possuir dois aspectos, sendo um dependente do outro. Além disso, sua utilização é recomendada quando um objeto for capaz de notificar outros sem assumir quem são. Certinho?
 Considerem a hipótese de uma tabela de classificação do campeonato brasileiro com um gráfico de pizza informando vitórias, empates e derrotas de um determinado time, assim como um gráfico com a variação de posição do time do campeonato. Aí chega o domingão, ocorrem 10 jogos e o estagiário altera a tabela com os novos dados. E agora? Tem que atualizar os gráficos um a um? Os gráficos ficarão desatualizados? Não haverá nem uma notificação de novos dados?

@@ -1,11 +1,9 @@
-Padrões de Projeto
-	
-		De Pointel - PiWiKi
-		
-		
-		
-		
-		Pessoal, vamos iniciar pelo básico! O que é um Padrão? É um modelo testado ou documentado para se alcançar um determinado objetivo. O autor Christopher Alexander afirma que cada padrão descreve um problema que ocorre repetidas vezes em nosso ambiente e o núcleo de sua solução, de tal forma que ela pode ser usada diversas vezes sem que seja realizada da mesma maneira. E o que seriam Padrões de Projeto (do inglês, Design Patterns)?
+Capítulo. Padrões de Projeto.
+
+De Pointel - PiWiKi
+
+
+Pessoal, vamos iniciar pelo básico! O que é um Padrão? É um modelo testado ou documentado para se alcançar um determinado objetivo. O autor Christopher Alexander afirma que cada padrão descreve um problema que ocorre repetidas vezes em nosso ambiente e o núcleo de sua solução, de tal forma que ela pode ser usada diversas vezes sem que seja realizada da mesma maneira. E o que seriam Padrões de Projeto (do inglês, Design Patterns)?
 Respondo: são descrições de objetos que se comunicam e classes que são customizadas para resolver um problema genérico em um contexto específico. Esses padrões nomeiam, abstraem e identificam aspectos comuns em uma estrutura e os torna úteis para que sejam realizados. Como é isso, professor? Suponham que haja uma fábrica de software que desenvolve diversos sistemas para as mais variadas áreas de negócio.
 
 Sabe-se que, mesmo em áreas aparentemente distintas ou contrastantes, grande parte dos problemas já possuem uma solução conhecida, formalmente documentada e exaustivamente testada, uma vez que se tratam de problemas recorrentes. Portanto, não há necessidade de se resolver o problema do início se já existe uma solução adequada. Assim sendo, os padrões de projeto são modelos para solucionar problemas gerais de projeto em um contexto particular.
@@ -47,7 +45,6 @@ Iterator
 Bridge
 
 Pessoal, se vocês estiverem com o tempo muito apertado, estudem apenas esses acima! Do mesmo modo, podemos afirmar que, dos 23 Padrões de Projeto, onze correspondem à 15% das questões de prova: Decorator, Flyweight, Proxy, Chain of Responsability, Interpreter, Mediator, Memento, State, Strategy e Template Method. Os seis padrões restantes, estão no meio termo e correspondem a 30% das questões de prova.
-
 
 
 FALOU EM.
@@ -235,7 +232,6 @@ PROVAVELMENTE SERÁ.
 VISITOR
 
 
-
 PADRÕES CRIACIONAIS
 
 DESCRIÇÃO
@@ -264,7 +260,6 @@ Esse padrão garante que uma classe tenha apenas uma instância e provê um pont
 FACTORY METHOD
 
 Esse padrão define uma interface para criar um objeto, mas deixa as subclasses decidirem qual classe instanciar.
-
 
 
 PADRÕES ESTRUTURAIS
@@ -305,7 +300,6 @@ Esse padrão utiliza compartilhamento para suportar eficientemente grandes quant
 PROXY
 
 Esse padrão provê um substituto ou ponto através do qual um objeto pode controlar o acesso a outro objeto.
-
 
 
 PADRÕES COMPORTAMENTAIS
@@ -369,24 +363,21 @@ Esse padrão define o esqueleto de um algoritmo dentro de uma operação, deixan
 
 
 Padrões Criacionais
-	
-		De Pointel - PiWiKi
-		
-		
-		
-		
-		Índice
 
-1 Abstract Factory
+De Pointel - PiWiKi
 
-2 Builder
 
-3 Factory Method
+Índice
 
-4 Prototype
+Item. 1 Abstract Factory
 
-5 Singleton
+Item. 2 Builder
 
+Item. 3 Factory Method
+
+Item. 4 Prototype
+
+Item. 5 Singleton
 
 
 Abstract Factory
@@ -425,28 +416,25 @@ O Padrão Singleton garante que só haverá uma instância de conexão com o ban
 
 
 Padrões Estruturais
-	
-		De Pointel - PiWiKi
-		
-		
-		
-		
-		Índice
 
-1 Adapter
+De Pointel - PiWiKi
 
-2 Bridge
 
-3 Composite
+Índice
 
-4 Decorator
+Item. 1 Adapter
 
-5 Façade
+Item. 2 Bridge
 
-6 Flyweight
+Item. 3 Composite
 
-7 Proxy
+Item. 4 Decorator
 
+Item. 5 Façade
+
+Item. 6 Flyweight
+
+Item. 7 Proxy
 
 
 Adapter
@@ -473,7 +461,7 @@ Por meio de uma árvore de forma transparente para o cliente – ele não precis
 
 Decorator
 
-Esse padrão anexa responsabilidades adicionais a um objeto dinamicamente. Fornece uma alternativa flexível em relação à herança para estender funcionalidades. 
+Esse padrão anexa responsabilidades adicionais a um objeto dinamicamente. Fornece uma alternativa flexível em relação à herança para estender funcionalidades.
 Esse padrão de projeto deve ser utilizado quando se quer adicionar responsabilidades a objetos individuais dinâmica e transparentemente, isto é, sem afetar outros objetos. Também é utilizado quando extensões por subclasses forem impraticáveis, tendo em vista o possível número de extensões independentes. Considerem a hipótese de um Subway! Usando-se herança, cria-se uma classe abstrata sanduíche e várias classes concretas para implementá-la.
 No entanto, há sanduíches com almôndega, sem queijo, com tomate, sem cebola, etc. É customizável, portanto é completamente inviável construir classes concretas para cada tipo de sanduíche, devido a gigantesca quantidade de combinações. O Padrão Decorator sugere que o objeto sanduíche anexe diversas responsabilidades dinamicamente. Dessa forma, em tempo de execução, à medida que se adicione um novo ingrediente, cria-se mais uma responsabilidade.
 Ao contrário da herança, que aplica funcionalidades a todos os seus objetos, o Decorator aplica funcionalidades apenas a um objeto específico.
@@ -498,40 +486,34 @@ Esse padrão de projeto deve ser utilizado quando houver uma necessidade de uma 
 No entanto, por medidas de segurança, vamos supor que se deseja que esse sistema não tenha acesso direto ao banco de dados referido. Dessa forma, o usuário se conectará ao Proxy (isto é, a classe substituta ou suplente) e o Proxy que irá se conectar ao banco de dados. Claro, tudo isso ocorrendo de maneira transparente para o usuário.
 
 
-
-
-
 Padrões Comportamentais
-	
-		De Pointel - PiWiKi
-		
-		
-		
-		
-		Índice
 
-1 Chain of Responsability
+De Pointel - PiWiKi
 
-2 Command
 
-3 Interpreter
+Índice
 
-4 Iterator
+Item. 1 Chain of Responsability
 
-5 Mediator
+Item. 2 Command
 
-6 Memento
+Item. 3 Interpreter
 
-7 Observer
+Item. 4 Iterator
 
-8 State
+Item. 5 Mediator
 
-9 Strategy
+Item. 6 Memento
 
-10 Template Method
+Item. 7 Observer
 
-11 Visitor
+Item. 8 State
 
+Item. 9 Strategy
+
+Item. 10 Template Method
+
+Item. 11 Visitor
 
 
 Chain of Responsability
@@ -576,7 +558,7 @@ Ele captura o que estava escrito e mostra ao usuário, mas sem acesso direto ao 
 
 Observer
 
-Esse padrão define uma dependência um-para-muitos entre objetos para que, quando um objeto 
+Esse padrão define uma dependência um-para-muitos entre objetos para que, quando um objeto
 mudar de estado, os seus dependentes sejam notificados e atualizados automaticamente.
 Esse padrão de projeto deve ser utilizado quando uma mudança em um objeto requisitar mudanças em outros objetos e não se souber quantos objetos necessitam ser modificados. Ele também é utilizado quando uma abstração possuir dois aspectos, sendo um dependente do outro. Além disso, sua utilização é recomendada quando um objeto for capaz de notificar outros sem assumir quem são. Certinho?
 Considerem a hipótese de uma tabela de classificação do campeonato brasileiro com um gráfico de pizza informando vitórias, empates e derrotas de um determinado time, assim como um gráfico com a variação de posição do time do campeonato. Aí chega o domingão, ocorrem 10 jogos e o estagiário altera a tabela com os novos dados. E agora? Tem que atualizar os gráficos um a um? Os gráficos ficarão desatualizados? Não haverá nem uma notificação de novos dados?

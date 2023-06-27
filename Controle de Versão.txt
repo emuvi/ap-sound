@@ -1,17 +1,9 @@
+Capítulo. Controle de Versão.
+
+De Pointel - PiWiKi
 
 
-
-
-
-
-
-
-     Controle de Versão
-	
-		De Pointel - PiWiKi
-		
-		
-		Um sistema de controle de versões (ou versionamento), VCS (do inglês version control system) ou ainda SCM (do inglês source code management) na função prática da Ciência da Computação e da Engenharia de Software, é um software que tem a finalidade de gerenciar diferentes versões no desenvolvimento de um documento qualquer. Esses sistemas são comumente utilizados no desenvolvimento de software para controlar as diferentes versões — histórico e desenvolvimento — dos códigos-fontes e da documentação.
+Um sistema de controle de versões (ou versionamento), VCS (do inglês version control system) ou ainda SCM (do inglês source code management) na função prática da Ciência da Computação e da Engenharia de Software, é um software que tem a finalidade de gerenciar diferentes versões no desenvolvimento de um documento qualquer. Esses sistemas são comumente utilizados no desenvolvimento de software para controlar as diferentes versões — histórico e desenvolvimento — dos códigos-fontes e da documentação.
 
 Entre os mais comuns encontram-se as soluções livres: CVS, Mercurial, Git e SVN (Subversion); e as comerciais: SourceSafe, TFS, PVCS (Serena) e ClearCase. O desenvolvimento de software livre utiliza mais o Git (com repositórios no GitHub), que vem substituindo o SVN, que por sua vez é um sucessor do CVS. Muitas empresas também adotam o Git (como a Microsoft com o código fonte do Windows) ou o SVN, embora algumas empresas prefiram uma solução comercial, optando pelo ClearCase (da IBM) ou Team Foundation Server (da Microsoft). Optar por uma solução comercial geralmente está relacionada à garantia, pois as soluções livres não se responsabilizam por erros no software e perdas de informações, Porém as soluções livres podem ter melhor desempenho e segurança que as comerciais. As soluções comerciais apesar de supostas garantias adicionais, não garantem o sucesso da implementação nem indenizam por qualquer tipo de erro mesmo que comprovadamente advindo do software.
 
@@ -83,11 +75,11 @@ O Básico do Git
 
 Então, em poucas palavras, o que é o Git? Esta é uma parte que é importante aprender, porque se você entender o que o Git é e os fundamentos de como ele funciona, em seguida, provavelmente usar efetivamente o Git será muito mais fácil para você. O Git armazena e vê informações de forma muito diferente do que esses outros sistemas, mesmo que a interface do usuário seja bem semelhante, e entender essas diferenças o ajudará a não ficar confuso.
 A principal diferença entre o Git e qualquer outro SCV (Subversion e similares) é a maneira como o Git trata seus dados. Conceitualmente, a maioria dos outros sistemas armazenam informação como uma lista de mudanças nos arquivos. Estes sistemas (CVS, Subversion, Perforce, Bazaar, e assim por diante) tratam a informação como um conjunto de arquivos e as mudanças feitas em cada arquivo ao longo do tempo.
- 
+
 O Git não trata nem armazena seus dados desta forma. Em vez disso, o Git trata seus dados mais como um conjunto de imagens de um sistema de arquivos em miniatura. Toda vez que você fizer um commit, ou salvar o estado de seu projeto no Git, ele basicamente captura uma foto de todos os seus arquivos e armazena uma referência para esse conjunto de arquivos. Para ser eficiente, se os arquivos não foram alterados, o Git não armazena o arquivo novamente, apenas um link para o arquivo idêntico anterior já armazenado. O Git trata seus dados mais como um fluxo do estado dos arquivos.
 
-  
-Esta é uma diferença importante entre o Git e quase todos os outros SCVs. Isto faz o Git reconsiderar quase todos os aspectos de controle de versão que a maioria dos outros sistemas copiaram da geração anterior. Isso faz com que o Git seja mais como um minissistema de arquivos com algumas ferramentas incrivelmente poderosas, ao invés de simplesmente um SCV. Vejamos alguns dos benefícios que você ganha ao tratar seus dados desta forma quando cobrirmos ramificações no Git. 
+
+Esta é uma diferença importante entre o Git e quase todos os outros SCVs. Isto faz o Git reconsiderar quase todos os aspectos de controle de versão que a maioria dos outros sistemas copiaram da geração anterior. Isso faz com que o Git seja mais como um minissistema de arquivos com algumas ferramentas incrivelmente poderosas, ao invés de simplesmente um SCV. Vejamos alguns dos benefícios que você ganha ao tratar seus dados desta forma quando cobrirmos ramificações no Git.
 
 Quase Todas as Operações são locais
 Por exemplo, para pesquisar o histórico do projeto, o Git não precisa ir para o servidor para obter a história e exibi-la para você - ele simplesmente lê diretamente do seu banco de dados local. Isto significa que você vê o histórico do projeto quase que instantaneamente. Se você quiser ver as alterações introduzidas entre a versão atual de um arquivo e o arquivo de um mês atrás, o Git pode procurar o arquivo de um mês atrás e fazer um cálculo de diferença local, em vez de ter que pedir a um servidor remoto para fazê-lo ou puxar uma versão mais antiga do arquivo do servidor remoto para fazê-lo localmente.
@@ -119,9 +111,9 @@ A área de preparo é um arquivo, geralmente contido em seu diretório Git, que 
 
 O fluxo de trabalho básico Git é algo assim:
 
-1. Você modifica arquivos no seu diretório de trabalho.
-2. Você prepara os arquivos, adicionando imagens deles à sua área de preparo.
-3. Você faz commit, o que leva os arquivos como eles estão na área de preparo e armazena essas imagens de forma permanente para o diretório do Git.
+Item. 1. Você modifica arquivos no seu diretório de trabalho.
+Item. 2. Você prepara os arquivos, adicionando imagens deles à sua área de preparo.
+Item. 3. Você faz commit, o que leva os arquivos como eles estão na área de preparo e armazena essas imagens de forma permanente para o diretório do Git.
 
 Se uma versão específica de um arquivo está no diretório Git, é considerado commited. Se for modificado, mas foi adicionado à área de preparo, é considerado preparado. E se ele for alterado depois de ter sido carregado, mas não foi preparado, ele é considerado modificado.
 
@@ -226,7 +218,6 @@ git log -- pretty = format : " % h - % a n ,   % a r : % s "
 % a r: Data;
 
 % s:  Comentário.
-
 
 
 Exibir histório de um arquivo específico
