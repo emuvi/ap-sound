@@ -1,4 +1,4 @@
-Autenticação e autorização - SAML
+Capítulo. Autenticação e autorização - SAML.
 
 SAML (Security Assertion Markup Language) é um padrão de troca de informações de autenticação e autorização entre provedores de identidade (IdPs) e provedores de serviços (SPs). Ele permite que um usuário autenticado em um provedor de identidade acesse serviços ou aplicativos oferecidos por provedores de serviços sem precisar fazer login novamente.
 

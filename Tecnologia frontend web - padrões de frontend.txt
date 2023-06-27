@@ -1,21 +1,21 @@
-Tecnologia frontend web - padrões de frontend
+Capítulo. Tecnologia frontend web - padrões de frontend.
 
 
 Existem diversos padrões e boas práticas utilizados no desenvolvimento frontend para garantir a qualidade, manutenibilidade e escalabilidade das aplicações. Aqui estão alguns dos principais padrões de frontend:
 
-1. Arquitetura MVC (Model-View-Controller): O padrão MVC separa a aplicação em três componentes principais: Model, View e Controller. O Model representa os dados e a lógica de negócio, a View é responsável pela apresentação da interface do usuário, e o Controller coordena as interações entre o Model e a View. Essa separação de responsabilidades facilita a organização e manutenção do código.
+Item. 1. Arquitetura MVC (Model-View-Controller): O padrão MVC separa a aplicação em três componentes principais: Model, View e Controller. O Model representa os dados e a lógica de negócio, a View é responsável pela apresentação da interface do usuário, e o Controller coordena as interações entre o Model e a View. Essa separação de responsabilidades facilita a organização e manutenção do código.
 
-2. Arquitetura MVVM (Model-View-ViewModel): O padrão MVVM é semelhante ao MVC, mas com uma abordagem mais orientada a dados. O ViewModel é responsável por fornecer os dados e a lógica de apresentação para a View, permitindo uma ligação bidirecional entre a View e o Model. Isso facilita a atualização automática da interface do usuário quando os dados são alterados.
+Item. 2. Arquitetura MVVM (Model-View-ViewModel): O padrão MVVM é semelhante ao MVC, mas com uma abordagem mais orientada a dados. O ViewModel é responsável por fornecer os dados e a lógica de apresentação para a View, permitindo uma ligação bidirecional entre a View e o Model. Isso facilita a atualização automática da interface do usuário quando os dados são alterados.
 
-3. Componentização: A abordagem de componentização visa dividir a interface do usuário em componentes independentes e reutilizáveis. Cada componente possui sua própria lógica, estilo e marcação, tornando-o autossuficiente e fácil de manter. A componentização promove a reutilização de código, aumenta a escalabilidade e facilita a colaboração entre membros da equipe.
+Item. 3. Componentização: A abordagem de componentização visa dividir a interface do usuário em componentes independentes e reutilizáveis. Cada componente possui sua própria lógica, estilo e marcação, tornando-o autossuficiente e fácil de manter. A componentização promove a reutilização de código, aumenta a escalabilidade e facilita a colaboração entre membros da equipe.
 
-4. Padrão de estilo CSS: Para facilitar a manutenção e o desenvolvimento colaborativo de estilos CSS, são utilizados padrões como o BEM (Block Element Modifier) e o CSS-in-JS. O BEM divide os estilos em blocos, elementos e modificadores, seguindo uma nomenclatura consistente. Já o CSS-in-JS permite escrever estilos CSS diretamente no código JavaScript, tornando-os mais isolados e reutilizáveis.
+Item. 4. Padrão de estilo CSS: Para facilitar a manutenção e o desenvolvimento colaborativo de estilos CSS, são utilizados padrões como o BEM (Block Element Modifier) e o CSS-in-JS. O BEM divide os estilos em blocos, elementos e modificadores, seguindo uma nomenclatura consistente. Já o CSS-in-JS permite escrever estilos CSS diretamente no código JavaScript, tornando-os mais isolados e reutilizáveis.
 
-5. Padrão de nomenclatura: Uma nomenclatura consistente e significativa para classes, IDs, variáveis e funções facilita a leitura, manutenção e compreensão do código. Padrões comuns incluem o uso de camelCase ou kebab-case para nomes de variáveis e funções, e a utilização de nomes descritivos para classes e IDs.
+Item. 5. Padrão de nomenclatura: Uma nomenclatura consistente e significativa para classes, IDs, variáveis e funções facilita a leitura, manutenção e compreensão do código. Padrões comuns incluem o uso de camelCase ou kebab-case para nomes de variáveis e funções, e a utilização de nomes descritivos para classes e IDs.
 
-6. Padrão de organização de arquivos: Uma estrutura de organização de arquivos bem definida ajuda a manter o código frontend organizado e de fácil navegação. Uma abordagem comum é agrupar arquivos por tipo, como colocar todos os estilos em uma pasta separada, todos os componentes em outra, e assim por diante. Isso facilita a localização e manutenção dos arquivos.
+Item. 6. Padrão de organização de arquivos: Uma estrutura de organização de arquivos bem definida ajuda a manter o código frontend organizado e de fácil navegação. Uma abordagem comum é agrupar arquivos por tipo, como colocar todos os estilos em uma pasta separada, todos os componentes em outra, e assim por diante. Isso facilita a localização e manutenção dos arquivos.
 
-7. Padrão de controle de versão: O uso de um sistema de controle de versão, como o Git, é fundamental para o desenvolvimento frontend. Ele permite que várias pessoas trabalhem simultaneamente no código, mantendo um histórico de alterações e facilitando a colaboração. O Git também possibilita o gerenciamento de branches, facilitando o desenvolvimento de novos recursos e a correção de bugs.
+Item. 7. Padrão de controle de versão: O uso de um sistema de controle de versão, como o Git, é fundamental para o desenvolvimento frontend. Ele permite que várias pessoas trabalhem simultaneamente no código, mantendo um histórico de alterações e facilitando a colaboração. O Git também possibilita o gerenciamento de branches, facilitando o desenvolvimento de novos recursos e a correção de bugs.
 
 Esses são apenas alguns dos padrões de frontend mais comuns. É importante estar atualizado sobre as melhores práticas e padrões recomendados pela comunidade, pois eles evoluem ao longo do tempo e variam de acordo com o contexto e as necessidades do projeto.
 

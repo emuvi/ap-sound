@@ -1,20 +1,20 @@
-Tecnologia backend - SpringBoot
+Capítulo. Tecnologia backend - SpringBoot.
 
 
 Spring Boot é um framework de desenvolvimento de aplicativos Java que simplifica e acelera o processo de criação de aplicativos backend. Ele é baseado no popular framework Spring e fornece uma abordagem simplificada para o desenvolvimento de aplicativos Java robustos, escaláveis e altamente produtivos.
 
 Alguns dos principais recursos e benefícios do Spring Boot são:
 
-1. Configuração automática: O Spring Boot possui um mecanismo de configuração automática que detecta as dependências do projeto e configura automaticamente o aplicativo com base em convenções. Isso elimina grande parte da configuração manual e permite que os desenvolvedores comecem rapidamente, focando na lógica de negócios em vez de configurar o ambiente.
+Item. 1. Configuração automática: O Spring Boot possui um mecanismo de configuração automática que detecta as dependências do projeto e configura automaticamente o aplicativo com base em convenções. Isso elimina grande parte da configuração manual e permite que os desenvolvedores comecem rapidamente, focando na lógica de negócios em vez de configurar o ambiente.
 
-2. Pronto para produção: O Spring Boot facilita a construção de aplicativos prontos para produção. Ele inclui um conjunto abrangente de recursos para monitoramento, gerenciamento de dependências, registro de logs e tratamento de exceções, entre outros. Isso permite que os desenvolvedores criem aplicativos robustos e fáceis de manter.
+Item. 2. Pronto para produção: O Spring Boot facilita a construção de aplicativos prontos para produção. Ele inclui um conjunto abrangente de recursos para monitoramento, gerenciamento de dependências, registro de logs e tratamento de exceções, entre outros. Isso permite que os desenvolvedores criem aplicativos robustos e fáceis de manter.
 
-3. Suporte embutido para servidor de aplicativos: O Spring Boot incorpora um servidor de aplicativos embutido, como o Tomcat, Jetty ou Undertow. Isso significa que os aplicativos podem ser implantados como executáveis autônomos, sem a necessidade de configurar um servidor de aplicativos externo.
+Item. 3. Suporte embutido para servidor de aplicativos: O Spring Boot incorpora um servidor de aplicativos embutido, como o Tomcat, Jetty ou Undertow. Isso significa que os aplicativos podem ser implantados como executáveis autônomos, sem a necessidade de configurar um servidor de aplicativos externo.
 
-4. Desenvolvimento baseado em anotações: O Spring Boot utiliza amplamente anotações para simplificar o desenvolvimento de aplicativos. As anotações são usadas para definir endpoints de API REST, configurar serviços, realizar validações, entre outras funcionalidades. Isso torna o código mais conciso e legível.
+Item. 4. Desenvolvimento baseado em anotações: O Spring Boot utiliza amplamente anotações para simplificar o desenvolvimento de aplicativos. As anotações são usadas para definir endpoints de API REST, configurar serviços, realizar validações, entre outras funcionalidades. Isso torna o código mais conciso e legível.
 
-5. Ecossistema Spring: O Spring Boot se baseia no ecossistema Spring, que oferece uma ampla variedade de projetos e bibliotecas para desenvolvimento Java. Isso inclui o Spring MVC para desenvolvimento de aplicativos web, o Spring Data para acesso a dados, o Spring Security para segurança, entre outros. O Spring Boot facilita a integração desses componentes em aplicativos.
+Item. 5. Ecossistema Spring: O Spring Boot se baseia no ecossistema Spring, que oferece uma ampla variedade de projetos e bibliotecas para desenvolvimento Java. Isso inclui o Spring MVC para desenvolvimento de aplicativos web, o Spring Data para acesso a dados, o Spring Security para segurança, entre outros. O Spring Boot facilita a integração desses componentes em aplicativos.
 
-6. Integração com tecnologias modernas: O Spring Boot suporta integração com várias tecnologias modernas, como bancos de dados relacionais e não relacionais, sistemas de mensagens, serviços em nuvem, cache distribuído, entre outros. Ele fornece bibliotecas e ferramentas que simplificam a integração dessas tecnologias em aplicativos.
+Item. 6. Integração com tecnologias modernas: O Spring Boot suporta integração com várias tecnologias modernas, como bancos de dados relacionais e não relacionais, sistemas de mensagens, serviços em nuvem, cache distribuído, entre outros. Ele fornece bibliotecas e ferramentas que simplificam a integração dessas tecnologias em aplicativos.
 
 Em resumo, o Spring Boot é uma tecnologia backend poderosa e popular para o desenvolvimento de aplicativos Java. Ele simplifica o processo de criação de aplicativos robustos, escaláveis e altamente produtivos, oferecendo configuração automática, recursos prontos para produção e integração com o ecossistema Spring. O Spring Boot é amplamente adotado pela comunidade Java devido à sua facilidade de uso e produtividade.

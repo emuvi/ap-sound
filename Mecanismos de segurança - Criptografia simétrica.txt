@@ -1,4 +1,4 @@
-Mecanismos de segurança - Criptografia simétrica
+Capítulo. Mecanismos de segurança - Criptografia simétrica.
 
 A criptografia simétrica, também conhecida como criptografia de chave secreta, é um método de criptografia em que uma única chave é usada tanto para criptografar quanto para descriptografar os dados. Isso significa que a mesma chave é compartilhada entre o remetente e o destinatário da mensagem.
 No processo de criptografia simétrica, o remetente converte os dados legíveis (conhecidos como texto claro ou plaintext) em uma forma ilegível (conhecida como texto cifrado ou ciphertext) usando a chave secreta. O destinatário, por sua vez, usa a mesma chave para reverter o processo, ou seja, descriptografar o texto cifrado e obter novamente o texto claro original.

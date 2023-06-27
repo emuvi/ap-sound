@@ -1,18 +1,18 @@
-Servidor web e de aplicação - Nginx
+Capítulo. Servidor web e de aplicação - Nginx.
 
 
 O Nginx é um servidor web e proxy reverso de alto desempenho. Ele foi criado para resolver problemas de escalabilidade e desempenho encontrados em servidores web tradicionais. O Nginx é conhecido por sua eficiência, baixo consumo de recursos e capacidade de lidar com um grande número de solicitações simultâneas. Aqui estão algumas informações importantes sobre o Nginx:
 
-1. Servidor web leve e eficiente: O Nginx foi projetado para ser leve e eficiente em termos de recursos. Ele consome menos memória em comparação com outros servidores web tradicionais, o que o torna adequado para lidar com um grande número de solicitações com eficiência.
+Item. 1. Servidor web leve e eficiente: O Nginx foi projetado para ser leve e eficiente em termos de recursos. Ele consome menos memória em comparação com outros servidores web tradicionais, o que o torna adequado para lidar com um grande número de solicitações com eficiência.
 
-2. Proxy reverso: Uma das principais funcionalidades do Nginx é atuar como um proxy reverso. Ele pode redirecionar solicitações de clientes para outros servidores web ou aplicativos, fornecendo balanceamento de carga e melhorando o desempenho e a disponibilidade do serviço.
+Item. 2. Proxy reverso: Uma das principais funcionalidades do Nginx é atuar como um proxy reverso. Ele pode redirecionar solicitações de clientes para outros servidores web ou aplicativos, fornecendo balanceamento de carga e melhorando o desempenho e a disponibilidade do serviço.
 
-3. Escalabilidade: O Nginx foi projetado para ser altamente escalável. Ele pode lidar com um grande número de solicitações simultâneas usando um modelo de processamento assíncrono e não bloqueante. Isso permite que ele seja eficiente mesmo em cargas de trabalho intensas.
+Item. 3. Escalabilidade: O Nginx foi projetado para ser altamente escalável. Ele pode lidar com um grande número de solicitações simultâneas usando um modelo de processamento assíncrono e não bloqueante. Isso permite que ele seja eficiente mesmo em cargas de trabalho intensas.
 
-4. Balanceamento de carga: O Nginx tem recursos embutidos para balanceamento de carga. Ele pode distribuir as solicitações entre vários servidores de aplicação, ajudando a otimizar o desempenho e a disponibilidade dos aplicativos.
+Item. 4. Balanceamento de carga: O Nginx tem recursos embutidos para balanceamento de carga. Ele pode distribuir as solicitações entre vários servidores de aplicação, ajudando a otimizar o desempenho e a disponibilidade dos aplicativos.
 
-5. SSL/TLS e segurança: O Nginx oferece suporte a criptografia SSL/TLS para comunicação segura entre o servidor e os clientes. Ele pode atuar como um terminador SSL/TLS, lidando com a criptografia e decodificação das solicitações. Além disso, o Nginx possui recursos de segurança, como limitação de taxa de solicitações, prevenção de ataques DDoS e suporte a regras de firewall.
+Item. 5. SSL/TLS e segurança: O Nginx oferece suporte a criptografia SSL/TLS para comunicação segura entre o servidor e os clientes. Ele pode atuar como um terminador SSL/TLS, lidando com a criptografia e decodificação das solicitações. Além disso, o Nginx possui recursos de segurança, como limitação de taxa de solicitações, prevenção de ataques DDoS e suporte a regras de firewall.
 
-6. Configuração flexível: O Nginx possui uma sintaxe de configuração flexível e poderosa. Isso permite que os administradores personalizem o comportamento do servidor de acordo com as necessidades específicas. Ele também oferece suporte a várias extensões e módulos para adicionar funcionalidades extras.
+Item. 6. Configuração flexível: O Nginx possui uma sintaxe de configuração flexível e poderosa. Isso permite que os administradores personalizem o comportamento do servidor de acordo com as necessidades específicas. Ele também oferece suporte a várias extensões e módulos para adicionar funcionalidades extras.
 
 O Nginx é amplamente utilizado como servidor web e proxy reverso em uma variedade de cenários, desde hospedagem de sites estáticos até aplicativos da web de alto desempenho. Sua combinação de leveza, desempenho e recursos avançados o torna uma escolha popular para muitos desenvolvedores e administradores de sistemas.

@@ -1,4 +1,4 @@
-Tecnologia backend - Hibernate
+Capítulo. Tecnologia backend - Hibernate.
 
 
 Hibernate é um framework de mapeamento objeto-relacional (ORM) para Java. Ele fornece uma solução para mapear objetos Java para tabelas de um banco de dados relacional. Com o Hibernate, os desenvolvedores podem escrever código Java orientado a objetos e deixar que o framework cuide da persistência dos dados no banco de dados.

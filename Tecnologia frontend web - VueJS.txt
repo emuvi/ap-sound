@@ -1,24 +1,24 @@
-Tecnologia frontend web - VueJS
+Capítulo. Tecnologia frontend web - VueJS.
 
 
 Vue.js é um framework progressivo de JavaScript usado para criar interfaces de usuário interativas e dinâmicas. Ele é projetado para ser incrementalmente adotado, o que significa que você pode usá-lo em partes específicas de um projeto ou em uma aplicação completa.
 
 Aqui estão alguns conceitos e recursos importantes relacionados ao Vue.js:
 
-1. Componentes: O Vue.js é baseado em uma arquitetura de componentes, onde cada parte da interface do usuário é representada por um componente reutilizável. Os componentes encapsulam a lógica e a apresentação de uma parte específica da página, tornando o código mais modular e fácil de manter.
+Item. 1. Componentes: O Vue.js é baseado em uma arquitetura de componentes, onde cada parte da interface do usuário é representada por um componente reutilizável. Os componentes encapsulam a lógica e a apresentação de uma parte específica da página, tornando o código mais modular e fácil de manter.
 
-2. Template: O Vue.js utiliza um sistema de template declarativo para definir a estrutura e a aparência dos componentes. Os templates combinam HTML com extensões do Vue.js, como diretivas e bindings, permitindo a criação de interfaces dinâmicas e interativas.
+Item. 2. Template: O Vue.js utiliza um sistema de template declarativo para definir a estrutura e a aparência dos componentes. Os templates combinam HTML com extensões do Vue.js, como diretivas e bindings, permitindo a criação de interfaces dinâmicas e interativas.
 
-3. Diretivas: As diretivas no Vue.js são atributos especiais que podem ser aplicados a elementos HTML existentes para fornecer funcionalidades adicionais. Alguns exemplos de diretivas populares incluem v-bind para realizar bindings de dados, v-if e v-for para controlar a renderização condicional e repetitiva de elementos, e v-on para lidar com eventos.
+Item. 3. Diretivas: As diretivas no Vue.js são atributos especiais que podem ser aplicados a elementos HTML existentes para fornecer funcionalidades adicionais. Alguns exemplos de diretivas populares incluem v-bind para realizar bindings de dados, v-if e v-for para controlar a renderização condicional e repetitiva de elementos, e v-on para lidar com eventos.
 
-4. Computed Properties: O Vue.js oferece a possibilidade de definir computed properties nos componentes. Computed properties são propriedades que são calculadas dinamicamente com base em outras propriedades reativas do componente. Elas são úteis para realizar cálculos complexos ou para derivar valores de forma reativa.
+Item. 4. Computed Properties: O Vue.js oferece a possibilidade de definir computed properties nos componentes. Computed properties são propriedades que são calculadas dinamicamente com base em outras propriedades reativas do componente. Elas são úteis para realizar cálculos complexos ou para derivar valores de forma reativa.
 
-5. Gerenciamento de estado: O Vue.js possui um sistema de gerenciamento de estado simples chamado Vuex. O Vuex permite que você gerencie o estado global da aplicação de forma centralizada, facilitando o compartilhamento de dados entre componentes.
+Item. 5. Gerenciamento de estado: O Vue.js possui um sistema de gerenciamento de estado simples chamado Vuex. O Vuex permite que você gerencie o estado global da aplicação de forma centralizada, facilitando o compartilhamento de dados entre componentes.
 
-6. Transições e Animações: O Vue.js fornece recursos integrados para criar transições e animações fluidas em elementos do DOM. Com esses recursos, é possível adicionar efeitos visuais elegantes, como desvanecimento, escorregamento e rotação, para melhorar a experiência do usuário.
+Item. 6. Transições e Animações: O Vue.js fornece recursos integrados para criar transições e animações fluidas em elementos do DOM. Com esses recursos, é possível adicionar efeitos visuais elegantes, como desvanecimento, escorregamento e rotação, para melhorar a experiência do usuário.
 
-7. Roteamento: O Vue.js possui um roteador oficial chamado Vue Router, que permite criar aplicativos de página única (Single-Page Applications - SPAs) com navegação entre diferentes rotas. O Vue Router simplifica a criação de rotas e fornece recursos avançados, como carregamento dinâmico de componentes e navegação aninhada.
+Item. 7. Roteamento: O Vue.js possui um roteador oficial chamado Vue Router, que permite criar aplicativos de página única (Single-Page Applications - SPAs) com navegação entre diferentes rotas. O Vue Router simplifica a criação de rotas e fornece recursos avançados, como carregamento dinâmico de componentes e navegação aninhada.
 
-8. Ecossistema e ferramentas: O Vue.js possui uma comunidade ativa e um ecossistema próspero, com uma variedade de bibliotecas, plugins e ferramentas disponíveis. O Vue CLI é uma ferramenta oficial que facilita a criação e o gerenciamento de projetos Vue.js, além de fornecer recursos de desenvolvimento, como hot-reloading, empacotamento e scaffolding.
+Item. 8. Ecossistema e ferramentas: O Vue.js possui uma comunidade ativa e um ecossistema próspero, com uma variedade de bibliotecas, plugins e ferramentas disponíveis. O Vue CLI é uma ferramenta oficial que facilita a criação e o gerenciamento de projetos Vue.js, além de fornecer recursos de desenvolvimento, como hot-reloading, empacotamento e scaffolding.
 
 O Vue.js é amplamente adotado por desenvolvedores devido à sua simplicidade, flexibilidade e desempenho. Ele é adequado tanto para projetos pequenos e simples quanto para aplicações empresariais complexas, oferecendo uma curva de aprendizado suave e uma sintaxe intuitiva.

@@ -1,4 +1,4 @@
-Mecanismos de segurança - Criptografia assimétrica
+Capítulo. Mecanismos de segurança - Criptografia assimétrica.
 
 A criptografia assimétrica, também conhecida como criptografia de chave pública, é um método de criptografia que utiliza um par de chaves relacionadas matematicamente: uma chave pública e uma chave privada. Diferente da criptografia simétrica, onde a mesma chave é usada para criptografar e descriptografar os dados, a criptografia assimétrica utiliza uma chave para criptografar os dados e outra chave para descriptografá-los.
 A chave pública é amplamente distribuída e pode ser conhecida por qualquer pessoa. Ela é usada para criptografar os dados pelo remetente antes de serem enviados. Uma vez criptografados com a chave pública, os dados só podem ser descriptografados com a chave privada correspondente, que é mantida em sigilo e conhecida apenas pelo destinatário autorizado.

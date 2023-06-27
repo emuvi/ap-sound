@@ -1,4 +1,4 @@
-Autenticação e autorização - Open ID Connect
+Capítulo. Autenticação e autorização - Open ID Connect.
 
 O OpenID Connect (OIDC) é uma extensão do protocolo OAuth 2.0 que adiciona recursos de autenticação de identidade. Ele fornece uma camada de autenticação em cima do OAuth 2.0, permitindo que os provedores de identidade autentiquem os usuários e forneçam informações de identidade aos clientes de forma segura.
 O OIDC é construído em torno do conceito de provedores de identidade (IdPs) que emitem tokens de identificação. Esses tokens de identificação são usados para autenticar um usuário e fornecer informações sobre a identidade do usuário ao cliente solicitante.

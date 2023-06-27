@@ -1,4 +1,4 @@
-Autenticação e autorização - JWT
+Capítulo. Autenticação e autorização - JWT.
 
 JWT (JSON Web Token) é um padrão aberto (RFC 7519) para a criação de tokens de acesso que podem ser usados para autenticação e compartilhamento de informações entre diferentes partes de um sistema. É uma forma compacta e autossuficiente de representar informações em formato JSON, assinadas digitalmente para garantir sua integridade.
 Um JWT consiste em três partes separadas por pontos (.), que são:

@@ -1,18 +1,18 @@
-Linguagem de programação - JavaScript
+Capítulo. Linguagem de programação - JavaScript.
 
 
 JavaScript é uma linguagem de programação de alto nível, interpretada e orientada a objetos. Ela é amplamente utilizada para desenvolvimento web, permitindo a criação de interatividade e dinamismo nas páginas da web. Aqui estão algumas informações importantes sobre JavaScript:
 
-1. Desenvolvimento web: JavaScript é a principal linguagem de programação usada para desenvolver aplicativos web interativos. Ela é executada no navegador do cliente e permite a manipulação do conteúdo HTML, estilização CSS e interação com o usuário por meio de eventos, validações de formulários, animações, entre outros recursos.
+Item. 1. Desenvolvimento web: JavaScript é a principal linguagem de programação usada para desenvolver aplicativos web interativos. Ela é executada no navegador do cliente e permite a manipulação do conteúdo HTML, estilização CSS e interação com o usuário por meio de eventos, validações de formulários, animações, entre outros recursos.
 
-2. Suporte ao lado do cliente e do servidor: Além de ser executada no navegador do cliente, o JavaScript também pode ser usado no lado do servidor com o auxílio de plataformas como o Node.js. Isso permite que os desenvolvedores escrevam aplicativos web completos usando JavaScript em ambos os lados, facilitando a criação de aplicativos em tempo real, APIs e serviços web.
+Item. 2. Suporte ao lado do cliente e do servidor: Além de ser executada no navegador do cliente, o JavaScript também pode ser usado no lado do servidor com o auxílio de plataformas como o Node.js. Isso permite que os desenvolvedores escrevam aplicativos web completos usando JavaScript em ambos os lados, facilitando a criação de aplicativos em tempo real, APIs e serviços web.
 
-3. Orientação a objetos: JavaScript é uma linguagem orientada a objetos, suportando conceitos como objetos, classes, herança e polimorfismo. No entanto, a abordagem de orientação a objetos em JavaScript é baseada em protótipos, em vez de classes tradicionais.
+Item. 3. Orientação a objetos: JavaScript é uma linguagem orientada a objetos, suportando conceitos como objetos, classes, herança e polimorfismo. No entanto, a abordagem de orientação a objetos em JavaScript é baseada em protótipos, em vez de classes tradicionais.
 
-4. Bibliotecas e frameworks: JavaScript possui uma ampla variedade de bibliotecas e frameworks populares, como jQuery, React, Angular, Vue.js e muitos outros. Essas bibliotecas e frameworks fornecem funcionalidades e recursos adicionais para facilitar o desenvolvimento de aplicativos web complexos.
+Item. 4. Bibliotecas e frameworks: JavaScript possui uma ampla variedade de bibliotecas e frameworks populares, como jQuery, React, Angular, Vue.js e muitos outros. Essas bibliotecas e frameworks fornecem funcionalidades e recursos adicionais para facilitar o desenvolvimento de aplicativos web complexos.
 
-5. Integração com HTML e CSS: JavaScript pode ser facilmente incorporado em documentos HTML, permitindo a manipulação dinâmica do conteúdo e estilos. Ele permite que os desenvolvedores acessem elementos da página, modifiquem seu conteúdo, estilo e comportamento, além de responder a eventos do usuário.
+Item. 5. Integração com HTML e CSS: JavaScript pode ser facilmente incorporado em documentos HTML, permitindo a manipulação dinâmica do conteúdo e estilos. Ele permite que os desenvolvedores acessem elementos da página, modifiquem seu conteúdo, estilo e comportamento, além de responder a eventos do usuário.
 
-6. Ecossistema ativo e comunidade vibrante: JavaScript possui uma comunidade de desenvolvedores extremamente ativa e um ecossistema rico. Há uma grande quantidade de recursos, bibliotecas, frameworks, tutoriais e documentação disponíveis para ajudar os desenvolvedores a aprender e expandir seus conhecimentos em JavaScript.
+Item. 6. Ecossistema ativo e comunidade vibrante: JavaScript possui uma comunidade de desenvolvedores extremamente ativa e um ecossistema rico. Há uma grande quantidade de recursos, bibliotecas, frameworks, tutoriais e documentação disponíveis para ajudar os desenvolvedores a aprender e expandir seus conhecimentos em JavaScript.
 
 JavaScript desempenha um papel fundamental no desenvolvimento web moderno. Sua capacidade de criar interatividade e dinamismo nas páginas da web, juntamente com seu suporte em ambientes cliente e servidor, torna-o uma linguagem essencial para desenvolvedores web. Com sua ampla adoção e recursos avançados, JavaScript permite a criação de experiências interativas e envolventes na web.

@@ -1,4 +1,4 @@
-Servidor web e de aplicação - Wildfly
+Capítulo. Servidor web e de aplicação - Wildfly.
 
 
 WildFly é um servidor de aplicação de código aberto desenvolvido pela Red Hat, que é uma implementação do Java Enterprise Edition (Java EE). Ele é baseado no projeto JBoss Application Server, mas com um novo nome e versões atualizadas.
@@ -7,16 +7,16 @@ O WildFly é projetado para hospedar e executar aplicativos Java EE em um ambien
 
 Aqui estão algumas características e recursos-chave do WildFly:
 
-1. Suporte Java EE: O WildFly oferece suporte às especificações Java EE, permitindo que os desenvolvedores criem aplicativos corporativos escaláveis e robustos.
+Item. 1. Suporte Java EE: O WildFly oferece suporte às especificações Java EE, permitindo que os desenvolvedores criem aplicativos corporativos escaláveis e robustos.
 
-2. Administração e monitoramento: Ele fornece uma interface de administração baseada na web, chamada de Console de Administração do WildFly, que permite configurar, implantar e gerenciar aplicativos e recursos do servidor. Além disso, o WildFly oferece recursos de monitoramento para monitorar o desempenho e a saúde do servidor.
+Item. 2. Administração e monitoramento: Ele fornece uma interface de administração baseada na web, chamada de Console de Administração do WildFly, que permite configurar, implantar e gerenciar aplicativos e recursos do servidor. Além disso, o WildFly oferece recursos de monitoramento para monitorar o desempenho e a saúde do servidor.
 
-3. Modularidade: O WildFly é construído com uma arquitetura modular, permitindo que os administradores selecionem apenas os recursos necessários para seus aplicativos. Isso ajuda a otimizar a utilização de recursos e simplificar a configuração.
+Item. 3. Modularidade: O WildFly é construído com uma arquitetura modular, permitindo que os administradores selecionem apenas os recursos necessários para seus aplicativos. Isso ajuda a otimizar a utilização de recursos e simplificar a configuração.
 
-4. Implantação rápida: O WildFly suporta implantação rápida de aplicativos, permitindo que você faça alterações nos aplicativos implantados sem reiniciar o servidor. Isso é útil para facilitar o processo de desenvolvimento e implementação contínua.
+Item. 4. Implantação rápida: O WildFly suporta implantação rápida de aplicativos, permitindo que você faça alterações nos aplicativos implantados sem reiniciar o servidor. Isso é útil para facilitar o processo de desenvolvimento e implementação contínua.
 
-5. Alta disponibilidade e escalabilidade: O WildFly oferece recursos para criar ambientes altamente disponíveis e escaláveis, como clustering e balanceamento de carga. Isso permite distribuir a carga de trabalho entre vários nós do servidor e garantir a disponibilidade do aplicativo mesmo em caso de falha.
+Item. 5. Alta disponibilidade e escalabilidade: O WildFly oferece recursos para criar ambientes altamente disponíveis e escaláveis, como clustering e balanceamento de carga. Isso permite distribuir a carga de trabalho entre vários nós do servidor e garantir a disponibilidade do aplicativo mesmo em caso de falha.
 
-6. Integração com outras tecnologias: Além do suporte às especificações do Java EE, o WildFly também pode ser integrado a outras tecnologias, como Spring Framework e Hibernate, permitindo aos desenvolvedores aproveitar os recursos dessas tecnologias em conjunto com o Java EE.
+Item. 6. Integração com outras tecnologias: Além do suporte às especificações do Java EE, o WildFly também pode ser integrado a outras tecnologias, como Spring Framework e Hibernate, permitindo aos desenvolvedores aproveitar os recursos dessas tecnologias em conjunto com o Java EE.
 
 Em resumo, o WildFly é uma opção popular para hospedar aplicativos Java EE em um ambiente empresarial. Ele oferece um conjunto abrangente de recursos, suporte às especificações Java EE e ferramentas de administração e monitoramento para facilitar o desenvolvimento, implantação e gerenciamento de aplicativos corporativos.

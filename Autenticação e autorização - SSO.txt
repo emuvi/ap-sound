@@ -1,4 +1,4 @@
-Autenticação e autorização - SSO
+Capítulo. Autenticação e autorização - SSO.
 
 SSO (Single Sign-On), ou Autenticação Única em português, é um mecanismo de autenticação que permite que um usuário faça login uma vez e obtenha acesso a vários sistemas ou aplicativos diferentes, sem a necessidade de autenticar-se separadamente em cada um deles. Em outras palavras, o SSO permite que os usuários utilizem uma única credencial para acessar vários recursos.
 O funcionamento básico do SSO envolve a presença de um servidor de autenticação centralizado, chamado de provedor de identidade (Identity Provider - IdP). Esse provedor é responsável por autenticar o usuário e emitir um token de autenticação, geralmente baseado em um padrão como o JWT (JSON Web Token).

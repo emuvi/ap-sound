@@ -1,20 +1,20 @@
-Tecnologia frontend web - HTML
+Capítulo. Tecnologia frontend web - HTML.
 
 
 HTML (Hypertext Markup Language) é uma linguagem de marcação utilizada para estruturar e exibir o conteúdo de uma página web. É a base fundamental de qualquer aplicação web e fornece a estrutura para a criação dos elementos da página, como textos, imagens, links e formulários.
 
 Aqui estão alguns conceitos e recursos importantes relacionados ao HTML:
 
-1. Tags HTML: As tags HTML são usadas para marcar os diferentes elementos de uma página web. Cada tag é definida por um nome delimitado por "<>" e, em alguns casos, possui atributos que fornecem informações adicionais sobre o elemento. Por exemplo, a tag "<h1>" é usada para criar um cabeçalho de nível 1, enquanto a tag "<img>" é usada para inserir uma imagem na página.
+Item. 1. Tags HTML: As tags HTML são usadas para marcar os diferentes elementos de uma página web. Cada tag é definida por um nome delimitado por "<>" e, em alguns casos, possui atributos que fornecem informações adicionais sobre o elemento. Por exemplo, a tag "<h1>" é usada para criar um cabeçalho de nível 1, enquanto a tag "<img>" é usada para inserir uma imagem na página.
 
-2. Estrutura básica do documento HTML: Um documento HTML geralmente começa com a declaração do tipo de documento (<!DOCTYPE html>) seguida pela tag "<html>", que engloba todo o conteúdo da página. Dentro da tag "<html>", há as tags "<head>" e "<body>". A tag "<head>" é usada para fornecer metadados, como o título da página e referências a arquivos CSS e JavaScript. A tag "<body>" contém o conteúdo visível da página, como texto, imagens e outros elementos.
+Item. 2. Estrutura básica do documento HTML: Um documento HTML geralmente começa com a declaração do tipo de documento (<!DOCTYPE html>) seguida pela tag "<html>", que engloba todo o conteúdo da página. Dentro da tag "<html>", há as tags "<head>" e "<body>". A tag "<head>" é usada para fornecer metadados, como o título da página e referências a arquivos CSS e JavaScript. A tag "<body>" contém o conteúdo visível da página, como texto, imagens e outros elementos.
 
-3. Elementos de texto: Existem várias tags HTML usadas para estruturar o texto na página. Por exemplo, as tags "<h1>" a "<h6>" são usadas para títulos de diferentes níveis, sendo "<h1>" o mais importante e "<h6>" o menos importante. As tags "<p>" são usadas para parágrafos de texto, "<strong>" e "<em>" são usadas para destacar o texto em negrito e itálico, respectivamente, e assim por diante.
+Item. 3. Elementos de texto: Existem várias tags HTML usadas para estruturar o texto na página. Por exemplo, as tags "<h1>" a "<h6>" são usadas para títulos de diferentes níveis, sendo "<h1>" o mais importante e "<h6>" o menos importante. As tags "<p>" são usadas para parágrafos de texto, "<strong>" e "<em>" são usadas para destacar o texto em negrito e itálico, respectivamente, e assim por diante.
 
-4. Links e âncoras: A tag "<a>" é usada para criar links em uma página HTML. O atributo "href" especifica o URL de destino do link. Além disso, é possível usar âncoras ("<a name='nome'></a>") para criar links internos dentro de uma página. Dessa forma, os usuários podem ser direcionados para uma parte específica da página clicando em um link.
+Item. 4. Links e âncoras: A tag "<a>" é usada para criar links em uma página HTML. O atributo "href" especifica o URL de destino do link. Além disso, é possível usar âncoras ("<a name='nome'></a>") para criar links internos dentro de uma página. Dessa forma, os usuários podem ser direcionados para uma parte específica da página clicando em um link.
 
-5. Imagens: A tag "<img>" é usada para inserir imagens em uma página HTML. O atributo "src" especifica o caminho ou URL da imagem, e outros atributos, como "alt" e "title", fornecem descrições ou textos alternativos que são exibidos quando a imagem não pode ser carregada.
+Item. 5. Imagens: A tag "<img>" é usada para inserir imagens em uma página HTML. O atributo "src" especifica o caminho ou URL da imagem, e outros atributos, como "alt" e "title", fornecem descrições ou textos alternativos que são exibidos quando a imagem não pode ser carregada.
 
-6. Formulários: O HTML também fornece elementos para criar formulários interativos, como campos de entrada de texto ("<input type='text'>"), botões ("<button>") e seletores ("<select>"). Os dados inseridos em um formulário podem ser enviados para um servidor para processamento usando a tag "<form>" e o atributo "action".
+Item. 6. Formulários: O HTML também fornece elementos para criar formulários interativos, como campos de entrada de texto ("<input type='text'>"), botões ("<button>") e seletores ("<select>"). Os dados inseridos em um formulário podem ser enviados para um servidor para processamento usando a tag "<form>" e o atributo "action".
 
 Esses são apenas alguns conceitos básicos relacionados ao HTML. Existem muitos outros elementos, atributos e recursos que podem ser explorados para criar páginas web mais complexas e interativas. O HTML trabalha em conjunto com CSS e JavaScript para fornecer uma experiência completa de desenvolvimento frontend.

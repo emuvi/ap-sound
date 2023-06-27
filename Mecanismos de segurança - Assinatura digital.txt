@@ -1,4 +1,4 @@
-Mecanismos de segurança - Assinatura digital
+Capítulo. Mecanismos de segurança - Assinatura digital.
 
 A assinatura digital é um mecanismo criptográfico que permite a verificação da autenticidade, integridade e não repúdio de um documento ou mensagem eletrônica. É uma técnica amplamente utilizada para garantir a autenticidade e a confiabilidade das informações transmitidas eletronicamente.
 O processo de assinatura digital envolve o uso de criptografia assimétrica, em que um par de chaves relacionadas é utilizado: uma chave privada e uma chave pública. O proprietário da chave gera uma assinatura digital exclusiva aplicando um algoritmo de hash (como SHA-256) aos dados originais e, em seguida, criptografando esse hash com sua chave privada. A assinatura digital resultante é anexada ao documento ou mensagem.

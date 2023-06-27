@@ -1,18 +1,18 @@
-Servidor web e de aplicação - IIS
+Capítulo. Servidor web e de aplicação - IIS.
 
 
 O IIS (Internet Information Services) é um servidor web desenvolvido pela Microsoft para hospedar e fornecer serviços baseados na web. Ele é amplamente utilizado para hospedar sites e aplicativos da web em ambientes Windows. Aqui estão algumas informações importantes sobre o IIS:
 
-1. Recursos e funcionalidades: O IIS oferece uma ampla gama de recursos e funcionalidades para hospedar aplicativos e sites da web. Isso inclui suporte para protocolos como HTTP, HTTPS, FTP, SMTP, e mais. Ele também oferece recursos avançados de segurança, como autenticação integrada do Windows, certificados SSL/TLS, restrições de acesso baseadas em IP e muito mais.
+Item. 1. Recursos e funcionalidades: O IIS oferece uma ampla gama de recursos e funcionalidades para hospedar aplicativos e sites da web. Isso inclui suporte para protocolos como HTTP, HTTPS, FTP, SMTP, e mais. Ele também oferece recursos avançados de segurança, como autenticação integrada do Windows, certificados SSL/TLS, restrições de acesso baseadas em IP e muito mais.
 
-2. Plataforma Windows: O IIS é nativo da plataforma Windows e está integrado ao sistema operacional Windows Server. Isso torna o IIS uma escolha popular para empresas que utilizam a infraestrutura Windows e desejam hospedar aplicativos e sites em um ambiente familiar.
+Item. 2. Plataforma Windows: O IIS é nativo da plataforma Windows e está integrado ao sistema operacional Windows Server. Isso torna o IIS uma escolha popular para empresas que utilizam a infraestrutura Windows e desejam hospedar aplicativos e sites em um ambiente familiar.
 
-3. Integração com outras tecnologias Microsoft: O IIS é altamente integrado com outras tecnologias e produtos Microsoft, como o ASP.NET e o .NET Framework. Isso permite que os desenvolvedores criem aplicativos da web usando essas tecnologias e os hospedem no IIS com facilidade.
+Item. 3. Integração com outras tecnologias Microsoft: O IIS é altamente integrado com outras tecnologias e produtos Microsoft, como o ASP.NET e o .NET Framework. Isso permite que os desenvolvedores criem aplicativos da web usando essas tecnologias e os hospedem no IIS com facilidade.
 
-4. Gerenciamento e configuração: O IIS oferece uma interface de gerenciamento baseada em GUI (Interface Gráfica do Usuário), o Gerenciador do IIS, que permite configurar e gerenciar vários aspectos do servidor web. Ele também fornece ferramentas de linha de comando e APIs para automação e gerenciamento programático.
+Item. 4. Gerenciamento e configuração: O IIS oferece uma interface de gerenciamento baseada em GUI (Interface Gráfica do Usuário), o Gerenciador do IIS, que permite configurar e gerenciar vários aspectos do servidor web. Ele também fornece ferramentas de linha de comando e APIs para automação e gerenciamento programático.
 
-5. Desempenho e escalabilidade: O IIS é conhecido por sua eficiência e desempenho. Ele suporta recursos de balanceamento de carga e escalabilidade horizontal, permitindo distribuir a carga de trabalho entre vários servidores web para lidar com um grande número de solicitações.
+Item. 5. Desempenho e escalabilidade: O IIS é conhecido por sua eficiência e desempenho. Ele suporta recursos de balanceamento de carga e escalabilidade horizontal, permitindo distribuir a carga de trabalho entre vários servidores web para lidar com um grande número de solicitações.
 
-6. Extensibilidade: O IIS é altamente extensível e permite a adição de módulos personalizados para fornecer funcionalidades adicionais. Esses módulos podem ser desenvolvidos pelos administradores ou por terceiros para atender a requisitos específicos.
+Item. 6. Extensibilidade: O IIS é altamente extensível e permite a adição de módulos personalizados para fornecer funcionalidades adicionais. Esses módulos podem ser desenvolvidos pelos administradores ou por terceiros para atender a requisitos específicos.
 
 O IIS é uma escolha comum para empresas que utilizam tecnologias Microsoft e desejam hospedar aplicativos e sites da web em seus servidores Windows. Ele oferece um conjunto abrangente de recursos, integração com outras tecnologias Microsoft e ferramentas de gerenciamento para facilitar a hospedagem e o gerenciamento de serviços web.
