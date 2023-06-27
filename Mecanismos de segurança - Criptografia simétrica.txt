@@ -1,0 +1,19 @@
+Mecanismos de segurança - Criptografia simétrica
+
+A criptografia simétrica, também conhecida como criptografia de chave secreta, é um método de criptografia em que uma única chave é usada tanto para criptografar quanto para descriptografar os dados. Isso significa que a mesma chave é compartilhada entre o remetente e o destinatário da mensagem.
+No processo de criptografia simétrica, o remetente converte os dados legíveis (conhecidos como texto claro ou plaintext) em uma forma ilegível (conhecida como texto cifrado ou ciphertext) usando a chave secreta. O destinatário, por sua vez, usa a mesma chave para reverter o processo, ou seja, descriptografar o texto cifrado e obter novamente o texto claro original.
+A criptografia simétrica é mais rápida e eficiente do que a criptografia assimétrica, pois requer menos recursos computacionais. Além disso, é amplamente utilizada para proteger dados confidenciais, como comunicações em redes locais, armazenamento local de dados sensíveis e criptografia de arquivos.
+No entanto, há um desafio importante na criptografia simétrica, que é o compartilhamento seguro da chave. Uma vez que a mesma chave é usada para criptografar e descriptografar, é crucial que a chave seja mantida em segredo absoluto e seja compartilhada apenas entre as partes autorizadas. Se a chave for comprometida, um atacante pode acessar e descriptografar os dados protegidos.
+
+Alguns algoritmos de criptografia simétrica comumente usados incluem:
+
+Item. 1. AES (Advanced Encryption Standard): É um algoritmo amplamente adotado que suporta tamanhos de chave de 128, 192 e 256 bits.
+
+Item. 2. DES (Data Encryption Standard): É um algoritmo mais antigo que usa uma chave de 56 bits. Embora ainda seja usado em algumas aplicações, é considerado menos seguro em comparação com o AES.
+
+Item. 3. 3DES (Triple Data Encryption Standard): É uma versão mais segura do DES, que aplica o algoritmo DES três vezes usando duas ou três chaves diferentes.
+
+Item. 4. Blowfish: É um algoritmo simétrico rápido e flexível, que suporta tamanhos de chave variáveis.
+
+É importante ressaltar que, embora a criptografia simétrica seja eficaz para proteger a confidencialidade dos dados, ela não fornece autenticação ou garantia de integridade dos dados. Portanto, é comum combinar a criptografia simétrica com outros mecanismos de segurança, como assinaturas digitais ou criptografia assimétrica, para obter um sistema mais completo e seguro.
+

@@ -1,0 +1,23 @@
+Mecanismos de segurança - Criptografia assimétrica
+
+A criptografia assimétrica, também conhecida como criptografia de chave pública, é um método de criptografia que utiliza um par de chaves relacionadas matematicamente: uma chave pública e uma chave privada. Diferente da criptografia simétrica, onde a mesma chave é usada para criptografar e descriptografar os dados, a criptografia assimétrica utiliza uma chave para criptografar os dados e outra chave para descriptografá-los.
+A chave pública é amplamente distribuída e pode ser conhecida por qualquer pessoa. Ela é usada para criptografar os dados pelo remetente antes de serem enviados. Uma vez criptografados com a chave pública, os dados só podem ser descriptografados com a chave privada correspondente, que é mantida em sigilo e conhecida apenas pelo destinatário autorizado.
+
+A criptografia assimétrica oferece algumas vantagens importantes:
+
+Item. 1. Confidencialidade: Como os dados são criptografados com a chave pública, somente o destinatário com a chave privada correspondente pode descriptografá-los e acessar as informações originais. Isso garante a confidencialidade dos dados transmitidos.
+
+Item. 2. Autenticidade: A criptografia assimétrica também é usada para autenticar a origem dos dados. O remetente pode assinar digitalmente os dados usando sua chave privada, o que comprova que a mensagem foi realmente enviada por ele. O destinatário pode verificar a assinatura usando a chave pública correspondente, garantindo que os dados não foram alterados e que foram enviados pelo remetente esperado.
+
+Item. 3. Troca segura de chaves: A criptografia assimétrica permite a troca segura de chaves simétricas. Em uma comunicação segura, os participantes podem usar criptografia assimétrica para estabelecer uma chave de sessão simétrica compartilhada. Uma vez estabelecida a chave de sessão, eles podem usar criptografia simétrica para proteger a comunicação subsequente, que é mais eficiente em termos de recursos computacionais.
+
+Alguns algoritmos de criptografia assimétrica comumente usados incluem:
+
+Item. 1. RSA: É um dos algoritmos assimétricos mais populares e amplamente utilizado. O RSA é baseado na dificuldade de fatoração de números grandes.
+
+Item. 2. ECC (Elliptic Curve Cryptography): É um algoritmo baseado na matemática das curvas elípticas. Ele oferece um nível de segurança semelhante ao RSA com tamanhos de chave menores, tornando-o eficiente em termos de recursos computacionais.
+
+Item. 3. DSA (Digital Signature Algorithm): É um algoritmo utilizado especificamente para assinaturas digitais, garantindo a autenticidade dos dados e a integridade da mensagem.
+
+A criptografia assimétrica é frequentemente combinada com a criptografia simétrica para obter uma solução de segurança mais robusta. Ela é amplamente utilizada em diversos cenários, como comunicação segura na Internet, autenticação de usuários, troca segura de chaves e garantia da integridade dos dados.
+
