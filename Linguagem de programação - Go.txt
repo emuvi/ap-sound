@@ -1,0 +1,20 @@
+Linguagem de programação - Go
+
+
+Go, também conhecida como Golang, é uma linguagem de programação de código aberto desenvolvida pelo Google. Lançada em 2009, Go foi projetada para ser eficiente, simples, concorrente e escalável. Aqui estão algumas informações importantes sobre a linguagem Go:
+
+1. Simplicidade e legibilidade: Go foi projetada para ter uma sintaxe simples e concisa, facilitando a leitura e o entendimento do código. A linguagem evita a complexidade desnecessária e a sintaxe verbosa, focando na clareza e na facilidade de uso.
+
+2. Eficiência: Go foi projetada para ser eficiente em termos de tempo de compilação e desempenho de execução. Seu compilador é rápido e produz código executável de alto desempenho. Além disso, Go possui recursos nativos para concorrência e paralelismo, permitindo que os desenvolvedores escrevam programas eficientes e escaláveis.
+
+3. Concorrência: Uma das principais características do Go é o suporte nativo à concorrência. A linguagem possui primitivas de concorrência, como goroutines (rotinas leves) e canais (channels), que facilitam a programação concorrente e a comunicação entre goroutines. Isso permite que os desenvolvedores criem programas concorrentes de forma mais simples e segura.
+
+4. Gerenciamento de memória: Go possui um coletor de lixo (garbage collector) automático embutido, que gerencia a alocação e liberação de memória de forma eficiente. Isso permite que os desenvolvedores se concentrem no desenvolvimento do código sem se preocuparem com detalhes de gerenciamento de memória.
+
+5. Forte suporte à programação de rede: Go oferece uma biblioteca padrão rica em recursos para a programação de rede, permitindo que os desenvolvedores criem facilmente aplicativos de rede, como servidores TCP/IP, HTTP e WebSocket.
+
+6. Compilação estática: Go é compilada em código binário estático, o que significa que os aplicativos Go podem ser implantados em diferentes plataformas sem a necessidade de dependências externas. Isso facilita a implantação e distribuição de aplicativos Go em vários ambientes.
+
+7. Comunidade ativa: Go possui uma comunidade de desenvolvedores ativa e crescente, com uma série de bibliotecas e frameworks disponíveis para facilitar o desenvolvimento de aplicativos. A comunidade é conhecida por sua colaboração e suporte, oferecendo recursos, tutoriais e exemplos para ajudar os desenvolvedores a aprender e aproveitar ao máximo a linguagem.
+
+Go tem ganhado popularidade nos últimos anos, especialmente para o desenvolvimento de aplicativos de back-end, serviços em nuvem e sistemas distribuídos. Sua simplicidade, eficiência, concorrência embutida e forte suporte à programação de rede são características que atraem desenvolvedores que buscam uma linguagem rápida, segura e escalável para seus projetos.

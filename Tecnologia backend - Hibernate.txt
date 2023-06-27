@@ -1,0 +1,12 @@
+Tecnologia backend - Hibernate
+
+
+Hibernate é um framework de mapeamento objeto-relacional (ORM) para Java. Ele fornece uma solução para mapear objetos Java para tabelas de um banco de dados relacional. Com o Hibernate, os desenvolvedores podem escrever código Java orientado a objetos e deixar que o framework cuide da persistência dos dados no banco de dados.
+
+O Hibernate simplifica o acesso a dados, permitindo que os desenvolvedores trabalhem com objetos Java em vez de escrever consultas SQL manualmente. Ele faz isso por meio de anotações ou mapeamentos XML que descrevem a relação entre as classes Java e as tabelas do banco de dados. O Hibernate é capaz de traduzir operações de manipulação de objetos em consultas SQL apropriadas, executando as ações necessárias no banco de dados.
+
+A principal vantagem do Hibernate é sua capacidade de fornecer um mapeamento transparente entre o modelo de objetos Java e a estrutura do banco de dados relacional. Ele facilita o desenvolvimento de aplicativos Java que exigem persistência de dados, permitindo que os desenvolvedores se concentrem na lógica de negócios em vez de escrever consultas SQL complexas.
+
+Além disso, o Hibernate oferece recursos avançados, como cache de primeiro e segundo nível para melhorar o desempenho, suporte a transações ACID (Atomicidade, Consistência, Isolamento e Durabilidade) e integração com outras tecnologias Java, como JPA (Java Persistence API).
+
+Em resumo, o Hibernate é uma tecnologia backend popular que simplifica o desenvolvimento de aplicativos Java com persistência de dados. Ele permite que os desenvolvedores trabalhem com objetos Java em vez de lidar diretamente com consultas SQL, facilitando o desenvolvimento e manutenção de aplicativos que envolvem interações com bancos de dados relacionais.

@@ -1,0 +1,19 @@
+Gerenciamento de produtos com Kanban
+
+O Kanban é um método ágil de gerenciamento de produtos que se concentra na visualização e no fluxo contínuo de trabalho. Ele permite que as equipes monitorem e controlem o progresso das tarefas, minimizem gargalos e maximizem a eficiência. O gerenciamento de produtos com Kanban envolve as seguintes práticas:
+
+1. Quadro Kanban: O quadro Kanban é uma representação visual do fluxo de trabalho, dividido em colunas que representam as etapas do processo, como "A fazer", "Em andamento" e "Concluído". Cada tarefa é representada por um cartão ou uma nota adesiva, que se move pelas colunas à medida que progride no processo.
+
+2. Limites de trabalho em progresso (WIP): O Kanban impõe limites ao número de tarefas que podem estar em andamento em cada coluna do quadro Kanban. Esses limites ajudam a controlar o fluxo de trabalho e a evitar a sobrecarga da equipe. Uma nova tarefa só pode ser iniciada quando uma tarefa existente for concluída ou movida para a próxima coluna.
+
+3. Transparência e visibilidade: O Kanban enfatiza a transparência, permitindo que todos os membros da equipe vejam claramente o status do trabalho em andamento. O quadro Kanban é atualizado em tempo real, e as informações sobre o progresso, os bloqueios e as dependências das tarefas são facilmente visíveis para todos.
+
+4. Fluxo contínuo: O objetivo principal do Kanban é manter um fluxo contínuo de trabalho, evitando interrupções e gargalos. As tarefas são movidas pelo quadro Kanban de acordo com a capacidade da equipe e as prioridades definidas pelo Product Owner. Isso ajuda a minimizar o tempo de espera e a maximizar a eficiência.
+
+5. Melhoria contínua: O Kanban promove a melhoria contínua por meio de feedback e análise de dados. As equipes revisam regularmente o fluxo de trabalho, identificam gargalos e ineficiências, e buscam maneiras de aprimorar o processo. Métricas como o tempo médio de ciclo, o lead time e o tempo de resposta são monitoradas para ajudar na identificação de áreas de melhoria.
+
+6. Colaboração e auto-organização: O Kanban incentiva a colaboração entre os membros da equipe e permite que eles se auto-organizem. Cada membro da equipe é responsável por entender as prioridades, tomar decisões sobre o trabalho e colaborar com os outros para manter o fluxo contínuo.
+
+7. Gestão baseada em demanda: O Kanban é orientado pela demanda do cliente ou do Product Owner. As tarefas são adicionadas ao quadro Kanban à medida que surgem novas demandas e são priorizadas de acordo com as necessidades e os objetivos do produto.
+
+O gerenciamento de produtos com Kanban oferece uma abordagem visual, flexível e orientada para resultados. Ele permite que as equipes sejam mais ágeis, melhorem a eficiência e a entrega contínua de valor, além de promover uma maior colaboração e transparência no processo de desenvolvimento do produto.

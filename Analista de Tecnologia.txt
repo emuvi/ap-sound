@@ -1,0 +1,441 @@
+Capítulo. Analista de Tecnologia.
+
+
+Tópico 1. Segurança da Informação.
+
+
+Item. 1. ISO 27000.
+
+Item. 1.1. ISO 27000 – confiabilidade.
+
+Item. 1.2. ISO 27000 – integridade.
+
+Item. 1.3. ISO 27000 – disponibilidade.
+
+Item. 2. Mecanismos de segurança.
+
+Item. 2.1. Mecanismos de segurança - Criptografia.
+
+Item. 2.1.1. Mecanismos de segurança - Criptografia simétrica.
+
+Item. 2.1.1. Mecanismos de segurança - Criptografia assimétrica.
+
+Item. 2.1.3. Mecanismos de segurança - Algoritmos de criptografia em detalhes.
+
+Item. 2.2. Mecanismos de segurança - Assinatura digital.
+
+Item. 2.3. Mecanismos de segurança - Garantia de integridade.
+
+Item. 2.4. Mecanismos de segurança - Controle de acesso.
+
+Item. 2.5. Mecanismos de segurança - Certificação digital.
+
+Item. 2.6. Mecanismos de segurança - ICP-Brasil.
+
+Item. 3. Gerência de riscos.
+
+Item. 3.1. Gerência de riscos - Ameaça, vulnerabilidade e impacto.
+
+Item. 4. Políticas de segurança.
+
+Item. 4.1. Políticas de segurança - NBR ISO/IEC 27002:2005.
+
+Item. 4.2. Políticas de segurança - NBR ISO/IEC 27001:2013.
+
+Item. 4.3. Políticas de segurança - NBR ISO/IEC 15408.
+
+Item. 5. Políticas de senhas.
+
+Item. 5.1. Políticas de senhas - Autenticação de dois fatores (MFA).
+
+Item. 6. Autenticação e autorização.
+
+Item. 6.1. Autenticação e autorização - OAuth 2.
+
+Item. 6.2. Autenticação e autorização - JWT.
+
+Item. 6.3. Autenticação e autorização - SSO.
+
+Item. 6.4. Autenticação e autorização - Open ID Connect.
+
+Item. 6.5. Autenticação e autorização - SAML.
+
+Item. 7. OWASP Top 10.
+
+Item. 7.1. OWASP Top 10 - O que mudou em 2021.
+
+
+Tópico 2. Gerenciamento e Sustentação de Software.
+
+
+Item. 1. Gerenciamento de Produtos de Software.
+
+Item. 1.1. Gerenciamento de produtos com métodos ágeis.
+
+Item. 1.2. Gerenciamento de produtos com Scrum.
+
+Item. 1.3. Gerenciamento de produtos com Kanban.
+
+Item. 1.4. Gerenciamento de produtos com XP.
+
+Item. 1.5. Gerenciamento de produtos com Lean.
+
+Item. 2. Gerenciamento de serviços (ITIL V4).
+
+
+Tópico 3. Tecnologia.
+
+
+Item. 1. Banco de dados.
+
+Item. 1.1. Arquitetura de banco de dados.
+
+Item. 1.1.1. Banco de dados relacional PostgreSQL.
+
+Item. 1.1.2. Banco de dados relacional Oracle.
+
+Item. 1.1.3. Banco de dados relacional SqlServer.
+
+Item. 1.1.4. Banco de dados não relacional orientado a documento.
+
+Item. 1.1.5. Banco de dados não relacional chave-valor.
+
+Item. 1.1.6. Banco de dados não relacional grafo.
+
+Item. 1.1.7. Banco de dados não relacional colunar.
+
+Item. 1.1.8. Banco de dados não relacional time series.
+
+Item. 1.2. Modelagem de banco de dados.
+
+Item. 1.2.1. Modelagem de banco de dados físico.
+
+Item. 1.2.2. Modelagem de banco de dados lógico.
+
+Item. 1.2.3. Modelagem de banco de dados conceitual.
+
+Item. 1.3. Sistemas de banco de dados.
+
+Item. 1.3. Sistemas de banco de dados - álgebra relacional.
+
+Item. 1.3. Sistemas de banco de dados - SQL/ANSI.
+
+Item. 1.3. Sistemas de banco de dados - linguagens procedurais embarcadas.
+
+Item. 1.4. Gestão de banco de dados.
+
+Item. 1.4.2. Gestão de banco de dados - controle de acesso, usuário e papeis.
+
+Item. 1.4.3. Gestão de banco de dados - cálculo volumétrico.
+
+Item. 1.4.4. Gestão de banco de dados - replicação, cluster e particionamento.
+
+Item. 1.4.5. Gestão de banco de dados - esquemas.
+
+Item. 2. Servidores web e de aplicação.
+
+Item. 2.1. Servidor web e de aplicação - Wildfly.
+
+Item. 2.2. Servidor web e de aplicação - IIS.
+
+Item. 2.3. Servidor web e de aplicação - Apache.
+
+Item. 2.4. Servidor web e de aplicação - Nginx.
+
+Item. 3. Linguagens de programação.
+
+Item. 3.2. Linguagem de programação - Java.
+
+Item. 3.3. Linguagem de programação - JavaScript.
+
+Item. 3.4. Linguagem de programação - TypeScript.
+
+Item. 3.5. Linguagem de programação - Python.
+
+Item. 3.6. Linguagem de programação - PHP.
+
+Item. 3.7. Linguagem de programação - C#.
+
+Item. 3.8. Linguagem de programação - Go.
+
+Item. 4. Tecnologias frontend web.
+
+Item. 4.1. Tecnologia frontend web - HTML.
+
+Item. 4.2. Tecnologia frontend web - CSS.
+
+Item. 4.3. Tecnologia frontend web - Ajax.
+
+Item. 4.4. Tecnologia frontend web - Bootstrap.
+
+Item. 4.5. Tecnologia frontend web - Angular.
+
+Item. 4.6. Tecnologia frontend web - VueJS.
+
+Item. 4.7. Tecnologia frontend web - React.
+
+Item. 4.8. Tecnologia frontend web - padrões de frontend.
+
+Item. 4.8.1. Tecnologia frontend web - SPA e PWA.
+
+Item. 4.9. Design de interface e de experiência do usuário.
+
+Item. 4.9.1. Design de interface e de experiência do usuário - responsividade.
+
+Item. 4.9.2. Design de interface e de experiência do usuário - usabilidade.
+
+Item. 4.9.3. Design de interface e de experiência do usuário - acessibilidade.
+
+Item. 4.9.4. Design de interface e de experiência do usuário - prototipação.
+
+Item. 4.9.5. Design de interface e de experiência do usuário - testes A/B.
+
+Item. 5. Tecnologias backend.
+
+Item. 5.1. Tecnologia backend - Hibernate.
+
+Item. 5.2. Tecnologia backend - .NET Core.
+
+Item. 5.3. Tecnologia backend -  Quarkus.
+
+Item. 5.4. Tecnologia backend - SpringBoot.
+
+Item. 5.5. Tecnologia backend - Flask.
+
+Item. 5.6. Tecnologia backend - Django.
+
+Item. 5.7. Tecnologia backend - NodeJS.
+
+Item. 5.8. Tecnologia backend - Express.
+
+Item. 5.9. Tecnologia backend - NextJS.
+
+Item. 5.10. Tecnologia backend - NestJS.
+
+Item. 5.11. Tecnologia backend - Especificação JEE.
+
+Item. 5.12. Tecnologia backend - Especificação JEE - JPA.
+
+Item. 5.13. Tecnologia backend - Especificação JEE - EJB.
+
+Item. 5.14. Tecnologia backend - Especificação JEE - JSF.
+
+Item. 5.15. Tecnologia backend - Especificação JEE - JMS.
+
+Item. 5.16. Tecnologia backend - Especificação JEE - JTA.
+
+Item. 5.17. Tecnologia backend - Especificação JVM.
+
+Item. 6. Tecnologias de desenvolvimento móvel.
+
+Item. 6. Tecnologia de desenvolvimento móvel - Android (Kotlin).
+
+Item. 6. Tecnologia de desenvolvimento móvel - IOS (Swift).
+
+Item. 6. Tecnologia de desenvolvimento móvel - Flutter.
+
+Item. 6. Tecnologia de desenvolvimento móvel - ReactNative.
+
+Item. 6. Tecnologia de desenvolvimento móvel - Ionic.
+
+Item. 6. Tecnologia de desenvolvimento móvel - Xamarin.
+
+Item. 6. Tecnologia de desenvolvimento móvel - Banco de Dados SQLite.
+
+Item. 7. Ferramentas de gestão de configuração.
+
+Item. 7. Ferramentas de gestão de configuração - Git.
+
+Item. 7. Ferramentas de gestão de configuração - GitLab.
+
+Item. 7. Ferramentas de gestão de configuração - CI/CD.
+
+Item. 7. Ferramentas de gestão de configuração - GitLab CI.
+
+Item. 8. Protocolos HTTPS, SSL/TLS, HTTP/2, gRPC e WebSockets.
+
+Item. 9. Ferramentas de integração assíncrona.
+
+Item. 9.1. Protocolos AMQP e MQTT.
+
+Item. 9.2. Ferramentas Kafka, NATS Streaming, ActiveMQ, RabbitMQ e WebSphereMQ.
+
+Item. 10. Containers.
+
+Item. 10.1. Docker.
+
+Item. 10.2. Orquestração de Containers.
+
+Item. 10.2.1. Kubernetes.
+
+Item. 10.2.2. OpenShift.
+
+Tópico 4. Engenharia de Software.
+
+Item. 1. Engenharia de requisitos.
+
+Item. 1.1. Gestão de backlog.
+
+Item. 1.2. Produto mínimo viável (MVP).
+
+Item. 1.3. Gestão de Dívida Técnica.
+
+Item. 1.4. Técnicas de priorização, de estimativas (Análise de Pontos de Função, Story Points).
+
+Item. 2. Análise e projeto.
+
+Item. 3. Implementação: orientação a objetos, estrutura de dados e algoritmos.
+
+Item. 3.1. Estrutura de Arquivos.
+
+Item. 3.2. Estrutura de Dados.
+
+Item. 3.3. Orientação a Objetos.
+
+Item. 3.4. Métodos de Ordenação.
+
+Item. 3.5. Complexidade de Algoritmos.
+
+Item. 3.6. Pesquisa de Dados.
+
+Item. 4. Qualidade.
+
+Item. 4.1. Análise estática de código.
+
+Item. 4.2. Teste unitário.
+
+Item. 4.3. Mock, stubs.
+
+Item. 4.4. Teste de integração.
+
+Item. 4.5. Teste de RNF (carga, estresse).
+
+Item. 4.6. Revisão e programação por pares.
+
+Item. 5. Gestão de configuração.
+
+Item. 5.1. DevOps, modelo de versionamento, merge, branch, pipeline, CI/CD e database migration.
+
+Item. 5.1.1. DevOps.
+
+Item. 5.1.2. Controle de Versão.
+
+Item. 6. Infraestrutura.
+
+Item. 6.1. Infraestrutura como código (IAC).
+
+Item. 6.2. Linguagens de script (Ansible, Terraform, ShellScript).
+
+Item. 7. Resiliência de aplicações.
+
+Item. 7.1. Técnica (Cache, Fallback, Circuitbrake, Disaster Recovery, Contingência, Balanceamento de Carga Global de Servidores (GSLB), Site Ativo X Ativo).
+
+Item. 8. Monitoração e observabilidade.
+
+Item. 9. Low-code e no-code software development.
+
+Tópico 5. Arquitetura.
+
+Item. 1. Padrões de projeto (GoF, de criação, estruturais, comportamentais)
+
+Item. 1.1. Padrões de Projeto
+
+Item. 2. Padrões GRASP (controller, expert).
+
+Item. 3. SOLID e Clean Code.
+
+Item. 4. Tecnologias de integração.
+
+Item. 4.1. Workflow.
+
+Item. 4.2. Web services.
+
+Item. 4.2.1. RESTful, SOAP e GraphQL.
+
+Item. 4.3. Mensageria, stream e CORBA.
+
+Item. 5. Design de software.
+
+Item. 5.1. DDD - Domain-Driven Design.
+
+Item. 5.2. Arquitetura hexagonal.
+
+Item. 5.3. Microsserviços (orquestração de serviços e API gateway) e containers.
+
+Item. 5.3.1. Padrões de microsserviços (SAGA e CQRS).
+
+Item. 6. Transações distribuídas.
+
+
+Tópico 6. Nuvem.
+
+
+Item. 1. 12 factories.
+
+Item. 2. Orientação a serviço.
+
+Item. 2.1. IaaS - Infraestrutura com Serviço.
+
+Item. 2.2. SaaS – Software como Serviço.
+
+Item. 2.3. PaaS – Plataforma como Serviço.
+
+
+Tópico 7. Assuntos Avançados.
+
+
+Item. 1. Inteligência artificial.
+
+Item. 1.1. Análise de dados (Pandas, NumPy, Jupiter, R).
+
+Item. 1.2. Aprendizado de máquina.
+
+Item. 1.2.1. Técnicas de classificação.
+
+Item. 1.2.2. Técnicas de regressão.
+
+Item. 1.2.3. Técnicas de agrupamento.
+
+Item. 1.2.4. Técnicas de redução de dimensionalidade.
+
+Item. 1.2.5. Técnicas de associação.
+
+Item. 1.2.6. Sistemas de recomendação.
+
+Item. 1.3. Processamento de linguagem natural (PLN).
+
+Item. 1.4. Visão computacional.
+
+Item. 1.5. Deep learning.
+
+Item. 2. Ciência de dados.
+
+Item. 2.1. Big Data.
+
+Item. 2.1.1. Fundamentos.
+
+Item. 2.1.2. Armazenamento de big data.
+
+Item. 2.1.3. Pipeline de dados.
+
+Item. 2.1.4. Processamento distribuído.
+
+Item. 2.1.5. Conceitos de data lake.
+
+Item. 2.2. Armazenamento de Dados.
+
+Item. 2.2.1. Sistemas de arquivos distribuídos.
+
+Item. 2.2.2. Armazenamento orientado a objeto (object store).
+
+Item. 2.2.3. Sistemas de indexação.
+
+Item. 2.3. Processamento de Dados.
+
+Item. 2.3.1. Conceitos de processamento massivo e paralelo.
+
+Item. 2.3.2. Processamento em lote (batch).
+
+Item. 2.3.3. Processamento em tempo real (real time).
+
+Item. 2.3.4. Processamento MapReduce

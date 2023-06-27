@@ -1,0 +1,20 @@
+Tecnologia frontend web - Bootstrap
+
+
+Bootstrap é um framework de código aberto amplamente utilizado para desenvolvimento frontend web. Ele fornece um conjunto de componentes, estilos e recursos prontos para uso, que permitem criar rapidamente interfaces modernas, responsivas e esteticamente agradáveis.
+
+Aqui estão alguns conceitos e recursos importantes relacionados ao Bootstrap:
+
+1. Grid System: O Bootstrap possui um sistema de grid responsivo que facilita a criação de layouts flexíveis. O sistema de grid é baseado em colunas e filas, permitindo que os elementos da página sejam organizados em diferentes tamanhos de tela. Com o grid do Bootstrap, é possível criar layouts com diferentes combinações de colunas e definir o comportamento de acordo com os dispositivos.
+
+2. Componentes prontos para uso: O Bootstrap oferece uma ampla variedade de componentes pré-estilizados, como menus de navegação, botões, formulários, tabelas, carrosséis, modais, entre outros. Esses componentes podem ser facilmente integrados às páginas web, economizando tempo e esforço de desenvolvimento.
+
+3. Responsividade: A responsividade é um dos principais recursos do Bootstrap. Todos os componentes e o sistema de grid são projetados para se adaptar a diferentes tamanhos de tela, desde dispositivos móveis até desktops. Com o Bootstrap, você pode criar páginas que se ajustam automaticamente e oferecem uma experiência consistente em dispositivos de diferentes resoluções.
+
+4. Personalização: Embora o Bootstrap ofereça estilos e componentes prontos para uso, é possível personalizar a aparência e o comportamento do framework. Você pode usar o Bootstrap de forma modular, selecionando apenas os componentes e estilos necessários para o seu projeto. Além disso, o Bootstrap oferece variáveis e mixins CSS que podem ser ajustados para atender às suas necessidades de design.
+
+5. Suporte a JavaScript: O Bootstrap também inclui uma biblioteca JavaScript que fornece recursos interativos, como animações, manipulação de eventos e interações com componentes. Essa biblioteca é baseada no jQuery, mas também pode ser utilizada com outras bibliotecas JavaScript, como o React ou o Vue.js.
+
+6. Compatibilidade entre navegadores: O Bootstrap é projetado para ser compatível com os principais navegadores web, garantindo que as páginas criadas com o framework sejam exibidas corretamente em diferentes ambientes.
+
+O Bootstrap simplifica o desenvolvimento frontend, oferecendo uma ampla gama de recursos prontos para uso e uma base sólida para a criação de interfaces web modernas e responsivas. É amplamente adotado pela comunidade de desenvolvedores e oferece uma solução eficaz para acelerar o processo de desenvolvimento frontend.
