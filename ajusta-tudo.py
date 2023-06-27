@@ -16,6 +16,17 @@ def adjust_empty_lines(text):
     return result
 
 
+def adjust_chapter(text):
+    print('Ajustando capítulos...')
+    text[0] = text[0].strip()
+    if not text[0].startswith('Capítulo. '):
+        text[0] = 'Capítulo. ' + text[0]
+    if not text[0].endswith('.'):
+        text[0] = text[0] + '.'
+    text[0] = text[0] + '\n'
+    return text
+
+
 def list_paths():
     return [p for p in os.listdir('.') if p[-4:] == '.txt']
 
@@ -29,6 +40,7 @@ def read_text(path):
 def adjust_text(text):
     print('Ajustando: ' + path)
     text = adjust_empty_lines(text)
+    text = adjust_chapter(text)
     return text
 
 
