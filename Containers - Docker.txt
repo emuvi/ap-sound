@@ -1,4 +1,21 @@
-Capítulo. Docker.
+Capítulo. Containers - Docker.
+
+
+O Docker é uma plataforma de código aberto que permite criar, implantar e executar aplicativos em contêineres. Um contêiner é uma unidade leve e isolada que empacota todo o ambiente necessário para executar um aplicativo, incluindo o código, as bibliotecas, as dependências e as variáveis de ambiente. Com o Docker, é possível criar contêineres independentes e portáteis que podem ser executados em qualquer ambiente, desde servidores locais até ambientes em nuvem.
+
+Aqui estão alguns conceitos-chave relacionados ao Docker:
+
+Item. 1. Imagens: Uma imagem Docker é uma representação somente leitura de um contêiner. Ela contém todo o sistema de arquivos necessário para executar um aplicativo, juntamente com as dependências e configurações específicas. As imagens Docker são criadas a partir de um arquivo chamado Dockerfile, que especifica as instruções para construir a imagem.
+
+Item. 2. Contêineres: Um contêiner Docker é uma instância em execução de uma imagem. Ele oferece um ambiente isolado para a execução de um aplicativo, garantindo que as dependências e configurações sejam consistentes. Os contêineres Docker são leves, inicializam rapidamente e compartilham o kernel do sistema operacional host, o que os torna eficientes em termos de recursos.
+
+Item. 3. Registro: Um registro Docker é um repositório de imagens Docker. O Docker Hub é o registro público padrão, que oferece uma ampla variedade de imagens prontas para uso. No entanto, também é possível configurar registros privados para armazenar e compartilhar imagens personalizadas dentro de uma organização.
+
+Item. 4. Docker Compose: O Docker Compose é uma ferramenta que permite definir e executar aplicativos multi-container. Com um arquivo chamado docker-compose.yml, você pode especificar os serviços, as redes e os volumes necessários para um aplicativo composto por vários contêineres. O Docker Compose simplifica a orquestração e a execução de aplicativos com várias partes.
+
+Item. 5. Orquestração: Embora o Docker seja uma ferramenta poderosa para criar e executar contêineres isolados, ele não oferece recursos avançados de orquestração, como o dimensionamento automático e o gerenciamento de vários contêineres em cluster. Para isso, são usadas plataformas de orquestração de contêineres, como o Kubernetes ou o OpenShift, que podem gerenciar e orquestrar os contêineres Docker em ambientes distribuídos.
+
+O Docker revolucionou a forma como os aplicativos são empacotados e implantados, fornecendo uma solução padronizada para a execução de aplicativos em contêineres. Ele facilita a criação de ambientes consistentes e reproducíveis, além de simplificar o processo de implantação e escalabilidade de aplicativos em contêineres.
 
 
 Caros alunos (as), o Docker é um software usado como contêiner da empresa Docker, Inc, que fornece uma camada de abstração e automação para virtualização de sistema operacional no Windows e no Linux.

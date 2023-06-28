@@ -262,13 +262,13 @@ Item. 9.2. Ferramentas Kafka, NATS Streaming, ActiveMQ, RabbitMQ e WebSphereMQ.
 
 Item. 10. Containers.
 
-Item. 10.1. Docker.
+Item. 10.1. Containers - Docker.
 
 Item. 10.2. Orquestração de Containers.
 
-Item. 10.2.1. Kubernetes.
+Item. 10.2.1. Orquestração de Containers - Kubernetes.
 
-Item. 10.2.2. OpenShift.
+Item. 10.2.2. Orquestração de Containers - OpenShift.
 
 Tópico 4. Engenharia de Software.
 
@@ -314,11 +314,19 @@ Item. 4.6. Revisão e programação por pares.
 
 Item. 5. Gestão de configuração.
 
-Item. 5.1. DevOps, modelo de versionamento, merge, branch, pipeline, CI/CD e database migration.
+Item. 5.1. Engenharia de Software - Gestão do Código.
 
-Item. 5.1.1. DevOps.
+Item. 5.1.1. Engenharia de Software - Gestão do Código - DevOps.
 
-Item. 5.1.2. Controle de Versão.
+Item. 5.1.2. Engenharia de Software - Gestão do Código - Controle de Versão.
+
+Item. 5.1.2. Engenharia de Software - Gestão do Código - Controle de Versão - merge.
+
+Item. 5.1.2. Engenharia de Software - Gestão do Código - Controle de Versão - branch.
+
+Item. 5.1.2. Engenharia de Software - Gestão do Código - Controle de Versão - pipeline CI/CD.
+
+Item. 5.1.2. Engenharia de Software - Gestão do Código - Controle de Versão - database migration.
 
 Item. 6. Infraestrutura.
 
@@ -334,15 +342,21 @@ Item. 8. Monitoração e observabilidade.
 
 Item. 9. Low-code e no-code software development.
 
-Tópico 5. Arquitetura.
+Tópico 5. Arquitetura de Software.
 
-Item. 1. Padrões de projeto (GoF, de criação, estruturais, comportamentais)
+Item. 1. Arquitetura de Software - Padrões de Projeto Orientado a Objetos.
 
-Item. 1.1. Padrões de Projeto
+Item. 1.1.1. Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Criacionais.
 
-Item. 2. Padrões GRASP (controller, expert).
+Item. 1.1.2. Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Estruturais.
 
-Item. 3. SOLID e Clean Code.
+Item. 1.1.3. Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Comportamentais.
+
+Item. 2. Arquitetura de Software - Padrões GRASP.
+
+Item. 3. Arquitetura de Software - SOLID.
+
+Item. 3. Arquitetura de Software - Código Limpo.
 
 Item. 4. Tecnologias de integração.
 

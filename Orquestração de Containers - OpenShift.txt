@@ -1,4 +1,23 @@
-Capítulo. OpenShift.
+Capítulo. Orquestração de Containers - OpenShift.
+
+
+O OpenShift é uma plataforma de contêineres baseada no Kubernetes, desenvolvida pela Red Hat. Ele fornece recursos adicionais e uma experiência aprimorada em relação ao Kubernetes padrão. O OpenShift adiciona camadas extras de abstração e automação, facilitando a implantação, o gerenciamento e a escala de aplicativos em contêineres.
+
+Aqui estão alguns aspectos-chave da orquestração de contêineres com o OpenShift:
+
+Item. 1. Construção e Implantação: O OpenShift oferece recursos integrados para compilar e implantar aplicativos em contêineres. Ele suporta várias opções de build, incluindo a criação de imagens Docker, builds baseados em código-fonte e integração com sistemas de controle de versão, como o Git. Além disso, o OpenShift permite a implantação automatizada de aplicativos em contêineres usando implantações declarativas.
+
+Item. 2. Gerenciamento de Imagens: O OpenShift possui seu próprio registro de imagens, chamado de OpenShift Container Registry. Ele permite armazenar, compartilhar e gerenciar imagens de contêineres em um ambiente seguro. O registro de imagens também suporta a construção de imagens internamente, bem como integração com registros externos, como o Docker Hub.
+
+Item. 3. Projetos e Multitenancy: O OpenShift permite a criação de projetos, que são espaços isolados para equipes ou aplicativos. Os projetos fornecem isolamento de recursos, controle de acesso e segregação de rede entre os aplicativos implantados no cluster do OpenShift. Isso facilita a implantação de vários aplicativos em um único cluster, fornecendo recursos de multitenancy.
+
+Item. 4. CI/CD: O OpenShift suporta pipelines de integração contínua e entrega contínua (CI/CD). Ele permite a configuração de pipelines automatizados para construir, testar e implantar aplicativos em contêineres. Os pipelines podem ser configurados para serem acionados automaticamente em resposta a eventos, como alterações no código-fonte ou em um repositório Git.
+
+Item. 5. Monitoramento e Logs: O OpenShift possui recursos integrados de monitoramento e registro de logs. Ele oferece suporte a várias soluções de monitoramento, como Prometheus, Grafana e Elastic Stack, para ajudar a coletar métricas e monitorar o desempenho dos aplicativos em contêineres. Além disso, o OpenShift permite o envio de logs de aplicativos para soluções de centralização de logs, como o Elasticsearch e o Splunk.
+
+Item. 6. Operações e Escalabilidade: O OpenShift fornece recursos avançados de operações e escalabilidade. Ele suporta a escalabilidade automática com base em métricas, permitindo que os aplicativos se adaptem dinamicamente às demandas de carga. O OpenShift também oferece recursos de implantação e rollback de aplicativos, além de permitir a aplicação de políticas de acesso e segurança granulares.
+
+Esses são apenas alguns dos recursos e benefícios que o OpenShift oferece para a orquestração de contêineres. Ele simplifica a implantação e o gerenciamento de aplicativos em contêineres, fornecendo uma camada adicional de abstração e automação em cima do Kubernetes.
 
 
 O OpenShift é uma ferramenta muito poderosa que além de orquestrar e gerenciar containers, oferece segurança, monitoramento e controle. Com o OpenShift podemos criar um ambiente baseado em containers e colocar aplicações construídas em diversas linguagens como: Java, Python, Ruby, e PHP, para rodar e escalar facilmente, trazendo maior agilidade no desenvolvimento utilizando metodologias DevOps, atendendo mais rapidamente e com menor esforço as demandas de negócio.
