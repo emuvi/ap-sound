@@ -1,6 +1,27 @@
-Capítulo. Pool - Orientação a Objetos.
+Capítulo. Desenvolvimento de Software - Orientação a Objetos.
 
-De Pointel - PiWiKi
+
+A orientação a objetos é um paradigma de programação que organiza o código em torno de objetos, que são instâncias de classes. Ela se baseia em quatro princípios fundamentais: encapsulamento, herança, polimorfismo e abstração.
+
+Item. 1. Encapsulamento: É o princípio que define a restrição de acesso direto aos dados de um objeto e a necessidade de utilizar métodos (funções) para manipulá-los. Isso significa que os dados internos de um objeto são protegidos e só podem ser acessados ou modificados através de métodos específicos. O encapsulamento ajuda a garantir a integridade dos dados e evita a dependência direta entre diferentes partes do código.
+
+Item. 2. Herança: É um mecanismo que permite que uma classe herde características (atributos e métodos) de outra classe, estabelecendo uma relação de especialização. A classe que herda é chamada de classe derivada ou subclasse, e a classe que é herdada é chamada de classe base ou superclasse. A herança permite reutilizar o código existente, promovendo a modularidade e a extensibilidade do sistema.
+
+Item. 3. Polimorfismo: É a capacidade de um objeto se comportar de diferentes formas, dependendo do contexto em que é utilizado. O polimorfismo permite que objetos de diferentes classes sejam tratados de maneira uniforme através de uma interface comum. Isso facilita a substituição de objetos em tempo de execução e possibilita o desenvolvimento de código mais flexível e extensível.
+
+Item. 4. Abstração: É o processo de identificar as características essenciais de um objeto ou conceito e modelá-las em uma classe. A abstração permite simplificar a complexidade do sistema, concentrando-se apenas nos aspectos relevantes e ocultando detalhes desnecessários. As classes abstratas fornecem uma base para a criação de objetos concretos.
+
+A orientação a objetos oferece vários benefícios no desenvolvimento de software, incluindo:
+
+- Reutilização de código: Através da herança e do polimorfismo, é possível aproveitar o código existente em novas classes, evitando duplicação e melhorando a produtividade.
+
+- Modularidade: A organização do código em classes e objetos facilita a divisão do sistema em partes independentes e interconectadas. Cada classe é responsável por uma funcionalidade específica, tornando o sistema mais fácil de entender, manter e testar.
+
+- Flexibilidade e extensibilidade: Através do polimorfismo e da abstração, é possível adicionar novas funcionalidades ao sistema sem alterar o código existente. Isso permite que o sistema seja adaptado e evoluído de forma mais eficiente.
+
+- Facilidade de manutenção: O encapsulamento e a separação de responsabilidades entre as classes tornam as alterações e correções de bugs mais localizadas, reduzindo o impacto em outras partes do sistema.
+
+A orientação a objetos é amplamente utilizada em diversas linguagens de programação, como Java, C++, C#, Python, entre outras. Dominar os conceitos e princípios da orientação a objetos é essencial para desenvolver sistemas robustos, flexíveis e de qualidade.
 
 
 A Orientação a Objetos tem alguns pilares que devem ser implementados em qualquer linguagem de programação. Muitas linguagens procedurais possuem caraterísticas semelhantes à orientação a objetos, como a similaridade dos registros em C com classes, mas isso não basta que algumas dessas características estejam presentes para ser considerada uma linguagem orientada a objetos! Professor, e quais são esses pilares?? Padawan, nunca se esqueça, uma linguagem de programação só pode ser chamada de OO se tiver suporte nativo a: Encapsulamento, Herança, Composição e Polimorfismo. Alguns autores afirmar que as quatro caraterística na verdade são somente uma: o princípio da abstração.

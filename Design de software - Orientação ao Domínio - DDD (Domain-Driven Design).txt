@@ -1,7 +1,31 @@
-Capítulo. Pool - Orientação ao Domínio.
+Capítulo. Design de software - Orientação ao Domínio - DDD (Domain-Driven Design).
+
+
+O Domain-Driven Design (DDD), ou Design Orientado ao Domínio, é uma abordagem de design de software que se concentra na modelagem do domínio do problema em questão. Ele visa criar um design que reflita de forma precisa e efetiva as regras e conceitos do negócio, com o objetivo de desenvolver sistemas que atendam às necessidades do domínio de forma eficiente e flexível.
+
+O DDD enfatiza a colaboração estreita entre desenvolvedores e especialistas do domínio, como especialistas em negócios, analistas e outros stakeholders. O processo de design começa com a exploração do domínio, compreendendo os conceitos-chave, os processos de negócio e as regras que regem o sistema.
+
+Alguns conceitos importantes no DDD incluem:
+
+Item. 1. Entidades: São objetos que têm identidade única e podem ter um ciclo de vida. As entidades são modeladas com base em conceitos do domínio, e não apenas como estruturas de dados.
+
+Item. 2. Agregados: São grupos de entidades e objetos de valor relacionados, tratados como uma unidade coesa. Os agregados são delimitados por uma raiz de agregado, que garante a consistência e a integridade das entidades relacionadas.
+
+Item. 3. Objetos de Valor: São objetos que representam conceitos imutáveis e sem identidade própria. Eles encapsulam um conjunto de atributos e fornecem funcionalidades específicas.
+
+Item. 4. Contexto Delimitado: O DDD preconiza a divisão do sistema em contextos delimitados, onde cada contexto é responsável por um subconjunto específico do domínio. Isso permite uma melhor compreensão e modelagem das regras de negócio e ajuda a evitar problemas de complexidade e dependências excessivas.
+
+Item. 5. Linguagem Ubíqua: A linguagem ubíqua é uma linguagem compartilhada entre desenvolvedores e especialistas do domínio. Ela consiste em termos e conceitos que refletem o vocabulário do domínio de negócio. Uma linguagem ubíqua ajuda a melhorar a comunicação e o alinhamento entre os membros da equipe.
+
+O DDD também promove o uso de padrões arquiteturais, como o padrão Repository para o acesso a dados, o padrão Service para a orquestração de operações e o padrão Factory para a criação de objetos complexos.
+
+Ao aplicar o DDD, é essencial considerar a evolução contínua do design e a iteração com os especialistas do domínio. O objetivo é criar um modelo de domínio rico e expressivo, que seja uma representação fiel das regras e do comportamento do negócio.
+
+O DDD é uma abordagem poderosa para o design de software em domínios complexos, onde a compreensão profunda e precisa do negócio é crucial para o sucesso do projeto. No entanto, é importante equilibrar o uso adequado dos conceitos do DDD com as necessidades e restrições do projeto, evitando complexidade desnecessária quando não é justificada.
 
 
 Design Orientado ao Domínio (Domain-Driven Design – DDD)
+
 Um domínio geralmente é mais extenso do que alguns objetos e, para torná-lo mais gerenciável, o DDD divide um domínio em subdomínios. O termo DDD 'domínio do problema' é usado para definir uma área funcional dentro de um contexto como uma organização ou departamento.
 O desenvolvimento de software é mais frequentemente aplicado para automatizar processos que existem no mundo real ou fornecer soluções para problemas de negócios reais. Os processos de negócios sendo automatizados ou problemas do mundo real que o software é o domínio do software. Devemos entender desde o início que o software é originado e profundamente relacionado a este domínio.
 Software é feito de código. Podemos ser tentados a gastar também muito tempo com o código e ver o software simplesmente como objetos e métodos. Considere a fabricação de carros como uma metáfora. Os trabalhadores envolvidos na fabricação de automóveis podem se especializar na produção de peças do carro, mas, ao fazê-lo, muitas vezes têm uma visão limitada do carro inteiro.
