@@ -46,17 +46,17 @@ Vamos dar uma olhada em cada um deles:
 Galera, vou ser bem sincero com vocês: esse assunto é muuuuuuuuuuuuito chato - e também é muito decoreba! Então, vou explicar o que eu recomendo para o estudo dessa aula - fiz uma análise estatístico rápida e cheguei a algumas conclusões! Primeiro de tudo, decore as frases porque cerca de 15% das questões de prova exigem apenas saber qual Padrão de Projeto GOF pertence a qual categoria.
 Vocês matam 15% das questões apenas decorando aquelas duas frases, certinho? Segundo, se você estiver sem tempo, ignore a categoria comportamental, visto a distribuição de questões segue a tabela mostrada acima - e ela é a que tem mais padrões. Por fim, dos 23 Padrões de Projeto, seis correspondem à 55% das questões de prova (dos 85% restantes, isto é, sem as questões de categorias). São eles, em ordem:
 
-Adapter
+Item. 1. Adapter
 
-Singleton
+Item. 2. Singleton
 
-Façade
+Item. 3. Façade
 
-Abstract Factory
+Item. 4. Abstract Factory
 
-Iterator
+Item. 5. Iterator
 
-Bridge
+Item. 6. Bridge
 
 Pessoal, se vocês estiverem com o tempo muito apertado, estudem apenas esses acima! Do mesmo modo, podemos afirmar que, dos 23 Padrões de Projeto, onze correspondem à 15% das questões de prova: Decorator, Flyweight, Proxy, Chain of Responsability, Interpreter, Mediator, Memento, State, Strategy e Template Method. Os seis padrões restantes, estão no meio termo e correspondem a 30% das questões de prova.
 
@@ -67,7 +67,7 @@ Criar famílias de objetos relacionados...
 
 PROVAVELMENTE SERÁ.
 
-ABSTRACT FACTORY
+ABSTRACT FACTORY.
 
 FALOU EM.
 
@@ -75,7 +75,7 @@ Construção de um objeto complexo com diferentes representações...
 
 PROVAVELMENTE SERÁ.
 
-BUILDER
+BUILDER.
 
 FALOU EM.
 
@@ -83,7 +83,7 @@ Deixar subclasses decidirem...
 
 PROVAVELMENTE SERÁ.
 
-FACTORY METHOD
+FACTORY METHOD.
 
 FALOU EM.
 
@@ -91,7 +91,7 @@ Criar uma instância prototípica...
 
 PROVAVELMENTE SERÁ.
 
-PROTOTYPE
+PROTOTYPE.
 
 FALOU EM.
 
@@ -99,7 +99,7 @@ Apenas uma instância com um ponto global a ela...
 
 PROVAVELMENTE SERÁ.
 
-SINGLETON
+SINGLETON.
 
 FALOU EM.
 
@@ -107,7 +107,7 @@ Converte uma interface em outra, por serem incompatíveis...
 
 PROVAVELMENTE SERÁ.
 
-ADAPTER
+ADAPTER.
 
 FALOU EM.
 
@@ -115,7 +115,7 @@ Desacoplar interface da implementação...
 
 PROVAVELMENTE SERÁ.
 
-BRIDGE
+BRIDGE.
 
 FALOU EM.
 
@@ -123,7 +123,7 @@ Estruturas de árvore em hierarquia parte-todo...
 
 PROVAVELMENTE SERÁ.
 
-COMPOSITE
+COMPOSITE.
 
 FALOU EM.
 
@@ -131,7 +131,7 @@ Anexa responsabilidades adicionais dinamicamente...
 
 PROVAVELMENTE SERÁ.
 
-DECORATOR
+DECORATOR.
 
 FALOU EM.
 
@@ -139,7 +139,7 @@ Interface unificada de alto nível para simplificar outra complexa...
 
 PROVAVELMENTE SERÁ.
 
-FAÇADE
+FAÇADE.
 
 FALOU EM.
 
@@ -147,15 +147,15 @@ Compartilhamento para suportar grandes quantidades de objetos...
 
 PROVAVELMENTE SERÁ.
 
-FLYWEIGHT
+FLYWEIGHT.
 
 FALOU EM.
 
-Prover substituto para controlar um objeto
+Prover substituto para controlar um objeto.
 
 PROVAVELMENTE SERÁ.
 
-PROXY
+PROXY.
 
 FALOU EM.
 
@@ -163,7 +163,7 @@ Evitar o acoplamento dando oportunidade a outros objetos...
 
 PROVAVELMENTE SERÁ.
 
-CHAIN OF RESPONSABILITY
+CHAIN OF RESPONSABILITY.
 
 FALOU EM.
 
@@ -171,7 +171,7 @@ Encapsula requisição de objetos...
 
 PROVAVELMENTE SERÁ.
 
-COMMAND
+COMMAND.
 
 FALOU EM.
 
@@ -179,7 +179,7 @@ Representação de uma gramática...
 
 PROVAVELMENTE SERÁ.
 
-INTERPRETER
+INTERPRETER.
 
 FALOU EM.
 
@@ -187,7 +187,7 @@ Interface única para acessar coleções sequencialmente...
 
 PROVAVELMENTE SERÁ.
 
-ITERATOR
+ITERATOR.
 
 FALOU EM.
 
@@ -195,7 +195,7 @@ Encapsula a forma como objetos interagem...
 
 PROVAVELMENTE SERÁ.
 
-MEDIATOR
+MEDIATOR.
 
 FALOU EM.
 
@@ -203,7 +203,7 @@ Captura o estado interno de um objeto...
 
 PROVAVELMENTE SERÁ.
 
-MEMENTO
+MEMENTO.
 
 FALOU EM.
 
@@ -211,7 +211,7 @@ Quando objeto mudar de estado, notifica os dependentes...
 
 PROVAVELMENTE SERÁ.
 
-OBSERVER
+OBSERVER.
 
 FALOU EM.
 
@@ -219,7 +219,7 @@ Altera comportamentos quando modificar o estado interno...
 
 PROVAVELMENTE SERÁ.
 
-STATE
+STATE.
 
 FALOU EM.
 
@@ -227,7 +227,7 @@ Família de algoritmos...
 
 PROVAVELMENTE SERÁ.
 
-STRATEGY
+STRATEGY.
 
 FALOU EM.
 
@@ -235,7 +235,7 @@ Esqueleto de algoritmos...
 
 PROVAVELMENTE SERÁ.
 
-TEMPLATE METHOD
+TEMPLATE METHOD.
 
 FALOU EM.
 
@@ -243,135 +243,135 @@ Operação a ser realizada sobre uma estrutura de objetos...
 
 PROVAVELMENTE SERÁ.
 
-VISITOR
+VISITOR.
 
 
-PADRÕES CRIACIONAIS
+PADRÕES CRIACIONAIS.
 
-DESCRIÇÃO
+DESCRIÇÃO.
 
 
-BUILDER
+BUILDER.
 
 Esse padrão separa a construção de um objeto complexo da sua representação, de forma que o mesmo processo de construção possa criar diferentes tipos de representações.
 
 
-ABSTRACT FACTORY
+ABSTRACT FACTORY.
 
 Esse padrão fornece uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.
 
 
-PROTOTYPE
+PROTOTYPE.
 
 Esse padrão especifica os tipos de objetos para criar usando uma instância como protótipo e cria novos objetos copiando este protótipo.
 
 
-SINGLETON
+SINGLETON.
 
 Esse padrão garante que uma classe tenha apenas uma instância e provê um ponto de acesso global a ela.
 
 
-FACTORY METHOD
+FACTORY METHOD.
 
 Esse padrão define uma interface para criar um objeto, mas deixa as subclasses decidirem qual classe instanciar.
 
 
-PADRÕES ESTRUTURAIS
+PADRÕES ESTRUTURAIS.
 
-DESCRIÇÃO
+DESCRIÇÃO.
 
 
-ADAPTER
+ADAPTER.
 
 Esse padrão converte a interface de uma classe em outra interface que normalmente não poderiam trabalhar juntas por serem incompatíveis.
 
 
-BRIDGE
+BRIDGE.
 
 Esse padrão desacopla uma interface de sua implementação, de forma que ambas possam variar independentemente.
 
 
-COMPOSITE
+COMPOSITE.
 
 Esse padrão compõe objetos em estruturas de árvore para representar hierarquias parte-todo, permitindo aos clientes tratarem objetos individuais e composições de objetos uniformemente.
 
 
-DECORATOR
+DECORATOR.
 
 Esse padrão anexa responsabilidades adicionais a um objeto dinamicamente. Fornece uma alternativa flexível em relação à herança para estender funcionalidades.
 
 
-FAÇADE
+FAÇADE.
 
 Esse padrão oferece uma interface unificada para um conjunto de interfaces em um subsistema, definindo uma interface de alto nível que facilita a utilização do subsistema.
 
 
-FLYWEIGHT
+FLYWEIGHT.
 
 Esse padrão utiliza compartilhamento para suportar eficientemente grandes quantidades de objetos de baixa granularidade.
 
 
-PROXY
+PROXY.
 
 Esse padrão provê um substituto ou ponto através do qual um objeto pode controlar o acesso a outro objeto.
 
 
-PADRÕES COMPORTAMENTAIS
+PADRÕES COMPORTAMENTAIS.
 
-DESCRIÇÃO
+DESCRIÇÃO.
 
 
-CHAIN OF RESONSABILITY
+CHAIN OF RESONSABILITY.
 
 Esse padrão evita o acoplamento do remetente de uma requisição ao seu receptor ao dar a mais de um objeto a chance de lidar com a requisição.
 
 
-COMMAND
+COMMAND.
 
 Esse padrão encapsula a requisição de um objeto, portanto permitindo que se parametrize os clientes com diferentes requisições.
 
 
-ITERATOR
+ITERATOR.
 
 Esse padrão fornece uma maneira de acessar elementos de um objeto agregado sequencialmente sem expor sua representação interna.
 
 
-MEDIATOR
+MEDIATOR.
 
 Esse padrão define um objeto que encapsula a forma como um conjunto de objetos interagem, promovendo um fraco acoplamento ao evitar que objetos se refiram aos outros explicitamente.
 
 
-MEMENTO
+MEMENTO.
 
 Esse padrão captura e externaliza o estado interno de um objeto, sem violar seu encapsulamento, de maneira que o objeto possa ser restaurado posteriormente.
 
 
-OBSERVER
+OBSERVER.
 
 Esse padrão define uma dependência um-para-muitos entre objetos para que, quando um objeto mudar de estado, os seus dependentes sejam notificados e atualizados automaticamente.
 
 
-STATE
+STATE.
 
 Esse padrão permite a um objeto alterar o seu comportamento quando o seu estado interno for modificado.
 
 
-STRATEGY
+STRATEGY.
 
 Esse padrão define uma família de algoritmos, encapsula cada um e faz deles intercambiáveis.
 
 
-VISITOR
+VISITOR.
 
 Esse padrão representa uma operação a ser realizada sobre elementos de uma estrutura de objetos e permite definir uma operação sem mudar as classes dos elementos sobre os quais opera.
 
 
-INTERPRETER
+INTERPRETER.
 
 Esse padrão, dada uma linguagem, define uma representação para sua gramática em conjunto com um interpretador que utiliza a representação para interpretar sentenças na linguagem.
 
 
-TEMPlATE METHOD
+TEMPlATE METHOD.
 
 Esse padrão define o esqueleto de um algoritmo dentro de uma operação, deixando alguns passos a serem preenchidos pelas subclasses.
 

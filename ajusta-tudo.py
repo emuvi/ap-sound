@@ -65,6 +65,26 @@ def adjust_chars(text):
     return result
 
 
+def adjust_lost_numbers(text):
+
+    def is_only_three_numbers(line):
+        result = False
+        if len(line) > 0 and len(line) < 4:
+            result = True
+            for c in line:
+                if not c.isdigit():
+                    result = False
+                    break
+        return result
+
+    print('Ajustando números perdidos...')
+    result = []
+    for line in text:
+        if not is_only_three_numbers(line):
+            result.append(line)
+    return result
+
+
 def list_paths():
     return [p for p in os.listdir('.') if p[-4:] == '.txt']
 
