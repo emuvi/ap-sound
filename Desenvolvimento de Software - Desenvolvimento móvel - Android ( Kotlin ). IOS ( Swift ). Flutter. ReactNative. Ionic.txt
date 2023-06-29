@@ -20,11 +20,11 @@ Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-índice
+Índice
 
 1) Dispositivos Móveis
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -34,124 +34,85 @@ Paolla Ramos e Silva
 Sumário
 
 Apresentação da Aula
-3
 
 Android
-5
 
 Conceitos Básicos.
-5
 
 Como navegar no smartphone Android
-7
 
 Controle de Processos.
-9
 
 Fundamentos de aplicativos.
-10
 
 Gerenciamento de Memória
-12
 
 Android Emulator
 1 5
 
 AndroidManifest
-18
 
 Limites da execução em segundo plano
-19
 
 Manifest.permission
-23
 
 Manifest.permission_group
-25
 
 Annotations.
-23
 
 Interfaces.
-24
 
 Classes.
-27
 
 Classes do Anadroid App
-30
 
 Android Enterprise
-35
 
 Casos de Uso Android Enterprise
-35
 
 WebK/t
-37
 
 Extras!
-42
 
 Swift
-45
 
 Conceitos Básicos.
-45
 
 Constantes e variáveis.
-47
 
 Comentários.
-51
 
 Ponto e vírgula
-52
 
 Inteiros.
-52
 
 Floating-Point Numbers.
-53
 
 Segurança de Tipo e Inferência de Tipo
-54
 
 Literais Numéricos.
-55
 
 Conversão de Tipo Numérico
-56
 
 Booleans.
-58
 
 Tuplas.
-59
 
 Operadores Básicos.
-61
 
 Strings e Caracteres.
-67
 
 Interpolação de Strings.
-69
 
 View controllers.
-73
 
 Apresentando e gerenciando visualizações com um view controller
-75
 
 Exibindo e ocultando controladores de exibição
-79
 
 U/ViewController
-81
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-3
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -164,88 +125,60 @@ Paolla Ramos e Silva
 (Profs. Paolla Ramos e Raphael Lacerda)
 
 UlTableViewController
-82
 
 UlCollectionViewController
-83
 
 UlContentContainer
-83
 
 U/SplitViewController
-84
 
 UINavigationController
-84
 
 UINavigationBar
-85
 
 UINavigationltem
-85
 
 U/TabBarController
-85
 
 UlTabBar
-86
 
 UlPageViewController
-86
 
 Protocolos.
-88
 
 ESQUEMA
-81
 
 React Native
-90
 
 lonic.
-97
 
 Flutter
-100
 
 Kotlin
-107
 
 Native
-110
 
 Kotlin - Java
-126
 
 Arquitetura de Soluções Mobile
-110
 
 Referências.
-132
 
 Questões Comentadas.
-133
 
 Android
-133
 
 Kotlin
-151
 
 React Native
-162
 
 Swift
-167
 
 Flutter
-178
 
 Gabarito
-201
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-4
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -282,7 +215,6 @@ ANDROID VERSIONS LIST: A COMPLETE HISTORY & FEATURES
 
 android
 
-10
 
 android
 
@@ -294,8 +226,7 @@ Kotlin. O Kotlin é uma linguagem moderna e concisa que traz várias melhorias e
 relação ao Java,
 tornando o desenvolvimento Android mais eficiente e agradável.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-5
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -352,15 +283,13 @@ público-alvo. Agora é
 hora de debruçar nos estudos e aprender sobre dispositivos móveis! @
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-6
 
-204
 
 
 Paolla Ramos e Silva
@@ -407,8 +336,7 @@ o Android é um sistema operacional de código aberto, desenvolvido
 principalmente para
 dispositivos móveis, como smartphones e tablets. (Gabarito: Letra D)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-7
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -465,8 +393,7 @@ Play Services, que oferece bibliotecas para integração com recursos do Google
 Play, como
 faturamento em aplicativos, atualizações e integração com o Google Assistant.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x-'"
-8
+ x-'"
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -514,8 +441,7 @@ geral dos aplicativos recentes. Com esse botão, você pode alternar rapidamente
 entre os
 aplicativos abertos e acessar funções de multitarefa.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-9
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -559,15 +485,13 @@ d) Menu, volta, Iniciar.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-10
 
-204
 
 
 Paolla Ramos e Silva
@@ -645,15 +569,13 @@ receptor de
 transmissão, o aplicativo não precisa permanecer em execução até o alarme ser desativado. Muitas
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-11
 
-204
 
 
 transmissões têm origem no sistema — por exemplo, uma transmissão que
@@ -725,14 +647,12 @@ segurança,
 que é um ambiente isolado do sistema operacional e dos demais aplicativos. Isso significa que
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-12
 
-204
 
 
 cada aplicativo tem acesso apenas aos componentes essenciais para o seu funcionamento,
@@ -804,15 +724,13 @@ outros. É
 importante ressaltar que essas permissões devem ser concedidas explicitamente pelo usuário.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-13
 
-204
 
 
 Paolla Ramos e Silva
@@ -904,8 +822,7 @@ memória
 modificada por um
 app, seja por alocação de objetos ou manipulação de páginas mapeadas, permanece armazenada
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-14
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -984,8 +901,7 @@ o tamanho
 lógico do heap. Esse tamanho pode aumentar dinamicamente, mas apenas até um limite
 definido
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-15
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -1064,8 +980,7 @@ memória física. Portanto, é crucial gerenciar cuidadosamente a alocação e l
 memória
 em aplicativos Android.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-16
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -1141,8 +1056,7 @@ localização do dispositivo, simular diferentes velocidades de rede, girar o di
 e acessar a
 Google Play Store, entre outros recursos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-17
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -1220,8 +1134,7 @@ do código, proporcionando uma experiência de uso aprimorada e uma resposta
 rápida aos
 comandos dos usuários.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-18
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -1250,15 +1163,13 @@ facilitando a
 troca de informações e enriquecendo a experiência do usuário no universo Android.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-19
 
-204
 
 
 Paolla Ramos e Silva
@@ -1321,7 +1232,7 @@ interações com o usuário.
 * <service>: Especifica os serviços em segundo plano que podem ser executados pelo
 aplicativo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 x-""' 20
 
 www.estrategiaconcursos.com.br
@@ -1399,8 +1310,7 @@ esses recursos.
 
 Limites da execução em segundo plano
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-21
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -1473,14 +1383,12 @@ condições
 a seguir for verdadeira:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-22
 
-204
 
 
 * Ele tem uma atividade visível, independentemente de ela estar em andamento ou pausada.
@@ -1550,14 +1458,12 @@ aplicativos no dispositivo.
 Guia de migração
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-23
 
-204
 
 
 A partir da versão 8.0 do Android, houve mudanças que afetam a forma como os
@@ -1629,15 +1535,13 @@ um conjunto de
 constantes pré-definidas pelo sistema Android.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-24
 
-204
 
 
 Paolla Ramos e Silva
@@ -1711,8 +1615,7 @@ incluindo =
 : um elemento <uses-permission> no arquivo Manifest do aplicativo.
 =
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-25
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -1791,8 +1694,7 @@ Permite o acesso à câmera do dispositivo.
 
 Permite o acesso à localização precisa (usando GPS).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x-"'
-26
+ x-"'
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -1871,8 +1773,7 @@ atividades
 
 CALENDAR Utilizada para permissões relacionadas ao calendário do usuário
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-27
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -1911,8 +1812,7 @@ Utilizada para permissões relacionadas a mensagens SMS do usuário
 Utilizada para permissões relacionadas ao armazenamento externo
 compartilhado
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-28
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -1988,8 +1888,7 @@ alinhamentos personalizados. É útil para criar layouts complexos e responsivos
 CardView é uma
 classe de layout usada para exibir informações ou conteúdo de forma elegante e consistente, com
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-29
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -2070,14 +1969,12 @@ arredondados e outros efeitos visuais. É útil para destacar visualmente
 certos elementos na interface do usuário.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-30
 
-204
 
 
 Paolla Ramos e Silva
@@ -2150,8 +2047,7 @@ ENTITY
 
 Classe final que representa uma entidade.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-31
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -2220,15 +2116,13 @@ atividade. Nesse momento, quaisquer alterações feitas pelo usuário devem ser 
 em um ContentProvider que mantém os dados). A atividade ainda é visível na tela nesse estado.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-32
 
-204
 
 
 Paolla Ramos e Silva
@@ -2301,8 +2195,7 @@ gerenciar a
 criação, exibição e fechamento de diálogos de forma mais conveniente. Esses métodos são
 úteis
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-33
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -2377,8 +2270,7 @@ qualquer código do
 aplicativo, permitindo monitorar toda a interação do sistema com
 o aplicativo. Uma
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-34
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -2454,8 +2346,7 @@ nome, o
 coerente e
 reconhecível em toda a plataforma.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-35
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -2534,8 +2425,7 @@ de segurança, realizando atualizações e aplicando políticas em tempo real.
 
 Casos de Uso Android Enterprise
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-37
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -2614,15 +2504,13 @@ profissional i
 = armazenados separadamente.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-38
 
-204
 
 
 Paolla Ramos e Silva
@@ -2682,15 +2570,13 @@ da página, proporcionando uma
 experiência visual de qualidade aos usuários. Adicionalmente, o WebKit é uma tecnologia
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-39
 
-204
 
 
 Paolla Ramos e Silva
@@ -2764,8 +2650,7 @@ podem definir a lógica de tratamento para as mensagens recebidas, possibilitand
 integração
 eficiente e personalizada entre o JavaScript e o WebView.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-40
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -2849,8 +2734,7 @@ configuração e
 configurações predefinidas para o TracingController. Ela oferece métodos para
 definir opções de
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) s'"
-41
+ s'"
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -2921,8 +2805,7 @@ Service
 
 Workers.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-42
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -2993,15 +2876,13 @@ WebViewRenderProcess fornece um identificador opaco para
 um renderizador WebView.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 /
 
-43
 
-204
 
 
 Paolla Ramos e Silva
@@ -3072,8 +2953,7 @@ defaultConfig {}. Essas configurações serão mescladas no arquivo de manifesto
 do aplicativo
 durante o processo de compilação.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-44
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -3152,15 +3032,13 @@ assinatura for
 válida e o certificado puder ser confiável, o código é considerado autêntico e não foi adulterado.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-45
 
-204
 
 
 Paolla Ramos e Silva
@@ -3201,8 +3079,7 @@ fabricante, inserida pelo certificado Code Signing, fornece confiança e seguran
 usuário final,
 mas não envolve alterações no software em si. (Gabarito: Errado)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-46
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -3278,8 +3155,7 @@ código aberto. Essa licença permite que os desenvolvedores utilizem, modifique
 distribuam a
 linguagem Swift de acordo com os termos da licença.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-47
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -3354,8 +3230,7 @@ recursos avançados e uma curva de aprendizado mais suave. Com o Swift, os
 desenvolvedores
 podem criar aplicativos iOS eficientes e poderosos, aproveitando as amplas bibliotecas e recursos
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-48
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -3428,8 +3303,7 @@ um usuário fez:
 let maximumNumberOfLoginAttempts = 10
 var currentLoginAttempt = 0
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-49
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -3496,8 +3370,7 @@ vírgulas, com uma única anotação de tipo após o nome da variável final:
 
 var redj green, blue: Double
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) s'"
-50
+ s'"
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -3569,8 +3442,7 @@ novamente com o mesmo nome ou alterá-la para armazenar valores de um tipo difer
 Também não é possível alterar uma constante para uma variável ou uma variável para uma
 constante.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-51
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -3605,7 +3477,7 @@ languageName = "Swift++"
 // Isso é um erro de compilação: languageName não pode ser alterado.
 Imprimindo Constantes e Variáveis
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -3671,8 +3543,7 @@ Ao contrário dos comentários de várias linhas em C, os comentários de vária
 em Swift
 podem ser aninhados dentro de outros comentários de várias linhas. Você pode escrever
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-53
+* 
 
 
 Paolla Ramos e Silva
@@ -3737,15 +3608,13 @@ mesmo
 tipo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-54
 
-204
 
 
 Paolla Ramos e Silva
@@ -3808,8 +3677,7 @@ armazenados em um Int. O Swift fornece dois tipos de números de ponto flutuante
 
 * Float representa um número de ponto flutuante de 32 bits.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-55
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -3884,15 +3752,13 @@ o Swift inferirá
 que você deseja criar um Double:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-56
 
-204
 
 
 Paolla Ramos e Silva
@@ -3955,8 +3821,7 @@ Para números decimais com um expoente de x, o número base é multiplicado por 
 
 Para números hexadecimais com um expoente de x, o número base é multiplicado por 2X:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-57
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -4027,15 +3892,13 @@ de um tipo inteiro dimensionado é relatado como um erro durante a compilação 
 let cannotBeNegative: UInt8 = -1
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-58
 
-204
 
 
 Paolla Ramos e Silva
@@ -4106,8 +3969,7 @@ A conversão de ponto flutuante para inteiro também deve ser feita de forma exp
 Um tipo
 inteiro pode ser inicializado com um valor "Double" ou "Float". Valores de ponto flutuante são
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-59
+* 
 
 
 Paolla Ramos e Silva
@@ -4175,7 +4037,7 @@ Valores booleanos são especialmente úteis quando se trabalha com declarações
 condicionais,
 como a declaração if:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 x-"'" 60
 
 www.estrategiaconcursos.com.br
@@ -4249,8 +4111,7 @@ let http404Error = (404, "Not Found")
 
 // http404Ennon é do tipo (Int, String) e é igual a (404, "Not Found")
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-61
+* 
 
 
 Paolla Ramos e Silva
@@ -4317,8 +4178,7 @@ print("A mensagem de status é (http200Status.description)")
 
 // Imprime "A mensagem de status é 0K"
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x-"'
-62
+ x-"'
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -4391,14 +4251,12 @@ não retorna um valor em si. A seguinte declaração não é válida:
 if x = y {
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-63
 
-204
 
 
 Paolla Ramos e Silva
@@ -4459,8 +4317,7 @@ A expressão a += 2 é uma forma abreviada de a = a + 2. Efetivamente, a adiçã
 a atribuição sao
 combinadas em um único operador que realiza ambas as tarefas ao mesmo tempo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-64
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -4530,8 +4387,7 @@ seu valor; caso contrário, ele avalia resposta2 e retorna seu valor.
 
 O operador condicional ternário é uma forma abreviada para o código abaixo:
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-65
+* 
 
 
 Paolla Ramos e Silva
@@ -4601,8 +4457,7 @@ suporta os três operadores lógicos padrão encontrados em linguagens baseadas 
 
 * Operador lógico OR (a II b)
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-66
+* 
 
 
 Paolla Ramos e Silva
@@ -4670,7 +4525,7 @@ print("ACESSO NEGADO")
 
 Operador lógico OR
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x-"'
+ x-"'
 §7
 www.estrategiaconcursos.com.br
 /' 204
@@ -4744,8 +4599,7 @@ uma chave de porta válida, ou se conhecermos a senha de anulação de emergênc
 permita o
 acesso.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x-'"
-68
+ x-'"
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -4815,7 +4669,7 @@ está vazia verificando sua propriedade Booleana isEmpty. Por exemplo, você pod
 bloco
 condicional para imprimir uma mensagem se a string estiver vazia:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 x-""' 69
 
 www.estrategiaconcursos.com.br
@@ -4891,15 +4745,13 @@ let string2 = " mundo"
 var saudacao = stringl + string2
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-70
 
-204
 
 
 Paolla Ramos e Silva
@@ -4961,8 +4813,7 @@ let soma = "A soma de \(a) e \(b) é \(a + b)"
 // soma é "A soma de 10 e 5 é 15"
 func multiplican(_ x: Int, y: Int) -> Int {
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-71
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -5034,8 +4885,7 @@ código:
 
 let quantidade = 4 let valor = 10
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-72
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -5127,8 +4977,7 @@ correta para obter
 
 = o resultado desejado.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-73
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -5160,8 +5009,7 @@ da operação de =
 
 = multiplicação quantidade*valor dentro da string. (Gabarito: Letra D)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-74
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -5221,8 +5069,7 @@ do seu aplicativo. Você também pode definir container view controllers
 personalizados para
 implementar novos esquemas de navegação.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-75
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -5278,14 +5125,12 @@ diferentes partes do
 aplicativo, preenchendo cada uma delas com diferentes conjuntos de dados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-76
 
-204
 
 
 Paolla Ramos e Silva
@@ -5325,7 +5170,7 @@ conteúdo do seu aplicativo. Especificamente, um view controller gerencia uma
 hierarquia de
 visualizações e as informações de estado necessárias para manter essas visualizações atualizadas.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -5387,7 +5232,7 @@ relação à sua visualização pai ou irmã, e elas garantem
 
 que suas visualizações se adaptem automaticamente a diferentes ambientes e dispositivos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -5454,15 +5299,13 @@ validar
 seu código.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-79
 
-204
 
 
 Paolla Ramos e Silva
@@ -5532,15 +5375,13 @@ primeira vez na tela. O UlKit notifica o view controller proprietário quando su
 estão
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-80
 
-204
 
 
 Paolla Ramos e Silva
@@ -5619,14 +5460,12 @@ em um botão em um controlador de exibição, você pode
 definir um "segue" para apresentar outro controlador de exibição relacionado.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-81
 
-204
 
 
 Paolla Ramos e Silva
@@ -5693,8 +5532,7 @@ ação, como um controle ou um reconhecedor de gestos. Além disso, é possível
 "segues" a
 partir de linhas de tabela e células de visualização em coleção.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'"'
-82
+ x'"'
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -5764,7 +5602,7 @@ tratar um evento, o controlador de exibição tem a opção de tratar o evento o
 repassá-lo para a
 visualização pai.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -5834,15 +5672,13 @@ necessários
 para preencher sua tabela com dados. Você pode substituir o método loadViewQ ou qualquer
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-84
 
-204
 
 
 Paolla Ramos e Silva
@@ -5912,8 +5748,7 @@ controlador de
 exibição. Quando o controlador de exibição pai muda, ou quando ocorrem
 alterações de
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) -s""
-85
+ -s""
 
 www.estrategiaconcursos.com.br
 / 204
@@ -5991,7 +5826,7 @@ mostra um exemplo da interface de navegação apresentada pelo aplicativo de Con
 no
 iOS Simulator. A primeira tela apresenta ao usuário a lista de aplicativos que contêm preferências.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 x-"'" 86
 
 www.estrategiaconcursos.com.br
@@ -6063,14 +5898,12 @@ personalizado.
 Quando o usuário seleciona uma guia específica, o barra de guias exibe a visualização raiz do view
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-87
 
-204
 
 
 controller correspondente, substituindo quaisquer visualizações anteriores. (Os
@@ -6145,15 +5978,13 @@ seguir o protocolo
 UIPageViewControllerDataSource. O objeto de delegado - um objeto que segue o protocolo
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-88
 
-204
 
 
 Paolla Ramos e Silva
@@ -6222,14 +6053,12 @@ Uma barra exibida na parte inferior da janela que contém os itens de cada
 aba do UlTabBarController.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-89
 
-204
 
 
 Paolla Ramos e Silva
@@ -6300,8 +6129,7 @@ significa que é possível estender as capacidades de comparação de igualdade
 para tipos
 personalizados, além dos tipos básicos fornecidos pela biblioteca padrão do Swift.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-90
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -6334,8 +6162,7 @@ closure que determine a equivalência. O seguinte exemplo mostra como o método
 contains(:)
 pode ser usado com um array de strings.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-91
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -6398,7 +6225,7 @@ interfaces de usuário. Esses componentes nativos são diferentes dos componente
 pois
 são renderizados diretamente nas APIs nativas de cada plataforma, como iOS e Android.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 x-""' 92
 
 www.estrategiaconcursos.com.br
@@ -6480,8 +6307,7 @@ Conforme o usuário interage com o botão, o state pode ser modificado para refl
 essa interação
 e atualizar a aparência e o comportamento do botão em tempo real.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) s'"
-93
+ s'"
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -6557,8 +6383,7 @@ imagem selecionada. Para adicionar State a um componente, utilize um destes Hook
 * useReducer declara uma variável de State com a lógica de atualização dentro de uma função
 redutora.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-94
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -6645,8 +6470,7 @@ I
 
 = b) chamar estados específicos do engine React para alterar seu comportamento.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-95
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -6735,7 +6559,7 @@ const theme = useContext(ThemeContext);
 
 // ...
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 x-""' 96
 
 www.estrategiaconcursos.com.br
@@ -6804,8 +6628,7 @@ Existem duas variações raramente usadas de useEffect com diferenças no tempo 
 * useLayoutEffect é disparado antes de o navegador repintar a tela. Você pode medir o layout
 aqui.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-97
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -6859,7 +6682,7 @@ que outras atualizações a interrompam.
 * useDeferredValue permite adiar a atualização de uma parte não crítica da interface do
 usuário e permitir que outras partes se atualizem primeiro.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 x-"'" 98
 
 www.estrategiaconcursos.com.br
@@ -6931,7 +6754,7 @@ de código. Escreva uma vez, execute em qualquer lugar.
 confiáveis e
 padronizadas: HTML, CSS e JavaScript, usando APIs web modernas, como Elementos
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 x-""' 99
 
 www.estrategiaconcursos.com.br
@@ -7006,8 +6829,7 @@ iOS, Android e a web. Com o @ionic/vue, você pode usar todos os componentes
 principais do
 lonic, mas de uma maneira que se sinta como o uso de componentes nativos do Vue.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-100
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -7074,8 +6896,7 @@ nativos do
 
 i Errado)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-101
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -7150,8 +6971,7 @@ base de código compartilhada. Isso resulta em maior eficiência, economia de te
 manutenção
 simplificada.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-102
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -7281,8 +7101,7 @@ para atender às demandas dos usuários. Nesse cenário competitivo, alguns
 frameworks se
 destacam como os mais conhecidos e amplamente usados em todo o mundo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-103
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -7371,8 +7190,7 @@ I
 
 : Assinale a alternativa que apresenta a sequência correta de cima para baixo:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-104
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -7484,15 +7302,13 @@ responsivo, mas i
 i também fornece uma variedade de controles (widgets) como sliders, toggles e abas. É como ter =
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-105
 
-204
 
 
 Paolla Ramos e Silva
@@ -7566,8 +7382,7 @@ O widget Row é como uma linha de mesas. Você pode colocar vários elementos (c
 botões,
 imagens ou textos) dentro dessa linha. O Row vai se ajustar automaticamente para que esses
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-106
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -7639,8 +7454,7 @@ do container. É como se você pudesse pintar a caixa, colocar uma moldura e aju
 espaço ao
 redor dela.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-107
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -7693,8 +7507,7 @@ proporcionam i
 Flutter.( Gabarito: i
 í Letra B)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-108
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -7739,8 +7552,7 @@ do Kotlin em projetos já existentes e permite que desenvolvedores aproveitem os
 benefícios da
 linguagem sem a necessidade de reescrever todo o código.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-109
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -7815,8 +7627,7 @@ extensão, lambdas e parâmetros nomeados, às bibliotecas Android existentes.
 Multiplatform permite o
 desenvolvimento não apenas para Android, mas também para iOS, backend e aplicações
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-110
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -7895,8 +7706,7 @@ preferências.
 Isso permite que você aproveite as funcionalidades de ambas as linguagens, chamando
 funções
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-111
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -7964,8 +7774,7 @@ Kotlin/Native:
 
 * frameworks C, Swift e Objective-C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-112
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -8028,8 +7837,7 @@ println(args.contentToString())
 
 }
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-113
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -8089,15 +7897,13 @@ receber um
 valor apenas uma vez. Essas variáveis podem receber um valor somente uma vez, e após a
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-114
 
-204
 
 
 Paolla Ramos e Silva
@@ -8193,14 +7999,12 @@ e) var idademinima : Integer = 18
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-115
 
-204
 
 
 Paolla Ramos e Silva
@@ -8263,8 +8067,7 @@ open class Shape
 class Rectangle(var height: Double., var length: Double): Shape() {
 var perimeter = (height + length) * 2
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-116
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -8331,9 +8134,8 @@ Portanto, "s2"
 será igual a "a foi 1, mas agora é 2".
 
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
-117
 
 
 Paolla Ramos e Silva
@@ -8407,8 +8209,7 @@ sintaxe do loop "for" é
 simples: você declara uma variável de iteração e especifica a coleção que será
 percorrida. Em cada
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-118
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -8480,8 +8281,7 @@ index++
 
 }
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-119
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -8523,7 +8323,6 @@ exemplo, em casos de entradas de classes enumeradas e subtipos de classes selada
 fun describe(obj:
 
 when (obj) {
-1
 
 Any): String =
 
@@ -8599,8 +8398,7 @@ I
 :println(resposta)
 =
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-120
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -8685,8 +8483,7 @@ Portanto, o código i
 segue para o bloco alternativo e atribui o valor "Iron" à variável "resposta". Finalmente, o valor
 =
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-121
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -8756,8 +8553,7 @@ Kotlin oferece interfaces genéricas, classes e funções para criar, preencher 
 coleções
 de qualquer tipo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-122
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -8831,8 +8627,7 @@ List, que
 incluem as funcionalidades de uma coleção, bem como operações específicas de
 listas, como
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-123
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -8908,8 +8703,7 @@ eles. Os
 índices começam do zero - o índice do primeiro elemento - e vão até lastlndex, que é (list.size
 -1).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-124
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -8983,8 +8777,7 @@ se tiverem o mesmo tamanho e, para cada elemento de um conjunto, houver um eleme
 igual
 no outro conjunto.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-125
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -9058,8 +8851,7 @@ in numbersMap. Se a chave estiver presente, imprimimos o valor correspondente à
 usando
 numbersMap["chave2"].
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-126
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -9125,8 +8917,7 @@ Caso o último elemento não deva ser incluído no intervalo, pode-se usar a
 função until. Por
 exemplo:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-127
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -9196,8 +8987,7 @@ Kotlin!
 public class Classe_Java {
 private String aula;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-128
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -9272,8 +9062,7 @@ ambas as linguagens, facilitando a migração gradual de projetos existentes ou 
 combinação de
 código Kotlin e Java em um único projeto.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-129
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -9363,15 +9152,13 @@ return a + b
 fun main() {
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-130
 
-204
 
 
 Paolla Ramos e Silva
@@ -9467,14 +9254,12 @@ semana")
 }
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-131
 
-204
 
 
 Paolla Ramos e Silva
@@ -9523,8 +9308,7 @@ VOID
 OBJECT
 STRING
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-132
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -9546,14 +9330,12 @@ N/A (não há)
 Byte
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-133
 
-204
 
 
 Paolla Ramos e Silva
@@ -9578,8 +9360,7 @@ https://api.flutter.dev/
 https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 https://docs.flutter.dev/
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-134
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -9652,14 +9433,12 @@ e) BackupDataStream.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-135
 
-204
 
 
 Paolla Ramos e Silva
@@ -9726,8 +9505,7 @@ tipo de conexão disponível.
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-136
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -9797,8 +9575,7 @@ d) Android e Minix.
 
 e) Symbian OS e Windows Phone.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-137
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -9871,14 +9648,12 @@ e) AIX.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-138
 
-204
 
 
 a) Windows Server: Essa opção não é correta. O Windows Server é um sistema
@@ -9946,14 +9721,12 @@ pasta.
 Item. 2. Pressione e segure o ícone do aplicativo com o dedo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-139
 
-204
 
 
 Paolla Ramos e Silva
@@ -10027,8 +9800,7 @@ botões de navegação, mas a funcionalidade básica geralmente permanece a mesm
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-140
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -10087,8 +9859,7 @@ Comentários:
 exemplo, abaixo ou
 acima de um componente existente.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-141
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -10161,8 +9932,7 @@ um aplicativo pode capturar e enviar arquivos armazenados no cartão SD do celul
 utiliza
 o sistema Android.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-142
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -10240,14 +10010,12 @@ modificado após
 a assinatura ter sido aplicada.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-143
 
-204
 
 
 O certificado Code Signing serve para verificar a identidade do desenvolvedor
@@ -10314,8 +10082,7 @@ A resposta correta é a alternativa D: OnCreate. No contexto da programação pa
 Android, uma
 "activity" é uma classe que representa uma tela ou uma janela com a qual o usuário interage.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-144
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -10394,8 +10161,7 @@ alternativa A está
 incorreta, pois o Android é baseado em núcleo Linux, porém não é utilizado
 exclusivamente em
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-145
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -10477,8 +10243,7 @@ e) A Content Providers, na arquitetura Android, gerencia as apresentações de
 janelas e os
 tratamentos gráficos das aplicações.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-146
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -10559,14 +10324,12 @@ exclusiva.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-147
 
-204
 
 
 Paolla Ramos e Silva
@@ -10639,8 +10402,7 @@ privados, ou execute quaisquer funções que não estão diretamente relacionada
 com a
 aplicação em si, deve-se declarar a permissão em arquivo XML específico.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-148
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -10721,14 +10483,12 @@ de uma intent, mas ela não é exclusivamente responsável por isso.
 Gabarito: Letra A
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-149
 
-204
 
 
 22.(FUNRI0 - IF-PA/ 2016) Pode-se dividir o software em três categorias bem
@@ -10800,14 +10560,12 @@ um perfil de Provisionamento de Distribuição Corporativa em um aparelho com iO
 a) a execução de aplicativos corporativos obtidos da App Store.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-150
 
-204
 
 
 Paolla Ramos e Silva
@@ -10880,8 +10638,7 @@ e) terminar apenas o aplicativo em uso.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-151
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -10927,8 +10684,7 @@ memória, o Android busca equilibrar a execução dos aplicativos de acordo com 
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-152
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -11000,14 +10756,12 @@ código Java,
 assim como também permite que funções feitas em Java sejam chamadas por código Kotlin. A
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-153
 
-204
 
 
 Paolla Ramos e Silva
@@ -11065,8 +10819,7 @@ Originalmente, foi criada para o desenvolvimento de aplicações no lado cliente
 mas evoluiu
 para possibilitar o desenvolvimento de aplicações desktop e no lado servidor.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-154
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -11141,8 +10894,7 @@ significa que não é necessário declarar explicitamente o tipo das variáveis.
 ganhado
 popularidade no desenvolvimento de aplicativos móveis, especialmente para Android.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-155
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -11207,7 +10959,6 @@ vai resposta = when (classe) {
 {true -> "Gold" false -> "Iron"}
 else -> "Dado inválido."
 
-1
 
 println(resposta)
 
@@ -11219,8 +10970,7 @@ computado e exibido pelo comando println é:
 
 a) 3 / Iron
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-156
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -11307,8 +11057,7 @@ tipo básico inteiro de 32 bits, com o valor 18.
 
 Para que isso aconteça, qual das seguintes instruções deve ser usada?
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-157
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -11389,14 +11138,12 @@ JUnit Júpiter pode ser utilizado em programas escritos em Kotlin.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-158
 
-204
 
 
 Paolla Ramos e Silva
@@ -11471,8 +11218,7 @@ simples e mais segura em comparação com o Java, além de trazer recursos
 avançados que
 aumentam a produtividade do desenvolvedor.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-159
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -11543,8 +11289,7 @@ c) class AlunoKotlin (vai nome: String, vai codigo: String)
 
 { private this.nome = nome
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-160
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -11616,13 +11361,11 @@ mutável observável?
 a) ClassFlow
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 www. estra tegiaconcursos. com. br
 
 
-161
 
-204
 
 
 Paolla Ramos e Silva
@@ -11675,7 +11418,6 @@ a) textü.let {
 
 vai tamanho = text.length
 
-1
 
 b) var res = when(pontos) {
 9,10 -> "Excelente"
@@ -11696,14 +11438,12 @@ println(i)
 }
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-162
 
-204
 
 
 Paolla Ramos e Silva
@@ -11760,14 +11500,12 @@ percorre de 10 a 1 com um passo de 2 e imprime os valores.
 Gabarito: Letra B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-163
 
-204
 
 
 Paolla Ramos e Silva
@@ -11836,14 +11574,12 @@ realizar esta tarefa, ele terá que utilizar a instrução
 a) let elemento = ReactNative.createElement('hi',{className:'tit'j,'Amazonas');
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-164
 
-204
 
 
 Paolla Ramos e Silva
@@ -11920,8 +11656,7 @@ recursos adicionais, como acesso fácil a APIs do dispositivo, gerenciamento de 
 e publicação
 simplificada de aplicativos, b) Snack: é um ambiente de desenvolvimento online para o React
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-165
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -12000,8 +11735,7 @@ desenvolver aplicativos para Android, iOS e UWP.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-166
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -12081,8 +11815,7 @@ JavaScript para desenvolver aplicativos que podem ser executados em dispositivos
 móveis. No
 entanto, essa não é a resposta correta para o Analista.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-167
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -12106,8 +11839,7 @@ adequada para o Analista desenvolver seu aplicativo móvel.
 
 Gabarito: Letra E
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-168
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -12177,13 +11909,11 @@ produzirá o resultado esperado.
 c) let saida = "valortotal = %[quantidade*valor]"
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 www. estra tegiaconcursos. com. br
 
 
-169
 
-204
 
 
 Essa opção utiliza uma sintaxe incorreta para interpolação de strings em Swift. O uso
@@ -12249,14 +11979,12 @@ fruta é
 array de
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-170
 
-204
 
 
 Paolla Ramos e Silva
@@ -12328,8 +12056,7 @@ IV. O Visual Studio suporta diversas linguagens de programação, tais como, C#,
 F#, Python
 e Visual Basic.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-171
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -12399,8 +12126,7 @@ b) viewDidAppear()
 
 c) viewWillAppearQ
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-172
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -12480,14 +12206,12 @@ fornecidas,
 a alternativa correta é a D - Navigation Controller.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-173
 
-204
 
 
 Paolla Ramos e Silva
@@ -12560,8 +12284,7 @@ o protocolo Equatable.
 
 Gabarito: Letra A
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-174
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -12605,11 +12328,9 @@ default:
 
 texto = "não eh "
 
-1
 
 frase - frase + texto
 
-1
 
 print(frase)
 
@@ -12628,14 +12349,12 @@ e) o carro eh forte
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-175
 
-204
 
 
 O algoritmo apresentado é um exemplo de código escrito em Swift,
@@ -12702,14 +12421,12 @@ não atinge o
 intervalo correspondente a essa opção.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-176
 
-204
 
 
 Paolla Ramos e Silva
@@ -12777,8 +12494,7 @@ desenvolvimento de aplicativos para dispositivos iOS.
 
 Gabarito: Letra A
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-177
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -12855,8 +12571,7 @@ os recursos e frameworks oferecidos pela plataforma da Apple.
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-178
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -12905,8 +12620,7 @@ especificamente para o desenvolvimento de aplicativos iOS.
 
 Gabarito: Letra D
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-179
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -12977,14 +12691,12 @@ e) F, F, F
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-180
 
-204
 
 
 Questão um pouco estranha, não é? Mas é isso aí, pode cair na sua prova desse
@@ -13060,8 +12772,7 @@ Gabarito: Letra A
 Item. 3. (UFC - UFC / 2019 - Adaptada) Sobre o desenvolvimento de aplicações móveis, assinale a
 alternativa correta.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-181
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -13122,14 +12833,12 @@ e que a comunidade pode contribuir com melhorias e recursos adicionais.
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-182
 
-204
 
 
 Paolla Ramos e Silva
@@ -13199,14 +12908,12 @@ de uso
 citados abaixo e assinale a opção que NÃO é suportada pelo Android Enterprise.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-183
 
-204
 
 
 Paolla Ramos e Silva
@@ -13272,8 +12979,7 @@ b) Arrastar um aplicativo e sobrepô-lo a outro.
 
 c) Pressionar o botão menu e acessar as configurações.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-184
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -13336,8 +13042,7 @@ A sequência correta de cima para baixo é:
 
 a) 2, 3, 4, i/ 5-
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-185
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -13418,14 +13123,12 @@ d) OnCreate
 e) OnDestroy
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-186
 
-204
 
 
 Paolla Ramos e Silva
@@ -13496,8 +13199,7 @@ um sistema operacional para aparelhos móveis - celulares (nesse caso, smartphon
 tablets.
 O Android foi desenvolvido por um consórcio de empresas liderado pelo Google e, com várias
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-187
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -13569,8 +13271,7 @@ Assinale a alternativa que apresenta apenas sistemas operacionais para dispositi
 
 a) WinZip, Windows Phone e Mac OS.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-188
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -13633,14 +13334,12 @@ d) terminartodos os aplicativos.
 e) terminar apenas o aplicativo em uso.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-189
 
-204
 
 
 Paolla Ramos e Silva
@@ -13698,14 +13397,12 @@ funcional, com o uso de expressões lambda (anônimas).
 Language (HTML) e o Cascading Style Sheets (CSS) e manipular comportamentos em uma
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-190
 
-204
 
 
 Paolla Ramos e Silva
@@ -13775,8 +13472,7 @@ computado e exibido pelo comando println é:
 
 a) 3 / Iron
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-191
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -13852,13 +13548,11 @@ private String codigo;
 private String nome;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 www. estra tegiaconcursos. com. br
 
 
-192
 
-204
 
 
 Paolla Ramos e Silva
@@ -13874,7 +13568,6 @@ public AlunoJava (String codigo,String nome)
 {this.codigo = codigo;
 this.nome = nome;}
 
-1
 
 A classe em Kotlin equivalente à classe Java acima é
 
@@ -13926,13 +13619,11 @@ c) QuickFlow
 d) StateFlow
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 www. estra tegiaconcursos. com. br
 
 
-193
 
-204
 
 
 Paolla Ramos e Silva
@@ -13973,22 +13664,18 @@ d) for (i in 10 upTo o ) {
 
 println(i)
 
-1
 
 e) for (i in 10 downTo 1 step 2) {
 println(i)
 
-1
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-194
 
-204
 
 
 Paolla Ramos e Silva
@@ -14057,13 +13744,11 @@ vida de um
 componente; e props, utilizado para os dados que irão mudar.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 www. estra tegiaconcursos. com. br
 
 
-195
 
-204
 
 
 Paolla Ramos e Silva
@@ -14092,8 +13777,7 @@ d) Xamarin Core.
 
 e) React Native.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-196
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -14163,14 +13847,12 @@ d) imutáveis.
 e) double.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-197
 
-204
 
 
 Paolla Ramos e Silva
@@ -14242,8 +13924,7 @@ quanto a volta. Para isso, é necessário ter uma barra de navegação. Assinale
 alternativa que
 apresenta o que você deve utilizar para implementar essa ação.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-198
+
 
 www.estrategiaconcursos.com.br
 / 204
@@ -14320,14 +14001,12 @@ case 14...16:
 texto = "eh "
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-199
 
-204
 
 
 Paolla Ramos e Silva
@@ -14397,14 +14076,12 @@ c) Objetive-C
 d) Python
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-200
 
-204
 
 
 Paolla Ramos e Silva
@@ -14441,8 +14118,7 @@ d) Swift.
 
 e) Java Script.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-201
+
 
 www.estrategiaconcursos.com.br
 /' 204
@@ -14501,14 +14177,12 @@ aplicativos
 para dispositivos móveis utilizado para desenvolver aplicativos para Android e iOS.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-202
 
-204
 
 
 Paolla Ramos e Silva
@@ -14588,7 +14262,7 @@ Item. 2. Letra A
 
 Item. 3. Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,

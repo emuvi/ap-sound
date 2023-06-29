@@ -20,7 +20,7 @@ Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-índice
+Índice
 
 1) Desenvolvimento Front-End - CSS - Teoria
 
@@ -34,7 +34,7 @@ Paolla Ramos e Silva
 
 6) Desenvolvimento Front-End - Bootstrap - Lista de Questões - Multibancas
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -44,130 +44,88 @@ Paolla Ramos e Silva
 Sumário
 
 Apresentação da Aula
-4
 
 CSS
-5
 
 Conceitos Básicos.
-5
 
 Sintaxe CSS
-8
 
 Seletores de CSS
-9
 
 O seletor de elemento CSS
-9
 
 Todos os seletores simples de CSS
-10
 
 Como adicionar CSS
-12
 
 Comentários CSS
-14
 
 Cores CSS
-15
 
 Fundos CSS
-17
 
 Imagem de Fundo CSS
-19
 
 Propriedades de Borda do CSS
-22
 
 Largura da Borda do CSS
-24
 
 Cores de borda
-26
 
 Margens CSS
-32
 
 Preenchimento CSS
-34
 
 Altura, largura e largura máxima do CSS
-36
 
 Modelo de Caixa CSS
-38
 
 Contorno do CSS
-38
 
 Largura do Contorno do CSS
-39
 
 Cor do Contorno do CSS
-39
 
 Abreviação do Contorno do CSS
-39
 
 Texto CSS
-41
 
 Cor do texto
-41
 
 Alinhamento e direção do texto
-42
 
 Propriedades de Decoração de Texto
-43
 
 Transformação de Texto CSS
-44
 
 Espaçamento do Texto CSS
-45
 
 Sombra de Texto CSS
-46
 
 Fontes CSS
-47
 
 Estilo de fonte CSS
-49
 
 Tamanho da fonte
-50
 
 Regras de emparelhamento de fontes.
-53
 
 ícones de CSS
-56
 
 Fontes de ícones Incríveis.
-56
 
 ícones do Bootstrap
-57
 
 Links CSS
-58
 
 Decoração de texto
-59
 
 Cor de fundo
-59
 
 Botões de link.
-59
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-3
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -180,133 +138,90 @@ Paolla Ramos e Silva
 (Profs. Paolla Ramos e Raphael Lacerda)
 
 Listas de CSS
-60
 
 Listas HTML e propriedades da lista CSS
-1
 
 Marcadores de itens de lista diferentes.
-1
 
 Uma imagem como marcador de item de lista
-1
 
 Posicione os Marcadores de Item da Lista
-2
 
 Remover configurações padrão
-2
 
 Lista - Propriedade abreviada
-2
 
 Lista de estilos com cores.
-3
 
 Tabelas CSS
-4
 
 Recolher bordas da tabela (border-collapse)
-5
 
 Tamanho da Tabela CSS
-6
 
 Alinhamento de Tabela CSS
-7
 
 Estilo de Tabela CSS
-8
 
 Tabela Responsiva CSS
-9
 
 Layout CSS - A propriedade de exibição
-10
 
 Elementos de nível de bloco
-10
 
 Elementos embutidos.
-10
 
 Substituir o valor de exibição padrão
-12
 
 Largura e Largura Máxima
-12
 
 A propriedade de posição
-13
 
 position: static;
-13
 
 position: relative;
-13
 
 position: fixed;
-13
 
 position: absolute;
-14
 
 A propriedade z-index.
-16
 
 Overflow
-17
 
 Layout CSS: Float and clear
-19
 
 A propriedade CSS "clear"
-20
 
 Layout CSS: display: inline-block.
-22
 
 Alinhamento
-24
 
 Alinhamento horizontal
-24
 
 Alinhamento vertical
-24
 
 Elementos de Alinhamento Central
-24
 
 CSS Combinators.
-26
 
 Pseudo-classes.
-27
 
 Opacidade / Transparência
-30
 
 Pseudo-elementos.
-31
 
 Todos os pseudoelementos CSS
-32
 
 Barra de Navegação
-33
 
 Barra de Navegação Vertical
-34
 
 Barra de Navegação Horizontal
-35
 
 Menus suspensos em CSS
-36
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-4
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -319,91 +234,63 @@ Paolla Ramos e Silva
 (Profs. Paolla Ramos e Raphael Lacerda)
 
 Galeria de imagens.
-37
 
 Sprites de imagem
-38
 
 Seletores de atributos CSS
-39
 
 Formulários CSS
-40
 
 Resumo
-41
 
 Sintaxe CSS
-42
 
 Comentário
-42
 
 Seletores de CSS
-42
 
 Todos os seletores simples de CSS
-43
 
 Cores CSS
-43
 
 Fundos CSS
-44
 
 Imagem de Fundo CSS
-45
 
 Propriedades de Borda do CSS
-45
 
 Margens CSS
-46
 
 Preenchimento CSS
-46
 
 Altura, largura e largura máxima do CSS
-47
 
 Modelo de Caixa CSS
-47
 
 Texto CSS
 Al
 
 Fontes CSS
-48
 
 ícones de CSS
-48
 
 Links CSS
-49
 
 Tabelas CSS
-49
 
 Layout CSS - A propriedade de exibição
-49
 
 A propriedade de posição
-50
 
 A propriedade z-index.
-51
 
 Overflow
-51
 
 Seletores de atributos CSS
-52
 
 Referências.
-53
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-5
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -425,8 +312,7 @@ conteúdo de forma mais simples. Aproveitem o material, além dos esquemas,
 resumos e
 mnemónicos. Vamos ao que importa! (S)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x-"'
-6
+ x-"'
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -500,15 +386,12 @@ color: white;
 text-align: center;
 
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+0 0 
 
 www.estrategiaconcursos.com.br
-7
 
 
-7
 
-257
 
 
 Paolla Ramos e Silva
@@ -575,8 +458,7 @@ Quando tags como <font> e atributos de cor foram adicionados à especificação 
 3.2,
 começou um pesadelo para os desenvolvedores da web. O desenvolvimento de grandes sites,
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-8
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -600,7 +482,7 @@ folha de estilo externo, você pode alterar a aparência de um site inteiro alte
 apenas um
 arquivo!
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 x-""' 9
 
 www.estrategiaconcursos.com.br
@@ -664,15 +546,13 @@ id, atributo e
 pseudoclasse para direcionar elementos específicos na página.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-10
 
-257
 
 
 Paolla Ramos e Silva
@@ -737,15 +617,13 @@ um elemento com a classe "my-class" que é descendente de um elemento com o id "
 id".
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-11
 
-257
 
 
 Paolla Ramos e Silva
@@ -829,8 +707,7 @@ id="firstname"
 elementos com
 class=" intro"
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-12
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -857,8 +734,7 @@ Seleciona todos os elementos <p>
 Seleciona todos os elementos <div> e
 todos os elementos <p>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-13
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -930,8 +806,7 @@ type especifica o tipo de conteúdo (CSS) e o conteúdo da tag <style> é o cód
 CSS. A diretiva
 @import é usada para incluir uma folha de estilo externa chamada aleap.css.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-14
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -991,8 +866,7 @@ Das opções, a correta é semelhante ao nosso exemplo <style type="text/css">
 
 = url("aleap.css"); </style>. Portanto, nosso gabarito é a letra C. (Gabarito: Letra C)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-15
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -1043,8 +917,7 @@ determinada regra ou seção da folha de estilo adicionando /* no início da lin
 a regra e */
 no final da linha, sem precisar removê-la completamente.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-16
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -1104,15 +977,13 @@ isso é
 uma boa prática.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-17
 
-257
 
 
 Paolla Ramos e Silva
@@ -1137,14 +1008,12 @@ UMA COR HEXADECIMAL É ESPECIFICADA COM: ARRGGBB, ONDE OS INTEIROS HEXADECIMAIS 
 HSL SIGNIFICA MATIZ, SATURAÇÃO E LEVEZA: HSL [MATIZ, SATURAÇÃO, LUMINOSIDADE)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-18
 
-257
 
 
 Paolla Ramos e Silva
@@ -1218,8 +1087,7 @@ do background em uma linha.
 É importante observar que a ordem dos valores na propriedade abreviada é:
 plano de fundo: cor de fundo - imagem de fundo repetição de fundo posição de fundo
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-19
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -1237,8 +1105,7 @@ Você pode usar essas propriedades para definir o plano de fundo de qualquer ele
 HTML,
 tornando-o uma ferramenta poderosa para criar designs da Web atraentes e envolventes.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-20
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -1314,8 +1181,7 @@ Além disso, você pode usar a propriedade abreviada background para
 definir todas as
 propriedades do background em uma linha.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-21
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -1392,8 +1258,7 @@ página
 Especifica a área de pintura do fundo
 Define a cor de fundo de um elemento
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-22
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -1420,8 +1285,7 @@ Define a posição inicial de uma imagem de fundo
 Define como uma imagem de fundo será repetida
 Especifica o tamanho da(s) imagem(ns) de fundo
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-23
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -1490,8 +1354,7 @@ Vejamos um exemplo e seu respectivo resultado.
 
 <!D0CTYPE html>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-24
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -1558,8 +1421,7 @@ p.mix {border-style: dotted dashed solid double;}
 
 </html>
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-25
+* 
 
 
 Paolla Ramos e Silva
@@ -1639,8 +1501,7 @@ border-width: 2px;
 
 p.four {
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-26
+
 
 
 Paolla Ramos e Silva
@@ -1702,8 +1563,7 @@ The border-width Property
 
 This property' specifies the width of the four borders:
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-27
+* 
 
 
 Paolla Ramos e Silva
@@ -1786,8 +1646,7 @@ border-color: red;
 
 }
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-28
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -1863,8 +1722,7 @@ Note que se você usar a propriedade border curta, você pode definir a cor, lar
 estilo de
 borda de uma só vez.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-29
+* 
 
 
 Paolla Ramos e Silva
@@ -1930,8 +1788,7 @@ border-right-style, border-right-color, border-bottom-width,
 border-bottom-style, border-
 bottom-color, border-left-width, border-left-style, and border-left-color.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) s'"
-30
+ s'"
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -2002,8 +1859,7 @@ border-top-left-radius: 30px;
 
 /* Definir raio de borda arredondada superior direita como 10 pixels */
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-31
+* 
 
 
 Paolla Ramos e Silva
@@ -2063,8 +1919,7 @@ border-top Define todas as propriedades da borda superior em uma declaração
 
 border-top-color Define a cor da borda superior
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-32
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -2085,7 +1940,7 @@ Define o estilo da borda superior
 Define a largura da borda superior
 Define a largura das quatro bordas
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 /
@@ -2153,8 +2008,7 @@ margin-right: 20px;
 
 /* Definir margem inferior como 30 pixels */
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-34
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -2206,8 +2060,7 @@ página web, e podem ser usadas para criar uma aparência mais organizada e estr
 para
 seu site.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-35
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -2271,8 +2124,7 @@ padding-right: 20px;
 /* Definir preenchimento inferior como 30 pixels */
 padding-bottom: 30px;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-36
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -2318,8 +2170,7 @@ O preenchimento é importante para controlar o espaçamento entre o conteúdo e 
 de um
 elemento, e pode ser usado para criar uma aparência mais atraente e organizada para seu site.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-37
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -2389,15 +2240,13 @@ As propriedades heighte width podem ter os seguintes valores:
 * auto- Este é o padrão. O navegador calcula a altura e a largura
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-38
 
-257
 
 
 Paolla Ramos e Silva
@@ -2433,8 +2282,7 @@ página web e podem ser usadas para criar uma aparência mais organizada e estru
 para
 seu site.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) s'"
-39
+ s'"
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -2500,15 +2348,13 @@ CSS tem as seguintes propriedades de contorno:
 * outline-offset
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-40
 
-257
 
 
 Paolla Ramos e Silva
@@ -2574,14 +2420,12 @@ independentemente da cor do fundo)
 Abreviação do Contorno do CSS
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-41
 
-257
 
 
 Paolla Ramos e Silva
@@ -2633,8 +2477,7 @@ outline-style Define o estilo de um contorno
 
 outline-width Define a largura de um contorno
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-42
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -2693,8 +2536,7 @@ filhos, a menos que seja especificamente sobrescrita para um elemento filho.
 
 Cor do texto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-43
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -2768,8 +2610,7 @@ hl {
 
 text-align: centen;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-44
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -2846,15 +2687,13 @@ sublinhado, riscado, entre outros.
 aplicada ao texto.
 
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+0 0 
 
 www.estrategiaconcursos.com.br
 /
 
 
-45
 
-257
 
 
 Paolla Ramos e Silva
@@ -2928,8 +2767,7 @@ text-transform: uppercase;
 
 p.lowercase {
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-46
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -3004,8 +2842,7 @@ text-indent Especifica o recuo da primeira linha em um bloco de texto
 
 white-space Especifica como lidar com espaço em branco dentro de um elemento
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-47
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -3041,8 +2878,7 @@ Descrição
 
 text-shadow Especifica o efeito de sombra adicionado ao texto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-48
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -3117,14 +2953,12 @@ font-family: "Times New Roman", Times, serif;
 .p2 {
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-49
 
-257
 
 
 Paolla Ramos e Silva
@@ -3173,8 +3007,7 @@ A lista a seguir apresenta as melhores fontes seguras da Web para HTML e CSS:
 
 * Garamond (serifa)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) s'"
-50
+ s'"
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -3245,14 +3078,12 @@ font-weight: bold;
 }
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-51
 
-257
 
 
 Paolla Ramos e Silva
@@ -3322,15 +3153,13 @@ hl {
 font-size: 2.5em; /* 40px/16=2.5em */
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-52
 
-257
 
 
 Paolla Ramos e Silva
@@ -3400,14 +3229,12 @@ font-weight: bold;
 </style>
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-53
 
-257
 
 
 Paolla Ramos e Silva
@@ -3470,8 +3297,7 @@ font-size: 30px;
 
 </body>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x-'"
-54
+ x-'"
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -3525,14 +3351,12 @@ página. Isso
 pode ser conseguido variando o tamanho, peso e cor.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-55
 
-257
 
 
 Paolla Ramos e Silva
@@ -3594,8 +3418,7 @@ font-family Especifica a família de fontes para texto
 font-size Especifica o tamanho da fonte do texto
 font-style Especifica o estilo de fonte do texto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) s'"
-56
+ s'"
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -3617,14 +3440,12 @@ minúscula
 Especifica o peso de uma fonte
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-57
 
-257
 
 
 Paolla Ramos e Silva
@@ -3704,8 +3525,7 @@ fa-bars"x/i>
 
 </html>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) s"''
-58
+ s"''
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -3779,14 +3599,12 @@ CSS PSEUDO-ELEMENTOS: UTILIZANDO PSEUDO-ELEMENTOS COMO :BEFORE OU :AFTER PARA CR
 ÍCONES USANDO CSS.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-59
 
-257
 
 
 Paolla Ramos e Silva
@@ -3856,8 +3674,7 @@ Ao definir o estilo para vários estados de link, existem algumas regras de orde
 
 * a:active DEVE vir depois de a:hover
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-60
+* 
 
 
 Paolla Ramos e Silva
@@ -3924,14 +3741,12 @@ Este exemplo demonstra um exemplo mais avançado onde combinamos várias proprie
 para exibir links como caixas/botões:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-61
 
-257
 
 
 Paolla Ramos e Silva
@@ -4009,8 +3824,7 @@ II. Chá
 
 III. Coca Cola
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-62
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -4089,14 +3903,12 @@ list-style-image: url('sqpurple.gif');
 }
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-63
 
-257
 
 
 Paolla Ramos e Silva
@@ -4162,8 +3974,7 @@ padding: 0;
 
 Lista - Propriedade abreviada
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-64
+* 
 
 
 Paolla Ramos e Silva
@@ -4217,8 +4028,7 @@ list-style-position Especifica a posição dos marcadores de item de lista (marc
 
 list-style-type Especifica o tipo de marcador de item de lista
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-65
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -4287,8 +4097,7 @@ background-color: #í2f2f2;
 
 }
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-66
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -4364,8 +4173,7 @@ e 8px de padding. A célula de cabeçalho tem uma cor de fundo cinza claro.
 
 Recolher bordas da tabela (border-collapse)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-67
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -4440,8 +4248,7 @@ padding: 8px;
 
 th {
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-68
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -4517,8 +4324,7 @@ pretas com largura de 1 px e 8px de padding. A célula de cabeçalho tem uma cor
 fundo cinza
 claro.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'
-69
+ x'
 
 www.estrategiaconcursos.com.br
 / 257
@@ -4595,15 +4401,13 @@ cabeçalho tem uma
 cor de fundo azul e a cor do texto é branca.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-70
 
-257
 
 
 Paolla Ramos e Silva
@@ -4641,7 +4445,7 @@ uma tabela
 
 table-layout Define o algoritmo de layout a ser usado para uma tabela
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 ^1
 
 www.estrategiaconcursos.com.br
@@ -4698,7 +4502,7 @@ de um elemento de none para block ou outro valor de exibição, mostrando
 ou ocultando o
 elemento dinamicamente.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 x-""' 72
 
 www.estrategiaconcursos.com.br
@@ -4773,8 +4577,7 @@ Se você precisar remover completamente um elemento da página, pode usar a
 propriedade
 display: none.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-73
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -4842,8 +4645,7 @@ Usar max-width em vez disso, nessa situação, melhorará o manuseio de janelas 
 pelo
 navegador. Isso é importante ao tornar um site utilizável em pequenos dispositivos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-74
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -4915,14 +4717,12 @@ não deixa
 uma lacuna na página onde normalmente estaria localizado.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-75
 
-257
 
 
 Paolla Ramos e Silva
@@ -4983,8 +4783,7 @@ right Define a borda da margem direita para uma caixa posicionada
 
 top Define a borda da margem superior para uma caixa posicionada
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-76
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -5069,8 +4868,7 @@ alto são exibidos "acima" de elementos com um valor de "z-index" mais baixo.
 (Gabarito: Letra
 A)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-78
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -5141,7 +4939,7 @@ overflow-wrap
 
 longas, caso elas transbordem seu contêiner
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 x-"'" 79
 
 www.estrategiaconcursos.com.br
@@ -5165,8 +4963,7 @@ se ele ultrapassar a área de conteúdo do elemento
 Especifica o que fazer com as bordas superior/inferior do
 se ele ultrapassar a área de conteúdo do elemento
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-80
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -5224,8 +5021,7 @@ outros elementos não fiquem sobrepostos aos elementos flutuantes. Assim também
 ocorre para
 o "floatright".
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-81
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -5291,7 +5087,7 @@ Por outro lado, clear especifica se um elemento deve ser colocado abaixo de elem
 flutuantes
 anteriores. Valores possíveis são "left", "right", "both" ou "none".
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -5330,8 +5126,7 @@ se ele ultrapassar a área de conteúdo do elemento
 overflow-y Especifica o que fazer com as bordas superior/inferior do conteúdo
 se ele ultrapassar a área de conteúdo do elemento
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-83
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -5406,8 +5201,7 @@ elemento HTML
 * "display: inline" é usado para elementos que devem ser exibidos em uma linha, como texto
 ou links. Isso significa que eles não podem ter uma largura ou altura definida e não podem
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-84
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -5444,15 +5238,13 @@ usado para
 elementos que devem ser exibidos em blocos separados, ocupando toda a largura disponível.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-85
 
-257
 
 
 Paolla Ramos e Silva
@@ -5522,8 +5314,7 @@ horizontalmente um elemento.
 
 transform: translate(-50%, -50%);
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-86
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -5559,15 +5350,12 @@ place-items: center;
 }
 
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+0 0 
 
 www.estrategiaconcursos.com.br
-7
 
 
-87
 
-257
 
 
 Paolla Ramos e Silva
@@ -5640,8 +5428,7 @@ por um
 
 elemento <p>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x-'"
-88
+ x-'"
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -5713,7 +5500,7 @@ filhos
 primeiro
 filho de seu pai
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 x-"'" 89
 
 www.estrategiaconcursos.com.br
@@ -5834,8 +5621,7 @@ filho de seu pai
 Seleciona elementos <input> sem atributo
 "obrigatório"
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-90
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -5870,8 +5656,7 @@ valor válido
 
 Seleciona todos os links visitados
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-91
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -5911,7 +5696,7 @@ A propriedade opacity é útil para criar efeitos de transparência e para
 tornar elementos menos
 opacos, permitindo que o fundo da página seja visto através deles.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -5987,15 +5772,13 @@ texto. As seguintes propriedades se aplicam ao pseudoelemento ::first-letter:
 * text-decoration
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-93
 
-257
 
 
 Paolla Ramos e Silva
@@ -6063,8 +5846,7 @@ específicas de um elemento, enquanto as pseudoclasses permitem estilizar o elem
 um
 todo com base em seu estado.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-94
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -6144,14 +5926,12 @@ display: block;
 }
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-95
 
-257
 
 
 Paolla Ramos e Silva
@@ -6230,14 +6010,12 @@ margin-bottom: 20px;
 }
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-96
 
-257
 
 
 Paolla Ramos e Silva
@@ -6304,8 +6082,7 @@ com boa aparência
 
 * background-color: #dddddd; - Adicione uma cor de fundo cinza a cada elemento <a>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'
-97
+ x'
 
 www.estrategiaconcursos.com.br
 / 257
@@ -6379,8 +6156,7 @@ de fundo, sombreamento e z-index. Quando o mouse é posicionado sobre a div
 com classe
 "dropdown", o conteúdo do menu é exibido.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-98
+* 
 
 
 Paolla Ramos e Silva
@@ -6397,8 +6173,7 @@ atraente. O CSS
 layout, tamanho
 das imagens, bordas, espaçamentos, entre outros aspectos visuais.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-99
+* 
 
 
 Paolla Ramos e Silva
@@ -6418,9 +6193,8 @@ apenas uma
 imagem.
 
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
-100
 
 
 Paolla Ramos e Silva
@@ -6467,8 +6241,7 @@ CSS. Eles são úteis para aplicar estilos de forma precisa e personalizada em e
 específicos
 em uma página web.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-101
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -6523,8 +6296,7 @@ Você pode usar as técnicas acima ou combiná-las de várias maneiras para cria
 formulários únicos
 e atraentes que funcionem perfeitamente com o resto do seu site.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-102
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -6603,8 +6375,7 @@ um documento HTML usando uma tag <link> na seção head. Por exemplo,
 
 <head>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-103
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -6675,8 +6446,7 @@ estilizar.
 
 Podemos dividir os seletores CSS em cinco categorias:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-104
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -6743,8 +6513,7 @@ cada cor é especificada por um valor entre 0 e 255. Por exemplo, a cor
 vermelha pode ser
 especificada como rgb(255, 0, 0 ).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-105
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -6806,8 +6575,7 @@ attachment
 Define se a imagem de fundo rola com o resto do conteúdo (scroll) ou
 é fixa no lugar (fixed).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-106
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -6880,8 +6648,7 @@ utilizando as propriedades border-top, border-right, border-bottom e border-left
 propriedade
 border-style especifica que tipo de borda exibir. Os seguintes valores são permitidos:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-107
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -6949,8 +6716,7 @@ preenchimento é a
 A propriedade principal para controlar o preenchimento é a padding. A sintaxe geral é:
 padding: top right bottom left;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-108
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -7018,14 +6784,12 @@ font-family Define a fonte para o texto.
 font-size Define o tamanho da fonte.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-109
 
-257
 
 
 Paolla Ramos e Silva
@@ -7083,8 +6847,7 @@ Os ícones podem ser facilmente adicionados à sua página HTML, usando uma bibl
 * CSS pseudo-elementos: Utilizando pseudo-elementos como :before ou :after para criar
 ícones usando CSS.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-110
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -7151,7 +6914,7 @@ padrão para a maioria dos elementos é blockou inline.
 
 Elementos de nível de bloco
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -7205,8 +6968,7 @@ estática (se não houver, será posicionado em relação à janela do navegador
 * sticky: o elemento é posicionado de forma semelhante ao "relative" até que ele atinja uma
 certa posição na tela, a partir daí ele se comporta como "fixed".
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-112
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -7283,8 +7045,7 @@ uma
 
 * visible: o conteúdo é exibido fora do elemento, sem cortar ou rolar.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-113
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -7339,15 +7100,13 @@ todos
 os links que apontam para arquivos PDF.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-114
 
-257
 
 
 Paolla Ramos e Silva
@@ -7358,7 +7117,7 @@ REFERÊNCIAS
 
 https://www.w3schools.com/css/default.asp
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
@@ -7422,15 +7181,13 @@ Gabarito: Errado
 Item. 3. (CESPE - DP DF - 2022) Julgue o item a seguir, acerca de CSS3, JMS, JSON e JUnit.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-116
 
-257
 
 
 Paolla Ramos e Silva
@@ -7495,8 +7252,7 @@ hexadecimal, existem outras notações funcionais, como RGB e HSL.
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-117
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -7570,8 +7326,7 @@ sequencia é RGB (red, green,blue) Assim, Vermelho ="#FF0000",Verde
 cores mais
 cobradas. Dessa forma, nosso gabarito é a alternativa c) background-color: #OOffOO.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-118
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -7644,8 +7399,7 @@ variedade de dispositivos.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-119
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -7725,15 +7479,13 @@ aspectos. Com
 o CSS 3, é possível ainda adicionar efeitos visuais como sombras, rotações, animações, entre
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-120
 
-257
 
 
 Paolla Ramos e Silva
@@ -7768,8 +7520,7 @@ especificidade mais alta têm prioridade sobre as regras de estilo com a especif
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-121
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -7844,7 +7595,7 @@ na tela. Elementos com um valor de "z-index" mais alto são exibidos "acima" de
 elementos com
 um valor de "z-index" mais baixo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -7915,8 +7666,7 @@ mostrados com fonte azul... eis a questão... qual é o correto? Tanto
 correta: input
 [type=text]. Portanto, temos aí nosso gabarito!
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-123
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -7990,15 +7740,13 @@ href="aleap.css"/> pode ser também escrita na forma:
 a) <style rel="link" type="text/css"> @include url("aleap.css"); </style>
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-124
 
-257
 
 
 Paolla Ramos e Silva
@@ -8073,8 +7821,7 @@ o display:inIine-block
 
 a) exibe parte do elemento da página na horizontal e parte na vertical.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-125
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -8148,8 +7895,7 @@ dependendo das características do dispositivo ou do tamanho da tela.
 
 Gabarito: Letra C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-126
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -8230,8 +7976,7 @@ unidades de
 medida são úteis para ajudar a tornar o site mais responsivo, já que elas permitem
 que você
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-127
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -8306,8 +8051,7 @@ Gabarito: Letra E
 13.(FCC-AFAP -2019) No CSS3 podem ser usadas diversas unidades de medida para definir o
 tamanho pelo qual os elementos são renderizados na página web quando aberta na janela do
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-128
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -8383,8 +8127,7 @@ adjacente. Com
 ele, você pode selecionar um elemento que está imediatamente adjacente a
 outro elemento,
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-129
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -8458,15 +8201,13 @@ c) width-dimension: fixed;
 d) box-sizing: border-box;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-130
 
-257
 
 
 Paolla Ramos e Silva
@@ -8535,14 +8276,12 @@ font-size:300%;
 }
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-131
 
-257
 
 
 Paolla Ramos e Silva
@@ -8616,15 +8355,13 @@ text-align:center
 </head>
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-132
 
-257
 
 
 Paolla Ramos e Silva
@@ -8689,8 +8426,7 @@ border:solid #c0c0c0; 1px
 .conteiner > div {
 background-color: #c0c0c0;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-133
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -8767,15 +8503,13 @@ d) <style content="with=auto, height=auto, scale=responsive"/>
 e) <meta name="responsive" content="width=device-width, max-scale=100%">
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-134
 
-257
 
 
 Paolla Ramos e Silva
@@ -8840,8 +8574,7 @@ e) @animation
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-135
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -8925,8 +8658,7 @@ e) será aplicada somente aos elementos cujo atributo title contenha uma string
 iniciada pela
 palavra carro.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-136
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -8950,8 +8682,7 @@ selecionados e a borda será aplicada a eles.
 
 Gabarito: Letra C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-137
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -9025,8 +8756,7 @@ elementos <ul>. ul > li { /* estilo a ser aplicado */ }. Por fim, vejamos as
 demais alternativas, a) O
 seletor "ul.li" casa elementos com a classe "li" que são descendentes de um elemento de lista não
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-138
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -9102,15 +8832,13 @@ color: blue;
 }
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-139
 
-257
 
 
 Paolla Ramos e Silva
@@ -9171,8 +8899,7 @@ Item. 6. (FGV- PC-AM -2022) No contexto da linguagem de estilo CSS, considere
 os seletores
 utilizados no trecho a seguir.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-140
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -9251,15 +8978,13 @@ com base em valores específicos de seus atributos. "E" representa o nome do
 elemento que
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-141
 
-257
 
 
 Paolla Ramos e Silva
@@ -9334,8 +9059,7 @@ d) <p> { font-size: 20px; color: blue}
 
 e) :p { font-size: 20px; color: blue}
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-142
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -9405,15 +9129,13 @@ define
 corretamente a formatação para todos os elementos h1 de um documento.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-143
 
-257
 
 
 Paolla Ramos e Silva
@@ -9481,8 +9203,7 @@ Pt
 
 color: red;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-144
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -9553,14 +9274,12 @@ uma só vez.
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-145
 
-257
 
 
 Paolla Ramos e Silva
@@ -9616,8 +9335,7 @@ utilizado.
 
 Gabarito: Letra C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-146
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -9678,8 +9396,7 @@ conforme exemplificado no código a seguir.
 
 <head>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-147
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -9745,8 +9462,7 @@ e) line-boxes
 
 Item. 7. (CESPE - ME- 2020) Acerca de desenvolvimento de sistemas web, julgue o item a seguir.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-148
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -9801,8 +9517,7 @@ De acordo com o conceito de herança em CSS, as propriedades de página com
 especificidade
 mais alta têm prioridade sobre as propriedades com especificidade mais baixa.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-149
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -9876,8 +9591,7 @@ b) input type='text' {colonblue}
 
 c) input.text {color:blue}
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-150
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -9955,14 +9669,12 @@ pode
 ser utilizada, em todos eles, a instrução CSS:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-151
 
-257
 
 
 Paolla Ramos e Silva
@@ -10033,15 +9745,13 @@ d) a:over {color: #00FF00}.
 e) a:hover {color: #FF0000}
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-152
 
-257
 
 
 Item. 11. (FCC -TRF - 4a REGIÃO - 2019) As unidades de medida usadas em CSS para
@@ -10108,15 +9818,13 @@ I e II referem-se, respectivamente, às unidades de medida
 a) pw e ph.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-153
 
-257
 
 
 Paolla Ramos e Silva
@@ -10181,14 +9889,12 @@ contêiner
 a) weight-width: fixed;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-154
 
-257
 
 
 Paolla Ramos e Silva
@@ -10260,14 +9966,12 @@ d) h1#tit::first-letter
 e) h1 ,tit::captive-letter
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-155
 
-257
 
 
 Paolla Ramos e Silva
@@ -10331,8 +10035,7 @@ Os códigos CSS e HTML são mostrados abaixo,
 
 .conteiner {
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-156
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -10408,15 +10111,13 @@ height: 200px;
 background-color: red;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-157
 
-257
 
 
 Paolla Ramos e Silva
@@ -10485,8 +10186,7 @@ a) não será aplicada, pois não é possível aplicar uma configuração CSS us
 title
 s.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-158
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -10507,14 +10207,12 @@ iniciada pela
 palavra carro.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-159
 
-257
 
 
 Paolla Ramos e Silva
@@ -10577,8 +10275,7 @@ e) uri
 Item. 4. (FGV-TRT - 16a REGIÃO (MA) - 2022) No contexto do HTML e CSS, analise o código a seguir
 numa página Web.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-160
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -10653,14 +10350,12 @@ d) Todos os elementos da página; elementos da classe h1; elementos com id="#xpt
 e) Todos os elementos da página; elementos <h1 >; elementos com id= "xpto".
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-161
 
-257
 
 
 Paolla Ramos e Silva
@@ -10726,8 +10421,7 @@ a) classe xxxx / tag / classe xxxx / classe xxxx
 
 b) classe xxxx / classe xxxx / classe xxxx / tag
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-162
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -10795,8 +10489,7 @@ e) Um erro, pois falta definir o seletor da regra.
 Item. 14. (FGV -IMBEL - 2021) Com relação às regras escritas em CSS3, o papel da propriedade
 padding em um box é definir
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-163
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -10845,15 +10538,13 @@ d) <p> { font-size: 20px; color: blue}
 e) :p { font-size: 20px; color: blue}
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-164
 
-257
 
 
 Paolla Ramos e Silva
@@ -10913,7 +10604,7 @@ Item. 16. LETRA C
 
 Item. 5. LETRA C 23. LETRA C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
@@ -10978,8 +10669,7 @@ de estilo mais poderoso, organizado e eficiente, tornando o processo de desenvol
 de sites
 e aplicativos web mais fácil e eficiente.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-166
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -11065,8 +10755,7 @@ próprio estilo a partir dos componentes pré-construídos.
 
 Certo, e depois Paolla, o que devo fazer?
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-167
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -11074,7 +10763,7 @@ www.estrategiaconcursos.com.br
 /
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -11138,8 +10827,7 @@ Extra extra large
 
 >1400px
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-169
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -11201,14 +10889,12 @@ quaisquer
 pontos de interrupção personalizados. As seis camadas de grade padrão são as seguintes:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-170
 
-257
 
 
 Paolla Ramos e Silva
@@ -11292,8 +10978,7 @@ o .container-md faria com que o contêiner tenha largura máxima de 992px em tel
 largura
 entre 768px e 992px.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-171
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -11367,8 +11052,7 @@ permite que você crie layouts que se adaptem automaticamente a diferentes taman
 tela,
 oferecendo uma excelente experiência de usuário em todos os dispositivos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-172
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -11453,8 +11137,7 @@ também oferecem suporte a classes modificadoras para aplicar
 uniformemente o dimensionamento de colunas e classes de medianiz
 para alterar o espaçamento de seu conteúdo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-173
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -11533,8 +11216,7 @@ documentação:
 
 <div class="col">col</div>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-174
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -11630,9 +11312,8 @@ indicam que
 cada coluna ocupará 4 das 12 colunas disponíveis na tela pequena (sm). Lembre-se de que, para
 
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
-175
 
 
 Paolla Ramos e Silva
@@ -11715,8 +11396,7 @@ menor que o
 largura da tela.
 Quando a tela for maior que o "breakpoint" definido pela classe "col-md-", as colunas ocuparão
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-176
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -11814,8 +11494,7 @@ I
 
 : e) "container" em um elemento div e adicionar as classes "row" e "col-*" para criar o layout. =
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-177
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -11888,8 +11567,7 @@ responsiva.
 Use classes específicas de ponto de quebra para modificar os gutters horizontais, verticais e
 todos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-178
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -11968,8 +11646,7 @@ será alinhado à direita da coluna, e se o eixo principal estiver definido como
 column, o texto será
 alinhado à direita da linha.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-179
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -12042,8 +11719,7 @@ classes de grid do Bootstrap para criar layouts mais complexos e personalizados.
 
 Alinhamento de Texto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-180
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -12119,8 +11795,7 @@ verticalmente no
 contêiner flex. Todas essas classes de alinhamento podem ser usadas em conjunto com
 outras
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-181
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -12200,8 +11875,7 @@ posicionamento.
 
 position-relative Posiciona um elemento em relação à sua posição normal.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-182
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -12282,8 +11956,7 @@ de borda, de gradiente e de foco de elementos HTML, senão, vejamos.
 
 Propriedades Descrição
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-183
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -12344,8 +12017,7 @@ precaução;
 Define a cor de fundo para a cor azul clara usada para fornecer
 informações;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-184
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -12369,14 +12041,12 @@ Define a cor de fundo para uma cor escura, geralmente usada em
 fundo claro.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-185
 
-257
 
 
 Paolla Ramos e Silva
@@ -12442,8 +12112,7 @@ estilizá-los com um
 estilo padrão do Bootstrap. A classe adiciona uma fonte em negrito e uma cor de texto
 preta para esses elementos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-186
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -12532,8 +12201,7 @@ for="exampleRadiol">
 type="radio" name="exampleRadio"
 for="exampleRadio2">
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-187
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -12627,8 +12295,7 @@ id="exampleRadio2">
 
 <label class="fonm-check-label" for="exampleRadio2">
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-188
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -12700,8 +12367,7 @@ recursos e opções de personalização, é possível criar formulários que sej
 tanto visualmente
 atraentes quanto fáceis de usar.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-189
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -12777,14 +12443,12 @@ data-ride="carousel">
 <img class="d-block w-100" src="..." alt="First slide">
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-190
 
-257
 
 
 Paolla Ramos e Silva
@@ -12859,8 +12523,7 @@ Esses elementos div são usados para definir as outras imagens no carrossel.
 Cada imagem é
 definida da mesma maneira que a primeira imagem, mas sem a classe active.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-191
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -12942,8 +12605,7 @@ role="button" data-slide="next">
 
 A imagem abaixo apresenta um carousel com controles
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-192
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -12965,8 +12627,7 @@ funcionalidade desejada. Alguns desses elementos são:
 
 Classe Descrição
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-193
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -13032,8 +12693,7 @@ semelhante a uma matriz). Retorna ao chamador antes que o item de
 destino seja exibido (ou seja, antes que o slid.bs.carouselevento
 ocorra).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-194
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -13095,8 +12755,7 @@ to O índice do próximo item
 
 Buttons
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-195
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -13171,8 +12830,7 @@ btn btn-dark
 Define um estilo de botão com fundo escuro e texto claro para um
 botão com design mais forte e dramático.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-196
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -13242,14 +12900,12 @@ spinner está em uso.
 Border spinner
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-197
 
-257
 
 
 Paolla Ramos e Silva
@@ -13309,7 +12965,7 @@ caixa de ferramentas flutuante que exibe informações adicionais ou contextuais
 usuário
 passa o mouse sobre um elemento, sem precisar clicar ou navegar para outra página.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
 
 Paolla Ramos e Silva
@@ -13378,8 +13034,7 @@ sejam removidos do DOM.
 shadow
 DOM.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-199
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -13457,8 +13112,7 @@ mesmos pontos de interrupção da largura da janela de visualização do sistema
 tamanho SM (pequeno) ou
 maior.</p>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-200
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -13542,8 +13196,7 @@ align-items-end
 É uma classe de alinhamento do Bootstrap que é usada para alinhar
 elementos filhos verticalmente na parte inferior do contêiner pai. É
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-201
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -13619,8 +13272,7 @@ my-auto
 
 Centraliza um elemento verticalmente em seu contêiner.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-202
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -13702,8 +13354,7 @@ Classes de cor
 
 No Bootstrap, há diversas classes para definir a cor dos elementos, dentre elas:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-203
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -13771,8 +13422,7 @@ será alinhado à direita da coluna, e se o eixo principal estiver definido como
 column, o texto será
 alinhado à direita da linha.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-204
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -13814,8 +13464,7 @@ Glyphicons no seu
 
 ; Errado)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-205
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -13868,8 +13517,7 @@ Extra extra large
 
 Infixo de classe I Dimensões I
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-206
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -13957,14 +13605,12 @@ XX-Large
 px
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-207
 
-257
 
 
 Paolla Ramos e Silva
@@ -14037,8 +13683,7 @@ Cada coluna tem uma horizontal padding(chamada de calha) para
 controlar o espaço entre elas. Isso paddingé então neutralizado nas
 linhas com margens negativas para garantir que o conteúdo em suas
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-208
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -14106,8 +13751,7 @@ de borda mais comuns são:
 
 Propriedades Descrição
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-209
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -14180,8 +13824,7 @@ As classes de posicionamento do Bootstrap permitem posicionar elementos em
 relação a um
 determinado ponto na tela. Algumas das principais classes são:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-210
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -14242,8 +13885,7 @@ de borda, de gradiente e de foco de elementos HTML, senão, vejamos.
 
 Propriedades Descrição
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-211
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -14304,8 +13946,7 @@ precaução;
 Define a cor de fundo para a cor azul clara usada para fornecer
 informações;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-212
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -14396,8 +14037,7 @@ data-ride="carousel">
 
 <img class="d-block w-100" src="..." alt="Third slide">
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-213
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -14469,8 +14109,7 @@ Percorre os itens do carrossel da esquerda para a direita.
 
 .carouself pause') Impede que o carrossel percorra os itens.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-214
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -14531,8 +14170,7 @@ Descrição
 
 direction A direção na qual o carrossel está deslizando (ou "left"ou "right").
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-215
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -14593,10 +14231,10 @@ padrão no Bootstrap que foi projetada para navegar adequadamente em camadas,
 dicas de
 ferramentas e popovers, modais e muito mais.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
+
 
 
 Paolla Ramos e Silva
@@ -14607,7 +14245,7 @@ REFERÊNCIAS
 
 https://www.w3schools.com/bootstrap/bootstrap_ver.asp
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
@@ -14670,8 +14308,7 @@ d) form-line
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-219
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -14749,8 +14386,7 @@ d) button-link, btn-primary.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-220
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -14829,15 +14465,13 @@ web criada com Bootstrap 5, em condições ideais.
 <div class="containen-fluid">
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-221
 
-257
 
 
 Paolla Ramos e Silva
@@ -14910,8 +14544,7 @@ centralizado na página,
 
 container-fluid: classe para definir um contêiner com largura total e preenchimento completo do
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-222
+* 
 
 
 Paolla Ramos e Silva
@@ -14982,8 +14615,7 @@ podem ser facilmente posicionados e organizados usando as outras classes utilit�
 sistema
 de flexbox do Bootstrap 5.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-223
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -15053,15 +14685,13 @@ entre
 a) col-small-25 e col-small-75.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-224
 
-257
 
 
 Paolla Ramos e Silva
@@ -15136,8 +14766,7 @@ e) column-small-25 e column-small-75
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-225
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -15218,8 +14847,7 @@ Dessa forma, o código HTML irá apresentar as duas colunas uma ao lado da outra
 dispositivos
 com largura de tela maior ou igual a 576 pixels e irá empilhar as colunas uma sobre a outra em
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-226
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -15298,7 +14926,7 @@ HTML para criar uma caixa de ferramentas que exibe informações adicionais quan
 usuário
 passa o mouse sobre o elemento.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -15377,8 +15005,7 @@ médios (768px ou mais): o primeiro contêiner terá 6/12 da largura da linha (o
 segundo contêiner terá 6/12 da largura da linha (ou seja, 50%). Dispositivos grandes
 (992px ou
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-228
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -15406,7 +15033,6 @@ como mostrados na figura abaixo, indicando algum procedimento de carregamento
 no site,
 em que a imagem de um pequeno círculo fica girando no interior do botão.
 
-1
 
 Q Carregando..
 
@@ -15450,14 +15076,12 @@ levar algum tempo.
 Gabarito: Letra D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-229
 
-257
 
 
 Paolla Ramos e Silva
@@ -15546,7 +15170,7 @@ b) data-alternate="show-hide"
 
 c) data-toggle="collapse"
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
 
 Paolla Ramos e Silva
@@ -15620,8 +15244,7 @@ e) 10%/90% para dispositivos de telas pequenas, 20%/80% para dispositivos de tel
 médias e
 30%/70% para dispositivos de telas grandes.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-231
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -15701,8 +15324,7 @@ desenvolvimento web ideal.
 
 </head>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-232
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -15777,8 +15399,7 @@ d) col-small-3 e col-small-7
 
 e) col-lg-3 e col-lg-9
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-233
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -15850,14 +15471,12 @@ site
 responsivo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-234
 
-257
 
 
 Paolla Ramos e Silva
@@ -15930,14 +15549,12 @@ de tela.
 Gabarito: Letra D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-235
 
-257
 
 
 Paolla Ramos e Silva
@@ -16011,8 +15628,7 @@ contêiner pai. d) justified: é uma propriedade CSS que alinha o texto de forma
 cada linha
 tenha a mesma largura, criando uma margem adicional entre as palavras.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-236
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -16085,8 +15701,7 @@ o correto é a letra a)"row" em um elemento div e adicionar classes "col-*" para
 
 Gabarito: Letra A
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-237
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -16163,14 +15778,12 @@ Gabarito: Letra A
 </div>
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-238
 
-257
 
 
 Paolla Ramos e Silva
@@ -16235,8 +15848,7 @@ e plataformas.
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-239
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -16315,8 +15927,7 @@ fundo verde e letra branca, deve-se alterar a declaração BOOTSTRAP para:
 
 a) badge success
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-240
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -16374,8 +15985,7 @@ necessidades específicas de cada projeto.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-241
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -16443,8 +16053,7 @@ a classe carousel-control é utilizada com a tag "a" do HTML, sem perda de
 funcionalidade em
 todos esses casos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-242
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -16519,8 +16128,7 @@ as telas, exceto nas extra pequenas, as lacunas I e II devem ser corretamente pr
 
 a) col-left-50 e col-right-50
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-243
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -16595,9 +16203,8 @@ Bootstrap
 </div>
 
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
-244
 
 
 Paolla Ramos e Silva
@@ -16666,8 +16273,7 @@ esquerda use 25% da largura da linha e a divisão da direita use 75%, as lacunas
 e II devem ser
 preenchidas, correta e respectivamente, com os nomes de classe
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-245
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -16753,9 +16359,8 @@ abaixo, a
 lacuna I deve ser preenchida por
 
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
-246
 
 
 Paolla Ramos e Silva
@@ -16821,18 +16426,15 @@ como mostrados na figura abaixo, indicando algum procedimento de carregamento
 no site,
 em que a imagem de um pequeno círculo fica girando no interior do botão.
 
-1
 
 Q Carregando..
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 www. es tra tegiaconcursos. com. br
 
 
-247
 
-257
 
 
 Paolla Ramos e Silva
@@ -16916,9 +16518,8 @@ integra. a AâAlnlstraç3o Direta do Poder Executivo...
 < /ntml >
 
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
-248
 
 
 Paolla Ramos e Silva
@@ -16984,8 +16585,7 @@ médias e
 21 .(FCC-SABESP- 2018) Um Analista está utilizando Bootstrap 4 na criação de um site e deseja
 definir que um container deve usar toda a largura da tela.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-249
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -17071,9 +16671,8 @@ pixels por 991 pixels. A coluna da esquerda deve ocupar aproximadamente 33,3% e 
 Para obter o layout desejado, as lacunas I e II devem conter, respectivamente, os valores
 
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
-250
 
 
 Paolla Ramos e Silva
@@ -17148,14 +16747,12 @@ c/bndyl-
 C./htmlj-
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-251
 
-257
 
 
 Paolla Ramos e Silva
@@ -17225,8 +16822,7 @@ b) "grid" em um elemento div e adicionar classes "row-*" para criar as linhas.
 
 c) "responsive " em um elemento div e adicionar classes "col-*" para criar as colunas.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-252
+
 
 www.estrategiaconcursos.com.br
 /' 257
@@ -17295,14 +16891,12 @@ d) JSON.
 e) SpringBoot.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-253
 
-257
 
 
 Item. 32. (Instituto AOCP - PRODEB - 2018) É possível considerar o Bootstrap como
@@ -17367,15 +16961,13 @@ d) btn btn-success
 e) btn success
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-254
 
-257
 
 
 Paolla Ramos e Silva
@@ -17389,8 +16981,7 @@ O Bootstrap é uma biblioteca gratuita e de código aberto com enfoque no
 desenvolvimento
 de interfaces de usuários em sistemas web.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-255
+
 
 www.estrategiaconcursos.com.br
 / 257
@@ -17440,9 +17031,8 @@ Item. 35. CORRETO
 Item. 12. LETRA B 24. LETRA B
 
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
-256
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

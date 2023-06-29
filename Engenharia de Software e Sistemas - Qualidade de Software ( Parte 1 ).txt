@@ -21,67 +21,48 @@ Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-índice
+Índice
 
 1) Qualidade de Software
 
-3
 
 2) Qualidade de Software - Garantia e Controle de Qualidade
-10
 
 3) Qualidade de Software - Verificação x Validação
-12
 
 4) Qualidade de Software - Defeito, Erro e Falha
-17
 
 5) Qualidade de Software - Métricas de Qualidade de Software
-21
 
 6) Qualidade de Software - Métricas de Qualidade de Código
-27
 
 7) Qualidade de Software - NBR ISO/IEC 9126
-28
 
 8) Resumo - Qualidade de Software
-34
 
 9) Análise Estática de Código-Fonte - Conceitos Básicos - Teoria
-41
 
 10) Questões Comentadas - Qualidade de Software - CESPE
-46
 
 11) Questões Comentadas - Qualidade de Software - FCC
-60
 
 12) Questões Comentadas - Qualidade de Software - FGV
-64
 
 13) Questões Comentadas - Qualidade de Software - Diversas.
-68
 
 14) Análise Estática de Código-Fonte - Conceitos Básicos - Questões Comentadas.
-77
 
 15) Lista de Questões - Qualidade de Software - CESPE
-79
 
 16) Lista de Questões - Qualidade de Software - FCC
-85
 
 17) Lista de Questões - Qualidade de Software - FGV
-89
 
 18) Lista de Questões - Qualidade de Software - Diversas.
-92
 
 19) Análise Estática de Código-Fonte - Conceitos Básicos - Lista de Questões.
-99
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Conceitos Básicos
@@ -146,7 +127,7 @@ Antes de continuar, precisamos definir o que é qualidade! A qualidade é
 algo pelo qual nos
 esforçamos para obter nos produtos, processos e serviços. Vejamos o que o dicionário diz:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Qualidade: característica inerente ou diferenciada; uma propriedade, b. Um traço
@@ -213,7 +194,7 @@ falta de conformidade aos requisitos de software é determinante para a falta
 de
 qualidade de software.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Comentários: a qualidade de software é realmente fundamentada nas necessidades
@@ -297,7 +278,7 @@ TESTABILIDADE Esforço necessário para testar um programa de modo a garantir qu
 desempenhe a
 função destinada.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -388,7 +369,7 @@ desenvolvidas nas indústrias de manufatura, em que os termos garantia de qualid
 controle de
 qualidade são amplamente utilizados. Garantia de qualidade é a definição de processos e normas
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -469,14 +450,11 @@ conceitos
 vistos nessa introdução.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-1
 
 
-7
 
-101
+
+
 
 
 (TJDFT - 2008) O fator de qualidade flexibilidade de McCall é definido como
@@ -541,12 +519,10 @@ c) eficiência enquadra-se no aspecto de operação do produto.
 d) flexibilidade enquadra-se no aspecto de transição do produto.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-8
 
-101
+
 
 
 Diego Carvalho
@@ -562,12 +538,10 @@ enquadra-se no aspecto de revisão do
 produto; (e) Errado, enquadra-se no aspecto de transição do produto (Letra C).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-9
 
-101
+
 
 
 Garantia e Controle de Qualidade
@@ -624,12 +598,10 @@ ligar o carro
 com a chave e ver se está funcionando.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-10
 
-101
+
 
 
 Agora imaginem que esse não seja um problema pontual, uma vez que tem
@@ -710,7 +682,7 @@ Comentários: garantir que cada produto de trabalho satisfaça os requisitos est
 objetivo do controle de qualidade
 (Letra C).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Verificação x Validação
@@ -756,7 +728,7 @@ o software construído esteja de acordo com as funções e especificações dos 
 Já a
 Validação ocorre no ambiente do usuário e se certifica de que o software construído está de acordo
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 com as expectativas do cliente. Ora, o produto está de acordo com as especificações?
@@ -805,7 +777,7 @@ barato! Quanto à verificação dinâmica, nós falaremos mais adiante sobre cad
 
 1 Alguns autores tratam V&V como uma coisa só - integral, inteira.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 e tipo de teste que podem ser feitos. Apenas guardem que a verificação estática e a
@@ -876,7 +848,7 @@ verificação, mas não está errado afirmar que teste é uma atividade de verif
 (ANATEL - 2007) Considere as informações abaixo em relação ao desenvolvimento de
 sistemas:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 I. executar um software com o objetivo de revelar falhas, mas que não prova a
@@ -940,12 +912,10 @@ especificados, ou seja, que se está construindo o produto corretamente.
 Comentários: a questão inverteu os conceitos de verificação e validação (Errado).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-15
 
-101
+
 
 
 (AFR/SP - 2009) O processo de confirmação que um software vai ao encontro
@@ -995,12 +965,10 @@ caso alguém encontre, favor
 informar (Letra E).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-16
 
-101
+
 
 
 Defeito, Erro e Falha
@@ -1062,7 +1030,7 @@ UNIVERSO FÍSICO
 
 1 Eventualmente, pode cair nomes em inglês: Erro/Error, Falha/Failure e Defeito/Defect.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Vamos ver um exemp/o? Imaginem que um cabo de rede de uma impressora se desconectou
@@ -1131,7 +1099,7 @@ entretanto, que a distinção temporal entre erros e defeitos não é um pensame
 dominante. Dito
 isso, vamos ver a tabela de definições de acordo com nosso querido autor:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1191,12 +1159,10 @@ d) Na fase de levantamento de requisitos.
 e) Na fase de prototipação.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-19
 
-101
+
 
 
 Comentários: de acordo com Roger Pressman, defeito é um problema de qualidade
@@ -1236,12 +1202,10 @@ resultado inesperado na execução
 do programa; (IV) Errado, a questão trata de Defeito (Letra C).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-20
 
-101
+
 
 
 Métricas de Qualidade de Software
@@ -1316,7 +1280,7 @@ as classes de objeto em um projeto. As métricas de controle e de previsão pode
 influenciar a
 tomada de decisão de gerenciamento. Os gerentes usam métricas de processo para decidir se
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 devem ser feitas alterações no processo; as métricas de previsão são usadas para
@@ -1369,7 +1333,7 @@ caso. Para testar essa hipótese, você precisa de dados de falha de um
 grande número de
 componentes e de acesso ao código-fonte do componente para análise.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Poucas empresas fizeram um compromisso a longo prazo para a coleta de dados
@@ -1439,7 +1403,7 @@ extensão da mudança; qualidade em termos do número e tipo de erros; maturidad
 termos da
 frequência de erros; recursos em termos de recursos despendidos contra os planejados.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Porfim, as métricas de qualidade de produto são métricas de previsão usadas para medir
@@ -1506,7 +1470,7 @@ alto para fan-in significa que X está fortemente acoplado ao resto do projeto e
 alterações em
 X terão repercussões extensas. Um valor alto para fan-out sugere que a complexidade geral
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1587,7 +1551,7 @@ uma determinada fase do ciclo de vida do software, ou ao ciclo de vida de softwa
 como um todo.
 Sua utilização permite a identificação de componentes de alto risco e permite a comparação de
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 produtos pela medição da qualidade de cada um. Existe também uma métrica similar ao
@@ -1606,12 +1570,10 @@ pessoal... é isso
 que tínhamos para falar sobre métricas de qualidade.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-26
 
-101
+
 
 
 Métricas de Qualidade de Código
@@ -1674,7 +1636,7 @@ O código deve fazer uso razoável dos recursos do sistema: memória, processame
 entre outros. Devemos pensarsobre o retorno sobre investimento e requer uma reflexão
 sobre todos os recursos investidos.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Conceitos Básicos
@@ -1746,7 +1708,7 @@ outro para a qualidade em uso, que é apresentado na imagem abaixo composta
 de quatro
 características.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Vamos falar sobre a Qualidade Interna e Externa -esse é de longe o modelo que mais
@@ -1779,7 +1741,7 @@ especificadas.
 MANUTENIBILIDADE, PORTABILIDADE,
 USABILIDADE E CONFIABILIDADE.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1870,12 +1832,10 @@ atraente ao usuário, quando usado sob condições especificadas.
 SUBCARACTERÍSTICA | DESCRIÇÃO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-30
 
-101
+
 
 
 Diego Carvalho
@@ -1974,12 +1934,10 @@ quando modificado, seja
 validado.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-31
 
-101
+
 
 
 Diego Carvalho
@@ -2068,12 +2026,10 @@ característica
 e define indicadores e métricas externas para avaliar um produto de software. As Métricas Externas
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-32
 
-101
+
 
 
 referem-se a medições indiretas de um produto de software a partir do comportamento do
@@ -2130,12 +2086,10 @@ software de manter o seu nível de desempenho dentro de condições estabelecida
 período de tempo - ela é responsável pela confiabilidade do software!
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-33
 
-101
+
 
 
 Diego Carvalho
@@ -2220,12 +2174,10 @@ aplicações.
 INTEROPERABILIDADE Esforço necessário para integrar um sistema a outro.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-34
 
-101
+
 
 
 FATORES (ISO 91261 | DESCRIÇÃO
@@ -2327,7 +2279,7 @@ vida de desenvolvimento de software.
 Controle da qualidade garante que os resultados do seu
 trabalho são os esperados conforme requisitos.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 VERIFICAÇÃO (DEPENDE DA ESPECIFICAÇÃO)
@@ -2388,7 +2340,7 @@ A
 
 UNIVERSO FÍSICO
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2502,7 +2454,7 @@ Capacidade do produto de software de interagir com um ou mais
 sistemas
 especificados.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2593,12 +2545,10 @@ ATRATIVIDADE
 Capacidade do produto de software de ser atraente ao usuário.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-38
 
-101
+
 
 
 Diego Carvalho
@@ -2688,7 +2638,7 @@ Capacidade do produto de software de sertransferido de um ambiente para outro.
 
 SUBCARACTERÍSTICA | DESCRIÇÃO
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2756,12 +2706,10 @@ especificado.
 H PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-40
 
-101
+
 
 
 Diego Carvalho
@@ -2834,7 +2782,7 @@ pela ferramenta; já o teste dinâmico executa o software. Análise estática po
 em outros casos é executada no
 código-objeto (i.e., código de máquina ou de montagem).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 que são dificilmente encontrados em testes. Como as revisões, a análise estática
@@ -2878,12 +2826,10 @@ Construções excessivamente complicadas.
 Violação de padrões de programação.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-42
 
-101
+
 
 
 Diego Carvalho
@@ -2950,12 +2896,10 @@ grande
 número de erros potenciais e reduzir significativamente os custos de teste. No entanto, os
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-43
 
-101
+
 
 
 projetistas de linguagens de programação modernas, como Java2, têm
@@ -3022,12 +2966,10 @@ Revisão de Código, em geral,
 refere-se à análise feita por programadores.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-44
 
-101
+
 
 
 Diego Carvalho
@@ -3085,12 +3027,10 @@ tema de
 discursiva!
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-45
 
-101
+
 
 
 Diego Carvalho
@@ -3151,7 +3091,7 @@ ocorrência de falhas num período e ambiente especificados.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 4- (CESPE I BANRISUL - 2022) A revisão por pares é uma forma de análise da
@@ -3216,7 +3156,7 @@ subatributos, tais quais adequabilidade, exatidão, interoperabilidade,
 conformidade e
 segurança.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3285,7 +3225,7 @@ A portabilidade refere-se à facilidade com a qual um software pode sertranspost
 ambiente
 para outro, conforme indicado pelos seguintes subatri-butos: adaptabilidade, facilidade de
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 instalação, conformidade, facilidade de substituição. A questão trata - na verdade - do
@@ -3349,12 +3289,10 @@ organização com a visibilidade apropriada sobre o processo de desenvolvimento.
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-49
 
-101
+
 
 
 i4-(CESPE/ SERPRO-2010) Um processo de gerenciamento da qualidade do projeto
@@ -3416,12 +3354,10 @@ um
 processo ruim? Pois é, não! Pessoas, processos e ferramentas devem andar juntas.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-50
 
-101
+
 
 
 Diego Carvalho
@@ -3557,12 +3493,10 @@ Na verdade, estava disponível - ela é de 1991! É ridículo cobrar datas em pr
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-51
 
-101
+
 
 
 2o.(CESPE / STJ -2015) A manutenibilidade é atributo de qualidade externa que pode ser
@@ -3591,7 +3525,7 @@ Código; e Tamanho do Manuel de Usuário. Entendido?
 
 Externai Quality Attributes Internai Attributes
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 No entanto, o enunciado dessa questão fala efetivamente sobre ISO/IEC 9126! Logo, a
@@ -3706,7 +3640,7 @@ interoperabilidade.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3831,12 +3765,10 @@ no substituiu esse outro termo. Terceiro, é ridículo cobrar em prova a origem 
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-54
 
-101
+
 
 
 25-(CESPE / TCE-PR - 2016) De acordo com a norma ISO/IEC 9126, os atributos de qualidade de
@@ -3882,7 +3814,7 @@ ACURÁCIA Capacidade do produto de software de prover, com o grau de precisão n
 resultados
 ou efeitos corretos ou conforme acordados.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3946,12 +3878,10 @@ apropriado, relativo à quantidade de recursos usados, sob condições especific
 Gabarito: Letra B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-56
 
-101
+
 
 
 2g.(CESPE / TRE-BA - 2017) As normas da série ISO/IEC 9126 estabelecem como medidas da
@@ -4066,7 +3996,7 @@ Gabarito: Letra E
 3o.(CESPE / TRE-BA - 2017) Um gestor de desenvolvimento de software ficou responsável por
 avaliar a qualidade de determinado software. Nessa avaliação, ele utilizou atributos
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 categorizados em características, como, por exemplo, a funcionalidade. Para essa
@@ -4118,7 +4048,7 @@ c) satisfação.
 
 d) analisabilidade.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4165,12 +4095,10 @@ especificadas com acurácia e completude, em um contexto de uso especificado.
 Gabarito: Letra B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-59
 
-101
+
 
 
 Diego Carvalho
@@ -4239,7 +4167,7 @@ tem função de melhorar o processo de software.
 
 Gabarito: Letra D
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 3- (FCC / TRE-SE - 2007) Considere as questões chave apresentadas na seguinte tabela, com o
@@ -4305,12 +4233,10 @@ condições
 de uso.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-61
 
-101
+
 
 
 Diego Carvalho
@@ -4356,7 +4282,7 @@ alguns nomes diferentes da norma: resiliência e recuperabilidade; e comportamen
 relação ao
 tempo e desempenho. Logo, eu acredito que caberia recurso nessa questão.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4365,7 +4291,7 @@ Diego Carvalho
 
 Gabarito: Letra D
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4429,7 +4355,7 @@ e) MPS.BR.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4478,7 +4404,7 @@ d) Funcionalidade, usabilidade, portabilidade.
 
 e) Eficiência, manutenibilidade, portabilidade.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4530,7 +4456,7 @@ Sempre que uma equipe desenvolve um código-fonte e o repassa para que outra equ
 passe a
 mantê-lo, há um risco manutenibilidade. Porque? Porque o código pode conter "gambiarras", pode
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 estar pouco comentado, pode ter baixa qualidade, entre outros. Além disso, a questão
@@ -4542,12 +4468,10 @@ necessidade inerente de que o código seja confiável.
 Gabarito: Letra B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-67
 
-101
+
 
 
 Diego Carvalho
@@ -4615,7 +4539,7 @@ III. aplicação de padrões.
 
 IV. controle de mudanças.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4681,7 +4605,7 @@ Os quatro últimos itens apresentam algumas características que permitem defini
 qualidade de
 um software, mas não definem qualidade em si. Já o primeiro o faz corretamente, na medida em
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4728,7 +4652,7 @@ a) descreve seis características relacionadas à qualidade de software, e como
 elas devem ser
 medidas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 b) compatibilidade é uma das características, que é composta por duas
@@ -4788,7 +4712,7 @@ Errado, a disponibilidade não é um atributo de qualidade da ISO/IEC 9126; (d) 
 (e) Errado,
 confidencialidade não é um atributo da ISO/IEC 9126.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4835,7 +4759,7 @@ a) A Manutenibilidade diz que o produto de software deve ser capaz de manter
 seu nível de
 desempenho, ao longo do tempo, nas condições estabelecidas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4906,12 +4830,10 @@ implementação
 do código, revisão e teste. A questão trata da qualidade interna...
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-73
 
-101
+
 
 
 Diego Carvalho
@@ -4981,12 +4903,10 @@ e) Funcionalidade
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-74
 
-101
+
 
 
 Diego Carvalho
@@ -5012,12 +4932,10 @@ e) imutabilidade, manutenibilidade e usabilidade
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-75
 
-101
+
 
 
 Diego Carvalho
@@ -5030,7 +4948,7 @@ usabilidade.
 
 Gabarito: Letra D
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5085,12 +5003,10 @@ de qualidade é
 alcançado quando temos a combinação de vários métodos. Gabarito: E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-77
 
-101
+
 
 
 Diego Carvalho
@@ -5133,7 +5049,7 @@ o programa); já técnicas de validação dinâmica executam o software para
 encontrar defeitos e
 demonstrar se ele atende aos seus requisitos. Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5204,7 +5120,7 @@ Item. 10. (CESPE / BANRISUL-2022) A portabilidade, atributo fundamental de quali
 ISO
 9126, refere-se ao grau de otimização do uso, pelo software, dos recursos do sistema.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 n.(CESPE / BANRISUL - 2022) As características operacionais, a capacidade de
@@ -5259,7 +5175,7 @@ processos
 presente na
 norma ISO 9001.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5406,12 +5322,10 @@ qualidade de
 software referentes às características de usabilidade são:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-81
 
-101
+
 
 
 a) inteligibilidade, analisabilidade, conformidade e adaptabilidade.
@@ -5479,7 +5393,7 @@ d) A série 14598 considera as métricas de qualidade internas, mas a série 912
 considera as
 métricas externas nem as de qualidade em uso.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 e) As séries 9126 e 14598 consideram tanto as métricas de qualidade internas e externas
@@ -5525,7 +5439,7 @@ d) analisabilidade.
 
 e) produtividade.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5566,12 +5480,10 @@ Item. 10. ERRADO 21. ERRADO
 íi. CORRETO 22. ERRADO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-84
 
-101
+
 
 
 LISTA DE QUESTõES - FCC
@@ -5638,7 +5550,7 @@ d) IV, III, lie I.
 
 e) IV, III, le II.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 4- (FCC / TJ-PE - 2012) No contexto dos atributos de qualidade de software, considere:
@@ -5674,7 +5586,7 @@ d) confiabilidade, eficiência e manutenibilidade
 
 e) confiabilidade, eficiência e portabilidade.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5692,14 +5604,14 @@ Item. 3. LETRA C
 
 Item. 4. LETRA D
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - FC V
@@ -5763,7 +5675,7 @@ a) a manutenibilidade.
 
 b) a funcionalidade.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 c) a confiabilidade.
@@ -5809,7 +5721,7 @@ d) Confiabilidade e Usabilidade;
 
 e) Manutenibilidade e eficiência.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5829,7 +5741,7 @@ Item. 4. LETRA C
 
 Item. 5. LETRA B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
@@ -5892,7 +5804,7 @@ d) II, III
 
 e) I, II, IV, V
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 3- (FUNIVERSA / CEB - 2010) Qualidade de software é uma área da engenharia de
@@ -5959,12 +5871,10 @@ tempo, o sistema
 funciona de acordo com as condições preestabelecidas.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-93
 
-101
+
 
 
 d) foi atualizada pela norma ISO/IEC 25010, a qual só adicionou a característica de segurança.
@@ -6029,14 +5939,11 @@ compatíveis
 com o nível de desempenho requerido pelo software.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-1
 
 
-94
 
-101
+
+
 
 
 d) A Funcionalidade refere-se à existência de funções e propriedades específicas do
@@ -6104,7 +6011,7 @@ com o grau de precisão necessário resultados ou efeitos corretos ou conforme a
 é uma
 subcaracterística de:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6134,12 +6041,10 @@ d) eficiência, manutenibilidade e usabilidade
 e) imutabilidade, manutenibilidade e usabilidade
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-96
 
-101
+
 
 
 Diego Carvalho
@@ -6160,14 +6065,14 @@ Item. 10. LETRA D
 4- LETRA B 8. LETRA D
 Item. 12. LETRA D
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6222,12 +6127,10 @@ a seus
 requisitos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-99
 
-101
+
 
 
 Diego Carvalho
@@ -6249,7 +6152,7 @@ Item. 4. C
 
 Item. 5. C
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

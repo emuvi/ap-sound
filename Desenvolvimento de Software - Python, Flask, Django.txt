@@ -20,7 +20,7 @@ Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-índice
+Índice
 
 1) Python - Prof. Paolla Ramos
 
@@ -28,7 +28,7 @@ Paolla Ramos e Silva
 
 3) Python Flask - Teoria
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -61,8 +61,7 @@ conteúdo de forma mais simples. Aproveitem o material, além dos esquemas,
 resumos e
 mnemónicos. Vamos ao que importa! lí
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-3
+ x
 
 www.estrategiaconcursos.com.br
 / 174
@@ -133,12 +132,10 @@ licença
 de código aberto.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-4
 
-174
+
 
 
 Alguns recursos de linguagem de programação do Python são:
@@ -168,8 +165,7 @@ lista.
 liberar
 memória manualmente em seu código.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-5
+ x
 
 www.estrategiaconcursos.com.br
 / 174
@@ -226,8 +222,7 @@ dinamicamente para cada variável, podendo alterá-lo durante a compilação ou 
 do
 programa.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-6
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -310,14 +305,12 @@ ELSE com a ramificação "if", tenta as ramificações "elif" e termina com a ra
 (até ser avaliada como True)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-7
 
-174
 
 
 Paolla Ramos e Silva
@@ -420,12 +413,10 @@ impresso para o usuário.
 Sai de uma função e retornar um valor.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-8
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -472,14 +463,12 @@ https://www.w3schools.com/python/trypython Msp?filename=demo_default
 o link
 
 
-QQ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+QQ 
 
 www.estrategiaconcursos.com.br
 
 
-9
 
-174
 
 
 Paolla Ramos e Silva
@@ -528,12 +517,10 @@ colchetes
 para essa finalidade.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-10
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -551,8 +538,7 @@ C:\Users\Your Namexpython helloworld.py
 
 Em que "helloworld.py" é o nome do seu arquivo python.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-11
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -596,8 +582,7 @@ Você precisa usaro mesmo número de espaços no mesmo bloco de código, caso co
 o Python
 fornecerá um erro: IndentationError: unexpected indent
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-12
+* 
 
 
 Paolla Ramos e Silva
@@ -652,8 +637,7 @@ Além disso, é possível atribuir o mesmo valor a várias variáveis em uma lin
 que você precisa,
 não é? @
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-13
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -708,8 +692,7 @@ ser definida como a integração de duas strings em um objeto. Em Python, você 
 executar a
 concatenação usando o operador +. (tí
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-14
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -758,12 +741,10 @@ global x
 x = "fantastic"
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-15
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -847,8 +828,7 @@ Strings podem conter uma ou mais linhas, veja um exemplo de uma string com mais 
 uma linha
 usando três aspas - três aspas duplas () ou três aspas simples ('"):
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-16
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -915,8 +895,7 @@ possível retornar um
 intervalo de caracteres usando a sintaxe de slice. Slice consiste em "fatiar", ou
 seja, cortar uma
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-17
+* 
 
 
 Paolla Ramos e Silva
@@ -977,8 +956,7 @@ d) 0 -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
 
 e) -1 -2 -3 -4 -5 -6 -7 -8 -9 -10.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-18
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -1049,8 +1027,7 @@ problema, use
 o caractere de escape \", da seguinte forma: txt = "O Estratégia Concursos é uma \"fabrica\" de
 ois."
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-19
+* 
 
 
 Paolla Ramos e Silva
@@ -1138,14 +1115,12 @@ Retorna True se todos os caracteres da string forem minúsculos
 Retorna True se todos os caracteres da string forem numéricos
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-20
 
-174
 
 
 Paolla Ramos e Silva
@@ -1208,8 +1183,7 @@ Python retorna a resposta booleana:
 
 print(10 > 9) #Retorna True
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-21
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -1270,8 +1244,7 @@ operadores nos seguintes grupos:
 * Operadores bit a bit
 Operadores aritméticos Python
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-22
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -1314,14 +1287,12 @@ EXEMPLO
 AND Retorna True se ambas as declarações forem verdadeiras x < 5 and x < io
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-23
 
-174
 
 
 Paolla Ramos e Silva
@@ -1394,14 +1365,12 @@ binário 0
 10 » 1 # binário 1
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-24
 
-174
 
 
 Paolla Ramos e Silva
@@ -1464,8 +1433,7 @@ print(len(lista3))
 
 Os itens da lista podem ser de qualquertipo de dados:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-25
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -1527,8 +1495,7 @@ Os itens do conjunto são imutáveis, mas você pode remover e/ou adicionar iten
 A partir da versão 3.7 do Python, os dicionários são ordenados. No Python 3.6 e anteriores, os
 dicionários não são ordenados.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-26
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -1606,8 +1573,7 @@ INSERTO Adiciona um elemento na posição especificada
 
 POPO Remove o elemento na posição especificada
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-27
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -1677,8 +1643,7 @@ for i in range(len(listal)):
 
 print(listal[i])
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-28
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -1704,8 +1669,7 @@ print(listal[i])
 
 i = i + 1
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-29
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -1766,8 +1730,7 @@ print(minhalista)
 Outra maneira de fazer uma cópia é usar o método interno Iist().
 frutas = ["maçã", "banana", "laranja"]
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-30
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -1813,8 +1776,7 @@ Dictionary , todos com qualidades e usos diferentes. Uma tupla é uma
 coleção ordenada e
 imutável .Tuplas são escritas com colchetes.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-31
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -1874,12 +1836,10 @@ Lembrando
 que o -1 pega o último item, -2refere-se ao penúltimo item, etc.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-32
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -1942,8 +1902,7 @@ tupla2 = (1, 2, 3)
 
 tupla3 = tuplal + tupla2
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-33
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -1969,7 +1928,6 @@ tuplal
 frutas *
 
 "banana",
-2
 
 "laranja")
 
@@ -2021,8 +1979,7 @@ especificado está presente em um conjunto, usando a palavra-chave in.
 A partir da versão 3.7 do Python, os dicionários são ordenados. No Python 3.6 e anteriores, os
 dicionários não são ordenados.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-34
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -2080,8 +2037,7 @@ completamente.
 
 Vejamos agora as várias maneiras de unir dois ou mais conjuntos em Python.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-35
+* 
 
 
 Paolla Ramos e Silva
@@ -2160,8 +2116,7 @@ em conjuntos.
 
 MÉTODO DESCRIÇÃO
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-36
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -2206,14 +2161,12 @@ UNIONO Retorna um conjunto contendo a união de conjuntos
 UPDATEU Atualize o conjunto com a união deste conjunto e outros
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-37
 
-174
 
 
 Paolla Ramos e Silva
@@ -2279,8 +2232,7 @@ UPDATEU Atualiza o dicionário com os pares de valores-chave especificados
 
 VALUESO Retorna uma lista de todos os valores no dicionário
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-38
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -2354,12 +2306,10 @@ tuplas. A
 respeito desses tipos de dados, julgue os itens a seguir.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-39
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -2399,14 +2349,12 @@ listas. Por fim, o item III está correto,
 é possível a alteração dos elementos de uma lista. (Gabarito: Letra D).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-40
 
-174
 
 
 Paolla Ramos e Silva
@@ -2472,8 +2420,7 @@ print("A e B são iguais")
 
 Neste caso, será impresso na tela que "a e b são iguais".
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-41
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -2548,8 +2495,7 @@ b = 330
 
 print("A") if a > b else print("=") if a == b else print("B")
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-42
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -2612,8 +2558,7 @@ x> i orx < 5
 
 not(x > i and x < 5)
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-43
+* 
 
 
 Paolla Ramos e Silva
@@ -2675,8 +2620,7 @@ def F (a, b):
 
 while a != b:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-44
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -2717,12 +2661,10 @@ nosso gabarito é a letra B.
 (Gabarito: Letra B).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-45
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -2784,12 +2726,10 @@ Note que o for itera sobre o conjunto de valores que se inicia em 2 (incluso) at
 pulando de três em três unidades. Agora vejamos a quantidade de questões sobre loop for
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-46
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -2851,14 +2791,12 @@ d) o -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
 e) -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-47
 
-174
 
 
 Paolla Ramos e Silva
@@ -2924,14 +2862,12 @@ k vai somar os valores negativos da
 seguinte forma: -16 -14 e -12 que gera como resultado -42.(Gabarito: Letra D).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-48
 
-174
 
 
 Paolla Ramos e Silva
@@ -2993,12 +2929,10 @@ print( professoresfl] + " é um professor de TI do Estratégia")
 minhafuncao("Diego Carvalho", "Raphael Lacerda")
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-49
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -3071,8 +3005,7 @@ escrever uma
 função que nunca termina, ou uma que usa quantidades excessivas de memória ou poder
 do
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-50
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -3105,8 +3038,7 @@ while (valor > 1):
 fatorial = fatorial * valor
 valor = valor - 1
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-51
+* 
 
 
 Paolla Ramos e Silva
@@ -3148,15 +3080,13 @@ dobravalor = minhafuncao (2)
 print(dobravalor(10)) #imprime 20
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-52
 
-174
 
 
 Paolla Ramos e Silva
@@ -3285,14 +3215,12 @@ você pode usá-
 lo livremente. NumPy significa Python Numérico. Em Python temos listas que servem ao propósito
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-54
 
-174
 
 
 Paolla Ramos e Silva
@@ -3311,8 +3239,7 @@ Os arrays são usados com muita frequência na ciência de dados, onde a velocid
 os recursos
 são muito importantes.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-55
+ x
 
 www.estrategiaconcursos.com.br
 / 174
@@ -3378,12 +3305,10 @@ pertencem ao
 objeto.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-56
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -3445,8 +3370,7 @@ com as opções a e b. Além de init, é necessário usar o self, que é uma ref
 da classe. Portanto, o correto
 é a letra A. (Gabarito: Letra A).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-57
+ x
 
 www.estrategiaconcursos.com.br
 / 174
@@ -3514,12 +3438,10 @@ class Student(Person):
 def init(self, fname, lname):
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-58
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -3529,14 +3451,12 @@ Paolla Ramos e Silva
 super().init(fname., lname)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-59
 
-174
 
 
 Paolla Ramos e Silva
@@ -3584,12 +3504,10 @@ se a
 iteração for feita um número especificado de vezes:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-60
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -3648,12 +3566,10 @@ função) e outra
 disponível no escopo local (dentro da função):
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-61
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -3681,8 +3597,7 @@ global x
 
 x = 300
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-62
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -3728,12 +3643,10 @@ x = dir(platform)
 print(x)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-63
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -3795,13 +3708,11 @@ Wednesday
 %W Dia da semana como um número o-6, o é domingo 3
 
 %D Dia do mês 01-31
-31
 
 %B Nome do mês, versão curta
 Dec
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-64
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -3814,21 +3725,15 @@ Paolla Ramos e Silva
 (Profs. Paolla Ramos e Raphael Lacerda)
 
 December
-12
 
-18
 
 2018
 
-17
 
-05
 
 PM
 
-41
 
-08
 
 548513
 
@@ -3842,17 +3747,13 @@ semana, 00-53
 %w Número da semana do ano, segunda-feira como 0 primeiro dia da
 semana, 00-53
 
-365
 
-52
 
-52
 
 Mon Dec 31 17:41:00
 
 2018
 
-20
 
 12/31/18
 
@@ -3861,19 +3762,15 @@ Mon Dec 31 17:41:00
 %
 2018
 
-1
-
-01
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
+
 
 1 www.estrategiaconcursos.com.br
 
 
-65
 
-174
 
 
 Paolla Ramos e Silva
@@ -3926,7 +3823,6 @@ MATH.DISTO
 
 MATH.ERFO
 MATH.ERFCO
-76
 
 MATH.EXPMK)
 
@@ -3950,8 +3846,7 @@ Retorna E elevado à potência de x
 
 Retorna Ex -1
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-66
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -3987,7 +3882,6 @@ MATH.ISQRTtl
 
 MATH.LGAMMAO
 
-76
 
 816863
 
@@ -4061,14 +3955,12 @@ Retorna a tangente hiperbólica de um número
 Retorna as partes inteiras truncadas de um número
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-67
 
-174
 
 
 Paolla Ramos e Silva
@@ -4141,8 +4033,7 @@ Ou
 
 Capturare agrupar
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-68
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -4242,14 +4133,12 @@ alfabética entre a e n
 [0-91 Retorna uma correspondência para qualquer dígito entre 0 e 9
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-69
 
-174
 
 
 Paolla Ramos e Silva
@@ -4269,14 +4158,12 @@ Em conjuntos, +, */ |, (), $,{} não tem significado especial, então [+] signif
 retornar uma correspondência para qualquer caractere + na string
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-70
 
-174
 
 
 Paolla Ramos e Silva
@@ -4303,8 +4190,7 @@ Usada ao depurar o código. Permite testar se uma condição em seu código reto
 Truez caso contrário, o programa gerará um AssertionError. Você pode escrever uma
 mensagem a ser escrita caso o código retorne false
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-71
+ x
 
 www.estrategiaconcursos.com.br
 / 174
@@ -4415,12 +4301,10 @@ deve pertencer à função interna. Use a palavra-chave nonlocal para declarar q
 variável não é local.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-72
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -4484,14 +4368,12 @@ PROGRAMAÇÃO ORIENTADA A OBJETOS
 PROGRAMAÇÃO FUNCIONAL
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-73
 
-174
 
 
 Paolla Ramos e Silva
@@ -4573,14 +4455,12 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 V
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-74
 
-174
 
 
 Paolla Ramos e Silva
@@ -4623,7 +4503,6 @@ INDEXO
 
 ISALNUMO
 
-82
 
 ISASCIIO
 ISDECIMALO
@@ -4675,14 +4554,12 @@ Retorna True se a string seguiras regras de um título
 Retorna True se todos os caracteres da string forem maiúsculos
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-75
 
-174
 
 
 Paolla Ramos e Silva
@@ -4705,7 +4582,6 @@ RPARTITIONÍ]
 
 RSPLITU
 RSTRIPÍ]
-4
 
 SPLITLINESU
 STARTSWITHl)
@@ -4770,12 +4646,10 @@ FUNÇÃO DESCRIÇÃO
 IGUALA
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-76
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -4840,14 +4714,12 @@ presente no objeto
 x in y
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-77
 
-174
 
 
 Paolla Ramos e Silva
@@ -4890,7 +4762,6 @@ m
 REMOVEU
 REVERSEO
 
-7
 
 Adiciona um elemento no final da lista
 Remove todos os elementos da lista
@@ -4909,14 +4780,12 @@ Inverte a ordem da lista
 Inverte a ordem da lista
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-78
 
-174
 
 
 Paolla Ramos e Silva
@@ -4925,7 +4794,6 @@ Paolla Ramos e Silva
 
 GO
 
-5
 
 NÃO PODEMOS ALTERAR, ADICIONAR OU REMOVER ITENS
 APÓS A CRIAÇÃO DA TUPLA.
@@ -4987,8 +4855,7 @@ Retorna um conjunto contendo a diferença entre dois ou mais conjuntos
 Remove os itens neste conjunto que também estão incluídos em outro conjunto
 especificado
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-79
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -5051,14 +4918,12 @@ UPDATEO Atualiza o dicionário com os pares de valores-chave especificados
 VALUESO Retorna uma lista de todos os valores no dicionário
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-80
 
-174
 
 
 Paolla Ramos e Silva
@@ -5154,8 +5019,7 @@ contrário retorna False
 OR Retorna True se uma das condições for verdadeiras, caso contrário x > i orx < 5
 retorna False
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-81
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -5190,7 +5054,6 @@ PÕPÕ
 REMOVER
 REVERSEl]
 
-7
 
 Adicione os elementos de uma lista (ou qualquer iterável) ao final da lista atual
 Retorna 0 índice do primeiro elemento com o valor especificado
@@ -5214,7 +5077,6 @@ Wednesday
 %W Dia da semana como um número 0-6, 0 é domingo 3
 
 %D Dia do mês 01-31
-31
 
 %B Nome do mês, versão curta
 Dec
@@ -5223,28 +5085,22 @@ Dec
 December
 
 %M Mês como um número 01-12
-12
 
 %Y Ano, versão curta, sem século
-18
 
 %Y Ano, versão completa
 2018
 
 %H Hora 00-23
-17
 
 %l Hora 00-12
-05
 
 %P MANHÃTARDE
 PM
 
 %M Minuto 00-59
-41
 
 %S Segundo 00-59
-08
 
 %F Microssegundo 000000-999999
 548513
@@ -5256,14 +5112,12 @@ PM
 CST
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-82
 
-174
 
 
 Paolla Ramos e Silva
@@ -5293,17 +5147,13 @@ Dia da semana ISO 8601 (1-7)
 
 Número da semana ISO 8601 (01-53)
 
-365
 
-52
 
-52
 
 Mon Dec 31 17:41:00
 
 2018
 
-20
 
 12/31/18
 
@@ -5312,9 +5162,7 @@ Mon Dec 31 17:41:00
 %
 2018
 
-1
 
-01
 
 DIRETIVA DESCRIÇÃO
 
@@ -5339,7 +5187,6 @@ MATH.DISTO
 
 MATH.ERFÍJ
 MATH.ERFCU
-76
 
 MATH.EXPMKJ
 
@@ -5376,14 +5223,12 @@ Retorna E elevado à potência de x
 Retorna Ex -1
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-83
 
-174
 
 
 Paolla Ramos e Silva
@@ -5416,7 +5261,6 @@ MATH.ISNANÍ]
 
 MATH.LGAMMAO
 
-76
 
 816863
 
@@ -5492,14 +5336,12 @@ Retorna as partes inteiras truncadas de um número
 FUNÇÃO DESCRIÇÃO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-84
 
-174
 
 
 Paolla Ramos e Silva
@@ -5593,14 +5435,12 @@ caractere de espaço em branco
 "\S"
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-85
 
-174
 
 
 Paolla Ramos e Silva
@@ -5652,14 +5492,12 @@ então [+] significa:
 retornar uma correspondência para qualquer caractere + na string
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-86
 
-174
 
 
 Paolla Ramos e Silva
@@ -5724,12 +5562,10 @@ Saiba mais com o conteúdo a seguir. Falaremos sobre o Selenium Python e mostrar
 tutorial simples de como conseguir a sua primeira automação na web com essa biblioteca.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-87
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -5795,8 +5631,7 @@ Características principais:
 e confiável
 sem lutar contra a ferramenta.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-88
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -5868,8 +5703,7 @@ procedimentos de
 configuração em várias camadas de testes. A estrutura pytest oferece recursos poderosos,
 como
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-89
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -5943,8 +5777,7 @@ PDFMiner é uma ferramenta de extração de texto para documentos PDF.
 
 * Suporta linguagens CJK e scripts de escrita vertical.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-90
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -6008,8 +5841,7 @@ usado para automação de teste e automação robótica de processos (RPA). É e
 um dos
 cursos da Formação Desenvolvedor RPA.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-91
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -6017,7 +5849,7 @@ www.estrategiaconcursos.com.br
 /
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -6046,12 +5878,10 @@ https://borbpdf.com/
 https://blog.dsacademy.com.br/15-pacotes-python-para_automacao/
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-93
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -6118,12 +5948,10 @@ I O conjunto permite o armazenamento de uma tupla, mas não o de uma lista.
 II A tupla é idêntica à lista, exceto pela forma mais simples com que sua declaração é realizada.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-94
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -6195,8 +6023,7 @@ banca teve a coragem de dizer na justificativa de alteração dos gabaritos que 
 resultado que
 deveria ser True, e não "True"". Enfim, vamos para o código: x,y e z são possuem o valor "True".
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-95
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -6272,8 +6099,7 @@ exemplo, jogar damas. E = a experiência de jogar muitos jogos de damas T = a ta
 de jogar
 damas. P = a probabilidade de o programa vencer o próximo jogo.".
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-96
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -6347,12 +6173,10 @@ resto
 Gabarito: Letra B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-97
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -6428,8 +6252,7 @@ Gabarito: Errada
 
 Item. 13. (CEBRASPE - PF- 2018) Considere o programa a seguir, na linguagem Python.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-98
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -6500,12 +6323,10 @@ construtor
 (que é um método que cria um objeto, mas vocês não precisam saber disso).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-99
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -6568,7 +6389,7 @@ operacionais que possuam um software interpretador de Python.
 
 Gabarito: Correta
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -6609,8 +6430,7 @@ Uma função é definida por meio da palavra-chave def.
 
 Gabarito: Letra A
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-101
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -6679,8 +6499,7 @@ print (L[kj)
 Assinale o resultado exibido pela execução desse código, na IDLE Shell 3.9.9.
 a) 1, 2, 5,13
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-102
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -6723,7 +6542,6 @@ Item. 23. (FGV - SEFAZ AM- 2022) Analise o código a seguir em linguagem de prog
 2 for p in range(@, len(array))!
 
 3 element = array[p]
-4
 
 5 wtiile ip > 0 and array [ip - 1] > element:
 
@@ -6731,13 +6549,10 @@ Item. 23. (FGV - SEFAZ AM- 2022) Analise o código a seguir em linguagem de prog
 
 7 p -= 1
 
-8
 
 9 arrayfpj ■ element
-10
 
 11 return array
-12
 
 13 print ( rotina([9, S, 31, 42, 20, S6] } }
 
@@ -6762,8 +6577,7 @@ Gabarito: Letra E
 
 Item. 24. ( FGV - MPE GO- 2022) Considere o código Python a seguir.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-103
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -6842,12 +6656,10 @@ pouco. No caso da
 questão, é gerada uma sequência de números negativos iniciando em -1 e parando antes do -10 (ou
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-104
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -6918,8 +6730,7 @@ Dado que os elementos de xi podem ser exibidos em ordem aleatória, a linha que
 possivelmente
 é produzida pelo comando print na execução do código acima é:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-105
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -7000,12 +6811,10 @@ except:
 print("Deu erro!")
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-106
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -7075,12 +6884,10 @@ c) [3]
 d) [i, 2, 3]
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-107
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -7140,8 +6947,7 @@ Gabarito: Letra B
 
 Item. 32. (FGV - IMBEL- 2021) Analise o código Python a seguir.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-108
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -7217,8 +7023,7 @@ yield(k)
 for x in teste(10):
 print x
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-109
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -7292,8 +7097,7 @@ e) 50
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-110
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -7357,7 +7161,7 @@ Gabarito: Letra D
 Item. 37. (FGV - FunSaúde CE- 2021) Observe o código Python V2.7.
 def F (a, b):
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 1 1 1
 
 www.estrategiaconcursos.com.br
@@ -7427,12 +7231,10 @@ d) 4, -1,1;
 e) 4, 2, 2.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-112
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -7502,12 +7304,10 @@ d) U A E I
 e) U O I E A
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-113
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -7575,8 +7375,7 @@ c) uva, laranja;
 
 d) banana, laranja, manga;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-114
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -7646,12 +7445,10 @@ executado
 no Python 2.7:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-115
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -7719,7 +7516,7 @@ penúltima); (3) não fornecido - primeira posição do array (posição 0).
 
 Stop - última posição a ser acessada:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -7779,8 +7576,7 @@ teria como imprimir L[4] porque esse valor sequer existe, L só vai de 0 a 3.
 
 Gabarito: Letra A
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-117
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -7854,12 +7650,10 @@ Gabarito: Letra E
 def oper(l, item):
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-118
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -7933,12 +7727,10 @@ biblioteca padrão da
 linguagem Python; aiml: biblioteca para inteligência artificial com aprendizado de máquina; scapy:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-119
 
-174
+
 
 
 biblioteca que suporta envio de pacotes em rede, portanto nosso gabarito, numpy:
@@ -7999,8 +7791,7 @@ Para que o programa seja executado corretamente, em condições ideais, a indica
 deve ser
 substituída por:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-120
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -8067,12 +7858,10 @@ Gabarito: Letra D
 import ..I.. as b
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-121
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -8141,12 +7930,10 @@ Comentários:
 Pessoal, vejamos o que cada operação gera na lista a:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-122
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -8210,8 +7997,7 @@ resultado = []
 a, b = o, 1
 while a < n:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-123
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -8280,12 +8066,10 @@ a) o Fragmento 1 está in Correta, pois laços não podem ter uma cláusula else
 b) no Fragmento 2, a instrução for está incorreta, pois ela não pode iterar sobre a.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-124
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -8355,12 +8139,10 @@ a = o
 b = 1
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-125
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -8441,14 +8223,12 @@ Gabarito: Letra A
 6i.(FCC-20i2-TRE/CE-Analista de Sistemas) Sobre Python é Correta afirmar:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-126
 
-174
 
 
 a) é uma linguagem compilada, ou seja, o código-fonte de um programa é lido pelo
@@ -8486,8 +8266,7 @@ possui restrição de tamanho.
 
 Gabarito: Letra C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-127
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -8560,9 +8339,7 @@ www.estrategiaconcursos.com.br
 y
 
 
-128
 
-174
 
 
 Paolla Ramos e Silva
@@ -8627,12 +8404,10 @@ PYTHON, marque a alternativa INCORRETA.
 a) Python suporta a maioria das técnicas da programação orientada a objetos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-129
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -8699,8 +8474,7 @@ b) range(5) gera a lista [1,2,3,4,5].
 
 c) range(4,6) gera a lista [4,5,6,7,8,9].
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-130
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -8775,12 +8549,10 @@ também é muito utilizado como linguagem script em vários softwares.
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-131
 
-174
+
 
 
 7O.(IFPI - 2012 - IFPI) Com relação à linguagem de programação Python, é INCORRETA a
@@ -8825,7 +8597,7 @@ simples ou duplas;
 
 Gabarito: Letra C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -8892,12 +8664,10 @@ Item. 4. (CEBRASPE-(CODEVASF-2021) Na linguagem Python, as listas são coleçõe
 de objetos, com exceção das próprias listas, e seus elementos são alteráveis.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-133
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -8954,8 +8724,7 @@ Assinale a opção que corresponde à saída que o compilador Python apresentar�
 para os
 comandos em questão.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-134
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -9020,12 +8789,10 @@ um objeto
 do tipo int, que recebe 1 como parâmetro no seu construtor.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-135
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -9080,8 +8847,7 @@ d) procedure calcular (a,b):
 
 e) sub calcular (a,b):
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-136
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -9142,8 +8908,7 @@ e) o, 1, 3, 8
 
 Item. 23. (FGV- SEFAZ AM- 2022) Analise o código a seguir em linguagem de programação Python:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-137
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -9165,13 +8930,10 @@ wtiile ip > 0 and array[p - 1] > element:
 6 ãrray(p) = arrayfp =- 1]
 p -= 1
 
-3
 
-9
 
 return array
 
-12
 
 13 print ( rotina{[9, 5, 31, 42, 20, 96] ) )
 
@@ -9222,11 +8984,9 @@ d) Executa, mas produz erro de execução na quinta chamada da função X.
 
 e) Executa, mas calcula erradamente o fatorial de 4.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-138
 
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -9296,8 +9056,7 @@ Dado que os elementos de xi podem ser exibidos em ordem aleatória, a linha que
 possivelmente
 é produzida pelo comando print na execução do código acima é:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-139
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -9370,14 +9129,12 @@ c) Deu erro!
 Ok
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-140
 
-174
 
 
 Paolla Ramos e Silva
@@ -9433,8 +9190,7 @@ print(next(xptolter))
 
 No resultado produzido pela execução do código acima, a quinta linha contém exatamente:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-141
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -9504,12 +9260,10 @@ print: x
 A execução desse código:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-142
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -9568,7 +9322,7 @@ else:
 Lappend(len(L) ** 2)
 print ABC([2o],Io)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -9622,12 +9376,10 @@ Dado que uma execução da função F exibiu os números
 16, 9, 4,1, o, 1,
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-144
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -9692,8 +9444,7 @@ L=["A","E","I","O","U"]
 for k in range(o,len(L)):
 print (L[4-kJ)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-145
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -9763,12 +9514,10 @@ e) a exibição dos valores 43,2,1 nessa ordem.
 seguir.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-146
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -9836,12 +9585,10 @@ d) a exibição de 8 valores, 16,14,12,10,16,14,12,10, nessa ordem.
 e) a exibição do valor 16, somente.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-147
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -9908,12 +9655,10 @@ v = [1, 2, 32, 8,17,19, 42,13, o]
 print(oper(v, 8))
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-148
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -9977,8 +9722,7 @@ d) throw: e catch(err)
 
 e) try: e except ZeroDivisionError:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-149
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -10048,8 +9792,7 @@ import ..I.. as b
 import matplotlib.pyplot as a
 x - b.linspace(o, 3, 20)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-150
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -10116,12 +9859,10 @@ Considere a saída gerada pelo programa:
 0ARSETE
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-151
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -10181,8 +9922,7 @@ if n % x == o:
 
 print n, x, n/x
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-152
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -10254,12 +9994,10 @@ a, b = a, a+b
 e) resultado.append(a)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-153
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -10309,12 +10047,10 @@ restrição de
 tamanho.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-154
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -10370,8 +10106,7 @@ d) 25
 
 65.(UERJ - UERJ - Analista De Sistemas) A linguagem Python possui a seguinte característica:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-155
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -10442,12 +10177,10 @@ Python,
 assinale a alternativa correta.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-156
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -10505,8 +10238,7 @@ e) Em Python, os nomes de variáveis, funções, módulos e classes são
 conhecidos como
 identificadores. O identificador_quantidade é Correta em Python.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-157
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -10591,12 +10323,10 @@ Item. 24. Letra B 49.Letra E
 Item. 25. Letra A 50.Letra D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-158
 
-174
+
 
 
 Paolla Ramos e Silva
@@ -10661,8 +10391,7 @@ usuário no
 banco de dados. Ele é responsável por lidar com a parte lógica da aplicação web, bem como como
 os dados são armazenados no banco de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-159
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -10723,8 +10452,7 @@ Portanto, em nosso caso, uma "view" é a função de retorno de chamada do Pytho
 uma URL
 específica, porque essa função de retorno de chamada descreve quais dados são apresentados.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-160
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -10804,8 +10532,7 @@ codigo em Python.
 
 * Internacionalização - esse framework tem suporte a aplicações multi-linguagem.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-161
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -10879,8 +10606,7 @@ O arquivo settings.py contém todas as configurações do projeto junto com os d
 conexão do banco de dados. Por padrão, o Django trabalha com SQLite, banco de dados e permite
 a configuração para outros bancos de dados também.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-162
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -10949,8 +10675,7 @@ tratamento da solicitação.
 
 Modelos Django
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-163
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -11028,8 +10753,7 @@ Uma classe que é responsável por fazer validação, e.g. um
 EmailField que assegura-se de que seu dado é um
 endereço de e-mail válido.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-164
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -11093,8 +10817,7 @@ Escrever aplicações web pode ser monótono, porque nós repetimos certos padr�
 várias vezes. O Django tenta tirar um pouco dessa monotonia nas camadas de model e template,
 mas os desenvolvedores web também experimentam esse tédio na camada da view.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-165
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -11164,8 +10887,7 @@ armazenados no sistema de arquivos. Este é um objeto que na verdade entende coi
 como
 sistema de arquivos, abertura e leitura de arquivos, etc.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-166
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -11243,8 +10965,7 @@ parte das
 aplicações Web não são o washingtonpost.com oouslashdot.org; são simplesmente
 sites
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-167
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -11318,8 +11039,7 @@ ocorrido. Eles são especialmente úteis quando muitas peças de código podem e
 interessados
 nos mesmos eventos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-168
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -11398,8 +11118,7 @@ mysite/
 projeto. Seu nome não importa para o Django; você
 pode renomeá-lo para o que quiser.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-169
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -11466,8 +11185,7 @@ Comentários: Para iniciar seu projeto, o comando para a sua criação é: $
 django-admin
 startproject mysite (Gabarito: Letra C)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-170
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -11502,8 +11220,7 @@ apresentação dos dados, as interfaces gráficas, por exemplo, ou ainda o local
 View -» é a camada que traz consigo a lógica do negócio. É o que determina o que vai acontecer
 no projeto.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-171
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -11568,8 +11285,7 @@ impossíveis de fazer mudança. Características do Flask:
 
 * Suporte para Cookies seguros;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-172
+
 
 www.estrategiaconcursos.com.br
 / 174
@@ -11623,12 +11339,10 @@ contém redes
 neurais, árvore de decisão e algoritmos de maximização.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-173
 
-174
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

@@ -20,7 +20,7 @@ Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-índice
+Índice
 
 1) Desenvolvimento de Software - Apresentação do Professor
 
@@ -42,7 +42,7 @@ Paolla Ramos e Silva
 
 10) Lógica de Programação - Lista de Questões - Multibancas
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -69,8 +69,7 @@ sobre as tecnologias mais recentes também estão a caminho :)
 
 @professordiegocarvalho
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-3
+ x
 
 www.estrategiaconcursos.com.br
 X 244
@@ -114,8 +113,7 @@ L H'STI'R£ Í CM
 < Z_tí4r A-o FoíW
 5 -Wdte tó/UAfc
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-4
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -175,19 +173,14 @@ necessário representar esses algoritmos por meio de uma linguagem de programaç
 1 // cla«
 
 2 public S! ProgramningExample {
-3
 
-4
 
 5 pul ic void sayHellot) {
-6
 
-7
 
 8 System out printlnCHello World!"
 9 }
 
-1
 
 Como assim, professor? Pessoal, um computador é uma grande
 calculadora. No entanto, ele é "burro", ele só calcula o que o mandam
@@ -215,8 +208,7 @@ de programação do
 
 mercado.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-5
+* 
 
 
 Paolla Ramos e Silva
@@ -283,14 +275,12 @@ alguns =
 :
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-6
 
-244
 
 
 Paolla Ramos e Silva
@@ -345,7 +335,7 @@ abaixo correspondem, :
 
 = respectivamente, a dados armazenados, processo, documento e entrada manual.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -422,8 +412,7 @@ i.e., a forma com que o programa recebe os dados a serem processados do mundo re
 e devolve uma
 resposta. Esse é um conceito básico da primeira aula de um curso de computação.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-8
+* 
 
 
 Paolla Ramos e Silva
@@ -532,14 +521,12 @@ copa é Brazuca, é possível decompor esse nome? Sim, basta dividi-lo em caract
 1 Uma música em .mp3, um texto em .pdf, uma imagem em jpg são todos tipos estruturados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-9
 
-244
 
 
 o Cadeia de Caracteres: também conhecido como String, são representações de
@@ -566,7 +553,7 @@ busca do Google). A Escrita é uma Saída de Dados (Output) que busca mostrar
 informações ao usuário na
 tela do computador (Ex: resultado da busca do Google).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -632,14 +619,12 @@ Maior ou igual a
 disso, parênteses possuem sempre a maior prioridade!
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-11
 
-244
 
 
 Paolla Ramos e Silva
@@ -701,16 +686,14 @@ terá caminhos diferentes
 para decisões diferentes. Bacana?
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 * 05152001900 - Everton Murilo
 Vieira
 
-12
 
-244
 
 
 Paolla Ramos e Silva
@@ -750,15 +733,13 @@ Se (Média >= 5.0) Então
 Aluno = Aprovado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-13
 
-244
 
 
 Paolla Ramos e Silva
@@ -769,7 +750,6 @@ Senão
 
 Aluno = Reprovado
 
-1
 
 Início
 
@@ -808,7 +788,7 @@ Aluno = Recuperação
 
 Aluno = Reprovado
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
 
 Paolla Ramos e Silva
@@ -831,7 +811,6 @@ Não
 Aluno =
 Recuperação
 
-1
 
 Vejam o código anterior! Nesse caso, o programa realiza um primeiro teste (Média >=
 5.0). No caso de a
@@ -882,7 +861,7 @@ Isso é uma forma diferente de falar a mesma coisa que está sendo dita no enunc
 Portanto, está correto.
 (Gabarito: Correto)
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
 
 Paolla Ramos e Silva
@@ -912,8 +891,7 @@ nova senha. Falso.
 
 somente o usuário com a senha admin consegue alterar a variável SENHA.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-16
+* 
 
 
 Paolla Ramos e Silva
@@ -946,8 +924,7 @@ Não. Ele volta para o "Entre com a senha", pois há uma seta ligando "Acesso OK
 "Entre com a senha".
 Falso. (Gabarito: Letra C)
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-17
+* 
 
 
 Paolla Ramos e Silva
@@ -1021,14 +998,12 @@ me <-a;
 3 Em inglês: If-Then, If-Then-Else, If-Then (nested) e Switch-Case.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-18
 
-244
 
 
 Paolla Ramos e Silva
@@ -1064,8 +1039,7 @@ pode ser definida, indefinida, ou enquanto um estado se mantenha ou seja alcanç
 Parece confuso, mas
 não é! Vamos ver, pessoal...
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-19
+* 
 
 
 Paolla Ramos e Silva
@@ -1092,7 +1066,7 @@ Votos = Votos + 1
 
 Fim-Enquanto
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
 
 Paolla Ramos e Silva
@@ -1141,7 +1115,7 @@ imprimi r(Votos)
 
 Fi m-Enquanto
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
 
 Paolla Ramos e Silva
@@ -1180,9 +1154,8 @@ Votos = Votos + 1
 
 Enquanto (Votos < 1.000)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
-1
+
 
 
 Paolla Ramos e Silva
@@ -1203,14 +1176,12 @@ parte da letra cantar. Vamos nessa?
 
 01 estrofe = 0
 
-02
 
 03 Enquanto (estrofe < 3) Repetir
 
 04 estrofe == estrofe + 1
 
 05 imprimir("Hey Jude, don't")
-06
 
 07 Se (estrofe == 1) Então
 08 imprimir("make it bad")
@@ -1228,10 +1199,8 @@ parte da letra cantar. Vamos nessa?
 14 imprimir("let me down")
 
 15 imprimir("you have found her, now go and get her")
-16
 
 17 imprimir("remember to let her")
-18
 
 19 //Teste se estrofe é par ou ímpar
 
@@ -1239,7 +1208,7 @@ parte da letra cantar. Vamos nessa?
 
 21 imprimir("into your heart")
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -1249,10 +1218,8 @@ Paolla Ramos e Silva
 22 Senão
 
 23 imprimir("under your skin")
-24
 
 25 imprimir("then you ")
-26
 
 27 //Teste se estrofe é par ou ímpar
 
@@ -1263,10 +1230,8 @@ Paolla Ramos e Silva
 30 Senão
 
 31 imprimirfbegin")
-32
 
 33 imprimir("to make it better")
-34
 
 35 Se (estrofe == 3) Então
 
@@ -1307,8 +1272,7 @@ escape. Todo mundo cantou bem alto para o vizinho ouvir? Ficou difícil? Tirei d
 diagrama abaixo, assim
 acho mais fácil de visualizar. Abraços e até a próxima.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-24
+* 
 
 
 Paolla Ramos e Silva
@@ -1332,7 +1296,7 @@ better better better better better waaaaa —
 
 lyncs *- $ony .Mv
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
@@ -1393,8 +1357,7 @@ decomposição de problemas grandes em pequenas partes; melhorar a interpretaç�
 visual; esconder ou
 regular uma parte de um programa; reduzir o acoplamento; entre outros.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-26
+* 
 
 
 Paolla Ramos e Silva
@@ -1452,8 +1415,7 @@ quando o módulo
 principal chama uma função ou procedimento, ele passa alguns valores chamados Argumentos de
 Entrada.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-27
+* 
 
 
 Paolla Ramos e Silva
@@ -1523,8 +1485,7 @@ Valor 2 = 20
 
 Valores depois de chamar a Função:
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-28
+* 
 
 
 Paolla Ramos e Silva
@@ -1596,8 +1557,7 @@ Valor 1 = 10
 
 Valor 2 = 20
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-29
+* 
 
 
 Paolla Ramos e Silva
@@ -1651,7 +1611,7 @@ a recursão é uma técnica em que uma função chama a si mesma. Eu gosto de pe
 recursividade por
 meio de imagens como as apresentadas abaixo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -1687,14 +1647,12 @@ produto de todos
 os inteiros positivos menores ou iguais a n.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-31
 
-244
 
 
 Paolla Ramos e Silva
@@ -1761,15 +1719,13 @@ uma referência a um =
 ;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-32
 
-244
 
 
 Paolla Ramos e Silva
@@ -1850,8 +1806,7 @@ Linguagem de Alto Nível: linguagem com um nível de abstração relativamente e
 longe do código de
 máquina e mais próximo à linguagem humana. Desse modo, as linguagens de alto nível não estão
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-33
+
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -1892,14 +1847,12 @@ considerada uma das melhores da época. Ainda na mesma década, foram criados o 
 COBOL (COmmon Business Oriented Language).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-34
 
-244
 
 
 Paolla Ramos e Silva
@@ -1971,14 +1924,12 @@ Code), que foi criada
 com fins educativos. Conheciam? Eu também não!
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-35
 
-244
 
 
 Paolla Ramos e Silva
@@ -2039,14 +1990,12 @@ ideias antigas. Uma filosofia de grande importância era a produtividade do prog
 muitas
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-36
 
-244
 
 
 linguagens para suportar o Desenvolvimento Rápido de Aplicações (RAD). Em geral, elas
@@ -2086,14 +2035,12 @@ de programação continuam
 crescendo, tanto na indústria quanto na pesquisa.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-37
 
-244
 
 
 Paolla Ramos e Silva
@@ -2149,7 +2096,7 @@ contrário, outro comando é executado.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
@@ -2157,9 +2104,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 05152001900 - Everton Murilo
 Vieira
 
-38
 
-244
 
 
 Paolla Ramos e Silva
@@ -2231,14 +2176,12 @@ pode transitar para um
 estado para cada entrada. Portanto, ele não permite nem zero e nem n transições. Falso.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-39
 
-244
 
 
 Paolla Ramos e Silva
@@ -2315,14 +2258,12 @@ enquanto (atual <= numero) {
 valor = valor * atual
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-40
 
-244
 
 
 Paolla Ramos e Silva
@@ -2399,14 +2340,12 @@ Comentários:
 Consideremos a = 3, b = 7, c = 3 e d = 9.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-41
 
-244
 
 
 Paolla Ramos e Silva
@@ -2485,15 +2424,13 @@ c) "\(d==12&&a !=10)éfalso"
 * a != 10: a variável "a" é "3", o que é igual a "3". Verdadeiro.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-42
 
-244
 
 
 Paolla Ramos e Silva
@@ -2540,14 +2477,12 @@ o (falso OU falso OU falso) = falso.
 Item. 8. (CESPE / CEBRASPE - 2021-SEED-PR)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-43
 
-244
 
 
 Paolla Ramos e Silva
@@ -2614,15 +2549,13 @@ Já na linha 10, ele divide o valor da soma de todos os itens do vetor por 5, qu
 vetor.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-44
 
-244
 
 
 Paolla Ramos e Silva
@@ -2692,14 +2625,12 @@ b) menor que 2, escreve X.
 Existem números inteiros pares menores do que 2, e que, portanto, escrevem Y. Errado.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-45
 
-244
 
 
 Paolla Ramos e Silva
@@ -2779,14 +2710,12 @@ O teste é sempre feito no
 início do bloco.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-46
 
-244
 
 
 Paolla Ramos e Silva
@@ -2862,14 +2791,12 @@ disso, ele multiplica na
 variável resultado o valor de cont.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-47
 
-244
 
 
 Paolla Ramos e Silva
@@ -2910,7 +2837,6 @@ Operador
 +
 
 *
-1
 
 Significado
 E
@@ -2944,14 +2870,12 @@ ZY.
 Finalmente, podemos usar a distributiva mais uma vez: F(X, Y, Z) = Z(X + X') + XZ + YZ.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-48
 
-244
 
 
 Paolla Ramos e Silva
@@ -3022,14 +2946,12 @@ Atribui à variável ma o valor de a, ou seja, 120.
 se (ma < b) então ma <- b;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-49
 
-244
 
 
 Paolla Ramos e Silva
@@ -3108,14 +3030,12 @@ Item. 16. (CESPE / CEBRASPE - 2021 - SEED-PR) (4 > 2) xor (5 = 3) and (4 > 2) or
 Assinale a opção que apresenta o resultado da expressão anterior.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-50
 
-244
 
 
 Paolla Ramos e Silva
@@ -3217,14 +3137,12 @@ verdadeiro and verdadeiro é verdadeiro
 verdadeiro or verdadeiro
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-51
 
-244
 
 
 Paolla Ramos e Silva
@@ -3284,44 +3202,24 @@ escreva (vetor[i]+ "\n")
 }
 
 a) 81
-37
-51
-77
-19
 
 b) 81
-51
-37
-17
-19
 
 c) 19
-37
-51
-77
-81
 
 d) 51
-81
-37
-77
-19
 
 e) 19
-77
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-37
 
-81
 
-51
 
 Comentários:
 
@@ -3383,14 +3281,12 @@ Valores do vetor: [37,51,77,81,19].
 Para i = 3:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-53
 
-244
 
 
 Paolla Ramos e Silva
@@ -3465,7 +3361,7 @@ Para i = 1:
 
 Testa o if: se vetor[i] > vetor [i+1], ou seja, se vetorfl] > vetor[2], ou seja, se 51 > 19
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
 
 Paolla Ramos e Silva
@@ -3542,14 +3438,12 @@ Volta para o enquanto.
 Como achou = true, então entra no "enquanto".
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-55
 
-244
 
 
 Paolla Ramos e Silva
@@ -3624,14 +3518,12 @@ marcado com o
 comando LABEL.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-56
 
-244
 
 
 Paolla Ramos e Silva
@@ -3693,14 +3585,12 @@ quando a sub-rotina TROCA é executada.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-57
 
-244
 
 
 Paolla Ramos e Silva
@@ -3770,14 +3660,12 @@ menor do que 0, então
 subtrai 1 ao x".
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-58
 
-244
 
 
 Paolla Ramos e Silva
@@ -3834,11 +3722,9 @@ Antes do loop, nossas variáveis valem:
 
 a = O;b = l;f=l;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-59
 
 
-244
+
 
 
 Paolla Ramos e Silva
@@ -3898,14 +3784,12 @@ Segunda instrução: a = b; a = 3;
 Terceira instrução: b = f; b = 8;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-60
 
-244
 
 
 Paolla Ramos e Silva
@@ -3970,14 +3854,12 @@ H 0 (6 + 10) - 25mod 4, pot é a potenciação, 5 elevado ao 2, que é igual a 2
 H 0 16 -1, mod é o resto da divisão, 25 mod 4 = 1;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-61
 
-244
 
 
 Paolla Ramos e Silva
@@ -4039,15 +3921,13 @@ y = y-l = 3-l = 2
 x=x+l=2+l=3
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-62
 
-244
 
 
 Paolla Ramos e Silva
@@ -4100,14 +3980,12 @@ processo e entrada
 manual. Portanto, está errado. Gabarito: Errado.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-63
 
-244
 
 
 Paolla Ramos e Silva
@@ -4159,14 +4037,12 @@ C = 8, o
 resultado que será computado para Área é igual a 32.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-64
 
-244
 
 
 Paolla Ramos e Silva
@@ -4204,14 +4080,12 @@ Enquanto-Faça serve para esse
 propósito! Gabarito: Certo
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-65
 
-244
 
 
 Paolla Ramos e Silva
@@ -4275,14 +4149,12 @@ necessitam
 de uma condição de saída ou de encerramento.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-66
 
-244
 
 
 Paolla Ramos e Silva
@@ -4304,14 +4176,12 @@ um caso-base, que
 é uma condição de saída, para não ficar em loop infinito. Gabarito: Certo
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-67
 
-244
 
 
 Paolla Ramos e Silva
@@ -4373,15 +4243,13 @@ falso, será executado o Comando4. Falso.
 b) se B2 for verdadeiro, somente o Comando3 será executado.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-68
 
-244
 
 
 Paolla Ramos e Silva
@@ -4457,15 +4325,13 @@ d) II deve ser preenchida com imprima ("Valor valido = ", vetor[indice])
 e) I deve ser preenchida com numero>=1900 ou numero<=2017
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-69
 
-244
 
 
 Paolla Ramos e Silva
@@ -4511,14 +4377,12 @@ não apresenta
 erros.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-70
 
-244
 
 
 Paolla Ramos e Silva
@@ -4605,14 +4469,12 @@ funcaol. Ou seja, vai imprimir:
 "Variaveis dentro da funcaol (): var1= 100, var2 = 100".
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-71
 
-244
 
 
 Paolla Ramos e Silva
@@ -4675,7 +4537,7 @@ Vamos item a item.
 
 Para converter decimal em binário, temos que dividir por 2 e pegar o resto.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 x-""' 72
 
 www.estrategiaconcursos.com.br
@@ -4745,15 +4607,13 @@ apresentado abaixo,
 em que o operador mod retorna o resto da divisão inteira
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-73
 
-244
 
 
 Paolla Ramos e Silva
@@ -4815,14 +4675,12 @@ os dois últimos dígitos do
 ano. Observe:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-74
 
-244
 
 
 Paolla Ramos e Silva
@@ -4834,9 +4692,7 @@ Paolla Ramos e Silva
 
 1900
 
-100
 
-19
 
 
 Portanto, falso.
@@ -4900,14 +4756,12 @@ pagos pelo usuário.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-75
 
-244
 
 
 Paolla Ramos e Silva
@@ -4958,14 +4812,12 @@ Item. 8. (FCC - 2017 - ARTESP) Considere o fluxograma abaixo.
 De acordo com a lógica expressa pelo fluxograma, conclui-se que:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-76
 
-244
 
 
 Paolla Ramos e Silva
@@ -4994,15 +4846,13 @@ mas, sim, pede
 para entrar nova senha. Falso.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-77
 
-244
 
 
 Paolla Ramos e Silva
@@ -5027,15 +4877,13 @@ nunca chegará no "ACESSO OK". Verdadeiro.
 d) quando a SENHA_ATUAL não confere, esta é inicializada com "x".
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-78
 
-244
 
 
 Paolla Ramos e Silva
@@ -5103,15 +4951,13 @@ v3 <- v3 - 1 = 4 -1 = 3
 v3 > 1 -> 3>1
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-79
 
-244
 
 
 Paolla Ramos e Silva
@@ -5174,14 +5020,12 @@ a) não poderia usar a categoria 0 no comando escolha, nem atribuir zero ao valo
 b) apresenta erro de lógica na condição do comando condicional se.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-80
 
-244
 
 
 Paolla Ramos e Silva
@@ -5237,8 +5081,7 @@ Item. 11. (FCC - 2017 - TRE-SP) Considere as duas funções, abaixo, escritas em
 pseudocódigo, que
 implementam uma lógica.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-81
+
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -5316,14 +5159,12 @@ Ela não é
 chamada dentro dela mesma. Falso.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-82
 
-244
 
 
 Paolla Ramos e Silva
@@ -5416,14 +5257,12 @@ Da análise do algoritmo, podemos deduzir que:
 0 caso o voto seja em branco; e -1 para finalizar e mostrar os resultados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-83
 
-244
 
 
 Paolla Ramos e Silva
@@ -5476,8 +5315,7 @@ Não, pois o objetivo do loop é mostrar os votos válidos nos candidatos 1, 2 e
 
 13.(FCC - 2017 - TRT-24) Considere o algoritmo em pseudocódigo abaixo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-84
+
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -5554,8 +5392,7 @@ Irá mostrar o valor de v1 atual, que é 81. Gabarito: D
 
 Item. 14. (FCC - 2017 - ARTESP) Considere o algoritmo em pseudocódigo abaixo:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-85
+
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -5651,14 +5488,12 @@ se (n < 10)
 65 <10? Falso, então vai para o "senão".
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-86
 
-244
 
 
 Paolla Ramos e Silva
@@ -5698,8 +5533,7 @@ Some os dois números e divida por 2
 Imprima o
 resultado encontrado
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-87
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -5769,8 +5603,7 @@ por 2.
 
 Não, isso somente ocorrerá se os dois números forem diferentes de zero. Falso. Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x-'"
-88
+ x-'"
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -5856,14 +5689,12 @@ Dito isso, o algoritmo ele funciona da seguinte maneira:
 * Define as variáveis "tres" e "cinco" como 0.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-89
 
-244
 
 
 Paolla Ramos e Silva
@@ -5924,15 +5755,13 @@ quociente será 0, e o valor de cinco não tem como ser maior do que 1. Falso. G
 Item. 17. (FCC - 2015 - DPE-SP) Considere o algoritmo a seguir, na forma de pseudocódigo:
 
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+0 0 
 
 www.estrategiaconcursos.com.br
 /
 
 
-90
 
-244
 
 
 Paolla Ramos e Silva
@@ -6018,14 +5847,12 @@ E assim por diante. Até chegar em "k". Suponha que k = 6.
 Então, quando j = 7, ele coloca em v[7] o valor de v[6], e sai do loop.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-91
 
-244
 
 
 Paolla Ramos e Silva
@@ -6057,7 +5884,7 @@ d) 4372.
 
 e) 20.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 x-""' 92
 
 www.estrategiaconcursos.com.br
@@ -6151,14 +5978,12 @@ E <- E*B
 CB <- CB + 1
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-93
 
-244
 
 
 Paolla Ramos e Silva
@@ -6242,14 +6067,12 @@ e) Se for fornecido 1 para k, será impresso "Sucesso" duas vezes.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-94
 
-244
 
 
 Paolla Ramos e Silva
@@ -6319,14 +6142,12 @@ Não. É o contrário. Será impresso "Insucesso" duas vezes, e "Sucesso" uma ve
 Item. 20. (FCC - 2014 - TRT-16) No algoritmo há:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-95
 
-244
 
 
 Paolla Ramos e Silva
@@ -6406,15 +6227,13 @@ em
 diversas linguagens de programação.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-96
 
-244
 
 
 Paolla Ramos e Silva
@@ -6489,14 +6308,12 @@ Queremos que os dois
 estejam entre 0 e 10. Falso.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-97
 
-244
 
 
 Paolla Ramos e Silva
@@ -6553,15 +6370,13 @@ c) 0, 1 e 0 no caso de passagem de parâmetros por valor e.
 d) 0, 1 e 1 no caso de passagem de parâmetros por valor e.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-98
 
-244
 
 
 Paolla Ramos e Silva
@@ -6632,7 +6447,7 @@ da função e fora dela; (e) Correto. Conforme vimos, são passadas cópias do v
 logo seu valor
 é alterado apenas dentro da função, mas não fora dela. Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 x-""' 99
 
 www.estrategiaconcursos.com.br
@@ -6714,14 +6529,12 @@ Não é possível atribuir a uma variável lógica (Z) um resultado de uma expre
 inteiros (X + Y). Falso. Gabarito: B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-100
 
-244
 
 
 Paolla Ramos e Silva
@@ -6789,15 +6602,13 @@ b) lf...Then...Else
 c) While
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-101
 
-244
 
 
 Paolla Ramos e Silva
@@ -6869,15 +6680,13 @@ diferentes
 tipos, sendo normalmente utilizado quando um objeto tem diferentes atributos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-102
 
-244
 
 
 Paolla Ramos e Silva
@@ -6950,15 +6759,13 @@ c) Máquina de Turing.
 d) Sistema de Post.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-103
 
-244
 
 
 Paolla Ramos e Silva
@@ -7021,8 +6828,7 @@ e) pode chamar a si mesma.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-104
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -7045,14 +6851,12 @@ em recursividade por meio de imagens como as apresentadas abaixo.
 Conforme vimos em aula, ela pode chamar a si mesma. Gabarito: E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-105
 
-244
 
 
 Paolla Ramos e Silva
@@ -7093,8 +6897,7 @@ Item. 2. (FGV - 2018 - Câmara de Salvador-BA) Observe o trecho de pseudocódigo
 exibido a
 seguir.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-106
+
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -7167,14 +6970,12 @@ Realiza o teste: 1 > 5
 Falso. Entra no "else".
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-107
 
-244
 
 
 Paolla Ramos e Silva
@@ -7220,14 +7021,12 @@ if a > c {
 Realiza o teste: 3 > 9
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-108
 
-244
 
 
 Paolla Ramos e Silva
@@ -7273,14 +7072,12 @@ Realiza o teste: 4 > 13
 Falso. Entra no "else".
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-109
 
-244
 
 
 Paolla Ramos e Silva
@@ -7327,14 +7124,12 @@ if a > c {
 Realiza o teste: 6 > 17
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-110
 
-244
 
 
 Falso. Entra no "else".
@@ -7377,7 +7172,7 @@ Assinale a opção que exibe o conteúdo integral do resultado que seria produzi
 hipotética
 execução desse código.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -7395,20 +7190,15 @@ b) 2 20
 c) 8 20
 
 d) 2
-5
-8
 
 e) 2 20
 
-17
 
 5 20
 
-14
 
 8 20
 
-11
 
 Comentários:
 
@@ -7435,14 +7225,12 @@ Verdadeiro. Entra no if, e cai em um outro if: if a > 5. Realiza o teste: a > 5.
 Verdadeiro. Entra no "então", e imprime "8 20"
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-112
 
-244
 
 
 Paolla Ramos e Silva
@@ -7506,8 +7294,7 @@ e) {2,10,10,10,10,12}
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-113
+
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -7567,14 +7354,12 @@ Define trocou = true.
 Valor de L = 2,2,40,53,28,12.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-114
 
-244
 
 
 Paolla Ramos e Silva
@@ -7620,8 +7405,7 @@ L[k] = L[k+1], ou seja, L[4] = L[5], ou seja, L[4] = 12.
 L[k+1] = L[k], ou seja, L[5] = L[4], ou seja, L[5] = 28.
 Define trocou = true.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-115
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -7670,8 +7454,7 @@ Define trocou = true.
 
 Valor de L = 2,2,28,28,12,12.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-116
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -7718,8 +7501,7 @@ Falso. Não entra no loop.
 
 Valor de L = 2,2,28,12,12,12.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-117
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -7766,8 +7548,7 @@ Valor de L = 2,2,12,12,12,12.
 
 Volta para o while.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-118
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -7815,15 +7596,13 @@ Falso. Não entra no loop.
 Valor de L = 2,2,12,12,12,12.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-119
 
-244
 
 
 Paolla Ramos e Silva
@@ -7884,8 +7663,7 @@ Comentários:
 
 * O algoritmo itera x e y sempre do valor inicial até 9.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-120
+
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -7970,8 +7748,7 @@ Os prints seriam os seguintes:
 
 2 5
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-121
+
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -8005,7 +7782,6 @@ Paolla Ramos e Silva
 
 4 7
 
-48
 
 4 9
 
@@ -8015,9 +7791,7 @@ Paolla Ramos e Silva
 
 5 9
 
-68
 
-69
 
 7 9
 
@@ -8027,7 +7801,7 @@ Gabarito: Letra A.
 Item. 6. (FGV - 2016 - Prefeitura de Paulínia - SP) Analise o pseudocódigo de uma função recursiva
 exibido a seguir.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -8080,14 +7854,12 @@ Vai retornar recursivamente return x + f(x - 1), ou seja, return 8 + f(7)
 Entrou na função com f(7).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-123
 
-244
 
 
 Paolla Ramos e Silva
@@ -8161,11 +7933,9 @@ ou seja, return 3
 
 Entrou na função com f(2).
 
-Ô.O SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-124
+Ô.O 
 
 www.estrategiaconcursos.com.br
-244
 
 
 Paolla Ramos e Silva
@@ -8197,11 +7967,9 @@ Item. 7. (FGV - 2016 - SEE-PE) Analise a função ff definida pelo trecho de pse
 exibido a
 seguir.
 
-OO SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-125
+OO 
 
 www.estrategiaconcursos.com.br
-244
 
 
 Paolla Ramos e Silva
@@ -8261,14 +8029,12 @@ Vai retornar recursivamente return N + ff(N - 1), ou seja, return 11+ ff(10)
 Entrou na função com ff(10).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-126
 
-244
 
 
 Paolla Ramos e Silva
@@ -8312,14 +8078,12 @@ Vai retornar recursivamente return N + ff(N - 1), ou seja, return 6 + ff(5)
 Entrou na função com ff(5).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-127
 
-244
 
 
 Paolla Ramos e Silva
@@ -8371,14 +8135,12 @@ f para n
 igual a 8.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-128
 
-244
 
 
 Paolla Ramos e Silva
@@ -8431,14 +8193,12 @@ Gabarito: Letra B.
 Item. 9. (FGV - 2016 - SEE-PE) Analise o trecho de pseudocódigo a seguir.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-129
 
-244
 
 
 Paolla Ramos e Silva
@@ -8507,15 +8267,13 @@ Dito isso, vamos seguir o algoritmo a partir da chamada da função:
 Testar o while "while b <= c"
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-130
 
-244
 
 
 Paolla Ramos e Silva
@@ -8553,15 +8311,13 @@ Os parâmetros de entrada da função são sua IDADE e PROFISSÃO. A conversão 
 fluxograma em pseudolinguagem de programação é:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-131
 
-244
 
 
 Paolla Ramos e Silva
@@ -8652,14 +8408,12 @@ Note que, se ele for menor de 18, já tem ingresso de 10 reais.
 Agora, se não for, mas for estudante, ele tem ingresso a 10 reais.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-132
 
-244
 
 
 Paolla Ramos e Silva
@@ -8698,14 +8452,12 @@ c)
 d)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-133
 
-244
 
 
 Paolla Ramos e Silva
@@ -8750,9 +8502,8 @@ k Conec 1
 Portanto, o de decisão é o C.
 Gabarito: Letra C.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
-1
+
 
 
 Paolla Ramos e Silva
@@ -8821,12 +8572,10 @@ Nessas condições, ao final da execução, os valores para SD, NR e VL serão, 
 a) GUAPORÉ, 2023 e VERDADEIRO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-135
 
-244
+
 
 
 Paolla Ramos e Silva
@@ -8879,7 +8628,7 @@ programação, observe o pseudocódigo abaixo, referente a um algoritmo que cont
 uma
 função recursiva.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 1^6
 
 www.estrategiaconcursos.com.br
@@ -8956,8 +8705,7 @@ false.
 ■ Verdadeiro, entra no "então" e retorna o valor de AUX = 0. O valor de AUX
 é retornado ao RP.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-137
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -8987,7 +8735,6 @@ inteiro x
 inteiro y
 inteiro z
 
-100
 z«—3
 
 x «— x + 40
@@ -9027,8 +8774,7 @@ Vamos analisar o código linha a linha.
 
 As variáveis x, y e z são declaradas como inteiro.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-138
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -9077,7 +8823,7 @@ Valores parciais: x = 110 y = 276 z = 6. Volta para o "enquanto".
 Como z <= 7, ou seja, 6 <= 7 é verdadeiro, então segue no "enquanto".
 x = x-15 = 110-15 = 95
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 
 
 Paolla Ramos e Silva
@@ -9143,12 +8889,10 @@ c) 51,47,87,29,91.
 d) 47,61,87,29,91.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-140
 
-244
+
 
 
 Paolla Ramos e Silva
@@ -9190,8 +8934,7 @@ Então troca os valores:
 x = vetor[2] = 91
 vetor[2] = vetor[3] = 61
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-141
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -9237,11 +8980,9 @@ i = i + 1 = 4 + 1 = 5
 
 Valores parciais do vetor: [47,61,87,29,91]. Volta pro "enquanto".
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-142
+0 0 
 
 www.estrategiaconcursos.com.br
-244
 
 
 Paolla Ramos e Silva
@@ -9299,8 +9040,7 @@ b) x^v[j]
 
 v[j] v[j - 1]
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-143
+
 
 www.estrategiaconcursos.com.br
 X 244
@@ -9369,12 +9109,10 @@ v[j-1]^x
 j^j-1
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-144
 
-244
+
 
 
 Paolla Ramos e Silva
@@ -9414,8 +9152,7 @@ x e y duas condições de teste, os operadores lógicos AND e OR são bastante u
 estruturas de controle dos tipos seleção e repetição e correspondem às tabelasverdade
 mostradas, respectivamente, em
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-145
+
 
 www.estrategiaconcursos.com.br
 X 244
@@ -9583,8 +9320,7 @@ Os diagramas que mostram isso estão na alternativa B. Gabarito: Letra B.
 Item. 8. (CESPE/CEBRASPE - 2021 - SEED-PR) Assinale a opção que apresenta o resultado do
 algoritmo apresentado.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-146
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -9638,46 +9374,24 @@ escreva (vetor[i]+ ''\n")
 }
 
 a) 81
-37
-51
-77
-19
 
 b) 81
-51
-37
-17
-19
 
 c) 19
-37
-51
-77
-81
 
 d) 51
-81
-37
-77
-19
 
 e) 19
-77
-37
-81
-51
 
 Comentários:
 
 
-OO SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+OO 
 
 www. estra tegiaconcursos. com. br
 
 
-147
 
-244
 
 
 Paolla Ramos e Silva
@@ -9718,8 +9432,7 @@ Para i = 1:
 Testa o if: se vetor[i] > vetor [i+1], ou seja, se vetor[1] > vetor[2], ou seja, se 81 > 51
 naosei = vetor[i] = vetor[1] = 81
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-148
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -9765,8 +9478,7 @@ Define achou = true.
 
 Valores do vetor: [37,51,77,19,81].
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-149
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -9812,13 +9524,11 @@ Define achou = true.
 Valores do vetor: [37,51,19,77,81].
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-150
 
-244
 
 
 Paolla Ramos e Silva
@@ -9859,13 +9569,11 @@ Define achou = true.
 Valores do vetor: [37,19,51,77,81].
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-151
 
-244
 
 
 Paolla Ramos e Silva
@@ -9906,13 +9614,11 @@ Define achou = true.
 Valores do vetor: [19,37,51,77,81].
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-152
 
-244
 
 
 Paolla Ramos e Silva
@@ -9952,13 +9658,11 @@ Testa o if: se vetorfi] > vetor [i+1], ou seja, se vetor[0] > vetorfi], ou seja,
 Falso. Não entra no if.
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-153
 
-244
 
 
 Paolla Ramos e Silva
@@ -9998,8 +9702,7 @@ Gabarito: Letra C.
 Item. 9. (QUADRIX - 2017 - SEDF/DF - Professor - Informática) É correto afirmar que o uso de
 algoritmos eficientes está relacionado ao emprego de estruturas de dados adequadas.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-154
+
 
 www.estrategiaconcursos.com.br
 X 244
@@ -10053,8 +9756,7 @@ e) 1,3, 5, 7, 8
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-155
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -10105,8 +9807,7 @@ V. Serve como modelo para programas, pois sua linguagem é intermediária à lin
 e às linguagens de programação, funcionando como uma boa ferramenta na validação da lógica
 de tarefas a serem automatizadas.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-156
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -10162,12 +9863,10 @@ b) O comando retorne pode ser retirado do código e a função terá o mesmo efe
 c) Exemplo clássico de recursividade.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-157
 
-244
+
 
 
 Paolla Ramos e Silva
@@ -10212,8 +9911,7 @@ provavelmente seria por valor. Gabarito: D
 14.(CESGRANRIO - 2014 - EPE - Tecnologia da Informação) Analise o algoritmo abaixo, onde
 a%b representa o resto da divisão de a por b.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-158
+
 
 www.estrategiaconcursos.com.br
 X 244
@@ -10278,13 +9976,11 @@ Então, vamos testar?
 x= 128
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-159
 
-244
 
 
 Paolla Ramos e Silva
@@ -10329,13 +10025,11 @@ Pessoa, nós podemos continuar fazendo na mão até descobri o valor final de r,
 perceberam que esse algoritmo está querendo descobrir o Máximo Divisor Comum (MDC) entre
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-160
 
-244
 
 
 Paolla Ramos e Silva
@@ -10381,8 +10075,7 @@ Que número seria impresso caso esse programa executasse?
 
 a) 0
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-161
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -10435,13 +10128,11 @@ descobri a resposta :) Gabarito: E
 abaixo para as entradas 100 e 20, respectivamente, é
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-162
 
-244
 
 
 Paolla Ramos e Silva
@@ -10492,13 +10183,11 @@ Enquanto X >= Y-1 faça, ou seja, enquanto 98 >= 21 faça.
 
 kWu
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
-163
 
-244
 
 ~ 05152001900 - Everton Murilo
 Vieira /
@@ -10552,13 +10241,11 @@ X = 83, Y = 54;
 X = 82, Y = 56;
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-164
 
-244
 
 
 Paolla Ramos e Silva
@@ -10594,13 +10281,11 @@ apresentado na forma de uma pseudolinguagem (Português Estruturado). Esse algor
 deverá ser utilizado para responder às questões.
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-165
 
-244
 
 
 Paolla Ramos e Silva
@@ -10652,8 +10337,7 @@ x2 0 x1 + x3 = 5 + 3 = 8 (x1, x2, x3 = 5, 8, 3)
 
 x3 0 x1 - x2 = 5 - 8 = -3 (x1, x2, x3 = 5, 8, -3)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-166
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -10699,8 +10383,7 @@ Repetir
 
 Atribuir X - 2 a X;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-167
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -10748,8 +10431,7 @@ Portanto, a estrutura é executada até X = -3. Gabarito: B
 19.(CONSULPLAN - 2012 - TSE - Programador de computador) Observe o trecho de
 pseudocódigo, que mostra o emprego da estrutura de controle enquanto ... faça ...
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-168
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -10798,13 +10480,11 @@ se AUX <=2
 então atribuir 5 a FF
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-169
 
-244
 
 
 Paolla Ramos e Silva
@@ -10847,12 +10527,10 @@ AZUL tem o valor retornado por FF(4)
 AUX tem o valor 4 (passagem de parâmetro na chamada do programa principal)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-170
 
-244
+
 
 
 Paolla Ramos e Silva
@@ -10888,8 +10566,7 @@ FF retorna 5
 
 /* Agora é hora de voltar nas chamadas recursivas, do último para o primeiro
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-171
+
 
 www.estrategiaconcursos.com.br
 X 244
@@ -10928,8 +10605,7 @@ limpe a tela
 escreva ("Seu nome é:", nome)
 escreva ("Sua idade é:", idade)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-172
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -10969,11 +10645,10 @@ leia (tecla)
 escreva ("Tecla digitada: ")
 escreva (tecla)
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+0 0 
 ' 173
 
 www.estrategiaconcursos.com.br
-244
 
 
 Paolla Ramos e Silva
@@ -11014,13 +10689,11 @@ leia (nome)
 num <— 0
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-174
 
-244
 
 
 Paolla Ramos e Silva
@@ -11062,11 +10735,10 @@ escreva (idade)
 
 fim algoritmo
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+0 0 
 ' 175
 
 www.estrategiaconcursos.com.br
-244
 
 
 Paolla Ramos e Silva
@@ -11109,13 +10781,11 @@ a) 162 e 110.
 b) 110 e 121.
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-176
 
-244
 
 
 Paolla Ramos e Silva
@@ -11155,8 +10825,7 @@ instruções do bloco da estrutura
 
 N2 recebe 32 + 6
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-177
+
 
 www.estrategiaconcursos.com.br
 X 244
@@ -11198,8 +10867,7 @@ N1 recebe 54 * 3
 N1 é igual a 162
 N2 é igual a 110
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-178
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -11250,8 +10918,7 @@ a) O número de constantes deve ser menor ou igual ao número de variáveis em u
 b) O número de constantes deve ser menor ou igual ao número de procedimentos em um
 programa.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-179
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -11273,8 +10940,7 @@ Comentários:
 
 Galera, não há essa relação! O número de constantes e variáveis são independentes. Gabarito: D
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-180
+
 
 www.estrategiaconcursos.com.br
 X 244
@@ -11323,8 +10989,7 @@ e) consegue estar em vários estados ao mesmo tempo.
 
 Item. 6. (CESPE/CEBRASPE - 2022 - SEED-PR)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-181
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -11389,8 +11054,7 @@ e) O resultado da expressão (a == 3 || b > 10 || d == 8 ) é verdadeiro.
 
 Item. 8. (CESPE / CEBRASPE - 2021 - SEED-PR)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-182
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -11464,14 +11128,12 @@ todo valor de num
 (linha 4):
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-183
 
-244
 
 
 Paolla Ramos e Silva
@@ -11531,14 +11193,12 @@ e) 16.
 11 .(CESPE / CEBRASPE - 2021 - SEED-PR)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-184
 
-244
 
 
 Paolla Ramos e Silva
@@ -11604,14 +11264,12 @@ e) pelo teorema da identidade.
 14.(CESPE / CEBRASPE - 2021 - PG-DF) O resultado do pseudocódigo precedente será 120.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-185
 
-244
 
 
 função avaliar( a, b )
@@ -11661,7 +11319,7 @@ e) Verdadeiro
 17.(CESPE/CEBRASPE - 2021 - SEED-PR) Assinale a opção que apresenta o resultado do
 algoritmo apresentado.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -11714,34 +11372,14 @@ escreva (vetor[i]+ "\n")
 }
 
 a) 81
-37
-51
-77
-19
 
 b) 81
-51
-37
-17
-19
 
 c) 19
-37
-51
-77
-81
 
 d) 51
-81
-37
-77
-19
 
 e) 19
-77
-37
-81
-51
 
 18.(CESPE/CEBRASPE - 2020 -TJPA] Assinale a opção que apresenta o comando que
 tem a
@@ -11750,14 +11388,12 @@ proibido na
 programação estruturada.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-187
 
-244
 
 
 Paolla Ramos e Silva
@@ -11811,14 +11447,12 @@ somente são visíveis quando a sub-rotina TROCA é executada.
 Item. 21. (CESPE / CEBRASPE - 2019 - TJ-AM]
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-188
 
-244
 
 
 Paolla Ramos e Silva
@@ -11887,14 +11521,12 @@ document.write(b);
 }
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-189
 
-244
 
 
 Paolla Ramos e Silva
@@ -11970,15 +11602,13 @@ passagem por
 valor, alteram-se os valores dos parâmetros que foram passados para a função.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-190
 
-244
 
 
 Paolla Ramos e Silva
@@ -12012,14 +11642,12 @@ repetições.
 4 e C = 8, o resultado que será computado para Área é igual a 32.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-191
 
-244
 
 
 Fim
@@ -12058,7 +11686,7 @@ desse tipo de estrutura por meio de estrutura de repetição pós-testada.
 a indireta
 necessitam de uma condição de saída ou de encerramento.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -12141,8 +11769,7 @@ Item. 36. ERRADO
 
 Item. 37. CORRETO
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-193
+
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -12198,8 +11825,7 @@ e) o Comando5 sempre será executado.
 
 Item. 2. (FCC - 2022 - DPE-RS) Considere o seguinte algoritmo em pseudocódigo:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-194
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -12261,14 +11887,12 @@ Item. 3. (FCC - 2019 - TRF-4) Considere o programa em pseudocódigo abaixo, que 
 erros.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-195
 
-244
 
 
 Paolla Ramos e Silva
@@ -12356,15 +11980,13 @@ d) 479.
 e) 482
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-196
 
-244
 
 
 Paolla Ramos e Silva
@@ -12445,8 +12067,7 @@ Valor da Tarifa
 
 acima de 50 7,89/m3
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-197
+
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -12498,14 +12119,12 @@ da Informação)
 Considere o algoritmo em pseudocódigo abaixo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-198
 
-244
 
 
 Paolla Ramos e Silva
@@ -12545,9 +12164,8 @@ e) 128
 
 1O.(FCC - 2017 - ARTESP) Considere o algoritmo em pseudocódigo abaixo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
-1
+
 
 
 Paolla Ramos e Silva
@@ -12609,8 +12227,7 @@ e) tem erro de sintaxe, pois o comando escolha deveria ter a cláusula senão, q
 Item. 11. (FCC - 2017 - TRE-SP) Considere as duas funções, abaixo, escritas em pseudocódigo, que
 implementam uma lógica.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-200
+
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -12669,8 +12286,7 @@ e) iterativa e a função recursiva retornam 1 para valores de N=0 e N = 1.
 Item. 12. (FCC - 2017 - TRE-SP) Considere a lógica do algoritmo, abaixo, expressa em
 pseudocódigo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-201
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -12770,8 +12386,7 @@ c) 27
 
 d) 81
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-202
+
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -12826,8 +12441,7 @@ e) 6
 
 1£.(FCC - 2016 - CREMESP) Considere o diagrama abaixo:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-203
+
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -12855,15 +12469,13 @@ por 2.
 quociente da divisão inteira e MOD o resto da divisão inteira:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-204
 
-244
 
 
 Paolla Ramos e Silva
@@ -12924,14 +12536,12 @@ ter valor 0.
 Item. 17. (FCC - 2015 - DPE-SP) Considere o algoritmo a seguir, na forma de pseudocódigo:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-205
 
-244
 
 
 Paolla Ramos e Silva
@@ -12990,8 +12600,7 @@ e) insere o valor de k entre v[x] e v[x+1 ] no vetor v.
 
 18.(FCC - 2015 - MANAUSPREV) Considere o fluxograma abaixo:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-206
+
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -13015,8 +12624,7 @@ d) 4372.
 19.(FCC - 2014 - TRT-16) Para responder às questões de números 43 e 44, considere o
 algoritmo em pseudo-código abaixo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-207
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -13113,8 +12721,7 @@ imprima("Insucesso"
 
 fim
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-208
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -13195,14 +12802,12 @@ devolva x
 Considere agora o seguinte trecho de código que invoca a função f definida acima.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-209
 
-244
 
 
 Paolla Ramos e Silva
@@ -13262,15 +12867,13 @@ produz um resultado correto o comando de atribuição:
 a) X «— K = M
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-210
 
-244
 
 
 Paolla Ramos e Silva
@@ -13337,15 +12940,13 @@ por valor, o valor real é passado e uma variável local é criada para armazen�
 processo sempre será efetuada a cópia dessa variável.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-211
 
-244
 
 
 Paolla Ramos e Silva
@@ -13404,8 +13005,7 @@ d) chama uma outra função.
 
 e) pode chamar a si mesma.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-212
+
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -13542,8 +13142,7 @@ print a, b, c;
 
 Numa hipotética execução desse código, os valores exibidos seriam:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-214
+
 
 www.estrategiaconcursos.com.br
 /' 244
@@ -13581,27 +13180,21 @@ b) 2 20
 c) 8 20
 
 d) 2
-5
-8
 
 e) 2 20
 
-17
 
 5 20
 
-14
 
 8 20
 
-11
 
 Item. 4. (FGV - 2018 - Prefeitura de Niterói - RJ) Sabendo-se que a função retorna o número de
 elementos de um array e que L assume o tipo de um array de inteiros, indexados a partir
 de zero, analise o pseudocódigo a seguir.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-215
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -13673,8 +13266,7 @@ x = x+1;
 
 };
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-216
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -13747,14 +13339,12 @@ else
 Assinale a opção que indica o valor correto da expressão ff(12).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-217
 
-244
 
 
 Paolla Ramos e Silva
@@ -13810,8 +13400,7 @@ e) 587
 
 Item. 9. (FGV - 2016 - SEE-PE) Analise o trecho de pseudocódigo a seguir.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-218
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -13868,14 +13457,12 @@ e) 10, 8, 5 e 2.
 fornece ao usuário o valor do ingresso que deverá ser cobrado para a entrada no cinema
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-219
 
-244
 
 
 Paolla Ramos e Silva
@@ -13893,7 +13480,7 @@ V
 Os parâmetros de entrada da função são sua IDADE e PROFISSÃO. A conversão deste
 fluxograma em pseudolinguagem de programação é:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
@@ -13980,7 +13567,7 @@ uma decisão
 
 a)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -14024,7 +13611,7 @@ Item. 10. LETRA A
 
 Item. 11. LETRA C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
@@ -14141,14 +13728,12 @@ d) 112358
 Item. 4. (UFV - 2022 - UFV-MG) Considere o algoritmo em pseudocódigo a seguir
 
 
-OO SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+OO 
 
 www.estrategiaconcursos.com.br
 
 
-225
 
-244
 
 
 Paolla Ramos e Silva
@@ -14165,7 +13750,6 @@ inteiro x
 inteiro y
 inteiro z
 
-100
 
 z ■<—3
 
@@ -14201,8 +13785,7 @@ d) 110, 276, 6.
 
 Item. 5. (UFV - 2022 - UFV-MG) Considere o algoritmo em pseudocódigo a seguir
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-226
+
 
 www.estrategiaconcursos.com.br
 X 244
@@ -14286,8 +13869,7 @@ enquanto j > 0 e v[j-l] > v[j] faça
 
 i *— i + 1
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-227
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -14343,7 +13925,7 @@ controle dos tipos seleção e repetição e correspondem às tabelasverdade
 mostradas,
 respectivamente, em
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 05152001900 --Evertroton MurirlioloVieieiriara
@@ -14538,13 +14120,11 @@ escreva (vetor[i]+ "\n")
 }
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-229
 
-244
 
 
 Paolla Ramos e Silva
@@ -14552,46 +14132,30 @@ Paolla Ramos e Silva
 (Profs. Paolla Ramos e Raphael Lacerda)
 
 a) 81
-37
 5i
 
-77
 
-19
 
 b) 81
 
 5i
-37
 
-17
 
-19
 
 c) 19
-37
 5i
 
-77
 
-81
 
 d) 51
-81
 
-37
 
-77
 
-19
 
 e) 19
 
-77
 
-37
 
-81
 
 5i
 
@@ -14602,13 +14166,11 @@ Item. 10. (IF/CE-2017-IF/CE-Técnico de Tecnologia da Informação) Observe a se
 programação.
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-230
 
-244
 
 
 Paolla Ramos e Silva
@@ -14663,8 +14225,7 @@ IV. Diferentes algoritmos não podem realizara mesma tarefa usando um conjunto
 diferenciado de
 instruções em mais ou menos tempo, espaço ou esforço do que outros.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-231
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -14717,8 +14278,7 @@ d) Não é possível chamar a função fatorial dentro dela mesma.
 
 e) O resultado da função sempre retornará um valor elevado a ele mesmo (valorA valor).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-232
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -14773,8 +14333,7 @@ a) 2
 
 b) 8
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-233
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -14827,7 +14386,7 @@ c) 15
 
 d) 100
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 /
@@ -14883,8 +14442,7 @@ d) 8
 
 e) 11
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-235
+
 
 www.estrategiaconcursos.com.br
 / 244
@@ -14933,13 +14491,11 @@ programa PPRRGG;
 variáveis
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-236
 
-244
 
 
 Paolla Ramos e Silva
@@ -14986,13 +14542,11 @@ Assinale a alternativa que apresenta apenas um tipo de estrutura de controle:
 a)...
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-237
 
-244
 
 
 Paolla Ramos e Silva
@@ -15169,13 +14723,11 @@ c) 110 e 162.
 d) 121e110.
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-241
 
-244
 
 
 Paolla Ramos e Silva
@@ -15216,13 +14768,11 @@ d) O número de constantes independe da quantidade de variáveis em um programa.
 e) O número de constantes deve ser igual ao número de procedimentos em um programa.
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 www. estra tegiaconcursos. com. br
 
 
-242
 
-244
 
 
 Paolla Ramos e Silva
@@ -15279,8 +14829,7 @@ Item. 23. LETRA E
 
 Item. 24. LETRA D
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-243
+
 
 www.estrategiaconcursos.com.br
 / 244

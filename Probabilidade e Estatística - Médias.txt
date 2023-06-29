@@ -14,64 +14,45 @@ Concursos
 Equipe Exatas Estratégia Concursos
 
 
-índice
+Índice
 
 1) Noções Iniciais sobre Médias.
-3
 
 2) Medidas de Posição
-4
 
 3) Notação de Somatório
-6
 
 4) Média Aritmética Simples
-16
 
 5) Média Ponderada
-33
 
 6) Média para Dados Agrupados
-39
 
 7) Média Geométrica
-53
 
 8) Média Harmônica
-59
 
 9) Desigualdade das Médias
-66
 
 10) Questões Comentadas - Média Aritmética Simples - Cebraspe
-75
 
 11) Questões Comentadas - Média Ponderada - Cebraspe
-96
 
 12) Questões Comentadas - Média para Dados Agrupados -Cebraspe
-105
 
 13) Questões Comentadas - Média Geométrica - Cebraspe
-126
 
 14) Questões Comentadas - Desigualdade das Médias - Cebraspe
-127
 
 15) Lista de Questões - Média Aritmética Simples - Cebraspe
-129
 
 16) Lista de Questões - Média Ponderada - Cebraspe
-141
 
 17) Lista de Questões - Média para Dados Agrupados - Cebraspe
-146
 
 18) Lista de Questões - Média Geométrica - Cebraspe
-158
 
 19) Lista de Questões - Desigualdade das Médias - Cebraspe
-160
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
@@ -173,9 +154,7 @@ distribuição, por isso são denominadas de medidas de tendência central.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-4
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -266,9 +245,7 @@ típicos da sequência que está sendo somada aparecem à direita do símbolo de
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-6
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -302,7 +279,6 @@ Então, se tivermos uma sequência de 10 valores, devemos interpretar a notaçã
 como a soma
 dos valores da sequência xif com i variando de 1 a 10:
 
-10
 
 Í=1
 
@@ -338,13 +314,11 @@ Representa a soma dos valores de x, começando em xr e terminando em
 *io-
 
 
-10
 
 2Xí
 
 i=l
 
-10
 
 Xj = Xx + X2 + X3 + X4 + X5 + X6 + X7 + X8 + X9 + Xlo
 
@@ -360,9 +334,7 @@ i=l
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-7
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -372,12 +344,10 @@ Representa a soma dos valores de x, começando em %₃ e terminando em
 
 %i0.
 
-10
 
 
 í = 3
 
-10
 
 i = 3
 
@@ -406,19 +376,16 @@ Representa a soma dos termos da sequência [2n + 1}, com k começando
 em 1 e terminando em 4.
 
 
-4
 
 k=l
 
 + 1)
 
-4
 
 Y (2xk + 1) = (2 x 1 + 1) + (2 x 2 + 1) + (2 x 3 + 1) + (2 x 4 + 1)
 
 k=l
 
-4
 
 y (2xk + l) = 3 + 5 + 7 + 9 = 24
 
@@ -434,7 +401,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 Equipe Exatas Estratégia Concursos
 
 
-5
 
 5 + 1
 
@@ -443,7 +409,6 @@ Equipe Exatas Estratégia Concursos
 
 6Õ
 
-143
 "6Õ"
 
 Agora que já entendemos o funcionamento básico dessa notação, precisamos analisar outras
@@ -487,9 +452,7 @@ Dessa forma, temos que a SOMA DOS PRODUTOS é diferente do PRODUTO DAS SOMAS:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-9
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -581,9 +544,7 @@ Agora, colocaremos os novos valores em evidência:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-11
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -647,7 +608,6 @@ Os salários atuais podem ser representados pela sequência:
 A soma dos termos dessa sequência é dada por:
 
 
-5
 
 í=i
 
@@ -660,7 +620,6 @@ serão dobrados.
 
 A soma dos termos da nova sequência será:
 
-5
 
 V 2 x xt = 2.000 + 2.500 + 3.000 + 3.500 + 4.000 = 15.000
 
@@ -676,9 +635,7 @@ i=l
 0 0 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-13
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -741,9 +698,7 @@ O bônus de cada funcionário pode ser representado pela sequência:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-14
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -756,13 +711,11 @@ Assim, a sequência {xn + yn] é dada por:
 Dessa forma, temos que:
 
 
-5
 
 Í=1
 
 Xj = 1.500 + 2.000 + 2.500 + 3.000 + 3.500 = 12.500
 
-5
 
 \yi = i-ooo + í.ooo + í.ooo +1.000 +1.000 = 5.000
 i=l
@@ -782,7 +735,6 @@ sequência [xn + yn}.
 Logo,
 
 
-5
 
 Í=1
 
@@ -843,9 +795,7 @@ quantidade de elementos somados (rí).
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-16
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -887,9 +837,7 @@ de elementos nele existentes (x = = xi+xz+-+xn\
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-17
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -956,7 +904,6 @@ Xmat ~
 
 5 + 6 + 4
 
-15
 
 
 Já a média das notas de química é:
@@ -968,7 +915,6 @@ Xmat — 5
 
 Xquim — 2
 
-12
 
 Xquím ~ 2
 
@@ -980,11 +926,9 @@ das notas de química, a:
 
 Gabarito: B.
 
-5
 
 - = 1,25 = 125%
 
-4
 
 (CESPE/UNCISAL/2019) A crise mundial tem contribuído para o aumento da entrada
 de
@@ -1024,9 +968,7 @@ e) 17 600
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-19
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -1047,7 +989,6 @@ x = 4;
 
 17600 =
 
-4
 
 4 x 17600 = 57300 + x
 
@@ -1108,12 +1049,9 @@ I ^segundo trimestre = 72 delitos
 
 x = 0
 
-6
 
-150
 
 x = —— = 25
-6
 
 Então, podemos concluir que o número de delitos no semestre foi maior que no segundo trimestre.
 
@@ -1143,9 +1081,7 @@ sempre será único.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-21
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -1374,9 +1310,7 @@ Seja {xn} uma sequência de números:
 www. estra tegiaconcursos. com. br
 
 
-26
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -1453,11 +1387,9 @@ d₇ = x₇ — x = 7 — 4 = 3
 Agora, somaremos todos esses desvios:
 
 
-7
 
 i = 1
 
-7
 
 di — d± + "I" ^3 + ^4 + ^5 + ^6 + ^7
 
@@ -1466,7 +1398,6 @@ i=l
 
 * d[ = (—3) + 2) + (—1) +0+1+2+3
 
-7
 
 ^d; = 0
 
@@ -1563,7 +1494,6 @@ ao quadrado
 e somar todos os resultados:
 
 
-7
 
 Í = 1
 
@@ -1575,7 +1505,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 Equipe Exatas Estratégia Concursos
 
 
-7
 
 i=l
 
@@ -1585,7 +1514,6 @@ d? = (—3)2 + (—2)2 + (-1)2 + O2 + l2 + 22 + 32
 
 i-1
 
-7
 
 =28
 
@@ -1755,9 +1683,7 @@ Auditoria 8,0
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-33
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -1836,9 +1762,7 @@ ponderada é dada por:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-34
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -1914,9 +1838,7 @@ Segundo o enunciado, temos que:
 
 * total de produtos do tipo A vendidos: - = 25%;
 
-4
 
-2
 
 * total de produtos do tipo B vendidos: - = 40%;
 
@@ -1947,7 +1869,6 @@ x = R$ 12,55
 Gabarito: C.
 
 (CESPE/Pref. São Cristóvão/2019) A tabela seguinte mostra a distribuição das idades dos
-30
 alunos da turma A do quinto ano de uma escola de ensino fundamental.
 
 Idade (em anos) 9 10 11 12 13
@@ -1971,9 +1892,7 @@ A.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-36
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -1991,7 +1910,6 @@ quantidades de estudantes e o total de estudantes:
 
 X ~ 6 + 22 + 0 + 1 + 0 + 1
 
-300
 
 %_ = lõ-
 
@@ -2002,7 +1920,6 @@ Na turma B, teremos que duplicar as frequências. Dessa forma, a média da turma
 
 X ~ 12 + 44 + 0 + 2 + 0 + 2
 
-600
 
 * = "óÕ"
 
@@ -2043,9 +1960,7 @@ quantidades de filhos e quantidades de casais, dividido pelo total de casais:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-37
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -2110,9 +2025,7 @@ Tempo médio (XJ I Frequência (fj
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-39
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -2176,9 +2089,7 @@ cada valor por sua respectiva frequência, somar tudo e dividir pela soma das fr
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-40
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -2223,11 +2134,9 @@ Agora, basta dividirmos um valor pelo outro, obtendo:
 
 yn f
 
-54
 
 - — =54
 
-10
 
 Portanto, a média dos dados apresentados na tabela é 5,4.
 
@@ -2235,9 +2144,7 @@ Portanto, a média dos dados apresentados na tabela é 5,4.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-41
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -2311,9 +2218,7 @@ dado por
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-42
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -2330,7 +2235,6 @@ Gabarito: C.
 
 i
 
-97
 
 X_=3Õ
 
@@ -2408,7 +2312,6 @@ Para determinar a diferença percentual, basta dividirmos esse valor pela média
 
 Gabarito: D.
 
-260
 
 1.060
 
@@ -2438,10 +2341,8 @@ Frequência absoluta Frequência relativa Porcentagem (%)
 *
 
 60 * *
-40
 
 Total 100 1
-100
 
 Considerando essas informações, julgue o seguinte item.
 
@@ -2461,9 +2362,7 @@ porcentagem.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-44
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -2520,19 +2419,14 @@ caixa (L)
 Frequência absoluta Frequência relativa Porcentagem (%)
 
 10 10 0,1
-10
 
 20 30 0,3
-30
 
 45 20 0,2
-20
 
 60 40 0,4
-40
 
 Total 100 1
-100
 
 Calculando a média:
 
@@ -2540,9 +2434,7 @@ Calculando a média:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-45
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -2617,9 +2509,7 @@ quantidade de pessoas por suas respectivas frequências. Assim, temos:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-46
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -2682,9 +2572,7 @@ PM = 2
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-47
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -2722,9 +2610,7 @@ PMixfi
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-48
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -2732,7 +2618,6 @@ Equipe Exatas Estratégia Concursos
 
 Agora, basta dividirmos um valor pelo outro, obtendo:
 
-56
 
 X 10 '
 
@@ -2770,9 +2655,7 @@ e) 8 min e 23 seg.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-49
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -2791,31 +2674,24 @@ Duração (em minutos) Ponto Médio (PMj) Frequência (/J PM^fi
 
 2 F 6 2 + 6
 
-2
 
 6 F 10 6 + 10 = 8
 
-2
 
 10 F 15 10 + 15 = 12,5
 
-2
 
 15 F 20 15 + 20 = 17,5
 
-2
 
 20 F 30 20 + 30 = 25
 
-2
 
 30 F 40 30 + 40 = 35
 
-2
 
 40 F 60 40 + 60 = 50
 
-2
 
 Total
 
@@ -2860,9 +2736,7 @@ Gabarito: D.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-50
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -2934,9 +2808,7 @@ Portanto, a média é:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-51
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -2996,9 +2868,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-52
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -3052,9 +2922,7 @@ cúbica.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-53
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -3080,7 +2948,6 @@ adotarmos o processo de fatoração:
 
 2 2 25 5
 
-1
 
 Vocês lembram como fazemos para fatorar um número? Primeiro, dividimos esse número pelo
 seu
@@ -3112,9 +2979,7 @@ Item. 53. Portanto, ficaremos com:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-54
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -3288,7 +3153,6 @@ De forma equivalente, temos que:
 
 fa + b
 
-2
 
 b + c
 
@@ -3298,7 +3162,6 @@ a + c
 
 = 15
 
-5
 
 a + b = 30
 
@@ -3422,9 +3285,7 @@ seguir, em que (— + — + —F — )/n corresponde à média aritmética dos i
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-59
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -3474,7 +3335,6 @@ encontraremos a média dos inversos:
 
 Desse modo, temos que:
 
-1
 
 H =
 
@@ -3519,7 +3379,6 @@ V-méd ~
 
 Vi
 
-2
 
 1 1
 
@@ -3557,12 +3416,10 @@ Vméd ~~ 3 + 2 5
 
 Vméd ~- 2 x í 5 )
 
-480
 
 vméd = — = 96 km/h
 
 * SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-61
 
 
 Equipe Exatas Estratégia Concursos
@@ -3582,22 +3439,17 @@ média harmônica para encontrarmos o tempo médio das duas torneiras.
 
 méd
 
-2
 
 tméd ~ 2 + 1
 
-12
 
-2
 
 
 méd
 
-24
 
 — =8 horas
 
-3
 
 Como as torneiras serão ligadas simultaneamente em um único tanque, precisamos
 dividir esse
@@ -3642,13 +3494,11 @@ harmônica H entre os números positivos a e b, por exemplo, é definida como o 
 da média
 aritmética dos inversos desses números, ou seja,
 
-1
 
 H = 1—T
 
 -a ++ b-
 
-2
 
 A média aritmética dos números 5 e 20 supera a média harmônica desses mesmos números em
 
@@ -3688,7 +3538,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 Equipe Exatas Estratégia Concursos
 
 
-1
 
 4 =_ i 11
 
@@ -3700,19 +3549,16 @@ Também, podemos calcular a média harmônica de dois números de forma mais rá
 tanto, basta
 desenvolvermos a própria fórmula que foi dada na questão:
 
-1
 
 H =
 
 a + b
 
-2
 
 H = 2
 
 a + b
 
-2
 
 H = a + b
 
@@ -3792,7 +3638,6 @@ G = 2 x 3,3
 
 G = 6,6
 
-1
 
 í 3
 
@@ -3878,7 +3723,6 @@ x = ^—=5
 
 G = 3V5 x 5 x 5 = 5
 
-3
 
 Portanto, quando todos os números da lista são iguais, as médias aritmética (%),
 geométrica (G) e
@@ -3888,9 +3732,7 @@ harmônica (H) também são iguais.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-66
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -3969,9 +3811,7 @@ Vamos multiplicar todos os termos por 2.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-67
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -3990,7 +3830,6 @@ a = 4, b = 9 e c = 16. Agora, podemos partir para a análise das alternativas:
 
 a+b+c
 
-3
 
 
 b) a > b
@@ -4051,7 +3890,6 @@ os números a e c. Sabemos que a média aritmética é sempre maior que a média
 
 a + c
 
-2
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
@@ -4077,7 +3915,6 @@ as demais alternativas.
 
 a+b+c
 
-3
 
 Sabemos que b < a + c, isto é, b é menor que a média entre a e c. Assim, se formos incluir no
 cálculo da
@@ -4135,7 +3972,7 @@ Nessa notação, temos:
 
 Símbolo de Somatório (Sigma) <
 
-índice
+Índice
 
 ■> Limite Superior ou Condição de Parada
 
@@ -4161,9 +3998,7 @@ k + k + *** + k — k x n
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-70
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -4215,9 +4050,7 @@ e será única.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-71
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -4273,9 +4106,7 @@ denominador teremos a soma de todos os pesos.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-72
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -4327,9 +4158,7 @@ Somente definimos a média geométrica para números não-negativos.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-73
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -4359,9 +4188,7 @@ A igualdade ocorre quando os números da lista são todos iguais.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-74
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -4493,9 +4320,7 @@ b) 13,2
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-76
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -4559,7 +4384,6 @@ X ~ 10 + 15 + 3 + 2
 
 X ~ 30
 
-407
 
 x = lõ"
 
@@ -4633,9 +4457,7 @@ e) 10.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-78
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -4685,7 +4507,6 @@ MMa - MMb = 1,14
 20 + 0 + 15 + 20 + 0 + 15 + 7 77
 
 A 7
-7
 
 8 + 6 + 8 + 13 + 8 + 13 + 1 57
 
@@ -4857,9 +4678,7 @@ Inicialmente, vamos calcular a média aritmética da inflação para os três an
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-81
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -4928,15 +4747,12 @@ Então, se considerarmos que o número de imigrantes em 2010 foi x, teremos:
 
 57300 + x
 
-4
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-82
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -5072,10 +4888,8 @@ A média aritmética resulta da divisão entre a soma dos pesos e o número de p
 340 + x
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-84
 
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -5163,9 +4977,7 @@ de:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-85
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -5250,9 +5062,7 @@ processos com sentenças de valores acima de R$ 2.000.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-86
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -5345,11 +5155,8 @@ Monteiro Lobato
 
 Acidentes por mês (média)
 
-14
 
-10
 
-6
 
 Infere-se das informações apresentadas que, nos últimos 12 meses, ocorreram menos de
 350 acidentes
@@ -5406,15 +5213,12 @@ Item. 5.000 + 16.500 + 5.000 + 630
 
 x = - = 7.657,5
 
-4
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-88
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -5484,9 +5288,7 @@ cargos efetivos
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-89
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -5515,7 +5317,6 @@ são
 1.000.000
 
 x = —— = 4.545,45 > 4.500
-220
 
 A despesa total do órgão B foi de 120 x 10.000 = 1.200.000 reais e devemos dividir por 222
 funcionários:
@@ -5548,9 +5349,7 @@ Item. 20. (CESPE/BB/2009)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-90
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -5615,9 +5414,7 @@ Agora, vamos calcular a média dessas diferenças:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-91
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -5690,9 +5487,7 @@ c) superior a 200.000 e inferior a 220.000.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-92
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -5713,11 +5508,9 @@ x = —
 
 n
 
-5
 
 Item. 170.000 =-
 
-6
 
 S = 6 x 170.000 = 1.020.000
 
@@ -5747,9 +5540,7 @@ Com base nas informações do gráfico apresentado acima, julgue os seguintes it
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-93
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -5785,10 +5576,8 @@ N.° de projetos
 não-atendidos
 
 produção de obras cinematográficas nacionais 10
-20
 
 construção/reforma de salas de exibição 20
-60
 
 
 comercialização/distribuição de obras
@@ -5820,9 +5609,7 @@ construção/reforma de salas de exibição 5
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-94
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -5880,11 +5667,9 @@ salas de exibição, com base nas informações da tabela I. Foram atendidos 20 
 então basta
 dividirmos os R$ 5 milhões pelos 20 projetos e teremos a média dos valores.
 
-5
 
 x = — = 0,25 milhões
 
-20
 
 Isso corresponde a R$ 250 mil por projeto desse tipo.
 
@@ -5894,9 +5679,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-95
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -5957,7 +5740,6 @@ Isolando as constantes dos valores em função de p, temos:
 
 4 = 5p
 
-4
 
 P = 5
 
@@ -6002,7 +5784,6 @@ quantidades de alunos, dividida pelo total de estudantes:
 
 X= 6+22+0+1+0+1
 
-300
 
 %_ = lõ-
 
@@ -6016,7 +5797,6 @@ por:
 
 X ~ 12 + 44 + 0 + 2 + 0 + 2
 
-600
 
 * = "6Õ"
 
@@ -6048,9 +5828,7 @@ c) 2.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-97
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -6072,7 +5850,6 @@ filhos por suas respectivas frequências:
 
 50 + 80 + 90 + 100 + 50 + 30
 
-400
 
 X ~ 2ÕÕ
 
@@ -6211,9 +5988,7 @@ mistura;
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-99
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -6245,7 +6020,6 @@ Substituindo B por (1 - A), temos:
 
 22% =
 
-1
 
 22% = 20% x A + 25% x B
 
@@ -6255,7 +6029,6 @@ Substituindo B por (1 - A), temos:
 
 5 x A = 3
 
-3
 
 A = - = 0,60 = 60%
 
@@ -6298,9 +6071,7 @@ somaremos tudo e dividiremos pela quantidade total de pessoas.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-100
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -6337,7 +6108,6 @@ Item. 5.000 x 2 + 3.500 x 4
 
 x = = 4.000
 
-6
 
 Portanto, a menor média possível é 2.000 e a maior média possível é 4.000.
 
@@ -6375,9 +6145,7 @@ nenhum carro:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-101
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -6444,9 +6212,7 @@ outro município de 50.000 habitantes desse estado em que, nesse mesmo mês, oco
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-102
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -6468,7 +6234,6 @@ r —
 
 Xl= 15
 
-69
 
 Xl ~ 15
 
@@ -6492,7 +6257,6 @@ b) para o município 2:
 
 100 + 240 + 120 + 80 + 100
 
-640
 
 %2~
 
@@ -6594,9 +6358,7 @@ das probabilidades. Vamos reescrever a tabela com os cálculos:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-105
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -6633,7 +6395,6 @@ Calculando a média da distribuição, temos que:
 
 X~ 10 + 15 + 40 + 35 + 28 + 10 + 4
 
-670
 
 * = 142 = 4,71
 
@@ -6654,9 +6415,7 @@ Peso do estrato (Wh)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-106
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -6724,9 +6483,7 @@ Classes Freq.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-107
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -6800,9 +6557,7 @@ x1 f 1 PM 1 PM xf
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-108
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -6816,7 +6571,6 @@ Total 51 883
 
 A média para a tabela é dada pela divisão entre os dois totais:
 
-883
 
 XA = -^- = 17,31
 
@@ -6878,9 +6632,7 @@ Item. 5. (CESPE/TELEBRAS/2022)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-109
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -6977,7 +6729,6 @@ Gabarito: Certo.
 
 x = _ - 4- -L J
 
-10
 
 Item. 7. (CESPE/PETROBRAS/2022) Uma pessoa realizou uma pesquisa em todos os postos
 de
@@ -6995,9 +6746,7 @@ Preço(R$) 6,40 6,80 6,50 6,10 6,30 ?
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-111
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -7064,9 +6813,7 @@ Preço(R$) 6,40 6,80 6,50 6,10 6,30 ?
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-112
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -7136,9 +6883,7 @@ p=^=0'3
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-113
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -7188,9 +6933,7 @@ X Frequência Absoluta
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-114
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -7252,9 +6995,7 @@ a) 750.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-115
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -7315,9 +7056,7 @@ Frequência Nota
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-116
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -7361,10 +7100,8 @@ Total 40 210
 
 A média será dada pela razão entre os dois totais:
 
-210
 
 X = — = 5,25
-40
 
 Logo, a média das notas é superior a 5.
 
@@ -7374,9 +7111,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-117
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -7449,9 +7184,7 @@ x = —
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-118
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -7588,9 +7321,7 @@ Item. 15. (CESPE/PRF/2012)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-120
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -7661,9 +7392,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-121
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -7721,24 +7450,18 @@ frequência
 relativa
 
 50 - 200 125 0,48
-60
 
 200 - 300 250 0,36
-90
 
 300 - 500 400 0,12
-48
 
 500 - 1.000 750 0,04
-30
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-122
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -7829,9 +7552,7 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-123
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -7860,7 +7581,6 @@ frequência
 
 A média de débitos das empresas denunciadas pela internet é:
 
-410
 
 X = 6ÕÕ
 
@@ -7889,15 +7609,12 @@ A média de débitos das empresas denunciadas pessoalmente é:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-124
 
-162
 
 
 Equipe Exatas Estratégia Concursos
 
 
-325
 
 X ~ 2ÕÕ
 
@@ -8183,9 +7900,7 @@ pelos
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-130
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -8255,9 +7970,7 @@ Ano Paraguaios
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-131
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -8410,9 +8123,7 @@ Item. 14. (CESPE/FUNPRESP/2016)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-133
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -8494,9 +8205,7 @@ Monteiro Lobato 6
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-134
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -8573,9 +8282,7 @@ que, em média, ocorreram menos de 4 acidentes de trânsito nessas ruas nos últ
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-135
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -8624,9 +8331,7 @@ Exportação X 40 46 50
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-136
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -8697,9 +8402,7 @@ Veja, ed. 2.072, 6/8/2008, p.51 (com adaptações)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-137
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -8745,10 +8448,8 @@ N.° de projetos
 não-atendidos
 
 produção de obras cinematográficas nacionais 10
-20
 
 construção/reforma de salas de exibição 20
-60
 
 
 comercialização/distribuição de obras
@@ -8760,9 +8461,7 @@ cinematográficas nacionais
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-138
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -8826,9 +8525,7 @@ exibição, sendo concedidos, em média, R$ 250 mil por projeto desse tipo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-139
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -8866,9 +8563,7 @@ Item. 8. LETRAC 16.ERRADO
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-140
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -8939,9 +8634,7 @@ maior que o peso na prova A; na prova C, o peso é20% maior que o peso na prova 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-141
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -9027,9 +8720,7 @@ anos.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-142
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -9095,9 +8786,7 @@ outro município de 50.000 habitantes desse estado em que, nesse mesmo mês, oco
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-143
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -9253,9 +8942,7 @@ Classes Freq.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-147
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -9316,9 +9003,7 @@ Os preços de um determinado produto em 10 diferentes lojas são dados na tabela
 
 210 220 235
 
-2
 
-240
 
 A média aritmética dos preços encontrados foi de R$ 219,00.
 
@@ -9370,9 +9055,7 @@ Com base nessa situação hipotética, julgue o item a seguir.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-149
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -9424,9 +9107,7 @@ quantitativa X, julgue o item a seguir.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-150
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -9482,9 +9163,7 @@ Frequência Nota
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-151
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -9536,9 +9215,7 @@ Item. 14. (CESPE/CAM DEP/2012)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-152
 
-162
 
 
 Equipe Exatas Estratégia Concursos
@@ -9664,9 +9341,7 @@ Percentual (P,)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-154
 
-162
 
 
 Equipe Exatas Estratégia Concursos

@@ -21,67 +21,48 @@ Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-índice
+Índice
 
 1) Padrões de Projeto
 
-3
 
 2) Padrões de Projeto - Padrões Criacionais.
-6
 
 3) Padrões de Projeto - Padrões Estruturais.
-9
 
 4) Padrões de Projeto - Padrões Comportamentais.
-13
 
 5) Resumo - Padrões de Projeto
-20
 
 6) Questões Comentadas - Padrões de Projeto - CESPE
-23
 
 7) Questões Comentadas - Padrões de Projeto - FCC
-40
 
 8) Questões Comentadas - Padrões de Projeto - FGV
-51
 
 9) Questões Comentadas - Padrões de Projeto - Diversas.
-54
 
 10) Lista de Questões - Padrões de Projeto - CESPE
-62
 
 11) Lista de Questões - Padrões de Projeto - FCC
-70
 
 12) Lista de Questões - Padrões de Projeto - FGV
-77
 
 13) Lista de Questões - Padrões de Projeto - Diversas.
-81
 
 14) Padrões de Projeto - GRASP - Teoria
-90
 
 15) Padrões de Projeto - GRASP - Questões Comentadas - CEBRASPE
-93
 
 16) Padrões de Projeto - GRASP - Lista de Questões- CEBRASPE
-98
 
 17) Princípios SOLID - Teoria
-101
 
 18) Princípios SOLID - Questões Comentadas.
-108
 
 19) Princípios SOLID - Lista de Questões.
-113
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 PADRõES DE PRoJETo - GANG oF FoUR (GOF)
@@ -381,7 +362,7 @@ instanciar partes
 dessas interfaces. Logo, ele pode criar diferentes representações de suas interfaces
 gráficas ao
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -451,7 +432,7 @@ dados da mãe e filhos. Logo, sabe-se que atributos como Endereço, Telefone
 Residencial,
 Nacionalidade, etc provavelmente serão idênticos para todos os membros da família.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -488,7 +469,7 @@ O Padrão Singleton garante que só haverá uma instância de conexão com o ban
 dados e,
 assim, assegura que-durante a execução-a classe será instanciada apenas uma única vez.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -556,7 +537,7 @@ tornando a utilização
 inviável para grandes quantidades. Uma ideia melhor seria criar uma interface para
 plataformas
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -628,7 +609,7 @@ objeto sanduíche anexe diversas responsabilidades dinamicamente. Dessa forma, e
 tempo de
 execução, à medida que se adicione um novo ingrediente, cria-se mais uma responsabilidade.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -698,12 +679,10 @@ Esse padrão provê um substituto ou ponto através do qual um objeto pode contr
 outro objeto.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-11
 
-117
+
 
 
 Esse padrão de projeto deve ser utilizado quando houver uma necessidade de uma
@@ -785,7 +764,7 @@ interruptor. Logo, o interruptortem sua interface encapsulada, logo pode ser uti
 em qualquer
 dispositivo que tenha uma interface Ligar/Desligar.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -854,7 +833,7 @@ comunicar com muitos outros objetos. Ademais, ele é utilizado quando um
 comportamento
 distribuído entre diversas classes puder ser customizado sem a criação de muitas subclasses.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -921,12 +900,10 @@ assumir
 quem são. Certinho?
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-15
 
-117
+
 
 
 Diego Carvalho
@@ -995,7 +972,7 @@ condicionais (if-
 else), mas isso pode sertrabalhoso em grandes quantidades. Uma boa estratégia seria
 encapsular
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1060,7 +1037,7 @@ alguns
 elementos, mas não se aplicam a outros, isto é, uma cerveja já possui um valor, mas uma maça
 precisa ser pesada. No entanto, ambas fazem parte da mesma estrutura de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Galera, vou ser bem sincero com vocês: esse assunto é muuuuuuuuuuuuito chato - e
@@ -1174,12 +1151,10 @@ Operação a ser realizada sobre uma estrutura de objetos...
 VISITOR
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-19
 
-117
+
 
 
 Diego Carvalho
@@ -1272,12 +1247,10 @@ de objetos
 uniformemente.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-20
 
-117
+
 
 
 Diego Carvalho
@@ -1386,12 +1359,10 @@ Esse padrão define o esqueleto de um algoritmo dentro de uma operação, deixan
 passos a serem preenchidos pelas subclasses.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-21
 
-117
+
 
 
 PAPPO&6 PÊ CRIAÇÃO
@@ -1423,12 +1394,10 @@ A PONTS APAPTAPAS COMPOSTA PS PSCORAÓÕSS NA FACHAPAPARA O PSSO MOSCA AO
 ©I PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-22
 
-117
+
 
 
 Diego Carvalho
@@ -1491,12 +1460,10 @@ saber
 como a operação é executada. Ele é usado para encapsular todos os detalhes de uma operação,
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-23
 
-117
+
 
 
 como parâmetros, contexto e estado, em um objeto. Isso permite que os
@@ -1561,7 +1528,7 @@ Comentários:
 Os padrões de projetos são descrições de objetos que se comunicam e classes que são customizadas
 para resolver um problema genérico em um contexto específico. Desse modo, de fato, os padrões
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1623,12 +1590,10 @@ Opa... eles valorizam o fraco/baixo acoplamento.
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-25
 
-117
+
 
 
 Item. 6. (CESPE / INPI - 2013) O padrão bridge, além de converter a interface de uma
@@ -1682,7 +1647,7 @@ a ela.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 SINGLETON Esse padrão garante que uma classe tenha apenas uma instância e provê um ponto de
@@ -1737,7 +1702,7 @@ mais indicado!
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 i2.(CESPE / TCE-RO - 2013) O uso do padrão Builder tem a vantagem de
@@ -1801,7 +1766,7 @@ Esse padrão evita 0 acoplamento do remetente de uma requisição ao seu recepto
 a
 mais de um objeto a chance de lidar com a requisição.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Evita o acoplamento entre solicitantes e atendentes? É Chain of Responsability!
@@ -1853,7 +1818,7 @@ forma definida, mas complexa.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Esse padrão define um objeto que encapsula a forma como um conjunto de objetos
@@ -1907,7 +1872,7 @@ classes quanto objetos.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1982,12 +1947,10 @@ oficial veio como verdadeiro.
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-31
 
-117
+
 
 
 24.(CESPE/TRT-RN-2oIo) OS padrões de projeto podem ser definidos como soluções já
@@ -2049,12 +2012,10 @@ conjunto de objetos não seja conhecido a priori ou seja definido dinamicamente.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-32
 
-117
+
 
 
 Diego Carvalho
@@ -2143,12 +2104,10 @@ necessidade
 de facilitar acréscimos de novos tipos de conversão, será mais indicado o uso do padrão de
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-33
 
-117
+
 
 
 estrutura Adapter que o uso do padrão de estrutura Bridge, pois o padrão Adapter
@@ -2209,7 +2168,7 @@ o fenômeno recorrente na análise que é a existência de muitas aplicações n
 um objeto
 que é a única instância de sua classe.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Comentários:
@@ -2278,12 +2237,10 @@ global a ela.
 Classe com apenas uma instância? Opa, isso é Singleton!
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-35
 
-117
+
 
 
 Gabarito: Correto
@@ -2349,12 +2306,10 @@ HTTP Response
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-36
 
-117
+
 
 
 Diego Carvalho
@@ -2431,12 +2386,10 @@ Família de classes/objetos? Opa, Abstract Factory!
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-37
 
-117
+
 
 
 39-(CESPE / DATAPREV - 2006) As seguintes situações justificam o uso do padrão
@@ -2495,7 +2448,7 @@ Variações de algoritmo? Strategy!
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 42.(CESPE / DATAPREV - 2006) Quanto aos padrões de projeto orientados a objetos, assinale a
@@ -2533,12 +2486,10 @@ trata-se do State.
 Gabarito: Letra A
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-39
 
-117
+
 
 
 QUESTõES CoMENTADAS - FCC
@@ -2602,12 +2553,10 @@ mas a FCC
 repete muito item! Vale muito a pena fazer muitas questões, de novo, e de novo ©
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-40
 
-117
+
 
 
 Item. 6. (FCC / TRT13 - 2014) Angela pretende utilizar alguns design patterns em seu
@@ -2666,12 +2615,10 @@ global
 a ela.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-41
 
-117
+
 
 
 II. Visa definir uma dependência um-para-muitos entre objetos para que quando um
@@ -2738,12 +2685,10 @@ interface única
 para varrer coleções diferentes.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-42
 
-117
+
 
 
 Os padrões descritos nos itens I, II e III são, respectivamente,
@@ -2807,12 +2752,10 @@ mesmo
 processo possa criar representações diferentes.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-43
 
-117
+
 
 
 Tratam, respectivamente, dos design patterns:
@@ -2870,12 +2813,10 @@ objetos, já
 que os objetos são a mais adequada abstração para o reúso.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-44
 
-117
+
 
 
 d) são aplicações propriamente ditas, normalmente construídas pela integração de
@@ -2939,12 +2880,10 @@ decidirem qual
 classe instanciar.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-45
 
-117
+
 
 
 (I) Na minha opinião, houve confusão da FCC! Factory Method fornece uma interface
@@ -3015,12 +2954,10 @@ Interpreter
 Template Method
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-46
 
-117
+
 
 
 (a) Errado. Factory Method e Prototype são Criacionais; (b) Errado. Todos são
@@ -3086,12 +3023,10 @@ independentemente.
 Correspondem respectivamente a:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-47
 
-117
+
 
 
 Diego Carvalho
@@ -3157,7 +3092,7 @@ complicados; (d) De novo, não! Padrões de Projeto não se limitam a orientaç�
 objetos; (e) É isso
 mesmo! Questão perfeita!
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 i6.(FCC / TJ-PI - 2009) Os padrões de projeto, quando aplicados ao desenvolvimento de
@@ -3221,12 +3156,10 @@ subsistema, definindo uma interface de alto nível que facilita a utilização d
 (II) Interface de nível mais alto? Trata-se do Façade.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-49
 
-117
+
 
 
 ITERATOR Esse padrão fornece uma maneira de acessar elementos de um
@@ -3260,12 +3193,10 @@ A associação entre classes e objetos é tratada por Padrões GoF Estruturais.
 Gabarito: Letra A
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-50
 
-117
+
 
 
 QUESTõES CoMENTADAS - FG V
@@ -3375,12 +3306,10 @@ tempo de
 execução.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-51
 
-117
+
 
 
 II. Apresenta como benefícios adicionais a especificação de novos objetos pela variação
@@ -3437,12 +3366,10 @@ e) I, lie III.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-52
 
-117
+
 
 
 (I) Correto, eles possuem um jargão próprio comum a todos: nome, problema,
@@ -3459,7 +3386,7 @@ padrões afim de padronizar e melhorar o desenvolvimento de software?
 
 Gabarito: Letra E
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3521,7 +3448,7 @@ e) somente o 5 não pertence a essa família especificamente.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3592,7 +3519,7 @@ Gama).
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3670,7 +3597,7 @@ a) garantir a existência de apenas uma instância de uma classe, mantendo um po
 global de
 acesso ao seu objeto.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 b) adicionar dinamicamente um comportamento a um objeto existente sem alterar o código
@@ -3728,12 +3655,10 @@ ADAPTER poderiam trabalhar juntas por serem incompatíveis.
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-57
 
-117
+
 
 
 9- (ESAF/ATRFB-2012) OS padrões de projeto (Design Patterns) são classificados nas categorias:
@@ -3800,12 +3725,10 @@ classe a
 ser instanciada.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-58
 
-117
+
 
 
 d) Fornece uma interface unificada para um conjunto de interfaces em um sistema.
@@ -3865,12 +3788,10 @@ categoria de padrões estruturais:
 a) Facade, Prototype e Proxy.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-59
 
-117
+
 
 
 b) Adapter, Composite e Proxy.
@@ -3940,12 +3861,10 @@ atualizados.
 Indique a opção que contenha todas as afirmações verdadeiras.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-60
 
-117
+
 
 
 a) I e III.
@@ -4009,12 +3928,10 @@ automaticamente.
 Gabarito: Letra D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-61
 
-117
+
 
 
 Diego Carvalho
@@ -4085,12 +4002,10 @@ aprendizado e a
 portabilidade das aplicações.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-62
 
-117
+
 
 
 Item. 6. (CESPE / INPI - 2013) O padrão bridge, além de converter a interface de uma
@@ -4154,7 +4069,7 @@ Item. 16. (CESPE / MPOG - 2013) Padrões de projeto envolvem combinações de cl
 algoritmos
 associados que cumprem com propósitos comuns de projeto.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 17. (CESPE / MPE-PI - 2012) O padrão de projeto conhecido como façade é indicado
@@ -4220,12 +4135,10 @@ em que o
 conjunto de objetos não seja conhecido a priori ou seja definido dinamicamente.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-64
 
-117
+
 
 
 28.(CESPE / TCU - 2009) No desenvolvimento de um sistema estruturado em subsistemas
@@ -4296,12 +4209,10 @@ proposta pelo
 GoF (Gang of Four) book, o nome dado ao módulo F sugere que esse módulo implementa um
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-65
 
-117
+
 
 
 padrão da categoria comportamental, enquanto
@@ -4375,12 +4286,10 @@ enunciados
 condicionais pois a classe tem comportamentos variados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-66
 
-117
+
 
 
 42.(CESPE / DATAPREV - 2006) Quanto aos padrões de projeto orientados a objetos, assinale a
@@ -4409,14 +4318,14 @@ execução
 e depende do seu estado; as operações têm múltiplos enunciados condicionais que dependem
 do estado do objeto.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4518,7 +4427,7 @@ Item. 46. CORRETO
 
 Item. 47. LETRA A
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 QUESTõES CoMENTADAS - FCC
@@ -4583,7 +4492,7 @@ Está correto o que consta APENAS em
 
 a) I e II.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 b) I e III.
@@ -4654,7 +4563,7 @@ a) Adapter, Facade e Strategy.
 
 b) Prototype, Composite e Command.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 c) Abstract Factory, Observere Iterator.
@@ -4716,7 +4625,7 @@ modelar padrões de projeto representando-os como colaborações.
 
 Item. 8. (FCC/TRT24-2011) Considere:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 I. Fornecer uma interface para criação de famílias de objetos relacionados ou
@@ -4781,7 +4690,7 @@ Correspondem respectivamente a:
 
 a) Façade e Bridge.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 b) Adapter e Façade.
@@ -4846,7 +4755,7 @@ objetos e à alta coesão, uma vez que objetos fazem tudo que é relacionado à 
 própria
 informação.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 As afirmações correspondem, respectivamente, aos padrões
@@ -4874,7 +4783,7 @@ d) GoF de Criação.
 
 e) GoF Comportamentais.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4911,7 +4820,7 @@ Item. 13. LETRA D
 
 Item. 14. LETRA A
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 QUESTõES CoMENTADAS - FC V
@@ -4973,7 +4882,7 @@ II. Padrões de projeto auxiliam no desenvolvimento de software por meio da
 reutilização do
 projeto de soluções computacionais já testadas e aprovadas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 III. Uma biblioteca de padrões pode ajudar a melhorar e padronizar o
@@ -4992,7 +4901,7 @@ d) somente II e III.
 
 e) I, lie III.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5007,14 +4916,14 @@ Item. 2. LETRA E
 
 Item. 3. LETRA E
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5075,7 +4984,7 @@ e) somente o 5 não pertence a essa família especificamente.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5146,7 +5055,7 @@ Gama).
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5224,7 +5133,7 @@ a) garantir a existência de apenas uma instância de uma classe, mantendo um po
 global de
 acesso ao seu objeto.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 b) adicionar dinamicamente um comportamento a um objeto existente sem alterar o código
@@ -5282,12 +5191,10 @@ ADAPTER poderiam trabalhar juntas por serem incompatíveis.
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-84
 
-117
+
 
 
 Item. 6. (ESAF/ATRFB-2012) OS padrões de projeto (Design Patterns) são classificados nas categorias:
@@ -5355,12 +5262,10 @@ classe a
 ser instanciada.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-85
 
-117
+
 
 
 d) Fornece uma interface unificada para um conjunto de interfaces em um sistema.
@@ -5420,12 +5325,10 @@ categoria de padrões estruturais:
 a) Facade, Prototype e Proxy.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-86
 
-117
+
 
 
 b) Adapter, Composite e Proxy.
@@ -5495,12 +5398,10 @@ atualizados.
 Indique a opção que contenha todas as afirmações verdadeiras.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-87
 
-117
+
 
 
 a) I e III.
@@ -5564,12 +5465,10 @@ automaticamente.
 Gabarito: Letra D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-88
 
-117
+
 
 
 Diego Carvalho
@@ -5596,7 +5495,7 @@ Item. 8. LETRAB
 
 Item. 9. LETRAD
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5668,12 +5567,10 @@ CoJRJKIÇ FRoTEonet?
 *
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-90
 
-117
+
 
 
 ■ Expert:
@@ -5745,7 +5642,7 @@ outras palavras, ela atribui um conjunto altamente coesivo de responsabilidade
 a uma classe
 artificial que não representa um conceito do domínio do problema.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5775,12 +5672,10 @@ instabilidade
 em uma interface e usando o polimorfismo para criar várias implementações desta interface.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-92
 
-117
+
 
 
 Diego Carvalho
@@ -5849,12 +5744,10 @@ informação necessária para satisfazer essa responsabilidade.
 Conforme vimos em aula, a questão trata do Padrão Expert! Gabarito: E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-93
 
-117
+
 
 
 Diego Carvalho
@@ -5930,12 +5823,10 @@ Padrões
 Básicos são: Information Expert, Creator, High Cohesion, Low Coupling e Controller. Já os Padrões
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-94
 
-117
+
 
 
 Diego Carvalho
@@ -6009,12 +5900,10 @@ responsabilidades a classes e objetos em implementações orientadas a objetos. 
 principais exemplos de padrões GRASP são: Information Expert, Creator, Visitor,
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-95
 
-117
+
 
 
 Diego Carvalho
@@ -6083,12 +5972,10 @@ que o
 padrão Low Coupling.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-96
 
-117
+
 
 
 Comentários:
@@ -6126,7 +6013,7 @@ trata da dependência entre partes/componentes. A questão trata do segudo caso:
 Acoplamento.
 Gabarito: E
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - GRASP - MULTIBANCAS
@@ -6193,7 +6080,7 @@ Controller, Iterator, Low Coupling, High Cohesion, Polymorphism, State, Strategy
 Pure
 Fabrication, Indirection, Proxy e Protected Variations.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 10. (CESPE - 2014 - SUFRAMA - Analista de Sistemas) Enquanto os padrões GRASP refletem
@@ -6218,12 +6105,10 @@ outras
 classes.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-99
 
-117
+
 
 
 Diego Carvalho
@@ -6246,7 +6131,7 @@ Item. 11. E
 Item. 4. E 8. E
 Item. 12. E
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6294,7 +6179,7 @@ software para facilitar o dimensionamento e a manutenção. Veja bem, alguns
 desses princípios
 podem parecer semelhantes, mas não visam o mesmo objetivo. Para simplificar o
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 acompanhamento, usarei a palavra "Classe", mas observe que ela também pode se aplicar
@@ -6337,12 +6222,10 @@ motorista - o ideal é que tivéssemos um robô para cada uma dessas responsabil
 Aberto-Fechado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-102
 
-117
+
 
 
 CLASSES DEVEM SER ABERTAS PARA EXTENSÃO, MAS FECHADAS PARA MODIFICAÇÃO
@@ -6370,12 +6253,10 @@ que cortava, foi estendido e agora aprendeu também a pintar.
 Substituição de Liskov
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-103
 
-117
+
 
 
 Hi, Tm Sam.
@@ -6413,12 +6294,10 @@ café (pode ser qualquer tipo de café). É aceitável que a classe-filha entreg
 um
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-104
 
-117
+
 
 
 Diego Carvalho
@@ -6464,7 +6343,7 @@ temos uma divisão de ações: ações para robôs que podem girar; ações para
 podem rodar
 os braços; e ações para robôs que podem balançar as antenas. Logo, nenhum robô possui uma
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6507,7 +6386,7 @@ ação. Em vez disso, ele deve ser fundido à interface que permitirá que a fer
 se conecte à
 classe. Também diz que tanto a classe quanto a interface não devem saber como a ferramenta
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 funciona. No entanto, a ferramenta precisa atender à especificação da interface. O
@@ -6582,12 +6461,10 @@ Coesão
 Acoplamento
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-107
 
-117
+
 
 
 Diego Carvalho
@@ -6653,14 +6530,12 @@ Os Princípios SOLID são:
 Gabarito: Errado
 
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+0 0 
 
 www- estratégia concursos. com.br
 
 
-108
 
-117
 
 
 3- (AOCP / PRODEB - 2018) Com base no modelo SOLID utilizado como
@@ -6727,12 +6602,10 @@ principie) - I
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-109
 
-117
+
 
 
 Ele é composto por 05 princípios de acordo com as suas iniciais, sendo eles:
@@ -6794,12 +6667,10 @@ extensões, mas
 fechada para modificações - a questão inverteu os conceitos; (III) Correto.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-110
 
-117
+
 
 
 7- (FCC / TRE-PR - 2017) Os princípios SOLID reúnem cinco boas práticas
@@ -6863,12 +6734,10 @@ tem diversas
 responsabilidades.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-111
 
-117
+
 
 
 Diego Carvalho
@@ -6929,7 +6798,7 @@ computacional de sólidos tridimensionais.
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -7001,7 +6870,7 @@ b) S (Solid principie) - O (Open principie) - L (Library principie) -1 (Integrat
 principie) - D
 (Double principie).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 c) S (Security closed principie) - O (Open extend principie) - L (Liskov include
@@ -7067,12 +6936,10 @@ public void CadastrarMesarios() { }
 Com base no princípio SRP e nas boas práticas para projetos 00, é correto afirmar:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-114
 
-117
+
 
 
 a) O SRP visa aumentar o acoplamento entre classes e separar responsabilidades como
@@ -7126,12 +6993,10 @@ distingue-se das áreas relacionadas de modelagem geométrica e computação gr�
 ênfase na fidelidade física.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-115
 
-117
+
 
 
 Diego Carvalho
@@ -7156,7 +7021,7 @@ Item. 7. LETRA D
 
 Item. 8. LETRA B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

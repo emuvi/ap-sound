@@ -21,48 +21,35 @@ Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-índice
+Índice
 
 1) Arquitetura de Software
-3
 
 2) Arquitetura de Software - Coesão e Acoplamento
-6
 
 3) Arquitetura de Software - Arquitetura em Camadas.
-8
 
 4) Arquitetura de Software - Arquitetura MVC
-13
 
 5) Arquitetura de Software - Arquitetura Distribuída
-18
 
 6) Resumo - Arquitetura de Software
-22
 
 7) Questões Comentadas - Arquitetura de Software - CESPE
-26
 
 8) Questões Comentadas - Arquitetura de Software - FCC
-51
 
 9) Questões Comentadas - Arquitetura de Software - Diversas.
-64
 
 10) Lista de Questões - Arquitetura de Software - CESPE
-68
 
 11) Lista de Questões - Arquitetura de Software - FCC
-78
 
 12) Lista de Questões - Arquitetura de Software - Diversas.
-87
 
 13) Arquitetura Hexagonal
-92
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Conceitos Básicos
@@ -129,7 +116,7 @@ rede de clientes e servidores. As propriedades dos componentes são aquelas
 características
 necessárias para o entendimento de como eles interagem com outros componentes.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 No nível da arquitetura, propriedades internas (por exemplo, detalhes de um algoritmo)
@@ -203,7 +190,7 @@ Esse assunto é polêmico e já caiu em prova, portanto vocês devem ter atenç�
 acredito que
 isso seja suficiente para posteriormente entender melhor cada arquitetura.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -220,11 +207,9 @@ distribuída, uma arquitetura mainframe ou uma arquitetura orientada a serviços
 cada sistema tenha uma arquitetura
 baseada em seus requisitos, elas não são t otal mente específicas (Errado).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-5
 
 
-99
+
 
 
 Coesão e Acoplamento
@@ -276,11 +261,9 @@ escopo de outro módulo.
 
 Ocorre quando um conjunto de módulos acessa uma área global de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-6
 
 
-99
+
 
 
 Diego Carvalho
@@ -352,7 +335,7 @@ Conforme as classes (e os componentes) se tornam mais interdependentes, o
 acoplamento
 aumenta - a ideia é tentar manter o acoplamento o mais baixo possível...
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -426,7 +409,7 @@ clientes talvez precisem saber os nomes dos servidores e os serviços que eles
 fornecem, mas os
 servidores não precisam saber sobre os clientes.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Eles acessam os serviços pelo servidor por meio de chamadas remotas de procedimento
@@ -497,7 +480,7 @@ As arquiteturas cliente-servidor de duas camadas podem ter duas formas:
 Cliente-Magro ou
 Cliente-Gordo. Como é isso, professor?
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 CLIENTE CLIENTE
@@ -560,7 +543,7 @@ de computadores que executem código de apresentação sofisticado (e, possivelm
 lógica do
 aplicativo).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Sistemas Cliente-Servidor em duas camadas foram dominantes durante aproximadamente
@@ -638,7 +621,7 @@ indiferentemente, eles não são iguais: Layers são camadas lógicas, isto é, 
 três layers em uma única máquina e os Tiers são camadas
 físicas, isto é, pode haver apenas um tier por máquina. Entenderam? ;)
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 próprio computadorcom um browseré o cliente. Esse sistema é escalonável, pois é
@@ -711,7 +694,7 @@ regra de negócio correspondente no Servidor de Aplicação (Camada de Aplicaç�
 procura os
 dados no banco de dados (Camada de Dados).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Arquitetura MVC
@@ -747,7 +730,7 @@ Visão e pela coordenação entre atualizações no modelo e interações com o 
 feita através
 do Controlador.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Durante a década de setenta, surgiu a necessidade de criação de uma arquitetura para
@@ -814,7 +797,7 @@ posso utilizar um JavaScript para fazer algumas validações
 de dados, mas isso é inseguro e se trata de uma violação do modelo. Logo, aceitem que validações
 ocorrem na camada de modelo.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Um controlador define o comportamento da aplicação, interpretando as ações do
@@ -877,7 +860,7 @@ também pode manipular diretamente o Modelo. Finalmente, o Modelo pode reagir
 diretamente
 tanto à Visão quanto ao Controle, mas também pode gerar eventos a serem tratados pela visão.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Essa última sentença é extremamente polêmica - vocês encontrarão muitos lugares dizendo
@@ -903,7 +886,7 @@ Para quem quiser conhecer melhor, recomendo os seguintes artigos:
 
 ■ http://tableless.com.br/mvc-afinal-e-o-que
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Por fim, não podemos confundir MVC com MVP (Model-View-Presenter). O O MVP
@@ -947,11 +930,9 @@ mais adequado para uma visão específica (ou mais que uma). Pessoal, acredito q
 basta em
 relação a esses assuntos que só recentemente começaram a ser cobrados.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-17
 
 
-99
+
 
 
 Arquitetura Distribuída
@@ -1019,7 +1000,7 @@ Para comunicação entre máquinas, esse hardware pode utilizar SNA ou TCP/IP em
 ou
 Token Ring. A imagem seguinte apresenta uma possível arquitetura distribuída descentralizada:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Esse sistema contém duas LANs conectadas entre si. Uma consiste em estações de
@@ -1069,7 +1050,7 @@ se existem protocolos, arquiteturas, sistemas operacionais ou bancos de dados
 diferentes. Ele
 provê um modo para obter dados de um lugar para outro.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Além disso, é capaz de mascarar diferenças existentes entre sistemas
@@ -1142,7 +1123,7 @@ implementa a interface remota). Já o dispatcherfaz parte do arcabouço para rec
 invocações
 remotas e chamar o skeleton certo.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1159,7 +1140,7 @@ dados e tudo o que o cliente precisar, é acessado pelo Skeleton, que recebe os
 resultados e faz todo
 o caminho de volta.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1236,11 +1217,9 @@ Ocorre quando um componente se comunica ou colabora com componentes de
 infraestrutura. Embora seja necessário, deve-se limitar a um pequeno número de
 componentes em um sistema.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-22
 
 
-99
+
 
 
 O
@@ -1427,11 +1406,8 @@ Também chamada de Camada de Interface, possui classes que contêm funcionalidad
 visualização dos dados pelos usuários. Ela tem o objetivo de exibir informações ao usuário
 e
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-24
 
-1
-99
+
 
 
 Diego Carvalho
@@ -1478,11 +1454,9 @@ Essa camada é responsável por intermediar as requisições enviadas pelo View 
 respostas fornecidas pelo Model, processando os dados que o usuário informou e repassar
 para outras camadas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-25
 
 
-99
+
 
 
 Diego Carvalho
@@ -1546,7 +1520,7 @@ Item. 4. (CESPE/TJ-RJ - 2021) Na arquitetura MVC (Model-View-Controller), asfunc
 cada
 segmento são mais bem descritas como:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) o modelo encapsula as funcionalidades; o view gerencia as requisições dos
@@ -1590,7 +1564,7 @@ i
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 5- (CESPE / TJ-RJ - 2021) Em um ambiente cliente/servidor, a arquitetura que permite
@@ -1654,11 +1628,9 @@ afete outras partes do sistema.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-28
 
 
-99
+
 
 
 Diego Carvalho
@@ -1726,11 +1698,9 @@ aplicações.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-29
 
 
-99
+
 
 
 Item. 9. (CESPE / STJ - 2015) Na arquitetura em camadas MVC (modelo-visão-controlador), o
@@ -1774,7 +1744,7 @@ e seleciona o comportamento do modelo.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 I
@@ -1801,7 +1771,7 @@ modelo.
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 13. (CESPE / ANTAQ - 2014) O modelo MVC é um padrão de arquitetura que consiste na
@@ -1856,7 +1826,7 @@ overhead. No entanto, há casos em que isso não é válido! Portanto, essa ques
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 ■l-j. (CESPE / STF-2013) Cada camada tem comunicação (interface) com todas as demais
@@ -1912,11 +1882,9 @@ manutenção em todas as máquinas clientes.
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-33
 
 
-99
+
 
 
 2i. (CESPE / BACEN -2013) MVC (Model-View-Controller) é um modelo de arquitetura de
@@ -1967,7 +1935,7 @@ Acoplamento? Não! Na verdade, é a coesão!
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 25-(CESPE / CET - 2011) No padrão de desenvolvimento modelo-visualização-controlador
@@ -2022,11 +1990,9 @@ utilizado apenas em interfaces gráficas em função de sua arquitetura de compo
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-35
 
 
-99
+
 
 
 Quando ela começou nem existiam aplicações web. Ele é usado primariamente em
@@ -2079,7 +2045,7 @@ Na verdade, a questão trata de um serviço!
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 34-(CESPE / MEC - 2011) A arquitetura cliente/servidor proporciona a
@@ -2138,7 +2104,7 @@ b) Os componentes ou os módulos devem apresentar baixa coesão e um alto
 grau de
 acoplamento.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 c) Os componentes ou os módulos devem serfortemente coesos e fracamente acoplados.
@@ -2196,7 +2162,7 @@ aumento na manutenção da aplicação, pois alterações na camada de dados, po
 exemplo,
 acarretam mudanças em todas as demais camadas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2255,7 +2221,7 @@ está certa em afirmar que uma máquina pode ser cliente em uma aplicação e se
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 44-(CESPE I EMBASA - 2010) O MVC promove a estrita separação de responsabilidades
@@ -2306,7 +2272,7 @@ Comentários:
 
 Perfeito! Ela realmente permite o desenvolvimento de aplicações em três camadas para a web.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2361,7 +2327,7 @@ de conexões diferentes.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Na verdade, é necessário diversos drivers de conexões diferentes para acessar às bases de dados
@@ -2418,7 +2384,7 @@ aplicações interativas, uma aplicação é organizada em três módulos separa
 Um para o
 modelo de aplicação com a representação de dados e lógica do negócio, o segundo com visões
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 que fornecem apresentação dos dados e input do usuário e o terceiro para um
@@ -2479,7 +2445,7 @@ programação conveniente para os programadores de aplicativos. Como exemplos
 de
 middlewares é correto citar: Sun RPC, CORBA, RMI Java e DCOM da Microsoft.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2543,7 +2509,7 @@ envolvida na manutenção e apresentação dos dados de uma aplicação web.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2605,11 +2571,9 @@ tipicamente em três
 camadas. A arquitetura MVC aumenta o escopo do desenvolvimento para, no máximo, quatro
 camadas, sendo a quarta camada o processamento dos dados do usuário.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-45
 
 
-99
+
 
 
 Diego Carvalho
@@ -2673,7 +2637,7 @@ requisição da entidade iniciadora.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 7i.(CESPE / DATAPREV - 2006) Uma arquitetura cliente/servidor caracteriza-se pela
@@ -2731,7 +2695,7 @@ modificações que mantém um registro dos componentes que dependem do modelo.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Mudanças em um modelo podem modificar as visões que dependem desse modelo, gerando uma
@@ -2781,7 +2745,7 @@ estejam na mesma máquina.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Na verdade, mesmo que essas camadas estejam na mesma máquina, uma alteração na camada
@@ -2835,18 +2799,16 @@ sejam executadas as funcionalidades esperadas, não há necessidade de uma inter
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-49
 
 
-99
+
 
 
 Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2894,7 +2856,6 @@ public int pensaoAlimenticia(){
 
 return Util.getFuncoes.getFuncoesData.calculaPensao(processo);
 
-1
 
 Trecho 2:
 
@@ -2912,7 +2873,7 @@ a) baixo acoplamento e o trecho 2 o corrige para alto acoplamento.
 
 b) alta coesão e o trecho 2 o corrige para baixa coesão.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 c) alto acoplamento e o trecho 2 o corrige para baixo acoplamento.
@@ -2971,11 +2932,9 @@ e) na arquitetura de 2 camadas não há necessidade de uso de um sistema gerenci
 bancos
 de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-52
 
 
-99
+
 
 
 Diego Carvalho
@@ -3037,7 +2996,7 @@ d) tem, como camada intermediária, o depósito de dados, também chamado de rep
 ou
 quadro-negro.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 e) tem, na camada mais externa, os componentes que realizam a interface com o
@@ -3099,11 +3058,9 @@ diferença entre a Arquitetura em 4 Camadas e 3 Camadas é que a Apresentação 
 mais no
 cliente e, sim, na Camada Web. (III) Errado. Imagino que o middleware à que a questão se refere é
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-54
 
 
-99
+
 
 
 Diego Carvalho
@@ -3167,7 +3124,7 @@ e) View e Business.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Páginas HTML são representadas na View; classes com métodos que acessam o banco de
@@ -3230,11 +3187,9 @@ d) (I) Controller; (II) View; (III) Model;
 
 e) (I) Model; (II) View; (III) Controller;
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-56
 
 
-99
+
 
 
 Diego Carvalho
@@ -3298,7 +3253,7 @@ Gabarito: Letra B
 
 Item. 13. (FCC / MPE-PE - 2012) O componente Controller do MVC:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) Define o comportamento da aplicação, as ações do usuário para atualizar os
@@ -3354,11 +3309,9 @@ de usuário a partir da visão e a visão encapsula funcionalidades e objetos de
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-58
 
 
-99
+
 
 
 O Controlador processa e responde a eventos e invoca alterações ao modelo, o modelo
@@ -3421,7 +3374,7 @@ c) Apresentação, Negócio e Alteração.
 
 d) Manipulação, Natureza e Acesso a Dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 e) Manipulação, Negócio e Acesso a Dados.
@@ -3478,11 +3431,9 @@ e) Em aplicações web desenvolvidas com Java as servlets são representadas na 
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-60
 
 
-99
+
 
 
 (a) Errado, fica na Camada de Modelo; (b) Errado, quase tudo correto, mas as ações
@@ -3545,7 +3496,7 @@ Item. 22. (FCC /TRT-MA-2009) Considere as funções:
 
 I. Seleção do comportamento do modelo.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 II. Encapsulamento dos objetos de conteúdo.
@@ -3608,11 +3559,9 @@ d) a apresentação, os componentes virtuais e a seqüência de execução.
 
 e) a apresentação, as regras de negócio e o armazenamento de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-62
 
 
-99
+
 
 
 Diego Carvalho
@@ -3626,11 +3575,9 @@ de Dados.
 
 Gabarito: Letra E
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-63
 
 
-99
+
 
 
 Diego Carvalho
@@ -3693,7 +3640,7 @@ b) implementar o padrão de projeto Observer na ligação entre dados (ViewModel
 
 c) ligar diretamente as classes de tela (view) e dados (Model) dentro da estrutura do projeto.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 d) vincular a realização de atualizações de tela (view) à atualização de dados (ViewModel).
@@ -3752,11 +3699,9 @@ fornecendo diversas visões diferentes para um mesmo modelo de dados.
 
 Gabarito: Letra A
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-65
 
 
-99
+
 
 
 Diego Carvalho
@@ -3825,7 +3770,7 @@ Item. 8. (ESAF/CGU-2012) A definição de que um sistema deve ser desenvolvido e
 níveis é feita
 pelo padrão de projeto:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3866,7 +3811,7 @@ A questão trata do Modelo-View-Controlador.
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - CESPE
@@ -3929,7 +3874,7 @@ Item. 6. (CESPE / TELEBRÁS - 2021) Na arquitetura de software, a arquitetura
 cliente/servidor tem
 como vantagem uma maior facilidade de manutenção e segurança dos dados, e como
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3997,11 +3942,9 @@ Item. 13. (CESPE / ANTAQ - 2014) O modelo MVC é um padrão de arquitetura que c
 definição
 de camadas para a construção de softwares.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-69
 
 
-99
+
 
 
 Item. 14. (CESPE/ANTAQ-2014) O controllertem a responsabilidade de armazenar e buscar
@@ -4068,11 +4011,9 @@ o controlador é o elemento responsável pela interpretação dos dados de
 entrada e pela
 manipulação do modelo, de acordo com esses dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-70
 
 
-99
+
 
 
 Item. 26. (CESPE / MEC - 2011) O modelo MVC pode ser usado para construir a arquitetura
@@ -4135,7 +4076,7 @@ segmentação de um sistema em módulos ou em componentes foi eficiente. Acerca 
 aplicação
 desses princípios, assinale a opção correta.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) O baixo acoplamento pode melhorar a manutebilidade dos sistemas, pois ele está
@@ -4199,7 +4140,7 @@ Item. 45. (CESPE / EMBASA - 2010) No MVC, a visão é responsável pela manuten�
 da
 aplicação.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 46. (CESPE / EMBASA - 2010) O modelo no MVC tem como atribuição exibir a parte que
@@ -4263,7 +4204,7 @@ que fornecem apresentação dos dados e input do usuário e o terceiro para um
 controlador que
 despacha pedidos e controle de fluxo.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 58. (CESPE/ANATEL-2oog) Uma das vantagens da arquitetura distribuída é o
@@ -4333,7 +4274,7 @@ Item. 66. (CESPE / TJ-CE - 2008) A arquitetura MVC não separa a informação de
 apresentação,
 porque, em sistemas web, informação e apresentação estão na mesma camada.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 67. (CESPE / TJ-CE - 2008) O desenvolvimento de sistemas web ocorre
@@ -4404,7 +4345,7 @@ processamento é
 concentrado nos clientes e o armazenamento concentrado no servidor, observa-se uma baixa
 carga de tráfego na rede.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 76. (CESPE / SERPRO - 2004) Uma das vantagens da arquitetura cliente-servidor é que
@@ -4439,7 +4380,7 @@ Item. 82. (CESPE / TRE-RS - 2003) Do ponto de vista das funcionalidades de usuá
 servidor não
 precisa necessariamente de uma interface de usuário.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4530,7 +4471,7 @@ Item. 38. ERRADO 78. ERRADO
 
 Item. 40. ERRADO 80. CORRETO
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - FCC
@@ -4557,7 +4498,6 @@ public int pensaoAlimenticia(){
 
 return Util.getFuncoes.getFuncoesData.calculaPensao(processo);
 
-1
 
 Trecho 2:
 
@@ -4593,7 +4533,7 @@ Item. 4. (FCC / CNMP - 2015) Há algumas variantes possíveis de arquitetura a s
 utilizadas em um
 sistema de bancos de dados. Sobre essas variantes, é correto afirmar que:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) na arquitetura de 3 camadas, não há uma camada específica para a aplicação.
@@ -4653,7 +4593,7 @@ e) tem, na camada mais externa, os componentes que realizam a interface com o
 sistema
 operacional.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 7- (FCC / TRF2 - 2012) São aspectos que podem caracterizar uma arquitetura
@@ -4715,7 +4655,7 @@ pattern MVC,
 as páginas HTML e as classes com métodos que acessam o banco de dados e executam
 instruções SQL são representadas, respectivamente, nos componentes:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) Presentation e Business.
@@ -4781,7 +4721,7 @@ Item. 12. (FCC / TJ-PE - 2012) Com relação à arquitetura MVC, considere:
 I. O MODEL representa os dados da empresa e as regras de negócio que governam o acesso e
 atualização destes dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 II. O VIEW acessa os dados da empresa através do MODEL e especifica como esses dados devem
@@ -4840,11 +4780,8 @@ c) encapsula funcionalidades e objetos de conteúdo, o modelo renderiza a interf
 usuário
 a partir da visão e a visão processa e responde a eventos e invoca alterações ao controlador.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-82
 
-1
-99
+
 
 
 d) processa e responde a eventos e invoca alterações ao modelo, o modelo
@@ -4914,7 +4851,7 @@ d) Apresentação, Natureza e Acesso a Dados.
 
 e) Apresentação, Negócio e Acesso a Dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 ig.(FCC / AL-SP - 2010) Sobre as camadas do modelo de arquitetura MVC
@@ -4978,7 +4915,7 @@ III. Requisição das atualizações do modelo.
 
 Na arquitetura Model-View-Control - MVC, essas funções correspondem, respectivamente, a:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) Model, View e Control.
@@ -5017,7 +4954,7 @@ d) a apresentação, os componentes virtuais e a seqüência de execução.
 
 e) a apresentação, as regras de negócio e o armazenamento de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5050,7 +4987,7 @@ Item. 22. LETRA D
 Item. 8. LETRA A i6. LETRA A
 24- LETRA E
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
@@ -5115,7 +5052,7 @@ d) MDC (Model-Data-Controller)
 
 e) UVB (User-View-Business).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 5- (CESGRANRIO / CEFET-RJ - 2014) No contexto da Arquitetura de Sistemas, o MVC
@@ -5184,7 +5121,7 @@ e) MCA (Model Classes Assignment).
 
 Item. 9. (ESAF / CVM - 2010) Modelo MVC significa:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5201,7 +5138,7 @@ d) Módulo-Verificador-Controlador.
 
 e) Medida-Virtual-Concepção.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5219,14 +5156,14 @@ Item. 8. LETRA A
 3- LETRA B 6. LETRA B
 9- LETRA B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5293,7 +5230,7 @@ Na arquitetura hexagonal, materializamos as decisões de tecnologia por meio de
 adaptadores. O
 diagrama a seguir fornece uma visão de alto nível da arquitetura:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5342,7 +5279,7 @@ Esse é o caso de novos projetos de software em que nem os desenvolvedores nem o
 especialistas
 do domínio têm uma visão clara do objetivo do sistema em seus estágios iniciais.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5413,11 +5350,9 @@ tratamento de dados para produzir tais resultados. Seu software precisaria
 capturar alguma
 entrada do usuário para consultar os tipos de roteador. Você pode querer usar uma regra de
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-94
 
 
-99
+
 
 
 Diego Carvalho
@@ -5472,11 +5407,9 @@ ser apenas outros aplicativos em um grande ecossistema que precisam interagir
 com alguns
 recursos de software expostos.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-95
 
 
-99
+
 
 
 Diego Carvalho
@@ -5510,7 +5443,7 @@ tarefas específicas da aplicação. Cabe ao adaptador de saída descrever como 
 dados.
 Vejam um diagrama de adaptadores de saída e Operações Driven:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5578,7 +5511,7 @@ menos tentar.
 
 Testabilidade
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Um dos objetivos finais da arquitetura hexagonal é permitir que os
@@ -5616,11 +5549,9 @@ Ela também torna mais fácil a substituição de infra estruturas ou tecnologia
 não há dependências entre o domínio e a
 infraestrutura, resultando em um código de domínio de alta qualidade e portabilidade (Correto).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-98
 
 
-99
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

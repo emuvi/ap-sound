@@ -20,49 +20,36 @@ Evandro Dalla Vecchia Pereira
 Evandro Dalla Vecchia Pereira
 Aula única (Prof. Evandro)
 
-índice
+Índice
 
 1) Sistemas Distribuídos - Teoria
-3
 
 2) Servidores de Aplicação JBoss Wildfly - Teoria
-12
 
 3) Sistemas Distribuídos - Questões Comentadas - Multibancas.
-20
 
 4) Servidores de Aplicação JBoss Wildfly - Questões Comentadas - Multibancas.
-29
 
 5) Sistemas Distribuídos - Lista de Questões - Multibancas.
-35
 
 6) Servidores de Aplicação JBoss Wildfly - Lista de Questões - Multibancas.
-40
 
 7) Servidores Web - Apache - Teoria
-43
 
 8) Servidores Web -1IS - Teoria
-48
 
 9) Servidores Web - Apache - Questões Comentadas - Multibancas.
-52
 
 10) Servidores Web - IIS - Questões Comentadas - Multibancas.
-59
 
 11) Servidores Web - Apache - Lista de Questões - Multibancas.
-64
 
 12) Servidores Web - IIS - Lista de Questões - Multibancas.
-68
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Somente 2
 
 www.estrategiaconcursos.com.br
-72
 
 /
 
@@ -133,7 +120,7 @@ localização.
 Relocação Oculta que um recurso pode ser movido para outra
 localização enquanto em uso.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Semente 3
 
 www.estrategiaconcursos.com.br
@@ -178,7 +165,7 @@ Internet:
 
 Computação em Nuvem:
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 4
 
 www.estrategiaconcursos.com.br
@@ -256,7 +243,7 @@ processamento responsável pelo processamento da tarefa. Portanto, trata-se
 de um dos
 componentes mais importantes, o qual utiliza um algoritmo de escalonamento.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 5
 
 www.estrategiaconcursos.com.br
@@ -319,7 +306,7 @@ crescimento significativo no número de recursos e no número de clientes;
 RISC, CISC), sistemas operacionais diferentes (Windows, Linux etc.) devem ser integrados
 no mesmo sistema distribuído.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 6
 
 www.estrategiaconcursos.com.br
@@ -396,7 +383,7 @@ Vamos ver algumas plataformas que dão suporte aos sistemas e aplicações distr
 
 * Biztalk: Enterprise integration broker da Microsoft;
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 7
 
 www.estrategiaconcursos.com.br
@@ -462,7 +449,7 @@ remover máquinas para reparos sem interromper a aplicação;
 
 * existência de opções de softwares sem custos de licenciamento para cluster.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 8
 
 www.estrategiaconcursos.com.br
@@ -520,7 +507,7 @@ extraterrestre (já vimos nesta aula). Não há um requisito de alta disponibili
 equipamentos
 e a localização dos equipamentos é transparente para os usuários.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 9
 
 www.estrategiaconcursos.com.br
@@ -566,7 +553,7 @@ Gabarito: Correta :
 ;■2. (CESPE/TRE-PE - 2015) Os sistemas operacionais têm rotinas que não são executadas de forma ;I
 linear, masz sim, concorrentemente, em função de eventos assíncronos.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 10
 
 www.estrategiaconcursos.com.br
@@ -594,7 +581,7 @@ i correta.
 ■
 Gabarito: Correta ■
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 11
 
 www.estrategiaconcursos.com.br
@@ -659,11 +646,10 @@ essencial como uma camada oculta de tradução. Permite a comunicação e o gere
 aplicativos
 distribuídos.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 12
 
 www.estrategiaconcursos.com.br
-72
 
 
 Evandro Dalla Vecchia Pereira
@@ -720,7 +706,7 @@ servidor. Ele não lida
 diretamente com a carga de aplicações no servidor, sendo responsável por iniciar e
 terminar os
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 13
 
 www.estrategiaconcursos.com.br
@@ -782,7 +768,7 @@ ou reiniciar o servidor. Duas bibliotecas iguais de versões diferentes podem co
 no mesmo
 servidor.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 14
 
 www.estrategiaconcursos.com.br
@@ -852,7 +838,7 @@ Controller e o Domain Controller. Dando continuidade, agora vamos criar os perfi
 o domain
 controler (master) e para os host controllers (slave), baseados no modo Domain e renomeá-los:
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 15
 
 www.estrategiaconcursos.com.br
@@ -956,7 +942,7 @@ o sistema
 operacional específico que o suporta. Antes do componente ser executado no servidor,
 ele precisa
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 16
 
 www.estrategiaconcursos.com.br
@@ -1030,7 +1016,7 @@ caminhos (paths) padrão:
 trabalho de uma
 instância em um domínio gerenciado.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 17
 
 www.estrategiaconcursos.com.br
@@ -1132,7 +1118,7 @@ Portanto, a alternativa A está correta e é o gabarito da questão.
 
 Gabarito: Letra A
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 19
 
 www.estrategiaconcursos.com.br
@@ -1198,7 +1184,7 @@ servidor onde será executada tal tarefa. Lembre que um dos princípios de siste
 distribuídos é
 a transparência, portanto o usuário não tem ideia qual servidor será utilizado.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 20
 
 www.estrategiaconcursos.com.br
@@ -1264,7 +1250,7 @@ questão.
 
 Gabarito: Letra D
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 21
 
 www.estrategiaconcursos.com.br
@@ -1333,7 +1319,7 @@ necessidade
 dos usuários (mais uso do processador ou de dispositivos de entrada/saída). Por isso,
 a assertiva
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 22
 
 www.estrategiaconcursos.com.br
@@ -1399,7 +1385,7 @@ no entanto há alguns que são mais conhecidos, como:
 
 A) cluster paralelo - cluster de alta disponibilidade - cluster de três camadas
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 23
 
 www.estrategiaconcursos.com.br
@@ -1469,7 +1455,7 @@ outro nó defeituoso;
 
 ( ) realizar processamento da aplicação de forma paralela entre os vários nós do cluster;
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 24
 
 www.estrategiaconcursos.com.br
@@ -1532,7 +1518,7 @@ espalhados pelo mundo, fracamente acoplados (sistemas operacionais e máquinas
 diferentes).
 Portanto, a questão está correta.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 25
 
 www.estrategiaconcursos.com.br
@@ -1594,7 +1580,7 @@ os escravos realizam as tarefas e retornam com os resultados. E por aí vai...
 um dado
 problema (ex.: quebrar uma senha por força bruta).
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 26
 
 www.estrategiaconcursos.com.br
@@ -1657,7 +1643,7 @@ Gabarito: Letra C
 
 14.(UFMG/UFMG - 2019) Um Cluster de Alta Disponibilidade é caracterizado por
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 27
 
 www.estrategiaconcursos.com.br
@@ -1699,7 +1685,7 @@ questão.
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 28
 
 www.estrategiaconcursos.com.br
@@ -1759,7 +1745,7 @@ D) system controller.
 
 E) standalone controler.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 29
 
 www.estrategiaconcursos.com.br
@@ -1812,7 +1798,7 @@ E) na linha de endereço do navegador, http://localhost:80/server-console.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 30
 
 www.estrategiaconcursos.com.br
@@ -1881,7 +1867,7 @@ Item. 5. (FGV/Câmara de Salvador-BA - 2018) No âmbito do JBoss AS 7.x, os modo
 operação
 disponíveis são denominados:
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 31
 
 www.estrategiaconcursos.com.br
@@ -1950,7 +1936,7 @@ D) server-welcome.
 
 E) bundles.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 32
 
 www.estrategiaconcursos.com.br
@@ -2022,7 +2008,7 @@ Web na
 URL http://x.x.x.x:9990/console/ (onde x.x.x.x é o endereço IP do servidor).
 Note que a porta
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 33
 
 www.estrategiaconcursos.com.br
@@ -2040,7 +2026,7 @@ uma porta e a aplicação em outra. Portanto, a alternativa C está correta e é
 
 Gabarito: Letra C
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 34
 
 www.estrategiaconcursos.com.br
@@ -2100,7 +2086,7 @@ D) CORBA.
 
 E) COM.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 35
 
 www.estrategiaconcursos.com.br
@@ -2163,7 +2149,7 @@ E) cluster de alto desempenho - cluster de alta disponibilidade - cluster para
 balanceamento de
 carga
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 36
 
 www.estrategiaconcursos.com.br
@@ -2223,11 +2209,10 @@ I. Um sistema de multiprocessamento simétrico pode ser composto por milhares
 de
 computadores com processadores e sistemas operacionais heterogêneos.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 37
 
 www.estrategiaconcursos.com.br
-72
 
 
 Evandro Dalla Vecchia Pereira
@@ -2282,7 +2267,7 @@ C) diversos servidores conectados por uma rede wifi e fontes de energia
 redundantes, dentre
 outros dispositivos.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 38
 
 www.estrategiaconcursos.com.br
@@ -2316,7 +2301,7 @@ GABARITO
 
 5- B 10- B
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 39
 
 www.estrategiaconcursos.com.br
@@ -2375,7 +2360,7 @@ C) na linha de endereço do navegador, http://localhost:8084/settings.
 
 D) em linha de comando, jboss -a mode=console.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 40
 
 www.estrategiaconcursos.com.br
@@ -2433,7 +2418,7 @@ testar se o servidor JBoss está funcionando, utilizando um navegador, deve-se d
 
 A) server://127.0.0.1:0800
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 41
 
 www.estrategiaconcursos.com.br
@@ -2472,7 +2457,7 @@ GABARITO
 
 7- C
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 42
 
 www.estrategiaconcursos.com.br
@@ -2541,7 +2526,7 @@ se utilizar "-k" antes do argumento):
 
 * start: inicializa o daemon httpd;
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 43
 
 www.estrategiaconcursos.com.br
@@ -2618,7 +2603,7 @@ Options Indexes FollowSymLinks
 
 </Directory>
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 44
 
 www.estrategiaconcursos.com.br
@@ -2676,7 +2661,7 @@ Group www-data
 ServerName www.site2.com.br
 DocumentRoot /var/www/www_site2_com_br
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 45
 
 www.estrategiaconcursos.com.br
@@ -2748,7 +2733,6 @@ Q-Q SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplica�
 
 lente 46
 
-72
 
 
 Evandro Dalla Vecchia Pereira
@@ -2827,7 +2811,7 @@ i
 ■
 Gabarito: Letra C ■
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 47
 
 www.estrategiaconcursos.com.br
@@ -2901,7 +2885,7 @@ usando o IIS;
 * O diretório base para o FTP é "UNIDADE:\lnetpub\ftproot", geralmente
 "C:\inetpub\ftproot" (note que só muda o "www" por "ftp").
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 48
 
 www.estrategiaconcursos.com.br
@@ -2989,7 +2973,7 @@ Mais duas informações importantes, que valem para os outros servidores Web tam
 
 * A porta padrão para requisições HTTP é a 80;
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 49
 
 www.estrategiaconcursos.com.br
@@ -3051,7 +3035,7 @@ característica do servidor de aplicação IIS.
 
 A) Gera páginas HTML dinâmicas.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 
 
 Evandro Dalla Vecchia Pereira
@@ -3073,7 +3057,7 @@ mesmo servidor. Portanto, a alternativa C está correta e é o gabarito da quest
 
 Gabarito: Letra C
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 51
 
 www.estrategiaconcursos.com.br
@@ -3136,7 +3120,7 @@ Options Indexes FollowSymLinks
 
 Portanto, a questão está correta.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 52
 
 www.estrategiaconcursos.com.br
@@ -3193,7 +3177,7 @@ D) Location - conf
 E) Indexlgnore *.conf
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 53
 
 www.estrategiaconcursos.com.br
@@ -3257,7 +3241,7 @@ configuração do servidor Apache para informar se serão aceitas ou não
 conexões HTTP
 persistentes?
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 54
 
 www.estrategiaconcursos.com.br
@@ -3322,7 +3306,7 @@ Portanto, a alternativa C está correta e é o gabarito da questão.
 
 Gabarito: Letra C
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 55
 
 www.estrategiaconcursos.com.br
@@ -3390,7 +3374,7 @@ diferentes,
 
 simultaneamente, com o uso do método chamado de Virtual hosting.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 56
 
 www.estrategiaconcursos.com.br
@@ -3453,7 +3437,7 @@ subpáginas.
 A página raiz é especificada através da diretiva DocumentRoot e será mostrada quando
 se entrar
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 57
 
 www.estrategiaconcursos.com.br
@@ -3521,7 +3505,7 @@ Portanto, a alternativa A está correta e é o gabarito da questão.
 
 Gabarito: Letra A
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 58
 
 www.estrategiaconcursos.com.br
@@ -3581,7 +3565,7 @@ A) prover serviços de impressão para o Windows e o Linux, respectivamente.
 
 B) prover serviços WEB.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 59
 
 www.estrategiaconcursos.com.br
@@ -3649,7 +3633,7 @@ e é o gabarito da questão.
 
 Gabarito: Letra C
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 60
 
 www.estrategiaconcursos.com.br
@@ -3710,7 +3694,7 @@ Portanto, a alternativa B está correta e é o gabarito da questão.
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 61
 
 www.estrategiaconcursos.com.br
@@ -3777,7 +3761,7 @@ E) Filtragem de solicitações.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 62
 
 www.estrategiaconcursos.com.br
@@ -3844,7 +3828,7 @@ Portanto, a alternativa B está correta e é o gabarito da questão.
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 63
 
 www.estrategiaconcursos.com.br
@@ -3909,7 +3893,7 @@ Item. 6. (FIOCRUZ/FIOCRUZ - 2016) São exemplos de comandos para reiniciar o Apa
 versões
 linux RedHat e Ubuntu, respectivamente:
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 64
 
 www.estrategiaconcursos.com.br
@@ -3970,7 +3954,7 @@ B) apch.ini
 
 C) http.confg
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 65
 
 www.estrategiaconcursos.com.br
@@ -4037,7 +4021,7 @@ C) restartserver -j graceful
 
 D) start -s graceful-stop
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 66
 
 www.estrategiaconcursos.com.br
@@ -4069,7 +4053,7 @@ GABARITO
 
 5- E 10- Errada
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 67
 
 www.estrategiaconcursos.com.br
@@ -4130,11 +4114,10 @@ Pode-se afirmar que:
 
 A) apenas II e III estão corretas.
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 68
 
 www.estrategiaconcursos.com.br
-72
 
 
 Evandro Dalla Vecchia Pereira
@@ -4190,7 +4173,7 @@ A) http://127.0.0.1
 
 B) ftp://10.0.0.1
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 SpmêntE 69
 
 www.estrategiaconcursos.com.br
@@ -4242,7 +4225,7 @@ C) F, V, V
 
 D) F, F, V
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spmênte 70
 
 www.estrategiaconcursos.com.br
@@ -4277,7 +4260,7 @@ GABARITO
 
 9- B
 
-SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
+
 Spménte 71
 
 www.estrategiaconcursos.com.br

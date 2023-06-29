@@ -1,36 +1,15 @@
 Capítulo. Desenvolvimento de Informação - Análise de dados ( Pandas, NumPy ).
 
-Concursos
-
-(Profs. Thiago
-Cavalcanti e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Banco de dados - 2023
-
-(Pós-Edital)
-
-Autor:
-
-Thiago Rodrigues Cavalcanti
-
-
-Thiago Rodrigues Cavalcanti
-
-(Profs. Thiago Cavalcanti e Raphael Lacerda)
-
-índice
+Índice
 
 1) Pandas
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
 
-(Profs. Thiago Cavalcanti e Raphael Lacerda)
+
+
+
 
 PANDAS
 
@@ -97,12 +76,12 @@ armazenado em cada coluna e podemos começar a procurar padrões agregando
 estatísticas
 descritivas.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
 
-(Profs. Thiago Cavalcanti e Raphael Lacerda)
+
+
+
 
 Como o Pandas não faz parte da biblioteca padrão do Python, primeiro temos que dizer
 ao Python
@@ -176,7 +155,7 @@ parênteses após o atributo shape, ele retornaria um erro.
 
 Visualização e inspeção de dados
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
+
 
 
 Agora que já carregamos nosso primeiro conjunto de dados vamos olhar para algumas
@@ -258,12 +237,12 @@ E em ordem decrescente usando:
 
 1 Lembre-se que em Python o primeiro elemento é referenciado com o zero (0).
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
 
-(Profs. Thiago Cavalcanti e Raphael Lacerda)
+
+
+
 
 df.sort_values(col 2,ascending=False)
 
@@ -338,21 +317,19 @@ df2 nas quais as linhas coll têm valores idênticos. O parâmetro "how" pode se
 a um dos
 seguintes: 'left', 'right', 'outer','inner'
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
 
-(Profs. Thiago Cavalcanti e Raphael Lacerda)
+
+
+
 
 Estes são os comandos básicos do Pandas, mas espero que você possa ver como o Pandas pode ser
 poderoso para a análise de dados depois que for aprovado no concurso! Vamos em frente.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-7
 
 
-8
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

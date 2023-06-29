@@ -14,76 +14,53 @@ Concursos
 Equipe Exatas Estratégia Concursos
 
 
-índice
+Índice
 
 1) Medidas de Dispersão
-3
 
 2) Amplitude Total
-6
 
 3) Amplitude Interquartílica
-13
 
 4) Desvios em Relação à Média Aritmética eMediana
-17
 
 5) Desvio Absoluto Médio
-27
 
 6) Variância
-39
 
 7) Desvio-Padrão
-50
 
 8) Coeficiente de Variação (ou DispersãoRelativa)
-62
 
 9) Variância Relativa
-69
 
 10) Questões Comentadas - Amplitude Total - Cebraspe
-73
 
 11) Questões Comentadas - Amplitude Interquartílica - Cebraspe
-76
 
 12) Questões Comentadas - Desvios em Relação à Média Aritmética eMediana -Cebraspe
-78
 
 13) Questões Comentadas - Desvio Absoluto Médio - Cebraspe
-80
 
 14) Questões Comentadas - Variância - Cebraspe
-82
 
 15) Questões Comentadas - Desvio-Padrão - Cebraspe
-92
 
 16) Questões Comentadas - Coeficiente de Variação (ou Dispersão Relativa) -Cebraspe
-106
 
 17) Lista de Questões - Amplitude Total - Cebraspe
-111
 
 18) Lista de Questões - Amplitude Interquartílica - Cebraspe
-114
 
 19) Lista de Questões - Desvios em Relação à Média Aritmética e Mediana -Cebraspe
-117
 
 20) Lista de Questões - Desvio Absoluto Médio - Cebraspe
-119
 
 21) Lista de Questões - Variância - Cebraspe
-121
 
 22) Lista de Questões - Desvio-Padrão - Cebraspe
-125
 
 23) Lista de Questões - Coeficiente de Variação (ou DispersãoRelativa) - Cebraspe
-133
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
@@ -146,23 +123,15 @@ Grupo B
 
 i
 
-1
 
-1
 
-1
 
-1
 
-1
 
-1
 
-1
 
 X X * X X
 
-1
 
 0 1 2 3 4 5 6 7 8 9 10 11
 
@@ -171,15 +140,10 @@ Grupo C
 
 [* Média
 
-1
 
-1
 
-1
 
-1
 
-1
 
 1 X
 
@@ -187,7 +151,6 @@ X
 
 X X 1 X
 
-1
 
 0123456789 10 11
 
@@ -195,9 +158,7 @@ X X 1 X
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-3
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -383,9 +344,7 @@ rápida dos dados é mais relevante que a exatidão de um procedimento complexo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-6
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -473,9 +432,7 @@ associada a eles.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-8
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -631,9 +588,7 @@ permanecesse inalterada.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-11
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -666,9 +621,7 @@ conjunto também fosse multiplicada por 5.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-12
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -709,9 +662,7 @@ Q3 ~ Qi
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-13
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -816,9 +767,7 @@ Aiq = 11 - 3 = 8
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-15
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -920,9 +869,7 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-17
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -965,7 +912,6 @@ Como vimos na questão anterior, a média dos salários é:
 0,9 + 1,2 + 1,4 + 1,5 + 2
 
 X_ = 5
-7
 
 x = - => x = 1,4 mil
 
@@ -975,9 +921,7 @@ Agora, calcularemos os desvios para cada valor apresentado:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-18
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -1027,9 +971,7 @@ encontrarmos a diferença entre cada elemento e a média:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-19
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -1037,7 +979,6 @@ Equipe Exatas Estratégia Concursos
 
 Agora, somaremos todos esses desvios:
 
-7
 
 d₄ = x₄ — x = 1 — 4 = —3
 d₂ = x₂ — x = 2 — 4 = —2
@@ -1056,13 +997,11 @@ df - dx + d2 + d3 + ^4 "I" ^5 + d6 + ^7
 7—1
 
 
-7
 
 i=l
 
 dt = (-3) + (-2) + (-1) + 0 + 1 + 2 + 3
 
-7
 
 ^> = 0
 
@@ -1089,9 +1028,7 @@ d₄ = x₄ — x = 1 — 4 = —3
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-20
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -1115,11 +1052,9 @@ um deles ao quadrado
 e somar todos os resultados:
 
 
-7
 
 i=l
 
-7
 
 d[ = d( + d2 + cZ| + d4 + d| + dg + d7
 
@@ -1131,7 +1066,6 @@ i=l
 
 — 9 + 4 + 1 + 0 + 1 + 4 + 9
 
-7
 
 ^dL = 28
 í=i
@@ -1157,9 +1091,7 @@ d₇ — x₇ — x — 7 — 6 = 1
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-21
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -1205,9 +1137,7 @@ d8 = x8 — Md = 9 —5 =4
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-22
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -1216,11 +1146,9 @@ Equipe Exatas Estratégia Concursos
 Agora, precisamos somar os valores absolutos desses desvios:
 
 
-8
 
 i=l
 
-8
 
 = |dil + |d₂l + M3I + I^UI + 1^51 + l^ól + 1^71 + 1^81
 
@@ -1229,7 +1157,6 @@ i=l
 i=l
 
 
-8
 
 i=l
 
@@ -1275,7 +1202,6 @@ d₈ — x₈ — 4,5— 9 — 4,5 —4,5
 
 Somando os valores absolutos desses desvios:
 
-8
 
 ^JdJ = |dj + |d21 + |d31 + |d4| + |d5| + |d6| + |d7| + |d8|
 
@@ -1285,9 +1211,7 @@ i=i
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-23
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -1298,7 +1222,6 @@ Equipe Exatas Estratégia Concursos
 i=l
 
 
-8
 
 i=l
 
@@ -1330,20 +1253,17 @@ d₈ = x₈ — 7= 9 — 7 =2
 
 Somando os valores absolutos desses desvios:
 
-8
 
 ^JdJ = |dx | + |d21 + |d31 + |d4| + |d51 + |d6| + |d7| + |d8|
 
 i=i
 
-8
 
 £|d(| = |-6| + |-5| + |-4| + |-3| + l-ll + |0| + |1| + |2|
 
 i=l
 
 
-8
 
 i=l
 
@@ -1469,9 +1389,7 @@ dados.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-26
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -1542,9 +1460,7 @@ Sábado 2.400 2.400 - 4.200 = -1.800
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-27
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -1603,9 +1519,7 @@ negativo em um número positivo, isto é, retornar o valor absoluto.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-28
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -1648,9 +1562,7 @@ n
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-29
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -1669,43 +1581,33 @@ N
 
 fev
 
-100
 
 mar
 
-70
 
 abr
 
-70
 
 mai
 
-60
 
 jun
 
-50
 
 jul
 
-100
 
 ago
 
-50
 
 set
 
-50
 
 out
 
-30
 
 nov
 
-20
 
 A tabela acima mostra os números mensais de reclamações (N) feitas por usuários de
 telefonia fixa,
@@ -1750,9 +1652,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-30
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -1767,43 +1667,33 @@ N
 
 fev
 
-100
 
 mar
 
-70
 
 abr
 
-70
 
 mai
 
-60
 
 jun
 
-50
 
 jul
 
-100
 
 ago
 
-50
 
 set
 
-50
 
 out
 
-30
 
 nov
 
-20
 
 A tabela acima mostra os números mensais de reclamações (N) feitas por usuários de
 telefonia fixa,
@@ -1844,9 +1734,7 @@ da diferença entre uma determinada observação e a média calculada.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-31
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -1877,7 +1765,6 @@ _ 2 %i X fi
 
 x~ Zfi
 
-30
 
 = — = 1,50 filhos / professor
 
@@ -1914,9 +1801,7 @@ populacional
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-32
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -1930,7 +1815,6 @@ D = -
 
 m Yfi
 
-20
 
 = 2Õ_ 1
 
@@ -1973,9 +1857,7 @@ amostrai
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-33
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -2029,7 +1911,6 @@ necessários para o
 cálculo do desvio médio. Assim, aplicando a fórmula do desvio médio, temos:
 
 
-184
 
 ■4Õ"
 
@@ -2113,9 +1994,7 @@ Portanto, a média é:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-35
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -2153,12 +2032,10 @@ Estaturas fi xf xf x ff
 
 Total Z/<-5° y^XiXfi = 9.750
 
-1
 
 £|xf-x| Xfi = 200
 
 
-1
 
 Drtanto, o desvio médio é:
 
@@ -2170,9 +2047,7 @@ Gabarito: B.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-36
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -2192,7 +2067,6 @@ EXEMPLIFICANDO
 Vamos tomar como exemplo a sequência — [1,3, 5,7,9}, cuja desvio médio é:
 
 |1 - 5| + |3 - 5| + |5 - 5| + |7 — 5| + |9 - 5|
-5
 
 4+2+0+2+4 12
 
@@ -2205,7 +2079,6 @@ obter uma nova lista [yn] =
 
 |6 - 10| + |8 - 10| + |10 - 10| + |12 - 10| + |14 — 10|
 
-5
 
 4 + 2 + 0 + 2 + 4 12
 
@@ -2314,9 +2187,7 @@ parâmetro populacional.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-39
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -2379,9 +2250,7 @@ expressos em quilogramas (Kg), a variância estará expressa em quilogramas ao q
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-40
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -2459,9 +2328,7 @@ Agora, vamos montar uma tabela para facilitar o cálculo da variância:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-42
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -2488,9 +2355,7 @@ Por fim, aplicando a fórmula da variância amostrai, temos:
 
 n — 1
 
-40
 
-10
 
 5-1
 
@@ -2519,9 +2384,7 @@ Vamos começar calculando a média:
 
 5 + 10 + 15 + 20 + 25
 
-15
 
-5
 
 Agora, vamos encontrar os desvios em relação à média:
 
@@ -2533,9 +2396,7 @@ d₂ = 10 - 15 = -5
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-43
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -2595,9 +2456,7 @@ Em quen = Zí=i/i e% = t-1^ .
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-44
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -2628,7 +2487,6 @@ _ £ XiXfi
 
 x= Yft
 
-30
 
 = — = 1,50 filhos / professor
 
@@ -2665,9 +2523,7 @@ populacional
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-45
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -2679,11 +2535,9 @@ Por fim, aplicando a fórmula do desvio padrão amostrai, temos:
 - %)2 X fj
 n — 1
 
-29
 
 — = 1,52
 
-19
 
 Variância para dados agrupados em classes
 
@@ -2710,9 +2564,7 @@ distribuição.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-46
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -2787,7 +2639,6 @@ n — 1 ~ 40-1
 
 1.240
 
-39
 
 31,79 cm2
 
@@ -2797,9 +2648,7 @@ A variância amostrai das estaturas é 31, 79 cm2.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-47
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -2834,7 +2683,6 @@ lista £yn} =
 
 , (6 - 10)2 + (8 - 10)2 + (10 - 10)2 + (12 - 10)2 + (14 - 10)2
 
-5
 
 
 16 + 4 + 0 + 4 + 16
@@ -2849,9 +2697,7 @@ permanecesse inalterada.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-48
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -2954,9 +2800,7 @@ dependerá da finalidade que se tiver em mente.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-50
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -3099,9 +2943,7 @@ V (Xi - x)2 = 40
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-53
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -3125,51 +2967,39 @@ N° de Acidentes
 
 Jan
 
-36
 
 Fev
 
-28
 
 Mar
 
-12
 
 Abr
 
-5
 
 Mai
 
-3
 
 Jun
 
-2
 
 Jul
 
-2
 
 Ago
 
-4
 
 Set
 
-9
 
 Out
 
-11
 
 Nov
 
-22
 
 Dez
 
-38
 
 ; Os números indicam que há uma dispersão significativa, portanto, o desvio padrão
 para esta amostra é
@@ -3194,7 +3024,6 @@ Vamos iniciar calculando a média:
 
 X =
 
-12
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
@@ -3270,9 +3099,7 @@ s = 13,30
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-55
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -3350,9 +3177,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-56
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -3396,7 +3221,6 @@ populacional «
 
 Iniciaremos pelo cálculo da média aritmética:
 
-30
 
 x= sr, == — = 1,50 filhos / professor
 
@@ -3404,9 +3228,7 @@ x= sr, == — = 1,50 filhos / professor
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-57
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -3582,7 +3404,6 @@ obter uma nova lista [yn] =
 
 (6 - 10)2 + (8 - 10)2 + (10 - 10)2 + (12 - 10)2 + (14 - 10)2
 
-5
 
 
 ll6 + 4 + 0 + 4 + 16
@@ -3685,9 +3506,7 @@ b) a distribuição é heterogênea quando possui dispersão elevada (CV > 30%).
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-62
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -3726,7 +3545,6 @@ CV = — x 100
 
 Ah
 
-810
 
 1800
 
@@ -3735,7 +3553,6 @@ Ah
 
 CV = — x 100
 
-705
 
 15ÕÕ
 
@@ -3905,9 +3722,7 @@ Gabarito: B.
 
 00551155220001199000- -EEvveertrotonrMurilo Vieira
 
-65
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -4221,7 +4036,6 @@ Xi = 20 x X₁ = 20 x 20 = 400
 
 De igual forma, temos:
 
-20
 
 ^X? = 20 x X2 = 20 x 436 = 8.720
 
@@ -4237,9 +4051,7 @@ Assim, as novas médias são iguais a:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-71
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -4257,18 +4069,14 @@ a2 = 30
 
 Finalmente, temos que a variância relativa é a razão entre a variância e o quadrado da média:
 
-30
 
-441
 
 
 Simplificando por 3, temos:
 
 Gabarito: A.
 
-10
 
-147
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
@@ -4324,9 +4132,7 @@ Item. 2. (CESPE/TCE-PA/2016)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-73
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -4352,7 +4158,6 @@ máximo
 
 1,20
 
-0
 
 3,10
 
@@ -4389,15 +4194,10 @@ Frequência
 Relativa
 
 
-0
 
-1
 
-2
 
-3
 
-4
 
 Total
 
@@ -4441,9 +4241,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-75
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -4494,9 +4292,7 @@ Item. 2. (CESPE/TCE-PA/2016)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-76
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -4522,7 +4318,6 @@ máximo
 
 1,20
 
-0
 
 3,10
 
@@ -4566,43 +4361,33 @@ N
 
 fev
 
-100
 
 mar
 
-70
 
 abr
 
-70
 
 mai
 
-60
 
 jun
 
-50
 
 jul
 
-100
 
 ago
 
-50
 
 set
 
-50
 
 out
 
-30
 
 nov
 
-20
 
 A tabela acima mostra os números mensais de reclamações (N) feitas por usuários de
 telefonia fixa,
@@ -4620,7 +4405,6 @@ Iniciaremos calculando a média das reclamações:
 
 X = iõ
 
-600
 
 x _7õ"
 
@@ -4650,9 +4434,7 @@ média (x, - x)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-78
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -4683,43 +4465,33 @@ N
 
 fev
 
-100
 
 mar
 
-70
 
 abr
 
-70
 
 mai
 
-60
 
 jun
 
-50
 
 jul
 
-100
 
 ago
 
-50
 
 set
 
-50
 
 out
 
-30
 
 nov
 
-20
 
 A tabela acima mostra os números mensais de reclamações (N) feitas por usuários de
 telefonia fixa,
@@ -4740,7 +4512,6 @@ Iniciaremos calculando a média das reclamações:
 X = iõ
 
 
-600
 
 *= W"
 
@@ -4774,9 +4545,7 @@ média (x, - x)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-80
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -4790,7 +4559,6 @@ O desvio médio é dado pela média dos desvios absolutos, considerando a frequ�
 
 2+2+1+3+1+1
 
-200
 
 ÜT = 20
 
@@ -4812,7 +4580,6 @@ Celsius observadas em amostras de certo objeto e sabendo-se que a variância amo
 da variável Tc é
 igual a 10, e que a temperatura na escala Fahrenheit é dada pela expressão
 
-9
 
 T F = 32 + — xTc,
 
@@ -4878,7 +4645,6 @@ grandeza,
 {XlfX2, *** ,2C20}, a média aritmética do novo conjunto não se altera. Nesse caso, a variância a2
 do conjunto
 
-20
 
 inicial relaciona-se com a variância do novo conjunto na forma a^ = —a2.
 
@@ -4899,10 +4665,8 @@ H=°ife - AÍ)2
 
 o —
 
-20
 
 
-20
 
 í=i
 
@@ -4953,9 +4717,7 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-83
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -4981,7 +4743,6 @@ Vamos iniciar calculando a média do conjunto:
 
 = T=W
 
-5
 
 Agora, vamos calcular os desvios em relação à média. Para isso, vamos escrever os
 dados em uma tabela
@@ -5015,9 +4776,7 @@ X Frequência Relativa
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-84
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -5074,9 +4833,7 @@ quadrados dos desvios por suas respectivas frequências:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-85
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -5115,9 +4872,7 @@ Vamos iniciar calculando a média do conjunto:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-86
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -5154,7 +4909,6 @@ Portanto, a questão está correta.
 
 1194
 
-8
 
 149,25
 
@@ -5307,9 +5061,7 @@ A variância corresponde ao desvio padrão elevado ao quadrado:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-89
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -5365,9 +5117,7 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-90
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -5408,11 +5158,9 @@ Gabarito: Certo.
 
 s —
 
-49
 
 s 9= 44,95
 
-49
 
 s2 = 0,91
 
@@ -5420,9 +5168,7 @@ s2 = 0,91
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-91
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -5458,9 +5204,7 @@ probabilidades. Vamos reescrever a tabela com os cálculos:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-92
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -5516,9 +5260,7 @@ Item. 2. (CESPE/MP TCE-SC/2022)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-93
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -5566,9 +5308,7 @@ Por fim, aplicando a fórmula do desvio padrão, temos:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-94
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -5690,9 +5430,7 @@ Concentração
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-96
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -5757,9 +5495,7 @@ n — 1
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-97
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -5802,9 +5538,7 @@ Item. 5. (CESPE/PC RO/2022)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-98
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -5852,9 +5586,7 @@ Agora, vamos elevar o desvio ao quadrado e multiplicar pela respectiva frequênc
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-99
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -5924,9 +5656,7 @@ a(y) = 2x2
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-100
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -5972,7 +5702,6 @@ a A/9
 
 Vn Vl6
 
-3
 
 = 4 = °'75
 
@@ -5992,9 +5721,7 @@ Resultado Quantidade de lançamentos
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-101
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -6041,9 +5768,7 @@ Idade (em anos) 9 10 11 12 13
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-102
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -6066,7 +5791,6 @@ Calculando a média:
 * = 3Õ
 
 
-300
 
 X_ = lõ-
 
@@ -6113,7 +5837,6 @@ _ J n
 
 1x6 +10 x 22+ 1x04-4x1 + 9x0 +16x1
 
-30
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
@@ -6175,9 +5898,7 @@ n — 1
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-104
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -6237,7 +5958,6 @@ _ (2 x 10) + (3 x 15) + (4 x 40) + (5 x 35) + (6 x 28) + (7 x 10) + (8 x 4)
 
 10 + 15 + 40 + 35 + 28 + 10 + 4
 
-670
 
 = 142 = 4,71
 
@@ -6262,9 +5982,7 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-106
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -6313,16 +6031,13 @@ n
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-107
 
-136
 
 
 Equipe Exatas Estratégia Concursos
 
 
 (3a — 3a)2 + (2a — 3a)2 + (2a — 3a)2
-3
 
 (2a)2 + (-a)2 + (-a)2
 
@@ -6388,9 +6103,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-108
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -6411,7 +6124,6 @@ Portanto, temos:
 
 cr
 
-12
 
 Cv = T = 0,4
 
@@ -6440,7 +6152,6 @@ máximo
 
 1,20
 
-0
 
 3,10
 
@@ -6525,7 +6236,6 @@ máximo
 
 1,20
 
-0
 
 3,10
 
@@ -6557,15 +6267,10 @@ Frequência
 Relativa
 
 
-0
 
-1
 
-2
 
-3
 
-4
 
 Total
 
@@ -6593,9 +6298,7 @@ A amplitude total da amostra é igual ou superior a 5.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-112
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -6665,7 +6368,6 @@ máximo
 
 1,20
 
-0
 
 3,10
 
@@ -6718,43 +6420,33 @@ N
 
 fev
 
-100
 
 mar
 
-70
 
 abr
 
-70
 
 mai
 
-60
 
 jun
 
-50
 
 jul
 
-100
 
 ago
 
-50
 
 set
 
-50
 
 out
 
-30
 
 nov
 
-20
 
 A tabela acima mostra os números mensais de reclamações (N) feitas por usuários de
 telefonia fixa,
@@ -6768,9 +6460,7 @@ O maior desvio absoluto dos números mensais de reclamações registradas é sup
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-117
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -6801,43 +6491,33 @@ N
 
 fev
 
-100
 
 mar
 
-70
 
 abr
 
-70
 
 mai
 
-60
 
 jun
 
-50
 
 jul
 
-100
 
 ago
 
-50
 
 set
 
-50
 
 out
 
-30
 
 nov
 
-20
 
 A tabela acima mostra os números mensais de reclamações (N) feitas por usuários de
 telefonia fixa,
@@ -6853,9 +6533,7 @@ e 35
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-119
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -6883,7 +6561,6 @@ Celsius observadas em amostras de certo objeto e sabendo-se que a variância amo
 da variável Tc é
 igual a 10, e que a temperatura na escala Fahrenheit é dada pela expressão
 
-9
 
 T F = 32 + — xTc,
 
@@ -6930,9 +6607,7 @@ X Frequência Relativa
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-121
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -6990,9 +6665,7 @@ Item. 9. (CESPE/BANESE/2021)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-122
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -7036,9 +6709,7 @@ A variância amostrai de X é superior a 0,89.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-123
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -7095,9 +6766,7 @@ Item. 2. (CESPE/MP TCE-SC/2022)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-125
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -7244,9 +6913,7 @@ Item. 5. (CESPE/PC RO/2022)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-128
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -7300,9 +6967,7 @@ O desvio padrão da média amostrai X é igual a 0,75.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-129
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -7365,42 +7030,32 @@ Equipe Exatas Estratégia Concursos
 medida
 comprimento (mm)
 
-136
 
 S2
 
-135
 
 S3
 
-135
 
 s4
 
-137
 
 s5
 
-134
 
 Se
 
-135
 
 S7
 
-136
 
 s8
 
-135
 
 s9
 
-136
 
 Sio
-135
 
 Com base nessas informações, é correto afirmar que o valor do desvio padrão, em mm, desse
 experimento
@@ -7440,9 +7095,7 @@ Item. 4. LETRA A 8. CERTO
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-132
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -7500,9 +7153,7 @@ Item. 6. (CESPE/TCE-PA/2016)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-133
 
-136
 
 
 Equipe Exatas Estratégia Concursos
@@ -7528,7 +7179,6 @@ máximo
 
 1,20
 
-0
 
 3,10
 

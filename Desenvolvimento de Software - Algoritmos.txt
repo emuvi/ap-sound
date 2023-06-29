@@ -20,7 +20,7 @@ Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-índice
+Índice
 
 1) Métodos de Ordenação - Conceitos Básicos - Teoria
 
@@ -40,7 +40,7 @@ Paolla Ramos e Silva
 
 9) Métodos de Ordenação - Pesquisa de Dados - Lista de Questões
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -73,8 +73,7 @@ Estáveis: Bubble, Insertion e Merge; Métodos Instáveis: Selection, Quick, Hea
 Vejamos
 um exemplo:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-3
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -96,7 +95,7 @@ ordena todos os elementos, inclusive aqueles que possuem chaves idênticas (sob
 algum outro
 critério).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x' 4
+ x' 4
 
 www.estrategiaconcursos.com.br
 / 49
@@ -173,11 +172,9 @@ j = j - 1
 L[ j + 1] = PIVO
 FIM {INSERÇÃO}
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-5
 
 
-49
+
 
 
 Paolla Ramos e Silva
@@ -235,8 +232,7 @@ A
 
 1 2 6 $3 9
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-6
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -303,11 +299,9 @@ QuickSort (Troca)
 valor. As questões de prova cobram
 algumas vezes o maior, outras vezes o menor.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-7
+
 
 1 www.estrategiaconcursos.com.br
-49
 
 
 Paolla Ramos e Silva
@@ -389,8 +383,7 @@ contendo valores
 iguais ao pivô. O Melhor Caso ocorre quando o conjunto é dividido em subconjuntos de
 mesmo
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-8
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -462,8 +455,7 @@ sucessivamente, repetindo até que as últimas comparações e trocas tenham sid
 e o
 gap tenha chegado a 1.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-9
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -524,8 +516,7 @@ problema deve ser decomponível, i.e., deve ser possível decompor qualquer inst
 trivial
 do problema em instâncias menores do mesmo tipo de problema.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-10
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -569,11 +560,9 @@ Melhor Caso Caso Médio Pior Caso
 
 O(n log n) O(n log n) O(n log n)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-11
 
 
-49
+
 
 
 Paolla Ramos e Silva
@@ -598,8 +587,7 @@ O heapsort é um algoritmo de ordenação em que a sua estrutura auxiliar de
 armazenamento fora
 do arranjo de entrada é constante durante toda a sua execução.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-12
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -647,7 +635,7 @@ MergeSort O(n log n) O(n log n) O(n log n)
 HeapSort O(n log n) O(n log n) O(n log
 n)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -715,7 +703,6 @@ entender
 isso, vamos utilizar a metáfora de um jogo de baralho! Imaginem que eu estou jogando
 contra
 vocês. Vocês embaralham e me entregam 5 cartas, eu embaralho novamente e lhes entrego
-5
 cartas.
 
 Quem joga baralho sabe que uma boa alternativa para grande parte dos jogos é ordenar
@@ -728,8 +715,7 @@ observem... vocês receberam as seguintes cartas (nessa ordem): 4, 5, 6, 7, 8. J
 depende de diversos outros fatores,
 mas nosso foco é na visão analítica e, não, empírica.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-14
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -786,11 +772,9 @@ Transporte —> 1 1
 
 Parcela 1 —> 1
 
-110
 
 10 1
 
-1
 
 Soma 1 10 0 0
 
@@ -804,8 +788,7 @@ padrão? A complexidade (aqui, número de operações) é diretamente proporcion
 ao número n
 de dígitos, i.e., O(n).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-15
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -873,8 +856,7 @@ forma, é possível responder a maioria das questões de prova sobre esse tema.
 Eventualmente, as
 questões pedem também caso médio e melhor caso, mas é menos comum. Bacana? :-)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-16
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -902,8 +884,7 @@ Beleza? Então, não se prendam a base do logaritmo, qualquer uma pode ser
 utilizada na
 representação de complexidade assintótica de algoritmos. Bacana? Exercícios...
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-17
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -987,8 +968,7 @@ DEVOLVA POS
 
 FIM (BUSCASEQUENCIAL}
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-18
+* 
 
 
 Paolla Ramos e Silva
@@ -1076,8 +1056,7 @@ SENÃO
 DEVOLVA BUSCA_BINARIA(L, X, MEIO + 1, FIM)
 FIM {BUSCA_BINARIA}
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-19
+
 
 
 Paolla Ramos e Silva
@@ -1101,8 +1080,7 @@ o elemento central! Como? Ele é o elemento de índice [0+ (N-1)]/2 = 2/2 = 1. O
 L[1] = 23!
 Encontramos? Sim! Então, nossa busca obteve êxito e encontramos o que buscávamos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-20
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -1180,8 +1158,7 @@ tamanho fixo
 (porém a quantidade de elementos é variável). Como é dito por Neil Dale: "A heapsort
 is just as
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-21
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -1259,8 +1236,7 @@ Comentários:
 
 Conforme vimos em aula, trata-se do InsertionSort! Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-22
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -1373,8 +1349,7 @@ QuickSort é O(nlog2n), pois ele usa como estrutura básica uma árvore de prior
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-23
+
 
 
 , 49
@@ -1534,8 +1509,7 @@ complexidade de tempo do algoritmo bubblesort, no pior caso, é:
 
 a) 0(1)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'
-24
+ x'
 
 www.estrategiaconcursos.com.br
 / 49
@@ -1673,8 +1647,7 @@ O(n2)
 
 O(n2)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-25
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -1814,7 +1787,7 @@ por muitos números inteiros. Que algoritmo de ordenação oferece melhor
 complexidade
 de tempo (Big O notation) no pior caso?
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -1926,8 +1899,7 @@ Comentários:
 
 Algoritmo Melhor Caso Caso Médio Pior Caso
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-27
+
 
 
 , 49
@@ -2092,7 +2064,7 @@ O(n log n)
 
 O(n log n)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -2169,8 +2141,7 @@ a) pior caso do quicksort é (n lg n).
 
 b) pior caso do mergesort é (n2).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'"'
-29
+ x'"'
 
 www.estrategiaconcursos.com.br
 / 49
@@ -2287,8 +2258,7 @@ conjunto maior. Trata-se, portanto, de um algoritmo do tipo Divisão-e-Conquista
 i.e., repartindo
 os dados em subgrupos, dependendo de um elemento chamado pivô.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-30
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -2360,8 +2330,7 @@ de um método de busca; (e) Trata-se do QuickSort. Portanto, é a quarta opção
 Tecnologia da Informação)
 Considere o método de ordenação abaixo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-31
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -2416,8 +2385,7 @@ O algoritmo realiza trocas de dois em dois, percorrendo todos os elementos. Como
 vimos, esse
 algoritmo é o Bubble Sort. Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-32
+
 
 
 , 49
@@ -2483,8 +2451,7 @@ complexidade assintótica (notação Big O) dos algoritmos elaborados está
 ilustrada na
 tabela abaixo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-33
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -2554,8 +2521,7 @@ Conforme vimos em aula, basta consultar a tabelinha! O primeiro é o time Azul (
 e o segundo
 é o time Amarelo (O(n log n)). Gabarito: B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-34
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -2645,8 +2611,7 @@ listas
 pequenas e que mudam constantemente. Observa-se que no Melhor Caso, X está
 na primeira
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-35
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -2729,8 +2694,7 @@ de divisão-e-
 conquista. Parte-se do pressuposto de que o vetor está ordenado e realiza sucessivas
 divisões do
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-36
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -2780,8 +2744,7 @@ espaço de busca, comparando o elemento chave com o elemento do meio do
 vetor. Possui
 complexidade da ordem de O(log2 n), em que N é o tamanho do vetor de busca. Gabarito: D
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-37
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -2852,8 +2815,7 @@ algoritmos de classificação por trocas apenas os métodos:
 
 a) SelectionSort e InsertionSort.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-38
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -2927,8 +2889,7 @@ a) Selectionsort (seleção)
 
 b) Insertionsort (inserção)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-39
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -3005,8 +2966,7 @@ heapsort, assinale a afirmação correta.
 
 a) Utiliza ordenação por árvore de decisão, ao invés de ordenação por comparação.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'
-40
+ x'
 
 www.estrategiaconcursos.com.br
 / 49
@@ -3084,8 +3044,7 @@ b) seleção direta.
 
 c) inserção por meio de incrementos decrescentes.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-41
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -3139,8 +3098,7 @@ d) Shell Sort.
 
 e) Quick Sort.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-42
+
 
 www.estrategiaconcursos.com.br
 / 49
@@ -3269,7 +3227,7 @@ Item. 1. D
 
 Item. 2. B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 /
@@ -3375,11 +3333,9 @@ d) Iog2(n).
 
 e) n-=2.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-47
+
 
 I www.estrategiaconcursos.com.br
-49
 
 
 Paolla Ramos e Silva
@@ -3399,7 +3355,7 @@ Item. 3. C
 
 Item. 4. D
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

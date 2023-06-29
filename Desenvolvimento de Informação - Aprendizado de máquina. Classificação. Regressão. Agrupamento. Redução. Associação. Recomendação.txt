@@ -1,80 +1,50 @@
 Capítulo. Desenvolvimento de Informação - Aprendizado de máquina. Classificação. Regressão. Agrupamento. Redução. Associação. Recomendação.
 
-Concursos
-
-(Prof. Thiago
-
-Cavalcanti)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Banco de dados - 2023
-
-(Pós-Edital)
-
-Autor:
-
-Thiago Rodrigues Cavalcanti
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
-
-índice
+Índice
 
 1) Aprendizado Não Supervisionado
-3
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
+
 
 w ww. estrategiaconcursos. com.br
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
 
 Conteúdo da Aula
-2
 
 Aprendizado Não Supervisionado
-2
 
 Redução da dimensionalidade
-3
 
 Clusterização
-14
 
 Agrupamento K-Means.
-18
 
 Fuzzy K-means.
-20
 
 Agrupamento Hierárquico
-22
 
 Mistura de Gaussianas.
-22
 
 Problemas associados E Aplicações possíveis ao agrupamento
-29
 
 Regras de associação
-29
 
 THIAGO CAVALCANTI
 
 PROFESSOR
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-3
 
 
-40
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 CoNTEÚDo DA AULA
 
@@ -145,11 +115,11 @@ mesma forma e são parametrizados pela média e desvio padrão. Isso significa q
 você
 conhece a média e o desvio padrão, e que a distribuição é normal, você conhece a
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 probabilidade de qualquer observação futura. O Aprendizado Paramétrico
 Não
@@ -215,11 +185,11 @@ hipercubo
 Figura abaixo), muito
 menos um elipsoide de 200 dimensões dobrado em um espaço de 1.000 dimensões.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 *-- *
 
@@ -292,11 +262,11 @@ necessárias para atingir uma determinada densidade cresce
 exponencialmente com o
 número de dimensões.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Antes de apresentarmos alguns algoritmos específicos de redução de
 dimensionalidade,
@@ -338,7 +308,6 @@ pode ver um conjunto de dados 3D representado por círculos.
 
 -0.5
 
-0
 
 Figura 1 - Um conjunto de dados 3D próximo a um subespaço 2D
 
@@ -356,11 +325,11 @@ de dados de 3D para 2D. Observe que os eixos correspondem às novas feições
 zi e Z2 (as
 coordenadas das projeções no plano).
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 
 ■H- *
@@ -415,11 +384,11 @@ realmente quer é desenrolar o rolo suíço para obter o conjunto de dados
 2D no lado direito
 da figura a seguir.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Xi Zi
 
@@ -471,11 +440,11 @@ inferior da figura a seguir, o limite de decisão está localizado em xi =
 Item. 5. Esse limite de
 decisão parece muito simples no espaço 3D original (um plano vertical), mas parece mais
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 complexo no manifold desenrolado (uma coleção de quatro segmentos
 de linha
@@ -503,11 +472,11 @@ ser?)
 
 PCA - Principal component analysis
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Análise de Componentes Principais (PCA)é de longe o algoritmo
 de redução de
@@ -568,11 +537,11 @@ exemplo 2D não há escolha: é a linha pontilhada. Se fosse um conjunto de
 dados de
 dimensão superior, o PCA também encontraria um terceiro eixo, ortogonal aos dois eixos
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 anteriores, e um quarto, um quinto e assim por diante - tantos eixos
 quanto forem o número
@@ -636,11 +605,11 @@ que a projeção preservará o máximo de variação possível. Por exemplo, na
 Figura 16, o
 conjunto de dados 3D é projetado no plano 2D definido pelos dois primeiros componentes
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 principais, preservando grande parte da variação do conjunto de dados.
 Como resultado,
@@ -703,11 +672,11 @@ Por exemplo, vejamos as razões de variação explicadas dos dois
 primeiros componentes
 do conjunto de dados 3D representados na Figura 16:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 >>> pca.explained_variance_ratio_
 array([0.84248607, 0.14631839])
@@ -763,11 +732,11 @@ pode ver que reduzir a dimensionalidade para cerca de 100 dimensões não
 perderia muita
 variância explicada.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Figura 7 -Variação explicada em função do número de dimensões
 
@@ -796,11 +765,11 @@ captura a maior parte da variação no conjunto de dados existente.
 produz
 uma representação dimensional inferior dos dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 * Autoencoders: usa uma rede neural para compactar dados de forma não linear
 com perda mínima de informações
@@ -857,11 +826,11 @@ cluster é, portanto, uma coleção de objetos que são "semelhantes" entre eles
 "dissimilares"
 dos objetos pertencentes a outros clusters.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Agrupamento baseado em distância .
 
@@ -889,15 +858,13 @@ clusterização atenda às suas necessidades.
 
 Na imagem acima, como sabemos qual é a melhor solução de clustering?
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-17
 
 
-40
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Para encontrar uma solução de clusterização específica, precisamos definir as
 medidas de
@@ -941,11 +908,11 @@ sob as transformações "naturais" do problema. Além disso, durante o
 agrupamento, não é
 aconselhável normalizar os dados extraídos de várias distribuições.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Algoritmos de agrupamento
 
@@ -979,11 +946,11 @@ algumas iterações, ele atinge os clusters finais desejados.
 Finalmente, o último tipo de agrupamento usa uma abordagem completamente probabilística.
 Vamos falar sobre quatro dos algoritmos de clustering mais usados:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 * K-médias
 
@@ -1053,11 +1020,11 @@ centros.
 
 * Calcule a distância entre cada ponto de dados e centros de cluster.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 * Atribua o ponto de dados ao centro do cluster cuja distância do centro do clusterseja a mínima
 de todos os centros do cluster.
@@ -1111,11 +1078,11 @@ dados produz o seguinte agrupamento de 3 médias. É melhor ou pior do que o
 agrupamento de 2
 médias?
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Infelizmente, não existe uma solução teórica geral para encontrar o número ótimo de
 clusters para
@@ -1160,11 +1127,11 @@ Xi X P(nk(\xi)b«I* )6
 pelo
 usuário seja alcançado (a iteração pode ficar presa em alguns máximos ou mínimos locais)
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Para uma melhor compreensão, podemos considerar este simples exemplo monodimensional. Dado
 um determinado conjunto de dados, suponha que o represente como distribuído em um
@@ -1195,11 +1162,11 @@ ao cluster B do que ao cluster A. O valor 0,2 de 'm' indica o grau de pertinênc
 ponto de
 dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 AGRUPAMENTo HIERÁRQUICo.
 
@@ -1240,11 +1207,11 @@ como uma gaussiana. Todo o conjunto de dados é, portanto, modelado por uma mist
 dessas
 distribuições.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Um modelo de mistura com alta probabilidade tende a ter as seguintes características:
 
@@ -1295,11 +1262,11 @@ calcular as
 médias (ou centróides) de cada cluster e, em seguida, calcular sua distância para cada um dos
 pontos
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 de dados. Os últimos são então rotulados como parte do cluster que é identificado
 pelo centróide
@@ -1348,11 +1315,11 @@ probabilidades e devem atender a esta condição:
 
 fc=l
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Agora, como determinamos os valores ideais para esses parâmetros? Para conseguir isso,
 devemos
@@ -1409,11 +1376,11 @@ da mistura gaussiana, como discutiremos mais adiante.
 
 Da mesma forma, podemos afirmar o seguinte:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 O que significa que a probabilidade geral de se observar um ponto que vem da
 Gaussiana k é na
@@ -1474,11 +1441,11 @@ pM = ^p(xn|z)p(z) = ^TTfcjVjXnlp*.,!:*.)
 
 fc=l k=l
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Esta é a equação que define uma Mistura Gaussiana, e você pode ver claramente que
 ela depende
@@ -1537,11 +1504,11 @@ Então, vamos agora substituí-los na equação anterior:
 
 fl~fc-A/~(xn|pfc, Sfc)
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 E é isso que estamos procurando! Resumindo um modelo de mistura é uma
 mistura de k
@@ -1612,11 +1579,11 @@ nova estimativa dos parâmetros do seu modelo.
 
 * Repita até a convergência.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 PRoBLEMAS ASSoCIADoS E APLICAçõES PoSSÍVEIS Ao AGRUPAMENTo
 
@@ -1681,11 +1648,11 @@ Para elaborar essa ideia — as regras não vinculam as diferentes transações 
 usuário ao longo
 do tempo para identificar relacionamentos. Ao invés disto, uma lista de itens com IDs de transação
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 exclusivos (de todos os usuários) são estudadas como um grupo. Isso é útil na colocação
 de produtos
@@ -1755,11 +1722,11 @@ itens e, portanto, nenhuma conclusão pode ser tirada de tal regra.
 
 Item. 2. Confiança
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Esta medida define a probabilidade de ocorrência de consequentes no carrinho dado que
 o carrinho
@@ -1795,7 +1762,6 @@ Vou introduzir alguns números aqui para esclarecer isso ainda mais.
 
 Milk ÈToothbrush
 
-10
 
 70 4
 
@@ -1824,11 +1790,11 @@ Levante os controles para o suporte (frequência) do consequente enquanto calcul
 probabilidade
 condicional de ocorrência de {Y} dado {X}. Lift é um termo muito literal dado a esta medida. Pense
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 nisso como o *elevador* que {X} fornece à nossa confiança por termos {Y}
 no carrinho. Para
@@ -1906,11 +1872,11 @@ pode variar de um até o número total de itens que temos. Agora, buscamos apena
 conjuntos de
 itens frequentes e não todos para verificar o número total de conjuntos de itens gerados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Os conjuntos de itens frequentes são aqueles que ocorrem pelo menos um número mínimo
 de vezes
@@ -1961,11 +1927,11 @@ o limite também.
 
 Essa metodologia é chamada de algoritmo a priori. As etapas envolvidas são:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Gere todos os conjuntos de itens frequentes (suporte > minsup) com apenas um item. Em
 seguida,
@@ -2013,11 +1979,11 @@ estejam acima de um nível mínimo de confiança (minconf). Assim como
 a propriedade
 antimonótona do suporte, a confiança das regras geradas a partir do mesmo conjunto de itens
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 também segue uma propriedade antimonótona. É antimonótono em relação ao número
 de
@@ -2065,11 +2031,11 @@ Low-Confidence
 Começamos com um itemset frequente {a,b,c,d} e começamos a formar regras com apenas um
 consequente. Remova as regras que não satisfazem a condição minconf. Agora, comece a formar
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 regras usando uma combinação de consequentes das restantes. Continue repetindo até que
 reste
@@ -2143,11 +2109,11 @@ Todos os conjuntos de itens frequentes podem ser derivados como subconjuntos de
 conjuntos de
 itens frequentes máximos. No entanto, as informações sobre o suporte dos subconjuntos são
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 perdidas. Se esse valor for necessário, o conjunto de itens frequentes fechado é outra
 maneira de
@@ -2183,11 +2149,9 @@ THIAGO CAVALCANTI
 
 PROFESSOR
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-39
 
 
-40
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

@@ -20,7 +20,7 @@ Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-índice
+Índice
 
 1) PHP-Teoria
 
@@ -28,7 +28,7 @@ Paolla Ramos e Silva
 
 3) PHP - Lista de Questões
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -102,7 +102,7 @@ Voltando, então! O PHP é uma linguagem de programação de scripts, isto é,
 escreve scripts que
 estendem as funcionalidades de outra linguagem de programação e/ou programas. Ok! Mas a
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 definição diz que ela é interpretada! Bem, isso só complementa o que
@@ -173,12 +173,10 @@ como uma linguagem de propósito geral, sendo útil em interfaces gráficas ou e
 1 Está instalado em mais de 244 milhões de websites e 2.1 milhões de web servers.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-4
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -210,8 +208,7 @@ encontra-se a tag
 
 </head>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-5
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -277,12 +274,10 @@ código abaixo:
 <script language = "php"> // Código aqui.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-6
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -329,8 +324,7 @@ Letra|Underscore + Letra|Número|Underscore
 
 $var //Correto = Pode começar com letra!
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-7
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -382,8 +376,7 @@ $var6 = FALSE;
 
 ?>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-8
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -454,8 +447,7 @@ OPERADORES COMPARATIVOS
 
 ANOTAÇÃO | SIGNIFICADO DESCRIÇÃO
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-9
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -522,8 +514,7 @@ ademais o intuito
 aqui não é ensinar ninguém a programar. Portanto, não vou explicar para
 cada linguagem como
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-10
+ x
 
 www.estrategiaconcursos.com.br
 / 121
@@ -584,8 +575,7 @@ $var2 = FALSE;
 
 $var3 = TRUE;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-11
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -650,12 +640,10 @@ echo $i;
 }
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-12
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -716,8 +704,7 @@ echo $i;
 
 } while ($i > 0);
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-13
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -781,12 +768,10 @@ $array = array (10,20,30);
 //Idêntico ao anterior
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 
 
-14
 
-121
 
 
 Paolla Ramos e Silva
@@ -835,12 +820,10 @@ numéricos ou
 textuais e valores de qualquer tipo. Ademais, também se pode utilizar o operador
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 
 
-15
 
-121
 
 
 Paolla Ramos e Silva
@@ -910,7 +893,7 @@ função importante
 nesse contexto também! Por exemplo, uma das principais características do PHP
 é que ele sabe
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -976,12 +959,10 @@ $_REQUEST que consiste em uma array associativo que, por padrão,
 contém informações de
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 
 
-17
 
-121
 
 
 Paolla Ramos e Silva
@@ -1050,8 +1031,7 @@ breve, pode estar caindo com alguma frequência nas provas de desenvolvimento
 de sistemas.
 Guardem essas características básicas do framework e parte para o abraço na hora da prova.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-18
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -1128,12 +1108,10 @@ echo " ".$v[$i];
 }
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-19
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -1201,8 +1179,7 @@ a) I, II, III e IV.
 
 b) III e IV, apenas.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-20
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -1276,12 +1253,10 @@ banco de
 dados era aquela que tinha o nome "query". Essa função envia uma consulta/comando MySQL.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-21
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -1349,12 +1324,10 @@ Gabarito: Letra A
 Item. 7. (FCC / TRE-AP - 2011) Em relação a PHP e JSP é correto afirmar:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-22
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -1423,8 +1396,7 @@ nome em um arquivo com um padrão.
 
 Gabarito: Letra E
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-23
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -1499,8 +1471,7 @@ c) _GET$["nome_text"]
 
 d) _$GET["nome_text"]
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-24
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -1572,12 +1543,10 @@ C/C++
 e Perl. Em C, a passagem de parâmetros por referência é feita por meio da utilização do caractere
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-25
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -1594,7 +1563,6 @@ function foo(&$var)
 
 $var++;
 
-1
 
 $a=5;
 foo($a);
@@ -1642,8 +1610,7 @@ e) &email.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-26
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -1718,8 +1685,7 @@ exceto
 
 $data-nascimento, na medida em que possui um traço (que é diferente de underscore).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-27
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -1792,12 +1758,10 @@ d) somente gravação e coloca o ponteiro no final do arquivo, depois de todos o
 e) somente gravação, deleta todo o conteúdo e coloca o ponteiro no início do arquivo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-28
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -1858,12 +1822,10 @@ Item. 23. (IBFC - Prefeitura de divinópolis - 2018) Dado o loop PHP:
 for ($x = o; $x <= "5"; $x++)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-29
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -1927,12 +1889,10 @@ Item. 25. (IF-RJ / BIO-RIO - 2015) Considere o seguinte script encontrado em uma
 Sidade - array("Paulo"=>"4o", "Pedro"=>"62", "Ana"=>"43", "Marcos"=>"i8");
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-30
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -2005,12 +1965,10 @@ d) sort(ínomes);
 e) krsort(snomes);
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-31
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -2078,12 +2036,10 @@ e) mysql_connect ou mysql_pconnect
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-32
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -2149,7 +2105,7 @@ CLONENEW
 
 ++ - - [INT] (FLOAT) (STRINGJ [ARRAY] [OBJECT] [BOOL] @
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 */ah
@@ -2210,12 +2166,10 @@ Comentários:
 A variável superglobal $_COOKIE["ck"] recupera cookies armazenados no cliente.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-34
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -2283,12 +2237,10 @@ d) $nome = string( $_POST['nome'])
 e) parseHTML($nome, utf8( $_POST['nome'])
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-35
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -2336,12 +2288,10 @@ Gabarito: Letra B
 Item. 35. (FGV/ TJ-PI - 2015) Analise o código PHP mostrado a seguir.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-36
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -2405,8 +2355,7 @@ Gabarito: Letra C
 programação
 PHP, assinale a opção correta.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-37
+ x
 
 www.estrategiaconcursos.com.br
 / 121
@@ -2446,12 +2395,10 @@ uma variável;
 (e) Errado, PHP é case-sensitive.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-38
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -2578,8 +2525,7 @@ para cada
 requisição. Historicamente, sistemas baseados em Unix utilizam processos
 para lidar com
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-39
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -2652,8 +2598,7 @@ podemos ver na imagem fornecida na questão no item Loaded Configuration File.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-40
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -2725,8 +2670,7 @@ em uma comunicação mais poderosa e eficiente com banco de dados.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-41
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -2801,8 +2745,7 @@ de estilo de codificação (Coding Style Guide), que aborda como deve ser feita 
 formatação do
 código para facilitar a leitura por outros desenvolvedores, algumas das indicações são:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-42
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -2869,12 +2812,10 @@ Gabarito: Correto
 prescreve o padrão de distribuição de módulos PHP; os diversos artefatos de teste relacionados
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-43
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -2952,12 +2893,10 @@ especificar o modo é
 de escrita (poderíamos usar 'r+', 'w', 'w+', 'a', 'a+').
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-44
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -3015,8 +2954,7 @@ echo $_GET['nome'];
 
 Imprime para usuário o valor da variável nome passado na requisição do tipo GET.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-45
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -3102,12 +3040,10 @@ SORT_REGULAR - compara os elementos normalmente
 SORT_NUMERIC - compara os elementos como itens numéricos
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-46
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -3185,12 +3121,10 @@ $ar[i], SORT_NUMERIC, SORT_DESC);
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-47
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -3265,15 +3199,13 @@ aplicado deforma
 bem sucedida ao script apresentado abaixo, então a saída de dados deverá conter a string Você
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 /
 
-48
 
-121
 
 
 Paolla Ramos e Silva
@@ -3338,8 +3270,7 @@ antes da primeira ocorrência da string img2.png e a segunda ocorrência da stri
 imgi2.png
 depois da segunda ocorrência da string img2.png.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-49
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -3410,7 +3341,7 @@ registros com segurança. Em um site ou sistema web, a sessão é importante qua
 quer mais
 segurança na página ou quando se querter um controle de usuário.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -3477,8 +3408,7 @@ conexão com o banco deveria ter sido encerrada com um mysql_free_result($r),
 isso evita que
 memória fique alocada para consultas que já passaram.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-51
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -3548,12 +3478,10 @@ que começam com endereço zero.
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-52
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -3624,7 +3552,7 @@ onde a
 colisão é intolerável (por exemplo, nas funções de dispersão da
 criptografia), ou quando
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x53
+ x53
 
 www.estrategiaconcursos.com.br
 / 121
@@ -3693,8 +3621,7 @@ uma tabela de usuários em um banco de dados relacional PostgreSQL?
 a) ínome = "João"; $sql = "SELECT nome, sobrenome, senha FROM tb_usuario WHERE
 nome=$nome;"; sresultado - pg_query($conn, $sql);
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-54
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -3763,8 +3690,7 @@ e) <?php if (strncasecmp ($email, 7A[a-zA-Z-' ]*$ @./")) {echo "Valid email form
 else {
 echo "Invalid email format";} ?>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-55
+ x
 
 www.estrategiaconcursos.com.br
 / 121
@@ -3826,12 +3752,10 @@ para o desenvolvimento web e que pode ser embutida dentro do HTML.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-56
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -3892,12 +3816,10 @@ de árvore de expressão.
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-57
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -3955,8 +3877,7 @@ Gabarito: Errado
 
 Item. 71. (SELECON / EMGEPRON - 2021) A figura mostra um código em PHP.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-58
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -4044,9 +3965,7 @@ PHP são feitos com "require", "include" ou suas variantes.
 (Pós-Edital)
 
 
-59
 
-121
 
 
 Paolla Ramos e Silva
@@ -4106,12 +4025,10 @@ Figura 7
 abaixo, escrito em PHP 5.5:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-60
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -4198,12 +4115,10 @@ Se utilizamos 0 === estamos comparando o valor e o tipo. Logo:
 Item. 1. $fai===$fi: FALSE
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-61
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -4274,12 +4189,10 @@ c) getPrevious(), getTrace(), getSuppressed().
 d) try(), catch(), finaIly().
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-62
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -4342,7 +4255,7 @@ d) mssql_fetch_row
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -4405,8 +4318,7 @@ utilizada para o desenvolvimento de aplicações voltadas para a internet.
 entre
 várias páginas, permitindo, assim, uma padronização visual muito simplificada e lógica.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-64
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -4485,8 +4397,7 @@ echo " finally-
 
 > Imprime " finally". Assim, será impressa na tela a sequência: catch exception finally
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-65
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -4556,12 +4467,10 @@ b) <p>Parágrafo.</p>
 c) Parágrafo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-66
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -4624,12 +4533,10 @@ public function setNome($Nome) {
 $this->Nome = $Nome;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-67
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -4669,7 +4576,6 @@ echo"SIM";
 
 echo "NÃO";
 
-1
 
 Ao ser executado, esse código apresentará a mensagem:
 
@@ -4694,12 +4600,10 @@ tipo.
 Gabarito: Letra A
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-68
 
-121
+
 
 
 92.(FUNDATEC / CIGA-SC - 2020) Qual dos trechos de código abaixo, em linguagem PHP
@@ -4760,12 +4664,10 @@ estruturada
 e orientada a objetos, portável, robusta e eficiente utilizada para desenvolvimento web.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-69
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -4827,8 +4729,7 @@ de árvore de expressão.
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-70
+ x
 
 www.estrategiaconcursos.com.br
 / 121
@@ -4899,12 +4800,10 @@ permitindo
 ainda a execução do script.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-71
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -4970,8 +4869,7 @@ $subject = $_REQUEST['subject'];
 
 $comment = $_REQUEST['comment'];
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-72
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -5029,8 +4927,7 @@ Item. 103. (CESPE / MEC - 2015) De acordo com o trecho de código
 apresentado, julgue o
 item subsequente.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-73
+ x
 
 www.estrategiaconcursos.com.br
 / 121
@@ -5112,7 +5009,7 @@ caso em que é necessário apenas o interpretador; e escrever aplicações para 
 situação
 em que é necessária a extensão PHP-GTK.
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 
 
 Paolla Ramos e Silva
@@ -5176,8 +5073,7 @@ Item. 109. (CESPE / STM - 2018) O comando INCLUDE interromperá a execução do 
 assim que
 ocorrer um erro, enquanto o comando REQUIRE continuará a executar o código após o erro.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-75
+ x
 
 www.estrategiaconcursos.com.br
 / 121
@@ -5238,12 +5134,10 @@ Comentários:
 Pessoal, ambos são interpretados do lado servidor.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-76
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -5307,12 +5201,10 @@ ZEND é um framework e não uma biblioteca PHP.
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-77
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -5379,12 +5271,10 @@ PHP.
 $final = "abc". "efg";
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-78
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -5442,8 +5332,7 @@ podem se estender em mais de uma linha.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-79
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -5509,8 +5398,7 @@ interpretará variáveis inicializadas.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-80
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -5569,7 +5457,7 @@ Perfeito! Na declaração de uma função, na linguagem PHP, as variáveis envia
 referência
 devem ser identificadas pelo símbolo &.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -5634,8 +5522,7 @@ Comentários:
 
 A saída será:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-82
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -5715,9 +5602,7 @@ no browser do cliente que o acessar.
 (Pós-Edital)
 
 
-83
 
-121
 
 
 Comentários:
@@ -5783,7 +5668,7 @@ recebido.
 
 e) tem apenas dois diferentes escopos de variáveis: local e global.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -5850,12 +5735,10 @@ Ao executar o script será exibido na página:
 a) Ana = 43 Marcos = 18 Paulo = 40 Pedro = 62
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-85
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -5878,8 +5761,7 @@ Paulo (40) e a Marcos (18) com ordenação de valor (arsort) do maior para o men
 
 Gabarito: Letra E
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-86
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -5952,12 +5834,10 @@ Item. 3. (FCC / MPE-AP - 2012) Analise os exemplos de criação de array em PHP.
 I.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-87
 
-121
+
 
 
 $ idade = array("Paulo"=>32, "Pedro"=>3O, "Ana"=>34);
@@ -6029,12 +5909,10 @@ d) SoapClient.
 e) SoapAccess.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-88
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -6104,8 +5982,7 @@ d) cria um link físico.
 
 e) posiciona o ponteiro em um arquivo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-89
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -6179,8 +6056,7 @@ d) Apache.
 
 e) Netscape.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-90
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -6255,12 +6131,10 @@ d) oi/Jul/2009.
 e) Wed, oi/Jul/2009
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 
 
-91
 
-121
 
 
 Paolla Ramos e Silva
@@ -6324,8 +6198,7 @@ e) o, 1, 2, 3, 4 e 5.
 24.(FGV / BANESTES - 2021) HTML, DHTML, JavaScript e PHP são linguagens utilizadas no
 desenvolvimento de sites da World Wide Web. A seu respeito é correto afirmar que:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-92
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -6385,8 +6258,7 @@ e) Pedro = 62 Ana = 43 Paulo = 40 Marcos = 18
 
 26.(IF-RJ / BIO-RIO - 2015) Considere o código PHP a seguir:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-93
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -6463,8 +6335,7 @@ a) mysqL&connect ou mysql_&pconnect
 
 b) mysql_&&connect ou mysql_&&pconnect
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-94
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -6537,15 +6408,12 @@ $argoi = 343 + 20/2 + 911;
 $argo2 = 38 - (5 * 11);
 sargRetorno = $argoi - $argo2;
 
-1
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-95
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -6601,12 +6469,10 @@ d) svar = (100 > 10 ? 100 :10);
 Item. 35. (FGV/ TJ-PI - 2015) Analise o código PHP mostrado a seguir.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-96
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -6669,8 +6535,7 @@ do ambiente de runtime PHP depende fundamentalmente do suporte que o
 sistema
 operacional oferta, e não, das características do zend engine.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-97
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -6751,12 +6616,10 @@ aplicado de
 forma bem sucedida ao script apresentado a seguir, então, após o processamento do pedido, a
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 
 
-98
 
-121
 
 
 Paolla Ramos e Silva
@@ -6828,8 +6691,7 @@ porta 80 e a outra, a uma porta cujo número não se pode determinar
 pelas informações
 apresentadas.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-99
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -6902,7 +6764,7 @@ operacionais, empregam modelo de memória virtual, que atua como um cache de mem
 contém parte das instruções e dados executados por um script em determinado instante de
 tempo. Assim, o script não precisa estar armazenado simultaneamente na memória principal e
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -6973,8 +6835,7 @@ hipotética, assinale a opção em que o código apresentado é o correto para o
 desenvolvedor
 realizar a referida validação, tendo como referência que a variável a sertestada é $email.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-101
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -7031,12 +6892,10 @@ qual
 linguagem de programação melhor se enquadra essa sintaxe:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-102
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -7092,12 +6951,10 @@ acessar diretamente a memória para acionar os ponteiros em uma implementação.
 Item. 71. (SELECON / EMGEPRON - 2021) A figura mostra um código em PHP.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-103
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -7173,8 +7030,7 @@ Item. 76. (CIGA-SC - 2020) Para responder à questão, considere o código apres
 Figura 7
 abaixo, escrito em PHP 5.5:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-104
+
 
 www.estrategiaconcursos.com.br
 / 121
@@ -7267,12 +7123,10 @@ echo"SIM";
 } else {
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-105
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -7343,12 +7197,10 @@ d) V,F,V,F
 o Microsoft SQL Server". A afirmativa se refere a:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-106
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -7416,12 +7268,10 @@ escrito na
 linguagem PHP.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-107
 
-121
+
 
 
 <?php function inversa($x) { if ($x==o) { throw new Exceptionf exception'); }
@@ -7492,12 +7342,10 @@ a) active()
 b) cookie_value()
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-108
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -7526,7 +7374,6 @@ Item. 90. (FCC/TJ-SC-2O2i) Considere o método abaixo, em uma classe PHP chamada
 publicfunction setNome($Nome) {
 
 $this->Nome = $Nome;
-1
 
 A partir de outra classe, um objeto na classe Cliente foi instanciado por meio da
 instrução $cli =
@@ -7570,12 +7417,10 @@ contrário
 apenas o primeiro caractere é considerado.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-109
 
-121
+
 
 
 e) "NÃO", pois a comparação de variáveis com tipos diferentes sempre retorna "falso".
@@ -7638,12 +7483,10 @@ Item. 98. (ADMTEC / PREFEITURA DE RIO LARGO - 2019) Analise o código abaixo e r
 linguagem de programação melhor se enquadra essa sintaxe:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-110
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -7717,12 +7560,10 @@ email
 format";} ?>
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-111
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -7792,9 +7633,7 @@ item subsequente.
 2023 (Pós-Edital)
 
 
-112
 
-121
 
 
 Paolla Ramos e Silva
@@ -7872,7 +7711,7 @@ Item. 108. (CESPE / ANATEL - 2014) No que se refere à linguagem PHP, julgue os 
 
 $_4dias, $ãripãev e $margem_são variáveis válidas no PHP.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -7938,12 +7777,10 @@ linguagem PHP e de compiladores.
 O código PHP
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-114
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -8016,12 +7853,10 @@ scripts PHP
 contra acessos remotos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-115
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -8185,9 +8020,7 @@ a) MARTE.
 2023 (Pós-Edital)
 
 
-117
 
-121
 
 
 Paolla Ramos e Silva
@@ -8262,12 +8095,10 @@ d) Pedro = 62 Paulo = 40 Marcos = 18 Ana = 43
 e) Pedro = 62 Ana = 43 Paulo = 40 Marcos = 18
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-118
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -8397,12 +8228,10 @@ Item. 40. CORRETO 80. LETRA B
 Item. 120. ERRADO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-119
 
-121
+
 
 
 Paolla Ramos e Silva
@@ -8429,7 +8258,7 @@ Item. 140. LETRA E
 
 Item. 127. CORRETO 134- ERRADO
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

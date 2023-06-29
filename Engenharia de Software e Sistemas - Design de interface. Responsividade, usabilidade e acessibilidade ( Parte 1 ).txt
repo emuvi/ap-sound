@@ -21,51 +21,37 @@ Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-índice
+Índice
 
 1) Engenharia de Usabilidade
-3
 
 2) Engenharia de Usabilidade - Guias de Estilo deUsabilidade
-13
 
 3) Engenharia de Usabilidade - Usabilidade para Aplicativosem Dispositivos Móveis.
-14
 
 4) Engenharia de Usabilidade - Folhas de Estilo
-17
 
 5) Engenharia de Usabilidade - e-PWG
-18
 
 6) Resumo - Engenharia de Usabilidade
-28
 
 7) Questões Comentadas - Engenharia de Usabilidade - CESPE
-35
 
 8) Questões Comentadas - Engenharia de Usabilidade - FCC
-46
 
 9) Questões Comentadas - Engenharia de Usabilidade - FGV
-51
 
 10) Questões Comentadas - Engenharia de Usabilidade - Diversas.
-54
 
 11) Lista de Questões - Engenharia de Usabilidade - CESPE
-59
 
 12) Lista de Questões - Engenharia de Usabilidade - FCC
-63
 
 13) Lista de Questões - Engenharia de Usabilidade - FGV
-66
 
 14) Lista de Questões - Engenharia de Usabilidade - Diversas.
-69
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 ENGENHARIA DE USABILIDADE
@@ -135,7 +121,7 @@ O RUP afirma que se trata da criação de sistemas melhores através da compreen
 quem
 são usuários finais e do envolvimento de usuários nos requisitos, no design de interface do
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 usuário e nos esforços de testes, incluindo subcategorias: fatores humanos, estética,
@@ -198,7 +184,7 @@ manutenção reduzidos, produtividade do usuário final
 melhorada, custos de treinamento reduzidos, custos de documentação reduzidos, probabilidade
 reduzida de litígio por clientes insatisfeitos".
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -264,7 +250,7 @@ Ex: você pode desenhar protótipos em papel para dar às pessoas representaçõ
 de
 como seu produto ficará parecido visualmente e como o sistema vai reagir às entradas do usuário.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Não importa como você obtém seus requisitos, você deve se certificar de
@@ -314,7 +300,7 @@ de engenharia de usabilidade realizado no sistema, em vez de se concentrar demai
 métodos
 de usabilidade para alcançar o - talvez inalcançável - "ótimo" em questão. Lembrem-se que
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 frequentemente projetos mais bem desenhados também são mais caros. Essa introdução toda
@@ -410,11 +396,9 @@ familiares ao usuário, ao invés de termos orientados ao sistema. Siga convenç
 do mundo real, tornando as informações que aparecem em uma ordem natural e
 lógica.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-7
 
 
-74
+
 
 
 Os usuários não precisam adivinhar que diferentes palavras, situações ou ações
@@ -480,7 +464,7 @@ e avaliações. Deve-se observar usuários interagindo com o sistema e responder
 uma série de
 questões, entre elas: O sistema é usável sem ajuda ou instrução contínua? As regras de interação
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 ajudam um usuário bem informado sobre como o sistema funciona eficientemente? A
@@ -547,7 +531,7 @@ emprego). Algumas dessas questões e seus efeitos no design da interface de usu�
 mostrados
 na tabela a seguir:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 BAIXA ALTA
@@ -649,7 +633,7 @@ disso que áreas como UX Design são tão importantes dentro de uma empresa. Par
 garantir que as
 experiências dos usuários finais sejam as melhores possíveis.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 E como garantir que todos esses usuários tenham uma excelente experiência com os seus
@@ -718,11 +702,9 @@ melhor é a interação e a experiência.
 Por exemplo: o botão de volume mostra barras mais longas conforme o volume aumenta, e
 barras mais curtas conforme o volume diminui. Apesar de parecer óbvio, o mapeamento
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-11
 
 
-74
+
 
 
 Diego Carvalho
@@ -773,11 +755,9 @@ coerência entretelas; porque reduz otempo de desenvolvimento; e porque melhora 
 qualidade da
 interface. Entendido?
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-12
 
 
-74
+
 
 
 Guias de Estilo de Usabilidade
@@ -826,7 +806,7 @@ comportamento da interface; elementos de interação; mensagens; dispositivos de
 interface de
 hardware; e padrões específicos.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Usabilidade Para Aplicativos em Dispositivos Móveis
@@ -897,7 +877,7 @@ que, mais uma vez, o design do sistema deve estar organizado da melhor forma pos
 para que
 o usuário não seja obrigado a dedicar muito esforço em cada tarefa, considerando as limitações já
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 citadas. Já a satisfação do usuário deve ser conseguida bem mais rapidamente em um
@@ -972,7 +952,7 @@ existentes em cada plataforma móvel específica. Para isto a empresa usa um apl
 específico
 para cada plataforma, o qual segue cada respectivo padrão de interface e de forma de uso.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -983,11 +963,9 @@ Isso faz com que sejam agregados mais recursos e o usuário aprenda a usar o sis
 mais
 rapidamente, elevando a usabilidade e consequentemente as suas vendas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-16
 
 
-74
+
 
 
 Folhas de Estilo
@@ -1037,7 +1015,7 @@ Se a usabilidade é a capacidade que um sistema oferece ao usuário de realizar
 tarefas, é claro que
 as folhas de estilo -que cuidam da apresentação de uma página -tem influência em sua usabilidade.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 e-PWG: Cartilha de Usabilidade do Governo Eletrônico
@@ -1108,7 +1086,7 @@ utilizado em usabilidade para referir-se a cada pessoa que utiliza o objeto em q
 por meio de
 uma interface. No caso, temos o cidadão como usuário e o objeto são as páginas, informações
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 e serviços disponibilizados eletronicamente pelo governo federal. A interface é o meio
@@ -1184,7 +1162,7 @@ foco de atenção o usuário (cidadão) e, muitas vezes, se sobrepõe como área
 No
 entanto, acessibilidade trata do acesso a locais, produtos, serviços ou informações efetivamente
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 disponíveis ao maior número e variedade possível de pessoas independente de suas
@@ -1261,11 +1239,9 @@ ou campos a serem preenchidos, menor a chance de erros, menor o tempo para concl
 um serviço
 e teremos a certeza de que ele escolherá a web como seu canal de comunicação com o governo.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-20
 
 
-74
+
 
 
 Vamos ver agora algumas diretrizes recomendadas para desenvolvimento
@@ -1342,7 +1318,7 @@ Item. 1.14 Formulários amigáveis.
 
 ■ Diretriz 2 - Carga de Informação
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 A carga de informação é a soma de todos os elementos da
@@ -1418,7 +1394,7 @@ Item. 1.32 Quando possível, oferecer a personalização da página.
 
 ■ Diretriz 4-Erros
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Errar é humano. O cidadão pode não entender como proceder em determinado
@@ -1496,7 +1472,7 @@ Item. 1.50 Esquema consistente de cores e fontes.
 
 Item. 1.51 Respeitar a velocidade de conexão do público-alvo.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 1.52 Utilizar de forma consciente plug-ins e multimídia.
@@ -1570,7 +1546,7 @@ investigação; sobre os tipos de testes possíveis no ciclo de desenvolvimento;
 o processo de teste de
 usabiIidade; protótipos; custos de avaliação de usabilidade; entre outros, recomendo ler a cartilha
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 de usabilidade do governo eletrônico com maior profundidade. Vamos falar um
@@ -1648,7 +1624,7 @@ verbalizações dos participantes, o pesquisador pode obter um melhor entendimen
 questões de usabilidade associadas com a interface - geralmente os participantes são
 amigos ou, no mínimo, conhecidos.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1738,11 +1714,8 @@ sobre o assunto do inquérito e precisa-se obter tais dados com o mínimo de dis
 possível. A maioria dos questionários é classificada como fechado (uma opção entre várias
 alternativas) ou aberto (não tem alternativas).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-26
 
-1
-74
+
 
 
 Diego Carvalho
@@ -1824,11 +1797,9 @@ especialista a partir de um determinado padrão previamente escolhido, tal como:
 (Padrão de Acessibilidade do Governo Eletrônico). Avalia-se a conformidade com o que
 foi preconizado pelo padrão escolhido anteriormente.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-27
 
 
-74
+
 
 
 Diego Carvalho
@@ -1906,11 +1877,9 @@ DESCRIÇÃO
 Trata-se da observação de usuários utilizando o sistema para descobrir nível de
 utilização, desentendimentos, entre outros.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-28
 
 
-74
+
 
 
 Diego Carvalho
@@ -2018,11 +1987,9 @@ DOCUMENTAÇÃO
 Mesmo que seja melhor que um sistema possa ser usado sem documentação,
 pode ser necessário fornecer uma ajuda e documentação. Qualquer informação
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-29
 
 
-74
+
 
 
 Diego Carvalho
@@ -2105,11 +2072,9 @@ RECOMENDAÇÕES DE AUTONOMIA
 
 Item. 1.24 Mantenha a função do botão de retrocesso (back/voltar) do navegador.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-30
 
 
-74
+
 
 
 Diego Carvalho
@@ -2196,7 +2161,7 @@ Item. 1.60 Use ênfase e negrito.
 
 Item. 1.61 Evitar o uso de caixa alta.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2283,11 +2248,9 @@ manipulação deliberadas de algumas variáveis; e com o objetivo de testar uma 
 mais hipóteses específicas. É uma avaliação formalmente projetada através de
 controles e balanços muito bem ajustados.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-32
 
 
-74
+
 
 
 Diego Carvalho
@@ -2379,11 +2342,9 @@ ANÁLISE DE TAREFA
 necessários para completar a mesma. Logo, quanto menos passos, mais simples é
 a tarefa. O método de análise da tarefa pode ser utilizado para o desenvolvimento
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-33
 
 
-74
+
 
 
 Diego Carvalho
@@ -2439,11 +2400,9 @@ conformidade com o que foi preconizado pelo padrão escolhido anteriormente.
 
 D PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-34
 
 
-74
+
 
 
 Diego Carvalho
@@ -2512,7 +2471,7 @@ d) visibilidade.
 
 e) mapeamento.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Comentários:
@@ -2579,7 +2538,7 @@ se projetar bem a interface com o usuário para reduzir a carga de memória do u
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 6. (CESPE / TCU - 2005) A variabilidade do tempo de resposta
@@ -2651,7 +2610,7 @@ Javascript, Java ou PHPterá necessariamente usabilidade de boa qualidade, bem
 como de boa
 acessibilidade.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Comentários:
@@ -2702,11 +2661,9 @@ a fase de desenvolvimento.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-38
 
 
-74
+
 
 
 io.(CESPE / CNJ - 2013) A usabilidade consiste em extrair informações a
@@ -2767,11 +2724,9 @@ proporcionar.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-39
 
 
-74
+
 
 
 A usabilidade evita perdas e proporciona Return On Investment (ROI),
@@ -2841,7 +2796,7 @@ acordo com princípios reconhecidos de usabilidade.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 i6.(CESPE/ SERPRO-2008) De acordo com Jakob Nielsen, um dos cinco atributos da usabilidade
@@ -2894,11 +2849,9 @@ significativamente diferentes de usabilidade quando usado em diferentes contexto
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-41
 
 
-74
+
 
 
 A Norma ISO/IEC 9241-11 define usabiIidade como medida na qual um produto pode ser
@@ -2961,7 +2914,7 @@ sistema.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Nunca entendi por que essa questão está errada! O máximo que eu consigo elucubrar é
@@ -3019,7 +2972,7 @@ benefícios mensuráveis que podem ser obtidos de um sistema usável.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 25. (CESPE / TCU - 2010) Identificar categorias e definir os objetivos de teste para
@@ -3079,7 +3032,7 @@ usabilidade é a que permite o conhecimento do usuário ao qual o software se de
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 ANÁLISE DO PERFIL
@@ -3120,11 +3073,9 @@ melhor o usuário ao qual o software se destina.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-45
 
 
-74
+
 
 
 QUESTõES CoMENTADoS - FCC
@@ -3212,11 +3163,9 @@ d) intuitividade.
 
 e) erro.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-46
 
 
-74
+
 
 
 Comentários:
@@ -3287,11 +3236,9 @@ de forma que um usuário - mesmo sem experiência - possa rapidamente obter
 algum
 resultado satisfatório. Trata-se do atributo mais importante de acordo com Jakob Nielsen.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-47
 
 
-74
+
 
 
 Diego Carvalho
@@ -3367,7 +3314,7 @@ Item. 1.40 Utilizar um projeto padrão de páginas (Letra E).
 
 Item. 1.41 Agrupar e hierarquizar, de forma clara, as áreas de informação (Letra D).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 1.42 Usar espaço em branco para separar conteúdos ou assuntos diferentes (Letra C).
@@ -3439,11 +3386,9 @@ Erros (Letra D)
 Desenho
 Redação
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-49
 
 
-74
+
 
 
 Diego Carvalho
@@ -3492,7 +3437,7 @@ Inspeção de Padrões e Avaliação de Peritos.
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3559,7 +3504,7 @@ e) eficiência
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Também conhecida como Intuitividade, o sistema deve serde fácil aprendizado e
@@ -3624,11 +3569,9 @@ exija menos recursos.
 
 A questão trata da Avaliação Cooperativa.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-52
 
 
-74
+
 
 
 Diego Carvalho
@@ -3637,7 +3580,7 @@ Diego Carvalho
 
 Gabarito: Letra D
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 QUESTõES CoMENTADoS - DIvERSAS BANCAS
@@ -3694,11 +3637,9 @@ rapidamente obter algum resultado satisfatório. Trata-se do atributo mais
 importante de acordo
 com Jakob Nielsen.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-54
 
 
-74
+
 
 
 i. (ESAF/CVM -2oio) No ciclo da Engenharia da Usabilidade, as atividades da fase de análise
@@ -3769,11 +3710,9 @@ a) Coerência e padrões. Prevenção de erros. Relembrar em vez de Reconhecer.
 Flexibilidade e
 eficiência de mapeamento. Ajuda e documentação.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-55
 
 
-74
+
 
 
 b) Visibilidade do estado do sistema. Mapeamento entre o sistema e o mundo real.
@@ -3853,11 +3792,9 @@ mundo real; liberdade e controle ao usuário; prevenção de erros; e reconhecer
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-56
 
 
-74
+
 
 
 4- (CESGRANRIO / BACEN - 2009) Uma empresa, contratada para desenvolver uma aplicação
@@ -3919,7 +3856,7 @@ a) janelas pop-up devem sempre ser utilizadas porque são acessíveis aos defici
 e
 fornecem informações úteis antes mesmo de o usuário pedir.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 b) documentos para download devem ser sempre disponibilizados em formatos especiais ou
@@ -3975,11 +3912,9 @@ necessidades especiais das páginas, pois o usuário deve ter autonomia na utili
 
 Gabarito: Letra E
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-58
 
 
-74
+
 
 
 Diego Carvalho
@@ -4048,7 +3983,7 @@ d) cenários de uso e informações na tela do sistema.
 
 e) verbalização simplificada e helps online.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4118,11 +4053,9 @@ empíricas
 contam com a participação direta dos usuários e compreendem, basicamente, os testes com
 usuários por meio do monitoramento de sessões de uso do produto, ou protótipo, em
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-60
 
 
-74
+
 
 
 consideração. Em geral, ostestes de usabilidade com a participação dos usuários são
@@ -4172,11 +4105,9 @@ como, por exemplo, sítios web, software e desktop. Uma das principais fases da
 engenharia de
 usabilidade é a que permite o conhecimento do usuário ao qual o software se destina.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-61
 
 
-74
+
 
 
 Diego Carvalho
@@ -4213,7 +4144,7 @@ Item. 28. CORRETO
 
 Item. 10. ERRADO 20. CORRETO
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - FCC
@@ -4280,7 +4211,7 @@ b) O fundo deve chamar mais atenção do que a informação, desde que seja rela
 tema
 do site. Um fundo de impacto imprime uma personalidade diferenciada ao site.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 c) Não se deve usar espaço em branco para separar conteúdos ou assuntos diferentes.
@@ -4343,11 +4274,9 @@ d) Arranjo de Cartões (card-sorting) e Avaliação Cooperativa.
 
 e) Co-descoberta e Diário de Incidentes.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-64
 
 
-74
+
 
 
 Diego Carvalho
@@ -4369,7 +4298,7 @@ Item. 5. LETRA E
 
 Item. 6. LETRA B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - FC V
@@ -4436,7 +4365,7 @@ c) análise do especialista;
 
 d) avaliação cooperativa;
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4445,7 +4374,7 @@ Diego Carvalho
 
 e) walkthrough heurístico.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 www.estrategiaconcursos.com.br
 
@@ -4459,7 +4388,7 @@ GABARITo
 Item. 1. LETRA A 2. LETRA A
 Item. 3. LETRA D
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
@@ -4514,7 +4443,7 @@ Item. 3. (ESAF / CVM - 2010) São heurísticas de usabilidade:
 a) Coerência e padrões. Prevenção de erros. Relembrar em vez de Reconhecer. Flexibilidade e
 eficiência de mapeamento. Ajuda e documentação.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 b) Visibilidade do estado do sistema. Mapeamento entre o sistema e o mundo real.
@@ -4582,7 +4511,7 @@ fornecem informações úteis antes mesmo de o usuário pedir.
 b) documentos para download devem ser sempre disponibilizados em formatos especiais ou
 proprietários.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 c) páginas de transição, de abertura (splash-pages) ou "em construção" devem ser usadas
@@ -4597,7 +4526,7 @@ e) o comportamento e as funcionalidades do navegador não devem ser alterados pa
 satisfazer
 necessidades especiais das páginas, pois o usuário deve ter autonomia na utilização do site.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4619,14 +4548,14 @@ Item. 5. LETRA E
 
 Item. 6. LETRA E
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

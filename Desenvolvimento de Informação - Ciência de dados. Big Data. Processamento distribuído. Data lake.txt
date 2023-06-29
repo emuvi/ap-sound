@@ -1,25 +1,11 @@
 Capítulo. Desenvolvimento de Informação - Ciência de dados. Big Data. Processamento distribuído. Data lake.
 
-Concursos
-
-(Prof. Thiago
-
-Cavalcanti)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Banco de dados - 2023
-
-(Pós-Edital)
-
-Autor:
-
-Thiago Rodrigues Cavalcanti
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
 
-índice
+
+
+Índice
 
 1) Introdução Big Data, NoSQL e Hadoop
 
@@ -31,11 +17,11 @@ Thiago Rodrigues Cavalcanti
 
 5) Questões Comentadas - Big Data, NoSQL e Hadoop - Multibancas
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 INTRoDUçÃo
 
@@ -82,11 +68,11 @@ E o que esses dados possuem em comum? São dados não-estruturados. Estima-se qu
 das
 informações com as quais as empresas lidam hoje não estão estruturadas. Desta forma, o SGBD
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 tradicional e a modelagem relacional (datados da década de 60) não são mais
 suficientes para lidar
@@ -147,11 +133,11 @@ tecnologias relacionadas a introspecção necessária para seus clientes tomarem
 suas decisões todos os
 dias.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 necessidade crescente de lidar com dados quase em tempo real. Reagir rápido
 o
@@ -208,11 +194,11 @@ atividades antiterroristas e você entenderá a ideia de que Big Data não é s�
 
 RESUMINDO
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 
 Volume
@@ -323,11 +309,11 @@ definição da Oracle, Big Data é, muitas vezes, caracterizado por uma "densida
 valor
 relativamente baixa". Isto é, os dados recebidos na forma original, geralmente tem um
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 valor baixo em relação ao seu volume. Entretanto, um valor elevado pode ser obtido
 pela
@@ -392,11 +378,11 @@ volume, valor e variedade são as mesmas neste contexto. Incluímos mais duas pe
 que não
 foram listadas acima: governança e pessoas. Vejamos suas definições:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Governança - Ao decidir implementar ou não uma plataforma de big data, uma
 organização pode estar olhando novas fontes e novos tipos de elementos de dados nos
@@ -464,11 +450,11 @@ procurando formas inovadoras e rentáveis de processamento da informação, visa
 melhor
 percepção dos fatos e uma tomada de decisão mais consistente.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Outra definição da TechAmerica define big data da seguinte forma:
 
@@ -512,7 +498,6 @@ deve crescer de 1,8 zetta byte, hoje, para
 toda a informação do mundo poderá ser
 armazenada em:
 
-493
 
 bilhões
 de iPads
@@ -642,11 +627,11 @@ Entendido os conceitos básicos vamos avançar no assunto. Antes de falar sobre 
 premissas e
 aplicações, gostaria de tecer alguns comentários sobre falácias ou mitos associados a Big Data.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 FALÁCIAS2 SoBRE BIG DATA
 
@@ -718,11 +703,11 @@ errado com aparência de verdadeiro. Na lógica e na retórica, uma falácia é
 um argumento logicamente
 inconsistente, sem fundamento, inválido ou falho na tentativa de provar eficazmente o que alega.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Falácia 06 - Big Data pode prever o futuro
 
@@ -797,11 +782,11 @@ Data
 tais como o aumento da capacidade de armazenamento, aumento do poder de processamento e
 disponibilidade de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 APLICAçõES DE BIG DATA
 
@@ -882,11 +867,11 @@ pergunta: E como eu implemento esse trem? (Homenagem aos meus amigos mineiros). 
 alguém
 vai te responder: usa uma base NoSQL com a infraestrutura do Hadoop!
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 CAIU
 
@@ -949,11 +934,11 @@ Tipo de big data
 
 Descrição
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 
 Serviços públicos:
@@ -1031,15 +1016,13 @@ Data, e as possíveis divisões ou grupos em cada categoria. As categorias mais
 relevantes estão em
 azul turquesa.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-14
 
 
-78
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Analysis Type
 
@@ -1119,11 +1102,11 @@ armazenamento e as ferramentas necessárias de pré-processamento. Frequência e
 tamanho de
 dados dependem das fontes.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 * Sob demanda, como dados de mídia social
 
@@ -1192,11 +1175,11 @@ dados de
 mídia social e armazenamento de dados não estruturados, por exemplo. Os
 padrões atômicos
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 podem trabalhar em conjunto para criar um padrão composto. Não há camadas ou sequência
 para
@@ -1228,11 +1211,11 @@ Os requisitos típicos para visualização de big data, incluindo os requisitos 
 são listados
 abaixo:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 * Realizar análise em tempo real e exibição de dados de fluxo
 
@@ -1308,11 +1291,11 @@ processadas em horários pré-determinados).
 
 Vejamos um pouco mais sobre esses padrões a seguir:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Análise de dados históricos
 
@@ -1383,11 +1366,11 @@ formato estruturado, envolvendo metadados, relacionado a algum outro dado ou inf
 
 Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Análise ad hoc
 
@@ -1452,11 +1435,11 @@ exigirá um tratamento diferente para acessar esses dados.
 
 (gerados por) Dispositivos
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 O conteúdo gerado por dispositivos inclui dados de sensores. Os dados são detectados a
 partir das
@@ -1519,11 +1502,11 @@ um sistema de autogerenciamento tolerante a falhas de grande escala que
 inclui terabytes de
 memória e petabytes de armazenamento.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Armazenamento de dados tradicionais
 
@@ -1596,11 +1579,11 @@ aprendizagem dos alunos e, assim, contribuir para soluções mais eficientes de
 educação
 mediada por tecnologia.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Comentário: O Big Data poder ser utilizado para melhor conhecer o perfil e o
 comportamento
@@ -1648,11 +1631,11 @@ Tecnologias
 
 (Hadoop, Mongo, HPCC,...)
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 NoSQL
 
@@ -1715,11 +1698,11 @@ relacional e as estruturas de dados na memória, comumente chamada de incompatib
 de
 impedância. Os modelos de dados relacionais organizam os dados em uma estrutura de tabelas e
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 linhas, ou, mais apropriadamente, de relações e tuplas. Uma tupla é um conjunto de
 pares nome-
@@ -1803,15 +1786,13 @@ distribuídos e de código aberto". As palestras lá realizadas versaram sobre V
 Cassandra,
 Dynomite, HBase, Hypertable, CouchDB e MongoDB, mas o termo nunca ficou limitado a esse grupo
 
-Q-Q SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-25
+Q-Q 
 
 
-78
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
 
 original. Não há uma definição genericamente aceita nem uma autoridade para fornecer
 uma, de
@@ -1863,11 +1844,11 @@ Uma das mudanças mais evidentes trazidas pelo NoSQLé o afastamento do modelo
 relacional. Cada
 solução NoSQL possui um modelo diferente, os quais dividimos em quatro categorias amplamente
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 utilizadas no ecossistema NoSQL: chave-valor, documento, família de colunas ou colunar, e grafos.
 Dessas as três primeiras compartilham uma característica em comum conhecida como
@@ -1957,11 +1938,11 @@ Vamos agora tratar com um pouco mais de detalhes cada uma das categorias de mode
 que
 apresentamos anteriormente.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 MoDELo DE DADoS CHAVE-VALoR
 
@@ -2032,11 +2013,11 @@ O modelo de documentos torna o agregado transparente para o banco de dados, perm
 que
 sejam executadas consultas e recuperações parciais. Entretanto, pelo fato de o documento não
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 possuir esquema, o banco de dados não pode atuar muito na estrutura desse documento
 para
@@ -2087,11 +2068,11 @@ Vejam que neste caso, mudamos o paradigma em relação ao modelo chave-valor. A
 orientação deixa
 de ser por registros ou tuplas para orientação por colunas. Neste modelo os dados são indexados
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 por uma trilha (linha, coluna e timestamp), onde as linhas e colunas são identificadas
 por chaves e o
@@ -2129,11 +2110,11 @@ também o Hbase, que é um banco de dados open source semelhante ao BigTable, qu
 utiliza o
 Hadoop.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 MoDELo DE GRAFoS
 
@@ -2214,11 +2195,11 @@ a figura abaixo que apresenta duas características relacionadas aos bancos de d
 grafos: o
 processamento e o armazenamento nativo.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 
 Microsoft
@@ -2284,7 +2265,6 @@ Redis
 
 Album ID:
 
-2
 
 TracklD
 
@@ -2308,15 +2288,13 @@ WACLÉX Oracle
 
 , BERKELEYDBj BerkeleyBD
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-32
 
 
-78
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 MongoDB
 
@@ -2327,11 +2305,11 @@ DocumentDB
 
 ^TiTAh Titan
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 FoRMAS DE DISTRIBUIçÃo
 
@@ -2395,11 +2373,11 @@ A consistência refere-se ao fato de que uma leitura em qualquer um dos nodos de
 sistema
 retorna como resultado a mesma informação. Vejam a figura abaixo:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Peer A
 
@@ -2465,11 +2443,11 @@ ACID é um princípio de design de banco de dados relacionado ao gerenciamento d
 transações. É
 um acrônimo que significa: Atomicidade, Consistência, Isolamento e Durabilidade.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 ACID é um estilo de gerenciamento de transações que utiliza controles de simultaneidade
 pessimista
@@ -2541,15 +2519,13 @@ sucesso/fracasso. Na figura abaixo, o banco de dados é basicamente disponível,
 que tenha
 sido particionado como um resultado de uma falha de rede.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-36
 
 
-78
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 DBMS
 
@@ -2601,11 +2577,11 @@ base de dados esteja em processo para atingir o estado de consistência, estarem
 um estado
 soft.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Na figura a seguir: 1. Um usuário atualiza um registro. 2. O registro só fica atualizado
 no peer A, mas
@@ -2656,11 +2632,11 @@ passo a passo para alcançar o resultado usando a funcionalidade MapReduce. Todo
 processo é
 ilustrado no diagrama a seguir:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Elementos que tenham o mesmo formato de entrada e saída podem ser combinadas em
 pipelines.
@@ -2677,11 +2653,11 @@ MapReduce que apenas computem alterações na visão, em vez de computar novamen
 desde
 o início.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 HADooP
 
@@ -2737,11 +2713,11 @@ Hadoop = HDFS + MapReduce
 
 Hadoop tem uma série de vantagens, e algumas delas são:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Baixo custo - Funciona em hardware simples (commodity): Hadoop pode ser
 executado em
@@ -2801,11 +2777,11 @@ A figura abaixo mostra as camadas e as ferramentas e utilitários dentro
 dessas camadas, no
 ecossistema Hadoop:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 No Hadoop, sabemos que os dados são armazenados em um ambiente de computação
 distribuída,
@@ -2838,11 +2814,11 @@ A camada de base em Hadoop para a programação distribuída é MapReduce. Se vo
 observar a
 figura os outros frameworks rodam em cima do MapReduce.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Hadoop MapReduce: MapReduce é o coração do sistema Hadoop de programação
 distribuída.
@@ -2917,11 +2893,11 @@ como Yahoo, Adobe, Facebook, Twitter, Stumblellpon, NGData, Infolinks, Trend
 Micro, e muitos
 mais.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 INGESTÃo DE DADoS
 
@@ -2962,11 +2938,11 @@ de dados
 baseados em eventos. Por exemplo, coletar arquivos de log de um banco de servidores da Web e,
 em seguida, mover os eventos de log desses arquivos para o HDFS (fluxo de cliques).
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 O objetivo principal do Flume é ingerir dados de eventos no HDFS (Hadoop Distributed
 File System)
@@ -3072,11 +3048,11 @@ exportar dados em MapReduce, e ainda importar e exportar dados no modo
 paralelo. Sqoop
 também é tolerante a falhas.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 O Sqoop agenda as tarefas de map reduce jobs para efetivar os imports and exports.
 Ele sempre
@@ -3129,15 +3105,13 @@ da Programação Baseada em Fluxo [fbp]. Apresentaremos alguns dos principais co
 NiFi e
 como eles são mapeados para o FBP.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-46
 
 
-78
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 NiFi Term FBP Term Descrição
 
@@ -3227,11 +3201,11 @@ os dados do evento são indexados e pesquisáveis.
 
 Vejamos esses componentes na figura abaixo:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 NiFi também é capaz de operar dentro de um cluster. Neste caso, cada nó em um cluster NiFi executa
 as mesmas tarefas nos dados, mas, cada um opera em um conjunto diferente de dados. O
@@ -3267,10 +3241,10 @@ transferência, tendo como
 principal objetivo a construção de ligações de transmissão de dados entre sistemas para obtenção
 dos mesmos.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
+
+
 Thiago Cavalcanti)
 
 Funciona como um cluster em um ou mais servidores, guardando o registo da transmissão
@@ -3321,11 +3295,11 @@ para
 streaming de dados. Storm permite atividades orientadas a dados e
 automatizadas. Pode ser
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 utilizado com qualquer linguagem de programação e garante que os fluxos de
 dados são
@@ -3401,11 +3375,11 @@ escritos
 em MapReduce, Pig, e Hive, também programas Java e scripts shell, e permite ligá-los uns aos
 outros.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Oozie é um serviço extensível, escalável e com reconhecimento de dados. Oozie pode ser usado para
 definir regras, começando e terminando um fluxo de trabalho, e detectando a conclusão de tarefas.
@@ -3479,11 +3453,11 @@ relacionadas ao Hadoop. A figura que apresentamos no início mostra a
 integração entre esses
 componentes de forma gráfica. Esperamos que você tenha gostado.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 A seguir apresentaremos nossa tradicional lista de questões comentadas! Elas fazem parte
 da aula
@@ -3491,15 +3465,13 @@ e devem ajudar você na fixação do conteúdo. São apresentadas questões das 
 variadas bancas
 para abranger de forma mais ampla o conteúdo.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-52
 
 
-78
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 A maioria das evidências digitais é armazenada no sistema de arquivos do
 computador, mas
@@ -3572,11 +3544,11 @@ proveniência (por
 exemplo, quando os elementos de dados chegaram, onde estão localizados, de onde vieram,
 qual é a qualidade dos dados, etc.). Também pode conter quantos registros foram rejeitados
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 durante a preparação de dados ou uma execução de tarefa, e o sucesso ou fracasso da
 própria
@@ -3629,11 +3601,11 @@ podem ser espalhadas pelos arquivos de log que são gravados pelos processos que
 acessam esses
 conjuntos de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 DATA LAKE
 
@@ -3713,11 +3685,11 @@ negócios
 específicos, mas sempre têm como objetivo traduzir o valor dos dados em uma política de acesso
 e armazenamento apropriada. Isso maximiza o armazenamento disponível e dá prioridade aos
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 dados mais críticos ou de alta utilização. As implementações iniciais de lagos de
 dados muitas vezes
@@ -3796,20 +3768,20 @@ os dados, e os metadados ajudam a reduzir o tempo de insight1 fornecendo acesso 
 
 1 1 Descobrir algum padrão ou obter um resultado da análise.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 descobrir quais dados estão disponíveis e mantendo um mapa de rastreamento de dados
 completo (linhagem de dados).
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 QUESTõES CoMENTADAS - MULTIBANCAS
 
@@ -3871,11 +3843,11 @@ conceito,
 o de gestão de processos de negócio, conhecido como BPM. Logo, temos uma alternativa
 incorreta.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 B) Um Sistema de Recomendação combina várias técnicas computacionais para selecionar
 itens personalizados com base nos interesses dos usuários e conforme o contexto no qual
@@ -3943,11 +3915,11 @@ dados.
 
 (E) rapidez com que os dados se tornam inválidos com o tempo.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Comentário: Essa é a primeira questão de Big Data elaborada pela Cesgranrio. Acho que a falta
 de experiência nesse assunto fez com que as alternativas A e B pudessem ser
@@ -4016,11 +3988,11 @@ na prova!
 
 Item. 4. Ano: 2018 Banca: CESPE Órgão: TCE-PB Prova: Auditor de Contas Públicas - Demais Áreas
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Com referência a big data, assinale a opção correta.
 
@@ -4090,11 +4062,11 @@ inicial e um ou mais nós de destino. Comumente feito em uma única máquina
 com o Algoritmo de
 Dijkstra.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Gabarito: E.
 
@@ -4160,11 +4132,11 @@ Variedade. À medida que mais organizações começaram a aproveitar o potencial
 Data,
 a lista de V se expandiu, vejamos cada um deles:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Volume: refere-se à quantidade de dados. O Big Data geralmente tem milhares de
 entidades
@@ -4214,11 +4186,11 @@ Infraestrutura, Plataforma e Software como serviço, vamos, primeiramente olhara
 para a
 figura a seguir:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Infrastructure Platform Software
 
@@ -4299,7 +4271,6 @@ Networking
 
 s Storage Stoiage
 
-3
 
 Q.
 
@@ -4343,11 +4314,11 @@ CAIU
 
 na prova!
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 8. Ano: 2017 Banca: FGV Órgão: IBGE Prova: Analista Censitário - Análise de
 Sistemas -
@@ -4404,15 +4375,13 @@ CAIU
 
 na prova!
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-65
 
 
-78
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 9. Ano: 2015 Banca: CESPE Órgão: TJDFT Cargo: Suporte em Tecnologia da Informação
 -
@@ -4479,11 +4448,11 @@ disponibilidade é prioridade, S - (Soft-State) - Não precisa ser consistente o
 todo e E -
 (Eventually Consistent) - Consistente em momento indeterminado. Outro ponto importante é
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 a relação de NoSQL com o modelo de dados, geralmente o banco é considerado schema
 free,
@@ -4550,11 +4519,11 @@ Veracidade. O quarto V do conceito está ligado à veracidade do conteúdo. Nem 
 dados
 gerados possuem consistência dentro do contexto. É preciso destacar o que é rico e correto
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 em conteúdo no meio de tanta informação. Ao garantir essa separação, que é possível
 fazer a
@@ -4619,11 +4588,11 @@ como 3V, e destaca:
 
 A variedade, visualização, volume;
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 B velocidade, virtualização, volume;
 C variedade, velocidade, volume;
@@ -4687,11 +4656,11 @@ na prova!
 
 Item. 15. ANO: 2014 BANCA: CESPE ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Julgue os itens que se seguem, no que se refere a Big Data.
 
@@ -4757,11 +4726,11 @@ entre a requisição e a resposta.
 
 Gabarito: E.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 CAIU
 
@@ -4818,11 +4787,11 @@ diferentes tipos, são eles:
 Chave/valor (Key/Value): conhecidos como tabelas de hash distribuídas. Armazenam objetos
 indexados por chaves, e facilita a busca por esses objetos a partir de suas chaves.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Orientados a Documentos: os documentos dos bancos são coleções de atributos e valores
 onde um atributo pode ser multivalorado. Em geral, os bancos de dados
@@ -4892,11 +4861,11 @@ CAIU
 
 na prova!
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 19. ANO: 2014 BANCA: CESPE ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
 
@@ -4961,11 +4930,11 @@ bancos utiliza modelos de armazenamento de dados totalmente distintos dos utiliz
 em
 sistemas relacionais.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Comentário: Nem todos os modelos de armazenamentos são totalmente distintos dos
 sistemas relacionais. Se pensarmos no modelo de armazenamento colunar ele é semelhante a
@@ -5032,11 +5001,11 @@ CAIU
 
 na prova!
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 23. ANO: 2013 BANCA: CESPE ORGAO: CNJ PROVA: ANALISTA JUDICIÁRIO - ANALISE DE
 SISTEMAS
@@ -5095,11 +5064,11 @@ em quatro diferentes tipos, dois deles são citados na questão:
 Chave/valor (Key/Value): conhecidos como tabelas de hash distribuídas. Armazenam objetos
 indexados por chaves, e facilita a busca por esses objetos a partir de suas chaves.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Orientado a Grafos: diferente de outros bancos de dados NoSQL, esse está
 diretamente
@@ -5169,11 +5138,11 @@ diversos tipos de integração.
 cloud computing se refere, essencialmente, à noção de utilizarmos, em qualquer
 lugar e
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 independente de plataforma, as mais variadas aplicações por meio da internet com a
 mesma
@@ -5190,7 +5159,7 @@ alternativa correta.
 
 Gabarito: C C
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

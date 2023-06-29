@@ -20,7 +20,7 @@ Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-índice
+Índice
 
 1) Desenvolvimento Front-End - HTML - Teoria
 
@@ -28,7 +28,7 @@ Paolla Ramos e Silva
 
 3) Desenvolvimento Front-End - HTML - Lista de Questões - MULTIBANCAS
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -38,73 +38,50 @@ Paolla Ramos e Silva
 Sumário
 
 Apresentação da Aula
-3
 
 HTML
-4
 
 Conceitos Básicos.
-4
 
 HTML Básico
-9
 
 Elementos HTML
-13
 
 Atributos HTML
-15
 
 Cabeçalhos HTML
-16
 
 Parágrafos HTML
-17
 
 Estilos HTML
-20
 
 Formatação de Texto HTML
-23
 
 Citação em HTML
-25
 
 Comentários HTML
-27
 
 Cores HTML
-28
 
 Links HTML
-31
 
 Imagens HTML
-33
 
 Tabelas HTML
-37
 
 Estilização de Tabelas HTML
-40
 
 Listas HTML
-41
 
 Listas Não Ordenadas.
-42
 
 Listas Ordenadas em HTML
-46
 
 Bloco HTML e elementos embutidos.
-49
 
 Elementos de nível de bloco
-49
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-3
+0 0 
 
 wwN.estrategiaconcursos.com.br
 / 187
@@ -117,46 +94,32 @@ Paolla Ramos e Silva
 (Profs. Paolla Ramos e Raphael Lacerda)
 
 Elementos inline
-52
 
 Atributo de classe HTML
-55
 
 Formulários HTML
-59
 
 Os elementos HTML <form>
-62
 
 Principais Características.
-58
 
 APIs HTML
-66
 
 API de geolocalização HTML
-66
 
 API de armazenamento daWeb em HTML
-68
 
 RESUMO
-74
 
 REFERÊNCIAS
-100
 
 Questões Comentadas.
-64
 
 Questões Cespe
-65
 
 Gabarito
-103
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-4
+
 
 www.estrategiaconcursos.com.br
 ./ 187
@@ -194,11 +157,9 @@ conteúdo de forma mais simples. Aproveitem o material, além dos esquemas,
 resumos e
 mnemónicos. Vamos ao que importa! (§)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-5
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -273,11 +234,9 @@ de eventos concorrentes dependentes de tempo (como áudio, vídeo, etc.), conect
 hiperligações (em inglês: hyperlink e link). O padrão é
 independente de outros padrões de processamento de texto em geral.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-6
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -321,7 +280,6 @@ Meu primeiro parágrafo.
 </html>
 
 l
-1
 
 * A declaração <!DOCTYPE html> define que este documento é um documento HTML5;
 
@@ -356,10 +314,9 @@ SGML é um padrão de formatação de textos. Não foi desenvolvido para hiperte
 tornou-se conveniente para transformar documentos em
 hiper-objetos e para descrever as ligações.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x" 7
+ x" 7
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -428,11 +385,9 @@ formulário e tipos de entrada, como data, e-mail e intervalo, o que torna
 mais fácil
 para os desenvolvedores criar formulários amigáveis.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-8
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -495,11 +450,9 @@ estilo ou layout. Se você deseja controlar o layout ou a aparência da
 página da Web, use
 CSS.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-9
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -543,13 +496,11 @@ ELEMENTOS HTML INFORMAM AO NAVEGADOR COMO EXIBIR 0 CONTEÚDO E ROTULAM PARTES
 ", ETC.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 www. estra tegiaconcursos. com. br
 
 
-10
 
-187
 
 
 Paolla Ramos e Silva
@@ -613,14 +564,12 @@ Este é o título 3
 Os parágrafos HTML são definidos com a tag <p>:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-11
 
-187
 
 
 Paolla Ramos e Silva
@@ -668,13 +617,11 @@ src), texto
 alternativo ( alt), widthe height são fornecidos como atributos:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 www. estra tegiaconcursos. com. br
 
 
-12
 
-187
 
 
 Paolla Ramos e Silva
@@ -761,14 +708,12 @@ Elementos ou
 Estilos que é aberto.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-13
 
-187
 
 
 Paolla Ramos e Silva
@@ -804,13 +749,11 @@ none;">-</iframe>
 </html>
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 I www.estrategiaconcursos.com.br
 
 
-14
 
-187
 
 
 Paolla Ramos e Silva
@@ -880,11 +823,9 @@ elementos html que não precisam da tag final. Mas a boa prática de
 programação diz:
 "Nunca pule a tag final!" ©
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-15
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -929,14 +870,12 @@ restritos,
 comoXHTML.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-16
 
-187
 
 
 Paolla Ramos e Silva
@@ -988,14 +927,12 @@ acordo com suas
 necessidades.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-17
 
-187
 
 
 Paolla Ramos e Silva
@@ -1094,11 +1031,9 @@ Título 1
 Você pode alterar o tamanho de um título com o atributo style,
 usando a propriedade font-size.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-18
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -1192,8 +1127,7 @@ Este é o título 2
 
 Este é outro texto.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-19
+* 
 
 
 Paolla Ramos e Silva
@@ -1245,7 +1179,7 @@ d) <code> e </code>
 
 e) <pre> e </pre>.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 x-""' 20
 
 www.estrategiaconcursos.com.br
@@ -1262,11 +1196,9 @@ Comentários: O elemento HTML <pre>define o texto pré-formatado. O texto dentro
 elemento <pre> é exibido em uma fonte de largura fixa (geralmente Courier) e preserva espaços
 e quebras de linha. (Gabarito: Letra E)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-21
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -1334,11 +1266,9 @@ Isso é um parágrafo.
 
 2 property é uma propriedade CSS. vaLue é um valor CSS.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-22
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -1434,22 +1364,19 @@ Cabeçalho centralizado
 Parágrafo centralizado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-23
 
-187
 
 
 Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-24
+
 
 www.estrategiaconcursos.com.br
 / 187
@@ -1517,11 +1444,9 @@ Texto sobrescrito. O texto sobrescrito aparece meio caractere acima da
 linha normal e, às vezes, é renderizado em uma fonte menor. O texto
 sobrescrito pode ser usado para notas de rodapé, como WWW111.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-25
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -1553,8 +1478,7 @@ Paolla Ramos e Silva
 
 <SUP> TEXTO SOBRESCRITO
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-26
+
 
 www.estrategiaconcursos.com.br
 / 187
@@ -1647,15 +1571,13 @@ documento ou artigo. As informações de contato podem ser um endereço de e-mai
 endereço físico, número de telefone, identificador de mídia social, etc. O texto no
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 *
 
-27
 
-187
 
 
 Paolla Ramos e Silva
@@ -1697,11 +1619,9 @@ C->
 
 <Q> DEFINE UMA CITAÇÃO CURTA EM LINHA
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-28
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -1728,15 +1648,13 @@ comentários, você pode colocar notificações e lembretes em seu código HTML.
 <!-- Lembre-se de adicionar mais informações aqui -->
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 *
 
-29
 
-187
 
 
 Paolla Ramos e Silva
@@ -1821,11 +1739,9 @@ nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
 olutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
 ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-30
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -1928,12 +1844,12 @@ hsla(9,100%, 64%, 0.5)
 In addition to the predefined color names, colors can be specified using RGB, HEX, HSL, or even
 transparent colors using RGBA or HSLA color values.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -1989,17 +1905,15 @@ como o clique de um botão:
 cbutton onclick="document.location='default.asp'">HTML </ button >
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-33
-
-187
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
+
 
 
 Paolla Ramos e Silva
@@ -2062,15 +1976,13 @@ Item. 2. URL relativo - Links para uma imagem hospedada no site. Aqui, a URL nã
 de domínio. Se a URL começar sem uma barra, ela será relativa à página atual. Exemplo:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 *
 
-35
 
-187
 
 
 Paolla Ramos e Silva
@@ -2134,11 +2046,9 @@ Alternative text
 O atributo alt deve refletir o conteúdo da imagem: para que os usuários
 que nào podem ver a imagem entendam o que ela contém:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-36
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -2204,8 +2114,7 @@ Define um mapa de imagem;
 Define uma área clicável dentro de um mapa de imagem;
 Define um contêiner para vários recursos de imagem.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-37
+
 
 www.estrategiaconcursos.com.br
 / 187
@@ -2249,8 +2158,7 @@ cimg src="workplace.jpg" alt="Workplace" usemap="#workmap">
 
 </map>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) s'"
-38
+ s'"
 
 www.estrategiaconcursos.com.br
 ./ 187
@@ -2349,14 +2257,12 @@ Para entender melhor o exemplo, adicionamos bordas à tabela.
 </html>
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-39
 
-187
 
 
 Paolla Ramos e Silva
@@ -2421,14 +2327,12 @@ podem ter tamanhos diferentes para cada coluna, linha ou tabela inteira. Use o a
 style com as propriedades width ou height para especificar o tamanho de uma tabela,
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-40
 
-187
 
 
 Paolla Ramos e Silva
@@ -2486,11 +2390,9 @@ uma célula abranger várias colunas, use o atributo colspan. Para fazer uma
 célula abranger
 várias linhas, use o atributo rowspan
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-41
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -2527,14 +2429,12 @@ quantas
 colunas recebem o estilo. Já, o atributo style especifica o estilo a ser dado às colunas.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-42
 
-187
 
 
 Paolla Ramos e Silva
@@ -2625,16 +2525,14 @@ descrição, a tag
 <dt> define o termo (nome) e a tag <dd> descreve cada termo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 * 05152001900 - Everton
 Murilo Vieira
 
-43
 
-187
 
 
 Paolla Ramos e Silva
@@ -2762,11 +2660,9 @@ i
 
 Listas Não Ordenadas
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-44
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -2789,11 +2685,9 @@ Além de toda as opções já citadas, ainda podemos ter listas aninhadas, ou
 seja, uma lista
 dentro da outra lista.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-45
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -2904,11 +2798,9 @@ background-color: #111111;
 
 </head>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-46
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -2968,14 +2860,12 @@ no caso em =
 =
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-47
 
-187
 
 
 Paolla Ramos e Silva
@@ -3034,8 +2924,7 @@ você define o tipo e o resultado será como a imagem logo após o código. Veja
 
 </ol>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-48
+
 
 www.estrategiaconcursos.com.br
 ./ 187
@@ -3093,8 +2982,7 @@ a contar a partir de um número específico, poderá usar o atributo start e
 definir o valor
 que deseja iniciar.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-49
+
 
 www.estrategiaconcursos.com.br
 / 187
@@ -3168,7 +3056,7 @@ AS LISTAS PODEM SER ANINHADAS
 
 OS ITENS DA LISTA PODEM CONTER OUTROS ELEMENTOS HTML
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -3247,14 +3135,12 @@ representar barras
 laterais, citações e outros conteúdos relacionados tangencialmente.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-51
 
-187
 
 
 Paolla Ramos e Silva
@@ -3318,11 +3204,9 @@ do elemento
 especificados em
 pixels ou como uma porcentagem do espaço disponível.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-52
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -3389,10 +3273,9 @@ compatível com o elemento <track>, como WebVTT (Web Video Text Tracks).
 
 Theora é um codec de vídeo, de compressão com perda de dados
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -3439,11 +3322,9 @@ apenas a largura necessária.
 
 Vejamos os elementos inline em HTML:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-54
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -3494,11 +3375,9 @@ A beira do rio Tâmisa, Londres tem sido um importante assentamento por dois
 milênios, sua história remonta à sua fundação pelos romanos, que a batizaram
 de Londinium.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-55
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -3533,14 +3412,12 @@ Para relembrar, fica esse grande lembrete:
 <SPAN> DEFINE UMA SEÇÃO EM UM DOCUMENTO [EM UNHA)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-56
 
-187
 
 
 Paolla Ramos e Silva
@@ -3647,16 +3524,14 @@ com todas as
 classes especificadas.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 * 05152001900 - Everton
 Murilo Vieira
 
-57
 
-187
 
 
 Paolla Ramos e Silva
@@ -3738,9 +3613,8 @@ exemplo a seguir, ambos <p> apontam para a classe "city" e compartilharão o
 mesmo
 estilo
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
-1
+
 
 * 05152001900 - Everton
 Murilo Vieira
@@ -3867,14 +3741,12 @@ Tóquio é a capital do Japão.
 </html>
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-59
 
-187
 
 
 Paolla Ramos e Silva
@@ -3895,14 +3767,12 @@ JAVASCRIPT PODE ACESSAR ELEMENTOS COM UM NOME DE CLASSE ESPECÍFICO COM 0 MÉTOD
 GETELEMENTSBYCLASSNAMEO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-60
 
-187
 
 
 Paolla Ramos e Silva
@@ -3987,11 +3857,9 @@ usuários de leitores de tela, porque o leitor de tela lerá o rótulo em voz al
 quando o
 usuário focar no elemento de entrada.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-61
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -4105,8 +3973,7 @@ O Eu tenho um carro
 O <input type="submit"> define um botão para enviar os dados do formulário para um
 manipulador de formulário. O manipulador de formulário geralmente é um arquivo no
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-62
+
 
 www.estrategiaconcursos.com.br
 / 187
@@ -4196,11 +4063,9 @@ O atributo do método especifica o método HTTP a ser usado ao enviar os dados d
 formulário. Os dados do formulário podem ser enviados como variáveis de URL
 (com
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-63
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -4273,11 +4138,9 @@ target Especifica onde exibir a resposta recebida após o envio do formulário
 
 Os elementos HTML <form>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-64
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -4356,11 +4219,9 @@ aparecer no campo de entrada.
 Dependendo do suporte do navegador, um seletor de data pode
 aparecer no campo de entrada.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-65
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -4460,15 +4321,13 @@ Define um botão para enviar dados de formulário para um manipulador
 de formulário
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-66
 
-187
 
 
 Paolla Ramos e Silva
@@ -4507,16 +4366,13 @@ suporte do navegador, um seletor de data pode aparecer no campo
 de entrada.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
-7
 
 /
 
-67
 
-187
 
 
 Paolla Ramos e Silva
@@ -4565,14 +4421,12 @@ isso
 pode comprometer a privacidade, a posição não está disponível a menos que o usuário
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-68
 
-187
 
 
 Paolla Ramos e Silva
@@ -4641,11 +4495,9 @@ A geolocalização também é muito útil para informações específicas do loc
 
 * Navegação curva a curva (GPS).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-69
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -4696,10 +4548,9 @@ desenvolvimento de j
 : sistemas.
 =
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -4728,8 +4579,7 @@ sessionStorage pode ser utilizado para armazenamento local de dados quando na ve
 o
 window.localStorage que o faz. (Gabarito: Errado)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-71
+
 
 www.estrategiaconcursos.com.br
 ./ 187
@@ -4782,14 +4632,12 @@ como o documento deve ser interpretado por navegadores da Web e outros
 aplicativos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-72
 
-187
 
 
 Paolla Ramos e Silva
@@ -4805,10 +4653,9 @@ e é frequentemente usado em combinação com outras tecnologias, como CSS e
 JavaScript, para criar páginas da Web dinâmicas e interativas. No entanto, o HTML ainda
 é amplamente usado e suportado por todos os navegadores modernos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -4857,14 +4704,12 @@ idioma padrão da página da web. Isso ajuda a garantir que o conteúdo seja int
 e pronunciado corretamente por tecnologias assistivas.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-74
 
-187
 
 
 Paolla Ramos e Silva
@@ -4881,10 +4726,9 @@ chtml lang="en">
 
 </html>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -4929,10 +4773,9 @@ O que é HTML?
 * Os elementos HTML rotulam partes do conteúdo como "isto é um título", "isto é
 um parágrafo", "isto é um link", etc.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 7$
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -4982,7 +4825,7 @@ Este é o título 3
 
 Elementos HTML
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -5037,10 +4880,9 @@ link vai:
 
 <a href="https://www.w3schools.com">Este é um link</a> Este é um link
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -5125,7 +4967,7 @@ definir uma alteração) em uma página HTML. A tag <hr> é uma tag vazia, o que
 significa
 que não tem tag final.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -5170,14 +5012,12 @@ O atributo HTML style tem a seguinte sintaxe4:
 4 property é uma propriedade CSS. vaLue é um valor CSS.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-80
 
-187
 
 
 Paolla Ramos e Silva
@@ -5232,14 +5072,12 @@ Color Define a cor do texto para um elemento HTML
 Font-family Define a fonte a ser usada para um elemento HTML
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-81
 
-187
 
 
 Paolla Ramos e Silva
@@ -5313,11 +5151,9 @@ maneira em todos os navegadores:
 
 * Um link ativo é sublinhado e vermelho
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-82
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -5384,11 +5220,9 @@ Scalable Vector Graphics
 
 ■svg
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-83
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -5453,14 +5287,12 @@ Listas Não Ordenadas
 Valor Descrição
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-84
 
-187
 
 
 Paolla Ramos e Silva
@@ -5506,14 +5338,12 @@ AS LISTAS PODEM SER ANINHADAS
 OS ITENS DA LISTA PODEM CONTER OUTROS ELEMENTOS HTML
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-85
 
-187
 
 
 Paolla Ramos e Silva
@@ -5522,19 +5352,16 @@ Paolla Ramos e Silva
 
 ELEMENTOS DE NÍVEL DE BLOCO
 
-0
 
 <TFOOT>
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-86
 
-187
 
 
 Paolla Ramos e Silva
@@ -5559,8 +5386,7 @@ ELEMENTOS INLINE HTML
 
 Para relembrar, fica esse grande lembrete:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-87
+
 
 www.estrategiaconcursos.com.br
 / 187
@@ -5619,11 +5445,9 @@ cinput type=" radio" >
 Exibe um botão de opção (para selecionar uma das muitas
 opções)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-88
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -5703,11 +5527,9 @@ ao servidor (somente para method="post")
 method Especifica o método HTTP a ser usado ao enviar dados de formulário
 name Especifica o nome do formulário
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-89
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -5784,11 +5606,9 @@ Define uma caixa de seleção. As caixas de seleção permitem que um
 usuário selecione ZERO ou MAIS opções de um número limitado de
 opções.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-90
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -5884,15 +5704,13 @@ Item. 100. No entanto, você pode definir restrições sobre quais números são
 aceitos com os atributos min, maxe :step
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-91
 
-187
 
 
 Paolla Ramos e Silva
@@ -5974,11 +5792,9 @@ Define um comentário
 
 <aside> Define o conteúdo além do conteúdo da página
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-92
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -6048,8 +5864,7 @@ elemento <colgroup
 
 <dt> Define um termo/nome em uma lista de descrição
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-93
+
 
 www.estrategiaconcursos.com.br
 / 187
@@ -6124,8 +5939,7 @@ usado para vincular a folhas de estilo)
 
 <meter> Define uma medição escalar dentro de um intervalo conhecido (um medidor)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-94
+
 
 www.estrategiaconcursos.com.br
 / 187
@@ -6250,8 +6064,7 @@ Define o texto subscrito
 Define um cabeçalho visível para um elemento <details>
 Define o texto sobrescrito
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-95
+
 
 www.estrategiaconcursos.com.br
 / 187
@@ -6303,8 +6116,7 @@ normal
 
 <wbr> Define uma possível quebra de linha
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-96
+ x
 
 www.estrategiaconcursos.com.br
 / 187
@@ -6379,11 +6191,9 @@ Número Entidade Descrição
 
 &clubs Club preto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-97
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -6439,11 +6249,9 @@ charset character_set Especifica a codificação de caracteres para o
 
 documento HTML
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-98
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -6509,11 +6317,9 @@ todos os dispositivos:
 
 cmeta name="viewport" content="width=device-widthj initial-scale=l.0">
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-99
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -6563,16 +6369,14 @@ serão
 baixados e armazenados em cache. Em visitas posteriores, o site será carregado a partir
 do cache, permitindo que ele funcione offline.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-100
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -6583,7 +6387,7 @@ REFERÊNCIAS
 
 https://www.w3schools.com/html/
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
@@ -6637,11 +6441,9 @@ funcionamento.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-103
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -6698,11 +6500,9 @@ foi projetado para armazenar e transportar dados.
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-104
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -6767,13 +6567,11 @@ resultado a seguir
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 www. estra tegiaconcursos. com. br
 
 
-105
 
-187
 
 
 Paolla Ramos e Silva
@@ -6842,14 +6640,12 @@ criar um arquivo chamado "manifesto de cache" e vinculá-lo ao seu HTML usando a
 arquivos que devem ser armazenados em cache.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-106
 
-187
 
 
 Paolla Ramos e Silva
@@ -6899,11 +6695,9 @@ pattern e required, reduzem a necessidade de utilização de plugins para
 auxiliar a
 formatação dos elementos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-107
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -6961,11 +6755,9 @@ Gabarito: Correto
 
 Item. 13. (CESPE - TJ PA - 2020)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-108
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -7026,14 +6818,12 @@ Isso incluirá o nome da propriedade e o valor dela na saída. Por exemplo: nome
 Idade: 52. carro: null. Vejamos o resultado da execução do código.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-109
 
-187
 
 
 Paolla Ramos e Silva
@@ -7105,14 +6895,12 @@ conteúdo
 independente de outras partes do sítio e altamente relevante. É autocontido. Exemplo:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-110
 
-187
 
 
 Paolla Ramos e Silva
@@ -7180,14 +6968,12 @@ campo de entrada, que pode ser usado posteriormente para acessar o valor inserid
 usuário. O botão de envio é criado usando o elemento <input type="submit">. Quando
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-111
 
-187
 
 
 Paolla Ramos e Silva
@@ -7240,11 +7026,9 @@ Comentários:
 Pessoal, apesar dessas tags serem obsoletas, o HTML5 ainda reconhece o funcionamento
 dessas tags. E o HTML 5 define como os navegadores web devem lidar com elas.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-112
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -7297,14 +7081,12 @@ e
 sintaxes do HTML 5.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-113
 
-187
 
 
 Paolla Ramos e Silva
@@ -7364,14 +7146,12 @@ automaticamente focado quando do carregamento da página.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-114
 
-187
 
 
 Paolla Ramos e Silva
@@ -7428,14 +7208,12 @@ uma tarefa; c) <meter> Define uma medição escalar dentro de um intervalo conhe
 (um medidor); d) <figcaption> Define uma legenda para um elemento <figure>; e)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-115
 
-187
 
 
 Paolla Ramos e Silva
@@ -7489,11 +7267,9 @@ selecionar e manipular elementos HTML5, como os novos elementos
 semânticos
 introduzidos no HTML5 (por exemplo, <header>, <footer> e <article>). A questão limita
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-116
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -7549,11 +7325,9 @@ que não suportam anotações ruby.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-117
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -7611,11 +7385,9 @@ determinar o seu cabeçalho.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-118
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -7678,14 +7450,12 @@ controle de formulário tem uma finalidade não óbvia (por exemplo, uma caixa d
 usada para aceitar um boletim informativo). Ajudar a melhorar a usabilidade de seus
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-119
 
-187
 
 
 Paolla Ramos e Silva
@@ -7733,11 +7503,9 @@ button.
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-120
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -7790,8 +7558,7 @@ Pessoal, é super possível! Inclusive uma das formas é utilizando a tag <field
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-121
+
 
 www.estrategiaconcursos.com.br
 ./ 187
@@ -7857,11 +7624,9 @@ layout e
 conteúdo para se adequar ao tamanho do dispositivo e da tela do usuário.
 Sites
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-122
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -7937,11 +7702,9 @@ content= "width=device-width, initial-scale= 1,0">. Assim, nosso gabarito é a l
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-123
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -7997,13 +7760,11 @@ The <iframe> element is an HTML element that is used to embed a document within
 another document. It provides a way to display content from another webpage within the
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 www. estra tegiaconcursos. com. br
 
 
-124
 
-187
 
 
 Paolla Ramos e Silva
@@ -8064,11 +7825,9 @@ tag
 
 Gabarito: Letra D
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-125
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -8126,11 +7885,9 @@ Para indicar os locais desejados para possíveis quebras de linha, quando a larg
 janela do navegador mudar, o programador deverá usar a tag <wbr>. De acordo com a
 definição, <wbr> define uma possível quebra de linha.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-126
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -8190,14 +7947,12 @@ Pessoal, é exatamente o mesmo caso da questão da Pref Manaus de 2019! Deve ser
 utilizada a tag <wbr> que define uma possível quebra de linha.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-127
 
-187
 
 
 Paolla Ramos e Silva
@@ -8259,14 +8014,12 @@ normalmente à
 esquerda. Quando o examinador diz: " mas relacionado com um conteúdo que o
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-128
 
-187
 
 
 Paolla Ramos e Silva
@@ -8325,11 +8078,9 @@ instrução no cabeçalho de uma página HTML que fará referência a um arquivo
 chamado aOOI.css a ser aplicado apenas quando a página for aberta em dispositivos
 com tela de até 600 pixels. A instrução correta que deverá ser inserida é
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-129
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -8393,11 +8144,9 @@ Vamos relembrar o que foi falado durante a aula? O elemento HTML <pre>define o t
 pré-formatado. O texto dentro de um elemento <pre> é exibido em uma fonte de largura
 fixa (geralmente Courier) e preserva espaços e quebras de linha.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-130
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -8462,14 +8211,12 @@ e) mp4, avi e mov.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-131
 
-187
 
 
 Paolla Ramos e Silva
@@ -8528,14 +8275,12 @@ sendo
 desenvolvido para o Tribunal Regional do Trabalho da 24a Região, um Técnico
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-132
 
-187
 
 
 Paolla Ramos e Silva
@@ -8594,11 +8339,9 @@ página da web, em um navegador da web. O elemento meta com um atributo viewport
 elas podem ajustar seu layout e aparência para caber no tamanho e na resolução do
 dispositivo que está sendo usado para visualizá-las.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-133
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -8670,14 +8413,12 @@ i
 </body>
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-134
 
-187
 
 
 Paolla Ramos e Silva
@@ -8735,11 +8476,9 @@ inserir o elemento id="local", deve usar o método document.getElementByld e usa
 
 Gabarito: Letra A
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-135
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -8803,11 +8542,9 @@ manifesto do cache do aplicativo. Um manifesto de cache de aplicativo é um arqu
 define os recursos que devem ser armazenados em cache pelo navegador da Web para
 que possam ser usados offline.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-136
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -8822,8 +8559,7 @@ gabarito
 
 Gabarito: Letra A
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-137
+
 
 www.estrategiaconcursos.com.br
 / 187
@@ -8890,14 +8626,12 @@ c) I e II;
 d) I e III;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-138
 
-187
 
 
 Paolla Ramos e Silva
@@ -8946,14 +8680,12 @@ Gabarito: Letra C
 Item. 62. (FGV -TJ TO- 2022) Observe o código HTML e JavaScript a seguir:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-139
 
-187
 
 
 Paolla Ramos e Silva
@@ -9021,14 +8753,12 @@ d) <movie>
 e) <video>.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-140
 
-187
 
 
 Paolla Ramos e Silva
@@ -9099,14 +8829,12 @@ e) <trxtd>A</tdxtd>C</tdx/tr>
 </tablex/thx/tr>.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-141
 
-187
 
 
 Paolla Ramos e Silva
@@ -9166,11 +8894,9 @@ Item. 66. (FGV- IMBEL- 2021) Analise o trecho HTML a seguir.
 
 <trxth>B</thxth>D</thx/tr>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-142
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -9230,14 +8956,12 @@ da
 página da web, como um capítulo ou um tema. Dentre os novos elementos semânticos
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-143
 
-187
 
 
 Paolla Ramos e Silva
@@ -9300,11 +9024,9 @@ profundidade de 8 bpp pode representar até 256 cores diferentes, enquanto uma
 tela
 com profundidade de 24 bpp pode representar até 16 milhões de cores diferentes.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-144
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -9362,14 +9084,12 @@ d) "Abrir" inicialmente, "on" quando o cursor do mouse entra na área do botão,
 "Abrir" quando o cursor do mouse sai da área do botão, assim mudando a cada
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-145
 
-187
 
 
 Paolla Ramos e Silva
@@ -9440,14 +9160,12 @@ Sabe-se que com essa página exibida, o operador clicou no botão por três veze
 Assinale o valor exibido no botão após esses cliques.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-146
 
-187
 
 
 Paolla Ramos e Silva
@@ -9507,11 +9225,9 @@ Vejamos o significado de cada tag: A tag <b> representa um trecho de texto que d
 ser renderizado em negrito. A tag <s> representa um trecho de texto que não é mais
 preciso ou relevante. Geralmente é usado para riscar o texto para indicar que ele foi
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-147
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -9573,11 +9289,9 @@ linguagem utilizada para estruturação e apresentação de conteúdo na Interne
 
 Analise a página HTML5 a seguir:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-148
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -9654,14 +9368,12 @@ vez
 e clicou no botão três vezes, o valor da variável localStorage.clickcount seria definido
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-149
 
-187
 
 
 Paolla Ramos e Silva
@@ -9725,14 +9437,12 @@ do
 atributo "bgcolor" é "black", o que tornaria a cor de fundo da página da Web preta. Os
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-150
 
-187
 
 
 Paolla Ramos e Silva
@@ -9794,11 +9504,9 @@ controle a área de visualização de um site através da tag <meta>. A sintaxe 
 para que a largura de uma página siga a largura da tela de um dispositivo, com uma
 escala inicial de 1X no momento em que ela é carregada é:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-151
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -9863,11 +9571,9 @@ estrutura lógica e hierárquica, para que os navegadores da web possam
 interpretar e
 exibir o conteúdo corretamente. Portanto, nosso gabarito é: Uma linguagem de marcação
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-152
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -9890,7 +9596,6 @@ conceitualmente as partes de uma página HTML:
 Item. 1. <header>
 
 Item. 2. <ÍOÕtEF>
-3
 
 Item. 4. <aside>
 
@@ -9927,11 +9632,9 @@ elemento representa uma seção da página que está relacionada ao conteúdo pr
 mas separada dele. Geralmente é usado para exibir barras laterais ou citações
 extraíveis,
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-153
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -9993,11 +9696,9 @@ b) <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 5.0 Transitional//EN
 
 c) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0">
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-154
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -10016,11 +9717,9 @@ A declaração <!DOCTYPE html> define que este documento é um documento HTML5.
 
 Gabarito: Letra D
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-155
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -10071,14 +9770,12 @@ HTML e XML são equivalentes, pois ambas possuem uma semântica de apresentaçã
 predefinida.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-156
 
-187
 
 
 Paolla Ramos e Silva
@@ -10141,13 +9838,11 @@ que o navegador deve copiar para que estejam disponíveis para uso off-line.
 c) É necessário que os arquivos PHP estejam listados na sessão cache.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 www. estra tegiaconcursos. com. br
 
 
-157
 
-187
 
 
 Paolla Ramos e Silva
@@ -10188,11 +9883,9 @@ A instrução DOCTYPE do HTML 5 é mais simples que a das versões anteriores HT
 
 Item. 13. (CESPE - TJ PA - 2020)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-158
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -10261,14 +9954,12 @@ e time são válidos como atributos de elementos de formulário, e apenas o camp
 é de preenchimento obrigatório.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-159
 
-187
 
 
 Paolla Ramos e Silva
@@ -10336,14 +10027,12 @@ Item. 19. (CESPE-TJ AM -2019) Acerca do desenvolvimento web mediante o uso do HT
 5, do JavaScript, do XML e do CSS, julgue o item subsequente.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-160
 
-187
 
 
 Paolla Ramos e Silva
@@ -10406,14 +10095,12 @@ c) <meter> interpreta medições meteorológicas.
 d) <figcaption> captura figuras.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-161
 
-187
 
 
 Paolla Ramos e Silva
@@ -10466,11 +10153,9 @@ b) <img>
 
 c) <sound>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-162
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -10525,14 +10210,12 @@ como a questão está dizendo o oposto, nosso gabarito é: Errado.
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-163
 
-187
 
 
 Paolla Ramos e Silva
@@ -10551,11 +10234,9 @@ formulários eletrônicos.
 É possível agrupar inputs de um formulário e, ainda, as opções de uma tag <select>
 usando-se a tag <fieldset>.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-164
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -10616,14 +10297,12 @@ inserir um vídeo institucional do Tribunal de Justiça de Santa Catarina que es
 Youtube, no site do Tribunal.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-165
 
-187
 
 
 Paolla Ramos e Silva
@@ -10684,11 +10363,9 @@ d) main.
 
 e) core.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-166
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -10748,11 +10425,9 @@ e) <br>
 Item. 44. (FCC - TRF 3 - 2019) Considere o fragmento abaixo de uma página HTML5 que
 utiliza elementos semânticos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-167
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -10820,14 +10495,12 @@ chamado aOOI.css a ser aplicado apenas quando a página for aberta em dispositiv
 com tela de até 600 pixels. A instrução correta que deverá ser inserida é
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-168
 
-187
 
 
 Paolla Ramos e Silva
@@ -10892,14 +10565,12 @@ válidos para preencher a lacuna I são
 a) avi, mpeg e mov
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-169
 
-187
 
 
 Paolla Ramos e Silva
@@ -10961,14 +10632,12 @@ d) a propriedade language na tag <meta>.
 e) a tag <lang> no interior da tag <head>
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-170
 
-187
 
 
 Paolla Ramos e Silva
@@ -11037,14 +10706,12 @@ c) <source src="beethoven.mp3" type="audio/mpeg">
 d) <sound source="beethoven.mp3" media="audio/mp3">
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-171
 
-187
 
 
 Paolla Ramos e Silva
@@ -11098,11 +10765,9 @@ d) <cache src= "dados.inf">
 
 e) <!MANIFEST cache="demo.appcache">
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-172
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -11162,14 +10827,12 @@ e) <script>.
 Item. 62. (FGV -TJ TO- 2022) Observe o código HTML e JavaScript a seguir:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-173
 
-187
 
 
 Paolla Ramos e Silva
@@ -11230,14 +10893,12 @@ e) <video>.
 Item. 64. (FGV-IMBEL-2021) Analise a imagem a seguir, produzida numa página Web.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-174
 
-187
 
 
 Paolla Ramos e Silva
@@ -11312,14 +10973,12 @@ d) <!—Texto do comentário —>
 e) <—Texto do comentário —/>.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-175
 
-187
 
 
 Paolla Ramos e Silva
@@ -11377,14 +11036,12 @@ atributo depth, para uso em gráficos tridimensionais.
 Está correto o que se afirma em
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-176
 
-187
 
 
 Paolla Ramos e Silva
@@ -11439,14 +11096,12 @@ d) "Abrir" inicialmente, "on" quando o cursor do mouse entra na área do botão,
 movimentação para dentro ou para fora.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-177
 
-187
 
 
 Paolla Ramos e Silva
@@ -11513,14 +11168,12 @@ páginas na Internet. O comando de formatação da linguagem HTML para indicar q
 um determinado texto deve ser apresentado sublinhado é:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-178
 
-187
 
 
 Paolla Ramos e Silva
@@ -11594,14 +11247,12 @@ Aperte aqui!</button></p>
 </bodyx/html>
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-179
 
-187
 
 
 Paolla Ramos e Silva
@@ -11665,14 +11316,12 @@ c) vermelha e verde;
 d) azul e verde;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-180
 
-187
 
 
 Paolla Ramos e Silva
@@ -11729,14 +11378,12 @@ c) marcar um documento indicando a ordem em que o conteúdo deve ser apresentado
 em meio eletrônico;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-181
 
-187
 
 
 Paolla Ramos e Silva
@@ -11758,7 +11405,6 @@ conceitualmente as partes de uma página HTML:
 Item. 1. <header>
 
 Item. 2. <ÍOÕtEF>
-3
 
 Item. 4. <aside>
 
@@ -11791,11 +11437,9 @@ b) armazenamento em nuvem, suporte a telas de toque e SSL (Secure Sockets Layer)
 c) acesso a câmeras em dispositivos móveis, suporte a streaming de vídeo e SSE
 (Streaming SIMD Extensions);
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-182
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -11824,11 +11468,9 @@ d) cIDOCTYPE html>
 
 e) <!DOCTYPE XML PUBLIC "-//W3C//DTD HTML 5.0">
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-183
+
 
 www.estrategiaconcursos.com.br
-187
 
 /
 
@@ -12002,17 +11644,17 @@ Item. 80. Letra D
 
 Item. 81. Letra D
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 /
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

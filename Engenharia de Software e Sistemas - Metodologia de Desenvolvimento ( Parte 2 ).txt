@@ -21,42 +21,31 @@ Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-índice
+Índice
 
 1) Metodologias de Desenvolvimento - Parte 2 - Modelo Iterativo e Incremental
-3
 
 2) Metodologias de Desenvolvimento - Parte 2 - Modelos Específicos.
-14
 
 3) Resumo - Metodologias de Desenvolvimento - Parte 2
-24
 
 4) Questões Comentadas - Metodologiasde Desenvolvimento -Parte2 - CESPE
-28
 
 5) Questões Comentadas - Metodologiasde Desenvolvimento -Parte2 - FCC
-46
 
 6) Questões Comentadas - Metodologiasde Desenvolvimento -Parte2 - FGV
-51
 
 7) Questões Comentadas - Metodologiasde Desenvolvimento -Parte2 - DIVERSAS
-54
 
 8) Lista de Questões - Metodologias de Desenvolvimento - Parte 2 - CESPE
-68
 
 9) Lista de Questões - Metodologias de Desenvolvimento - Parte 2 - FCC
-75
 
 10) Lista de Questões - Metodologias de Desenvolvimento - Parte 2 - FGV
-79
 
 11) Lista de Questões - Metodologias de Desenvolvimento - Parte 2 - Diversas.
-82
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 PRoCESSoS DE DESENVoLVIMENTo
@@ -138,7 +127,7 @@ uma diferença bastante sutil: de acordo com o autor, o modelo incremental sempr
 apresenta
 uma funcionalidade operacional ou um produto de trabalho a cada iteração.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Já o modelo evolucionário, durante as primeiras iterações, pode gerar versões compostas
@@ -169,7 +158,7 @@ d) Espiral e Prototipação.
 
 Comentários: modelos evolucionários se dividem em espiral e prototipação (Letra D).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 1.1 - Modelos em Prototipagem
@@ -220,7 +209,7 @@ Um protótipo de software pode ser usado em um processo de desenvolvimento de so
 para
 ajudar a antecipar as mudanças que podem ser requisitadas:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) No processo de engenharia de requisitos, um protótipo pode ajudar na elicitação e
@@ -294,7 +283,7 @@ estágio do processo é decidir o que colocar e, talvez mais importante ainda, o
 deixar de fora do
 sistema de protótipo.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Para reduzir os custos de prototipação e acelerar o cronograma de entrega, pode-se
@@ -364,7 +353,7 @@ paradigma da prototipação. Os usuários podem ter uma ideia prévia do sistema
 passo que
 os desenvolvedores passam a desenvolver algo imediatamente.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Em outras palavras, protótipos são inviáveis de serem utilizados na maioria dos casos,
@@ -435,7 +424,7 @@ Comentários: usuários realmente podem confundir o protótipo com o sistema
 final, sendo que serão descartados
 posteriormente - trata-se de um erro comum (Correto).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 1.2 - Modelo em Espiral
@@ -573,7 +562,7 @@ cronograma, entre outros).
 Avaliam-se as alternativas identificadas em relação aos objetivos e
 restrições. Frequentemente, esse processo identifica áreas de incerteza
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 (custos excessivos, falta de recursos) e resolve ou reduz os riscos
@@ -628,7 +617,7 @@ setores da espiral. Infelizmente, cada autor pega a versão
 original e adapta, criando sua versão, portanto vocês verão muitos nomes diferentes para cada
 setor.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Cada loop é uma fase e a fase é escolhida de acordo com as necessidades do negócio!
@@ -706,7 +695,7 @@ pequenos.
 Apresenta uma abordagem sistemática.
 Apresenta estimativas realistas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Pessoal, é importante ver como esse modelo é tratado por Roger Pressman. De acordo
@@ -765,7 +754,7 @@ porque não se sabe estimar 0 número de ciclos para construir um projeto. Ele t
 natureza iterativa que permite reduzir
 riscos a cada loop (Errado).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Cada loop é uma fase do processo de sofWare
@@ -819,7 +808,7 @@ Planejamento
 Análise de Riscos ou Avaliação de Alternativas e deRiscos
 Engenharia, Execução ou Desenvolvimento de Software
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Modelos Específicos
@@ -866,7 +855,7 @@ o desenvolvimento semelhante a uma sala limpa de cirurgia. Vamos ver mais
 alguns detalhes
 importante...
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Métodos Formais são métodos utilizados para elaboração de sistemas computacionais
@@ -942,7 +931,7 @@ experiência necessárias para aplicação dos métodos formais, é necessário 
 
 1 Pode ser utilizado também para modelar hardwares.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 (3) É difícil usar os modelos como um meio de comunicação com clientes
@@ -1010,7 +999,7 @@ Comentários: métodos formais realmente definem um processo de especificação 
 linguagens formais
 (Correto).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Modelo Baseado Em Componentes
@@ -1053,11 +1042,9 @@ acham? Ok, professor! Mas 0 que isso tem a ver com reúso de componentes? Ora, a
 Engenharia é
 especializada em produzir componentes reusáveis.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-17
 
 
-92
+
 
 
 Engenheiros raramente fabricam um componente a partirdo nada. Eles baseiam seus projetos
@@ -1137,7 +1124,7 @@ funcionalidade necessária.
 Os requisitos são analisados usando as informações sobre os componentes encontrados, que
 são modificados para refletir os componentes disponíveis. Quando as modificações são
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 impossíveis, a atividade de análise de componentes pode ser novamente realizada para
@@ -1198,7 +1185,7 @@ Comentários: esse modelo realmente parte de um software ou componente existente
 Comentários: de fato, criam-se componentes de alta qualidade e baixo custo de produção e manutenção
 (Correto).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Modelo Orientado a Aspectos
@@ -1247,7 +1234,7 @@ No entanto, sua implementação utilizando linguagens orientadas a objeto ou
 estruturadas torna-
 se confusa e seu código encontra-se espalhado através do código da aplicação, dificultando a
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1319,11 +1306,9 @@ ser encapsulados em um procedimento generalizado (objeto, método, procedimento,
 ainda coordenarem-se é dito que elas são ortogonais
 entre si.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-21
 
 
-92
+
 
 
 Aspectos, em geral, não são unidades de decomposição funcional do sistema, mas
@@ -1395,11 +1380,9 @@ programas mais fáceis de manter e reusar.
 
 3 AspectJ é a mais famosa linguagem de programação orientada a aspectos.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-22
 
 
-92
+
 
 
 Ela é baseada em abstrações chamadas aspectos, que implementam funcionalidade de sistema
@@ -1432,7 +1415,7 @@ autenticação de usuário seja requerida antes de qualquer alteração dos deta
 ser feita
 no banco de dados - isso pode ser um aspecto.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1526,11 +1509,9 @@ funcionalidade, melhorar qualidade), identificam-se alternativas (reúso de
 componentes, comprar pronto) e identificam-se restrições impostas (custo,
 cronograma, entre outros).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-24
 
 
-92
+
 
 
 Diego Carvalho
@@ -1604,11 +1585,9 @@ intensivo. Em geral, são utilizados para o desenvolvimento de sistemas que
 necessitam de grande robustez e
 confiabilidade diante da possibilidade de perda de vidas ou sério prejuízo, caso haja falhas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-25
 
 
-92
+
 
 
 ETAPAS | DESCRIÇÃO
@@ -1704,7 +1683,7 @@ são
 impossíveis, a atividade de análise de componentes pode ser novamente realizada para
 procurar alternativas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1754,7 +1733,7 @@ composição para a produção de código executável.
 
 PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1822,7 +1801,7 @@ A questão trata de Manutenibilidade e, não, da Usabilidade. Logo, a questão e
 errada, mas foi
 anulada porque o conteúdo extrapolava o edital.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1895,7 +1874,7 @@ e) modelo baseado em protótipos.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Observem que o analista busca reduzir o risco em todas as fases do projeto, logo
@@ -1962,7 +1941,7 @@ objetivos, identificar e resolver riscos, desenvolver e testar, e planejar a pr�
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Opa... as fases e a característica de ser orientado a risco tratam do modelo em
@@ -2023,11 +2002,9 @@ conjunto, os seguintes modelos de processo de software genéricos: modelo em
 cascata,
 desenvolvimento evolucionário e engenharia de software embasada em computador.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-31
 
 
-92
+
 
 
 Diego Carvalho
@@ -2091,7 +2068,7 @@ Já outras questões importantes não são bem localizadas no projeto funcional.
 Exemplos disto
 podem ser propriedades que envolvem várias unidades funcionais, tais como: sincronização,
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 restrições de tempo, concorrência, distribuição de objetos, persistência, etc.
@@ -2149,11 +2126,9 @@ Gabarito: Correto
 18.(CESPE / AL-ES - 2011) No ciclo de vida em espiral, a de análise de risco é realizada na etapa da
 modelagem do produto.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-33
 
 
-92
+
 
 
 Diego Carvalho
@@ -2216,7 +2191,7 @@ sistema conforme o andamento do projeto até chegar ao resultado final. Esta met
 baseia-
 se na utilização de prototipagem visual ou modelos do sistema final. Logo, pode-se afirmar que é
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 apresentado ao usuário funcionalidades por meio de protótipos visuais conforme o
@@ -2274,7 +2249,7 @@ Gabarito: Errado
 repensar o
 planejamento diversas vezes durante o desenrolar do projeto.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2337,7 +2312,7 @@ esforços mais na integração de partes existentes do que no seu desenvolviment
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 2g.(CESPE / UNIPAMPA - 2009) No modelo de desenvolvimento prototipagem, um
@@ -2399,7 +2374,7 @@ Gabarito: Errado
 anteriores de
 desenvolvimento, suportando ainda a execução paralela de fases.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Comentários:
@@ -2452,7 +2427,7 @@ Gabarito: Correto
 Item. 35. (CESPE / UNIPAMPA - 2009) O modelo de desenvolvimento espiral foi desenvolvido somente
 para abranger as melhores características do ciclo de vida clássico.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2511,7 +2486,7 @@ interativa porque o teste do sistema só ocorre na versão final.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 A Prototipagem é utilizada quando não se conhece bem os requisitos. É uma forma de
@@ -2570,7 +2545,7 @@ em cascata com a prototipação.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 43-(CESPE / TJDFT - 2008) Empregando o modelo de desenvolvimento em espiral, o
@@ -2631,11 +2606,9 @@ Comentários:
 
 Na verdade, a alternativa mais adequada é a utilização de métodos formais.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-41
 
 
-92
+
 
 
 Diego Carvalho
@@ -2706,7 +2679,7 @@ iremos descartá-lo ou não). A questão não afirma em nenhum momento que o
 protótipo será
 evoluído ou descartado.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2765,7 +2738,7 @@ definição, projeto, implementação, integração e testes, operação e manut
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 As atividades (chamadas de fases na questão) são: Comunicação, Planejamento,
@@ -2823,11 +2796,9 @@ engenharia de software por componentes, é um requisito de
 desenvolvimento,
 independentemente do projeto em consideração.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-44
 
 
-92
+
 
 
 Diego Carvalho
@@ -2868,7 +2839,7 @@ de licenciamento.
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2920,7 +2891,7 @@ d) Cascata.
 
 e) Evolutivo.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2987,7 +2958,7 @@ Item. 4. (FCC / DPE-SP - 2013) No desenvolvimento de software, podem ser utiliza
 chamados
 modelos evolucionários, cujo objetivo é lidar com produtos que possam evoluir ao longo do
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 tempo. Assinale a alternativa que contém APENAS modelos evolucionários de desenvolvimento
@@ -3052,11 +3023,9 @@ dividido em quatro setores. NÃO se trata da denominação de um destes setores:
 
 a) levantamento.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-48
 
 
-92
+
 
 
 Diego Carvalho
@@ -3124,7 +3093,7 @@ d) possuir uma fase única evolucionária.
 
 e) não contemplar o projeto do produto.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3160,7 +3129,7 @@ projeto de sistema e assim por diante.
 
 Gabarito: Letra D
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3233,7 +3202,7 @@ modelos a serem utilizados em um processo evolucionário são:
 
 a) cascata e modelo V;
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3300,7 +3269,7 @@ O Modelo Espiral foi o primeiro modelo a tratar explicitamente de análise de ri
 
 Gabarito: Letra A
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 5- (FGV / Senado Federal - 2008) Considere as seguintes assertivas sobre modelos de processos
@@ -3340,11 +3309,9 @@ o diferencia dos demais modelos.
 
 Gabarito: Letra E
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-53
 
 
-92
+
 
 
 QUESTõES CoMENTADAS - DIVERSAS
@@ -3393,7 +3360,7 @@ alternativa que apresenta o modelo mais adequado para o desenvolvimento da inter
 desse
 sistema.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3463,7 +3430,7 @@ a) RAD
 
 b) incremental
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3535,7 +3502,7 @@ Ele realmente intercala atividades de especificação, desenvolvimento e valida�
 permitindo que
 um sistema inicial seja desenvolvido de maneira muito rápida baseado em especificações abstratas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3605,7 +3572,7 @@ até atingir todos os requisitos definidos"-todas são características do model
 
 Gabarito: Letra D
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 7- (FADESP / IF-PA - 2019) O princípio fundamental é que, a cada ciclo, uma versão
@@ -3667,7 +3634,7 @@ Todos os itens estão corretos, exceto o primeiro. A questão trata do modelo
 evolucionário ou
 incremental (depende da versão do livro) e, não, do modelo em cascata.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3735,7 +3702,7 @@ Item. 11. (COVEST-COPSET / UFPE - 2019) A respeito de modelos de processo de sof
 assinale a
 alternativa correta:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) O modelo em cascata é inconsistente com outros modelos de processos de engenharia,
@@ -3805,7 +3772,7 @@ c) Metodologias Ágeis: dura de i(uma) a ^(quatro) semanas e ao final de cada
 iteração deve
 haver entrega ao cliente
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 d) Modelo em Cascata: componente do sistema é entregue por fases, podendo
@@ -3868,7 +3835,7 @@ Gabarito: Letra A
 
 WAZLAWICK, R. S. Engenharia de Software: Conceitos e práticas. São Paulo: Elsevier, 2013.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Considerando o exposto e o Modelo Espiral de ciclo de vida de software, assinale a
@@ -3933,7 +3900,7 @@ As expressões que completam corretamente os espaços em branco, respectivamente
 
 a) espiral, prototipação.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4002,7 +3969,7 @@ alteração de requisitos.
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 i8.(IFB / IFB - 2017) O modelo de processo de software evolucionário que
@@ -4061,11 +4028,9 @@ de riscos; desenvolvimento e validação e planejamento da próxima iteração.
 
 Gabarito: Letra C
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-64
 
 
-92
+
 
 
 2O.(IFB / IFB - 2017) Um framework de processo de software dirigido a riscos foi
@@ -4132,7 +4097,7 @@ usuários pode-se minimizar esse problema com:
 
 a) a prototipagem.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4198,7 +4163,7 @@ Perfeito! Ele disse que o modelo é evolucionário e iterativo-além de falardos
 É claro que se
 trata do Modelo em Espiral.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4249,7 +4214,7 @@ e publicá-las como parte da interface".
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - CESPE
@@ -4318,7 +4283,7 @@ desenvolvimento de sistemas espiral de Boehm inclui, em seu framework, a etapa d
 análise e
 validação dos requisitos.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 7- (CESPE / SERPRO - 2021) No modelo formal, as etapas do desenvolvimento
@@ -4389,11 +4354,9 @@ Item. 15. (CESPE / SERPRO - 2013) A POA, uma evolução da programação orienta
 é
 implementada nas linguagens Java, C++, Smalltalk e Prolog.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-69
 
 
-92
+
 
 
 Item. 16. (CESPE / TRT17 - 2013) O modelo espiral de modelagem de processos para
@@ -4459,7 +4422,7 @@ da espiral representa uma fase do processo de software. Nesse modelo, os riscos 
 são
 considerados, pois podem impactar o projeto.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 27. (CESPE / TRE-MT - 2010) O modelo de desenvolvimento em espiral, que tem a
@@ -4527,7 +4490,7 @@ sistema porque o desenvolvimento é rápido e não sofre grandes mudanças.
 tem pouca
 importância, pois o software é continuamente adaptado em função dos desejos do usuário
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 39. (CESPE/TJDFT-2oo8) A prototipação de um software é uma técnica de desenvolvimento
@@ -4590,7 +4553,7 @@ Item. 50. (CESPE / PBV-RR - 2004) O modelo em cascata é linear e sequencial. Mo
 o espiral
 e o Rational Unified Process pregam o desenvolvimento iterativo.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 51.(CESPE/ BASA-2004) O modelo em espiral evolui à medida que o processo avança,
@@ -4637,11 +4600,9 @@ licenciamento. Essa preocupação, no entanto, não existe se os componentes for
 classificados
 como software livre.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-73
 
 
-92
+
 
 
 Diego Carvalho
@@ -4707,7 +4668,7 @@ Item. 56. CORRETO
 19- CORRETO 38. ERRADO
 57- ERRADO
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - FCC
@@ -4775,11 +4736,9 @@ Os modelos de processo genéricos descritos em I, II e III são, correta e
 respectivamente,
 associados a:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-75
 
 
-92
+
 
 
 a) em Espiral - Baseado em Componentes - RAD
@@ -4853,7 +4812,7 @@ evolui para estágios superiores, normalmente com aumento da complexidade. Cada
 iteração
 está provida das atividades determinadas pelos quadrantes planejamento, avaliação de
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 alternativas e riscos, desenvolvimento do software e avaliação do cliente. No ciclo de
@@ -4896,11 +4855,9 @@ d) uma fase do processo.
 
 e) um ciclo de programa.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-77
 
 
-92
+
 
 
 Diego Carvalho
@@ -4918,7 +4875,7 @@ Item. 8. LETRA B
 3- LETRA B 6. LETRA A
 9- LETRA D
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - FCV
@@ -4989,7 +4946,7 @@ Item. 4. (FGV / BADESC - 2010) O Modelo Espiral, segundo Pressman (1995), incorp
 melhores
 características do Ciclo de Vida Clássico e da Prototipação e acrescenta o seguinte elemento:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) análise dos riscos.
@@ -5027,7 +4984,7 @@ d) somente II e III.
 
 e) I, lie III.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5047,7 +5004,7 @@ Item. 4. LETRA A
 
 Item. 5. LETRA E
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - DIVERSAS
@@ -5108,7 +5065,7 @@ acrescentaríamos outras funcionalidades à medida que as fôssemos construindo,
 gerando, a
 partir da experiência do uso, versões sucessivas e cada vez mais completas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diretor-Acho isso ótimo, assim já teremos uma noção do impacto que o sistema poderá
@@ -5177,11 +5134,9 @@ somente quando esta parte estiver pronta o time parte para outro pedaço, inicia
 nova
 fase, constata-se um ciclo de vida:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-83
 
 
-92
+
 
 
 a) preditivo.
@@ -5251,7 +5206,7 @@ c) No desenvolvimento exploratório, o objetivo do processo é trabalhar com o
 cliente para
 explorar os requisitos e entregar o sistema final.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 d) No processo de engenharia de requisitos, a etapa de elicitação e análise dos
@@ -5319,11 +5274,9 @@ c) Existem alguns tipos de sistema para os quais o desenvolvimento e a entrega
 incrementais
 não são a melhor abordagem. Por exemplo, alguns sistemas críticos, em que todos os requisitos
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-85
 
 
-92
+
 
 
 devem ser analisados na busca por iterações capazes de comprometer a proteção
@@ -5396,11 +5349,8 @@ e) V, V e V.
 (1986) e
 é fortemente orientado à redução de riscos.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-86
 
-1
-92
+
 
 
 WAZLAWICK, R. S. Engenharia de Software: Conceitos e práticas. São Paulo: Elsevier, 2013.
@@ -5461,7 +5411,7 @@ Item. 16. (AOCP / UNIR - 2018) O desenvolvimento formal de sistemas é uma abord
 pontos diferentes ao modelo em cascata e usa uma base da transformação matemática modal
 de uma especificação de sistemas em um programa executável.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 (CS-UFG / UFG -2017) É um modelo de processo geral de software que tem como
@@ -5532,11 +5482,8 @@ b) Avaliar alternativas, identificar, resolver riscos.
 
 c) Gerenciar a qualidade e o custo do desenvolvimento.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-88
 
-1
-92
+
 
 
 d) Determinar objetivos, alternativas e restrições.
@@ -5607,7 +5554,7 @@ Item. 25. (ESAF / ANA - 2009) O modelo de processo de software caracterizado
 por intercalar as
 atividades de especificação, desenvolvimento e validação, denomina-se:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5627,11 +5574,9 @@ e) modelo em cascata.
 26.(UFBA / UFBA - 2009) No processo de software baseado em componentes, cada componente
 projetado para reuso é uma entidade executável independente, que deve manipular exceções.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-90
 
 
-92
+
 
 
 Diego Carvalho
@@ -5666,7 +5611,7 @@ Item. 26. ERRADO
 
 9- LETRA D i8. LETRA E
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

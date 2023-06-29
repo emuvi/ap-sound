@@ -762,7 +762,6 @@ Quantidade de tipos de dados (TD)
 1 a 19 20 a 50 51 ou mais
 
 
-1
 
 2 a 5
 
@@ -800,7 +799,6 @@ Quantidade de arquivos
 referenciados (AR)
 
 0a1
-2
 
 3 ou mais
 
@@ -1124,10 +1122,8 @@ Engenharia de requisitos
 2,5 25
 
 Design/Arquitetura 9 1
-10
 
 Implementação 36 4
-40
 
 
 Testes
@@ -1137,7 +1133,6 @@ Testes
 2,5 25
 
 Desenvolvimento completo 90 10
-100
 
 Tabela 8 - Percentuais por atividade
 
@@ -2442,7 +2437,6 @@ suas necessidades de dados.
 Representam as funcionalidades de processamento de dados fornecidas pelo
 sistema ao usuário.
 
-1
 
 IFPUG International Function Point Users Group
 
@@ -2450,7 +2444,6 @@ IFPUG International Function Point Users Group
 Informações de
 controle
 
-180
 
 ISO/IEC
 IEC

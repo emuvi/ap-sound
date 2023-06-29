@@ -68,6 +68,7 @@ def adjust_chars(text):
 def adjust_lost_numbers(text):
 
     def is_only_three_numbers(line):
+        line = line.strip()
         result = False
         if len(line) > 0 and len(line) < 4:
             result = True
@@ -81,6 +82,23 @@ def adjust_lost_numbers(text):
     result = []
     for line in text:
         if not is_only_three_numbers(line):
+            result.append(line)
+    return result
+
+
+def adjust_only_dots(text):
+
+    def is_only_dots(line):
+        line = line.strip()
+        for c in line:
+            if not (c == " " or c == "."):
+                return False
+        return True
+
+    print('Ajustando somente pontos...')
+    result = []
+    for line in text:
+        if not is_only_dots(line):
             result.append(line)
     return result
 
@@ -101,6 +119,7 @@ def adjust_text(text, path):
     text = adjust_chapter(text, path)
     text = adjust_chars(text)
     text = adjust_items(text)
+    text = adjust_lost_numbers(text)
     return text
 
 

@@ -20,22 +20,17 @@ Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-índice
+Índice
 
 1) Java EE - Spring Framework - Teoria
-3
 
 2) Java EE - Spring Framework - Questões Comentadas.
-9
 
 3) Java EE - Spring Framework - Lista de Questões.
-12
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-2
+ x
 
 www.estrategiaconcursos.com.br
-15
 
 /
 
@@ -100,7 +95,7 @@ Trata-se de um framework que gerencia o ciclo de vida e
 configuração de objetos da aplicação por meio de um
 container.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -192,8 +187,7 @@ controle de
 videogame, ipod, máquina de barbear, etc. Ora, esses dispositivos não têm uma
 interface de
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-4
+
 
 www.estrategiaconcursos.com.br
 / 15
@@ -255,8 +249,7 @@ nível estaria dependendo da classe de baixo nível. Vamos resolver esse problem
 Injeção
 de Dependência!
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-5
+
 
 
 , 15
@@ -344,8 +337,7 @@ BeanFactory, porque ele fornece mais funcionalidades. Enquanto o primeiro permit
 conexão (wire) de beans, o
 segundo permite também il8n, publicação de eventos, automatizações, etc.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-6
+
 
 www.estrategiaconcursos.com.br
 7 15
@@ -387,7 +379,7 @@ Apenas para lembrar esses conceitos, a autenticação é o processo de estabelec
 alguém é
 quem afirma ser, e a autorização é o processo de decidir se alguém pode ou não realizar alguma
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -420,8 +412,7 @@ pattern="/something" access="hasRole('ROLE_USER')"/>. É isso, galera! Acredito 
 isso seja
 suficiente...
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-8
+
 
 www.estrategiaconcursos.com.br
 / 15
@@ -485,8 +476,7 @@ uma camada de abstração para JDBC, eliminando grande parte da codificação
 necessária para
 interagir com um banco de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-9
+
 
 www.estrategiaconcursos.com.br
 / 15
@@ -553,8 +543,7 @@ a) SpringMessaging Service(SMS).
 
 b) JavaMessaging Service(JMS).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-10
+
 
 www.estrategiaconcursos.com.br
 / 15
@@ -618,8 +607,7 @@ não realizar a inversão de controle. De todo modo, trata-se do Constructor Inj
 
 Gabarito: D
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-11
+
 
 www.estrategiaconcursos.com.br
 / 15
@@ -689,8 +677,7 @@ Item. 5. (CONSULPLAN - 2012 - TSE - Analista de Sistemas) No contexto do framewo
 Spring
 existem, basicamente, dois tipos de injeção de dependência, sendo que em um deles, a
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-12
+
 
 www.estrategiaconcursos.com.br
 / 15
@@ -714,8 +701,7 @@ c) Factory Injection.
 
 d) Constructor Injection.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-13
+
 
 www.estrategiaconcursos.com.br
 / 15
@@ -741,7 +727,7 @@ Item. 4. B
 
 Item. 5. D
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,■

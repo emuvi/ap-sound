@@ -1,70 +1,42 @@
 Capítulo. Desenvolvimento de Informação - Introdução.
 
-Concursos
-
-(Prof. Thiago
-
-Cavalcanti)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Banco de dados - 2023
-
-(Pós-Edital)
-
-Autor:
-
-Thiago Rodrigues Cavalcanti
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
 
-índice
+
+Índice
 
 1) Conceitos Básicos de Banco de Dados.
-3
 
 2) Características da Abordagem de BD
-12
 
 3) Personagem do Ecossistema de BD
-19
 
 4) Evolução História dos SGBD's
-23
 
 5) Classificação dos SGBD's.
-37
 
 6) Modelos de Dados e Arquitetura em 3 Esquemas - Instâncias x Esquemas.
-39
 
 7) Modelo de Dados.
-42
 
 8) Arquitetura 3 Esquemas.
-45
 
 9) Ambiente do Sistema de Banco de Dados.
-52
 
 10) Questões Comentadas - Conceitos Básicos de Banco de Dados - CEBRASPE
-56
 
 11) Questões Comentadas - Conceitos Básicos de Banco de Dados - CESGRANRIO
-74
 
 12) Lista de Questões - Conceitos Básicos de Banco de Dados - CEBRASPE
-83
 
 13) Lista de Questões - Conceitos Básicos de Banco de Dados - CESGRANRIO
-91
-
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 CoNCEIToS DE BANCo DE DADoS
 
@@ -124,11 +96,11 @@ trabalhando lá!). Aplicativos empresariais faziam acesso a arquivos sem um elem
 central para
 controlar o processo, isso criava o caos pois não tínhamos controle da redundância. Eis que surge o
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Sistema de Gerenciamento de Banco de Dados (SGBD) para atuar como um guardião do banco
 de
@@ -174,11 +146,11 @@ Uma forma tradicional de definir banco de dados é começar entendendo o signifi
 palavras
 que compõe o termo: Banco e dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Banco tem diversas definições possíveis no dicionário da língua portuguesa. Dentre elas
 a que
@@ -253,11 +225,11 @@ representa? Os dados estão logicamente relacionados? Possuem uma finalidade
 específica?
 Acredito que sim! Tente responder a essas perguntas mentalmente antes de seguir em frente.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 EXEMPLIFICANDO
 
@@ -303,11 +275,11 @@ dos livros teóricos sobre o assunto. Para entender essas diferenças peço que 
 observe a figura
 a seguir:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Figura 2 - Visão geral do relacionamento entre banco de dados e SGBD
 
@@ -330,11 +302,11 @@ Contudo, os SGBDs não se restringem apenas a manipulação dos dados. Eles
 fornecem uma
 variedade de programas com diferentes funcionalidades.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 k
 
@@ -409,11 +381,11 @@ Outros aspectos interessantes estão relacionados com o controle de transações
 recuperação após
 falha, otimização de consultas ou do próprio SGBD, auditoria por meio de logs de sistema, enfim,
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 são várias as funcionalidades providas pelos softwares presentes em um SGBD. Vamos agora definir
 o próximo conceito: sistema de banco de dados!
@@ -478,11 +450,11 @@ necessidades da sua empresa mudam.
 
 Assim, reforçando a nossa resposta encontra-se na alternativa B.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Gabarito: B.
 
@@ -554,11 +526,11 @@ l abordagem de banco de dados. Sendo assim, podemos afirmar que a questão está
 
 Gabarito: C.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 4. Ano: 2010 Órgão: Banco da Amazônia Prova: Técnico Científico - Tecnologia da Informação
 
@@ -590,11 +562,11 @@ incorreta, já a afirmação [2] está certa!
 
 Gabarito: E C.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 CARACTERÍSTICAS DA ABoRDAGEM DE BD
 
@@ -658,11 +630,11 @@ podemos observar a definição dos tipos de dados (VARCHAR2, DATE, NUMBER), bem 
 restrições de
 integridade (NOT NULL, DEFAULT).
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 A próxima característica é uma decorrência da anterior. A partir do momento em que
 temos um
@@ -708,11 +680,11 @@ bastante conhecidas dentro do modelo de dados relacional/transacional.
 
 ESQUEMATIZANDO
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Acabamos de tratar das características que o Navathe utiliza para diferenciar sistemas
 de arquivo
@@ -781,11 +753,11 @@ de dados.
 
 Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 2. Ano: 2018 Órgão: TCE-PB Cargo: Auditor de Constas Públicas Questão: 97
 
@@ -855,11 +827,11 @@ Gabarito: D.
 
 Item. 3. Ano: 2019 - UFPB - Analista de Tecnologia da Informação
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Os bancos de dados estão implícitos na vida da sociedade moderna. Assinale a
 alternativa que
@@ -925,11 +897,11 @@ banco podem fazer uso desta informação. A área de investimento pode mandar o 
 das
 suas aplicações, o setor de cartão de crédito pode enviar sua fatura e o relacionamento com o
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 cliente pode te enviar um cartão de feliz aniversário. A importância deste ponto
 único de
@@ -993,11 +965,11 @@ c) ERRADA. Essa é uma vantagem dos bancos de dados digitais. Através de lingua
 consulta, o poder de processamento dos computadores permite acessar os dados de forma
 muito mais rápida que uma busca realizada manualmente.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 d) ERRADA. Essa é outra vantagem dos bancos de dados. Com a internet, por exemplo, é
 possível compartilhar informações com outros usuários em qualquer lugar do mundo por
@@ -1015,11 +987,11 @@ Desta forma, podemos encontrar a nossa resposta para essa questão na alternativ
 
 Gabarito: B.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 PERSoNAGEM Do ECoSSISTEMA DE BD
 
@@ -1089,11 +1061,11 @@ não tem relação com o modelo de dados conceituai. Uma outra informação impo
 que segundo o
 CJ Date o Administrador de Dados também pode ser responsável pela criação do modelo conceituai.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 * Monitorar o desempenho e responder a requisitos de mudanças.
 
@@ -1155,11 +1127,11 @@ de dados (SGBD).
 
 2 Carga e recarga ou dumping é uma outra forma de definir backup de banco de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Comentário: Observe que neste texto podemos verificar explicitamente o benefício do
 sistema
@@ -1212,11 +1184,11 @@ dados,
 quem são as pessoas que precisam dos mesmos e ainda, procurar padronizar os nomes dos atributos
 e outros objetos para que dados redundantes não sejam armazenados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 O outro indivíduo importante neste processo é o administrador de banco de dados. Nessa
 função
@@ -1225,11 +1197,11 @@ de banco
 de dados. O DBA distribui as permissões de acesso aos dados, criar os objetos que vão armazenar os
 dados, faz ajustes para que eles funcionem de forma adequada.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 EVoLUçÃo HISTóRICA DoS SCBDS
 
@@ -1262,11 +1234,11 @@ de 1960. Charles Bachmann desenvolveu o primeiro SGBD chamado Integrated Data St
 
 1 * Também vale para o modelo hierárquico.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 enquanto trabalhava na Honeywell em 1964. Esse sistema usava o modelo de rede onde as
 relações
@@ -1313,11 +1285,11 @@ informações.
 
 Vejamos algumas questões recentes sobre o assunto:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 HORA DE
 
@@ -1384,11 +1356,11 @@ principalmente pelos Sistemas de Gestão de Informações da IBM nos anos 60 e 7
 são
 raramente vistos hoje devido a certas ineficiências operacionais.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Curiosidade: O modelo hierárquico foi implementado em um esforço conjunto da IBM e
 North
@@ -1423,11 +1395,11 @@ outros valores além de inteiros, por exemplo, valores textuais.
 
 Gabarito:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Modelo Relacional
 
@@ -1477,11 +1449,11 @@ registro de cada vez, um programador pode usar o idioma para especificar operaç
 individuais
 que seriam realizados em todo o conjunto de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Devido à natureza técnica do artigo e a relativa complicação matemática
 presente no texto, o
@@ -1550,11 +1522,11 @@ medicina, multimídia e física nuclear, todas com necessidades de flexibilidade
 definir como os
 dados seriam representados e acessados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Este fato levou ao início de pesquisas em bancos de dados orientados a objetos, nos
 quais os
@@ -1622,11 +1594,11 @@ o termo NoSQL, criado para nomear um banco de dados relacional, para classificar
 soluções de
 armazenamento de dados não relacionais.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Juntamente com NoSQL surge o conceito de Big Data. A definição mais tradicional usa a
 equação
@@ -1690,11 +1662,11 @@ projeto teve início em meados de 2003, quando o Google criou um modelo de progr
 que
 distribui o processamento a ser realizado entre vários computadores para ajudar o seu mecanismo
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 de busca a ficar mais rápido e livre das necessidades de servidores poderosos (e
 caros). Esta
@@ -1706,11 +1678,11 @@ uma figura com uma evolução dos modelos de dados ao longo do tempo e logo em
 seguida um
 resumo com as principais características de cada tipo de modelos de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 TOME
 
@@ -1801,11 +1773,11 @@ fundamental a adoção de técnica de indexação que leve em consideração, al
 das
 informações, as propriedades estruturais dos dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 [88] Devido à escalabilidade esperada para os bancos de dados NOSQL, a
 implementação
@@ -1875,15 +1847,13 @@ contiguamente por coluna.
 O exemplo anterior em um banco de dados dessa categoria ficaria:
 Idl, Id2; Nomel, Nome2; Endereçol, Endereço2.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-33
 
 
-97
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Os bancos de dados de famílias de colunas são mais interessantes para
 processamento
@@ -1949,11 +1919,11 @@ registro pai ao qual ele está ligado, como em uma árvore familiar normal. Em
 contrapartida,
 um registro pai pode ter mais de um registro filho a ele ligado.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Trata-se do Banco de Dados
 
@@ -1982,11 +1952,11 @@ Agora vejamos um modelo semelhante ao visto acima, agora com as características
 modelo
 em rede:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Figura 6 - Um modelo de dados em rede.
 
@@ -2035,7 +2005,6 @@ Geórgia
 
 71340
 
-19
 
 H_pub@hi 1 ls-c ora
 
@@ -2053,11 +2022,11 @@ Figura 7 - Um exemplo de banco de dados relacional.
 
 Gabarito: A
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 CLASSIFICAçÃo DoS SCBDS
 
@@ -2126,11 +2095,11 @@ engines.com/en/ranking. Esse site apresenta uma lista atualizada dos bancos de
 dados mais
 utilizados no mercado.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Outro critério usado para classificar SGBDs é o número de usuários suportados pelo
 sistema.
@@ -2170,11 +2139,11 @@ ou DISTRÍBUIDO
 ou HETEROGÊNEO
 ou GRATUÍTO
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 MoDELo DE DADoS E ARQUITETURA EM TRÊS ESQUEMAS
 
@@ -2221,11 +2190,11 @@ valores que estão armazenados. Ele divide os dados armazenados em campo, regist
 arquivo. A
 figura abaixo nos ajuda a consolidar essa ideia:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Banco de dados armazenado
 
@@ -2285,11 +2254,11 @@ B Instância.
 C Esquema.
 D Arquitetura.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 E Projeto.
 
@@ -2300,15 +2269,13 @@ resposta na alternativa B.
 
 Gabarito: B
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-41
 
 
-97
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 MoDELo DE DADoS
 
@@ -2355,11 +2322,11 @@ permitindo a implementação da estrutura de dados no disco rígido ou em outro
 dispositivo físico. O
 passo a passo do projeto de banco de dados será visto em outro momento neste curso.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 
 Modelo Lógico
@@ -2430,19 +2397,19 @@ com o sistema, que pode fornecer muitas visões para o mesmo banco de dados.
 
 A hierarquia de níveis de abstração de dados pode ser vista na figura abaixo:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Figura 3 - Os 3 níveis de abstração: Visão, lógico e físico.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 ARQUITETURA TRÊS ESQUEMAS
 
@@ -2482,11 +2449,11 @@ Olhando para a figura anterior percebemos que diferentes grupos de usuários ace
 visões
 externas distintas. A figura mostra dois grupos de usuários A e B acessando suas respectivas visões
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 externa por meio de uma sublinguagem de dados (DSL). Toda DSL é dividida em pelo
 menos duas
@@ -2558,11 +2525,11 @@ e os resultados obtidos entre os níveis conceituai e interno. Segundo o CJ Date
 temos chamado de registro
 armazenado
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 O mapeamento conceitual/interno define a correspondência entre a visão
 conceituai e interno, ele especifica o modo como os registros e campos
@@ -2612,11 +2579,11 @@ superior ao esquema alterado. Desta forma só temos o conceito para os níveis
 conceituai e interno
 da figura.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Usuários finais
 
@@ -2668,11 +2635,11 @@ objetivo separar a aplicação do banco de dados físico. Nessa arquitetura, tem
 divisão
 dos esquemas em três níveis:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 i Interno: nesse nível está o esquema interno do banco de dados. Esse esquema contém
 a
@@ -2742,11 +2709,11 @@ Gabarito: B.
 
 Item. 3. Ano: 2014 Órgão: TJ-CE Prova: Analista Judiciário - Ciências Computação
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Considerando o sistema gerenciador de banco de dados (SGBD), assinale a opção correta
 acerca de bancos de dados.
@@ -2813,11 +2780,11 @@ aplicação. Desta forma, a alternativa encontra-se correta.
 
 Gabarito: C.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 5. Ano: 2016 Órgão: TCE-PA Prova: Auditor de Controle Externo - Área Informática -
 Administrador de Banco de Dados
@@ -2866,11 +2833,11 @@ vistos anteriormente e descrever a seguinte ordem: externa, conceituai e interna
 
 Gabarito: A.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 AMBIENTE Do SISTEMA DE BANCo DE DADoS
 
@@ -2906,11 +2873,11 @@ uma transação sobre o banco de dados, o intervalo de tempo gasto na transferê
 dados entre
 a memória e o disco é considerado um gargalo no processamento. Para otimizar o processo alguns
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 SGBDs podem contar com um módulo de gerenciamento de buffer que planeja a troca de
 dados
@@ -2991,15 +2958,13 @@ que são submetidas a um pré-compilador. Este extrai os comandos DML do program
 aplicação.
 Para entender melhor como funciona essa divisão vamos partir para um exemplo prático. No
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-53
 
 
-97
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 exemplo abaixo temos um código Java com um comando SQL. O comentário (//) no código
 delimita
@@ -3080,11 +3045,11 @@ Nossa ideia foi ilustrar os módulos básicos de um SGBD e estruturar seu racioc
 Lembre-se que
 um SGBD é um sistema informatizado. Para executar todas as suas tarefas sua implementação é
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 dividida em diferentes módulos. O SGBD interage ainda com o sistema operacional quando
 o acesso
@@ -3139,11 +3104,11 @@ aqui o nosso primeiro conjunto de assuntos teóricos envolvidos na introdução
 dos sistemas de
 bancos de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 QUESTõES CoMENTADAS CoMPLEMENTARES
 
@@ -3203,11 +3168,11 @@ B.
 
 Gabarito: B.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 2. CEBRASPE (CESPE) - Analista Judiciário (TJ PA)/Análise de Sistema/Suporte/2020
 
@@ -3261,11 +3226,11 @@ Acerca de sistema gerenciador de banco de dados, do tuning e da segurança em ba
 de dados,
 julgue o item subsequente.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Uma das vantagens de utilizar sistema gerenciador de banco de dados é o fato de ele
 realizar o
@@ -3321,11 +3286,11 @@ comunicação entre o hardware e os demais softwares, criando uma plataforma
 comum a todos os
 programas utilizados. São exemplos de SO: Dos, Unix, Linux, Mac OS, OS-2, Windows NT.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 5. CEBRASPE (CESPE) - Assistente Judiciário (TJ AM)/Programador/2019
 
@@ -3387,11 +3352,11 @@ os dados, é o próprio SGBD. Desta forma, temos uma alternativa correta.
 
 Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 7. Ano: 2018 Banca: CESPE Órgão: STM Prova: Técnico Judiciário - Programação de Sistemas
 
@@ -3447,11 +3412,11 @@ correta.
 
 Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 9. Ano: 2018 Banca: CESPE Órgão: CGM de João Pessoa - PB Prova: Auditor Municipal de Controle
 Interno - Desenvolvimento de Sistemas
@@ -3508,11 +3473,11 @@ conhecimento sobre o assunto. Começando pela alternativa A, o erro aparece
 quando o
 examinador afirmar que os SGBDs não são flexíveis. Lembre-se que um SGBD veio solucionar
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 um problema de replicação dos dados em diversos arquivos distintos. Agora, com uma
 fonte
@@ -3572,15 +3537,13 @@ vendas e compras, pois a redundância será tratada na fase da modelagem do banc
 
 Gabarito: E.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-62
 
 
-97
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 12. Ano: 2016 Banca: CESPE Órgão: TCE-SC Prova: Auditor Fiscal de Controle Externo - Informática
 
@@ -3636,11 +3599,11 @@ Da forma com está escrito na questão, o item pode ser assinalado como INCORRET
 
 Gabarito: E
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 14. CESPE - Técnico Judiciário (STM)/Apoio Especializado/Programação de Sistemas/2018
 
@@ -3696,11 +3659,11 @@ Gabarito: E.
 
 Item. 15. CESPE - Analista de Gestão Educacional (SEDF)/Tecnologia da lnformação/2017
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Julgue o item seguinte, a respeito de estruturas em programação e de arquiteturas de
 bancos
@@ -3760,11 +3723,11 @@ d) independência de dados.
 
 e) cardinalidade.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Comentário: A arquitetura de três esquemas pode ser usada para explicar melhor o
 conceito
@@ -3826,11 +3789,11 @@ c) Essa é a nossa resposta. O esquema interno usa um modelo de dados físico e 
 detalhes completos do armazenamento de dados e caminhos de acesso para o banco de
 dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 d) Errada. Cada esquema externo descreve a parte do banco de dados em que um grupo
 de
@@ -3890,10 +3853,10 @@ Assim, temos a nossa resposta na alternativa C.
 
 Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
+
+
 Aula Thiago Cavalcanti)
 
 19.CESPE - Auditor de Controle Externo (TCE-PA)/lnformática/Administrador de Banco de
@@ -3951,11 +3914,11 @@ Somente o modelo físico que dependerá de sua implementação. Portanto, gabari
 
 Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 22. BANCA: CESPE ANO: 2014 ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - SUPORTE E
 INFRAESTRUTURA
@@ -4012,11 +3975,11 @@ o que caracteriza a dependência de dados, que é um fundamento do banco de dado
 
 Comentário: Vamos analisar as alternativas acima.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Começando pelo item 51. Veja que a questão sugere que existe uma limitação nos tipos
 de
@@ -4070,10 +4033,10 @@ INFORMAÇÃO
 
 Acerca de sistema de gerenciamento de banco de dados (SGBD), julgue os seguintes itens.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
+
+
 Aula Thiago Cavalcanti)
 
 [115] Os dados armazenados em um SGBD são acessados por um único usuário de cada
@@ -4135,11 +4098,11 @@ disco rígido.
 
 Gabarito: C.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 27. BANCA: CESPE ANO: 2013 ÓRGÃO: MC PROVA: ANALISTA DE NÍVEL SUPERIOR - TECNOLOGIA
 DA INFORMAÇÃO
@@ -4193,15 +4156,13 @@ pois está de acordo com nosso conhecimento.
 
 Gabarito: C E C.
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-72
+0 0 
 
 
-97
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
 
 Item. 29. Ano: 2010 Banca: CESPE Órgão: Banco da Amazônia Prova: Técnico Científico - Tecnologia da
 Informação
@@ -4233,11 +4194,11 @@ incorreta, já a afirmação [2] está certa!
 
 Gabarito: E C.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 QUESTõES CoMENTADAS
 
@@ -4269,11 +4230,11 @@ Logo, podemos marcar nossa resposta na alternativa A.
 
 Gabarito: A.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 HORA DE
 
@@ -4346,11 +4307,11 @@ detalhes das estruturas de armazenamento das informações dentro dos storages.
 
 Vejam que pelo exposto, nossa resposta encontra-se na alternativa C.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Gabarito: C.
 
@@ -4398,11 +4359,11 @@ possível, a um dos outros níveis descritos na figura.
 
 Gabarito: B
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 4. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa -
 Tecnologia da Informação
@@ -4459,15 +4420,13 @@ Comentário: O mapeamento conceitual/interno define a correspondência entre a v
 conceituai
 e o banco de dados armazenado. Ele especifica o modo como os registros e campos conceituais são
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-77
 
 
-97
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 representados no nível interno. Se a estrutura do banco de dados armazenado for
 alterada - isto é,
@@ -4546,11 +4505,11 @@ Baixo nível
 
 Logo, podemos marcar nossa resposta na alternativa E.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Gabarito: E.
 
@@ -4607,11 +4566,11 @@ conhecidos como modelos de dados legados, são os modelos em rede e os modelos
 hierárquicos. O
 modelo em rede representa os dados como tipos de registros e um tipo relacionamento 1:N,
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 limitado, chamado tipo conjunto. Esse modelo também foi conhecido como CODADYL DBTG. Já
 o
@@ -4666,11 +4625,11 @@ O Sistema Gerenciador de Banco de Dados (SGBD) NÃO apresenta a seguinte caracte
 a) Procurar armazenar os dados, buscando o melhor aproveitamento da memória e visando a
 recuperá-los de modo eficiente.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 b) Poder decidir se possui informações suficientes ou não para responder a uma
 consulta aos
@@ -4727,11 +4686,11 @@ alternativa B.
 
 Gabarito: B
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 12. Ano: 2012 Banca: CESGRANRIO Órgão: Petrobras Prova: Analista de Sistemas Júnior -
 lnfraestrutura-2012
@@ -4788,15 +4747,13 @@ dados; e o nível externo, que define as visualizações dos usuários.
 
 Gabarito: B.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-82
 
 
-97
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 LISTA DE QUESTõES - CEBRASPE
 
@@ -4848,11 +4805,11 @@ Item. 4. Ano: 2019 Banca: CESPE Órgão: SEFAZ-RS Prova: Auditor Assunto: Banco 
 
 As funções de um sistema de gerenciamento de banco de dados (SGBD) incluem
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 A gerenciar o becape e a recuperação dos dados, bem como o escalonamento de processos
 no
@@ -4918,11 +4875,11 @@ Interno - Desenvolvimento de Sistemas
 
 A respeito de bancos de dados, julgue o item a seguir.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Um banco de dados é uma coleção de dados que são organizados de forma randômica, sem
 significado implícito e de tamanho variável, e projetados para atender a uma
@@ -4989,11 +4946,11 @@ compartilhamento de dados; dessa forma, cada informação é armazenada uma úni
 
 Item. 14. CESPE - Técnico Judiciário (STM)/Apoio Especializado/Programação de Sistemas/2018
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Acerca dos conceitos de normalização de dados e dos modelos de dados,
 julgue o item
@@ -5060,11 +5017,11 @@ b) Um dos objetivos da arquitetura de três esquemas é aproximar o banco de dad
 físico das
 aplicações.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 c) O nível conceituai serve para descrever a estrutura do banco de dados para um
 conjunto de
@@ -5132,11 +5089,11 @@ caracteres em geral, não apresentando recursos para tratar dados multimídias, 
 filmes e
 fotografias.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 [52] Uma característica fundamental do banco de dados e dos antigos sistemas de
 arquivos é
@@ -5199,11 +5156,11 @@ em alguns casos, são tarefas importantes para melhorar o desempenho do banco de
 Item. 28. BANCA: CESPE ANO: 2013 ÓRGÃO: ANTT PROVA: ANALISTA ADMINISTRATIVO -
 INFRAESTRUTURA DE TI
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 No que diz respeito às funções do administrador de dados e à elaboração e implantação
 de
@@ -5228,11 +5185,11 @@ sistema.
 [2] O catálogo do sistema é um repositório com função de armazenar as definições dos
 esquemas dos bancos de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 GABARITo
 
@@ -5294,11 +5251,11 @@ Item. 28. Certo
 
 Item. 29. Errado Certo
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 LISTA DE QUESTõES - CESGRANRIO
 
@@ -5353,11 +5310,11 @@ Al-P, ll-Q, III-R.
 
 Bl-Q, ll-R, lll-S.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Cl-S, ll-P, lll-R.
 
@@ -5411,11 +5368,11 @@ a) Lógica
 
 b) Relacional
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 c) Conceituai
 
@@ -5472,11 +5429,11 @@ Dois desses modelos são os
 
 a) em rede e XML
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 b) hierárquico e em rede
 
@@ -5529,11 +5486,11 @@ através de
 diferentes tabelas, padronizando definições semânticas e de representação de elementos de
 dados
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 e melhorando o controle do compartilhamento das informações através das
 aplicações, é
@@ -5584,15 +5541,13 @@ d) conceituai, externo e físico
 
 e) conceituai, físico e externo
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-95
 
 
-97
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 GABARITo
 
@@ -5622,7 +5577,7 @@ Item. 12. C
 
 Item. 13. B
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

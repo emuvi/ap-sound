@@ -1,25 +1,8 @@
 Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relacional - Oracle.
 
-Concursos
-
-(Prof. Thiago
-
-Cavalcanti)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Banco de dados - 2023
-
-(Pós-Edital)
-
-Autor:
-
-Thiago Rodrigues Cavalcanti
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
-
-índice
+Índice
 
 1) Sistemas Gerenciadores de Banco de Dados-Oracle
 
@@ -39,11 +22,11 @@ Thiago Rodrigues Cavalcanti
 
 9) Lista de Questões - Banco de Dados ORACLE - Multibancas
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 SISTEMAS GERENCIADoRES DE BANCo DE DADoS: ORACLE
 
@@ -101,11 +84,11 @@ conectados ao servidor, e o armazenamento de memória temporária utilizada por 
 processos. Processos do servidor analisam e executam instruções SQL e recuperam ou
 retornam os resultados para o usuário ou aplicação.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Oracle Net, que é uma camada de software que permite os aplicativos do cliente e o
 banco de
@@ -163,11 +146,11 @@ fornecendo serviços em nuvem otimizados para cargas de trabalho para
 processamento de
 transações e data warehousing.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 O Autonomous Data Warehouse é um serviço de banco de dados em nuvem
 otimizado para
@@ -236,11 +219,11 @@ optar por fazê-lo, o OUI inicia automaticamente o Oracle Database Configuration
 Assistant (DBCA)
 para guiá-lo através do processo de criação e configuração de um banco de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Antes de iniciar o processo de instalação, é importante obter informações
 sobre os pré-
@@ -305,11 +288,11 @@ Métodos de instalação
 
 Os métodos de instalação são divididos em Desktop Class e Server Class:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Desktop Class - Esta classe de instalação é mais apropriada para computadores laptop ou
 desktop. Ela inclui um banco de dados inicial e requer uma configuração mínima.
@@ -373,16 +356,14 @@ Seu foco é a utilização para desenvolvimento e publicação (deployments) de 
 Diretórios de instalação
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-7
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 É preciso informar alguns endereços onde serão armazenados os arquivos. Primeiro você
 deve
@@ -447,16 +428,14 @@ possa
 entender o contexto de cada uma delas.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-8
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 1) Product Languages você escolhe o idioma usado após a instalação (English).
 
@@ -520,11 +499,11 @@ visualizando. Caso você opte pela opção Server Class, você deve seguir inser
 dados para as
 configurações avançadas.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 6. Nesta tela, você deve informar os seguintes detalhes de configuração: (1)
 Localização ou
@@ -565,16 +544,14 @@ dados. Depois
 da criação do banco de dados, aparecerá um resumo das informações.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-10
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 11. Este passo é opcional. Você pode clicar em Password Management para desbloquear as
 contas de usuário, fazendo com que elas estejam acessíveis aos usuários. As contas SYS e SYSTEM
@@ -590,11 +567,11 @@ aqui é que você tenha conhecimento das informações utilizadas durante uma in
 Veremos,
 a seguir, a criação e gerenciamento de um banco de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 CRIANDo UM BANCo DE DADoS CoM DBCA
 
@@ -657,16 +634,14 @@ etapa oito do
 nosso fluxo visa tratar dos exemplos de esquema e script, geralmente, não é muito relevante.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-12
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 O passo nove vai permitir ajustes nos parâmetros de inicialização. São quatro
 grupos de
@@ -725,16 +700,14 @@ afetar o acesso
 às estruturas de armazenamento lógico.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-13
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Visão geral da estrutura física
 
@@ -783,16 +756,14 @@ sintaxe do
 comando, podemos observar esse fato:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-14
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 ALTER TABLESPACE tablespace_name
 
@@ -862,16 +833,14 @@ DATAFILE, bem
 como outros parâmetros importantes para a incorporação e expansão dele. Veja na figura a seguir:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-15
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 { [ 'filename' | 'ASM_filename' ]
 
@@ -896,7 +865,6 @@ Thiago Rodrigues Cavalcanti
 
 [, 'filename | ASM_filename' ] )
 
-1
 
 [ SIZE integer [K|M|G|T|P|E]J
 [ REUSE ]
@@ -941,16 +909,14 @@ NEXT 512K
 MAXSIZE 250M;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-16
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 1. Ano: 2017 Banca: FGV Órgão: Alerj Cargo: Analista de Tecnologia da Informação Q. 44
 
@@ -1010,16 +976,14 @@ recuperação de
 banco de dados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-17
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 HORA DE
 
@@ -1086,16 +1050,14 @@ contidas nos
 registros do redo log.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-18
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Archive Log Files
 
@@ -1157,16 +1119,14 @@ análise
 da estrutura lógica do SGBD.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-19
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Visão geral da estrutura lógica
 
@@ -1213,11 +1173,11 @@ sistema é criar uma smallfile tablespace, que é o tipo tradicional de
 tabelspace Oracle. As
 tablespaces SYSTEM e SYSAUX são criados como espaços de tabela smallfile.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 A Oracle também permite criar espaços de tabela bigfile. Isso permite que o Oracle
 Database
@@ -1284,16 +1244,14 @@ os schemas de usuários.
 Podemos, portanto, marcar nossa reposta na alternativa B.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-21
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Gabarito B
 
@@ -1350,16 +1308,14 @@ tablespaces. A Oracle
 recomenda que você use o gerenciamento de undo automático.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-22
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 As versões anteriores da Oracle usam segmentos de rollbalk para armazenar informações de
 undo. A informação em um segmento de reversão era usada durante a recuperação de
@@ -1411,16 +1367,14 @@ Esta questão é somente para fixarmos o conteúdo.
 Gabarito: B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-23
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 OBJEToS Do SCHEMA
 
@@ -1467,7 +1421,7 @@ todos os
 funcionários com um salário maior do que 1000 dólares) ou para uma linha específica.
 
 Os índices são criados sobre uma ou mais colunas de uma tabela. Depois de criado, um
-índice
+Índice
 é mantido e utilizado pelo Oracle automaticamente. Alterações nos dados da tabela (como
 a adição
 de novas linhas, atualização ou exclusão de linhas) são automaticamente incorporadas em
@@ -1483,11 +1437,11 @@ dados realmente. Em vez disso, elas derivam seus dados das tabelas nas
 quais se baseiam,
 conhecidas como as tabelas de base da visão.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Como tabelas, os dados de uma view podem ser consultados, atualizados, inseridos e
 excluídos,
@@ -1544,16 +1498,14 @@ o status do banco de dados em todos os momentos, o dicionário de dados
 é atualizado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-25
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 automaticamente pelo Oracle em resposta a ações específicas, como quando a estrutura do
 banco
@@ -1619,16 +1571,14 @@ de dados Oracle equivalente, registra o tipo de dados Oracle como o nome do tipo
 dados da
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-26
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 coluna e armazena os dados da coluna no tipo de dados Oracle com base nas conversões
 mostradas
@@ -1706,16 +1656,14 @@ Oracle. Eles só podem ser definidos como números de ponto fixo. E para esses t
 padrão para a escala é zero (0). O tipo de dado FLOAT é um tipo de ponto flutuante com precisão
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-27
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 binária b. O valor default para a precisão neste tipo de dados é de 126 casa
 binárias ou 38 casas
@@ -1776,11 +1724,11 @@ O tipo TIME consiste de hora, minuto e segundo. A hora é um número de 00 a 23.
 minuto
 é um número de dois algarismos, de 00 a 59. O segundo é um inteiro entre 00-59 ou um número
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 decimal com uma escala mínima de cinco e precisão mínima de três, que pode conter valores de
 Item. 00.000 a 59.999.
@@ -1856,16 +1804,14 @@ A 1000 e 2000 bytes.
 B 1000 e 4000 bytes.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-29
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 C 2000 e 4000 bytes.
 
@@ -1902,16 +1848,14 @@ cada
 um dos tipos de dados que apresentamos nesta seção:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-30
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Oracle Data Type Descrição
 
@@ -2050,11 +1994,11 @@ Um ponteiro para um Large Binary File armazenado fora do banco de dados. Arquivo
 devem ser acessíveis a partir do servidor que executa a instância Oracle. O tamanho máximo
 é de 4GB.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 ESTRUTURA DE MEMóRIA
 
@@ -2119,16 +2063,14 @@ Na alternativa A, temos uma troca entre os conceitos de SGA e PGA. Lembrem-se qu
 (SYSTEM GLOBAL AREA) refere-se à área de memória compartilhada. Já o PGA (PROGRAM
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-32
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 GLOBAL AREA) trata da área de memória não compartilhada, ou seja, um PGA é alocado
 para
@@ -2196,16 +2138,14 @@ a Oracle:
 program global
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-33
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 area). Abaixo explicaremos cada uma delas em detalhes. Antes vejam as estruturas
 descritas na
@@ -2233,16 +2173,14 @@ O Oracle permite, por ser uma memória dinâmica, que o tamanho da SGA seja ajus
 tempo de execução, sem a necessidade de baixar ou indisponibilizar o ambiente de banco de dados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-34
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 A memória para a SGA é alocada em unidades granulares, onde um grão pode ter 4MB ou
 16MB. Se a SGA for menor ou igual a 128MB, o crescimento será de 4MB. Do contrário,
@@ -2298,16 +2236,14 @@ até que estes
 blocos de dados sejam gravados com êxito no disco.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-35
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Buffers livres são buffers que não possuem dados armazenados ou que guardam blocos de
 dados que são idênticos aos blocos correspondentes no disco. Áreas de buffers livres
@@ -2371,16 +2307,14 @@ BUFFER_POOL { KEEP | RECYCLE | DEFAULT }
 CREATE TABLE table_name (coll number) STORAGE (BUFFER_POOL KEEP;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-36
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 ALTER INDEX index_name STORAGE (BUFFER_POOL RECYCLE;
 
@@ -2442,16 +2376,14 @@ execução para a
 instrução correspondente. Uma única área de SQL compartilhada é usada por vários aplicativos que
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-37
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 emitem a mesma declaração, deixando livre uma quantidade maior de memória compartilhada
 para
@@ -2515,16 +2447,14 @@ sessão.
 A figura que descreve a UGA pode ser vista abaixo:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-38
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 UGA
 
@@ -2552,16 +2482,14 @@ enunciado. Sendo assim, podemos concluir que nossa resposta está na alternativa
 Gabarito: C
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-39
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Um servidor de banco de dados Oracle consiste em um banco de dados Oracle e uma
 instância
@@ -2625,11 +2553,11 @@ Comentário: Vamos comentar cada uma das alternativas acima:
 Na alternativa A, temos uma troca entre os conceitos de SGA e PGA. Lembrem-se que SGA
 (SYSTEM GLOBAL AREA) refere-se à área de memória compartilhada. Já o PGA (PROGRAM
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 GLOBAL AREA) trata da área de memória não compartilhada, ou seja, um PGA é alocado
 para
@@ -2697,16 +2625,14 @@ a Oracle:
 program global
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-41
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 area). Abaixo explicaremos cada uma delas em detalhes. Antes vejam as estruturas
 descritas na
@@ -2734,16 +2660,14 @@ O Oracle permite, por ser uma memória dinâmica, que o tamanho da SGA seja ajus
 tempo de execução, sem a necessidade de baixar ou indisponibilizar o ambiente de banco de dados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-42
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 A memória para a SGA é alocada em unidades granulares, onde um grão pode ter 4MB ou
 16MB. Se a SGA for menor ou igual a 128MB, o crescimento será de 4MB. Do contrário,
@@ -2799,16 +2723,14 @@ até que estes
 blocos de dados sejam gravados com êxito no disco.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-43
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Buffers livres são buffers que não possuem dados armazenados ou que guardam blocos de
 dados que são idênticos aos blocos correspondentes no disco. Áreas de buffers livres
@@ -2872,16 +2794,14 @@ BUFFER_POOL { KEEP | RECYCLE | DEFAULT }
 CREATE TABLE table_name (coll number) STORAGE (BUFFER_POOL KEEP;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-44
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 ALTER INDEX index_name STORAGE (BUFFER_POOL RECYCLE;
 
@@ -2943,16 +2863,14 @@ execução para a
 instrução correspondente. Uma única área de SQL compartilhada é usada por vários aplicativos que
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-45
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 emitem a mesma declaração, deixando livre uma quantidade maior de memória compartilhada
 para
@@ -3016,16 +2934,14 @@ sessão.
 A figura que descreve a UGA pode ser vista abaixo:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-46
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 UGA
 
@@ -3053,16 +2969,14 @@ enunciado. Sendo assim, podemos concluir que nossa resposta está na alternativa
 Gabarito: C
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-47
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 ESTRUTURA DE PRoCESSoS
 
@@ -3122,16 +3036,14 @@ dependendo do sistema operacional e das escolhas de opções do SGBD Oracle. O c
 para
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-48
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 usuários conectados pode ser configurado como um servidor dedicado ou
 um servidor
@@ -3212,16 +3124,14 @@ bibliotecas do Oracle
 Database ligadas nele, que fornecem as APIs necessárias para se comunicar com o banco de dados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-49
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Processos do cliente diferem em vários aspectos dos processos do Oracle. Eles interagem
 diretamente com a instância. Os processos do Oracle servem ao processo cliente, pois
@@ -3282,16 +3192,14 @@ CONNECT SYS/password AS SYSDBA
 Gabarito Certo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-50
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Uma conexão é um canal de comunicação entre um processo de usuário e uma instância de
 banco de dados Oracle. É estabelecida utilizando os mecanismos de comunicação entre
@@ -3324,11 +3232,11 @@ sessões de usuários podem compartilhar um único processo do servidor. Veja na
 abaixo um
 exemplo de conexão e sessão:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Esta seção descreve os dois tipos de processos que executam o código do servidor de
 banco
@@ -3383,14 +3291,14 @@ outro processo arquivar os dados.
 O Oracle Database cria processos de segundo plano automaticamente quando uma instância
 de banco de dados é inicializada. Uma instância pode ter muitos processos em segundo plano, alguns
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
+
 
 
 0515200190-0E-vEevrteorntoMn uMriulorilVoieViireaira
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
 
 dos quais nem sempre existem em cada configuração do banco de dados. A consulta a
 seguir lista
@@ -3442,11 +3350,11 @@ sigla é ARCO. Podemos observar sua presença na figura a seguir.
 
 Gabarito: D
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 RECO PMON SMON
 
@@ -3543,11 +3451,11 @@ comando:
 
 oracle 17011 0.0 0.0 60292 696 pts/O D+ 12:14 0:00 grep pmon
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 System Monitor Process (SMON)
 
@@ -3606,16 +3514,14 @@ dados
 propriamente ditos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-55
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 A gravação dos blocos de dados nos arquivos de dados é realizada de forma assíncrona
 e
@@ -3681,16 +3587,14 @@ servidor
 Oracle pode garantir que as alterações não serão perdidas mesmo que haja uma falha de instância.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-56
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Sempre que uma transação é submetida para commit, o servidor Oracle atribui
 um SCN
@@ -3749,16 +3653,14 @@ O processo de Checkpoint é habilitado através do parâmetro CHECKPOINT_PROCESS
 figura abaixo com detalhes sobre o CKPT:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-57
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 System Global Area
 (SGA)
@@ -3810,16 +3712,14 @@ por
 linhas excluídas.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-58
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Certo
 Errado
@@ -3879,16 +3779,14 @@ ARCHIVELOG e
 arquivamento automático está habilitado.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-59
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Job Queue Processes (CJQO and Jnnn)
 
@@ -3949,16 +3847,14 @@ tabelas
 monitoradas em Arquivos de Dados de Flashback. Quando uma transação contendo DML em uma
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-60
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 tabela controlada sofre commit, este processo armazena a pré-imagem das linhas para o
 Flashback
@@ -4024,16 +3920,14 @@ processo opcional são, respectivamente,
 AJob Queue (CJQ) e Space Management Coordinator (SMCO).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-61
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 B Recoverer (RECO) e Archiver (ARC).
 
@@ -4058,16 +3952,14 @@ Finalmente, terminamos nossa explicação teórica sobre processos no Oracle. Ao
 observar como cada um dos processos está relacionado com a SGA. Vejam a figura abaixo:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-62
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 MoDo DE INICIALIZAçÃo E DE ENCERRAMENTo DE
 
@@ -4128,11 +4020,11 @@ persistentes, na medida em que todas as alterações feitas aos parâmetros enqu
 instância
 está sendo executado pode perdurar, por exemplo, após um encerramento e reinicialização.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 VISÃo GERAL DA INICIALIZAçÃo DA INSTÂNCIA E Do BANCo DE DADoS
 
@@ -4195,16 +4087,14 @@ disponível
 para as operações normais de usuários.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-64
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Se o Oracle Database permite que várias instâncias montem o mesmo banco de
 dados
@@ -4268,16 +4158,14 @@ e os
 arquivos de log de redo. (Quaisquer arquivos de dados off-line de todos os espaços de tabela off-
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-65
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 line já foram fechados. Se posteriormente você reabrir o banco de dados, qualquer
 espaço de tabela
@@ -4339,16 +4227,14 @@ banco de
 dados físicos. Você pode fazer backups físicos com utilitários RMAN ou do sistema operacional.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-66
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Em contraste, os backups lógicos contêm dados lógicos, tais como tabelas e procedimentos
 armazenados. Você pode extrair os dados lógicos com um utilitário de banco de dados
@@ -4415,16 +4301,14 @@ válidos apenas se o banco de dados está operando no modo ARCHIVELOG. A razão 
 redo é necessário para tornar o espaço de tabela restaurado consistente.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-67
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Um backup de arquivo de dados é um backup de um único arquivo de dados. Backups de
 arquivo de dados, que não são tão comuns como backups de tabela, são válidos em bancos de dados
@@ -4489,16 +4373,14 @@ modificados
 enquanto os backups estão sendo feitos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-68
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Se você fizer um backup de banco de dados quando ele está aberto ou montado após um
 desligamento inconsistente, então o backup é inconsistente. Um backup de arquivos de
@@ -4571,16 +4453,14 @@ possa recuperar todas
 as transações confirmadas no caso de um sistema operacional ou falha de disco.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-69
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 * Se você mantiver um log arquivado, poderá usar um backup feito enquanto o banco de dados
 está aberto e em uso normal
@@ -4640,11 +4520,11 @@ arquivos de logs de redo, ou off-line.
 
 Gabarito: E
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 RMAN
 
@@ -4700,16 +4580,14 @@ atividade RMAN contra um ou mais bancos de dados de destino. Um catálogo de
 recuperação RMAN
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-71
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 preserva os metadados do repositório se o arquivo de controle for perdido, tornando
 muito mais
@@ -4770,16 +4648,14 @@ sistema operacional ou usar alguns recursos do RMAN através do Enterprise Manag
 Gabarito: D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-72
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 QUESTõES CoMENTADAS CoMPLEMENTARES
 
@@ -4838,11 +4714,11 @@ Assim, temos o gabarito da questão na letra e).
 
 Gabarito: E
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 2. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
 
@@ -4905,11 +4781,11 @@ respectivamente,
 
 (E) 32.767, 32.767 e 16.256.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Comentários: Vejamos alguns dos tipos de dados do Oracle.
 
@@ -4966,11 +4842,11 @@ A cláusula FOR FARSYNC cria uma instância de sincronização remota do Oracle 
 Você pode usar a duplicação de banco de dados ativa ou a duplicação baseada em backup para
 criar uma instância de sincronização distante.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Uma instância de sincronização remota do Oracle Data Guard é um destino remoto do
 Oracle
@@ -5031,11 +4907,11 @@ Data Redaction
 
 XXXX-XXXX-XXXX-5100
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 O mascaramento ou reescrita de dados suporta os seguintes tipos de função:
 
@@ -5081,7 +4957,6 @@ Random
 Stored Data
 
 u■ ■ i
-1
 
 10/09/1992
 
@@ -5115,11 +4990,11 @@ Gabarito: C
 
 Item. 6. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Com respeito ao Automatic SQL Tuning no Oracle Database 12c, quando o SQL Tuning
 Advisor é
@@ -5176,16 +5051,14 @@ e
 execute a seguinte consulta:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-78
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 7. BANCA: FCC/2018 - analista em gestão (DPE AM)/ especializado em tecnologia da informação
 de defensoria/ analista de banco de dados
@@ -5215,16 +5088,14 @@ INITIAL: Especifica o tamanho da primeira extensão do objeto. O Oracle aloca es
 extensão quando você cria o objeto de esquema.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-79
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 NEXT: Especifica em bytes o tamanho da próxima extensão a ser alocada ao objeto
 
@@ -5278,11 +5149,11 @@ lnformação/2016
 Com relação às estruturas que fazem parte de um banco de dados Oracle e que possuem um
 papel importante na reconstrução do banco de dados a partir de um backup,
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 a) o banco de dados consiste em uma ou mais unidades de armazenamento lógico chamadas
 tablespaces, que consistem em um ou mais arquivos chamados datafiles.
@@ -5357,16 +5228,14 @@ localizavam os arquivos do banco de dados foi danificado e perderam-se todos
 os arquivos
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-81
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 (control files, datafiles, online redo log files etc.), porém, o disco no qual estava
 a flash recovery
@@ -5436,16 +5305,14 @@ a) File Recovery Area - Media Manager - RMAN executable.
 b) Disk Recovery Area - Device Backup Manager - target client.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-82
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 c) Fast Recovery Area - Media Manager - RMAN client.
 
@@ -5509,16 +5376,14 @@ Comentário: Um ou mais arquivos de dados formam uma unidade lógica de armazena
 de banco de dados chamada tablespace. Um tablespace em um banco de dados Oracle consiste
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-83
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 em um ou mais arquivos de dados físicos. Um arquivo de dados pode ser associado a
 apenas
@@ -5588,16 +5453,14 @@ são
 uma classe especial de arquivos de dados associados apenas a tablespaces temporários.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-84
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Arquivos de dados podem ser divididos nos seguintes componentes:
 
@@ -5662,11 +5525,11 @@ Optimizer para realizar ajuste de SQL sobre os comandos. Ele pode ser executado 
 qualquer instrução SQL. Fornece sugestões sob a forma de ações SQL precisas para ajustes nas
 instruções SQL juntamente com os benefícios de desempenho esperados. A recomendação ou
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 conselho fornecido refere-se à coleção de dados estatísticos sobre os objetos. A
 criação de
@@ -5729,16 +5592,14 @@ C SYSAUX.
 D UNDO.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-86
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 
 ETEMP.
@@ -5804,18 +5665,16 @@ B List.
 CIndexed.
 D Neutral.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
+
 
 
 I
 
-87
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 E Forecast.
 
@@ -5884,16 +5743,14 @@ gestão da estratégia, acesso nativo a fontes de Big Data, computação in-memo
 sofisticada e
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-88
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 gerenciamento de sistemas simplificados se combinam para tornar o Oracle BI 12c uma
 solução
@@ -5960,16 +5817,14 @@ identifique e ignore o espaço não utilizado (blocos) no banco de dados. Os usu
 também se
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-89
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 beneficiam dos recursos sofisticados de compressão do RMAN. No momento de transmissão de
 backups em redes mais lentas, como a Internet pública, qualquer redução no tamanho do
@@ -6031,16 +5886,14 @@ Item. 20. BANCA: FCC-Analista (DPE RS)/lnformática/2013
 Sobre arquitetura do SGBD Oracle, considere:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-90
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 I. Os componentes principais de um servidor corporativo típico são uma ou mais CPUs,
 espaço em
@@ -6105,16 +5958,14 @@ Comentário: Cada banco de dados Oracle contém uma tablespace SYSTEM e uma tabl
 SYSAUX. O Oracle cria automaticamente cada tablespace quando o banco de dados é criado. O
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-91
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 padrão do sistema é criar uma smallfile tablespace, que é o tipo tradicional de
 tablespace
@@ -6176,11 +6027,11 @@ disponíveis para o usuário, as quotas de tablespace (espaço em disco disponí
 limites
 de recursos do sistema (por exemplo, o tempo de processamento da CPU) para o usuário.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Analisando as alternativas, observamos que o texto acima descreve exatamente o que está
 exposto na alternativa A. As demais letras possuem erros. A letra B diz que só
@@ -6246,11 +6097,11 @@ parte dos dados de produção para ambientes de teste, contudo, ele aplica uma m
 que
 modifica os valores.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 23. BANCA: FCC ANO: 2012 ÓRGÃO: TRE-CE PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE
 SISTEMAS
@@ -6290,16 +6141,14 @@ DBA_SEGMENTS descreve a quantidade de armazenamento alocada para todos os
 seguimentos (segments) no banco de dados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-94
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Vejam, portanto, que confirmamos a resposta na alternativa C.
 
@@ -6339,11 +6188,11 @@ data blocks; um segment é formado por um ou mais extents; um tablespace é form
 por um
 ou mais segments.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Data Blocks
 
@@ -6387,16 +6236,14 @@ resposta, que pode ser encontrada na letra D.
 Gabarito: D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-96
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 25. BANCA: FCC - Analista Judiciário (TRE CE)/ Apoio Especializado/ Análise de Sistemas/2012
 
@@ -6459,16 +6306,14 @@ nos
 tablespaces, se eles forem gerenciados pelo dicionário.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-97
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Gabarito: C
 
@@ -6527,11 +6372,11 @@ c) Parameter file.
 
 d) Archive log file.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 e) Redo log file.
 
@@ -6595,16 +6440,14 @@ blocos de dados (também chamados de blocos lógicos, blocos do Oracle ou págin
 bloco
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-99
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 de dados corresponde a um número específico de bytes do espaço físico do banco de
 dados
@@ -6662,16 +6505,14 @@ O tipo de dados NVARCHAR2 armazena cadeias de caracteres de comprimento variáve
 Gabarito: A
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-100
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 31. BANCA: FCC Analista do Ministério Público de Sergipe/ Informática l/Gestão e Análise de
 Projeto de lnfraestrutura/2010
@@ -6735,16 +6576,14 @@ NOARCHIVELOG. Você pode:
 Fazer backup do banco de dados enquanto ele estiver aberto e sendo acessado pelos usuários.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-101
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Recuperar o banco de dados para qualquer ponto desejado no tempo.
 
@@ -6802,11 +6641,11 @@ objetos de
 esquema. Um esquema é de propriedade de um usuário de banco de dados e tem o mesmo
 nome do usuário. Cada usuário possui um único esquema. Objetos de esquema podem ser
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 criados e manipulados com SQL e incluem os seguintes tipos de objetos: Clusters,
 Database
@@ -6865,11 +6704,11 @@ ARCHIVELOG).
 
 Gabarito: A
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 36. BANCA: FCC ANO: 2008 ÓRGÃO: TRT - 2? REGIÃO (SP) PROVA: ANALISTA JUDICIÁRIO -
 TECNOLOGIA DA INFORMAÇÃO
@@ -6928,11 +6767,11 @@ Item. 37. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Quest�
 Um sistema gerenciador de banco de dados (SGBD) instalado no Linux deve ser configurado de
 modo a permitir os seguintes requisitos:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 I no máximo, 1000 conexões simultâneas;
 
@@ -6996,16 +6835,14 @@ e
 conjunto de processos em background. A memória é dividida em duas áreas distintas: System
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-105
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Global Area (SGA) e Program Global Area (PGA). O Oracle cria processos servidores para
 lidar
@@ -7059,11 +6896,11 @@ freelist. O sistema de suporte à decisão (DSS) e os ambientes de banco de dado
 data
 warehouse tendem a se beneficiar de valores de tamanho de bloco maiores.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 85. Afigura abaixo descreve um bloco de arquivos no Oracle. Veja que existe um
 cabeçalho de
@@ -7133,16 +6970,14 @@ no AWR são analisados pelo Automatic Database Diagnostic Monitor (ADDM).
 Gabarito: C
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-107
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 40. BANCA: Cespe - Analista Judiciário (TRT 8- Região)/Apoio Especializado/Tecnologia da
 lnformação/2016
@@ -7199,16 +7034,14 @@ Item. 42. BANCA: CESPE ANO: 2012 ÓRGÃO: TJ-RO PROVA: ANALISTA JUDICIÁRIO - DE
 DE SISTEMAS
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-108
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Assinale a opção correta acerca das ferramentas, dos recursos e das características do
 SGBD
@@ -7275,11 +7108,11 @@ armazenam somente as colunas incluídas na sua definição, os índices IOT arma
 as
 colunas da tabela.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 O objetivo principal do Database Resource Manager é fornecer ao servidor do Oracle
 Database
@@ -7345,16 +7178,14 @@ A execução do SQL Access Advisor mostra as recomendações, com sua classifica
 total. A classificação é uma medida da importância das consultas que a recomendação ajuda.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-110
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 O benefício é a melhoria total no custo de execução (em termos de custo do
 otimizador) de
@@ -7421,11 +7252,11 @@ conjunto de atividades. Nessa versão do Oracle, o processo responsável por rec
 espaço em
 segmentos temporários quando estes não estão mais sendo utilizados é o
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 a) DBW (database writer).
 
@@ -7496,11 +7327,11 @@ Gabarito: C
 
 Item. 46. BANCA: FGV ANO: 2015 ÓRGÃO: TJ-SC PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE SISTEMAS
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Dois utilitários frequentemente usados nas instalações ORACLE no auxílio à manutenção dos
 dados são:
@@ -7542,11 +7373,11 @@ Database 10g (10.1).
 
 Confirmamos, portando, a resposta na alternativa D.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Gabarito: D
 
@@ -7589,16 +7420,14 @@ datafile pertence a apenas um tablespace.
 Gabarito: B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-114
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 LISTA DE QUESTõES - MULTIBANCAS
 
@@ -7663,16 +7492,14 @@ respectivamente,
 (B) 16.256, 8.156 e 4.096.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-115
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 (C) 16.256, 16.256 e 8.156.
 
@@ -7739,11 +7566,11 @@ instruções SQL de alta carga já executadas anteriormente, em alguns períodos
 específicos. No
 escopo global, ele verifica e analisa o comportamento dessas instruções nesses períodos, para
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 avaliar se podem ter seu desempenho melhorado aceitando ou não o sql profile
 estabelecido. A
@@ -7804,16 +7631,14 @@ c) CREATE DATAFILE, TABLESPACE 'dl.dbf', bl SIZE 40MB AUTOEXT = 1;
 d) CREATE FILE 40MB TYPE BIGFILE TABLESPACE bl
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-117
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 DATA 'dl.dbf' EXTENSION ON;
 
@@ -7875,11 +7700,11 @@ o disco é danificado, impedindo o acesso à flash recovery area.
 d) será possível restaurar um backup RMAN em conjunto com os archive redo log files contidos
 na flash recovery area.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 e) não será possível restaurar o banco de dados, pois o software Oracle foi
 corrompido e o disco
@@ -7941,16 +7766,14 @@ Item. 13. BANCA: FCC - Técnico Judiciário (TRT 16- Região)/Apoio Especializad
 lnformação/2014
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-119
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 No Oracle, uma base de dados física consiste de arquivos armazenados no disco e uma
 instância
@@ -8015,16 +7838,14 @@ C SYSAUX.
 D UNDO.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-120
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 ETEMP.
 
@@ -8080,16 +7901,14 @@ o
 a) Log Analiser.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-121
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 b) Graphical Configurator Addon.
 
@@ -8147,11 +7966,11 @@ I. Os componentes principais de um servidor corporativo típico são uma ou mais
 disco e memória. Enquanto o banco de dados Oracle é armazenado em um disco do servidor, uma
 instância Oracle existe na memória do servidor.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 II. Os arquivos de dados em um BD Oracle são agrupados em uma ou mais tablespaces. Dentro de
 cada tablespace as estruturas lógicas do banco de dados, como tabelas e índices, são
@@ -8215,16 +8034,14 @@ usuário,
 entretanto, não permitem definir cotas de tablespaces e limite de recursos da CPU.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-123
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 23. BANCA: FCC ANO: 2012 ÓRGÃO: TRE-CE PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE
 SISTEMAS
@@ -8274,16 +8091,14 @@ e) contêm todos os dados de um agrupamento lógico dentro de um tablespace.
 Item. 26. BANCA: FCC - Analista Judiciário (TRE PE)/Apoio Especializado/Análise de Sistemas/2011
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-124
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 O processo de background Oracle que executa a recuperação, se necessário, na
 inicialização da
@@ -8344,16 +8159,14 @@ c) segment, extent e data block.
 d) data block, segment e extent.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-125
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 30. BANCA: FCC - Analista do Ministério Público de Sergipe/lnformática l/Gestão e Análise de
 Projeto de lnfraestrutura/2010
@@ -8407,11 +8220,11 @@ Projeto de lnfraestrutura/2010
 
 NÃO se trata de um componente da estrutura lógica de um banco de dados ORACLE:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 a) tablespaces.
 
@@ -8460,16 +8273,14 @@ Item. 36. BANCA: FCC ANO: 2008 ÓRGÃO: TRT - 2^ REGIÃO (SP) PROVA: ANALISTA JU
 TECNOLOGIA DA INFORMAÇÃO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-127
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 O Oracle copiará os arquivos online redo logs cheios para o disco se a base de
 dados estiver em
@@ -8527,16 +8338,14 @@ Item. 39. BANCA: Cespe - Analista Judiciário (TRT 8- Região)/Apoio Especializa
 lnformação/2016
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-128
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Julgue o item seguinte, relativo ao banco de dados Oracle.
 
@@ -8592,11 +8401,11 @@ A Por meio do recurso OSS (Oracle segment shrink) do Oracle 10g, pode-se compact
 memória RAM marcadas como booked, transferindo-as para o disco, permitindo, assim, maior
 alocação de memória no processamento de consultas.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 B lOTs (index organized tables) são estruturas de dados que permitem armazená-los de
 forma
@@ -8661,16 +8470,14 @@ Certo
 Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-130
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 45. BANCA: Cespe Analista (FINEP)/ Informática/ Desenvolvimento de Sistemas/2009
 
@@ -8725,11 +8532,11 @@ C2;
 D 2 e 3;
 E3.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 GABARITo
 
@@ -8816,16 +8623,14 @@ Item. 40. B
 Item. 41. C
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-132
-
-134
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 42. B
 
@@ -8839,7 +8644,7 @@ Item. 46. D
 
 Item. 47. B
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
+
 
 www.estrategiaconcursos.com.br
 

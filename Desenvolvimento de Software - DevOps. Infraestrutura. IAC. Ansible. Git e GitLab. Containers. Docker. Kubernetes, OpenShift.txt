@@ -1,78 +1,41 @@
 Capítulo. Desenvolvimento de Software - DevOps. Infraestrutura. IAC. Ansible. Git e GitLab. Containers. Docker. Kubernetes, OpenShift.
 
-Concursos
 
-(Profs. Paolla
-Ramos e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Desenvolvimento de
-software - 2023 (Pós-Edital)
-
-Autor:
-
-Paolla Ramos e Silva
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-índice
+Índice
 
 1) Sistemas de Controle de Versão - Conceitos Básicos - Teoria
-3
 
 2) Sistemas de Controle de Versão - Conceitos Básicos - Questões Comentadas.
-6
 
 3) Sistemas de Controle de Versão - Conceitos Básicos - Lista de Questões.
-8
 
 4) Sistemas de Controle de Versão - GIT - Teoria
-10
 
 5) Sistemas de Controle de Versão - GIT - Questões Comentadas.
-21
 
 6) Sistemas de Controle de Versão - GIT - Lista de Questões.
-30
 
 7) Noções Iniciais de DevOps.
-36
 
 8) Docker - Teoria
 
-45
-
 9) Docker - Questões Comentadas.
-49
 
 10) Docker - Lista de Questões.
-58
 
 11) Kubernets -100% - Teoria
-65
 
 12) Kubernets -100% - Questões Comentadas.
-69
 
 13) Kubernets -100% - Lista deQuestões.
-75
 
 14) OpenShift - 100% - Teoria
-79
 
 15) OpenShift -100% - Questões Comentadas.
-81
 
 16) OpenShift -100% - Lista de Questões.
-83
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-2
+ x
 
 www.estrategiaconcursos.com.br
 / 85
@@ -136,8 +99,7 @@ A eficácia do controle de versão de software é comprovada por fazer parte das
 exigências para
 melhorias do processo de desenvolvimento de certificações tais como CMMI e SPICE.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-3
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -215,8 +177,7 @@ O uso de repositórios remotos (na nuvem) ajuda a não perder arquivos
 por eventos inesperados. Além disso, e possível fazer novos projetos sem
 danificar o desenvolvimento do atual.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-4
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -224,7 +185,7 @@ www.estrategiaconcursos.com.br
 /
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -311,8 +272,7 @@ CENTRALIZADO DISTRIBUÍDO
 
 LIVRE COMERCIAL LIVRE COMERCIAL
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-6
+
 
 
 , 85
@@ -368,8 +328,7 @@ PLASTIC SCM
 
 Conforme vimos em aula, SVN é um modelo centralizado e, não, distribuído. Gabarito: E
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-1
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -403,8 +362,7 @@ Git e
 SVN oferecem o mesmo grau de confiabilidade no armazenamento das informações e são ambas
 implantadas conforme o conceito de sistemas de controle de versão distribuído.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-8
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -473,8 +431,7 @@ Para lidar com este problema, programadores há muito tempo desenvolveram SCVs l
 que tem
 um banco de dados simples que mantêm todas as alterações nos arquivos sob controle de revisão.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-10
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -545,8 +502,7 @@ história do projeto,
 exceto imagens pontuais que desenvolvedores possam ter em suas máquinas locais. Sistemas
 SCV
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-11
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -612,8 +568,7 @@ metas do novo sistema era os seguintes:
 
 * Projeto simples
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-12
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -660,8 +615,7 @@ diante) tratam a informação como um conjunto de arquivos e as mudanças feitas
 arquivo
 ao longo do tempo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-13
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -729,11 +683,9 @@ benefícios que você ganha ao tratar seus dados desta forma quando cobrirmos ra
 
 Quase Todas as Operações são locais
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-14
+
 
 1 www.estrategiaconcursos.com.br
-85
 
 
 A maioria das operações no Git só precisa de arquivos e recursos locais para operar
@@ -806,8 +758,7 @@ verdade, o Git armazena tudo em seu banco de dados não pelo nome do arquivo, ma
 pelo valor
 de hash do seu conteúdo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-15
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -872,8 +823,7 @@ Isso nos leva a três seções principais de um projeto Git: o diretório Git, o
 diretório de trabalho e área
 de preparo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-16
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -916,11 +866,9 @@ modificado, mas foi adicionado à área de preparo, é considerado preparado. E 
 for alterado
 depois de ter sido carregado, mas não foi preparado, ele é considerado modificado.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-17
+
 
 1 www.estrategiaconcursos.com.br
-85
 
 
 Paolla Ramos e Silva
@@ -1029,8 +977,7 @@ git log -summary -S<palavra>
 
 git log —diff-filter=M - <caminho_do_arquivo>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-18
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -1138,8 +1085,7 @@ não são afetados.
 Este comando deve ser utilizando enquanto o arquivo não foi adicionado na staged area.
 Este comando deve ser utilizando quando o arquivo já foi adicionado na staged area.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-19
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -1171,8 +1117,7 @@ arquivos .gitignore em seu repositório, contendo padrões para arquivos gerados
 como parte da
 construção do projeto.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-20
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -1254,11 +1199,9 @@ padrão personalizados para palavras-chave de trabalho, include: Importe a confi
 outros
 arquivos YAML. stages: Os nomes e a ordem dos estágios do pipeline. variables: Defina variáveis
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-21
+
 
 1 www.estrategiaconcursos.com.br
-85
 
 
 Paolla Ramos e Silva
@@ -1332,8 +1275,7 @@ push:
 Enviar arquivos/diretórios para o repositório remoto, c) git add: Adicionar um arquivo, d) git
 pull:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-22
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -1409,8 +1351,7 @@ b) O comando git clone faz a cópia apenas dos arquivos, sendo as informações 
 repositório
 inicializadas como no comando git init.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-23
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -1488,8 +1429,7 @@ identificado.
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-24
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -1563,8 +1503,7 @@ d) git init new_branch
 
 e) git commit -m 'new_branch'
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-25
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -1644,8 +1583,7 @@ correta.
 
 a) O SVN pode ser considerado um sistema de controle de versão distribuído.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-26
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -1721,8 +1659,7 @@ Gabarito: Letra B
 Item. 19. (BIO-RIO - Pref São Gonçalo - 2016) No que diz respeito às características das ferramentas de
 controle de versão SVN e GIT, analise as afirmativas a seguir.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-27
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -1793,8 +1730,7 @@ versões anteriores. Perfeita questão!
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-28
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -1840,8 +1776,7 @@ Comentários: Pessoal, o comando para adicionar um arquivo novo ao repositório 
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-29
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -1915,8 +1850,7 @@ d) push origin pluginConnector;
 
 e) remote add origin pluginConnector.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-30
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -1990,8 +1924,7 @@ d) gitignore.txt
 
 e) .gitignore.txt
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-31
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -2065,8 +1998,7 @@ c) git checkout -b new_branch
 
 d) git init new_branch
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-32
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -2136,8 +2068,7 @@ d) hg log -v.
 
 e) hgrc show -a.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-33
+ x
 
 www.estrategiaconcursos.com.br
 / 35
@@ -2208,8 +2139,7 @@ adicionar, por exemplo, um arquivo novo ao repositório no Git, basta utilizar o
 comando commit
 depois de efetuar o comando add.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-34
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -2245,8 +2175,7 @@ Item. 7. ERRADO 15. LETRA E
 
 Item. 8. LETRA A 16. LETRA B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-35
+ x
 
 www.estrategiaconcursos.com.br
 / 35
@@ -2290,8 +2219,7 @@ colaboração e integração cruzada entre os diversos componentes de tecnologia
 informação,
 como Dev, Ops e Q&A.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-36
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -2363,11 +2291,9 @@ COST SAVINGS 18%
 
 DEPLOY FREQUENCY 17%
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-37
+
 
 www. estra tegiaconcursos. com. br
-85
 
 
 Paolla Ramos e Silva
@@ -2430,7 +2356,7 @@ cliente
 reclamava e começava uma briga muito comum representada pelas duas imagens anteriores.
 Sim, galera... rola essa briga!
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -2487,8 +2413,7 @@ infraestrutura também atue para liberar, controlar e entregar a versão do
 sistema de forma
 contínua, periódica e preferencialmente automática.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-39
+
 
 www.estrategiaconcursos.com.br
 Z 85
@@ -2581,7 +2506,7 @@ observed baselines improve alert
 
 quality and reduce alert noise.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
 
 Vamos resumir: a preocupação é com os objetivos quase diametralmente opostos da galera
@@ -2647,8 +2572,7 @@ ajuda a equipe de desenvolvimento a balancear a qualidade e velocidade (Correto)
 (TCU - 2015) De acordo com a abordagem DevOps (development - operations), os
 desafios da produção de software de qualidade devem ser vencidos com o envolvimento
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-41
+
 
 www.estrategiaconcursos.com.br
 Z 85
@@ -2715,8 +2639,7 @@ valor
 agregado para os usuários, assemelhando-se, por isso, com objetivos dos métodos
 iterativos e em cascata.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-42
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -2783,8 +2706,7 @@ infraestrutura provisionada e gerenciada por meio de técnicas de desenvolviment
 de
 código e de software, como, por exemplo, controle de versão e integração contínua.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-43
+
 
 www.estrategiaconcursos.com.br
 Z 85
@@ -2822,11 +2744,9 @@ uma organização de distribuir
 aplicativos e serviços e pode ser realizado na sprint do Scrum por meio da integração contínua
 (Correto).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-44
+
 
 1 www.estrategiaconcursos.com.br
-85
 
 
 Paolla Ramos e Silva
@@ -2869,8 +2789,7 @@ eu ainda não sei o que são containers.
 
 0 QUE SÃO, DE ONDE VIERAM E POR QUE USAMOS CONTAINERS?
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-45
+
 
 www.estrategiaconcursos.com.br
 X 85
@@ -2974,8 +2893,7 @@ ele
 é portátil e consistente em todas as etapas de desenvolvimento. Essa imagem é um
 modelo de
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-46
+
 
 www.estrategiaconcursos.com.br
 X 85
@@ -3027,8 +2945,7 @@ principais comandos do Docker, que serve para visualizar informações referente
 consumo de
 recursos de todos os containers, deve-se executar no terminal: Docker container stats.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-47
+
 
 www.estrategiaconcursos.com.br
 X 85
@@ -3108,8 +3025,7 @@ um sistema Linux Ubuntu com 0 Docker instalado, para visualizar informações re
 ao consumo de recursos de todos
 os containers, deve-se executar no terminal: Docker container stats (Correto).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-48
+
 
 www.estrategiaconcursos.com.br
 X 85
@@ -3177,8 +3093,7 @@ docker volume create my-volume. Bem simples, né?
 
 Gabarito: Letra A
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-49
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -3251,8 +3166,7 @@ b) É projetado para ser flexível, ele estabelece um padrão para a construçã
 interfaces com o
 usuário do lado do servidor. A arquitetura define claramente uma separação entre a lógica da
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-50
+ x
 
 www.estrategiaconcursos.com.br
 X 85
@@ -3328,8 +3242,7 @@ d) As instâncias de aplicativos em contêiner Docker usam mais memória do que 
 máquinas
 virtuais, sendo inicializadas e interrompidas mais lentamente.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-51
+ x
 
 www.estrategiaconcursos.com.br
 X 85
@@ -3399,8 +3312,7 @@ execução e não utiliza tantos recursos da máquina quanto as máquinas virtua
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-52
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -3473,8 +3385,7 @@ b) substituir a imagem base por uma versão mais recente;
 
 c) separar comandos RUN complexos em comandos menores;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-53
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -3544,8 +3455,7 @@ fornecer uma virtualização em nível de sistema operacional, o que isola as ap
 em execução
 e não utiliza tantos recursos da máquina quanto as máquinas virtuais.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-54
+
 
 www.estrategiaconcursos.com.br
 X 85
@@ -3618,8 +3528,7 @@ Estão corretas apenas as afirmativas:
 
 a) III e IV
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-55
+ x
 
 www.estrategiaconcursos.com.br
 X 85
@@ -3694,11 +3603,9 @@ c) expõe um serviço do container para a rede Docker default.
 
 d) documenta quais portas se pretende publicar.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-56
 
 
-85
+
 
 
 Paolla Ramos e Silva
@@ -3725,8 +3632,7 @@ podem ser vistas fora dele.
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-57
+ x
 
 www.estrategiaconcursos.com.br
 X 85
@@ -3804,11 +3710,9 @@ b) docker layers mailserver
 
 c) docker history mailserver
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-58
 
 
-85
+
 
 
 Paolla Ramos e Silva
@@ -3881,11 +3785,9 @@ d) As instâncias de aplicativos em contêiner Docker usam mais memória do que 
 máquinas
 virtuais, sendo inicializadas e interrompidas mais lentamente.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-59
 
 
-85
+
 
 
 Paolla Ramos e Silva
@@ -3952,8 +3854,7 @@ aplicativos instalados em um contêiner e transferi-lo para outro host que
 tenha um Docker
 previamente instalado.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-60
+
 
 www.estrategiaconcursos.com.br
 X 65
@@ -4034,8 +3935,7 @@ de máquinas virtuais que podem, cada uma, conter sistemas operacionais diferent
 Analise as
 seguintes afirmativas sobre o uso de Máquinas Virtuais e Docker.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-61
+
 
 www.estrategiaconcursos.com.br
 X 65
@@ -4109,8 +4009,7 @@ c) expõe um serviço do container para a rede Docker default.
 
 d) documenta quais portas se pretende publicar.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-62
+
 
 www.estrategiaconcursos.com.br
 X 65
@@ -4128,8 +4027,7 @@ camada base para dentro de um container docker, por padrão, são
 vistas pelos
 múltiplos containers do mesmo sistema de arquivos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-63
+
 
 www.estrategiaconcursos.com.br
 X 65
@@ -4160,8 +4058,7 @@ Item. 17. ERRADO
 
 Item. 6. CORRETO 12. CORRETO
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-64
+
 
 www.estrategiaconcursos.com.br
 X 65
@@ -4214,8 +4111,7 @@ disponíveis em nuvem, logo kubernetes é ideal para cloud native apps que
 podem exigir
 escalabilidade rápida.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-65
+
 
 www.estrategiaconcursos.com.br
 X 65
@@ -4289,11 +4185,9 @@ MÁQUINAS KUBERNETES DESCRIÇÃO
 
 NODE O papel de um node é executar os contêineres que encapsulam as aplicações.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-66
 
 
-85
+
 
 
 Paolla Ramos e Silva
@@ -4352,7 +4246,6 @@ L OPERATING SYSTEM
 L LIBRARIES
 
 Virtual machine Docker container
-1
 
 
 Hypervisor ijjjjF docker
@@ -4372,8 +4265,7 @@ docker
 Virtualized deployment Container deployment Kubernetes
 deployment
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-67
+
 
 www.estrategiaconcursos.com.br
 X 65
@@ -4413,11 +4305,9 @@ Comentários: Perfeito! Foi a primeira que vimos: Kubernetes é uma ferramenta d
 orquestração que oferece recursos de
 gerenciamento para containers, como balanceamento de carga e migração sem perda de dados (Correto).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-68
 
 
-85
+
 
 
 Paolla Ramos e Silva
@@ -4484,11 +4374,9 @@ componentes da carga de trabalho do aplicativo.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-69
 
 
-85
+
 
 
 Paolla Ramos e Silva
@@ -4559,8 +4447,7 @@ declarativa quanto a automação, a ferramenta para operações nos clusters, qu
 utilizada em linha
 de comando é o Kubectl.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-70
+ x
 
 www.estrategiaconcursos.com.br
 X 85
@@ -4635,8 +4522,7 @@ Kubernetes, sem
 mais enrolação, está perfeita a definição: Kubernetes é uma ferramenta de
 orquestração que
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-71
+ x
 
 www.estrategiaconcursos.com.br
 X 85
@@ -4699,8 +4585,7 @@ acontece dentro do cluster, incluindo o estado da aplicação.
 MASTER O master é responsável pelos principais componentes do kubernetes, como o
 scheduler, que tem a responsabilidadae de controlar a alocação de recursos no cluster.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-72
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -4775,8 +4660,7 @@ b) de código aberto criada pelo Google para operações de implantação de con
 aumento
 e redução e automação em clusters de hosts.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-73
+ x
 
 www.estrategiaconcursos.com.br
 X 85
@@ -4806,8 +4690,7 @@ de comando. Docker Swarm e Kubernets são orquestradores de container independen
 
 Gabarito: Letra C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-74
+
 
 www.estrategiaconcursos.com.br
 / 85
@@ -4887,11 +4770,9 @@ por meio de interface de linha de comando, pela qual é possível realizar a
 implantação de
 aplicações, inspecionar e gerenciar recursos do cluster e visualizar logs.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-75
 
 
-85
+
 
 
 Paolla Ramos e Silva
@@ -4960,11 +4841,9 @@ Item. 8. (CESPE/SERPRO-2021) Para obter o status de um node nomeado como nodei e
 cluster,
 deve ser executado o comando a seguir: Kubectl describe node nodei
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-76
 
 
-85
+
 
 
 Paolla Ramos e Silva
@@ -5035,8 +4914,7 @@ e) usada pela Amazon para fornecer outros serviços aos clientes, como DNS,
 balanceamento,
 segurança e monitoramento, se integrando nativamente.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-77
+ x
 
 www.estrategiaconcursos.com.br
 X 85
@@ -5065,7 +4943,7 @@ Item. 10. LETRA C
 
 Item. 11. LETRA C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x78
+ x78
 
 www.estrategiaconcursos.com.br
 X 85
@@ -5213,7 +5091,7 @@ kubernetes baseada em nuvem, literalmente um legitimo PAAS (Plataform as a servi
 além de
 parcialmente serconstruído em Dockertambém.
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 
 
 Logo, o Openshift oferece segurança consistente, monitoramento integrado,
@@ -5270,8 +5148,7 @@ plataforma de contêiner que funciona com o Kubernetes para ajudar os
 aplicativos a serem
 executados com mais eficiência.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-80
+
 
 www.estrategiaconcursos.com.br
 X 85
@@ -5338,11 +5215,9 @@ de Kubernetes para disponibilização desses aplicativos.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-81
 
 
-85
+
 
 
 Paolla Ramos e Silva
@@ -5357,8 +5232,7 @@ OpenShift está correto.
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-82
+
 
 www.estrategiaconcursos.com.br
 X 85
@@ -5411,11 +5285,9 @@ gerenciamento de containers da RedHat, pois não há solução da Microsoft que 
 serviços
 de Kubernetes para disponibilização desses aplicativos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-83
 
 
-85
+
 
 
 Paolla Ramos e Silva
@@ -5427,7 +5299,7 @@ GABARITo - OPENSHIFT
 Item. 1. ERRADO 2. LETRA A
 Item. 3. LETRA D
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 /

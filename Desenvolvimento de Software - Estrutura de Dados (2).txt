@@ -20,101 +20,71 @@ Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-índice
+Índice
 
 1) Estruturas de Dados - Conceitos Básicos - Teoria
-4
 
 2) Estruturas de Dados - Vetores e Matrizes - Teoria
-6
 
 3) Estruturas de Dados - Lista Encadeada - Teoria
-8
 
 4) Estruturas de Dados - Pilhas - Teoria
-13
 
 5) Estruturas de Dados - Filas - Teoria
-14
 
 6) Estruturas de Dados - Árvore - Teoria
-16
 
 7) Estruturas de Dados - Grafos - Teoria
-31
 
 8) Estruturas de Dados - Hashing - Teoria
-37
 
 9) Estruturas de Dados - Bitmap - Teoria
-38
 
 10) Estruturasde Dados - Estrutura de Arquivos - Teoria
-41
 
 11) Estruturasde Dados - Conceitos Básicos - Questões Comentadas.
-42
 
 12) Estruturasde Dados - Vetores e Matrizes - Lista de Questões.
-46
 
 13) Estruturasde Dados - Lista Encadeada - Questões Comentadas.
-55
 
 14) Estruturasde Dados - Pilhas - Questões Comentadas.
-68
 
 15) Estruturasde Dados - Filas - Questões Comentadas.
-80
 
 16) Estruturasde Dados - Árvore - Questões Comentadas.
-91
 
 17) Estruturasde Dados - Grafos - Questões Comentadas.
-121
 
 18) Estruturas de Dados - Hashing - Questões Comentadas.
-135
 
 19) Estruturasde Dados - Bitmap - Questões Comentadas.
-137
 
 20) Estruturasde Dados - Conceitos Básicos - Lista de Questões.
-142
 
 21) Estruturasde Dados - Vetores e Matrizes - Lista de Questões.
-146
 
 22) Estruturasde Dados - Lista Encadeada - Lista de Questões.
-155
 
 23) Estruturasde Dados - Pilhas - Lista de Questões.
-163
 
 24) Estruturasde Dados - Filas - Lista de Questões.
-176
 
 25) Estruturasde Dados - Árvore - Lista de Questões.
-182
 
 26) Estruturasde Dados - Grafos - Lista de Questões.
-198
 
 27) Estruturasde Dados - Hashing - Lista de Questões.
-207
 
 28) Estruturasde Dados - Bitmap - Lista de Questões.
-210
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-2
 
-215
 
 
 Paolla Ramos e Silva
@@ -181,15 +151,13 @@ Grafos e Tabelas
 de Dispersão. Essa é uma classificação muito importante e muito simples de entender. Pessoal,
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-3
 
-215
 
 
 vocês perceberão que esse assunto é cobrado de maneira superficial na
@@ -253,14 +221,12 @@ por outros TADs -, e esconde a efetiva implementação dessa estrutura de quem a
 1 Filas, Pilhas, Árvores, Deques, entre outros.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-4
 
-215
 
 
 Paolla Ramos e Silva
@@ -323,8 +289,7 @@ Dados:
 
 (2) Heterogêneas
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-5
+* 
 
 
 Paolla Ramos e Silva
@@ -420,14 +385,12 @@ siga a
 = Não, é possível implementar pilhas com vetores também. Falso. (Gabarito: Letra D).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-6
 
-215
 
 
 Paolla Ramos e Silva
@@ -489,14 +452,12 @@ ponteiro anterior do primeiro elemento aponta para o último
 elemento e o ponteiro posterior do último elemento aponta para o primeiro elemento.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-7
 
-215
 
 
 Paolla Ramos e Silva
@@ -538,14 +499,12 @@ adjacentes e, dado
 um ponteiro para o último elemento, pode-se percorrer a lista em ordem inversa.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-8
 
-215
 
 
 Paolla Ramos e Silva
@@ -625,14 +584,12 @@ elementos
 inicial e final não estejam ligados. Falso.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-9
 
-215
 
 
 Paolla Ramos e Silva
@@ -686,14 +643,12 @@ possibilita que ela j
 elementos são acessados no mesmo tempo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-10
 
-215
 
 
 Paolla Ramos e Silva
@@ -736,8 +691,7 @@ Estrutura de dados que segue a lógica LIFO, ou last-in first-out, que significa
 último a entrar é o primeiro
 a sair". Falso. (Gabarito: Letra C).
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-11
+* 
 
 
 Paolla Ramos e Silva
@@ -777,12 +731,10 @@ Memória)
 ou Listas (Pilha Encadeada - Alocação Dinâmica de Memória).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-12
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -831,8 +783,7 @@ não fornecer acesso aleatório aos elementos, i.e., para acessar o quinto eleme
 deve navegar pelos
 quatro primeiros elementos - logo a lista é mais lenta nesse sentido. Bacana?
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-13
+* 
 
 
 Paolla Ramos e Silva
@@ -921,8 +872,7 @@ elementos do j
 início. Então, está certo. (Gabarito: Certo)
 ;
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-14
+* 
 
 
 Paolla Ramos e Silva
@@ -969,8 +919,7 @@ mesmo nível, como mostram as imagens abaixo.
 = representa organizações hierárquicas entre dados.
 ;
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-15
+* 
 
 
 Comentários: Perfeito, observem que alguns autores tratam Tipos de Dados como sinônimo
@@ -981,11 +930,10 @@ APWRt ISINAIRA
 
 /
 
-1
 
 D/
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -994,7 +942,7 @@ Paolla Ramos e Silva
 
 /
 
-QQ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+QQ 
 
 www.estrategiaconcursos.com.br
 
@@ -1069,8 +1017,7 @@ restante... que restante, professor? Pois é, não tem restante! Logo, 9 não te
 subárvore da direita. Vejam
 abaixo como ficou e vamos analisar 0 outro lado.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-18
+
 
 www.estrategiaconcursos.com.br
 / 215
@@ -1098,21 +1045,18 @@ tem apenas um filho; (3) e remover um nó que tenha dois filhos. O primeiro caso
 muito simples: basta
 retirar o nó desejado e ponto final. Vejamos como fica:
 
-12
 
 No segundo caso, basta retirar o nó da árvore e conectar seu único filho (e sua
 subárvore, se houver)
 diretamente ao pai do nó removido. Vejamos:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-19
 
-215
 
 
 Paolla Ramos e Silva
@@ -1130,7 +1074,7 @@ PASSO 1: IDENTIFIQUE O ELEMENTO QUE VOCÊ DESEJA RETIRAR DA ÁRVORE (EM VERMELHO
 PASSO 2: IDENTIFIQUE O MAIOR ELEMENTO DE TODA SUBÁRVORE À ESQUERDA DO NÓ IDENTIFICADO NO
 PASSO 1 (EM VERDE)
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
 
 Paolla Ramos e Silva
@@ -1168,7 +1112,7 @@ visita a raiz.
 
 Vamos ver um exemplo:
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
 
 Paolla Ramos e Silva
@@ -1210,15 +1154,13 @@ Item. 3. Percorra a subárvore direita em pré-ordem:
 Item. 1. Visite a Raiz: {70}
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-22
 
-215
 
 
 Paolla Ramos e Silva
@@ -1268,15 +1210,13 @@ Item. 2. Visite a Raiz: {30}
 Item. 3. Percorra a subárvore direita em in-ordem:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-23
 
-215
 
 
 Paolla Ramos e Silva
@@ -1327,8 +1267,7 @@ RESULTADO: 10, 30, 40, 60, 70, 80, 85, 90, 100.
 
 //Percorrendo a Árvore em Pós-Ordem:
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-24
+* 
 
 
 Paolla Ramos e Silva
@@ -1454,8 +1393,7 @@ quanto nas folhas da
 mas os dados
 só podem ser armazenados nas folhas.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-26
+* 
 
 
 Paolla Ramos e Silva
@@ -1497,14 +1435,12 @@ Esquerdo (Genial, né?). Neste caso, realizamos uma rotação à direita no Ramo
 imagem abaixo de forma a rebalancear a árvore.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-27
 
-215
 
 
 Paolla Ramos e Silva
@@ -1523,7 +1459,6 @@ W°'1)
 
 0(OO)
 
-0
 
 /
 
@@ -1550,15 +1485,13 @@ exercícios. Vamos ver agora a complexidade logarítmica dessas estruturas.
 ALGoRITMo PIOR CASO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-28
 
-215
 
 
 Paolla Ramos e Silva
@@ -1599,8 +1532,7 @@ https://www.cs.usfca.edu/~galles/visualization/BST.html
 Quem quiser brincar de Árvore AVL
 https://www.cs.usfca.edu/~galles/visualization/AVLtree.html
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-29
+* 
 
 
 Paolla Ramos e Silva
@@ -1652,7 +1584,7 @@ utilizada. Seguem as premissas:
 
 > G = {(A,B), (B,A), (B,C), (B,D), (C,C), (D,A), (D,C), (E,F)}
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
 
 Paolla Ramos e Silva
@@ -1675,8 +1607,7 @@ São aqueles nós ligados por um arco (Ex: A é adjacente a D).
 
 São aqueles arcos que levam a um nó (Ex: (C,D) é incidente em D).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-31
+
 
 www.estrategiaconcursos.com.br
 / 215
@@ -1724,8 +1655,7 @@ trivial é aquele que possui somente um vértice. Um grafo é denso se contém m
 arcos em relação ao
 número de vértices e esparso se contém poucos arcos. Como assim, professor?
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-32
+* 
 
 
 Paolla Ramos e Silva
@@ -1799,14 +1729,12 @@ de Adjacências. Existem
 só mais alguns detalhes.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-33
 
-215
 
 
 Paolla Ramos e Silva
@@ -1862,14 +1790,12 @@ I
 segue. i
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-34
 
-215
 
 
 Paolla Ramos e Silva
@@ -1929,8 +1855,7 @@ número 2.
 : Significa que está procurando o menor valor da árvore. Ou seja, resposta é minimum. (Gabarito:
 Letra B)
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-35
+* 
 
 
 Paolla Ramos e Silva
@@ -1957,13 +1882,9 @@ Tabela de Dispersão.
 
 CAAVL|
 
-25
 
-12
 
-5
 
-51
 
 VALOR
 
@@ -2007,12 +1928,10 @@ quociente 1 e resto 2. Em
 outras palavras, 8*1 + 2 = 10.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-36
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -2085,16 +2004,14 @@ Punk Rock
 Rock
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,■
 
 /
 
-37
 
-215
 
 
 Paolla Ramos e Silva
@@ -2154,7 +2071,6 @@ Para visualizar
 melhor como um bitmap é construído, vamos criar um representando a coluna 'PAIS':
 
 1 2 3 4 5 6 7 8 9
-10
 
 EUA 0 1 1 0 0 1 0
 0 1 0
@@ -2182,15 +2098,13 @@ de
 termos o índice, mas utilizando os bitmaos não haverá comparações de strings, mas
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-38
 
-215
 
 
 Paolla Ramos e Silva
@@ -2286,8 +2200,7 @@ facilitar consultas, principalmente com colunas com pouca cardinalidade, ou seja
 poucos
 valores possíveis.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-39
+
 
 www.estrategiaconcursos.com.br
 / 215
@@ -2355,7 +2268,7 @@ operação de leitura/escrita. No terceiro caso, o arquivo é visto como um
 conjunto de
 registros indexados por uma chave.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,■
@@ -2433,14 +2346,12 @@ Conforme vimos em aula, trata-se de pilha e árvore respectivamente.
 Gabarito: Letra D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-41
 
-215
 
 
 Paolla Ramos e Silva
@@ -2516,14 +2427,12 @@ esconde a efetiva implementação dessa estrutura de quem a manipula.
 Conforme vimos em aula, definem classes de objetos com características semelhantes.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-42
 
-215
 
 
 Paolla Ramos e Silva
@@ -2595,14 +2504,12 @@ errada - infelizmente!).
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-43
 
-215
 
 
 Paolla Ramos e Silva
@@ -2650,14 +2557,12 @@ formado por outros TADs; (e) Correto. Escondem a implementação de quem os mani
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-44
 
-215
 
 
 Paolla Ramos e Silva
@@ -2737,15 +2642,13 @@ matricial é composta por
 uma grade homogênea de linhas e colunas, e não vetorial. Falso.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-45
 
-215
 
 
 Paolla Ramos e Silva
@@ -2829,14 +2732,12 @@ Verdadeiro.
 Gabarito: Letra D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-46
 
-215
 
 
 Paolla Ramos e Silva
@@ -2923,11 +2824,9 @@ quantas vezes conseguimos dividir por 2 o valor:
 
 2048/2 = 1024 (6x)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-47
 
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -2997,15 +2896,13 @@ Para ser hashing, deveria ser mencionado um algoritmo de hashing, o que não é 
 c) árvore.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-48
 
-215
 
 
 Paolla Ramos e Silva
@@ -3086,14 +2983,12 @@ AMAZONAS
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-49
 
-215
 
 
 Paolla Ramos e Silva
@@ -3175,14 +3070,12 @@ direto. Gabarito: E
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-50
 
-215
 
 
 Paolla Ramos e Silva
@@ -3256,7 +3149,7 @@ indexadas necessitam de mais que um índice para identificar um de seus elemento
 
 Comentários:
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
 
 Paolla Ramos e Silva
@@ -3331,14 +3224,12 @@ Este pseudocódigo
 a) exclui o valor contido na posição x do vetor v.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-52
 
-215
 
 
 Paolla Ramos e Silva
@@ -3369,14 +3260,12 @@ v[k]).
 Gabarito: Letra B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-53
 
-215
 
 
 Paolla Ramos e Silva
@@ -3463,12 +3352,10 @@ b) lista simplesmente encadeada e ordenada
 c) lista duplamente encadeada e não ordenada
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-54
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -3556,12 +3443,10 @@ Verdadeiro.
 c) pilha.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-55
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -3653,14 +3538,12 @@ A lista é Vermelho - Azul - Amarelo - Verde.
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-56
 
-215
 
 
 Paolla Ramos e Silva
@@ -3752,7 +3635,7 @@ d) árvore
 
 e) pilha
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -3845,14 +3728,12 @@ dados, um para o endereço do nó anterior, e outro para o endereço do nó post
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-58
 
-215
 
 
 Paolla Ramos e Silva
@@ -3872,19 +3753,15 @@ Nó Time
 Anterior Posterior
 
 1 Real Madrid 4
-2
 
 2 Roma
-1
 
 3 Barcelona
-5
 
 4 Bayern
 5 1
 
 5 Chelsea 3
-4
 
 Assinale a ordem em que os times estão dispostos nessa lista.
 
@@ -3940,14 +3817,12 @@ elementos armazenados na lista ocuparão um espaço de II contíguo, portanto, n
 acesso
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-59
 
-215
 
 
 Paolla Ramos e Silva
@@ -4039,12 +3914,10 @@ adicionam-se e removem-
 se itens no início.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-60
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -4121,14 +3994,12 @@ sobre a lista, como inserir novos dados, recuperar o tamanho da lista, entre out
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-61
 
-215
 
 
 Paolla Ramos e Silva
@@ -4192,14 +4063,12 @@ podem ser dos seguintes tipos: de encadeamento simples, duplamente encadeadas e 
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-62
 
-215
 
 
 Paolla Ramos e Silva
@@ -4266,14 +4135,12 @@ duplamente encadeada.
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-63
 
-215
 
 
 Paolla Ramos e Silva
@@ -4341,15 +4208,13 @@ d) cada célula contém um objeto de algum tipo e o endereço da célula seguint
 e) a primeira célula contém o endereço da última célula.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-64
 
-215
 
 
 Paolla Ramos e Silva
@@ -4417,14 +4282,12 @@ e) em ordem lógica e não, necessariamente, em ordem física.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-65
 
-215
 
 
 Paolla Ramos e Silva
@@ -4474,14 +4337,12 @@ elementos de ambas necessita do primeiro elemento (ou topo). Portanto, questão 
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-66
 
-215
 
 
 Paolla Ramos e Silva
@@ -4565,14 +4426,12 @@ d) nó folha;
 Nó folha é o nó de uma árvore que não possui filhos. Não tem nada a ver com o enunciado. Falso.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-67
 
-215
 
 
 Paolla Ramos e Silva
@@ -4665,14 +4524,12 @@ dado. Por exemplo,
 um inteiro, uma string, um booleano, etc. Verdadeiro.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-68
 
-215
 
 
 Paolla Ramos e Silva
@@ -4766,12 +4623,10 @@ c) Fila.
 d) Pilha.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-69
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -4857,14 +4712,12 @@ POP
 PUSH (20)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-70
 
-215
 
 
 Paolla Ramos e Silva
@@ -4949,14 +4802,12 @@ retirado.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-71
 
-215
 
 
 Paolla Ramos e Silva
@@ -5047,14 +4898,12 @@ e) 2
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-72
 
-215
 
 
 Paolla Ramos e Silva
@@ -5132,15 +4981,13 @@ como errada. E a justificativa dela foi: "A ausência de especificação do tipo
 torna correta a
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-73
 
-215
 
 
 Paolla Ramos e Silva
@@ -5212,14 +5059,12 @@ aumentar e diminuir durante sua existência.
 b) Os elementos na pilha são sempre removidos na mesma ordem em que foram inseridos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-74
 
-215
 
 
 Paolla Ramos e Silva
@@ -5295,14 +5140,12 @@ E aí, já está automático para responder? Tem que ser automática: Pilha (LIF
 Gabarito: Letra B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-75
 
-215
 
 
 Paolla Ramos e Silva
@@ -5381,14 +5224,12 @@ d) que pode ser implementada somente por meio de listas.
 e) cujo acesso aos seus elementos segue a lógica LIFO, apenas.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-76
 
-215
 
 
 Paolla Ramos e Silva
@@ -5461,14 +5302,12 @@ d) Grafo
 e) Tabela de dispersão
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-77
 
-215
 
 
 Paolla Ramos e Silva
@@ -5528,14 +5367,12 @@ pilha. Item certo; (e) na verdade essas características são das filas. Item er
 Gabarito: Letra D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-78
 
-215
 
 
 Paolla Ramos e Silva
@@ -5614,11 +5451,9 @@ b) Pilhas são estruturas de dados do tipo FIFO (first-in first-out), em que o p
 a ser inserido será
 o primeiro a ser retirado.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-79
 
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -5714,12 +5549,10 @@ início.
 c) os elementos de um mesmo tipo de dado estão organizados de maneira sequencial e ordenada.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-80
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -5809,14 +5642,12 @@ excluídos da outra.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-81
 
-215
 
 
 Fila é uma estrutura de dados que segue a lógica FIFO (first-in first-out) armazena elementos de
@@ -5900,14 +5731,12 @@ e) árvore binária.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-82
 
-215
 
 
 Paolla Ramos e Silva
@@ -5997,14 +5826,12 @@ Gabarito: Letra E
 Item. 11. (FCC - 2013 - TRE-SP) No que se refere a estruturas de dados é INCORRETO afirmar:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-83
 
-215
 
 
 Paolla Ramos e Silva
@@ -6097,14 +5924,12 @@ Dessa forma, resgata-se o último estado válido e, não, o primeiro.
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-84
 
-215
 
 
 Paolla Ramos e Silva
@@ -6169,14 +5994,12 @@ Exato! Essa é a definição de fila: insere-se por um extremo e remove-se por o
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-85
 
-215
 
 
 Paolla Ramos e Silva
@@ -6246,14 +6069,12 @@ Perfeito, são todos exemplos de estruturas de dados!
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-86
 
-215
 
 
 Paolla Ramos e Silva
@@ -6319,14 +6140,12 @@ Perfeito! É assim que funciona a prioridade em conjunto com filas. Gabarito: C
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-87
 
-215
 
 
 Paolla Ramos e Silva
@@ -6404,14 +6223,12 @@ exemplo, suportam alguns métodos essenciais, como o:
 a) enqueue(x), que insere o elemento x no fim da fila, sobrepondo o último elemento.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-88
 
-215
 
 
 Paolla Ramos e Silva
@@ -6480,14 +6297,12 @@ essas duas estruturas. Bacana?
 Gabarito: Letra C
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-89
 
-215
 
 
 Paolla Ramos e Silva
@@ -6541,16 +6356,14 @@ pode
 conter entre d e 2.d chaves, a complexidade do algoritmo de busca é da ordem
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 * 05152001900 - Everton
 Murilo Vieira
 
-90
 
-215
 
 
 Paolla Ramos e Silva
@@ -6648,12 +6461,10 @@ cada nó representa uma
 diferença de altura entre as subárvores direita e esquerda de 1, 2 ou 3 nós.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-91
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -6703,14 +6514,12 @@ e prática. Editora Campus, v. 2, 2002. p. 207.
 De acordo com a figura anterior, o procedimento
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-92
 
-215
 
 
 Paolla Ramos e Silva
@@ -6791,11 +6600,9 @@ aleatórias, que compõem as florestas aleatórias, pode ser realizada por meio 
 bootstrap dos dados, em que cada
 árvore é treinada com base no resultado de bootstrap_sample (inputs).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-93
 
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -6882,14 +6689,12 @@ Comentários:
 O limite superior da profundidade da árvore é d < 1 + log[d/2]((N+l)/2), sendo que:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-94
 
-215
 
 
 Paolla Ramos e Silva
@@ -6980,14 +6785,12 @@ Vamos calcular log[8](15000,5) multiplicando 8 por 8 até o valor ultrapassar 15
 8*8 = 64 (2x)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-95
 
-215
 
 
 Paolla Ramos e Silva
@@ -7084,12 +6887,10 @@ computador,
 a seguinte organização de um diretório
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-96
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -7149,14 +6950,12 @@ Item. 13. (FCC - 2019 - TRF-4) Determinada estrutura de dados foi projetada para
 acessos à memória secundária. Como o número de acessos à memória secundária depende
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-97
 
-215
 
 
 Paolla Ramos e Silva
@@ -7245,7 +7044,7 @@ novo->info <- info
 
 novo->prox <- NULO
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -7344,14 +7143,12 @@ Deques são listas, e não pilhas, que permitem inserir e remover dados em ambas
 Falso.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-99
 
-215
 
 
 Paolla Ramos e Silva
@@ -7444,12 +7241,10 @@ que possui entre
 IV. Somente os nós folhas contêm dados associados às chaves.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-100
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -7516,14 +7311,12 @@ sendo uma
 principal e a outra secundária.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-101
 
-215
 
 
 Paolla Ramos e Silva
@@ -7587,14 +7380,12 @@ estruturas de dados em memória é especialmente relevante. Dentre outras classi
 agrupar essas estruturas em lineares e não lineares, conforme a quantidade de sucessores e
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-102
 
-215
 
 
 antecessores que os elementos da estrutura possam ter. Assinale a opção que
@@ -7659,8 +7450,7 @@ Item. 28. (CESPE - 2010 -TRE/MT - Analista de Sistemas - E) O uso de recursivida
 inadequado
 na implementação de operações para manipular elementos de uma estrutura de dados do tipo árvore.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-103
+* 
 
 
 Paolla Ramos e Silva
@@ -7728,14 +7518,12 @@ Logo, uma árvore pode ser percorrida de modo pré-fixado, in-fixado e pós-fixa
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-104
 
-215
 
 
 Paolla Ramos e Silva
@@ -7808,14 +7596,12 @@ Letra C (11( 10(9(8))(14(13)(15))) está quase certa, mas faltou um parêntese:
 Gabarito: Anulada
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-105
 
-215
 
 
 Paolla Ramos e Silva
@@ -7829,12 +7615,10 @@ a)
 d)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-106
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -7873,14 +7657,12 @@ requisitos para ser
 definida como uma Árvore AVL.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-107
 
-215
 
 
 Paolla Ramos e Silva
@@ -7936,14 +7718,12 @@ c) pilha
 d) árvore AVL
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-108
 
-215
 
 
 Paolla Ramos e Silva
@@ -8015,14 +7795,12 @@ e) 2
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-109
 
-215
 
 
 Paolla Ramos e Silva
@@ -8054,14 +7832,12 @@ na última eu
 tive que rebalancear. Vamos inserir o último:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-110
 
-215
 
 
 Paolla Ramos e Silva
@@ -8106,14 +7882,12 @@ Errado, uma árvore com seis nós e altura igual a três também está balancead
 Gabarito: Letra D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-111
 
-215
 
 
 Paolla Ramos e Silva
@@ -8194,12 +7968,10 @@ Remoção O(log n)
 O(log n)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-112
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -8279,15 +8051,13 @@ suas sub-árvores (direita e esquerda) não é maior do que um.
 rotação dupla.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-113
 
-215
 
 
 Paolla Ramos e Silva
@@ -8358,15 +8128,13 @@ I. A árvore AVL é uma árvore binária com uma condição de balanço, porém 
 balanceada.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-114
 
-215
 
 
 II. Árvores admitem tratamento computacional eficiente quando comparadas às estruturas mais
@@ -8422,9 +8190,8 @@ entanto, o Gabarito
 Definitivo foi Correto! Sinceramente, não faço ideia de onde o CESPE tirou isso...
 
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
-115
 
 
 Paolla Ramos e Silva
@@ -8476,14 +8243,12 @@ encontramos o 33; (III) Correto. Trata-se de um Árvore Binária sem filhos.
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-116
 
-215
 
 
 Paolla Ramos e Silva
@@ -8529,14 +8294,12 @@ Ramo 18-23. O resultado
 Gabarito: Letra D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-117
 
-215
 
 
 Paolla Ramos e Silva
@@ -8606,15 +8369,13 @@ volta nos vetores. Logo,
 ficaria:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-118
 
-215
 
 
 Paolla Ramos e Silva
@@ -8632,14 +8393,12 @@ i=0, , N-l. Bacana?
 Gabarito: Letra A
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-119
 
-215
 
 
 Paolla Ramos e Silva
@@ -8704,14 +8463,12 @@ os vértices D ou M. E existem caminhos mínimos entre eles, por exemplo:
 Existem caminhos maiores, se eu quiser fazer, por exemplo:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-120
 
-215
 
 
 Paolla Ramos e Silva
@@ -8776,12 +8533,10 @@ d) Os nós 2 e 3 têm grau 3.
 e) O grafo não pode ser classificado como conexo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-121
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -8881,14 +8636,12 @@ seu sucessor, e cada elemento está associado a somente um antecessor e a vário
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-122
 
-215
 
 
 Paolla Ramos e Silva
@@ -8907,13 +8660,9 @@ Gabarito: Errado
 Item. 8. (FCC - 2017 - ARTESP) Considere a estrutura de dados abaixo.
 
 o
-1
 
-2
 
-3
 
-4
 
 Esta estrutura representa cinco localidades indicadas por 0, 1, 2, 3, 4 com as rotas
 e as respectivas distâncias entre
@@ -8950,12 +8699,10 @@ para a localidade de
 origem.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-123
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -9011,7 +8758,6 @@ multiplicada.
 
 2 2 2 2 2 3 3
 4 5 6 7 8 9 4
-3
 
 0 1 1 2 2 3 3
 4 5 6 7 8 9 2
@@ -9050,14 +8796,12 @@ As demais alternativas estão incorretas.
 Gabarito: Letra B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-124
 
-215
 
 
 Paolla Ramos e Silva
@@ -9120,14 +8864,12 @@ Gabarito: Letra C
 Item. 11. (FCC - 2018 - DPE-AM) Considere o grafo abaixo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-125
 
-215
 
 
 Paolla Ramos e Silva
@@ -9181,14 +8923,12 @@ software que
 fornece uma medida quantitativa da complexidade lógica de um programa, apresentando um limite
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-126
 
-215
 
 
 Paolla Ramos e Silva
@@ -9253,14 +8993,12 @@ Adjacência simétrica é uma
 representação utilizada em grafos não-direcionados, logo a questão já está errada. Gabarito: E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-127
 
-215
 
 
 Paolla Ramos e Silva
@@ -9322,14 +9060,12 @@ e) V = { 2, 4, 1, 3, 6, 5 }
 A = {(4, 2), (3, 1), (5, 2), (6, 3), (5, 3)}
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-128
 
-215
 
 
 Paolla Ramos e Silva
@@ -9384,7 +9120,6 @@ conjunto
 do grafo abaixo, é correto afirmar que esses conjuntos são N = {1,2,3,4} e A =
 {(1,2),(2,1),(2,4),(2,3)}.
 
-4
 
 Comentários:
 
@@ -9404,14 +9139,12 @@ finais de
 ruas e cujas arestas sejam os trechos de ruas sem cruzamentos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-129
 
-215
 
 
 Paolla Ramos e Silva
@@ -9482,14 +9215,12 @@ Caso contrário, ele será dito desconexo, isto é, se há pelo menos um par de 
 que não esteja ligado a
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-130
 
-215
 
 
 Paolla Ramos e Silva
@@ -9565,14 +9296,12 @@ Comentários:
 A questão está quase perfeita, mas ela possui um deslize: não existe a aresta (A,B) - seria (C,D).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-131
 
-215
 
 
 Paolla Ramos e Silva
@@ -9649,12 +9378,10 @@ d) 110 11
 11110
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-132
 
-215
+
 
 
 0 110 0
@@ -9731,16 +9458,14 @@ ou Grafos Valorados ou Grafos Pesados.
 Gabarito: Letra D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 * 05152001900 - Everton Murilo
 Vieira
 
-133
 
-215
 
 
 Paolla Ramos e Silva
@@ -9801,15 +9526,13 @@ d) árvore binária.
 e) tabela de hashing.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-134
 
-215
 
 
 Paolla Ramos e Silva
@@ -9871,8 +9594,7 @@ subconjuntos, somente ordena a estrutura não-linear de forma a facilitar
 uma busca
 binária. Gabarito: B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-135
+
 
 www.estrategiaconcursos.com.br
 / 215
@@ -9893,17 +9615,11 @@ Item. 1. (FGV - 2015 - TJ-RO - Analista Judiciário - Análise de Sistemas)
 ID
 1210
 
-356
 
-23
 
-57
 
-45
 
-6
 
-210
 
 Nome
 A
@@ -9965,7 +9681,7 @@ c)
 
 45 100
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
@@ -10025,7 +9741,6 @@ tuplas
 original relativo à coluna fonte do índice. Construindo o bitmap para curso temos:
 
 1 2 3 4 5 6
-7
 
 Física 1 0 0 1 1
 0 0
@@ -10039,15 +9754,13 @@ Matemática 0 0 1 0 0
 A resposta, portanto, é a letra B. Gabarito: B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-137
 
-215
 
 
 Paolla Ramos e Silva
@@ -10128,9 +9841,8 @@ lOIPrática
 
 00000010000
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
-1
+
 
 * 05152001900 - Everton Murilo
 Vieira
@@ -10199,14 +9911,12 @@ e)
 101111
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-139
 
-215
 
 
 Paolla Ramos e Silva
@@ -10242,8 +9952,7 @@ simples, somente para a coluna Inscrição
 
 A resposta, portanto, é letra A. Gabarito: A
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-140
+
 
 www.estrategiaconcursos.com.br
 / 215
@@ -10313,9 +10022,8 @@ dados - TAD,
 é correto afirmar:
 
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
-141
 
 
 a) 0 TAD não encapsula a estrutura de dados para permitir que os usuários possam ter
@@ -10355,14 +10063,12 @@ maneira geral as
 operações sobre estes dados são executadas sem que se saiba como isso é feito.
 
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+0 0 
 
 www.estrategiaconcursos.com.br
 
 
-142
 
-215
 
 
 Paolla Ramos e Silva
@@ -10390,12 +10096,10 @@ Item. 7. Letra E
 Item. 8. Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-143
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -10482,15 +10186,13 @@ matricial é composta por
 uma grade homogênea de linhas e colunas, e não vetorial. Falso.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-145
 
-215
 
 
 Paolla Ramos e Silva
@@ -10574,14 +10276,12 @@ Verdadeiro.
 Gabarito: Letra D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-146
 
-215
 
 
 Paolla Ramos e Silva
@@ -10668,11 +10368,9 @@ quantas vezes conseguimos dividir por 2 o valor:
 
 2048/2 = 1024 (6x)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-147
+
 
 www. estra tegiaconcursos. com. br
-215
 
 
 Paolla Ramos e Silva
@@ -10742,15 +10440,13 @@ Para ser hashing, deveria ser mencionado um algoritmo de hashing, o que não é 
 c) árvore.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-148
 
-215
 
 
 Paolla Ramos e Silva
@@ -10831,14 +10527,12 @@ AMAZONAS
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-149
 
-215
 
 
 Paolla Ramos e Silva
@@ -10920,14 +10614,12 @@ direto. Gabarito: E
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-150
 
-215
 
 
 Paolla Ramos e Silva
@@ -11001,7 +10693,7 @@ indexadas necessitam de mais que um índice para identificar um de seus elemento
 
 Comentários:
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
 
 Paolla Ramos e Silva
@@ -11076,14 +10768,12 @@ Este pseudocódigo
 a) exclui o valor contido na posição x do vetor v.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-152
 
-215
 
 
 Paolla Ramos e Silva
@@ -11114,14 +10804,12 @@ v[k]).
 Gabarito: Letra B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-153
 
-215
 
 
 Paolla Ramos e Silva
@@ -11206,12 +10894,10 @@ c) pilha.
 d) fila.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-154
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -11304,14 +10990,12 @@ d) uma pilha.
 Item. 9. (CESPE/CEBRASPE - 2018 - BNB)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-155
 
-215
 
 
 Paolla Ramos e Silva
@@ -11329,19 +11013,15 @@ Nó Time
 Anterior Posterior
 
 1 Real Madrid 4
-2
 
 2 Roma
-1
 
 3 Barcelona
-5
 
 4 Bayern
 5 1
 
 5 Chelsea 3
-4
 
 Assinale a ordem em que os times estão dispostos nessa lista.
 
@@ -11406,12 +11086,10 @@ adicionam-se e removem-
 se itens no início.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-156
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -11491,14 +11169,12 @@ para o elemento
 imediatamente anterior.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-157
 
-215
 
 
 Paolla Ramos e Silva
@@ -11579,14 +11255,12 @@ três campos: dois
 ponteiros e campo de informação denomina-se:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-158
 
-215
 
 
 a) lista encadeada dupla.
@@ -11603,7 +11277,7 @@ Item. 33. (CESPE - 2010 - TRE/MT - Analista de Sistemas) O algoritmo para inclus
 pilha
 é usado sem nenhuma alteração para incluir elementos em uma lista.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -11648,9 +11322,8 @@ Item. 11. Errado 22. Errado
 Item. 33. Correto
 
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
-160
 
 
 Paolla Ramos e Silva
@@ -11741,14 +11414,12 @@ d) nó folha;
 Nó folha é o nó de uma árvore que não possui filhos. Não tem nada a ver com o enunciado. Falso.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-162
 
-215
 
 
 Paolla Ramos e Silva
@@ -11838,12 +11509,10 @@ I. Uma estrutura de dados heterogênea envolve a utilização de mais de um tipo
 dado.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-163
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -11933,14 +11602,12 @@ ele
 também forem removidos. Essa descrição caracteriza uma estrutura de dados conhecida como:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-164
 
-215
 
 
 Paolla Ramos e Silva
@@ -12029,12 +11696,10 @@ seguintes operações foram executadas.
 CLEAR
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-165
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -12128,14 +11793,12 @@ Portanto, 3 /19.
 Gabarito: Letra C
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-166
 
-215
 
 
 Paolla Ramos e Silva
@@ -12229,12 +11892,10 @@ c) 2,6
 d) 6
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-167
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -12311,14 +11972,12 @@ que é introduzido torna-
 se o elemento do topo, logo... questão correta!
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-168
 
-215
 
 
 Paolla Ramos e Silva
@@ -12392,14 +12051,12 @@ coleção que não pode
 aumentar e diminuir durante sua existência.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-169
 
-215
 
 
 b) Os elementos na pilha são sempre removidos na mesma ordem em que foram inseridos.
@@ -12471,8 +12128,7 @@ Comentários:
 
 E aí, já está automático para responder? Tem que ser automática: Pilha (LIFO) e Fila (FIFO).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-170
+
 
 www.estrategiaconcursos.com.br
 / 215
@@ -12556,14 +12212,12 @@ c) que pode ser implementada somente por meio de vetores.
 d) que pode ser implementada somente por meio de listas.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-171
 
-215
 
 
 Paolla Ramos e Silva
@@ -12636,14 +12290,12 @@ c) Pilha
 d) Grafo
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-172
 
-215
 
 
 Paolla Ramos e Silva
@@ -12705,14 +12357,12 @@ pilha. Item certo; (e) na verdade essas características são das filas. Item er
 Gabarito: Letra D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-173
 
-215
 
 
 Paolla Ramos e Silva
@@ -12929,12 +12579,10 @@ A estrutura de dados mais adequada para Ana utilizar é
 a) pilha.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-176
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -13020,14 +12668,12 @@ d) matriz quadrada.
 e) cubo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-177
 
-215
 
 
 Paolla Ramos e Silva
@@ -13106,14 +12752,12 @@ representa uma
 exclusão de elemento) e considerando também que a fila estava inicialmente vazia:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-178
 
-215
 
 
 Paolla Ramos e Silva
@@ -13171,14 +12815,12 @@ d) fila circular.
 e) pilha
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-179
 
-215
 
 
 Paolla Ramos e Silva
@@ -13218,7 +12860,7 @@ Item. 29. Letra C
 
 Item. 10. Letra E 20. Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 /
@@ -13289,11 +12931,9 @@ particular de armazenamento e organização de dados em um computador de modo
 que possam ser
 usados eficientemente. Analise a imagem a seguir:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-181
 
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -13348,11 +12988,9 @@ transparente e lidam facilmente com diversos atributos numéricos, assim como
 atributos categóricos,
 podendo até mesmo classificar dados sem atributos definidos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-182
 
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -13446,7 +13084,7 @@ II. B-trees favorecem consultas que buscam chaves num determinado intervalo (ope
 
 III. B-trees são usualmente mais lentas para buscas pela chave (operador =).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -13539,9 +13177,8 @@ pseudocódigo abaixo.
 Considere que * indica ponteiro ou apontador.
 Tipo tipoNo = registro
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
-1
+
 
 * 05152001900 -
 Everton Murilo Vieira
@@ -13638,12 +13275,10 @@ implementadas usando-se
 recursividade.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-185
 
-215
+
 
 
 Paolla Ramos e Silva
@@ -13725,15 +13360,13 @@ de dados estáticas com
 sua raiz representada no nível um.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-186
 
-215
 
 
 Paolla Ramos e Silva
@@ -13805,14 +13438,12 @@ Analista de Suporte Técnico)
 Considerando a estrutura de dados denominada árvore,
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-187
 
-215
 
 
 Paolla Ramos e Silva
@@ -13857,15 +13488,13 @@ a)
 b)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-188
 
-215
 
 
 Paolla Ramos e Silva
@@ -13915,14 +13544,12 @@ para cada
 nó da árvore, a diferença entre as alturas das suas sub- árvores (direita e esquerda) sempre será:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-190
 
-215
 
 
 Paolla Ramos e Silva
@@ -13995,14 +13622,12 @@ formado por
 Analisando-se as afirmações acima, conclui-se que:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-191
 
-215
 
 
 Paolla Ramos e Silva
@@ -14078,14 +13703,12 @@ c) V-F
 d) V-V
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-192
 
-215
 
 
 Paolla Ramos e Silva
@@ -14152,14 +13775,12 @@ filhos.
 É (São) correta(s) APENAS a(s) afirmativa(s):
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-193
 
-215
 
 
 Paolla Ramos e Silva
@@ -14232,14 +13853,12 @@ d) não estão ordenados e A[i] < B[i], para todo i=0, , N-l.
 e) não estão ordenados e A[i] > B[i], para todo i=0, , N-l.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-194
 
-215
 
 
 Paolla Ramos e Silva
@@ -14388,8 +14007,7 @@ Os vértices A, B, C, D, J, K, L, M têm graus iguais, respectivamente, a 2, 4, 
 
 Item. 5. (CESPE/CEBRASPE-2018-IFF)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-197
+
 
 www.estrategiaconcursos.com.br
 / 215
@@ -14401,7 +14019,6 @@ Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-5
 
 Considerando o grafo precedente, assinale a opção correta.
 
@@ -14437,15 +14054,10 @@ seu sucessor, e cada elemento está associado a somente um antecessor e a vário
 
 Item. 8. (FCC - 2017 - ARTESP) Considere a estrutura de dados abaixo.
 
-0
 
-1
 
-2
 
-3
 
-4
 
 Esta estrutura representa cinco localidades indicadas por 0, 1, 2, 3, 4 com as rotas
 e as respectivas distâncias entre
@@ -14466,14 +14078,12 @@ da rota de retorno
 de y para x.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-198
 
-215
 
 
 Paolla Ramos e Silva
@@ -14550,14 +14160,12 @@ d) {6} {5,4} {3,1} {1}, caminho mais curto 6-4-3-1, que é igual a 1-3-4-6.
 e) {6} {4} {5,3} {2,1} {1}, caminho mais curto 6-4-3-5-2-1, que é igual a 1-2-5-3-4-6.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-199
 
-215
 
 
 Paolla Ramos e Silva
@@ -14608,8 +14216,7 @@ Complexidade Ciclomática pode ser calculada tanto pelo número de regiões quan
 pelo número
 de arestas e nós.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-200
+
 
 www.estrategiaconcursos.com.br
 / 215
@@ -14664,15 +14271,13 @@ assinale a
 opção em que é apresentada a descrição em vértices (V) e arestas (A).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-201
 
-215
 
 
 Paolla Ramos e Silva
@@ -14714,7 +14319,6 @@ dessas informações e do grafo abaixo, é correto afirmar que esses conjuntos s
 
 {(1,2),(2,1),(2,4),(2,3)}.
 
-4
 
 Item. 18. (CESPE - 2012 - BASA - Analista de Sistemas) É misto o grafo com arestas não
 dirigidas que
@@ -14731,15 +14335,13 @@ computadores e cujas
 arestas representem 0 comprimento dos cabos necessários para ligar os computadores u e v,
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-202
 
-215
 
 
 Paolla Ramos e Silva
@@ -14801,7 +14403,7 @@ b) 10001
 
 01010
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -14858,14 +14460,12 @@ d) ponderado.
 e) orientado.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-204
 
-215
 
 
 Paolla Ramos e Silva
@@ -14903,7 +14503,7 @@ Item. 26. Errado
 9- Letra B i8. Correto
 Item. 27. Letra D
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
@@ -14958,15 +14558,13 @@ colocar cada chave e depois estes subconjuntos bem menores devem ser
 gerenciados por algum método simples de busca para que se localize uma chave
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-206
 
-215
 
 
 Paolla Ramos e Silva
@@ -14987,15 +14585,13 @@ d) Fila duplamente encadeada.
 e) Árvore Binária de Busca.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-207
 
-215
 
 
 Paolla Ramos e Silva
@@ -15021,7 +14617,7 @@ Item. 6. E
 
 Item. 7. B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -15036,17 +14632,11 @@ Item. 1. (FGV - 2015 - TJ-RO - Analista Judiciário - Análise de Sistemas)
 ID
 1210
 
-356
 
-23
 
-57
 
-45
 
-6
 
-210
 
 Nome
 A
@@ -15105,7 +14695,7 @@ c)
 
 57 100
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -15113,17 +14703,12 @@ Paolla Ramos e Silva
 (Profs. Paolla Ramos e Raphael Lacerda)
 
 
-210
 
-356
 
 1210
 
-001
 
-010
 
-100
 
 d)
 0011001100
@@ -15160,14 +14745,12 @@ Item. 2. (FGV - 2014 - DPE-RJ - Técnico Superior Especializado - Administraçã
 Dados)
 
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+0 0 
 
 www.estrategiaconcursos.com.br
 
 
-210
 
-215
 
 
 Paolla Ramos e Silva
@@ -15259,14 +14842,12 @@ lOóPrática
 00000000001
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 www. estra tegiaconcursos. com. br
 
 
-211
 
-215
 
 
 Paolla Ramos e Silva
@@ -15325,14 +14906,12 @@ e)
 106 011
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-212
 
-215
 
 
 Paolla Ramos e Silva
@@ -15347,7 +14926,7 @@ Item. 1. B
 
 Item. 2. A
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

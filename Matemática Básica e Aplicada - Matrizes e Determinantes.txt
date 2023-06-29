@@ -14,7 +14,7 @@ Concursos
 Equipe Exatas Estratégia Concursos
 
 
-índice
+Índice
 
 1) Matrizes
 
@@ -57,7 +57,6 @@ Matriz coluna: apresenta apenas uma coluna. Dimensão da forma m x 1.
 
 Matriz quadrada: apresenta o mesmo número de linhas e de colunas. Dimensão da forma n X n.
 
-8
 
 
 y/?' 3
@@ -187,9 +186,7 @@ colunas.
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-4
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -246,9 +243,7 @@ A é ortogonal < > = At
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-5
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -403,7 +398,6 @@ trata-se de uma matriz 7X4 (matriz 7 por 4). Vejamos mais quatro exemplos:
 
 
 r5]
-3
 
 -1-
 
@@ -419,9 +413,7 @@ A ordem correta é l\P de LINHAS x de COLUNAS
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-7
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -470,15 +462,10 @@ Por exemplo, o elemento a42 é aquele que está na linha 4 e na coluna 2. Portan
 
 6'
 
-3
 
-3
 
-3
 
-4
 
-8
 
 9-
 
@@ -582,9 +569,7 @@ Item. .4 7 12.
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-10
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -669,7 +654,6 @@ Matriz quadrada
 n x n. Exemplos:
 
 
-11
 
 .70%
 
@@ -732,7 +716,6 @@ Matriz retangular
 Uma matriz é retangular quando o número de linhas é diferente do número de colunas. Exemplos:
 ' 3 11 ■
 
-2
 
 
 33 -11
@@ -835,7 +818,6 @@ Matriz nula
 Matriz nula é a matriz que apresenta todos seus elementos iguais a zero. Exemplos:
 
 0 é uma matriz nula de dimensão 2x3.
-0
 
 
 0 0
@@ -844,7 +826,6 @@ Matriz nula é a matriz que apresenta todos seus elementos iguais a zero. Exempl
 
 Item. .0 0
 
-0
 
 0 é uma matriz nula quadrada de ordem 3.
 0.
@@ -891,7 +872,6 @@ Observe agora a suposta igualdade:
 
 3/4
 
-7
 
 ii -3
 
@@ -903,7 +883,6 @@ r*-!
 
 3/4
 
-7
 
 11 -3
 
@@ -1013,9 +992,7 @@ Equipe Exatas Estratégia Concursos
 
 Já a subtração A — B é dada por:
 
-3
 
-1
 
 r5-(-3) -2-3 3-(-2)1
 
@@ -1090,9 +1067,7 @@ Professor, não entendi nadai!
 Calma, caro aluno! Vamos resolver um exemplo.
 Considere as matrizes A e B, dadas por:
 
-2
 
-3
 
 100 200 450 200'
 
@@ -1166,9 +1141,7 @@ Para determinar o elemento da primeira linha e da primeira coluna da matriz-prod
 utilizar
 a primeira linha da primeira matriz e a primeira coluna da segunda matriz.
 
-1
 
-3
 
 100 200 450 200'
 
@@ -1213,9 +1186,7 @@ c12 = 3 x 200 + 2 x 150 + 1 x 300 = 1200
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-20
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -1362,9 +1333,7 @@ Vamos colocar esse novo elemento na nossa matriz-produto:
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-22
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -1447,29 +1416,20 @@ Equipe Exatas Estratégia Concursos
 
 Ll 3 3-I
 
-100
 
-400
 
 .250
 
-200
 
-150
 
-300
 
-450
 
-150
 
-100
 
 AxB = C
 
 200'
 
-450
 
 700.
 
@@ -1711,9 +1671,7 @@ Vamos agora para o terceiro passo:
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-26
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -1723,7 +1681,6 @@ Item. 3. Obter os elementos da matriz resultante a partir das linhas da primeira
 segunda
 matriz.
 
-1
 
 1 5 0
 
@@ -1766,9 +1723,7 @@ AB + BA
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-27
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -1963,9 +1918,7 @@ X 5 4 1
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-30
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -2179,7 +2132,6 @@ Equipe Exatas Estratégia Concursos
 2 40.
 
 
-0
 
 Se B = 1
 
@@ -2234,7 +2186,6 @@ x
 
 40 + 0.
 
-3
 
 
 5 10
@@ -2243,7 +2194,6 @@ y 12
 
 20 + z
 
-40
 
 Para uma matriz ser simétrica, ela deve ser quadrada e os elementos simétricos com relação à
 diagonal
@@ -2349,7 +2299,6 @@ y 2z 0
 
 2'
 
-2
 
 0.
 
@@ -2361,9 +2310,7 @@ Gabarito: Letra C.
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-35
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -2452,7 +2399,6 @@ lb + 3d = 0
 
 b = —3d
 
-3
 
 
 Portanto, a matriz inversa A 1 = ía
@@ -2636,7 +2582,6 @@ dividindo ambos os lados da equação por 3:
 
 3% _ 9
 
-3
 
 x = 3
 
@@ -2644,9 +2589,7 @@ x = 3
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-39
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -2717,9 +2660,7 @@ ZB = A-1C
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-40
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -3011,9 +2952,7 @@ Item. 3. Somar os produtos obtidos.
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-45
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -3086,9 +3025,7 @@ Lc dJ detx L—c a J
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-46
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -3150,9 +3087,7 @@ O determinante de uma matriz de ordem 1 é o próprio elemento da matriz. Exempl
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-47
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -3329,9 +3264,7 @@ subtração:
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-50
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -3556,9 +3489,7 @@ Portanto, 0 cofator do elemento a17 é .412 = -23.
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-54
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -3595,7 +3526,6 @@ EXEMPLIFICANDO
 
 Calcule o determinante de A = -1
 
-5
 
 2 0 8
 
@@ -3622,9 +3552,7 @@ Item. .2 4 0 3.
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-55
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -3666,7 +3594,6 @@ Aplicando a regra de Sarrus em 5 -1
 2 4
 
 6 obtém-se 197.
-3
 
 
 Logo:
@@ -3675,7 +3602,6 @@ Logo:
 
 = 3 5
 
-2
 
 2 8
 
@@ -3709,9 +3635,7 @@ Note que 0 elemento a43 é zero, de modo que 0 produto a437443 será zero:
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-56
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -3741,7 +3665,6 @@ EXEMPLIFICANDO
 
 Calcule o determinante de A = -1
 
-5
 
 2 0 8
 
@@ -3796,9 +3719,7 @@ det.4 = «21^21 + ^22^22 + ^23-^23 + ^24^24
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-57
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -3848,9 +3769,7 @@ A = 2 3
 
 1 Ol
 
-1
 
-2
 
 1 4-1
 
@@ -3890,9 +3809,7 @@ det.4 = íll4-di4 + 0124-^24 3" ®34-'^34 3" O442I44
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-58
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -3960,11 +3877,9 @@ det(zlFC) = detzl x detfí x detC
 
 r
 
-1
 
 (MPE-RS/2010) Considere as matrizes M = ³
 
-5
 
 1 2 2
 
@@ -4009,7 +3924,6 @@ detM =
 
 O determinante da matriz P é dado por:
 
-2
 
 detP = 3
 
@@ -4032,7 +3946,6 @@ L.G..a. .b..a..r..i.to...:..L..e..t.r..a...C. .
 
 Determinante da matriz inversa
 
-1
 
 36Õ
 
@@ -4041,7 +3954,6 @@ Determinante da matriz inversa
 
 detA 1 =
 
-1
 
 det A
 
@@ -4071,7 +3983,6 @@ Além disso, pelo Teorema de Binet, temos que det(A 1A) = det A x det A 1. Logo:
 det(AA 1) = det/
 detA x detA 1 = 1
 
-1
 
 
 detA 1 =
@@ -4144,11 +4055,9 @@ detCA4)
 
 Gabarito: Letra A.
 
-1
 
 detA
 
-1
 
 = z5
 
@@ -4181,9 +4090,7 @@ determinante de A' fica multiplicado por 5. Veja:
 
 5 x 3J
 
-10
 
-15
 
 detTl' = 2 x 15 - 10 x 1
 
@@ -4221,9 +4128,7 @@ sHxi II
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-63
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -4381,13 +4286,10 @@ diagonal principal. Exemplos:
 
 0 0 0
 
-1
 
 8 = 3x2x1x3 = 18
 
-6
 
-3
 
 
 3 0 0
@@ -4407,13 +4309,10 @@ diagonal principal. Exemplos:
 
 0 0 0
 
-0
 
 0 = 1x2x5x3 = 30
 
-0
 
-3
 
 
 * det/4 =
@@ -4553,7 +4452,6 @@ determinante zero. Exemplos:
 
 0 8 = 0
 
-6
 
 2 4 0 3
 
@@ -4582,13 +4480,10 @@ Uma matriz com filas paralelas iguais (linhas ou colunas) apresenta determinante
 
 = 0
 
-1
 
 8 — 0u
 
-6
 
-3
 
 Filas paralelas proporcionais
 
@@ -4600,15 +4495,12 @@ Exemplos:
 
 3 9
 
-1
 
 0,5
 
-5
 
 = 0, pois a segunda coluna é 3 vezes a primeira coluna.
 
-3
 
 1,5 =0, pois a primeira linha é o dobro da segunda linha.
 
@@ -4854,32 +4746,25 @@ B = 1 2 5 9
 
 Note que a quarta coluna C₄ =
 
-7
 
 . 3 4 4 12.
 
-11
 
 9 é combinação linear da segunda coluna C
 
 3 2
 
-12
 
-2
 
 2 e da terceira coluna
 
-1
 
-4
 
 
 5 pois C
 
 1 ' 4
 
-4
 
 = 2C2
 
@@ -4896,44 +4781,28 @@ Vejamos:
 2C2 + C3
 
 
-2
 
-2
 
-1
 
-4
 
 -4-
 
-7
 
-5
 
-1
 
-4
 
 -7-
 
 
-4
 
-2
 
 -8-
 
-11
 
-9
 
-3
 
-12
 
-5
 
-1
 
 -4-
 
@@ -4949,7 +4818,6 @@ Nos exemplos em questão, a matriz A e a matriz B apresentam determinantes nulos
 
 (TJ PR/2009) Calcule 0 determinante de A = -1
 
-4
 
 -1 -2 1
 
@@ -5005,7 +4873,6 @@ Vejamos um exemplo:
 
 Calcule o determinante da matriz A = 4
 
-3
 
 8 1 3
 
@@ -5089,11 +4956,9 @@ detX = 0 x 412 + 0 x 422 + 1 x 432 + 0 x 442
 
 1 ( > 1 1
 
-110
 
 4 11
 
-111
 
 Vamos aplicar a regra de Sarrus no determinante.
 
@@ -5112,11 +4977,9 @@ Note que det4 = — 4 1
 
 1 1
 
-0
 
 1 . Portanto:
 
-1
 
 detX = -(-3)
 
@@ -5271,9 +5134,7 @@ Parte Negativa Parte Positiva
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-76
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -5373,9 +5234,7 @@ Observe que o determinante ficou reduzido a:
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-77
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -5550,7 +5409,6 @@ Equipe Exatas Estratégia Concursos
 
 I) 0
 
-0
 
 1/2
 
@@ -5574,17 +5432,11 @@ n 13
 
 -21
 
-8
 
-11
 
-3
 
-25
 
-3
 
-0
 
 = -3
 
@@ -5602,7 +5454,6 @@ III) A matriz A =
 
 \1O
 
-1
 
 -3
 
@@ -5610,7 +5461,6 @@ III) A matriz A =
 
 -2
 
-4
 
 -7 '6■)/
 
@@ -5736,9 +5586,7 @@ Portanto, a equação requerida é:
 
 x
 
-3
 
-4
 
 (2x2 - 2x + 6) + (-10) = 0
 2x2 — 2x - 4 = 0
@@ -5810,7 +5658,6 @@ Vamos obter a matriz B por meio das operações propostas. Primeiramente, temos:
 
 * Substituição da linha 3 pela linha 3 menos a linha 2.
 
-0
 
 -1
 
@@ -5982,10 +5829,8 @@ Item. 4. (CESPE/SEDF/2017) Considerando a matriz A =
 
 0 2
 
-10
 
 20 , julgue o próximo item.
-40
 
 Se C = [Cí;], 1 < i, j <3, tal que C = A2 , então C23 - C22 > 500.
 Comentários:
@@ -6163,7 +6008,6 @@ diagonal secundária:
 
 detB = I³ ᵏˡ
 
-13
 
 
 Logo, a matriz B é dada por:
@@ -6262,7 +6106,6 @@ O determinante de A é igual a - 1.
 
 A 2
 
-0
 
 \3 4
 
@@ -6297,10 +6140,8 @@ Item. 4. (CESPE/SEDF/2017) Considerando a matriz >1=4 10
 
 0 2
 
-10
 
 20 , julgue o próximo item.
-40
 
 Se B = então o determinante de B é maior que 200.
 Comentários:
@@ -6345,7 +6186,6 @@ Portanto, o determinante de B é menor do que 200.
 
 Gabarito: ERRADO.
 
-1
 
 = - x 800
 O
@@ -6379,7 +6219,6 @@ det(X4) = det(4 xAxAxA)
 
 Pelo Teorema de Binet, temos:
 
-0
 
 0 , o determinante de A4 é igual
 2.
@@ -6395,9 +6234,7 @@ Aplicando a regra de Sarrus no determinante de A, temos:
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-92
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -6647,7 +6484,6 @@ Gabarito: Letra A.
 
 detd 1 =
 
-1
 
 det d
 
@@ -6690,7 +6526,6 @@ bjdetf = 2 x det A. ERRADO.
 
 detd 1 =
 
-1
 
 detd
 
@@ -6733,7 +6568,6 @@ pelo teorema de Binet:
 
 det(44 = det A x det .4 1
 
-1
 
 = det A x -—-
 
@@ -6873,9 +6707,7 @@ Simplificando os termos comuns, ficamos com:
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-100
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -6994,13 +6826,10 @@ Comentários:
 
 1 0 0
 
-1
 
 1 , tem-se que detíA) = —1 e,
 
-1
 
-1
 
 Temos um determinante de ordem 4. Para calculá-lo, vamos usar a regra de Chió.
 
@@ -7095,11 +6924,8 @@ detTl =
 
 .010
 
-0
 
-1
 
-0
 
 Podemos agora calcular 0 determinante de A pela regra de Sarrus. Observe, porém, que
 é mais conveniente
@@ -7115,9 +6941,7 @@ detd — cZii-dn -I- (721-^21 d- ^31^31
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-103
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -7220,9 +7044,7 @@ Tabela I: número de ligações realizadas por tipo de telefone
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-105
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -7279,11 +7101,9 @@ Item. 4. (CESPE/SEDF/2017) Considerando a matriz >1=4 10
 
 0 2
 
-10
 
 20 , julgue o próximo item.
 
-40
 
 
 Se C = [Cí;], 1 < i, j <3, tal que C = A2 , então C23
@@ -7384,11 +7204,9 @@ Item. 4. (CESPE/SEDF/2017) Considerando a matriz A =
 
 0 2
 
-10
 
 20 , julgue o próximo item.
 
-40
 
 Se B = |J4, então o determinante de B é maior que 200.
 
@@ -7465,9 +7283,7 @@ b) det C = 2 x det2l.
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-109
 
-112
 
 
 Equipe Exatas Estratégia Concursos
@@ -7542,13 +7358,10 @@ consequentemente, A é uma matriz inversível.
 
 1 0 0
 
-1
 
 1 , tem-se que det(A) = —1 e,
 
-1
 
-1
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
@@ -7595,9 +7408,7 @@ Item. 15. CERTO
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 
-111
 
-112
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

@@ -1,7 +1,7 @@
 Capítulo. Engenharia de Software e Sistemas - Web services. Mensageria, Stream e CORBA.
 
 
-índice
+Índice
 
 1) SOA - Mensageria e CORBA
 
@@ -27,7 +27,7 @@ Capítulo. Engenharia de Software e Sistemas - Web services. Mensageria, Stream 
 
 12) Lista de Questões - WS e REST - Diversas
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -101,7 +101,7 @@ entre os dois sistemas com o intuito e, por conta desse middleware, diz-se que a
 comunicação é
 indireta. A mensageria permite, portanto, o processamento de requisições de forma assíncrona
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -178,7 +178,7 @@ muitas outras aplicações onde a troca assíncrona de mensagens é necessária.
 
 1 CORBA = Common Object Request Broker Architeture
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -261,7 +261,7 @@ LANGUAGE (IDL)
 É uma linguagem neutra de definição de interfaces utilizada para especificar a estrutura
 e as operações dos objetos CORBA. A IDL permite que desenvolvedores descrevam a
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -335,7 +335,7 @@ produtores e consumidores de dados podem operar em diferentes velocidades e
 se adaptar a
 flutuações de carga, atrasos de rede ou falhas pontuais, garantindo a continuidade do fluxo de
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -345,7 +345,7 @@ dados. Galera, esses assuntos não caem muito em prova, mas não são assuntos c
 então
 vale a leitura.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -422,7 +422,7 @@ Web Services são componentes de software com baixo fator de acoplamento, utiliz
 padrões de
 internet.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -511,7 +511,7 @@ Ela oferece um mecanismo que permite acessar um conjunto de recursos (ligações
 internet), no
 qual o acesso é fornecido por meio de uma interface descrita e exercitada consistentemente de
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -585,7 +585,7 @@ EndPoint
 
 https://www.camara.gov.br/SitCamaraWS/Deputados.asrTix7wsdl
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -705,7 +705,7 @@ is shown below.
 
 </deputado»
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -805,7 +805,7 @@ Entrada em
 será retornado
 o histórico de todas as legislaturas de que a deputada participou.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -928,7 +928,7 @@ mudassem o formato de armazenamento dos dados?Tudo isso poderia impactar de form
 negativa
 a integração e a comunicação entre os dois sistemas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -965,7 +965,7 @@ acoplamento, reduz os custos, não requer a interação de usuários finais1, en
 aplicação-aplicação - sem a obrigatoriedade de interferência
 humana.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1005,7 +1005,7 @@ satisfaçam. É importante destacar que quando um fornecedor e um solicitante
 entram em
 acordo, ocorre o que chamamos de Bind (Vínculo).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1099,7 +1099,7 @@ com suas respectivas extensões foram chamados de WS-*. O que você precisa guar
 que o
 escopo foi aumentando cada vez mais...
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1174,7 +1174,7 @@ a ficar muito abstrato e eu não estou conseguindo acompanhar! Então vamos pass
 alguns
 pontos mais concretos...
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1242,7 +1242,7 @@ ou processamento de mensagens, informando localização e formato dos erros
 encontrados. Quando estiver presente deve aparecer como um elemento filho do
 elemento Body.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1330,7 +1330,7 @@ WSDL
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1399,7 +1399,7 @@ comunicação, codificação de dados, localização, portas, endereço de
 rede, etc. Ela também adiciona informações sobre como o serviço se
 comunicará e quem pode alcançá-lo.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1468,7 +1468,7 @@ integrar serviços web. Ele contém informações genéricas sobre a provedores 
 web,
 implementações e metadados básicas sobre eles.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1512,7 +1512,7 @@ informações. Há também informações de contato do negócio (Ex: Endereço,
 Telefone, Fax,
 Identificadores, etc).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1577,7 +1577,7 @@ Consulta
 Interface de
 Publicação (Publisher) para publicar e atualizar um serviço.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1603,7 +1603,7 @@ uma Mensagem SOAP respondendo a requisição inicial com o resultado e envia par
 Cliente
 SOAP. Por fim, este último lê a mensagem e repassa o resultado para a aplicação requisitante.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1677,7 +1677,7 @@ alteração.
 
 Dessa forma, GET é utilizado para leitura e POST é utilizado para criação! Ambos permitem o
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1751,7 +1751,7 @@ computacional (hoje em dia, eles são verdadeiras máquinas, mas naquela época 
 mais
 fracos). Além disso, as redes móveis de internet ainda suportavam baixa velocidade - a tecnologia
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1808,7 +1808,7 @@ você pode
 simplesmente subir no cavalo e cavalgar. No segundo caso, também temos uma pessoa e um
 cavalo, mas junto temos uma carroça. Vocês lembram que nós falamos sobre 0 overhead? Pois é, a
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1902,7 +1902,7 @@ que o sistema seja escalável. Em outras palavras, busca-se separar a
 arquitetura e
 responsabilidades em dois ambientes.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1976,12 +1976,10 @@ diferentes clientes podem se comportar de maneiras específicas mesmo que utiliz
 exatamente os mesmos serviços providos pelo servidor.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-29
 
-126
+
 
 
 Diego Carvalho
@@ -2037,7 +2035,7 @@ Brasil (BR);
 Se testarmos
 com Klaus, retornará 28.9% de ser da Alemanha (DE); 27.2% de ser da Áustria (AT); e 25% de ser da
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2075,7 +2073,7 @@ etc). Então, fechamos aqui a nossa aula... eu sei que se trata de um assunto
 complexo e técnico,
 mas vocês vão ver que os exercícios não são tão complicados. Vamos lá...
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2170,12 +2168,10 @@ informações podem ser organizadas.
 DEFINIÇÃO DE SOAP
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-32
 
-126
+
 
 
 Diego Carvalho
@@ -2237,12 +2233,10 @@ encontrados. Quando estiver presente deve aparecer como um elemento filho do
 elemento Body.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-33
 
-126
+
 
 
 Diego Carvalho
@@ -2333,12 +2327,10 @@ Services
 com sucesso (Sim, alguns o chamam de protocolo!).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-34
 
-126
+
 
 
 Diego Carvalho
@@ -2400,12 +2392,10 @@ frequentemente
 causando uma mudança no estado do recurso ou efeitos colaterais no servidor.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-35
 
-126
+
 
 
 Diego Carvalho
@@ -2519,12 +2509,10 @@ todas as informações necessárias na requisição para que o servidor possa en
 processá-la.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-36
 
-126
+
 
 
 Diego Carvalho
@@ -2589,12 +2577,10 @@ utilizando exatamente os mesmos serviços providos pelo servidor.
 H PARA MAIS DICAS: WWW.INSTA6RAM.COM/PROFESSORDIEGOCARVALHO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-37
 
-126
+
 
 
 Diego Carvalho
@@ -2659,7 +2645,7 @@ b) get
 
 c) trace
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2728,7 +2714,7 @@ padrão utilizado em SOA para a criação de repositórios de descrição de ser
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2789,12 +2775,10 @@ linguagens, como HTML, XML, JSON, YAML, já o SOAP suporta apenas o XML.
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-40
 
-126
+
 
 
 Diego Carvalho
@@ -2863,12 +2847,10 @@ atual de um
 recurso quanto a exclusão do próprio recurso.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-41
 
-126
+
 
 
 Diego Carvalho
@@ -2933,12 +2915,10 @@ ao servidor final.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-42
 
-126
+
 
 
 Diego Carvalho
@@ -3003,12 +2983,10 @@ O padrão utilizado para descrever a estrutura de Mensagens SOAP é o WSDL.
 Gabarito: Letra B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-43
 
-126
+
 
 
 Diego Carvalho
@@ -3065,7 +3043,7 @@ Perfeito! Ele realmente permite integrar sistemas e realizar a comunicação ent
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3125,7 +3103,7 @@ mantenha sua interface. No entanto, eventualmente eu posso precisar alterar a in
 de um
 serviço - e, nesse caso, não dá para evitar a transformação do contrato do serviço.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3191,12 +3169,10 @@ Gabarito: Letra C
 Item. 27. (CESPE / TRE-PE - 2017) REST (Representational State Transfer) é:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-46
 
-126
+
 
 
 Diego Carvalho
@@ -3257,7 +3233,7 @@ Comentários:
 restrições ao
 formato da mensagem; (d) Errado, essa frase sequer faz sentido; (e) Correto.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3311,7 +3287,7 @@ Na verdade, independe de tecnologias - inclusindo as linguagens de programação
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3368,7 +3344,7 @@ utilizada são relevantes para os clientes.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3430,7 +3406,7 @@ Gabarito: Correto
 limitadas ao
 tipo request-response.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3492,7 +3468,7 @@ plataformas e(ou) frameworks.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3557,12 +3533,10 @@ compatibilidade, essas
 extensões não afetam os cabeçalhos do envelope SOAP.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-52
 
-126
+
 
 
 Diego Carvalho
@@ -3622,7 +3596,7 @@ Comentários:
 
 REST não é um protocolo e não é embasado em XML.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3680,12 +3654,10 @@ REST não utiliza WSDL!
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-54
 
-126
+
 
 
 Diego Carvalho
@@ -3744,7 +3716,7 @@ aplicação-aplicação - sem a obrigatoriedade de interferência humana.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3806,7 +3778,7 @@ servlets, JSP (Java server pages), Ajax, JSF (Java server faces) 2.0, Hibernate 
 SOA e web
 services.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3870,12 +3842,10 @@ troca
 de informações entre aplicações em um ambiente distribuído.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-57
 
-126
+
 
 
 Diego Carvalho
@@ -3935,12 +3905,10 @@ Na verdade, todos são baseados em XML e, não, HTTP!
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-58
 
-126
+
 
 
 Diego Carvalho
@@ -3999,12 +3967,10 @@ o Protocolo HTTP.
 Gabarito: Anulada
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-59
 
-126
+
 
 
 Diego Carvalho
@@ -4073,12 +4039,10 @@ em outras linguagens. Em teoria, elas podem ser escritas em outras linguagens qu
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-60
 
-126
+
 
 
 Diego Carvalho
@@ -4125,7 +4089,7 @@ solicitados.
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4192,7 +4156,7 @@ d) XML/JSON/RSS/Atom - URLs - CRUD stateless: Create, Read, Update, Delete
 
 e) HTTP/HTTPS - caches - CRUD stateless: Create, Read, Update, Delete
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4248,7 +4212,7 @@ enviar grandes quantidades de dados por meio de um formulário; (IV) Correto.
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4313,7 +4277,7 @@ c) interface uniforme;
 
 d) sistema em camadas;
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4507,7 +4471,7 @@ e) I, lie III.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4566,7 +4530,7 @@ e) UDDI
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4632,7 +4596,7 @@ A função de cada um deles é, respectivamente, rotular e formatar os dados,
 transferir as
 mensagens, descrevera disponibilidade do serviço.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4695,12 +4659,10 @@ a) I;
 b) H;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-70
 
-126
+
 
 
 Diego Carvalho
@@ -4890,7 +4852,7 @@ verdadeira e F para a falsa.
 
 () O elemento "SOAP HEADER" é obrigatório em qualquer mensagem SOAP.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4959,12 +4921,10 @@ empregando o
 Remote Procedure CaIIs (RPC) entre objetos como DCOM e CORBA. Atualmente, SOAP provê
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-74
 
-126
+
 
 
 Diego Carvalho
@@ -5026,7 +4986,7 @@ linguagem Java;
 web; (e)
 Errado, esse seria o UDDI.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5091,12 +5051,10 @@ d) somente II e III.
 e) I, lie III.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-76
 
-126
+
 
 
 Diego Carvalho
@@ -5111,12 +5069,10 @@ serviços web.
 Gabarito: Letra A
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-77
 
-126
+
 
 
 Diego Carvalho
@@ -5179,7 +5135,7 @@ d) X.500
 
 e) LDAP
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5247,7 +5203,7 @@ troca de informações entre máquinas da rede; (e) Errado, acredito que isso se
 relacionado
 ao modelo entidade relacionamento.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5313,12 +5269,10 @@ são recomendados pela W3C; (e) Errado, é claro que pode.
 Gabarito: Letra C
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-80
 
-126
+
 
 
 Diego Carvalho
@@ -5386,12 +5340,10 @@ e) Protocolo HTTP. XML. SOAP. WSDL. UDDI.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-81
 
-126
+
 
 
 Diego Carvalho
@@ -5452,12 +5404,10 @@ e) push - pull
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-82
 
-126
+
 
 
 Diego Carvalho
@@ -5520,12 +5470,10 @@ adequada a Web.
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-83
 
-126
+
 
 
 Diego Carvalho
@@ -5590,12 +5538,10 @@ e) utilizar os métodos HTTP: GET, POST, PUT e DELETE.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-84
 
-126
+
 
 
 Diego Carvalho
@@ -5611,12 +5557,10 @@ utiliza SOAP;
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-85
 
-126
+
 
 
 Diego Carvalho
@@ -5680,7 +5624,7 @@ Item. 8. (CESPE / Petrobrás - 2022) Uma das vantagens do SOAP é a sua utiliza�
 HTML (PUT, GET, POST, DELETE), enquanto o REST utiliza apenas o método POST para
 realizar as requisições através de um arquivo XML.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5753,12 +5697,10 @@ a) REST.
 b) WSDL.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-87
 
-126
+
 
 
 Diego Carvalho
@@ -5825,7 +5767,7 @@ nos protocolos FTP e SMTP.
 b) Um dos componentes de um Web Service SOAP (Simple Object Access Protocol) é a UDDI
 (Universal Description, Discovery and Integration), a qual é um arquivo do tipo XML que
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5885,12 +5827,10 @@ HTTP, os
 quais indicam para o serviço a ação a ser realizada com o recurso.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-89
 
-126
+
 
 
 Diego Carvalho
@@ -5957,12 +5897,10 @@ que se
 comunique com o servidor, além de uma única requisição.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-90
 
-126
+
 
 
 Diego Carvalho
@@ -6030,7 +5968,7 @@ Item. 50. (CESPE / STF - 2013) A REST (Representational State Transfer), protoco
 comunicação
 embasado em XML, permite a comunicação de mensagens entre aplicações por meio de
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6099,7 +6037,7 @@ Item. 61. (CESPE / TCU - 2010) Uma equipe de desenvolvimento de software recebeu
 incumbência de
 desenvolver um sistema com as características apresentadas a seguir.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6168,7 +6106,7 @@ aplicações em que componentes de um sistema distribuído são executados em
 plataformas
 semelhantes de um mesmo fornecedor.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6243,7 +6181,7 @@ Item. 73. (CESPE / STJ - 2008) O SOAP encapsula mensagens que podem ser transmit
 HTTP;
 permite o modelo de interação cliente-servidor; define como usar XML para representar
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6259,7 +6197,7 @@ utilizado em solicitações enviadas pelo servidor ao navegador para que este so
 dados ao
 usuário de uma página ou para que o próprio navegador forneça os dados solicitados.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6353,7 +6291,7 @@ Item. 40. ERRADO
 
 4i- CORRETO
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6416,7 +6354,7 @@ comunicação entre os sistemas por meio do web service; esses protocolos, unido
 estrutura
 básica XML, compõem a estrutura básica dos web services.
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+0 0 
 
 
 Diego Carvalho
@@ -6489,12 +6427,10 @@ d) RESTFUL.
 e) HTML.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-98
 
-126
+
 
 
 Diego Carvalho
@@ -6562,14 +6498,11 @@ a um
 Web Service são One-Way Messaging e Request-Response Messaging.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-1
 
 
-99
 
-126
+
+
 
 
 Diego Carvalho
@@ -6627,7 +6560,7 @@ correta.
 
 a) O protocolo REST utiliza SOAP e XML.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6693,7 +6626,7 @@ formato XML para aplicações serviço web (Webservice) é o SOAP (Simple Object
 Access
 Protocol).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6766,14 +6699,11 @@ baseada na
 interface da arquitetura REST.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-1
 
 
-102
 
-126
+
+
 
 
 Diego Carvalho
@@ -6844,7 +6774,7 @@ servlets, JSP (Java server pages), Ajax, JSF (Java server faces) 2.0, Hibernate 
 SOA e web
 services.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6911,7 +6841,7 @@ representadas; Universal Description, Discovery And Integration (UDDI) —
 padrão de
 descoberta que define como são organizadas as informações de descrição do serviço,
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6979,7 +6909,7 @@ mensagens de requisição e resposta. Um documento XML é transportado no corpo 
 mensagem SOAP; no modelo cliente-servidor, o corpo de uma mensagem SOAP pode conter
 uma requisição, mas não uma resposta.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6992,12 +6922,10 @@ dados ao
 usuário de uma página ou para que o próprio navegador forneça os dados solicitados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-106
 
-126
+
 
 
 Diego Carvalho
@@ -7087,7 +7015,7 @@ Item. 40. CORRETO
 
 Item. 41. ERRADO
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -7152,7 +7080,7 @@ chamadas de métodos. Kátia, então, testa o envio da página pelo servidor, cr
 coleção de
 páginas web em um servidor remoto e instrui o servidor a enviar de volta a solicitação.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -7224,7 +7152,7 @@ I. Web services que obedecem ao padrão REST precisam utilizar o formato
 JSON para
 encapsular os dados da resposta às requisições dos sistemas solicitantes.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -7288,7 +7216,7 @@ Está correto o que se afirma em:
 
 a) somente I;
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -7426,7 +7354,7 @@ mensagem.
 
 II. O elemento <Header> é opcional e o elemento <Body> obrigatório.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -7497,14 +7425,11 @@ d) linguagem de programação para serviços SOAP;
 e) linguagem de programação para XML.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-1
 
 
-113
 
-126
+
+
 
 
 Diego Carvalho
@@ -7576,7 +7501,7 @@ d) V, V e F.
 
 e) F, F e V.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -7644,7 +7569,7 @@ e) A WSDL (Web Services Description Language) é uma especificação para public
 localizar
 informações sobre Web Services.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -7697,7 +7622,7 @@ d) somente II e III.
 
 e) I, lie III.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -7729,13 +7654,13 @@ Item. 22. LETRA A
 Item. 8. LETRA A i6. LETRA A
 24- LETRA B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -7805,7 +7730,7 @@ Item. 5. (IBFC / EBSERH - 2017) Conforme o W3C (World Wide Web Consortium) pode-
 um
 Web Service como sendo:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -7878,7 +7803,7 @@ d) DHCP.
 
 e) DNS.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -7951,12 +7876,10 @@ c) push - pop
 d) post-cat
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-121
 
-126
+
 
 
 Diego Carvalho
@@ -8024,7 +7947,7 @@ d) SGML e HTML
 
 e) B2B e B2C
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -8044,12 +7967,10 @@ d) usar SOAP para interoperabilidade entre sistemas heterogêneos.
 e) utilizar os métodos HTTP: GET, POST, PUT e DELETE.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-123
 
-126
+
 
 
 Diego Carvalho
@@ -8074,13 +7995,13 @@ Item. 16. LETRA A
 
 Item. 6. LETRA D 12. LETRA B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

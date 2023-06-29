@@ -14,7 +14,7 @@ Concursos
 Equipe Exatas Estratégia Concursos
 
 
-índice
+Índice
 
 1) Múltiplos e Divisores
 
@@ -131,7 +131,6 @@ o número obtido não for divisível pelo primo selecionado.
 
 5 5
 
-1
 
 500 = 22 x 53
 
@@ -145,11 +144,8 @@ Obtenção dos divisores naturais de um número
 
 Divisores
 
-1
 
-500
 
-250
 
 125 5, 10, 20
 
@@ -157,7 +153,6 @@ Divisores
 
 5 125, 250, 500
 
-1
 
 Quantidade de divisores naturais de um número
 
@@ -266,7 +261,6 @@ Se nessa igualdade obtivermos um número x inteiro, então esse número pertence
 
 3x = 2
 
-2
 
 X = 3
 
@@ -284,7 +278,6 @@ x = 3
 
 3x = 10
 
-10
 
 X _T
 
@@ -294,7 +287,6 @@ X _T
 
 3x = 14
 
-14
 
 -> Não é inteiro -» Não pertence ao conjunto C
 
@@ -316,7 +308,6 @@ Equipe Exatas Estratégia Concursos
 
 3x = 22
 
-22
 
 X = T
 
@@ -326,7 +317,6 @@ X = T
 
 3x = 26
 
-26
 
 X "T
 
@@ -344,7 +334,6 @@ x = 10
 
 3x = 34
 
-34
 
 X _T
 
@@ -517,10 +506,8 @@ inteiro.
 Gabarito: Letra C.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-10
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -823,7 +810,6 @@ Decomponha o número 500 em fatores primos
 
 5 5
 
-1
 
 Logo, a decomposição de 500 em fatores primos é:
 
@@ -839,17 +825,14 @@ Decomponha o número 282 em fatores primos
 
 47 47
 
-1
 
 A decomposição de 282 em fatores primos é:
 
 282 = 2 x 3 x 47
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-15
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -871,7 +854,6 @@ Decomponha o número 3960 em fatores primos
 
 11 11
 
-1
 
 A decomposição de 3960 em fatores primos é:
 
@@ -893,7 +875,6 @@ Decomponha o número 10098 em fatores primos
 
 17 17
 
-1
 
 A decomposição de 10098 em fatores primos é:
 
@@ -981,10 +962,8 @@ xy = 24 x 3
 (2a x 3b) xy = 24 x 3
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-17
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -1011,10 +990,8 @@ Para fins didáticos, vamos mostrar todas as possibilidades para o par ordenado 
 Gabarito: Letra D.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-18
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -1049,7 +1026,6 @@ Primeiramente, devemos decompor 500 em fatores primos pelo método tradicional:
 
 5 5
 
-1
 
 Em seguida, delimitamos a área dos divisores e já escrevemos o divisor 1, pois o
 número 1 sempre divide
@@ -1057,7 +1033,6 @@ qualquer número sem deixar resto.
 
 Divisores
 
-1
 
 500 2
 
@@ -1069,7 +1044,6 @@ Divisores
 
 5 5
 
-1
 
 Agora, para cada fator primo, devemos multiplicá-lo por todos os divisores
 
@@ -1079,17 +1053,11 @@ obtemos o divisor 2.
 
 Divisores
 
-500
 
-250
 
-125
 
-25
 
-5
 
-1
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
@@ -1105,19 +1073,12 @@ produto
 
 Divisores
 
-1
 
-500
 
-250
 
-125
 
-25
 
-5
 
-1
 
 Agora vamos para o primeiro fator primo 5. Esse fator primo pode ser multiplicado por
 todos os divisores já
@@ -1125,7 +1086,6 @@ obtidos: 1, 2 e 4. Nesse caso, obtemos 1x5 = 5; 2x5 = 10 e 4x5 = 20.
 
 Divisores
 
-1
 
 500 2 2
 
@@ -1137,7 +1097,6 @@ Divisores
 
 5 5
 
-1
 
 Agora vamos para o segundo fator primo 5. Esse fator primo pode ser multiplicado por
 todos os divisores já
@@ -1150,7 +1109,6 @@ somente por 5, 10 e 20.
 
 Divisores
 
-1
 
 500 2 2
 
@@ -1162,7 +1120,6 @@ Divisores
 
 5 5
 
-1
 
 Por fim, vamos ao terceiro fator primo 5. Esse fator primo pode ser multiplicado por
 todos os divisores já
@@ -1171,10 +1128,8 @@ divisores 25, 50 e 100, pois
 a multiplicação pelos outros divisores (1, 2, 4, 5,10, 20) nos retornaria divisores já obtidos.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-20
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -1190,11 +1145,8 @@ Equipe Exatas Estratégia Concursos
 
 Divisores
 
-1
 
-2
 
-4
 
 5, 10, 20
 
@@ -1202,7 +1154,6 @@ Divisores
 
 5 5 125, 250, 500
 
-1
 
 Logo, temos os seguintes divisores de 500:
 
@@ -1221,13 +1172,10 @@ Obtenha todos os divisores naturais de 282
 
 47 47
 
-1
 
 Divisores
 
-1
 
-2
 
 3,6
 
@@ -1244,17 +1192,12 @@ Obtenha todos os divisores naturais de 2900
 
 1450
 
-725
 
-145
 
-29
 
-1
 
 Divisores
 
-1
 
 2 2
 
@@ -1478,7 +1421,6 @@ Obtenha os divisores inteiros de 282
 
 Divisores
 
-1
 
 282 2 2
 
@@ -1486,7 +1428,6 @@ Divisores
 
 47 47 47, 94, 141, 282
 
-1
 
 Os divisores inteiros positivos (naturais) são 1, 2,3,6,47,94,141, 282.
 
@@ -1510,7 +1451,6 @@ e) 24.
 
 Comentários:
 
-48
 
 Primeiramente, observe que para — ser inteiro, x + 5 deve ser divisor inteiro de 48.
 
@@ -1532,7 +1472,6 @@ Equipe Exatas Estratégia Concursos
 
 3 3
 
-1
 
 Logo, 48 = 24 x 31.
 
@@ -1544,7 +1483,6 @@ Uma vez que temos 20 divisores inteiros para o número 48, temos 20 valores inte
 para x + 5 que farão
 com que a divisão seja inteira.
 
-48
 
 Isso significa que temos 20 valores para x que, somados com 5, farão com que a divisão — seja
 inteira.
@@ -1661,10 +1599,8 @@ o produto.
 Logo, MMC (380; 520; 550) = 23 x 52 x 11 x 13 x 19 = 543.400.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-28
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -1689,7 +1625,6 @@ Primeiramente, devemos decompor todos os números em fatores primos.
 
 11 11
 
-1
 
 10098 2
 
@@ -1703,7 +1638,6 @@ Primeiramente, devemos decompor todos os números em fatores primos.
 
 17 17
 
-1
 
 Devemos selecionar todos os números primos obtidos com os maiores expoentes e realizar
 o produto.
@@ -1745,10 +1679,8 @@ Devemos selecionar todos os números primos obtidos com os maiores expoentes e r
 Logo, MMC (5; 10; 15; 20; 50) = 22 x 3 x 52 = 300.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-29
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -1805,10 +1737,8 @@ i Note que 12 é múltiplo de 3 e de 6. Logo:
 : MMC (120; 60; 15) = 120
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-30
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -1906,10 +1836,8 @@ b) 5.500.
 i
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-31
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -1983,10 +1911,8 @@ comuns a 5
 = e 7, sendo 35 o menor múltiplo comum a 5 e 7.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-32
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -2102,7 +2028,6 @@ Primeiramente, elevemos decompor todos os números em fatores primos.
 
 11 11
 
-1
 
 10098 2
 
@@ -2116,7 +2041,6 @@ Primeiramente, elevemos decompor todos os números em fatores primos.
 
 17 17
 
-1
 
 Devemos selecionar os números primos comuns com os menores expoentes e realizar o produto.
 3960 = 22 x 32 x 5 x 11
@@ -2151,10 +2075,8 @@ MDC(580; 290; 85) = MDC(290; 85)
 : Calcular o MDC de 290 e 85 é mais rápido, não é mesmo?
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-35
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -2222,7 +2144,6 @@ Vamos fatorar 168.
 
 7 7
 
-1
 
 Devemos selecionar os números primos comuns com os menores expoentes e realizar o produto.
 
@@ -2299,10 +2220,8 @@ i
 5 í
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-37
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -2328,10 +2247,8 @@ Item. 1.080 pixels
 Gabarito: CERTO.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-38
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -2559,11 +2476,9 @@ Observe que o número deve ser menor do que 1000 e o algarismo das centenas é i
 ao número de
 diagonais do retângulo. Como o retângulo tem duas diagonais, o número é da seguinte forma:
 
-2
 
 A parte do número formada só pelos algarismos das dezenas e das unidades é múltiplo de 7:
 
-2
 
 Múltiplo
 de 7
@@ -2581,10 +2496,8 @@ informado pelo foragido é inferior a 250.
 Gabarito: CERTO.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-42
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -2639,13 +2552,11 @@ inferior a 4.321
 
 / \ superior a 1.234 + 1
 
-19
 
 Item. 4.313 - 1.235
 
 + 1
 
-19
 
 162 + 1
 
@@ -2812,12 +2723,10 @@ cataloga 5/12 dos livros.
 Suponha que em um dia qualquer temos l livros para serem catalogados. Isso significa que João
 cataloga:
 
-5
 
 — dos (livros do dia)
 
 5 x l
-12
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
@@ -2952,13 +2861,11 @@ Equipe Exatas Estratégia Concursos
 
 Item. 7. (CESPE/SECTI DF/2014) Acerca das propriedades dos conjuntos numéricos, julgue o item a seguir.
 
-14
 
 Existem exatamente quatro números inteiros r para os quais a fração é um número inteiro.
 
 Comentários:
 
-14
 
 Primeiramente, observe que para ser inteiro, 2r + 1 deve ser divisor inteiro de 14.
 
@@ -2966,13 +2873,11 @@ Primeiramente, observe que para ser inteiro, 2r + 1 deve ser divisor inteiro de 
 Vamos obter os divisores inteiros de 14.
 
 Divisores
-1
 
 14 2 2
 
 7 7 7 14
 
-1
 
 Note que os divisores naturais (positivos) de 14 são 1; 2; 7 e 14.
 
@@ -2997,13 +2902,11 @@ r = 3
 
 = 6,5
 
-14
 
 Dentre as 8 possibilidades para r que fazem com que seja inteiro, apenas 4 são números inteiros:
 
 —4; -1; 0e3
 
-14
 
 Portanto, existem exatamente quatro números inteiros r para os quais a fração é um número inteiro.
 
@@ -3054,17 +2957,14 @@ Por exemplo, se forem formados x = 5 grupos, esses grupos podem ter sempre:
 
 — = 25 mulheres
 
-5
 
 Por outro lado, se forem formados x = 25 grupos, esses grupos podem ter sempre:
 
 — = 7 homens; e
 
-25
 
 — = 5 mulheres.
 
-25
 
 Como é possível dividir as 300 pessoas em grupos de modo que todos os
 grupos tenham a mesma
@@ -3102,7 +3002,6 @@ Equipe Exatas Estratégia Concursos
 
 7 7
 
-1
 
 Poderíamos obter todos os divisores positivos do número 210. Ocorre que, dente todos
 os divisores positivos
@@ -3118,10 +3017,8 @@ a:
 Gabarito: Letra D.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-51
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -3183,10 +3080,8 @@ Devemos selecionar todos os fatores primos obtidos com os maiores expoentes e re
 12 = 22 x 3
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-52
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -3247,10 +3142,8 @@ primos obtidos com os
 maiores expoentes e realizar o produto.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-53
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -3322,10 +3215,8 @@ Comentários:
 Antes julgar os itens da questão, vamos entender o enunciado.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-54
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -3386,10 +3277,8 @@ Vamos decompor os números em fatores primos:
 = 2 x 2 x 2 x 24
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-55
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -3445,10 +3334,8 @@ durará menos de 2 horas.
 Comentários:
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-56
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -3507,7 +3394,6 @@ Texto para as próximas questões
 I
 
 
-1
 
 i Ao distribuir entre 5 técnicos do MPU determinada quantidade de processos para
 análise, de modo que ;
@@ -3525,10 +3411,8 @@ técnicos, julgue os ;
 = itens seguintes, com base nas informações apresentadas.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-57
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -3588,10 +3472,8 @@ MMC+l 2x210+1 3x210+1 4x210+1
 Portanto, N é maior do que 210.
 
 OO SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-58
 
 www. estra tegiaconcursos. com. br
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -3753,10 +3635,8 @@ o produto.
 Logo, MMC(10; 16) = 24 x 5 = 80.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-61
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -3874,10 +3754,8 @@ fazem parte dos
 múltiplos de 30. Logo, é correto afirmar que o conjunto A(15)nA(10) contém o conjunto A(60).
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-63
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -3999,10 +3877,8 @@ ocorrerá após transcorridos 24 anos. O gabarito, portanto, é CERTO.
 Gabarito: CERTO.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-65
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -4132,10 +4008,8 @@ Para obter o mínimo múltiplo comum (MMC) entre 12 e 20, primeiramente devemos 
 fatores primos.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-67
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -4197,10 +4071,8 @@ menores expoentes e realizar o produto.
 Note que a decomposição em fatores primos de 12 é a seguinte:
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-68
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -4319,10 +4191,8 @@ Logo, MDC(24; 36) = 22 x 3 = 12. Portanto, x = 12.
 Agora que sabemos que o número de elementos de cada equipe é 12, temos que:
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-70
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -4398,10 +4268,8 @@ vendendo gás em um mesmo dia será daqui a 24 dias.
 Gabarito: Letra A.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-71
 
 
-80
 
 
 Equipe Exatas Estratégia Concursos
@@ -4507,7 +4375,6 @@ e) superior a 700 e inferior a 800.
 
 Item. 7. (CESPE/SECTI DF/2014) Acerca das propriedades dos conjuntos numéricos, julgue o item a seguir.
 
-14
 
 Existem exatamente quatro números inteiros r para os quais a fração é um número inteiro.
 

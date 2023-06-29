@@ -14,7 +14,7 @@ Concursos
 Equipe Exatas Estratégia Concursos
 
 
-índice
+Índice
 
 1) Moda para Dados Não-Agrupados
 
@@ -294,9 +294,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-6
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -464,9 +462,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-9
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -492,7 +488,6 @@ A maneira mais simples de calcular a moda é tomar o ponto médio da classe moda
 Esse valor, ao qual
 denominamos de moda bruta, é determinado pela seguinte fórmula:
 
-2
 
 em que linj é o limite inferior da classe modal; e lsup é o limite superior da classe modal.
 
@@ -524,9 +519,7 @@ simples. No caso, trata-se da terceira classe:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-10
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -587,9 +580,7 @@ os valores da =
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-11
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -660,9 +651,7 @@ Gabarito: D.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-12
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -739,9 +728,7 @@ Total 220
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-13
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -859,9 +846,7 @@ Vamos iniciar encontrando o número total de funcionários, calculando o valor d
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-15
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -894,19 +879,14 @@ Frequência x
 acumulada (fac)
 
 2 < s < 4 3 10 10
-30
 
 4 < s < 6 5 20 30
-100
 
 6 < s < 8 7 50 80
-350
 
 8 < s < 10 9 80 160
-720
 
 10 < s < 12 11 40 200
-440
 
 Total 200
 1640
@@ -920,11 +900,9 @@ Agora, podemos calcular a média:
 
 A mediana se encontra na posição:
 
-200
 
 _ 2 -1_00- mil
 
-2
 
 A classe mediana corresponde ao primeiro intervalo cuja frequência acumulada supera esse
 valor, logo, a
@@ -944,9 +922,7 @@ fórmula do valor mediano:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-16
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -971,12 +947,10 @@ Md = 8+
 
 x (10 - 8)
 
-80
 
 
 Calculando a moda:
 
-2
 
 Md = 3 * * * * 8 + IsõJx (2)
 
@@ -1018,13 +992,10 @@ H 3 5
 
 9 H 11
 
-15
 
-40
 
 k
 
-100
 
 : Sabe-se que a média aritmética (Me) foi calculada considerando que todos os valores incluídos num
 certo
@@ -1035,9 +1006,7 @@ calculada
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-17
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -1082,7 +1051,6 @@ Frequência simples x A
 (/í)
 
 H 3 2 5 = 5
-10
 
 3 H 5 4 15 15 - 5
 = 10 40
@@ -1107,9 +1075,7 @@ I
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-18
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -1149,7 +1115,6 @@ H 3 2 5
 20 200
 
 Total 100
-720
 
 Já temos as frequências acumuladas de todas as classes, então podemos
 determinar a mediana. Se a
@@ -1188,7 +1153,6 @@ x 2
 
 . 40 .
 
-10
 
 x 2
 
@@ -1202,9 +1166,7 @@ Md = 7,50
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-19
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -1255,9 +1217,7 @@ Reparem nos triângulos (I) e (II), indicados na figura a seguir:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-21
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -1296,9 +1256,7 @@ Outros autores preferem o seguinte formato:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-22
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -1352,9 +1310,7 @@ Total 220
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-23
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -1445,14 +1401,12 @@ Mo = 7,5 + 2,5 x
 
 2 x 8 - (4 + 7)
 
-4
 
 
 Mo — 7,5 + 2,5 x
 
 16-11
 
-4
 
 Mo = 7,5 + 2,5 x —
 
@@ -1596,9 +1550,7 @@ Gabarito: E.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-27
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -1633,9 +1585,7 @@ proporcionalidade. Reparem nos triângulos (I) e (II), indicados na figura a seg
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-28
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -1778,13 +1728,11 @@ Aplicando a fórmula temos:
 
 Mo = 9 +
 
-10
 
 x (12 - 9)
 
 Item. .15 + 10.
 
-10
 
 
 Mo = 9+
@@ -1838,9 +1786,7 @@ e) 19,0.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-32
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -1872,7 +1818,6 @@ fant + fpost.
 
 Mo = 74 + T7l3x4
 
-13
 
 
 Gabarito: B.
@@ -1939,25 +1884,18 @@ Faixa Etária Frequência (/) h
 
 35 H 55 80 55 - 35 = 20
 
-30
 
-3
 
 1Õ_
 
-60
 
-4
 
 15 _
 
-80
 
-4
 
 2Õ_
 
-75
 
 55 H 60 75 60- 55 = 5 1 Ç
 
@@ -1965,9 +1903,7 @@ Faixa Etária Frequência (/) h
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-34
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -2018,7 +1954,6 @@ M = 55 +
 
 <zlií,er = 55 +
 
-11
 
 Item. .11 + 14. X 5
 
@@ -2031,9 +1966,7 @@ x 5 = 57,2
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-35
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -2063,7 +1996,6 @@ A ou B X y z 31
 w u V
 
 De acordo com um levantamento estatístico, a média das idades de um grupo de presidiários é igual a
-31
 anos de idade. Nesse levantamento, os presidiários foram classificados como A ou B, dependendo da
 sua
 condição psicossocial. Constatou-se que a média das idades dos presidiários classificados como A é
@@ -2090,9 +2022,7 @@ observações. Vejamos:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-36
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -2149,7 +2079,6 @@ isso ocorre, a moda ocupa a posição central da classe modal. Portanto:
 25 + 27,5
 
 
-2
 
 De todo modo, vamos aplicar a fórmula de Czuber:
 
@@ -2174,7 +2103,6 @@ Mo = 25,0 +
 
 Mo = 25,0 +
 
-5
 
 Item. .5 + 5.
 
@@ -2193,9 +2121,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-37
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -2233,9 +2159,7 @@ aumentasse em 5 unidades, indo de 8 para 13.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-38
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -2307,9 +2231,7 @@ seguinte distribuição por idade.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-40
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -2370,7 +2292,6 @@ Equipe Exatas Estratégia Concursos
 
 2 + 2
 
-2
 
 Por fim, a moda é o valor mais frequente de um conjunto de observações,
 ou seja, o valor de maior
@@ -2403,7 +2324,6 @@ oferecem esse preço
 
 40 6,80 6,50 6,10 6,30 ?
 
-1
 
 Com base nessa situação hipotética, julgue o item a seguir.
 
@@ -2435,9 +2355,7 @@ uma observação, assim as posições 10 e 11 serão sempre ocupadas pelo preço
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-42
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -2495,9 +2413,7 @@ Como o valor que está na posição 9 é 1, a mediana é igual a 1. Logo, a soma
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-43
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -2511,11 +2427,8 @@ Item. 5. (CESPE/TJ-RJ/2021)
 
 velocidade média (Mbps)
 
-6
 
-1
 
-0
 
 Dom. 2a 3a 4a 5a 6a Sáb.
 
@@ -2559,9 +2472,7 @@ vértices numerados de 1 a 4, foi lançado 21 vezes, de modo que o resultado do 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-44
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -2622,9 +2533,7 @@ X Frequência Absoluta
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-45
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -2676,7 +2585,6 @@ os termos nas posições
 
 2 + 2
 
-2
 
 Assim, a mediana e a moda são iguais a 2.
 
@@ -2686,9 +2594,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-46
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -2755,9 +2661,7 @@ será:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-47
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -2789,7 +2693,6 @@ Mo x Md x Me = 4 x 4 x 3,5
 
 Mq x M E x ME — 56
 
-700
 
 2ÕÕ
 
@@ -2830,9 +2733,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-48
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -2896,9 +2797,7 @@ apreendidas, em kg)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-49
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -2970,9 +2869,7 @@ d) O desvio padrão.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-50
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -3047,9 +2944,7 @@ i 2 2
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-51
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -3112,9 +3007,7 @@ continuará sendo 5 salários-mínimos. Logo, o menor salário não sofreria alt
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-52
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -3242,11 +3135,9 @@ X~ 5
 
 2 4 =
 
-5
 
 9 + y
 
-5
 
 12 = 9 + y
 
@@ -3293,25 +3184,15 @@ profissionais para o cinema nacional
 
 total
 
-10
 
-20
 
-70
 
-100
 
-200
 
-20
 
-60
 
-20
 
-200
 
-300
 
 Tabela II
 
@@ -3344,9 +3225,7 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 total
 
-55
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -3404,9 +3283,7 @@ observamos que o valor de preços que se destaca é 300, portanto, a moda é 300
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-56
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -3461,9 +3338,7 @@ no gráfico a seguir, em que os valores referem-se ao final de cada trimestre co
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-57
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -3701,9 +3576,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-61
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -3755,9 +3628,7 @@ p. — Mo = 1,6 — 1 = 0,6
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-62
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -3767,7 +3638,6 @@ Item. 2. (CESPE/PC PB/2022) Um levantamento identificou que, em um hospital infa
 seguiam a
 seguinte distribuição por idade.
 
-12
 
 Idade (anos)
 
@@ -3826,7 +3696,6 @@ crianças com pacientes com idade igual a 2 anos. Logo, a mediana será:
 
 2 + 2
 
-2
 
 Por fim, a moda é o valor mais frequente de um conjunto de observações,
 ou seja, o valor de maior
@@ -3866,9 +3735,7 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-64
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -3923,9 +3790,7 @@ Preço da gasolina nos 20 postos da cidade
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-65
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -3938,7 +3803,6 @@ oferecem esse preço
 
 40 6,80 6,50 6,10 6,30 ?
 
-1
 
 Com base nessa situação hipotética, julgue o item a seguir.
 
@@ -3995,9 +3859,7 @@ X, julgue o item a seguir.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-66
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -4061,9 +3923,7 @@ A moda dessa distribuição é igual a 11 anos.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-67
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -4113,9 +3973,7 @@ Item. 8. (CESPE/TCE-PA/2016)
 Número diário de
 denúncias registradas (X)
 
-0
 
-1
 
 Frequência
 Relativa
@@ -4128,19 +3986,14 @@ Relativa
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-68
 
-103
 
 
 Equipe Exatas Estratégia Concursos
 
 
-2
 
-3
 
-4
 
 Total
 
@@ -4179,15 +4032,10 @@ incidentes (N)
 Frequência relativa
 
 
-0
 
-1
 
-2
 
-3
 
-4
 
 total
 
@@ -4201,7 +4049,6 @@ total
 
 0,2
 
-1
 
 Considerando os dados da tabela mostrada, que apresenta a distribuição populacional da
 quantidade
@@ -4215,9 +4062,7 @@ que pode ser registrada nessa penitenciária.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-69
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -4279,15 +4124,12 @@ Q
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-70
 
-103
 
 
 Equipe Exatas Estratégia Concursos
 
 
-4
 
 A tabela acima mostra a distribuição da quantidade Q de pessoas transportadas, incluindo o
 condutor, por
@@ -4331,21 +4173,14 @@ registrou a incidência X (em %)
 1 25
 
 
-2
 
-3
 
-4
 
 total
 
-35
 
-25
 
-5
 
-100
 
 Com base nas informações acima, julgue o item a seguir.
 
@@ -4357,9 +4192,7 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-71
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -4435,9 +4268,7 @@ simples
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-72
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -4463,9 +4294,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-73
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -4526,9 +4355,7 @@ Pelo método de King, a moda será:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-74
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -4615,9 +4442,7 @@ de cada classe:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-75
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -4663,7 +4488,6 @@ A ou B X y z 31
 w u V
 
 De acordo com um levantamento estatístico, a média das idades de um grupo de presidiários é igual a
-31
 anos de idade. Nesse levantamento, os presidiários foram classificados como A ou B, dependendo da
 sua
 condição psicossocial. Constatou-se que a média das idades dos presidiários classificados como A é
@@ -4694,9 +4518,7 @@ divisão da frequência pela amplitude de cada classe
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-76
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -4731,9 +4553,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-77
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -4802,7 +4622,6 @@ oferecem esse preço
 
 40 6,80 6,50 6,10 6,30 ?
 
-1
 
 Com base nessa situação hipotética, julgue o item a seguir.
 
@@ -4830,9 +4649,7 @@ d) 6.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-79
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -4842,11 +4659,8 @@ Item. 5. (CESPE/TJ-RJ/2021)
 
 velocidade média (Mbps)
 
-6
 
-1
 
-0
 
 Dom. 2a 3a 4a 5a 6a Sáb.
 
@@ -4934,9 +4748,7 @@ amostra
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-81
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -5003,9 +4815,7 @@ serem coletadas.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-82
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -5069,9 +4879,7 @@ Item. 15. (CESPE/BACEN/2013)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-83
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -5324,9 +5132,7 @@ se, em relação ao 1.2 semestre de 2002, crescimentos de 36% e 20%, respectivam
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-87
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -5387,9 +5193,7 @@ Item. 23. (CESPE/SEFAZ-AL/2002)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-88
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -5539,9 +5343,7 @@ Item. 9. ERRADO 18. CERTO
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-91
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -5566,7 +5368,6 @@ Item. 2. (CESPE/PC PB/2022) Um levantamento identificou que, em um hospital infa
 seguiam a
 seguinte distribuição por idade.
 
-12
 
 Idjdc (anos)
 
@@ -5580,9 +5381,7 @@ a) 2,2; 3; 1
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-92
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -5629,9 +5428,7 @@ Preço(R$) 6,40 6,80 6,50 6,10 6,30 ?
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-93
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -5678,9 +5475,7 @@ está mostrada na tabela a seguir.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-94
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -5707,15 +5502,10 @@ Item. 8. (CESPE/TCE-PA/2016)
 Número diário de
 denúncias registradas (X)
 
-0
 
-1
 
-2
 
-3
 
-4
 
 Total
 
@@ -5756,21 +5546,15 @@ Frequência relativa
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-95
 
-103
 
 
 Equipe Exatas Estratégia Concursos
 
 
-1
 
-2
 
-3
 
-4
 
 total
 
@@ -5782,7 +5566,6 @@ total
 
 0,2
 
-1
 
 Considerando os dados da tabela mostrada, que apresenta a distribuição populacional da
 quantidade
@@ -5826,9 +5609,7 @@ Q
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-96
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -5869,21 +5650,14 @@ registrou a incidência X (em %)
 1 25
 
 
-2
 
-3
 
-4
 
 total
 
-35
 
-25
 
-5
 
-100
 
 Com base nas informações acima, julgue o item a seguir.
 
@@ -5906,9 +5680,7 @@ observou-se que apenas 430 tinham débitos fiscais.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-97
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -5943,9 +5715,7 @@ O valor, em reais, da moda dos débitos fiscais das empresas denunciadas é igua
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-98
 
-103
 
 
 Equipe Exatas Estratégia Concursos
@@ -6071,7 +5841,6 @@ A ou B X y z 31 w
 u V
 
 De acordo com um levantamento estatístico, a média das idades de um grupo de presidiários é igual a
-31
 anos de idade. Nesse levantamento, os presidiários foram classificados como A ou B, dependendo da
 sua
 condição psicossocial. Constatou-se que a média das idades dos presidiários classificados como A é
@@ -6090,9 +5859,7 @@ anos de idade.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-101
 
-103
 
 
 Equipe Exatas Estratégia Concursos

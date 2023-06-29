@@ -14,7 +14,7 @@ Concursos
 Equipe Exatas Estratégia Concursos
 
 
-índice
+Índice
 
 1) Introdução Análise Combinatória
 
@@ -370,7 +370,6 @@ I
 L
 
 
-1
 
 Contagem de Divisores
 
@@ -387,7 +386,6 @@ O primeiro passo é fatorar o número natural em números primos. Por exemplo, v
 
 5 5
 
-1
 
 Assim, podemos representar o número 60, a partir dos seus divisores primos, da seguinte forma:
 
@@ -451,7 +449,6 @@ r
 t
 
 í (FCC/2016 - Companhia Metropolitana/SP) Uma tabela retangular de 12 linhas por 18 colunas possui
-216
 i campos de preenchimento. Outras tabelas retangulares com combinações diferentes de linhas e
 colunas
 
@@ -510,7 +507,6 @@ Equipe Exatas Estratégia Concursos
 
 3 3
 
-1
 
 216 = 23 x 33
 
@@ -767,9 +763,7 @@ laranjas OU bananas =
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-12
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -908,9 +902,7 @@ termos 3 pombos em uma mesma casa.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-14
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -1033,9 +1025,7 @@ que se tenha certeza
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-15
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -1213,9 +1203,7 @@ Pois 8-3! = 8-3 x 2 x 1 = 2; e (8 — 3)! = 5! = 5x4x3 x 2 x 1 = 120.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-18
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -1327,9 +1315,7 @@ Gabarito: D
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-20
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -1391,9 +1377,7 @@ Como assim "sobrarão" 2 possibilidades para 0 2g colocado e 1 possibilidade par
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-21
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -1526,9 +1510,7 @@ P₃ = 31 = 3x2x1 = 6
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-23
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -1673,9 +1655,7 @@ j
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-24
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -1867,9 +1847,7 @@ I
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-27
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -1950,9 +1928,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-28
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -2017,9 +1993,7 @@ Como calculamos as diferentes formas de ordenar 3 elementos? Pela permutação d
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-29
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -2206,9 +2180,7 @@ I
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-31
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -2302,9 +2274,7 @@ opções se tornaram uma única opção. O mesmo ocorreu com as opções ii e v;
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-32
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -2382,9 +2352,7 @@ n!
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-33
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -2464,9 +2432,7 @@ utilizando as letras da palavra VITÓRIA, e que terminam com uma consoante é ig
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-34
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -2493,7 +2459,6 @@ i Comentários:
 i Na palavra VITÓRIA, há 7 letras:
 
 1 2 3 4 5 6
-7
 
 i) Para terminar com uma consoante, há 3 possibilidades para essa posição, todas distintas:
 i
@@ -2503,10 +2468,8 @@ I
 
 I
 
-3
 
 1 2 3 4 5 6
-7
 
 = ii) As outras 6 letras podem permutar livremente pelas 6 posições restantes. Considerando
 que dessas i
@@ -2537,7 +2500,6 @@ I
 L.
 
 
-1
 
 Permutação Circular
 
@@ -2581,9 +2543,7 @@ PCn = (n-1)!
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-36
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -2684,9 +2644,7 @@ Gabarito: B
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-38
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -2740,9 +2698,7 @@ Gabarito: Errado
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-39
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -2810,9 +2766,7 @@ P3 3! 3 x 2!
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-40
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -2971,9 +2925,7 @@ Possível ordenação: C A B
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-42
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -3008,9 +2960,7 @@ palavras, não precisamos calcular uma função exponencial, apenas nos atentar 
 
 Ademais, considerando que 0! = 1 e que 1! = 1, os resultados da primeira e da segunda fração são:
 
-1
 
-1
 
 Como o sinal da primeira fração é positivo e o da segunda é negativo, essas frações
 se anulam (1 - 1 = 0).
@@ -3038,9 +2988,7 @@ Que foi o resultado que obtivemos anteriormente.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-43
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -3119,9 +3067,7 @@ I
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-44
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -3157,7 +3103,6 @@ _ 3!.
 
 I
 
-8
 
 Resposta: Certo.
 
@@ -3227,9 +3172,7 @@ A
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-45
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -3292,9 +3235,7 @@ cada evento. Dessa forma, o resultado desse arranjo é:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-46
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -3446,9 +3387,7 @@ I
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-48
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -3533,9 +3472,7 @@ Número de Possibilidades = 7 x 6 = 42
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-49
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -3618,9 +3555,7 @@ Gabarito: E
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-50
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -3689,9 +3624,7 @@ batendo-as juntas com leite no =
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-51
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -3769,9 +3702,7 @@ A ilustração a seguir representa as 9 cidades e 1 das rodovias possíveis.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-52
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -3928,9 +3859,7 @@ combinações com 2 elementos, etc., até a combinação com n elementos, é igu
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-55
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -3946,7 +3875,6 @@ chamado
 Triângulo de Pascal, que pode ser representado da seguinte forma:
 
 G),o
-1
 
 Q,o G,i w 1 1
 
@@ -3972,7 +3900,6 @@ Para construir o Triângulo, somamos 2 elementos consecutivos (colunas k e k + 1
 uma
 mesma linha (n), para obter o elemento da linha abaixo (n + 1) na coluna k + 1:
 
-1
 
 13+^1
 
@@ -3989,7 +3916,6 @@ alguma linha k + n, é igual ao elemento da linha seguinte (k + n + 1) e coluna
 seguinte
 (k + 1), conforme ilustrado abaixo para a coluna 1:
 
-1
 
 i[í
 12 1
@@ -4032,13 +3958,9 @@ Teclado
 
 Número de estudantes
 
-6
 
-2
 
-4
 
-3
 
 O número de bandas diferentes que poderão ser formadas com os estudantes desta escola
 de música com a
@@ -4086,9 +4008,7 @@ Gabarito: B
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-57
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -4130,9 +4050,7 @@ i - O número de formas de escolher 3 agentes, dentre 12, é igual a:
 12! 12x11x10
 
 í C™ = *3T 3X2 =2X11X10 =
-220
 
-1
 
 i - O número de formas de escolher 1 escrivão, dentre 6, é igual a 6 - caso especial C₆₁ = 6.
 
@@ -4193,9 +4111,7 @@ caixa. Não podemos selecionar 10
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-58
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -4256,9 +4172,7 @@ marca E
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-59
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -4316,9 +4230,7 @@ raciocínio.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-60
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -4454,9 +4366,7 @@ Gabarito: Certo
 
 8x7
 
-28
 
-2
 
 ■ ■
 
@@ -4492,15 +4402,12 @@ barra:
 ■
 
 Família 1 Família 2 Família 3 Família
-4
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-62
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -4591,9 +4498,7 @@ Vamos considerar o mesmo exemplo da compra de 3 potes de sorvete, dentre 5 marca
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-63
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -4667,9 +4572,7 @@ rn-l+p
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-64
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -4763,9 +4666,7 @@ Gabarito: Errado.
 www. estra tegiaconcursos. com. br
 
 
-66
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -4801,9 +4702,7 @@ Gabarito: C.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-67
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -4869,9 +4768,7 @@ informações a seguir.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-68
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -4935,9 +4832,7 @@ Pelo princípio multiplicativo, o número de possibilidades é:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-69
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -5005,9 +4900,7 @@ b) 160%
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-70
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -5133,7 +5026,6 @@ Há 3 pivôs no time, logo, há 3 possibilidades para pivô:
 
 
 Pivô
-3
 
 Armad
 
@@ -5147,13 +5039,10 @@ Há 2 armadores e 3 alas, logo, há 2 possibilidades para armador e 3 possibilid
 
 
 Pivô
-3
 
 Armad
-2
 
 Ala
-3
 
 Líbero/Ala Armad
 
@@ -5165,19 +5054,14 @@ armador e 3 possibilidades para a outra posição:
 
 
 Pivô
-3
 
 Armad
-2
 
 Ala
-3
 
 Líbero/Ala Armad
-4
 
 Líbero/Ala Armad
-3
 
 Como devemos escolher os jogadores para todas essas vagas no time, aplicamos o princípio
 multiplicativo:
@@ -5218,7 +5102,6 @@ PI P2 P3
 
 A primeira pessoa possui 5 opções de assentos, logo há 5 possibilidades distintas para ela:
 
-5
 
 PI P2 P3
 
@@ -5244,9 +5127,7 @@ Gabarito: D.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-73
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -5276,7 +5157,6 @@ segundo horário. Vamos representar os horários da seguinte forma:
 
 Há 15 servidores disponíveis para a escolha no l9 horário:
 
-15
 
 1° 2°
 
@@ -5307,9 +5187,7 @@ branco correspondem às vias de livre circulação para pedestres e veículos.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-74
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -5351,9 +5229,7 @@ abaixo, uma vez que eles deverão escolher caminhos distintos:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-75
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -5361,7 +5237,6 @@ Equipe Exatas Estratégia Concursos
 
 Sabemos que há 7 caminhos para o primeiro policial escolher:
 
-7
 
 1° 2°
 
@@ -5427,7 +5302,6 @@ Equipe Exatas Estratégia Concursos
 
 Considerando que há 7 pacientes-fontes disponíveis, há 7 possibilidades para o componente A:
 
-7
 
 A B C D
 
@@ -5487,9 +5361,7 @@ Infilt
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-77
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -5500,7 +5372,6 @@ prestarão apoio ao
 infiltrado. Sabendo que há 6 agentes disponíveis, há 6 possibilidades para a função de coordenador:
 
 
-6
 
 Coord
 
@@ -5511,11 +5382,9 @@ Infilt
 Uma vez definido o coordenador, restarão 5 agentes disponíveis para a escolha do assistente:
 
 
-6
 
 Coord
 
-5
 
 Assist
 
@@ -5524,15 +5393,12 @@ Infilt
 Definidos o coordenador e o assistente, restarão 4 opções para a escolha do agente infiltrado:
 
 
-6
 
 Coord
 
-5
 
 Assist
 
-4
 
 Infilt
 
@@ -5577,9 +5443,7 @@ A escolha dos 4 cargos de chefia pode ser representada da seguinte forma:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-78
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -5589,7 +5453,6 @@ SE DR CO DV
 
 Para a escolha do chefe da secretaria, há 11 servidores disponíveis:
 
-11
 
 SE DR CO DV
 
@@ -5678,9 +5541,7 @@ e) 32 formas distintas
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-80
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -5800,9 +5661,7 @@ estejam sempre juntos em qualquer ordem.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-82
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -5928,9 +5787,7 @@ b) 45
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-84
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -5991,9 +5848,7 @@ b) 10
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-85
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -6049,9 +5904,7 @@ igual a
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-86
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -6084,7 +5937,6 @@ para a direita. Assim, a sequência N L N N L L N corresponde ao seguinte caminh
 ■
 
 T
-1
 
 A*
 
@@ -6187,9 +6039,7 @@ meninos e meninas sejam intercalados e 2 meninos ou 2 meninas nunca fiquem junto
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-88
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -6249,9 +6099,7 @@ e) 144.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-89
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -6321,9 +6169,7 @@ Para acomodar os 6 livros de física, temos uma permutação de 6 elementos:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-90
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -6388,9 +6234,7 @@ maneiras distintas de eles ocuparem os assentos dessa viatura será inferior a 2
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-91
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -6456,9 +6300,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-92
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -6534,9 +6376,7 @@ ordem. Logo, temos o arranjo de 3 elementos, dentre 12:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-93
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -6612,9 +6452,7 @@ passageiros é superior a 3.000.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-94
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -6677,7 +6515,6 @@ Cl0'4 (10- 4)!x4!
 
 6! x 4! 4 x 3 x 2 x 1
 
-3
 
 10 x^X/g x 7
 
@@ -6693,9 +6530,7 @@ Gabarito: Errado
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-95
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -6773,9 +6608,7 @@ Gabarito: B
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-96
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -6866,9 +6699,7 @@ E o número de comissões que atendem à restrição é a diferença:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-97
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -6925,7 +6756,6 @@ Total de Clientes da Empresa
 Meses Janeiro 2021 Fevereiro 2021 Março 2021 Abril 2021
 
 Total de Clientes 32 36 44
-60
 
 Com base nessa situação hipotética e nos dados apresentados na tabela, julgue o item a seguir.
 
@@ -6943,9 +6773,7 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-98
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -7016,9 +6844,7 @@ cujas coordenadas são:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-99
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -7087,9 +6913,7 @@ uma das sete diretorias.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-100
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -7171,27 +6995,17 @@ os elementos da linha precedente situados exatamente acima ou à esquerda do ele
 
 - -
 
-1
 
-6
 
-21
 
-56
 
-126
 
 -
 
-1
 
-7
 
-28
 
-84
 
-210
 
 -
 
@@ -7224,7 +7038,6 @@ G,o Cl,l
 
 £5,0 C54 Cs,2 C5 3 C5 4
 
-1
 
 1 1
 
@@ -7404,9 +7217,7 @@ Gabarito: Errado
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-103
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -7536,7 +7347,6 @@ levaria à permutação 5 com elementos, com repetição de 3 e de 2:
 
 5x4x3!
 
-10
 
 3! x 2!
 
@@ -7548,9 +7358,7 @@ Gabarito: Errado
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-105
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -7625,9 +7433,7 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-106
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -7695,9 +7501,7 @@ das quais 2 serão escolhidas (sem importância de ordem):
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-107
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -7713,7 +7517,6 @@ Equipe Exatas Estratégia Concursos
 
 10 x 9
 
-2
 
 = 45
 
@@ -7761,7 +7564,6 @@ elementos, dentre 8:
 
 (8 - 4)! x 4! 4! x 4!
 
-2
 
 8x7x6x5x41 8 x 7 x 6 x 5
 
@@ -7784,9 +7586,7 @@ Gabarito: B.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-108
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -7828,7 +7628,6 @@ Gabarito: Errado
 Item. 25. (CEBRASPE 2021/PF) Para realizar uma operação de busca e apreensão, em duas
 localidades
 diferentes, devem ser deslocadas duas equipes, cada uma delas composta por 1 delegado, 1 escrivão e
-2
 agentes. Tendo como base essas informações, julgue o item seguinte.
 
 Se estiverem disponíveis, no momento de formação das equipes, exatamente, 2 delegados,
@@ -7849,9 +7648,7 @@ cada uma com 1 delegado, 1 escrivão e 2 agentes.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-109
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -7868,7 +7665,6 @@ Gabarito: Certo
 Item. 26. (CEBRASPE 2021/PF) Para realizar uma operação de busca e apreensão, em duas
 localidades
 diferentes, devem ser deslocadas duas equipes, cada uma delas composta por 1 delegado, 1 escrivão e
-2
 agentes. Tendo como base essas informações, julgue o item seguinte.
 
 Se estiverem disponíveis, no momento de formação das equipes, exatamente, 2 delegados,
@@ -7903,7 +7699,6 @@ Gabarito: Certo
 Item. 27. (CEBRASPE 2021/PF) Para realizar uma operação de busca e apreensão, em duas
 localidades
 diferentes, devem ser deslocadas duas equipes, cada uma delas composta por 1 delegado, 1 escrivão e
-2
 agentes. Tendo como base essas informações, julgue o item seguinte.
 
 Se estiverem disponíveis, no momento de formação das equipes, 3 delegados, 4 escrivães
@@ -7920,9 +7715,7 @@ pensar na escolha das 2 equipes.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-110
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -7995,9 +7788,7 @@ c) superior a 400 e inferior a 1.000
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-111
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -8210,9 +8001,7 @@ Pelo princípio multiplicativo, o número total de possibilidades nessa situaç�
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-114
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -8278,9 +8067,7 @@ exercícios com as 3
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-115
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -8351,9 +8138,7 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-116
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -8429,9 +8214,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-117
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -8498,9 +8281,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-118
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -8589,9 +8370,7 @@ seja o agente Paulo é inferior a 80.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-119
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -8810,9 +8589,7 @@ encaminhados para B, conforme representado a seguir:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-122
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -8876,9 +8653,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-123
 
-125
 
 
 Equipe Exatas Estratégia Concursos
@@ -8933,9 +8708,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-124
 
-125
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

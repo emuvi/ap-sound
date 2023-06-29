@@ -20,19 +20,15 @@ Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-índice
+Índice
 
 1) Desenvolvimento Back-End - C# - Teoria
-3
 
 2) Desenvolvimento Back-End - C# - Questões Comentadas.
-20
 
 3) Desenvolvimento Back-End - C# - Lista de Questões.
-41
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-2
+ x
 
 www.estrategiaconcursos.com.br
 X 57
@@ -74,8 +70,7 @@ ambiente.
 Um programa em C# é composto de três partes básicas, e hierárquicas: os Namespaces, as Classes
 e os Métodos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-3
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -146,7 +141,7 @@ Console.Writel_ine("Oi! Eu sou o Goku.");
 
 }
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x' 4
+ x' 4
 
 www.estrategiaconcursos.com.br
 / 57
@@ -192,11 +187,9 @@ Declaramos uma nova variável no formato:
 
 Tipo nome_da_variavel [ = valorjnicial ];
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-5
+
 
 1 www.estrategiaconcursos.com.br
-57
 
 
 Paolla Ramos e Silva
@@ -239,8 +232,7 @@ declarar dessa forma:
 stringf] Nomes = {"Ana", "Beto", "Carlos", "Daniel", "Elias", "Fernanda",
 "Goku", "Hélio", "lan", "Jonas"};
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-6
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -277,8 +269,7 @@ superclasse Animal quais variáveis e métodos ela teria? Algo mais ou menos ass
 Esta é uma boa classe para representar todos os animais, eles todos fazem essas coisas. Porém
 nem todos fazem tudo igual, não é mesmo?
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-7
+
 
 
 , 57
@@ -322,8 +313,7 @@ public String nome;
 
 public virtual void FazerBarulho(){
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-8
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -360,8 +350,7 @@ através desses métodos da classe base. **/
 
 public class Cachorro : Animal {
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-9
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -402,8 +391,7 @@ Console. Writel_ine("?");
 
 }
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-10
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -445,8 +433,7 @@ TOME
 
 NOTA!
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-11
+
 
 www.estrategiaconcursos.com.br
 X 57
@@ -494,8 +481,7 @@ Mas o que é uma lista genérica? Elas também são chamadas de Collections. Um 
 é a
 própria classe List (que faz parte do framework .Net), outro são os arrays. A questão é que para
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-12
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -540,8 +526,7 @@ ordem. Caso a lista esteja vazia, o loop não imprimirá nada.
 
 Muito prático, não é mesmo? Mas como? O quê o foreach executa por trás das cortinas é isso:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-13
+
 
 www.estrategiaconcursos.com.br
 X 57
@@ -595,8 +580,7 @@ public static List<int> GetListaNumerosQ
 var lista = new List<int>();
 for (int i = 0; i < 100; i++)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-14
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -649,11 +633,9 @@ ele é um criador de objetos enumeráveis. Ou seja, você ainda irá retorna uma
 até 100, a
 diferença é que a cada rodada do loop eu já retorno o objeto que está sendo inserido na lista.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-15
+
 
 1 www.estrategiaconcursos.com.br
-57
 
 
 Paolla Ramos e Silva
@@ -698,8 +680,7 @@ yield break;
 
 for (int i = 0; i < 20; i++) {
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-16
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -737,8 +718,7 @@ diferentes fontes (coleções, banco de dados, até xml). Para utilizar o LINQ b
 incluir no início
 do arquivo a linha using System.Linq.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-17
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -799,8 +779,7 @@ classificacao;
 // construção com
 if-else.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-18
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -835,11 +814,9 @@ Curiosidade
 O operador condicional é associativo à direita. A expressão a ? b : c ? d : e
 é desenvolvida como a ? b : (c ? d : e), não como (a ? b : c) ? d : e.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-19
+
 
 1 www.estrategiaconcursos.com.br
-57
 
 
 Paolla Ramos e Silva
@@ -904,8 +881,7 @@ na aba Output.
 
 Agora ficou fácil não é? Vamos ao teste de mesa:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-20
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -978,8 +954,7 @@ Vamos iniciar a execução desse programa pelo método MainO, dentro dele temos
 um foreach
 chamando o método XPTO com os argumentos -10 e 10. Esses argumentos são os parâmetros
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-21
+
 
 www.estrategiaconcursos.com.br
 X 57
@@ -1050,8 +1025,7 @@ c) criação e utilização de expressões regulares;
 
 d) comunicação remota direta com outras aplicações C#;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-22
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -1131,8 +1105,7 @@ e) AcelerandoPasseando.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-23
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -1203,7 +1176,7 @@ vetor em C#:
 
 int[] vetor = new int[3] {1, 2, 3 };
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -1266,8 +1239,7 @@ b) full-access, write, write-only, read e read-only.
 
 c) global, local, nested e virtual.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-25
+
 
 www.estrategiaconcursos.com.br
 X 57
@@ -1333,8 +1305,7 @@ b) 10 e 18.
 
 c) 10 e 20.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-26
+
 
 www.estrategiaconcursos.com.br
 X 57
@@ -1403,8 +1374,7 @@ implementado fora da sua classe. Aí nos sobram split e partial, as duas palavra
 caberiam, mas se
 você lembrar que split é na verdade um método para separar strings, sobra apenas o partial
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-27
+
 
 www.estrategiaconcursos.com.br
 X 57
@@ -1471,8 +1441,7 @@ Item. 14. (AOCP - 2012 - TCE/PA - Assessor Técnico - Analista De Sistemas) Em C
 pelo mecanismo de execução do programa quando o objeto está prestes a ser removido da
 memória são denominados de:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-28
+
 
 www.estrategiaconcursos.com.br
 X 57
@@ -1544,8 +1513,7 @@ c) passa como parâmetro o valor da variável x para y, do tipo double.
 
 d) a variável y recebe por referência o valor da variável x do tipo double.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'"'
-29
+ x'"'
 
 www.estrategiaconcursos.com.br
 / 57
@@ -1610,8 +1578,7 @@ e) Há três tipos de passagem de parâmetros, por valor, por referência e por 
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-30
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -1633,8 +1600,7 @@ memória, que fica livre para a utilização por outro objeto. Gabarito: E
 
 Item. 18. (FCC - 2014 - TRF3 - Analista Judiciário - Informática)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-31
+
 
 www.estrategiaconcursos.com.br
 X 57
@@ -1755,7 +1721,7 @@ System.Text;
 
 [49] }
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -1831,8 +1797,7 @@ c) WriteLine é um método da classe Console. Como a classe System herda da clas
 Console,
 então WriteLine também é um método da classe System.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-33
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -1906,8 +1871,7 @@ d) num é = 4
 
 e) num é = 5
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-34
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -1971,8 +1935,7 @@ d) Compila corretamente, mas apresenta erro de execução.
 
 e) Apresenta erro na compilação.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-35
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -2043,8 +2006,7 @@ c) Polimorfismo de subtipo
 
 d) Sobrecarga de operadores
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-36
+
 
 
 , 57
@@ -2110,8 +2072,7 @@ que C#
 possui classes abstratas, polimorfismo (através de sobrecarga e sobreescrita), interfaces
 e que os
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-37
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -2178,11 +2139,9 @@ Console.Writel_ine("A");
 
 }
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-38
+
 
 www.estrategiaconcursos.com.br
-57
 
 
 Paolla Ramos e Silva
@@ -2240,11 +2199,9 @@ namespace TESTE
 
 class Program
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-39
 
 
-57
+
 
 
 Paolla Ramos e Silva
@@ -2300,8 +2257,7 @@ int j, myF(5), ou seja 5*5 = 25. Engraçado que ele até coloca um comentário c
 
 Item. 25. Ao final ele apenas escreve o valor de j, transformado em string. Ou seja, 25. Gabarito: B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-40
+
 
 
 , 57
@@ -2342,8 +2298,7 @@ e) 5,-2, 1,4, 7
 
 Item. 2. (FGV - 2015 - TCE/SE - Analista de Sistemas) Analise o código C# mostrado abaixo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-41
+
 
 www.estrategiaconcursos.com.br
 X 57
@@ -2411,7 +2366,7 @@ class Program
 
 {
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -2484,11 +2439,9 @@ a) Acelerando.
 
 b) Passeando.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-43
+
 
 1 www.estrategiaconcursos.com.br
-57
 
 
 Paolla Ramos e Silva
@@ -2551,8 +2504,7 @@ c) Carro obj = CarroO;
 
 d) Carro = new CarroO;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) , <
-44
+ , <
 
 www.estrategiaconcursos.com.br
 X 57
@@ -2618,11 +2570,9 @@ c) 10 e 20.
 
 d) 12 e 19.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-45
 
 
-57
+
 
 
 Paolla Ramos e Silva
@@ -2685,8 +2635,7 @@ memória são denominados de:
 
 a) Garbage Collection.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-46
+
 
 www.estrategiaconcursos.com.br
 X 57
@@ -2755,11 +2704,9 @@ a) É uma linguagem de programação orientada a objetos, desenvolvida
 pela Microsoft como
 parte da plataforma .NET caracterizada por ser fracamente tipada.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) , <
-47
+ , <
 
 www.estrategiaconcursos.com.br
-57
 
 
 Paolla Ramos e Silva
@@ -2782,8 +2729,7 @@ e) Há três tipos de passagem de parâmetros, por valor, por referência e por 
 
 18.(FCC - 2014-TRF3-Analista Judiciário - Informática)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'
-48
+ x'
 
 www.estrategiaconcursos.com.br
 / 57
@@ -2904,7 +2850,7 @@ System.Text;
 
 [49] }
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -2973,8 +2919,7 @@ static void Main()
 
 {
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-50
+
 
 www.estrategiaconcursos.com.br
 X 57
@@ -3025,7 +2970,7 @@ Item. 22. (CESGRANRIO - 2013 - IBGE - Analista De Sistemas) O que ocorre com
 o programa C#,
 apresentado abaixo, quando é compilado e posteriormente executado?
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -3049,7 +2994,6 @@ while {
 a[i] = 1 + (i>0 ? a[i-l] : 0) ;
 1++ r
 
-1
 
 Console.WrlreLine(a[9]);
 
@@ -3089,11 +3033,9 @@ fragmento de código C# atinge esse objetivo?
 
 a) Now.ToStringO;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-52
 
 
-57
+
 
 
 Paolla Ramos e Silva
@@ -3157,11 +3099,9 @@ public void PPO
 
 {
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-53
 
 
-57
+
 
 
 Paolla Ramos e Silva
@@ -3210,8 +3150,7 @@ using System;
 
 namespace TESTE
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-54
+
 
 www.estrategiaconcursos.com.br
 / 57
@@ -3277,7 +3216,7 @@ Item. 14. B
 Item. 5. A 10. E
 Item. 15. B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva

@@ -20,7 +20,7 @@ Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-índice
+Índice
 
 1) Programação Orientada a Objetos - Conceitos Básicos
 
@@ -36,7 +36,7 @@ Paolla Ramos e Silva
 
 7) Lista de Questões - Programação Orientada a Objetos - Conceitos Básicos - Cebraspe
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -84,8 +84,7 @@ somente uma: o princípio da abstração.
 
 Mas vamos começar pela pedra fundamental, classes e objetos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-3
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -141,7 +140,7 @@ de um
 operando: o construtor, que é o nome de um método especial que constrói o objeto.
 Uma vez
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x' 4
+ x' 4
 
 www.estrategiaconcursos.com.br
 / 44
@@ -198,8 +197,7 @@ final String Nome; //Indica que Nome é um atributo constante;
 volatile Salario; //Indica que Salário é modificável por threads distintas;
 static Idade; //Indica que Idade é compartilhada por todos objetos;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-5
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -255,8 +253,7 @@ podendo ser:
 //Indica que esse método não possui corpo
 abstract int soma (int a, int b) {//...//}
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-6
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -307,8 +304,7 @@ construtor padrão com uma lista vazia de parâmetros. Pode-se criar diversos
 construtores para
 uma mesma classe.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-7
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -372,8 +368,7 @@ será considerada uma Classe Abstrata. Aliás, uma Interface é também chamada 
 abstrata
 pura por conta disso, ou seja, não há impurezas (isto é, métodos concretos).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-8
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -451,11 +446,9 @@ private are not inherited by
 
 subdasses o f that dass".
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-9
+
 
 www.estrategiaconcursos.com.br
-44
 
 /
 
@@ -517,8 +510,7 @@ class Classel {
 //Atributo privado
 private String Algo;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-10
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -580,8 +572,7 @@ Professor, o que você quer dizer com mesma assinatura e assinatura diferente?
 É a mesma
 quantidade, tipo e ordem dos parâmetros. Em outras palavras:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-11
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -634,8 +625,7 @@ animal! Que relacionamento é esse "é um"? Herança! Portanto as classes gato e
 serão
 classes filhas da superclasse Animal. Observem abaixo que ambas implementam o método
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-12
+
 
 
 , 44
@@ -680,8 +670,7 @@ Como o compilador saberá qual deve ser chamado? Ele não saberá - tem que ser 
 tempo de
 execução. No primeiro momento, ele apresentará "MIAU!", porque animal é nesse instante um
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-13
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -764,11 +753,9 @@ exemplo,
 herda da categoria Carro (e somente dela, diretamente). Em contraste, a Herança
 Múltipla permite
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-15
+
 
 www.estrategiaconcursos.com.br
-44
 
 /
 
@@ -819,11 +806,9 @@ existentes e comprovadamente funcionais (livres de erros e já testadas) são
 reaproveitadas (ou
 reutilizadas). A sintaxe que expressa o conceito de extensão de classes é a seguinte:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-16
+
 
 1 www.estrategiaconcursos.com.br
-44
 
 
 Paolla Ramos e Silva
@@ -881,8 +866,7 @@ variável pode assumir momentaneamente outro tipo para que o programador possa u
 
 Legal, galera! Vamos ver agora como são cobradas as questões de programação OO em Java!
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-17
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -950,8 +934,7 @@ public class Teste implements FiguraGeometrica
 
 Conforme vimos em aula, utilizamos a palavra-reservada implements. Gabarito: E
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-18
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -1027,8 +1010,7 @@ a) não pode ser referenciada;
 
 b) não pode ser estendida;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-19
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -1088,8 +1070,7 @@ abstract class Carro {...}
 
 //Essa classe não pode ser estendida
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-20
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -1124,8 +1105,7 @@ Galera, se o método é declarado sem modificador dentro de uma interface,
 então ele é
 implicitamente público e evidentemente abstrato. Gabarito: B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-21
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -1182,8 +1162,7 @@ b) nome_Classe nome_Objeto = new nome_Classe();
 
 c) nome_Classe nomejnstancia = new nome_Objeto();
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-22
+
 
 
 , 44
@@ -1255,8 +1234,7 @@ b) abstract.
 
 c) protected.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-23
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -1317,8 +1295,7 @@ return x + y;
 
 public double calcular(double x, double y) {
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'
-24
+ x'
 
 www.estrategiaconcursos.com.br
 / 44
@@ -1394,8 +1371,7 @@ a) Uma subclasse herda os métodos da superclasse, entretanto, pode ter seus
 próprios
 métodos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-25
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -1474,8 +1450,7 @@ d) encapsulamento.
 
 e) polimorfismo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-26
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -1599,11 +1574,9 @@ b) sobrecarga de métodos.
 
 c) polimorfismo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-27
+
 
 1 www.estrategiaconcursos.com.br
-44
 
 /
 
@@ -1699,8 +1672,7 @@ sobrecarga de
 métodos; é algo mais específico, é uma sobrecarga de construtores. Percebe? Dessa
 forma, eu
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-28
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -1772,8 +1744,7 @@ NomeClasse NomeObjeto = new NomeClasseO;
 
 Conforme vimos em aula, trata-se da segunda opção! Gabarito: B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'"'
-29
+ x'"'
 
 www.estrategiaconcursos.com.br
 / 44
@@ -1822,8 +1793,7 @@ static int soma (int a, int b) {//...//}
 //Indica que esse método foi escrito outra linguagem
 native int soma (int a, int b) {//...//}
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-30
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -1882,8 +1852,7 @@ pela classe de origem.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-31
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -1935,8 +1904,7 @@ menos restritivo.
 
 Perfeito, são públicos para toda e qualquer classe. Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-32
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -2011,8 +1979,7 @@ e) métodos declarados como default só podem ser acessados a partir dos método
 própria
 classe.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-33
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -2076,8 +2043,7 @@ d) públicos e finais;
 
 e) privados e abstratos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-34
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -2108,7 +2074,7 @@ Item. 6. B
 
 Item. 7. B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
@@ -2174,8 +2140,7 @@ d) volatile.
 
 e) transient.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-36
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -2233,8 +2198,7 @@ a) No método main da classe Start não é possível instanciar objetos das clas
 NewClassA e
 NewClassB, pois essas classes não contêm um construtor válido.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-37
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -2310,8 +2274,7 @@ b) overload.
 
 c) herança.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-38
+
 
 www.estrategiaconcursos.com.br
 / 44
@@ -2419,7 +2382,7 @@ s = f.calcularSalario();
 
 System.out.println(s);
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -2467,8 +2430,7 @@ d) nomejnstancia nome_Objeto = new nomejnstancia();
 
 e) nomejnstancia nome_Classe = new nomejnstancia();
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-40
+
 
 
 , 44
@@ -2507,7 +2469,7 @@ Item. 11. C
 
 Item. 12. B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,■
@@ -2563,7 +2525,7 @@ Java, os métodos public de uma classe são utilizados pelos clientes
 da classe para
 manipular dados armazenados em objetos dessa classe.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -2572,7 +2534,7 @@ Paolla Ramos e Silva
 
 GABARITo
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 /

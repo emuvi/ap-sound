@@ -20,43 +20,31 @@ Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-índice
+Índice
 
 1) Java EE - JTA - Teoria
-3
 
 2) Java EE - JTA - Questões Comentadas.
-4
 
 3) Java EE - JTA - Lista de Questões.
-6
 
 4) Java EE - JMS - Teoria
-8
 
 5) Java EE - JMS - Questões Comentadas.
-10
 
 6) Java EE - JMS - Lista de Questões.
-12
 
 7) Java EE - EJB - Teoria
-14
 
 8) Java EE - EJB - Questões Comentadas.
-22
 
 9) Java EE - EJB - Lista de Questões
-41
 
 10) Java EE - CDI e Injeção de Dependência - Teoria
-48
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-2
+ x
 
 www.estrategiaconcursos.com.br
-51
 
 /
 
@@ -105,8 +93,7 @@ Driver JDBC. As interfaces mais importantes são User Transaction,
 Transaction Manager,
 Transaction, XA Resource e Xid.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-3
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -168,7 +155,7 @@ Comentários:
 
 Não, essa questão tenta confundir JTA e JMS! Gabarito: E
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x' 4
+ x' 4
 
 www.estrategiaconcursos.com.br
 / 51
@@ -199,8 +186,7 @@ Conforme vimos em aula, ele de fato padroniza o tratamento de transações
 dentro de uma
 Aplicação Java. Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-5
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -230,8 +216,7 @@ Item. 4. (FUMARC - 2011 - BDMG - Analista de Sistemas - III) JTA é uma API que
 padroniza o
 tratamento de transações dentro de uma aplicação Java.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-6
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -255,7 +240,7 @@ Item. 3. E
 
 Item. 4. C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -320,8 +305,7 @@ para receber as mensagens enviadas para essa fila. Há um relacionamento um-para
 (Unicast)
 entre o cliente emissor e o cliente receptor.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-8
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -378,8 +362,7 @@ mensagens. Qualquer aplicação Java EE pode ser um cliente.
 * Mensagem: trata-se dos objetos que comunicam informações entre Clientes JMS - os dados
 em si.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-9
+
 
 
 , 51
@@ -434,8 +417,7 @@ mensagens: ponto-a-ponto e publish/subscribe. No primeiro caso, cada mensagem
 enviada
 para uma fila deve ser recebida por um único consumidor (Unicast). Gabarito: A
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-10
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -498,8 +480,7 @@ integrada
 
 Conforme vimos em aula, a questão está perfeita! Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-11
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -551,11 +532,9 @@ assincronia das mensagens, a arquitetura peer-to-peer e o suporte ao estilo de
 mensageria
 publish-subscribe.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-12
+
 
 www.estrategiaconcursos.com.br
-51
 
 /
 
@@ -574,7 +553,7 @@ Item. 2. E
 
 Item. 3. C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 /
@@ -652,8 +631,7 @@ lógica de
 negócio sob uma única interface - e o EJB é o núcleo da Tecnologia Java
 EE. Bem, esse
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-14
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -722,11 +700,9 @@ EJB. Não precisa implementar nenhuma
 programação ou serviço em nível de sistema, tais como transações ou segurança, pois isso é
 oferecido pelo Container EJB.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-15
+
 
 www.estrategiaconcursos.com.br
-51
 
 /
 
@@ -767,8 +743,7 @@ componentes do Java EE, bem como aplicações de outras linguagens (não Java).
 A Arquitetura EJB será compatível com as plataformas de servidores existentes.
 Fornecedores serão capazes de estender seus produtos para apoiar EJBs.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-16
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -810,8 +785,7 @@ camada Web.
 Chamadas assíncronas a métodos - Uma alternativa simplificada à MDBs para
 chamada assíncrona que pode ser utilizada em cenários menos complexos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-17
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -870,8 +844,7 @@ Um Contêiner EJB provê um ambiente de execução escalável para executar um g
 de MDBs concorrentemente. Eles podem ser Stateless, apenas. Ademais, devem ser
 invocados
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-18
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -937,8 +910,7 @@ simultâneas ou transações. Aqui as variáveis de instância representam o est
 sessão.
 Decorem isso: são objetos que mantém o estado entre as chamadas de métodos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-19
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -1027,8 +999,7 @@ teste unitário. Ademais, se eu faço uma estrutura fracamente acoplada entre cl
 módulos,
 pode-se ganhar em extensibilidade e reusabilidade.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-20
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -1052,8 +1023,7 @@ componentes Java EE, tais como EJB Session Beans e JSF Managed Beans, sejam inje
 e
 interajam de uma maneira fracamente acoplada e flexível, iniciando e observando eventos.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-21
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -1115,11 +1085,9 @@ fácil de acessar e simples de usar.
 
 LOCAL CONTÊINER COMPONENTE
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-22
 
 
-51
+
 
 
 Paolla Ramos e Silva
@@ -1180,8 +1148,7 @@ Conforme vimos em aula, ambos permitem a manipulação de dados que estão em um
 de
 dados. Atualmente, os Entity Beans são opcionais, mas continuam existindo! Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-23
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -1241,8 +1208,7 @@ destinatário.
 
 (d) Conforme vimos em aula, é de forma assíncrona.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'
-24
+ x'
 
 www.estrategiaconcursos.com.br
 / 51
@@ -1301,8 +1267,7 @@ JavaServer Faces (JSF)
 
 EJB Enterprise Beans
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-25
+
 
 
 , 51
@@ -1369,8 +1334,7 @@ a) Transações. Persistência. Ciclo de Vida. Segurança.
 
 b) Transições. Pertinência. Ciclo de Vida. Risco
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-26
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -1439,8 +1403,7 @@ EE. Bem, esse
 componente é executado no Container EJB de um Servidor de Aplicação! Professor, o que
 tem
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-27
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -1501,11 +1464,9 @@ Comentários:
 
 LOCAL CONTÊINER COMPONENTE
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-28
 
 
-51
+
 
 
 Paolla Ramos e Silva
@@ -1560,11 +1521,9 @@ correspondente, e a invocação assíncrona de beans de sessão.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-29
+
 
 www.estrategiaconcursos.com.br
-51
 
 /
 
@@ -1599,8 +1558,7 @@ Embeddable EJB - Possibilidade de executar EJBs no ambiente JavaSE.
 
 Conforme vimos em aula, todos estão perfeitos! Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-30
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -1656,11 +1614,9 @@ controle de concorrência, etc. Vejamos:
 
 LOCAL CONTÊINER COMPONENTE
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-31
 
 
-51
+
 
 
 Paolla Ramos e Silva
@@ -1719,11 +1675,9 @@ Item. 20. (CESPE - 2010 - TRT/21 - Analista de Sistemas) Na implementação de p
 comércio eletrônico construído na plataforma J2EE, a lógica do negócio poderá ser encapsulada
 em EJBs (Enterprise JavaBeans).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-32
+
 
 www.estrategiaconcursos.com.br
-51
 
 /
 
@@ -1781,8 +1735,7 @@ CLIENTE Aplicação Cliente Componentes de Aplicação
 
 Applet Applet
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-33
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -1855,11 +1808,9 @@ Conforme vimos em aula, o item está perfeito! Gabarito: C
 23.(FUNCAB - 2010 - PRODAM-AM - Analista de TI - Desenvolvimento de Sistemas) Sejam as
 seguintes assertivas sobre os tipos de EJB existentes:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-34
+
 
 www.estrategiaconcursos.com.br
-51
 
 /
 
@@ -1922,8 +1873,7 @@ de negócio receber e tratar mensagens de forma assíncrona - geralmente,
 providas pelo JMS.
 Pode-se dizer que eles são executados após o recebimento de uma única mensagem do cliente.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-35
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -1984,8 +1934,7 @@ Conforme vimos em aula, eles fazem parte do Java EE; são extremamente
 reusáveis; e são
 executados em Servidores de Aplicação - como o JBoss. Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-36
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -2045,11 +1994,9 @@ Gabarito: E
 Item. 28. (CESPE - 2008 - SERPRO - Analista - Desenvolvimento de Sistemas) A tecnologia Enterprise
 JavaBeans (EJB) é uma arquitetura de componentes do tipo cliente que atua na plataforma J2EE.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-37
+
 
 www.estrategiaconcursos.com.br
-51
 
 /
 
@@ -2110,11 +2057,9 @@ Enterprise JavaBeans (EJB) é uma arquitetura para aplicações corporativas ori
 transação
 e baseada em componentes. Além de uma arquitetura, eles são também componentes server-side
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-38
 
 
-51
+
 
 
 Paolla Ramos e Silva
@@ -2174,8 +2119,7 @@ o servidor é
 inicializado e oferece serviços como: gerenciamento de ciclo de vida, geração
 de código,
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-39
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -2195,11 +2139,9 @@ Conforme vimos em aula, estão todos corretos - inclusive a remotabilidade, que 
 intrínseco ao
 componente. Gabarito: D
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-40
+
 
 www.estrategiaconcursos.com.br
-51
 
 /
 
@@ -2260,8 +2202,7 @@ e) Os Singleton Session Beans são utilizados na troca de mensagem JMS de forma
 assíncrona
 entre aplicações.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-41
+
 
 www.estrategiaconcursos.com.br
 / 51
@@ -2318,8 +2259,7 @@ Enterprise JavaBeans (EJB), cujos os principais objetivos são fornecer um desen
 rápido e simplificado de aplicações Java baseado em componentes distribuídos, transacionais,
 seguros e portáveis.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'
-42
+ x'
 
 www.estrategiaconcursos.com.br
 / 51
@@ -2372,11 +2312,9 @@ e) Message-Driven Bean
 Item. 18. (CESPE - 2010 - TRE/MT - Analista de Sistemas - B) Em uma aplicação J2EE típica, um EJB é
 criado, controlado e destruído pela aplicação cliente.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-43
+
 
 www.estrategiaconcursos.com.br
-51
 
 /
 
@@ -2434,11 +2372,9 @@ seguintes assertivas sobre os tipos de EJB existentes:
 I Process beans são excelentes opções para a implementação da lógica do negócio, dos
 processos de negócio e dos fluxos de trabalho.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) , <
-44
+ , <
 
 www.estrategiaconcursos.com.br
-51
 
 /
 
@@ -2491,11 +2427,9 @@ deve ser usada para criar, procurar e remover objetos EJB?
 
 a) javax.ejb.EJBLocalObject
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-45
 
 
-51
+
 
 
 Paolla Ramos e Silva
@@ -2536,11 +2470,9 @@ d) Transações, Persistência, Segurança, Remotabilidade.
 
 e) Remotabilidade, gerenciamento de telas, faces server.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-46
+
 
 www.estrategiaconcursos.com.br
-51
 
 /
 
@@ -2585,11 +2517,9 @@ Item. 32. B
 
 Item. 11. C 22. C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) , <
-47
+ , <
 
 www.estrategiaconcursos.com.br
-51
 
 /
 
@@ -2654,8 +2584,7 @@ interfaces e, não, para implementações. Como podemos fazer isso, professor? P
 Injeção
 de Dependências (não confundam, são conceitos independentes!).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-48
+
 
 
 , 51
@@ -2708,8 +2637,7 @@ O que acontece? Passa-se a responsabilidade de criar um objeto para o container 
 funciona
 como o builder), indicando qual interface desejamos que seja implementada. Ele criará a o objeto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'
-49
+ x'
 
 www.estrategiaconcursos.com.br
 / 51
@@ -2775,8 +2703,7 @@ Por exemplo, com CDI fica muito fácil construir uma aplicação web que acesse 
 de dados
 usando como persistência alguma especificação do JPA.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-50
+
 
 
 , 51

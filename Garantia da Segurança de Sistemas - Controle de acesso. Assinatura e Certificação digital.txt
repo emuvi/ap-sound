@@ -1,21 +1,17 @@
 Capítulo. Garantia da Segurança de Sistemas - Controle de acesso. Assinatura e Certificação digital.
 
 
-índice
+Índice
 
 1) Assinatura Digital
-3
 
 2) Certificação Digital
-5
 
 3) ICP - Infraestrutura de Chaves Públicas - PKI (Public Key Infrastructure)
-8
 
 4) Aplicações de Criptografia
-21
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -56,8 +52,7 @@ Item. 3. Tem-se a Assinatura Digital;
 
 Item. 4. Envia-se ao destinatário a Assinatura Digital gerada e a mensagem original;
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-3
+
 
 www.estrategiaconcursos.com.br
 / 25
@@ -113,11 +108,9 @@ também gerará um HASH.
 Em seguida, basta ele comparar o HASH gerado com o HASH recebido. Caso sejam idênticos, assume-
 se que a mensagem é autêntica e íntegra.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-4
 
 
-25
+
 
 
 André Castro
@@ -182,11 +175,9 @@ da chave pública do destinatário ou ainda a utilização de chaves de sessão 
 de chaves
 simétricas.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-5
 
 
-25
+
 
 
 André Castro
@@ -239,7 +230,6 @@ Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação 
 2023 (Pós-Edital) 6
 
 
-25
 
 
 André Castro
@@ -255,11 +245,9 @@ base. Acrescentam-se alguns passos, elementos de validação, como a Autoridade
 Certificadora,
 entre outros, porém, o princípio é o mesmo.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-7
 
 
-25
+
 
 
 André Castro
@@ -344,11 +332,9 @@ Esse tipo de relacionamento é conhecido como Bridge.
 Caso haja mais de duas AC's Raiz que possuem relação de confiança mútua,
 chamamos de modelo Misto.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-9
 
 
-25
+
 
 
 André Castro
@@ -411,11 +397,9 @@ Além disso, avançando para a aba de "caminho de certificação", utilizando o 
 CHROME,
 obtemos a imagem abaixo:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-11
 
 
-25
+
 
 
 André Castro
@@ -455,11 +439,9 @@ Entretanto, temos um modelo em que queremos gerar certificados digitais
 internos a uma
 organização ou para troca entre duas ou mais organizações que confiam entre si mutuamente.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-12
 
 
-25
+
 
 
 André Castro
@@ -507,11 +489,9 @@ Item. 1. Caso o prazo de validade do certificado expire;
 
 Item. 2. Caso o usuário perca a informação de sua chave privada e não haja custódia de um terceiro;
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-13
 
 
-25
+
 
 
 André Castro
@@ -558,11 +538,9 @@ virtual do cidadão.
 Observa-se que o modelo adotado pelo Brasil foi o de certificação com raiz única,
 sendo que o ITI,
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-14
 
 
-25
+
 
 
 André Castro
@@ -621,11 +599,9 @@ o Certificado do Tipo Al e Sl
 ■ É o certificado em que a geração das chaves criptográficas é feita por software
 e seu armazenamento pode ser feito em hardware ou repositório protegido por
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-15
 
 
-25
+
 
 
 André Castro
@@ -681,11 +657,9 @@ que é um
 assunto novo em provas, porém, já tem aparecido nos editais. Apenas destacar que no
 Brasil, como
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-16
 
 
-25
+
 
 
 André Castro
@@ -731,11 +705,9 @@ educação;
 iv. Outros serviços como o sistema social da CAIXA (FGTS), sistema integrado de
 comércio exterior (Siscomex);
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-17
 
 
-25
+
 
 
 André Castro
@@ -831,11 +803,9 @@ Nesse sentido, a ideia é gerar um único certificado que suporte outros domíni
 
 * Entre outros....
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-19
 
 
-25
+
 
 
 André Castro
@@ -874,7 +844,6 @@ Criticai NO
 
 Key ID 28 C4 EB 8F F1 5F 79 90 A3 28 55 C3 56 4E 70 6B 53 72 2C
 
-18
 
 Extension 5ubject Alternative Name ( 2.5.29.17)
 
@@ -924,7 +893,7 @@ URI http: / / EV5 5 L - ocs p. q eotru st. com
 
 Hide Certificate 0K
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -1033,11 +1002,9 @@ quantidade de bitcoins para ser distribuída entre os mineradores. O regime decr
 apresenta
 um cenário em que a quantidade de bitcoins geradas a cada 10 minutos então vai reduzindo, até
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-22
 
 
-25
+
 
 
 André Castro
@@ -1095,11 +1062,9 @@ Nessa mesma linha de raciocínio é que surge o conceito de ALTCOINS. Simplesmen
 outras
 criptomoedas ou soluções baseadas em blockchain com seus modelos próprios e aplicações
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-23
 
 
-25
+
 
 
 André Castro
@@ -1109,7 +1074,7 @@ específicas. Com pesquisas simples na Internet é possível identificar uma inf
 ALTCOINS já
 disponíveis no mercado.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

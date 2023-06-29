@@ -21,7 +21,7 @@ Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-índice
+Índice
 
 1) Engenharia de Requisitos
 
@@ -49,7 +49,7 @@ Diego Carvalho
 
 13) Débito Técnico
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 APRESENTAçÃo
@@ -78,7 +78,7 @@ tempo sobrando e quer ver tudo, vejam também as incidências baixas e baixíssi
 Além disso, essas faixas não são por banca - é baseado tanto na quantidade de vezes que caiu em
 prova independentemente da banca e também em minhas avaliações sobre cada assunto...
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -125,13 +125,11 @@ final da aula na lista de exercícios e possuem comentários bem mais
 completos, abrangentes e direcionados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 I
 
 
-4
 
-188
 
 
 Conceitos Básicos
@@ -187,7 +185,7 @@ Na verdade, no momento da matrícula de uma determinada matéria, é possível v
 quais são
 os pré-requisitos exigidos para fazê-la. Querem outro exemplo? Vamos para a área jurídica! Algum
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 de vocês quer mudar o Brasil e decide se candidatar à Presidente da República! No entanto, não
@@ -215,12 +213,10 @@ alcançar um
 objetivo, ou a qualidade do sistema que deve ser provida para ser útil a seus usuários.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-6
 
-188
+
 
 
 Classificação de Requisitos
@@ -289,7 +285,7 @@ c) apenas funcionais; funcionais e não funcionais.
 
 d) funcionais e não funcionais; apenas não funcionais.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 e) funcionais e não funcionais; funcionais e não funcionais.
@@ -335,12 +331,10 @@ nos requisitos de usuário.
 Comentários: requisitos de usuário e de sistema podem ser funcionais ou não-funcionais (Correto).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-8
 
-188
+
 
 
 Classificação quanto à qualidade
@@ -415,7 +409,7 @@ Imaginem que o programador implementou o cadastro dos livros, implementou um fil
 para que
 você possa buscá-los com diversos parâmetros diferentes, implementou também o relatório dos
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -451,12 +445,10 @@ e) normais, esperados e fascinantes.
 Comentários: trata-se dos requisitos normais, esperados e fascinantes (Letra E).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-10
 
-188
+
 
 
 Classificação quanto à evolução
@@ -523,7 +515,7 @@ processo,
 componente ou elemento. Conforme outros elementos mudam, esses requisitos também
 mudam. Esses são requisitos menos comuns, mas que também ocorrem.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -579,12 +571,10 @@ operação.
 Comentários: a questão trata dos requisitos voláteis (Errado).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-12
 
-188
+
 
 
 Diego Carvalho
@@ -661,12 +651,10 @@ devem ser
 verificáveis. Eles fazem parte da arquitetura técnica de um sistema.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-13
 
-188
+
 
 
 REQUISITOS NÃO-FUNCIONAIS
@@ -737,7 +725,7 @@ segundo a fórmula (1.74^+3.17^ + 2-5gN₃)/3 * IRA (Aluno).
 Público NTN-B
 multiplicado pelo valor da Taxa SELIC do mês corrente.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 ■ Pensemos em um Requisito da NASA: Sistema deverá funcionar em uma Câmera 4K captando
@@ -793,7 +781,7 @@ Item. 8. Ao clicar em uma opção para gerar o boletim do aluno, deve ser aprese
 solicitante uma tabela com todas as disciplinas que o aluno cursou, bem como as notas
 das provas e o número total de faltas em cada disciplina.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -849,12 +837,10 @@ b) 1, 6, 8,10,11,13,14,17,18 e 19.
 c) 1, 6, 7, 8,10,11,13,15 e 21.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-16
 
-188
+
 
 
 Diego Carvalho
@@ -924,12 +910,10 @@ resposta, utilização de volumetria estática, escalabilidade, disponibilidade,
 usabilidade (Errado).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-17
 
-188
+
 
 
 Classificação quanto à origem
@@ -1004,7 +988,7 @@ O sistema não deve permitirque os usuários modifiquem senhas de acesso que ele
 
 O sistema deverá ser capaz de processar oitocentas requisições por segundo.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 (MPE/MA - 2013) O escopo de um projeto é determinado pelo levantamento de
@@ -1026,12 +1010,10 @@ implementação (ou desenvolvimento)
 (Letra B).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-19
 
-188
+
 
 
 Engenharia de Requisitos
@@ -1102,7 +1084,7 @@ Por essa razão, nós temos a disciplina de engenharia de requisitos: para que e
 oriente sobre
 como formular, elicitar, analisar, documentar, manutenir e gerir os requisitos de um sistema de
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 software. Quem já trabalhou com isso sabe que às vezes o usuário pede uma coisa, mas
@@ -1167,7 +1149,7 @@ não-ambígua, para validar a especificação e para gerenciar os requisitos à 
 eles são
 transformados em um sistema operacionalizável.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1223,12 +1205,10 @@ requisitos, pode ser um
 documento escrito, um modelo gráfico, cenários de uso, protótipos, etc. Trata-se da
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-22
 
-188
+
 
 
 apresentação formal dos dados obtidos até o momento de modo que possa guiar
@@ -1296,7 +1276,7 @@ aluno no fórum de dúvidas por usar o Vasco como exemplo - Vascaínos, peço qu
 se sintam
 ofendidos. Mnemónicos devem ser absurdos mesmo para ajudar na memorização, ok?
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Onefootball
@@ -1334,7 +1314,7 @@ o resultado da Especificação de Requisitos são os Requisitos de Usuário e de
 da
 Validação de Requisitos é o famoso Documento de Requisitos.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1351,12 +1331,10 @@ nós
 acabamos de ver. Vem comigo...
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-25
 
-188
+
 
 
 Diego Carvalho
@@ -1428,7 +1406,7 @@ Item. 1. Se o sistema não fosse implementado, qual seria o rumo da organizaçã
 
 Item. 2. Quais são as falhas dos processos atuais e quais soluções o novo sistema traria?
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1478,12 +1456,10 @@ estudo de viabilidade
 (Letra A).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-27
 
-188
+
 
 
 Elicitação e Análise de Requisitos
@@ -1552,7 +1528,7 @@ Não acabou! Aí o cliente acaba pagando muito mais caro do que devia, o projeto
 é bem
 documentado, a assistência técnica instala errado, não há suporte, demora mais que o programado
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 e, no fim, já estamos em outra estação do ano quando o sistema é entregue. Observem
@@ -1590,7 +1566,7 @@ d. Documentação de requisitos: os requisitos são documentados e colocados na 
 volta da
 espiral. Podem ser produzidos documentos de requisitos formais ou informais.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Em suma: (1) Obtenção/Descoberta de Requisitos - atividade de interação com
@@ -1663,7 +1639,7 @@ software,
 
 utilizam-se as seguintes técnicas (as sublinhadas são as que caem mais em prova):
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1737,12 +1713,10 @@ os quais as
 pessoas estão realmente envolvidas. As pessoas frequentemente consideram muito difícil
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-31
 
-188
+
 
 
 Diego Carvalho
@@ -1817,12 +1791,10 @@ informante responde.
 Item. 5. Workshop de Requisitos
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-32
 
-188
+
 
 
 Diego Carvalho
@@ -1899,14 +1871,11 @@ de
 decisões por meio de diversos tipos de dinâmicas de grupo, técnicas visuais, processos racionais e
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-1
 
 
-33
 
-188
+
+
 
 
 Diego Carvalho
@@ -1982,12 +1951,10 @@ pelos stakeholders.
 Item. 11. Histórias de Usuários
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-34
 
-188
+
 
 
 Introduzida inicialmente pela Metodologia XP (Extreme Programming'), nada mais é do que
@@ -2055,7 +2022,7 @@ longo do caminho, haverá discussões sobre quem é responsável por o quê. O A
 Sistemas
 interpreta o papel do usuário, o que o ajuda a obter um discernimento real do domínio do problema.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 15. Grupo Focal
@@ -2107,14 +2074,14 @@ do contexto em que são mais utilizadas (Ex: Histórias de Usuário, no contexto
 XP; Casos de Uso,
 no contexto de UML; entre outros). Fechou? V
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2191,12 +2158,10 @@ gráfico (Ex: Diagramas), um modelo matemático formal (Ex: Autômatos),
 cenários de casos de uso (em geral, para sistemas menores).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-38
 
-188
+
 
 
 Diego Carvalho
@@ -2245,12 +2210,10 @@ especificação de requisitos é um
 documento que apresenta mais detalhes (Correto).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-39
 
-188
+
 
 
 Diego Carvalho
@@ -2327,12 +2290,10 @@ em termos
 de completeza.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-40
 
-188
+
 
 
 Conflitos, contradições, erros e omissões nos requisitos devem ser apontados e
@@ -2411,7 +2372,7 @@ disponibiliza um conjunto de casos de teste e monitora os resultados obtidos
 de cada revisor.
 Interessante, não?
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 De acordo com Stephen R. Schach, de forma superficial, a diferença entre uma inspeção
@@ -2482,12 +2443,10 @@ conforme
 eu disse, é comum que as provas tratem ambos simplesmente como Validação de Requisitos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-42
 
-188
+
 
 
 Durante o processo de validação de requisitos, devem ser realizadas verificações nos
@@ -2550,7 +2509,7 @@ existem diversas técnicas que podem ser utilizadas isoladamente ou em
 conjunto.
 Fechado? Então vamos para a nossa última fase...
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2624,12 +2583,10 @@ propuseram os requisitos e aos motivos desses requisitos. Quando uma mudança é
 usam-se essas informações para consultar os stakeholders sobre a mudança.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-44
 
-188
+
 
 
 ■ Informações de rastreabilidade de requisitos: ligam os requisitos dependentes
@@ -2665,12 +2622,10 @@ podem
 comemorar que agora é só exercício;)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-45
 
-188
+
 
 
 Diego Carvalho
@@ -2749,12 +2704,10 @@ sistema. Grosso modo, pode-se dizerque eles tratam de o que o sistema deve fazer
 enquanto os requisitos não-funcionais tratam de como o sistema deve fazer.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-46
 
-188
+
 
 
 Diego Carvalho
@@ -2844,12 +2797,10 @@ confidencial
 de outrem.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-47
 
-188
+
 
 
 ÉTICOS
@@ -2927,7 +2878,7 @@ GESTÃO conjunto de atividades que auxiliam a equipe de projeto a identificar,
 controlar e rastrear
 requisitos e mudanças nos requisitos a qualquer momento . Para projetos de grande porte, é
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2979,12 +2930,10 @@ FASES DE ACORDO COM ROGER PRESSMAN
 ENAS AMENTÁVEIS M OVO MPATEDO ASCO DA AMA
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-49
 
-188
+
 
 
 ONCEPÇÃO> EVANTAMENTO > LABORAÇÃO > EGOCIAÇÃO > SPECIFICAÇÃO > ALIDAÇÃO > ESTÃO
@@ -3055,12 +3004,10 @@ atividades de
 logística e promoção de momentos de descontração, como forma de dinamizar o trabalho em
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-50
 
-188
+
 
 
 Diego Carvalho
@@ -3124,12 +3071,10 @@ caber em um post-it. Um padrão seria: "Como um <papel>, eu quero <meta> de modo
 ® PARA MAIS DICAS: WWW.INSTA6RAM.COM/PROFESSORDIEGOCARVALHO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-51
 
-188
+
 
 
 Diego Carvalho
@@ -3194,12 +3139,10 @@ composta de
 vários tipos de documentos e não raro abrange: visão geral; glossário; modelos do sistema; lista
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-52
 
-188
+
 
 
 de requisitos funcionais e lista de requisitos não funcionais; especificação
@@ -3267,12 +3210,10 @@ técnica
 da etnografia para o levantamento de requisitos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-53
 
-188
+
 
 
 Diego Carvalho
@@ -3340,12 +3281,10 @@ experiências existentes.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-54
 
-188
+
 
 
 A arqueologia é uma ótima ferramenta para modernizar sistemas legados, pois ajuda a
@@ -3411,7 +3350,7 @@ que sejam adequados para a interface de usuário.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 i3-(CESPE / BNB - 2022) Um dos critérios de boa qualidade para uma história de
@@ -3481,14 +3420,11 @@ particular, de uma especificação tem a propriedade de ser imutável.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-1
 
 
-56
 
-188
+
+
 
 
 Questão polêmica! O gabarito definitivo foi correto, mas eu acho quase
@@ -3545,7 +3481,7 @@ se ele fornece os recursos que os usuários precisam.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Não, a usabilidade é um atributo de qualidade que avalia quão fácil uma interface é de usar.
@@ -3601,12 +3537,10 @@ Comentários:
 O produto final da engenharia de requisitos é a documento de requisitos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-58
 
-188
+
 
 
 Diego Carvalho
@@ -3669,12 +3603,10 @@ completa. Vejam, portanto, que a questão não se trata da definição das hist�
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-59
 
-188
+
 
 
 27.(CESPE / Petrobrás - 2022) Os critérios de aceitação descrevem um conjunto
@@ -3738,12 +3670,10 @@ prevista,
 independentemente das interferências de seu contexto.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-60
 
-188
+
 
 
 d) na descoberta de requisitos derivados do conhecimento das atividades de outras
@@ -3809,12 +3739,10 @@ documento de requisitos de sistema.
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-61
 
-188
+
 
 
 33-(CESPE / TCE-RJ - 2021) O gerenciamento de requisitos trata do
@@ -3875,7 +3803,7 @@ A fase da Engenharia de Requisitos é de extrema importância no desenvolvimento
 software.
 Erros nesse estágio podem ocasionar grandes problemas nas etapas posteriores do projeto e na
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 implementação do sistema. Dessa forma, é um erro afirmar que é sempre possível
@@ -3936,7 +3864,7 @@ de prova recente sobre isso! Logo, o impacto orçamentário é considerado.
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 4O.(CESPE / TJ-AM - 2019) Na gerência de requisitos, as mudanças no documento de
@@ -3995,7 +3923,7 @@ A interoperabilidade é evidentemente um requisito não-funcional, uma vez que
 trata de uma
 restrição de uma funcionalidade.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4059,12 +3987,10 @@ software.
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-65
 
-188
+
 
 
 47-(CESPE / ABIN - 2018) Ao se aplicar a rastreabilidade bidirecional, é possível
@@ -4129,12 +4055,10 @@ sem a participação do cliente.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-66
 
-188
+
 
 
 Na verdade, é obrigatória e fundamental a participação do cliente na especificação de requisitos.
@@ -4193,7 +4117,7 @@ orçamentárias - os requisitos externos são regulatórios, éticos ou legais.
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 54-(CESPE / IPHAN - 2018) Tanto a etnografia quanto o protótipo podem ser
@@ -4253,7 +4177,7 @@ referindo à técnica de etnografia e, não, entrevista.
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 57- (CESPE / IPHAN - 2018) Situação hipotética: Na metodologia de desenvolvimento de
@@ -4324,12 +4248,10 @@ requisitos funcionais elencados.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-69
 
-188
+
 
 
 Questão simples! A análise de requisitos realmente permite identificaras necessidades dos
@@ -4392,7 +4314,7 @@ Eduardo Vazquez e Guilherme Siqueira. Segue o trecho: "A Engenharia de Requisito
 facilita a
 interação com 0 cliente em termos de identificar e entender suas necessidades e na obtenção de um
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4450,12 +4372,10 @@ e) regras de negócio.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-71
 
-188
+
 
 
 Requisitos Não-
@@ -4529,12 +4449,10 @@ construção de um software, compete aos desenvolvedores organizaras necessidade
 de prioridade.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-72
 
-188
+
 
 
 Diego Carvalho
@@ -4600,12 +4518,10 @@ informações de
 rastreabilidade.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-73
 
-188
+
 
 
 Diego Carvalho
@@ -4673,12 +4589,10 @@ definição
 de requisitos funcionais? Também! O que a questão quer dizer é que, ao levantar e especificar os
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-74
 
-188
+
 
 
 requisitos funcionais, pode-se acabar percebendo a necessidade de se estabelecer novos
@@ -4740,12 +4654,10 @@ Casos de Teste.
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-75
 
-188
+
 
 
 Diego Carvalho
@@ -4834,12 +4746,10 @@ funcionais.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-76
 
-188
+
 
 
 Requisitos Não-
@@ -4921,7 +4831,7 @@ determinado projeto, o software desenvolvido funcione no sistema operacional Lin
 vez
 que essa exigência está diretamente ligada ao software.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4989,12 +4899,10 @@ atendida por um software na forma de aspectos funcionais e não funcionais.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-78
 
-188
+
 
 
 Trata-se de uma boa definição de requisitos. Ele realmente é uma condição,
@@ -5054,12 +4962,10 @@ muito eficaz na elicitação.
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-79
 
-188
+
 
 
 Item. 87. (CESPE/ EBC-2011) Uma das principais técnicas de verificação é a prototipação. Um
@@ -5123,12 +5029,10 @@ usuário quanto às atividades definidas.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-80
 
-188
+
 
 
 Vamos por partes: de fato, são atividades da análise de software (eu disse análise de
@@ -5184,7 +5088,7 @@ por estarem fora do sistema, ou seja, do domínio do negócio.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Requisitos Não-
@@ -5265,12 +5169,10 @@ primeira
 versão do protótipo?Também não faz sentido!
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-82
 
-188
+
 
 
 Diego Carvalho
@@ -5334,12 +5236,10 @@ tais requisitos. Logo, questão perfeita!
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-83
 
-188
+
 
 
 Item. 99. (CESPE / TCU - 2010) Por se tratar de função essencial da engenharia de requisitos, a
@@ -5404,7 +5304,7 @@ concurseiro (adquirida quando se faz várias questões e provas) para saber quan
 é o foco da
 questão e quando não é! Nesse caso, não era o foco da questão.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -5472,12 +5372,10 @@ que
 permitam uma visualização do software e reduzam a ansiedade do cliente em ver algo pronto.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-85
 
-188
+
 
 
 Diego Carvalho
@@ -5543,12 +5441,10 @@ como certa!
 Outra parte que gera alguma dúvida é dizerque é correta a utilização de diagramas da UML! Alguns
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-86
 
-188
+
 
 
 afirmam que não faz sentido o uso de Diagramas de Classes na validação de requisitos.
@@ -5613,7 +5509,7 @@ avaliar a exequibilidade. Uma redação correta seria: A engenharia de requisito
 mecanismos
 que permitem entender e analisar a necessidade do cliente, avaliar a exequibilidade, negociar uma
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 solução razoável e especificá-la de maneira não-ambígua, validar a especificação e
@@ -5677,12 +5573,10 @@ outros
 elementos do sistema e no estabelecimento de restrições que o software deve satisfazer.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-88
 
-188
+
 
 
 Diego Carvalho
@@ -5724,12 +5618,10 @@ casos de uso
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-89
 
-188
+
 
 
 Diego Carvalho
@@ -5792,7 +5684,7 @@ Item. 1. Registrar avaliação de colaborador por parlamentar: O sistema deve pe
 parlamentar,
 em uma única tela, a avaliação de todos os seus colaboradores.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 2. Considerar Aspectos Legais: O sistema deve seguir orientações elencadas na
@@ -5858,12 +5750,10 @@ com perguntas mais específicas, sendo geralmente utilizada com usuários que de
 assunto.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-91
 
-188
+
 
 
 c) funil, na qual procura-se manter o usuário interessado no assunto e para isto
@@ -5924,12 +5814,10 @@ dados sem capacidade de recuperação.
 Contêm um requisito funcional e um requisito não funcional, respectivamente, APENAS os itens
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-92
 
-188
+
 
 
 Diego Carvalho
@@ -6000,7 +5888,7 @@ Item. 6. Validar o CPF do requerente.
 
 Item. 7. Restaurar os dados automaticamente após falhas não programadas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 8. Solicitar o nome do requerente.
@@ -6038,12 +5926,10 @@ priorização de
 requisitos que facilita a criação de casos de uso.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-94
 
-188
+
 
 
 c) Questionnaire For Diagram, uma lista de perguntas que ajudam a entender
@@ -6104,12 +5990,10 @@ Errado, permitir
 a impressão de dados é um RF.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-95
 
-188
+
 
 
 Diego Carvalho
@@ -6166,7 +6050,7 @@ Item. 9. (FCC / SEMEF-AM - 2019) Considerando que a Fazenda Municipal emprega o
 gerenciamento
 de requisitos, ganha importância o cuidado com os chamados requisitos voláteis, dentre os
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 quais fazem parte os requisitos que surgem à medida que o cliente vai
@@ -6239,12 +6123,10 @@ ELABORAÇÃO
 NEGOCIAÇÃO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-97
 
-188
+
 
 
 ESPECIFICAÇÃO
@@ -6325,12 +6207,10 @@ de cada requisito está claramente identificada; (d) Errado, examina se os requi
 descritos
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-98
 
-188
+
 
 
 Diego Carvalho
@@ -6403,12 +6283,10 @@ foco, a as
 técnicas que mais "simulam" a realidade são: cenários e protótipos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-99
 
-188
+
 
 
 Diego Carvalho
@@ -6475,7 +6353,7 @@ d) Joint Application Design (ou Development) - JAD e Etnografia.
 
 e) Prototipação e Sprint.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6540,7 +6418,7 @@ Defensoria elencou a lista de requisitos para um novo sistema:
 cidadãos,
 além do número do processo, em respeito à legislação de privacidade.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6604,12 +6482,10 @@ suas necessidades.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-102
 
-188
+
 
 
 Perfeito! O protótipo operacional realmente serve para aprimorar o entendimento
@@ -6673,12 +6549,10 @@ garantir que todos os requisitos do software tenham sido declarados de modo não
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-103
 
-188
+
 
 
 23- (FCC / TST- 2012) Na Engenharia de Requisitos, o gerente de requisitos:
@@ -6740,12 +6614,10 @@ funcionais e/ou não-funcionais.
 Está correto o que se afirma em:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-104
 
-188
+
 
 
 Diego Carvalho
@@ -6811,7 +6683,7 @@ III. Clientes têm filiais que devem "carregar", na base de dados, o
 identificador do cliente
 principal.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 IV. O sistema não deve ferir as leis de proteção ambiental.
@@ -6871,12 +6743,10 @@ Errado. Não são as
 necessidades da Equipe de Desenvolvimento, mas dos usuários; (c) Correto. É exatamente isso; (d)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-106
 
-188
+
 
 
 Errado. Estão invertidos, custo e confiabilidade são RNF e Casos de Uso são RF; (e)
@@ -6942,12 +6812,10 @@ entendimento e o
 entendimento do cliente sobre o problema coincidam.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-107
 
-188
+
 
 
 b) refina e modifica os requisitos. É uma ação de modelagem de análise composta de
@@ -7007,12 +6875,10 @@ envolvidos.
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-108
 
-188
+
 
 
 Item. 32. (FCC / INFRAERO - 2011) Os produtos de trabalho resultantes da engenharia de
@@ -7080,12 +6946,10 @@ atenta, portanto, à:
 a) rastreabilidade.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-109
 
-188
+
 
 
 Diego Carvalho
@@ -7158,7 +7022,7 @@ d) iteração de processo.
 
 e) etnografia.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -7223,7 +7087,7 @@ I. O sistema deve fornecer uma entrada de dados que possibilite a inclusão de
 atributos de
 permissão de acesso às dependências da corporação por técnicos, supervisores e chefes.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 II. Algumas permissões de acesso deverão ter tratamento especial para a entrada de
@@ -7281,12 +7145,10 @@ a) uma fase do processo de software aplicada no modelo em cascata.
 b) uma fase do processo de software aplicada no modelo em espiral.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-112
 
-188
+
 
 
 c) uma técnica de observação que pode ser usada para compreender os requisitos
@@ -7353,12 +7215,10 @@ usando
 código aberto. Necessito, ainda, forte gerenciamento de risco, prazo e custo, porque a entrega do
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-113
 
-188
+
 
 
 produto final não pode ultrapassar o prazo de oito meses a contar da data de início
@@ -7417,12 +7277,10 @@ Requisitos Funcionais!
 Gabarito: Letra A
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-114
 
-188
+
 
 
 Item. 41. (FCC /TRT3 -2009) Com relação aos requisitos de software, considere:
@@ -7484,12 +7342,10 @@ b) workshop, etnografia e estresse.
 c) etnografia, questionários e validação.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-115
 
-188
+
 
 
 Diego Carvalho
@@ -7534,7 +7390,7 @@ requisitos - assim como a prototipação e a geração de casos de teste.
 
 Gabarito: Letra E
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 QUESTõES CoMENTADAS - FCV
@@ -7592,7 +7448,7 @@ e) funcional de desenvolvimento.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Padronização estética claramente não são requisitos funcionais, logo se trata de um
@@ -7640,7 +7496,7 @@ equipe de desenvolvimento uma funcionalidade capaz de emitir relatórios com
 cabeçalhos
 padronizados. Assim, os cabeçalhos devem ter cor de fundo, paleta de cores e tipografia,
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -7716,12 +7572,10 @@ proteger senhas de
 usuários.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-119
 
-188
+
 
 
 * Salt é é uma string aleatória de dados adicionada à entrada de uma função hash
@@ -7791,12 +7645,10 @@ b) tridimensional;
 c) prototipação rápida;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-120
 
-188
+
 
 
 Diego Carvalho
@@ -7865,12 +7717,10 @@ como manutenibilidade, usabilidade, desempenho, custos e várias outras.
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-121
 
-188
+
 
 
 Diego Carvalho
@@ -7941,12 +7791,10 @@ d) funcionais.
 e) de usuário.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-122
 
-188
+
 
 
 Diego Carvalho
@@ -8003,12 +7851,10 @@ e) gerenciamento.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-123
 
-188
+
 
 
 Pessoal, questão complicada! Essas fases não existem exatamente dessa maneira em nenhuma
@@ -8022,7 +7868,7 @@ de eu não concordar); por fim, gerenciamento percorre de fato todas essas fases
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -8090,7 +7936,7 @@ entre um livro e outro), mas dá para responder por bom senso. A etapa
 do processo de
 desenvolvimento de requisitos de software mais comumente costuma acontecer a identificação de
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 gaps nos requisitos ou a identificação de requisitos desnecessários é a Análise de
@@ -8156,12 +8002,10 @@ completeza.
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-126
 
-188
+
 
 
 5- (VUNESP/ EBSERH -2020) Na engenharia de requisitos, um fator importante são os
@@ -8227,12 +8071,10 @@ Marque a opção que corresponde somente às afirmativas verdadeiras.
 a) Apenas I, III e IV.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-127
 
-188
+
 
 
 Diego Carvalho
@@ -8305,7 +8147,7 @@ b) a documentação dos requisitos
 
 c) a revisão dos requisitos funcionais e não-funcionais
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 d) os estudos de viabilidade técnica/financeira
@@ -8375,12 +8217,10 @@ a) organizacionais.
 b) de produto.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-129
 
-188
+
 
 
 Diego Carvalho
@@ -8453,7 +8293,7 @@ e) Casos de uso.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 A palavra-chave pra essa questão é "predefinido". Se é um conjunto de
@@ -8517,12 +8357,10 @@ consistência.
 Gabarito: Letra A
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-131
 
-188
+
 
 
 iZj.(UFG / SANEAGO - 2017) Com relação à qualidade de software, é um exemplo de
@@ -8585,12 +8423,10 @@ d) risco e identificador.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-132
 
-188
+
 
 
 Diego Carvalho
@@ -8663,12 +8499,10 @@ de portabilidade
 da arquitetura realmente são não-funcionais.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-133
 
-188
+
 
 
 Diego Carvalho
@@ -8733,7 +8567,7 @@ steakholders; (b) Errada. A adaptação e configuração do sistema são uma coi
 em parte
 utiliza as especificidades do sistema e se baseia nos requisitos colhidos do sistema, contudo isso
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 não é objetivo da engenharia de requisitos; (c) Correta. Custo e Tempo são uma das
@@ -8799,12 +8633,10 @@ benefícios
 diretos e influenciam diretamente o projeto, já as Partes Interessadas consideram mesmo aqueles
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-135
 
-188
+
 
 
 que não tem qualquer influência sobre o projeto, mas mesmo de
@@ -8862,12 +8694,10 @@ análise de
 resultados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-136
 
-188
+
 
 
 e) reconhecimento do problema, modelagem, especificação de entidades,
@@ -8914,12 +8744,10 @@ Perfeito! A partir da especificação de requisitos que se avalia a qualidade.
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-137
 
-188
+
 
 
 LISTA DE QUESTõES - CESPE
@@ -8987,7 +8815,7 @@ Item. 11. (CESPE / MPC-SC - 2022) A etnografia é o processo de elicitação por
 o analista de
 requisitos realiza uma imersão no ambiente de trabalho em que o sistema será utilizado para
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 tornar compreensíveis os processos operacionais e auxiliar na extração dos requisitos de
@@ -9053,7 +8881,7 @@ Item. 23. (CESPE / FUNPRESP-EXE - 2022) O protótipo de interface do usuário é
 final da
 técnica de prototipação da engenharia de requisitos.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 24. (CESPE / FUNPRESP-EXE - 2022) Brainstorming é uma técnica utilizada para o
@@ -9121,7 +8949,7 @@ d) diagrama de classes e histórias de usuário.
 
 e) modelagem com cartões CRC e casos de uso.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -9192,12 +9020,10 @@ que esteja em
 desenvolvimento e outros sistemas existentes é considerada um requisito funcional.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-141
 
-188
+
 
 
 44-(CESPE/STM-2oI8) Requisitos de domínio são relativos ao que o sistema deve fornecer,
@@ -9269,14 +9095,11 @@ validação e elicitação de requisitos, contudo a aplicação de um elimina a 
 outro no mesmo cenário, pois se tratam de técnicas excludentes.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-1
 
 
-142
 
-188
+
+
 
 
 55- (CESPE / IPHAN - 2018) A validação de requisitos se sobrepõe à análise de
@@ -9347,7 +9170,7 @@ técnicas, orientações, responsabilidades e papéis em fluxos de trabalho.
 interfaces
 externas do software.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 64-(CESPE / TRE-PE - 2017) No contexto da análise de requisitos, confiabilidade e usa b i I ida d e
@@ -9407,7 +9230,7 @@ de um workshop de requisitos, em que seja determinado um facilitador, mesmo que 
 grande
 experiência com os processos de gerenciamento de requisitos.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 ji.(CESPE / MPOG-ATI - 2015) Os requisitos não funcionais a serem especificados
@@ -9473,12 +9296,10 @@ de
 software, o termo requisito pode ser definido da seguinte forma: uma condição, característica
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-145
 
-188
+
 
 
 ou capacidade, determinada no universo das necessidades do negócio do usuário, que deve
@@ -9544,7 +9365,7 @@ deve
 fornecer, como o sistema deve reagir a entradas específicas e como deve comportar-se em
 diversas situações.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 93.(CESPE / MPU - 2010) Os requisitos normativos, geralmente oriundos da análise das
@@ -9616,7 +9437,7 @@ requisitos de sistemas de software na qual, por meio de observações, procura-s
 compreender
 os requisitos sociais e organizacionais do ambiente onde o sistema será usado.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 103- (CESPE / IPEA-2009) A política organizacional para o planejamento e execução do
@@ -9689,7 +9510,7 @@ razoável e especificá-la de maneira não-ambígua, validar a especificação e
 administrar os
 requisitos.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 112. (CESPE / Prefeitura de Boa Vista - 2004) Requisitos adequadamente definidos
@@ -9721,7 +9542,7 @@ pode criar um conjunto de cenários, ou seja, casos de uso, que identificam uma 
 de uso para
 o sistema a ser construído.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -9845,14 +9666,14 @@ Item. 38. CORRETO 78. CORRETO
 
 Item. 40. ERRADO 80. ERRADO
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - FCC
@@ -9912,7 +9733,7 @@ Item. 5. Impedir acesso direto ao processo XPTO: O sistema deverá mostrar ao us
 existem
 formulários de avaliação a serem respondidos e dará a opção de respondê-los depois.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Adotando RFU para requisitos funcionais e RNF para não-funcionais, a classificação
@@ -9973,7 +9794,7 @@ IV. cada Diretor que usa o sistema deve ser identificado apenas por sua matrícu
 cinco dígitos
 seguidos do código de segurança.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 V. o sistema deverá gravar um log de autenticação a cada transação completada, contendo a
@@ -10035,12 +9856,10 @@ e) apenas 2, 6 e 7 são não funcionais.
 Item. 6. (FCC / SAMASA Campinas - 2019) O diagrama faz referência à QFD -
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-154
 
-188
+
 
 
 a) Quality Function Deployment, uma técnica da gestão de qualidade
@@ -10079,12 +9898,10 @@ a) a resposta a uma consulta de dados deveria durar no máximo dois segundos par
 seu trabalho.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-155
 
-188
+
 
 
 b) o sistema deveria permitir a alteração de dados incluídos de forma equivocada.
@@ -10141,7 +9958,7 @@ Item. 9. (FCC / SEMEF-AM - 2019) Considerando que a Fazenda Municipal emprega o
 gerenciamento
 de requisitos, ganha importância o cuidado com os chamados requisitos voláteis, dentre os
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 quais fazem parte os requisitos que surgem à medida que o cliente vai
@@ -10212,7 +10029,7 @@ a) definir o mapeamento entre os requisitos de projeto e os usuários do sistema
 
 b) listar os compiladores utilizados no desenvolvimento de cada módulo de software.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 c) determinar o mapeamento entre os requisitos de projeto e os locais onde o sistema
@@ -10282,7 +10099,7 @@ b) Product Owner e Brainstorming.
 
 c) Overview e Use Cases.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 d) Joint Application Design (ou Development) - JAD e Etnografia.
@@ -10349,7 +10166,7 @@ organizacionais, que podem ser divididos em:
 
 a) reguladores e éticos.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 b) ambientais, operacionais e de desenvolvimento.
@@ -10415,7 +10232,7 @@ desenvolvimento ou utilização de padrões, são requisitos de funcionamento do
 sistema ou
 requisitos funcionais.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 III. Requisitos que vem do domínio da aplicação do sistema e refletem
@@ -10482,12 +10299,10 @@ d) I, III e IV, apenas.
 e) I, II, III e IV.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-161
 
-188
+
 
 
 T]. (FCC / TST - 2012) Na Engenharia de Requisitos, o gerente de requisitos:
@@ -10553,7 +10368,7 @@ b) refina e modifica os requisitos. É uma ação de modelagem de análise compo
 várias
 tarefas de modelagem e refinamento.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 c) define quais são as prioridades, o que é essencial, o que é necessário. Clientes,
@@ -10616,7 +10431,7 @@ com que seja necessário retornar à sua fonte. Na validação dos requisitos, a
 deve estar
 atenta, portanto, à:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) rastreabilidade.
@@ -10685,7 +10500,7 @@ d) II e III, apenas.
 
 e) I, lie III.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 37- (FCC / DPE-SP - 2010) No contexto da Engenharia de Requisitos, considere:
@@ -10743,7 +10558,7 @@ estágio de:
 
 a) agregação dos requisitos funcionais, apenas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 b) implementação do sistema, apenas.
@@ -10808,7 +10623,7 @@ d) I e III.
 
 e) lie III.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 42. (FCC /TRT7-2009) No processo de engenharia de requisitos, é uma técnica de observação que
@@ -10848,7 +10663,7 @@ d) o resultado do escopo.
 
 e) um mecanismo de validação.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -10901,14 +10716,14 @@ Item. 42. LETRA E
 
 15- LETRA D 30. LETRA C
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -10982,12 +10797,10 @@ cabeçalhos
 padronizados. Assim, os cabeçalhos devem ter cor de fundo, paleta de cores e tipografia,
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-170
 
-188
+
 
 
 seguindo o padrão adotado em outros documentos emitidos pelo departamento
@@ -11059,12 +10872,10 @@ visão
 geral do sistema com todas as suas funcionalidades, sem entrar em detalhes específicos de cada
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-171
 
-188
+
 
 
 funcionalidade, deforma que a interface como um todo possa ser criticada pelos
@@ -11129,7 +10940,7 @@ requisitos:
 
 a) não-funcionais.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -11175,12 +10986,10 @@ d) verificação.
 e) gerenciamento.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-173
 
-188
+
 
 
 Diego Carvalho
@@ -11203,12 +11012,10 @@ Item. 12. LETRAC
 5- LETRA C 10. LETRA E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-174
 
-188
+
 
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
@@ -11274,7 +11081,7 @@ b) verificação de consistência, deve-se verificar se os requisitos podem ser
 implementados,
 considerando a tecnologia existente.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 c) verificação de realismo, deve-se verificar se todas as funções e restrições
@@ -11347,12 +11154,10 @@ d) Apenas II e III.
 e) Apenas II, III e IV.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-176
 
-188
+
 
 
 7- (FAFIPA / Prefeitura de Arapongas - PR - 2020) A Engenharia de Requisitos é um
@@ -11427,7 +11232,7 @@ desempenho, seus requisitos de proteção, seus requisitos de usabilidade e a ta
 aceitável de
 falhas-são denominados requisitos:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) organizacionais.
@@ -11500,7 +11305,7 @@ Item. 14. (UFG / SANEAGO - 2017) Com relação à qualidade de software, é um e
 requisito de
 software não funcional:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) calcular o valor do desconto conforme o perfil do cliente.
@@ -11573,7 +11378,7 @@ software dividido em Requisitos funcionais e Requisitos não-funcionais. Os
 Requisitos não-
 funcionais possuem vários tipos diferentes de classificação tais como:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 (í) Requisitos de confiabilidade.
@@ -11638,7 +11443,7 @@ a) clientes
 
 b) partes interessada
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 c) patrocinadores
@@ -11696,7 +11501,7 @@ critérios que permitirão ao desenvolvedor e ao cliente avaliar a qualidade, as
 o software
 for construído.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -11731,14 +11536,14 @@ Item. 26. CORRETO
 
 9- LETRA A i8. LETRA B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Conceitos Básicos
@@ -11809,7 +11614,7 @@ Identificar o débito técnico pode ser um pouco complicado, mas existem algumas
 de se
 fazer isso. Geralmente, o débito técnico pode ser identificado a partir de sintomas comuns, como
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -11886,12 +11691,10 @@ longo do tempo e
 a avaliara eficácia do processo de gerenciamento do débito técnico. Porfim, é importante terem
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-185
 
-188
+
 
 
 mente que o gerenciamento do débito técnico é um processo contínuo e nunca termina: sempre
@@ -11974,12 +11777,10 @@ b) pode ser eliminado por alteração no projeto (design) sem repercussão na
 implementação.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-186
 
-188
+
 
 
 Diego Carvalho
@@ -12028,12 +11829,10 @@ afetar negativamente o projeto (Letra
 E).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-187
 
-188
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

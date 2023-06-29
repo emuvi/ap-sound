@@ -1,26 +1,20 @@
 Capítulo. Engenharia de Computadores e Redes - Protocolos HTTPS, SSL-TLS, HTTP 2.
 
 
-índice
+Índice
 
 1) Protocolos HTTP-HTTPS
 
-3
 
 2) Questões Comentadas - Protocolos HTTP-HTTPS - Cebraspe
-18
 
 3) Questões Comentadas - Protocolos HTTP-HTTPS - FCC
-34
 
 4) Lista de Questões - Protocolos HTTP-HTTPS - Cebraspe
-42
 
 5) Lista de Questões - Protocolos HTTP-HTTPS - FCC
-47
 
 6) SSL (Security Socket Layer) e TLS (Transport Layer Security)
-53
 
 7) Questões Comentadas - SSL (Security Socket Layer) e TLS (Transport Layer
 Security) - Cebraspe 59
@@ -29,12 +23,10 @@ Security) - Cebraspe 59
 Security) - FCC 63
 
 9) Lista de Questões - SSL (Security Socket Layer) e TLS (Transport Layer Security) - Cebraspe
-64
 
 10) Lista de Questões - SSL (Security Socket Layer) e TLS (Transport Layer Security) - FCC
-67
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -83,7 +75,7 @@ servidores e clientes.
 
 Para efeito de concurso, o HTTP possui 2 versões:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -117,7 +109,7 @@ Server
 Short-lived connections Persistent connection
 HTTP Pipelining
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -159,7 +151,7 @@ envia informações ao servidor para preenchimento do objeto de resposta.
 
 A figura abaixo é um exemplo de composição da mensagem HTTP:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -310,7 +302,7 @@ explicação da situação do erro e se esta é permanente ou temporária.
 400 (BAD REQUEST) - A requisição não pode ser entendida pelo servidor devido erro de
 sintaxe.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -354,11 +346,9 @@ Sua implementação pode se dar:
 
 de tal forma que as consultas necessariamente passem pelo nó intermediário antes de chegar
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-8
 
 
-69
+
 
 
 André Castro
@@ -390,11 +380,9 @@ internos conforme a porta utilizada do serviço específico. A figura abaixo nos
 apresenta o
 modelo comentado:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-9
 
 
-69
+
 
 
 André Castro
@@ -405,7 +393,7 @@ do
 servidor de tal forma que uma nova requisição idêntica à anterior não enseje uma nova
 consulta ao servidor. Desse modo, a requisição será atendida diretamente pelo Browser.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -444,11 +432,9 @@ a devida autenticação, utilizando, portanto, o modo simples do SSL/TLS.
 A Imagem abaixo nos dá uma visão das fases envolvidas no processo de conexão, troca de chaves e,
 finalmente, troca dos dados:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-11
 
 
-69
+
 
 
 André Castro
@@ -458,7 +444,6 @@ Receiver
 
 K=J
 
-7
 
 As três primeiras mensagens são de estabelecimento da conexão TCP. Entretanto,
 a terceira
@@ -483,11 +468,9 @@ apresentando questões que exigem conhecimento da referida versão e como o noss
 objetivo é
 sempre estar atualizado, nada mais certo do que abordarmos tal assunto.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-12
 
 
-69
+
 
 
 André Castro
@@ -546,11 +529,9 @@ Vamos abordar então os diversos pontos que são mais relevantes a respeito da
 implementação do
 HTTPv2.0, inclusive em conjunto com protocolos auxiliares como o TLS.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-13
 
 
-69
+
 
 
 André Castro
@@ -609,11 +590,9 @@ traz essa representação em que não é necessário aguardar a resposta
 específica para uma
 requisição, antes de enviar uma nova requisição:
 
-Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-14
+Q-Q 
 
 
-69
 
 
 André Castro
@@ -651,11 +630,9 @@ Assim, busca-se dar agilidade e trazer um caráter mais ágil na construção da
 no lado do
 cliente.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-15
 
 
-69
+
 
 
 André Castro
@@ -694,11 +671,9 @@ Nesses casos, utiliza-se mensagens do tipo INADEQUATE_SECURITY ou categoriza-se 
 de
 conexão.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-16
 
 
-69
+
 
 
 André Castro
@@ -721,11 +696,9 @@ devem tratar a renegociação como um erro de conexão. A renegociação deve se
 exclusivamente para fins de confidencialidade na troca de informações de credenciais no
 estabelecimento da conexão e não conectividade.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-17
 
 
-69
+
 
 
 André Castro
@@ -779,11 +752,9 @@ consultas ou fornecer um serviço personalizado.
 
 Gabarito: D
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-18
 
 
-69
+
 
 
 André Castro
@@ -835,7 +806,7 @@ Um servidor HTTP é considerado um servidor WEB e não um servidor de aplicaçõ
 completo com muito mais recursos. Dizemos que um servidor WEB integra um servidor
 um servidor de aplicações.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -879,7 +850,7 @@ envia o objeto atualizado.
 
 Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -946,11 +917,9 @@ utilizado na sessão.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-21
 
 
-69
+
 
 
 André Castro
@@ -997,11 +966,9 @@ A primeira versão do serviço HTTP utiliza conexões não persistentes; a persi
 
 acrescentada na versão subsequente desse serviço.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-22
 
 
-69
+
 
 
 André Castro
@@ -1049,11 +1016,9 @@ Gabarito: C (Gabarito do Professor: E)
 
 16.CESPE - TCU/Analista de Controle Externo - TI/2007
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-23
 
 
-69
+
 
 
 André Castro
@@ -1097,7 +1062,7 @@ Gabarito: E
 
 19.CESPE - TRE-GO/Técnico Judiciário - Programação de Sistemas/2015
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -1142,7 +1107,7 @@ Gabarito: C
 
 22.CESPE - TJDFT/Analista Judiciário - Suporte em TI/2015
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -1218,11 +1183,9 @@ E Hypertext Transfer Protocol.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-26
 
 
-69
+
 
 
 André Castro
@@ -1268,11 +1231,9 @@ determinado domínio;
 MX - Mail Exchange - Fornece o nome do servidor de e-mail de maior prioridade
 que responde por determinado domínio de e-mail. Após a obtenção desse nome, é
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-27
 
 
-69
+
 
 
 André Castro
@@ -1317,7 +1278,7 @@ Gabarito: E
 O protocolo SMTP, ao utilizar a porta 25 para enviar e receber mensagens, é capaz de
 criptografar o cabeçalho da mensagem transmitida.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -1366,11 +1327,9 @@ forma inversa estaria errado.
 
 Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-29
 
 
-69
+
 
 
 André Castro
@@ -1418,11 +1377,9 @@ se acessar e gerenciar os e-mails diretamente no servidor de e-mails, sem a nece
 de realizar o download das mensagens. Detalhe para o software cliente que pode ser um
 software específico ou o próprio browser com acesso web.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-30
 
 
-69
+
 
 
 André Castro
@@ -1466,7 +1423,7 @@ Comentários:
 Pessoal, vimos que essas duas são possibilidades de atuação de um MTA frente a um
 possível email malicioso ou considerado SPAM.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -1514,7 +1471,7 @@ O SMTP é um protocolo de envio, enquanto o POP3 e IMAP são para recebimento.
 
 Gabarito: E
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -1554,7 +1511,7 @@ parte da camada de aplicação.
 
 Gabarito: E
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -1610,11 +1567,9 @@ b) IMAP.
 
 c) HTTP.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-34
 
 
-69
+
 
 
 André Castro
@@ -1720,7 +1675,7 @@ b) Vimos que as informações referentes ao nome da página, estado corrente da 
 informações do navegador (User Agent) e língua aceitas, entre outros, fazem parte da
 estrutura do cabeçalho HTTP. CORRETO
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -1777,11 +1732,9 @@ c) Temos aí um exemplo de funcionamento do HTTP. CORRETO
 d) Servidores WEB implementam o lado do servidor e não do cliente. O resto da questão
 está conforme esperado. INCORRETO
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-37
 
 
-69
+
 
 
 André Castro
@@ -1837,11 +1790,9 @@ d} filtro de logs.
 
 e)proxy reverso.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-38
 
 
-69
+
 
 
 André Castro
@@ -1875,7 +1826,7 @@ contenha informação respectiva ao estado da transação.
 
 Comentário:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -1929,7 +1880,7 @@ Gabarito: C
 
 12.FCC - TRE-CE/Técnico Judiciário - Operação de Computador/2012
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -1979,7 +1930,7 @@ será sem estados ou stateless.
 
 Gabarito: A
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -2036,11 +1987,9 @@ Item. 4. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 0 protocolo HTTP, que não armazena informações sobre o estado do cliente, classifica-se
 como do tipo stateless.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-42
 
 
-69
+
 
 
 André Castro
@@ -2090,11 +2039,9 @@ utilizado na sessão.
 
 11.CESPE - TJ TRT17/Apoio Especializado/Tecnologia da lnformação/2013
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-43
 
 
-69
+
 
 
 André Castro
@@ -2144,11 +2091,9 @@ Na busca de um produto em uma loja virtual por meio de um webservice, quando o
 produto é encontrado, o protocolo HTTP retorna um HTTP/1.1 404, o que facilita o
 tratamento do pedido no programa cliente.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-44
 
 
-69
+
 
 
 André Castro
@@ -2181,11 +2126,9 @@ No HTTP, a técnica geral do controle de fluxo garante que não haja interferên
 conexões independentes. Entretanto essa técnica foi abandonada na versão 2 do HTTP, que
 criou o conceito de WINDOWJJPDATEframe.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-45
 
 
-69
+
 
 
 André Castro
@@ -2241,7 +2184,7 @@ GABARITo - QUESTõES CESPE
 
 23 E
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -2299,11 +2242,9 @@ d) Transporte, Aplicação e Enlace de dados.
 
 e) Física, Transporte e Enlace de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-47
 
 
-69
+
 
 
 André Castro
@@ -2361,11 +2302,9 @@ programas, implementados em sistemas finais diferentes, conversam um com o outro
 meio da troca de mensagens HTTP. 0 HTTP não define a estrutura dessas mensagens, mas
 define 0 modo como cliente e servidor as trocam.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-48
 
 
-69
+
 
 
 André Castro
@@ -2426,11 +2365,9 @@ Item. 9. FCC - TRT - 65 Região (PE)/Analista Judiciário - TI/2012
 Protocolos de rede podem ser classificados como "sem estados" (stateless) ou "com
 estado" (stateful). A este respeito é correto afirmar que
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-49
 
 
-69
+
 
 
 André Castro
@@ -2493,7 +2430,7 @@ e) 512.
 
 13.FCC - AL-SP/Agente Técnico Legislativo Especializado - Segurança de Redes/2010
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -2512,11 +2449,9 @@ d) DHCP.
 
 e) NFS.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-51
 
 
-69
+
 
 
 André Castro
@@ -2552,7 +2487,7 @@ GABARITo - QUESTõES FCC
 
 13 A
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -2624,11 +2559,9 @@ Netscape
 Navigatoc
 releascd
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-53
 
 
-69
+
 
 
 André Castro
@@ -2673,11 +2606,9 @@ Ao trazermos os principais objetivos a serem alcançados pelo SSL, podemos lista
 * Garantia da Integridade dos dados (caso estes sejam alterados, pode-se detectar
 facilmente);
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-54
 
 
-69
+
 
 
 André Castro
@@ -2731,11 +2662,9 @@ mensagens vinculadas ao funcionamento e transmissão de dados na conexão. Faz
 algo
 semelhante ao protocolo ICMP em relação ao IP. Possui duas identificações clássicas:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-55
 
 
-69
+
 
 
 André Castro
@@ -2793,11 +2722,9 @@ autenticação.
 
 Traduzindo em termos de fluxo a dinâmica apresentada, vejamos a imagem a seguir:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-56
 
 
-69
+
 
 
 André Castro
@@ -2894,11 +2821,9 @@ Agora um fato muito importante para prova Estes dois protocolos não são compat
 isto é, eles
 não interoperam entre si.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-57
 
 
-69
+
 
 
 André Castro
@@ -2942,11 +2867,9 @@ Suporta ainda outros protocolos agregados como o S/MIME, bastante utilizado para
 assinatura e
 cifragem de mensagens de e-mail.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-58
 
 
-69
+
 
 
 André Castro
@@ -2994,11 +2917,9 @@ para suprir a necessidade de segurança em alguns serviços a serem disponibiliz
 sítio do tribunal em questão. O HTTPS usa como padrão a porta 443, sendo tarefa do SSL,
 após o estabelecimento da conexão segura, compactar e criptografar os dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-59
 
 
-69
+
 
 
 André Castro
@@ -3049,7 +2970,7 @@ Os protocolos TLS (Transport Layer Security) e SSL (Secure Sockets LayerJ possue
 propriedades criptográficas que permitem assegurar a confidencialidade e a integridade
 da comunicação.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -3102,11 +3023,9 @@ Item. 9. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformaçã
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-61
 
 
-69
+
 
 
 André Castro
@@ -3116,7 +3035,7 @@ Reforçando mais uma vez a nossa lista de protocolos suportados pelo OpenSSL.
 
 Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -3190,7 +3109,7 @@ HTTP sim usufruirá desses recursos através do encapsulamento dos dados pelo SS
 
 Gabarito: E
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -3241,11 +3160,9 @@ Item. 7. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformaçã
 
 0 OpenSSL usa algoritmos de hash, como o SHA1 e MD5.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-64
 
 
-69
+
 
 
 André Castro
@@ -3260,11 +3177,9 @@ Item. 9. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformaçã
 
 0 OpenSSL usa o padrão AES com chaves de 128,192 e 256 bits.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-65
 
 
-69
+
 
 
 André Castro
@@ -3292,7 +3207,7 @@ GABARITo - QUESTõES CESPE
 
 9 c
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -3315,7 +3230,7 @@ desse protocolo, o SSL, originando assim o HTTPS. 0 HTTPS
 
 (E) provê recursos de autenticação de sites visitados.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -3323,7 +3238,7 @@ André Castro
 
 GABARITo - QUESTõES FCC
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

@@ -1,26 +1,16 @@
 Capítulo. Desenvolvimento de Informação - Tecnologias de integração. Workflow.
 
-SERPRO (Analista - Especialização:
-Tecnologia) Banco de dados - 2023
-
-(Pós-Edital)
-
-Autor:
-
-Thiago Rodrigues Cavalcanti
 
 
-Thiago Rodrigues Cavalcanti
 
-
-índice
+Índice
 
 1) Workflow
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
+
+
 
 
 WORKFLOW
@@ -53,10 +43,10 @@ um determinado resultado. É considerada uma unidade de trabalho executada por u
 responsável, que tem condições determinadas de início e fim. Enfim, qualquer ação ou
 trabalho específico.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
+
+
 
 
 Atividades podem ser divididas em primárias, que têm participação direta na criação
@@ -114,10 +104,10 @@ Nesta situação a tarefa deixa de ser o menor elemento e passa a ser a decompos
 das atividades em um conjunto de passos ou ações para realizar o trabalho determinado.
 Já o cenário é uma modalidade de execução da tarefa, que pode ser subdividido em passos,
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
+
+
 
 
 que, neste caso, é uma ação no nível atômico. Outro ponto interessante é que o CBOK
@@ -160,10 +150,10 @@ e
 aumentam a eficiência global das atividades de uma empresa ou organização. É possível,
 por exemplo, formalizar a aprovação ou reprovação de uma tarefa.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
+
+
 
 
 Imagine que você fez um relatório e seu chefe tenha que validá-lo. Por meio de uma
@@ -222,10 +212,10 @@ médico. O sistema deve correlacionar a chegada do relatório com o processo
 de
 participantes disponíveis.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
+
+
 
 
 * Exceção - Evento que ocorre fora da sequência normal de um processo
@@ -267,10 +257,10 @@ modelos de processo: orientado a correio eletrônico, orientado a documentos e o
 a
 processos. A combinação entre os vários tipos de Workflow e modelos de processo fazem
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
+
+
 
 
 com que a implementação dessa tecnologia seja flexível e praticamente abranja todas as
@@ -311,10 +301,10 @@ Orientado para as rotinas administrativas. Ideal para tratamento de documentos e
 formulários. Gerenciamento de prazos com todos os tipos de alarmes possíveis. Raramente
 necessitam processar grandes volumes de ocorrências. Os sistemas de workflow
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
+
+
 
 
 administrativo são adequados para processos simples e estruturados. Geralmente,
@@ -355,10 +345,10 @@ processadas de modo ininterrupto. Um exemplo são os sistemas de análise e conc
 de empréstimos e seguros de bancos e seguradoras: repetitivos, previsíveis e de larga
 escala. Veja um exemplo na figura a seguir relativo a um empréstimo bancário:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
+
+
 
 
 COLABORATIVO
@@ -390,10 +380,10 @@ a regra nova sem afetar documentos da regra antiga. Veja o exemplo a seguir para
 entender
 o exemplo de um workflow orientado para objeto.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
+
+
 
 
 TRANSACIoNAL
@@ -423,10 +413,10 @@ baseado na gestão de processos podendo utilizar tecnologias de Inteligência
 Artificial.
 Possui características e ferramentas que o permitem aprender com seus próprios erros e
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
+
+
 
 
 acertos. Tem funcionalidades que o capacitará ir além da execução pura e simples das
@@ -482,19 +472,17 @@ outro dentro do fluxo de trabalho. As rotas podem ser sequenciais, paralelas
 ou
 condicionais, conforme verificamos na figura abaixo:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-12
 
 
-14
 
 
-Thiago Rodrigues Cavalcanti
+
+
 
 
 Rota Sequencial
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

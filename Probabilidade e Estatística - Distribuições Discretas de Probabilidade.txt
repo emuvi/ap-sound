@@ -14,7 +14,7 @@ Concursos
 Equipe Exatas Estratégia Concursos
 
 
-índice
+Índice
 
 1) Introdução - Distribuições Discretas de Probabilidade
 
@@ -277,7 +277,6 @@ fOf2) = 10
 
 = Sabendo que [£(X)]2 = (5,5)2 = 30,25, a variância é:
 
-385
 
 hT = 38'5
 
@@ -433,11 +432,9 @@ exemplo, a face 3. Nesse caso, temos 1 resultado de sucesso (X = 1) e 5 resultad
 
 p = PÇX = 1) = j
 
-6
 
 Q = P(X = 0) = f
 
-6
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
@@ -505,11 +502,9 @@ vimos que p = - e q =
 
 Nesse caso, a esperança e a variância são:
 
-1
 
 F(X) = p
 
-3
 
 
 V(X) = p.q
@@ -519,15 +514,12 @@ V(X) = p.q
 ~ 3 X 3 " 9
 
 Para o exemplo em que o sucesso corresponde a uma face específica do dado, vimos que p = - e q =
-6
 
 Nesse caso, a esperança e a variância são:
 
-1
 
 F(X) = p
 
-6
 
 
 W) = p.q
@@ -771,11 +763,9 @@ De maneira geral, a variável binomial pode assumir qualquer valor entre 0 e n.
 Agora, vamos calcular a probabilidade de cada valor dessa variável binomial.
 A probabilidade de obter a face 6 (sucesso) em um único lançamento é:
 
-1
 
 E a probabilidade de não obter a face 6 (fracasso) em um único lançamento é complementar:
 
-5
 
 ,=1-p=-
 
@@ -791,9 +781,7 @@ p(X = 0) = qxqxq=-x-x- =
 
 6 6 6
 
-125
 
-216
 
 Generalizando, para n repetições, a probabilidade de ter 0 sucesso (n fracassos) é:
 
@@ -807,17 +795,13 @@ Similarmente, a probabilidade de obter somente sucessos (nenhum fracasso) nos n 
 lançamentos (X = 3)
 corresponde à interseção desses eventos independentes, dada pelo produto:
 
-1
 
-216
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-13
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -886,9 +870,7 @@ P({l,0,l}) = p x q xp
 
 =6X6X6=
 
-5
 
-216
 
 
 P({l,l,0}) = p xp x q
@@ -903,9 +885,7 @@ xs _ y 5 —
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-14
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -915,9 +895,7 @@ Esses eventos também são mutuamente excludentes, então a probabilidade da uni
 corresponde
 à soma das probabilidades. Como elas são iguais, podemos multiplicar o resultado por 3:
 
-15
 
-216
 
 Generalizando, para n repetições, vamos calcular a probabilidade de obter k
 sucessos, digamos, nas
@@ -926,7 +904,6 @@ primeiras k tentativas e, portanto, n — k fracassos nas demais tentativas:
 pxpx ...xpxqxqx ...x q = pkx qn~k
 
 i r i '------------ Y
-1
 
 k vezes n — k vezes
 
@@ -964,9 +941,7 @@ A combinação Cnk também pode ser indicado por Ck ou por
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-15
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -1151,9 +1126,7 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-18
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -1227,9 +1200,7 @@ seleção de uma pessoa não afeta o de outra, então temos uma distribuição b
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-19
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -1279,19 +1250,15 @@ A probabilidade de saírem k = 4 caras (4 sucessos e 0 fracasso) é:
 
 A probabilidade de saírem k = 3 caras (3 sucessos e 1 fracasso) é:
 
-4
 
 P(X = 3)
 
-16
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-20
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -1299,9 +1266,7 @@ Equipe Exatas Estratégia Concursos
 
 Portanto, a probabilidade de obter 3 OU 4 caras, sabendo que são eventos mutuamente exclusivos, é:
 
-5
 
-16
 
 Gabarito: B.
 
@@ -1360,9 +1325,7 @@ Gabarito: B
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-21
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -1550,7 +1513,6 @@ Sabendo que, para uma distribuição binomial, temos E(X) = n.p, então:
 
 EQO = n.p = 8
 
-8
 
 n = -
 
@@ -1569,9 +1531,7 @@ V(X) = n.p — n.p2 = 1,6
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-25
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -1662,7 +1622,6 @@ P(X = 1) = C2jl. p1. q1 = 2. p. q = 2. p. (1 - p)
 : 1 — 2p + p + 2.p — 2p =—
 
 = ,
-15
 
 : P 16
 
@@ -1673,7 +1632,6 @@ Equipe Exatas Estratégia Concursos
 
 
 : , 15
-1
 
 :
 P2 = 1----------------- = ---------
@@ -1703,7 +1661,6 @@ P(Y > 3) = P(Y = 4) + P(Y = 5)
 
 = Sabendo que p = % (logo q = 1 - p = %) e nY = 5, temos:
 
-4
 
 3? 1 3 15
 
@@ -1727,13 +1684,11 @@ z) =SX4Í
 .4/ 45
 
 x - =
-4
 
 x 1 =
 
 1024
 
-1
 
 1024
 
@@ -1788,9 +1743,7 @@ y(X) = 20 x q = 4
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-27
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -1816,7 +1769,6 @@ B
 ■
 B
 
-4
 
 £■(%) = n x - = 20
 
@@ -1828,7 +1780,6 @@ Gabarito: C
 n = -7- = 20 x - = —— = 25
 4 4 4
 
-5
 
 a
 
@@ -1836,9 +1787,7 @@ a
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-28
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -1885,7 +1834,6 @@ NOTA!
 
 P(X = k) = qk \p
 
-1
 
 Por exemplo, sabendo que a probabilidade de obtermos uma determinada face do dado
 (sucesso) é p = -,
@@ -1914,9 +1862,7 @@ geométrica é a probabilidade de sucesso p e, assim, representamos essa distrib
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-29
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -1971,7 +1917,6 @@ X - =
 P(X = 2) = (|)Ixl =
 
 _5_
-36
 
 Assim, a probabilidade de precisar de pelo menos 3 tentativas é:
 
@@ -1983,9 +1928,7 @@ P(X > 3) = 1 -1 - - = = -
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-30
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -2010,7 +1953,6 @@ i ,
 
 = - e:
 
-6
 
 E(X) = -
 
@@ -2020,11 +1962,9 @@ z , 1 6
 
 E(X) = y = 1 x - = 6
 
-6
 
 E a variância, sabendo que q = 1—p = -,é:
 
-6
 
 vm=4
 
@@ -2036,9 +1976,7 @@ G) 6 u
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-31
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -2168,9 +2106,7 @@ p2 (0,64)2
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-33
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -2207,7 +2143,6 @@ PW=P(X = 3) = (/2.p = y x- = -
 0 enunciado informou que a probabilidade de Breno obter CARA (sucesso) é p = -, logo
 a probabilidade de
 
-2
 
 obter COROA (fracasso) é complementar q = 1 — p = -.
 
@@ -2244,9 +2179,7 @@ O desvio padrão da variável Y é inferior a 1.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-34
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -2361,9 +2294,7 @@ I
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-35
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -2436,9 +2367,7 @@ P(X > fc) =
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-36
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -2459,14 +2388,11 @@ precisar de k = 3 tentativas:
 
 P(X = 3)
 
-25
 
-216
 
 Assim, a probabilidade de precisar de pelo menos 3 tentativas é obtida dividindo esse resultado por
 p = -:
 
-6
 
 z A P(X = 3)
 
@@ -2474,13 +2400,11 @@ P(X > 3) = —-------------- -
 
 p
 
-25
 
 r \ 216 25 25
 
 p(x>3)=^ = —x6 = -
 
-6
 
 Este é exatamente o resultado que obtivemos calculando P(X > 3) = 1 — P(X = 1) — P(X = 2)1
 
@@ -2528,9 +2452,7 @@ recinto deve ser de 16 metros =
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-37
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -2611,9 +2533,7 @@ Gabarito: D.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-38
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -2680,9 +2600,7 @@ sucesso, dentre S elementos, no total.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-39
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -2732,7 +2650,6 @@ defeituosas, dentre S = 4 defeituosas, no total:
 
 4X3X2!
 
-6
 
 2!x2!
 
@@ -2758,9 +2675,7 @@ P(X = 2) = — = — = 30%
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-40
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -2773,7 +2688,6 @@ defeituosas, em uma amostra de
 tamanho n = 3, da seguinte forma:
 
 i) Pt: Probabilidade de retirarmos a primeira peça não defeituosa. Sabendo que há JV — S =
-6
 peças não defeituosas dentre N = 10 peças no total, então:
 
 ii) Pa: Probabilidade de retirarmos a segunda peça defeituosa, dado que a
@@ -2781,7 +2695,6 @@ primeira peça foi
 
 não defeituosa. Sabendo que há S = 4 peças defeituosas dentre 9 peças no total, então:
 
-4
 
 iii) Píí£: Probabilidade de retirarmos a terceira peça defeituosa, dado que foi
 retirada uma peça
@@ -2813,9 +2726,7 @@ o que corresponde à permutação das 3 peças, com repetição de 2 peças defe
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-41
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -2865,7 +2776,6 @@ portanto, o número mínimo que X pode assumir é 0.
 
 Por exemplo, vamos supor que haja N = 10 peças e 5 = 4 peças defeituosas (sucesso),
 logo, N-S = 6 peças não defeituosas (fracasso). Se o tamanho da amostra for de n =
-3
 peças, então todas as peças selecionadas podem ser não defeituosas (fracasso), ou seja,
 é
 possível obter X = 0 sucessos.
@@ -2930,9 +2840,7 @@ Em que p é a proporção de sucessos na população:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-43
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -3144,9 +3052,7 @@ i V. Para N = 10000, k = 2000, n = 10 e r = 0, P(R = 0) « 0,1074.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-46
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -3172,7 +3078,6 @@ Em relação à afirmativa I, o total de elementos da população é N = 100, o 
 de sucessos da população
 (que chamamos de S) é k = 20, então a proporção de sucessos é:
 
-20
 
 p ~ lõõ _ 0,2
 
@@ -3236,7 +3141,6 @@ z „ N — n 9900 16 x 1100
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-1
 
 * 05152001900 - Everton
 Murilo Vieira
@@ -3413,9 +3317,7 @@ Em que e = 2,718 (número neperiano).
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-50
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -3685,9 +3587,7 @@ dia, estima-se que tal probabilidade seja nula.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-54
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -3750,9 +3650,7 @@ Sabendo que Â é positivo (pois, Â = n. p, com n > 0 e p > 0), então:
 ívivw. estrategiaconcursos. com. br
 
 
-55
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -3806,17 +3704,14 @@ semana, por exemplo, precisamos primeiro calcular o número médio de clientes q
 em 1 semana
 A₂, considerando que 1 semana = 5 dias úteis:
 
-5
 
 A = 10 x — = 50
 
-1
 
 Para calcular a probabilidade de chegar 1 cliente em uma hora, primeiro calculamos o
 número médio de
 clientes que chegam em 1 hora, considerando que 1 dia = 8 horas úteis: 1 * *
 
-1
 
 A₃ = 10 x-= 1,25
 
@@ -3826,9 +3721,7 @@ O
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-56
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -3901,9 +3794,7 @@ registros de forma i
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-57
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -3988,7 +3879,6 @@ Tl 2
 : L = 1 X- = 2 x - = 4
 
 í Hi
-1
 
 A probabilidade de passar no máximo um carro, ou seja, 0 ou 1 carro é a soma:
 í P(X < 1) = P(X = 0) + P(X = 1)
@@ -3997,9 +3887,7 @@ A probabilidade de passar no máximo um carro, ou seja, 0 ou 1 carro é a soma:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-58
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -4035,7 +3923,6 @@ PCx = 1) = —-—
 e 4 x 4 ,
 
 —; = 4.e"4
-1
 
 
 Sendo e 4 = 0,0183, temos:
@@ -4090,9 +3977,7 @@ P(X = 2 OU X = 3) = P(X = 2) + P(X = 3)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-59
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -4171,8 +4056,6 @@ E(W1 + W2 + + Wn~) = E(WJ + E(W2) + - + E(Wn~)
 =
 
 :
-1
-1
 :
 
 =
@@ -4191,9 +4074,7 @@ n vezes =
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-60
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -4305,9 +4186,7 @@ P(X = 4) = Q 0,22.0,82 = 3 x 0,04 x 0,64 = 7,68%
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-62
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -4364,9 +4243,7 @@ Essa é justamente a probabilidade P(X = x) para a variável com distribuição 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-63
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -4567,9 +4444,7 @@ I
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-65
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -4612,9 +4487,7 @@ L.G...a..b..a..r.i.t..o E. rrado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-66
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -4678,9 +4551,7 @@ E(X)=~; y(x)=^
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-67
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -4726,9 +4597,7 @@ Gabarito: Certo
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-68
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -4760,13 +4629,9 @@ F
 
 grau de instrução
 
-3
 
-5
 
-2
 
-3
 
 hiperatividade
 
@@ -4819,9 +4684,7 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-69
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -4887,9 +4750,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-70
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -4952,9 +4813,7 @@ Sabemos que a média (ou esperança) dessa distribuição é:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-71
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -5001,9 +4860,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-72
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -5064,9 +4921,7 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-73
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -5081,7 +4936,6 @@ com reposição, logo as extrações são independentes.
 Sabendo que há 40 produtos de alta qualidade, dentre 100, podemos calcular a probabilidade de
 sucesso:
 
-40
 
 Sabemos também que serão extraídos n = 15 produtos. Assim, a esperança da variável binomial é dada
 por:
@@ -5110,7 +4964,6 @@ Essa questão pede o valor esperado de produtos de baixa qualidade, considerando
 25 produtos desse
 tipo, de um total de 100 produtos. A probabilidade de sucesso é:
 
-25
 
 p = lõõ = 0'25
 
@@ -5127,9 +4980,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-74
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -5187,9 +5038,7 @@ P(X > 0) = 0,9.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-75
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -5228,11 +5077,9 @@ Comentários:
 Para calcular o valor esperado de Z, vamos primeiro calcular a esperança das variáveis X e Y.
 Sabendo que a esperança de uma variável binomial é dada por nxp, temos:
 
-1
 
 £(X) = nxp = 10 x- = 5
 
-1
 
 £(/) = nxp = 10x- = 2
 
@@ -5248,9 +5095,7 @@ Gabarito: Errado
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-76
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -5318,9 +5163,7 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-77
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -5352,7 +5195,6 @@ m P E(X) = mxp
 
 1 1 2
 
-2
 
 5 2 X 5 " 5
 
@@ -5396,9 +5238,7 @@ deferido) é:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-78
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -5432,7 +5272,6 @@ Sabendo que o produto n x p é igual a 4, temos:
 
 4 x q = 3
 
-3
 
 
 Sabendo que p = 1 — q, temos:
@@ -5443,10 +5282,8 @@ q=4
 
 Substituindo esse resultado na fórmula da esperança, temos:
 
-1
 
 n x - = 4
-4
 
 n = 16
 
@@ -5458,9 +5295,7 @@ Gabarito: Certo
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-79
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -5489,11 +5324,9 @@ p(x = /c) = Cnk x pk x qn k
 
 PCX = 0) = C16,0 x
 
-3
 
 Que é diferente de
 
-4
 
 Gabarito: Errado
 
@@ -5515,7 +5348,6 @@ Aqui, temos n x p = 4, logo a mediana também é igual a 4.
 
 Gabarito: Certo
 
-3
 
 Item. 14. (Cebraspe/2019 - TJ-AM) É igual a - a probabilidade de determinado advogado
 conseguir decisão
@@ -5532,9 +5364,7 @@ sempre independentes entre si.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-80
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -5552,22 +5382,18 @@ Comentários:
 
 Considerando que Y é a quantidade de decisões favoráveis, dentre n = 12 petições, sabendo que a
 
-3
 
 probabilidade de a decisão ser favorável (sucesso) é p = - e que as decisões são independentes
 entre si,
 
-4
 
 podemos concluir que Y segue distribuição binomial. A esperança dessa distribuição é:
 
 E(zXx) = nxp = 12x- = 9 3
 
-4
 
 Gabarito: Certo.
 
-3
 
 Item. 15. (Cebraspe/2019 - TJ/AM) É igual a - a probabilidade de determinado advogado
 conseguir decisão
@@ -5586,20 +5412,17 @@ X = quantidade de decisões emitidas pelo tribunal até que ocorra a primeira de
 não favorável ao
 advogado, e Y = quantidade de decisões emitidas pelo tribunal favoráveis ao advogado.
 
-9
 
 A probabilidade do evento "Y é igual a 1" é superior a —.
 
 Comentários:
 
-3
 
 Sabendo que Y segue distribuição binomial com n = 12 e probabilidade de sucesso p = -, logo, a
 probabilidade
 
 de fracasso é q = 1 — p = -. Assim, a probabilidade de obter k = 1 decisão favorável (sucesso) é:
 
-4
 
 P(y = fc) = Cnkxpkx qn~k
 P(Y = 1) = C124 x d)' x (A)'1 = 12 x | x
@@ -5607,7 +5430,6 @@ P(Y = 1) = C124 x d)' x (A)'1 = 12 x | x
 Como o denominador 411 é maior do que o denominador indicado no item 410, então o resultado da
 fração
 
-9
 9é menor do que a fração indicada no item — E outras palavras, P(X = 1) é inferior a
 —.
 
@@ -5617,15 +5439,12 @@ Gabarito: Errado
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-81
 
-133
 
 
 Equipe Exatas Estratégia Concursos
 
 
-3
 
 Item. 16. (Cebraspe/2019 - TJ/AM) É igual a - a probabilidade de determinado advogado
 conseguir decisão
@@ -5671,17 +5490,11 @@ Logo, a probabilidade de Y ser inferior a 2 é:
 
 P(r < 2) = P(Y = 0) + P(Y = 1) =
 
-1
 
-412
 
-36
 
-412
 
-37
 
-412
 
 Para que esse resultado seja superior a 1%, é necessário que 0 denominador seja inferior a 3700. No
 entanto,
@@ -5709,9 +5522,7 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-82
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -5729,7 +5540,6 @@ ou mais:
 
 p = p(X = 10) + P(X = 11) + P(X = 12) + P(X = 13) + P(X = 14) + P(X = 15) + P(X = 16)
 
-16
 
 X (G.6,10 + Qe,ll + G.6,12 + G.6,13 + Qõ,14 + G.6,15 + 0.6,16)
 
@@ -5753,13 +5563,11 @@ X (■
 
 ⁺ 3x2 ⁺ 2 ' h 1 + lóJ
 
-16
 
 X (4 x 14 x 13 x 11 + 2 x 14 x 13 x 12 + 2 x 5 x 14 x 13 + 16 x 5 x 7 + 8 x 15 + 17)
 
 ^_(7xl3xll + 7xl3x6 + 2,5x7xl3 + 2x5x7 + 15 + 2,125)
 
-213
 
 (7 x 13 x 19,5 + 70 + 17,125) (7 x 13 x 19,5 + 87,125)
 
@@ -5775,9 +5583,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-83
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -5843,9 +5649,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-84
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -5895,7 +5699,6 @@ Gabarito: Errado.
 
 ãTlJ X 43 x 41
 
-4
 
 4*_ 64 =
 
@@ -5926,9 +5729,7 @@ independentes. Assim, para que S
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-85
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -5988,9 +5789,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-86
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -6055,9 +5854,7 @@ PÇX = k) = CnkPkqn~k
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-87
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -6116,9 +5913,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-88
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -6188,9 +5983,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-89
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -6239,9 +6032,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-90
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -6301,9 +6092,7 @@ distribuição é dada por:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-91
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -6351,7 +6140,6 @@ pa = 3) = ^.p = (₅) x-=-
 
 Logo:
 
-64
 
 Gabarito: Certo.
 
@@ -6359,9 +6147,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-92
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -6417,9 +6203,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-93
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -6459,9 +6243,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-94
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -6526,10 +6308,8 @@ Como a tabela não contempla uma realização do evento X = 7, é correto afirma
 Comentários:
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-95
 
 www.estrategiaconcursos.com.br
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -6601,9 +6381,7 @@ determinado dia é superior a
 Coment®HRPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-96
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -6675,9 +6453,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-97
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -6747,10 +6523,8 @@ intervalo de tempo de
 duração t (em minutos) segue um processo de Poisson com parâmetro l,2t.
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-98
 
 www.estrategiaconcursos.com.br
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -6819,10 +6593,8 @@ caso,
 a probabilidade de a central telefônica receber:
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-99
 
 www.estrategiaconcursos.com.br
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -6846,7 +6618,6 @@ Pontue-se que a pergunta se refere a chamadas em 20 minutos, enquanto o parâmet
 informado por hora,
 sendo 1 hr = 60 minutos = 3 x 20 minutos. Logo, o valor do parâmetro a cada 20 minutos é:
 
-12
 
 A = T = 4
 
@@ -6898,10 +6669,8 @@ logaritmo:
 A = — ln(2_1) = —(—1 x ln 2) = ln 2
 
 LogO, E()^RfifrôQ,êStatíStjCa e Probabilidade - 2023 (Pós-Edital)
-100
 
 www.estrategiaconcursos.com.br
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -6971,9 +6740,7 @@ a) O coeficiente de variação de Y é igual a 1.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-101
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -7036,10 +6803,8 @@ administrativos (A/)
 protocolados em certo órgão público seguem uma distribuição de Poisson com média igual a 5. Cada
 processo
 protoco!â£Hpft©n<^tftlA0Slefi^Siff«Rfèriiite9<^y:Ki^u para a B e, assim, a soma Y = ^=1Xh em que
-102
 
 www.estrategiaconcursos.com.br
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -7111,7 +6876,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edifal)
 0 103
 
 www.estrategiaconcursos.com.br
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -7169,10 +6933,8 @@ protocolados em certa repartição pública segue uma distribuição de Poisson 
 processos
 por dia, - 2023 (Pós-Edital)
 
-104
 
 www.estrategiaconcursos.com.br
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -7225,9 +6987,7 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-105
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -7286,9 +7046,7 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-106
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -7338,9 +7096,7 @@ Como 0,20 < 0,23 < 0,25, então a alternativa c está correta.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-107
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -7402,9 +7158,7 @@ que S = X + /, julgue o seguinte item.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-108
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -7422,9 +7176,7 @@ Gabarito: Certo
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-109
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -7484,13 +7236,9 @@ F
 
 grau de instrução
 
-3
 
-5
 
-2
 
-3
 
 hiperatividade
 
@@ -7539,9 +7287,7 @@ As variâncias de X e Y são iguais.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-112
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -7572,9 +7318,7 @@ A média da distribuição S é igual a 1,2.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-113
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -7650,9 +7394,7 @@ O desvio padrão da distribuição de X é igual ou superior a 0,9.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-115
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -7716,9 +7458,7 @@ um único recurso deferido entre esses 4 recursos analisados é igual a
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-116
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -7759,7 +7499,6 @@ A mediana de X é igual a 4.
 
 14.
 
-3
 
 (Cebraspe/2019 - TJ-AM) É igual a - a probabilidade de determinado advogado conseguir
 decisão
@@ -7785,7 +7524,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 Equipe Exatas Estratégia Concursos
 
 
-3
 
 Item. 15. (Cebraspe/2019 - TJ/AM) É igual a - a probabilidade de determinado advogado
 conseguir decisão
@@ -7803,11 +7541,9 @@ que ocorra a primeira decisão não favorável ao advogado, e Y = quantidade de 
 emitidas pelo
 tribunal favoráveis ao advogado.
 
-9
 
 A probabilidade do evento "Y é igual a 1" é superior a —.
 
-3
 
 Item. 16. (Cebraspe/2019 - TJ/AM) É igual a - a probabilidade de determinado advogado
 conseguir decisão
@@ -7854,9 +7590,7 @@ independentes.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-118
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -7928,9 +7662,7 @@ encontra dentro do intervalo [1,2],
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-119
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -7996,9 +7728,7 @@ situação, é correto afirmar que X é uma variável aleatória com distribuiç
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-120
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -8045,9 +7775,7 @@ benefício é superior a 0,10.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-121
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -8244,9 +7972,7 @@ com os dados
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-126
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -8309,9 +8035,7 @@ Item. 7. (Cebraspe/2013 - ANTT-DF/Área Estatística)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-127
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -8347,7 +8071,6 @@ telefônica
 recebe por hora é modelado por uma distribuição de Poisson, com parâmetro À = 12 chamadas por hora.
 Nesse caso, a probabilidade de a central telefônica receber:
 
-126
 
 exatamente duas chamadas em 20 minutos é igual a —e . 6!
 
@@ -8369,9 +8092,7 @@ Se uma variável aleatória de Poisson é tal que 2- P(X = 4) = P(X = 3), a méd
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-128
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -8447,9 +8168,7 @@ recebidas nessa mesma UPA para atendimento de urgência segue processos de Poiss
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-129
 
-133
 
 
 Equipe Exatas Estratégia Concursos
@@ -8513,9 +8232,7 @@ que P(X = 0) = 0,1 e InlO = 2,3, assinale a opção correta.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-130
 
-133
 
 
 Equipe Exatas Estratégia Concursos

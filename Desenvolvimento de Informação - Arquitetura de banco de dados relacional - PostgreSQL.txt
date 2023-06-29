@@ -1,25 +1,11 @@
 Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relacional - PostgreSQL.
 
-Concursos
-
-(Prof. Thiago
-
-Cavalcanti)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Banco de dados - 2023
-
-(Pós-Edital)
-
-Autor:
-
-Thiago Rodrigues Cavalcanti
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
 
-índice
+
+
+Índice
 
 1) Noções sobre SGDBS PostgreSQL
 
@@ -47,11 +33,11 @@ Thiago Rodrigues Cavalcanti
 
 13) Lista de Questões - Postgre SQL e EnterpriseDB - Multibancas
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 NoçõES SoBRE SGBDS PoSTCRESQL
 INTRoDUçÃo Ao PoSTCRESQL
@@ -93,16 +79,14 @@ segurança sólidas, bem como os recursos que um sistema de gerenciamento de ban
 dados de nível empresarial oferece.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-3
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 O PostgreSQL é um descendente de código aberto do programa original desenvolvido em
 Berkeley. Ele suporta grande parte dos comandos da linguagem SQL/ANSI padrão e
@@ -146,16 +130,14 @@ oportunidade, para que você possa ir se familiarizando com os termos associados
 serviços providos por um SGBD. Vamos nessa?
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-4
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Development H Production H Expected EOL
 
@@ -195,16 +177,14 @@ seu nome atual: PostgreSQL. O nome "Postgres" ainda é usado como um apelido mai
 fácil de pronunciar.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-5
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Agora com um novo nome ©, o PostgreSQL começou sua contagem de versionamentos
 pela versão 6.0, dando crédito a seus muitos anos anteriores de desenvolvimento. Com a
@@ -250,16 +230,14 @@ MVCC (multiversion concurrency control), que impede que as transações visualiz
 dados inconsistentes.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-6
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Comentário. O PostgreSQL fornece um rico conjunto de ferramentas para
 os
@@ -322,11 +300,11 @@ campos grandes sejam armazenados mesmo se for necessário que parte do dado
 seja armazenada em
 um bloco diferente da memória.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 particionamento de tabelas, verificação de índice bitmap, bloqueio de linha compartilhada,
 papéis (roles), online index builds, advisory locks, warm standby, tuplas do tipo
@@ -387,16 +365,14 @@ bloqueio de leitura, registro dinâmico para registro/start/ stop de
 processos em segundo plano, Logical API Decoding, melhorias de
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-8
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 índice GiN, suporte a Linux huge page e cache de recarga de banco
 de dados via pg_prewarm.
@@ -449,11 +425,11 @@ embutidas ao enorme gerenciamento de partições de tabelas
 soma de verificação off-line e, mais notavelmente, relatórios sobre o progresso dos
 processos de manutenção
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 * Recursos de segurança, incluindo autenticação multifator e criptografia TCP/IP via
 GSSAPI2 (Generic Security Service Application Program Interface)
@@ -503,16 +479,14 @@ para qualquer
 mecanismo, ou seja, aplicações genéricas do ponto de vista de segurança.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-10
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 * índices, que agora são mais eficientes em geral para armazenar dados e aceitar
 operadores com parâmetros.
@@ -564,16 +538,14 @@ PostgreSQL é executado em praticamente todos os sistemas operacionais existente
 incluindo Linux, Unix, Mac OS X e Microsoft Windows, e pode até mesmo ser executado em
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-11
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 hardware comum, como placas Raspberry Pi. Existem também vários provedores de
 computação em nuvem que listam PostgreSQL em seu catálogo de software.
@@ -659,10 +631,8 @@ Windows Platforms
 
 13 2019.2016
 
-12
 2019,2016,2012 R2
 
-11
 2019,2016,2012 R2
 
 10 2016,2012 R2
@@ -683,16 +653,14 @@ Perceba que deixei salientando o link que você deve clicar para baixar o instal
 Passamos então para esta tela:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-12
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 PostgreSQL Database Download
 
@@ -731,11 +699,11 @@ Figura 4 - Selecionei a opção de Windows 64 bits.
 
 Figura 5 - Passo o passo das telas de instalação no Windows
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Este Computador > OS (C:) > Arquivos de Programas > PostgreSQL > 13
 
@@ -847,11 +815,11 @@ Life) e os desenvolvedores do PostgreSQL não farão mais manutenção. Isso nã
 que você não pode executar uma versão antiga do PostgreSQL, significa simplesmente que
 esta versão não receberá nenhuma atualização do projeto oficial.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 EXPLoRANDo A TERMINoLoGIA Do PoSTCRESQL
 
@@ -889,16 +857,14 @@ banco de dados específico no cluster. Um usuário pode se conectar e gerenciar 
 banco de dados no cluster para o qual tenha permissão.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-15
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 O PostgreSQL divide os usuários em duas categorias principais:
 
@@ -951,11 +917,11 @@ PostgreSQL espera
 encontrar os dados e os arquivos de configuração. Em particular, o diretório possui os
 write-ahead logs (WALs) e um espaço para armazenamento dos dados. Sem qualquer
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 uma dessas duas partes, o cluster é incapaz de garantir a consistência dos dados e,
 em
@@ -1010,11 +976,11 @@ processo
 denominado processo de back-end, que por sua vez é responsável por servir uma e apenas
 uma conexão.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 
 Client establishing
@@ -1077,11 +1043,11 @@ diretório.
 * WALs: contém o log de intenção de alterações do banco de dados, usado para
 recuperar dados de um travamento crítico.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 CoNECTANDo A UM SERvIDoR PoSTCRES
 
@@ -1140,16 +1106,14 @@ e, se for o caso, apresenta um sinal para indicar que ele é um superusuário
 (#). Caso o
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-19
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 usuário não seja um administrador de banco de dados, um sinal de (>) é colocado no
 final
@@ -1235,16 +1199,14 @@ inet_server_addr
 Vejamos então como esse assunto já foi cobrado em provas anteriores:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-20
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 1. BANCA: FCC ANO: 2012 ÓRGÃO: TCE-AM PROVA: ANALISTA TÉCNICO DE
 CONTROLE EXTERNO - TECNOLOGIA DA INFORMAÇÃO
@@ -1293,15 +1255,13 @@ distribution; most are developed by users."
 
 Gabarito: A
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-21
 
 
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 TOME
 
@@ -1346,16 +1306,14 @@ possível escutar. Isso permite que você tenha mais de uma placa de rede
 (NICs) por sistema. Na maioria dos casos, nós queremos aceitar conexões
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-22
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 em todas as NICs. Por isso, usamos que significa "todos os endereços
 IP".
@@ -1418,16 +1376,14 @@ métodos de
 acesso mais adiante). Vamos retomara a linha que foi adicionada ao arquivo pg_hba.conf:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-23
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 
 # TYPE DATABASE USER
@@ -1485,16 +1441,14 @@ sempre recusar a conexão e trust que sempre aceitar a conexão sem qualquer con
 às credenciais fornecidas.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-24
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 CRIANDo UM BANCo DE DADoS
 
@@ -1552,11 +1506,11 @@ PostgreSQL.
 Abaixo apresentamos uma questão de prova que cobra este assunto. Usaremos a questão
 para detalharmos alguns aspectos do comando CLUSTER e das definições de LOCALE.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 HORA DE
 
@@ -1621,15 +1575,13 @@ qual Locale está definido para sistema), você pode instruir initdb qual
 locale usar,
 especificando a opção --locale.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-26
 
 
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Por exemplo:
 
@@ -1641,16 +1593,14 @@ Suécia (SE).
 Gabarito: C
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-27
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 ORGANIZAçÃo Do SERVIDoR
 
@@ -1725,16 +1675,14 @@ conhecido como PGDATA. Lembrando que este diretório atua como o contêiner de d
 que armazena todos os dados do cluster, incluindo os dados dos usuários e a configuração
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-28
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 do cluster. O diretório PGDATA está estruturado em vários arquivos e subdiretórios. Os
 arquivos principais são os seguintes:
@@ -1786,16 +1734,14 @@ exibir o
 status de um servidor em execução. Embora o servidor possa ser iniciado manualmente, o
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-29
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 pg_ctl encapsula tarefas como redirecionar a saída do log. Ele também fornece opções
 convenientes para uma parada controlada.
@@ -1844,16 +1790,14 @@ Após iniciar o servidor usando comando pg_ctl, podemos visualizar alguns arquiv
 compõem a configuração do servidor:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-30
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 * postmaster.pid - a existência deste arquivo no diretório de dados que é usado
 para
@@ -1946,16 +1890,14 @@ subprocessos.
 Os principais processos de manutenção são os seguintes:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-31
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 * checkpointer é um processo responsável por executar os pontos de verificação, que
 são pontos no tempo em que o banco de dados garante que todos os dados sejam
@@ -2005,16 +1947,14 @@ sobre colunas é armazenada em pg_attribute (ou tabela do catálogo).
 pg_attribute Descrição das colunas das tabelas
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-32
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 
 pg_cast
@@ -2076,11 +2016,11 @@ outro comando UPDATE ou SET.
 
 Vamos a seguir fazer uma questão a respeito do assunto.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 HORA DE
 
@@ -2159,27 +2099,25 @@ sessão atual
 
 Gabarito: A
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Para saber mais sobre outros elementos contidos nas quase 100 tabelas
 presentes no
 catálogo de dados, acesse: https://www.postgresql.org/docs/current/catalogs.html.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-35
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 AUTENTICAçÃo Do CLIENTE
 
@@ -2250,16 +2188,14 @@ trusf Permite a conexão incondicionalmente. Este método permite a
 qualquer pessoa se conectar ao servidor de banco de dados
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-36
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 PostgreSQL e se autenticar com o usuário que desejarem, sem a
 necessidade de senha ou qualquer outra autenticação.
@@ -2309,16 +2245,14 @@ radius Autentica usando um servidor RADIUS.
 cert Autentica usando certificados de cliente SSL.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-37
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Autentica utilizando o serviço Pluggable Authentication Modules
 (PAM) fornecido pelo sistema operacional.
@@ -2396,16 +2330,14 @@ A rcthi
 Figura 1 - Grupos de Usuários no Postgres
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-38
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 descreveremos como criar e gerenciar papéis, e introduziremos o sistema de privilégios
 do
@@ -2472,16 +2404,14 @@ um exemplo da criação de um ROLE e da execução do comando \du no psql. Logo 
 seguida, faremos uma questão para fixação do conteúdo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-39
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Figura 2 - Uma lista de usuários
 
@@ -2522,14 +2452,14 @@ Apenas para complementar nosso conhecimento a respeito de ROLES, apresentamos
 abaixo a sintaxe completa do comando. Observe que a maioria dos parâmetros é de
 entendimento intuitivo.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
+
 
 
 0515200190-0E-vEevrteorntoMn uMriulorilVoieViireaira
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
 
 CREATE ROLE name [ [ WITH ] option [...]]
 As opções podem ser as seguintes:
@@ -2587,11 +2517,11 @@ tabela, todas as páginas são logicamente equivalentes, portanto, um determinad
 (linha) pode
 ser armazenado em qualquer página.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 A estrutura usada para armazenar a tabela é um arquivo heap. Os arquivos heap são
 listas de
@@ -2631,11 +2561,11 @@ PRATICAR!
 (Ministério da Economia - Desenvolvimento de Sistemas - 2020) Acerca de sistemas
 gerenciadores de banco de dados, julgue o item subsequente.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 No PostgreSQL, a principal unidade de armazenamento é uma tabela, sendo as tabelas
 armazenadas em arquivos de heap.
@@ -2659,16 +2589,14 @@ organizado
 vamos brincar com os comandos de criação e manipulação dos dados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-43
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Como a maioria dos sistemas de banco de dados com capacidade de operar em rede, o
 PostgreSQL se encaixa no paradigma cliente-servidor. O coração do PostgreSQL é
@@ -2726,11 +2654,11 @@ Alguns desses comandos já foram cobrados em provas de concurso. Vejam a
 questão
 abaixo:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 HORA DE
 
@@ -2796,16 +2724,14 @@ Vejam que vale a pena conhecer os principais comandos slash. Optamos por colocar
 uma lista destes comandos com suas respectivas descrições.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-45
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 
 GENERAL:
@@ -2916,11 +2842,11 @@ Vamos agora passar a analisar as peculiaridades dos comandos DDL do
 PostgreSQL,
 começando pelo principal comando desta categoria: o CREATE TABLE.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 CREATE DATABASE
 
@@ -2994,16 +2920,14 @@ O comando CREATE TABLE irá criar uma tabela nova, inicialmente vazia, no banco 
 dados. A tabela será de propriedade do usuário que emite o comando.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-47
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Se o nome do esquema for fornecido (por exemplo, CREATE TABLE esquema.tabela ...),
 então a tabela será criada no esquema especificado. Caso contrário, ela é
@@ -3084,16 +3008,14 @@ FOREIGN KEY ( columnjiame [, ... ] ) REFERENCES reftable [ ( refcolumn [>...])]
 [ DEFERRABLE | NOT DEFERRABLE ] [ INITIALLY DEFERRED | INITIALLY IMMEDIATE ]
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-48
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 CREATE SEQUENCE
 
@@ -3156,11 +3078,11 @@ faturados ocupam uma pequena fração da tabela. Se esta é uma seção usada
 com
 frequência, pode melhorar o desempenho criando um índice apenas para esta parte. Outra
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 aplicação possível é a utilização da cláusula WHERE junto com UNIQUE para exigir a
 unicidade de um subconjunto de uma tabela.
@@ -3227,16 +3149,14 @@ AS query
 [ WITH [ CASCADED | LOCAL ] CHECK OPTION ]
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-50
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 3. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
@@ -3291,15 +3211,13 @@ Por fim, a nossa resposta, a alternativa E. Veja que o comando da questão
 não faz
 referência a nenhuma tabela para que sejam extraídos o tipo e o nome dos atributos, sendo
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-51
 
 
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 necessário dar-lhe um nome e um tipo. Veja abaixo como ficaria a sintaxe
 correta do
@@ -3357,11 +3275,11 @@ TO tabela [ WHERE condição ]
 
 DO [ ALSO | INSTEAD ] { NOTHING | command | ( command ; command ...) }
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 O comando CREATE TRIGGER cria um gatilho. O gatilho fica associado a uma tabela,
 visão ou tabela estrangeira especificada e executa a função especificada quando ocorrem
@@ -3423,16 +3341,14 @@ TRUNCATE -
 TABELAS
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-53
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 
 AFTER
@@ -3491,16 +3407,14 @@ DELETE
 TRUNCATE
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-54
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 OUTRoS CoMANDoS DDL
 
@@ -3530,16 +3444,14 @@ Visando analisar o passo a passo da execução do comando SELECT, apresentaremos
 seguir a sintaxe do comando:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-55
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 [ WITH [ RECURSIVE ] with_query [, ...] ]
 
@@ -3641,16 +3553,14 @@ para
 cada grupo de linha ou linha selecionada.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-56
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 SELECT DISTINCT elimina as linhas duplicadas a partir do resultado. SELECT DISTINCT
 ON elimina linhas que correspondem a todas as expressões especificadas. SELECT ALL
@@ -3713,16 +3623,14 @@ implícita será
 preenchida com um valor padrão. O valor padrão será o declarado ou nulo, se não houver
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-57
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 nenhum. Se a expressão de qualquer coluna não é do tipo de dados correto, a conversão
 automática de tipo será tentada.
@@ -3782,16 +3690,14 @@ DELETE FRQM [ ONLY ] table_name [ * ] [ [ AS ] alias ]
 ...]
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-58
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 UPDATE
 
@@ -3848,11 +3754,11 @@ cláusula SELECT.
 E em erro, pois múltiplas inserções são possíveis somente com a utilização de
 colchetes para a limitação dos registros.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Comentário. Para respondermos a essa questão, precisaríamos de mais detalhes sobre a
 tabela. Mas, considerando que ela só possui essas três colunas e que os tipos de
@@ -3862,11 +3768,11 @@ products. Desta forma, podemos marcar nossa resposta na alternativa B.
 
 Gabarito: B.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 PECULIARIDADES DoS TIPoS DE DADoS Do PoSTCRESQL
 
@@ -3930,8 +3836,8 @@ ser difícil. Por exemplo, você pode armazenar 763 como uma cadeia de caractere
 *
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
 
 caso, você irá armazenar os símbolos 7, 6 e 3, não o valor numérico 763. Por
 conseguinte,
@@ -3992,11 +3898,11 @@ sugerimos que você armazene quantias monetárias como NUMERIC().
 
 Observem abaixo uma tabela com os tipos numéricos presentes no PostgreSQL:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Name Storage Size Range
 
@@ -4052,11 +3958,11 @@ Comentário: A questão trata dos tipos de dados numéricos do PostgreSQL.
 Observem
 abaixo uma tabela que vimos com os tipos numéricos presentes no PostgreSQL:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Name Storage Size Range
 
@@ -4129,11 +4035,11 @@ questão sobre o tipo numérico serial. Conforme vimos na questão anterior, o t
 é utilizado para definir colunas identificadoras únicas, semelhante à propriedade auto
 incremento.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Gabarito: A
 
@@ -4167,11 +4073,11 @@ e o falso
 possam ser inseridos de uma variedade de maneiras, na saída, os valores são sempre t
 para verdadeiro e f para falso.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 TIPoS GEoMÉTRICoS E DE REDE
 
@@ -4226,11 +4132,11 @@ composto a ser criado. Arrays de domínios ainda não são suportados.
 
 Para ilustrar o uso de tipos de arrays, vamos criada uma tabela:
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 
 CREATE TABLE sal_emp (
@@ -4293,16 +4199,14 @@ agora conhecer um pouco sobre os BLOBs ou Binary Large Objects.
 Gabarito: D.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-67
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 LARGE OBoECTS (BLoBS)
 
@@ -4362,22 +4266,19 @@ i
 test=> SELECT lo_unlink(fruit.image) FROM fruit;
 lo_unlink
 
-1
 
 Nomes de caminho completos devem ser usados com objetos grandes, pois o servidor de
 banco de dados é executado em um diretório diferente do que o cliente psql, por exemplo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-68
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Os arquivos são importados e exportados pelo usuário postgres. Então, o Postgres deve
 ter
@@ -4417,16 +4318,14 @@ dados é necessária que minimiza o número de junções a serem feitas durante 
 pesquisa.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-69
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 FUNCIoNALIDADES Do PGADMIN 4
 
@@ -4467,16 +4366,14 @@ na
 figura abaixo:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-70
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 nr?AdmÍn File'*' Object* Tools* Helpv
 
@@ -4610,16 +4507,14 @@ usando o seguinte comando:
 postgres -c log_connections=yes -c log_destination='syslog'
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-71
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 No comando acima estamos definindo que todas as tentativas de conexão com o servidor
 serão adicionadas ao log (log_connectins=yes) e que o destino do log é
@@ -4686,16 +4581,14 @@ completar suas operações como uma transação. Com isso, você pode executar l
 façam commit de cada atualização SQL, ao contrário de funções armazenadas, as quais
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-72
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 requerem que todas as etapas sejam concluídas antes do trabalho ser efetivado de fato.
 Infelizmente, você não pode usá-lo fora da interface do pgAdmin.
@@ -4708,11 +4601,11 @@ Plugin.
 ao agendador de tarefas do SQL Server (SQLAgent). O pgAdmin fornece uma interface
 legal para isso.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 MANIPULANDo oS TIPoS: FUNçõES E oPERADoRES Do
 PoSTCRES
@@ -4760,16 +4653,14 @@ comuns, organizadas pelos tipos de dados suportados. O comando psql \df mostra t
 as funções definidas e seus argumentos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-74
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 
 iype
@@ -4956,11 +4847,11 @@ base-10 logarithm
 
 convert col to a string based on mask
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 
 TVpe
@@ -5085,16 +4976,14 @@ insert into matricula (aluno, disciplina,ano, nota) values (1,1, 2020, 6.5);
 insert into matricula (aluno, disciplina, ano, nota) values (1, 3, 2020, 9.5);
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-76
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 insert into matricula (aluno, disciplina, ano, nota) values (1, 5, 2020, 10.0);
 
@@ -5161,16 +5050,14 @@ O AS é um alias usado para definir o nome dada colunas e da relação de saída
 Gabarito Certo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-77
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 OPERADoRES
 
@@ -5308,16 +5195,14 @@ C initcap.
 D upper.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-78
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 E toupper.
 
@@ -5375,16 +5260,14 @@ declarações if/else em outras linguagens de programação. Vejam a sintaxe do 
 abaixo:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-79
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 CASE L-JHEN condítíon THEN resuLt
 [WHEN ...]
@@ -5448,16 +5331,14 @@ LANGUAGE nome_da linguagem
 pn tipo)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-80
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Cada declaração (declaration) e cada instrução (statement) dentro de um bloco
 são
@@ -5527,16 +5408,14 @@ depender da posição em que é chamada dentro da função. Vejam a sintaxe para
 de variável e atribuição de valor:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-81
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 name [CONSTANT] type [COLLATE collation_name] [NOT NULL]
 [{DEFAULT|:=|=}express/on];
@@ -5605,16 +5484,14 @@ valor de
 string. As palavras-chave permitidas para opção são:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-82
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 MESSAGE - Define o texto da mensagem de erro. Esta opção não pode ser usada quando
 o RAISE
@@ -5651,16 +5528,14 @@ função.
 Aqui está um exemplo de uma função usando RETURN NEXT:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-83
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 CREATE TABLE foo (fooid INTj foosubid INT, fooname TEXT);
 INSERI INTO foo VALUES (1* 2^ "thiree');
@@ -5712,16 +5587,14 @@ mandar sua função PL/pgSQL repetir uma série de comandos. Observem o exemplo 
 da sintaxe dos comandos LOOP, IF e EXIT utilizados em conjunto:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-84
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 LOOP
 
@@ -5774,11 +5647,11 @@ de uma linha na tabela emp é gravado na tabela de emp_audit. A hora atual e o n
 de
 usuário são carimbados na linha, juntamente ao tipo de operação executada nele.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 
 CREATE TABLE emp (
@@ -5874,16 +5747,14 @@ FOR EACH ROW EXECUTE PROCEDURE emp_stamp();
 CREATE TRIGGER emp_audit
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-86
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 AFTER INSERT OR UPDATE OR DELETE ON emp
 
@@ -5891,11 +5762,11 @@ FOR EACH ROW EXECUTE PRQCEDURE process emp audit();
 
 Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 ADMINISTRAçÃo DE SERVIDoRES
 
@@ -5968,16 +5839,14 @@ Para não deixar o conceitos de herança de tabelas em aberto. Vejamos a sua def
 adota o conceito de herança de bancos de dados para objetos. O conceito é muito simples e pode
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-88
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 ser resumido da seguinte forma: suponha que temos duas tabelas, a tabela A e a
 tabela B. Se
@@ -6035,11 +5904,11 @@ ADMINISTRATIVO - SUPORTE E INFRAESTRUTURA DE TI
 
 PROVA: ANALISTA
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Julgue o item abaixo:
 
@@ -6101,16 +5970,14 @@ resultados dessas consultas.
 Gabarito: E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-90
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 TRANSAçõES, MVCC, WALS E PoNToS DE vERIFICAçÃo
 
@@ -6186,11 +6053,11 @@ Como você pode ver no exemplo anterior, o sistema atribuiu dois
 identificadores de transação
 diferentes, respectivamente 707 e 708, a cada instrução, confirmando que essas instruções foram
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 executadas em diferentes transações implícitas. Você provavelmente obterá números
 diferentes
@@ -6281,11 +6148,8 @@ timestamp without time zone A
 
 3 749
 
-751
 
-0
 
-0
 
 6 Addis Abeba 31 2006-02-15 09:45:25
 
@@ -6342,15 +6206,13 @@ timestamp without time zone
 107 2006-02-15 09:45:25
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-92
-
-168
 
 
-Thiago Rodrigues Cavalcanti
+
+
+
 Aula Cavalcanti)
 
 Primeiramente, a linha cujo city_id era igual a 6 foi de fato removida pela transação
@@ -6423,16 +6285,14 @@ você acesso
 aos dados da maneira mais rápida.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-93
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 
 No entanto, encontrar o caminho mais rápido
@@ -6469,7 +6329,6 @@ statement
 
 PARSER
 
-1
 
 REWRITER
 
@@ -6479,7 +6338,6 @@ i
 
 OPTIMIZER
 
-1
 
 EXECUTOR
 
@@ -6518,11 +6376,11 @@ administração de banco de dados e que não existe uma solução mágica ou sol
 portanto,
 é necessário ter experiência e muita prática.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 BACkUP E RESToRE
 
@@ -6575,16 +6433,14 @@ que economiza espaço. Ao lado, temos um exemplo do pg_restore, nele o parâmetr
 executa o restore em paralelo carregando múltiplas tabelas (8) ao mesmo tempo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-95
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Os formatos de arquivo de saída mais flexíveis são o formato de "custom" (-Fc) e o
 formato
@@ -6647,16 +6503,14 @@ Este
 script de saída é equivalente ao formato de saída de texto sem formatação do pg_dump.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-96
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Os backups são importantes porque, mesmo em um produto testado em batalha e de alta
 qualidade como o PostgreSQL, as coisas podem dar errado: muitas vezes, os usuários
@@ -6701,7 +6555,6 @@ Gabarito: D
 Item. 3. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - 13a REGIÃO (PB) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
-1
 
 https://pt.wikibooks.org/wiki/PostgreSQL Pr%C3%Altico/Administra%C3%A7%C3%A3o/Backup e Restor
 
@@ -6710,16 +6563,14 @@ versão
 mais recente do SGBD.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-97
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Paulo utiliza o pg_dump do PostgreSQL para fazer cópia de segurança de um banco
 de dados. Normalmente faz cópias de segurança no formato tar e utiliza o pg_restore
@@ -6783,16 +6634,14 @@ GB para o tamanho das tabelas individuais. Além disso, a ordem relativa de iten
 dados da tabela não pode ser mudada durante a restauração.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-98
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Veja que, com essas informações, podemos nos aventurar a montar nosso comando
 pg_dump:
@@ -6808,16 +6657,14 @@ confirmado na alternativa B.
 Gabarito: B.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-99
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 QUESTõES CoMENTADAS - MULTIBANCAS
 
@@ -6875,16 +6722,14 @@ Se não for especificado um comando, \h irá mostrar todos os comandos SQL que
 possuem ajuda com a sintaxe.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-100
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 O comando \di lista todos os índices do banco. O "i" é para indicar que queremos
 informações sobre os indexes.
@@ -6943,16 +6788,14 @@ c) F, V, V
 d) F, F, V
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-101
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Comentário: Vamos comentar cada um dos itens acima.
 
@@ -7012,16 +6855,14 @@ SELECT n+1 FROM cte WHERE n<5
 )
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-102
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 SELECT * FROM cte;
 
@@ -7081,16 +6922,14 @@ ordem alfabética durante a busca.
 Comentário: Vamos comentar cada uma das alternativas:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-103
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 a) ERRADA. O operador LIKE realiza busca por semelhança de palavras. Essa é sua
 principal finalidade, achar registros que possuem um padrão na sua cadeia de
@@ -7146,16 +6985,14 @@ e) ERRADA. TSQUERY é um formato do tipo consulta para o FTS e é criado pela
 pela função to_tsvector. Não são conjuntos de "TRIGAMS", mas usam o conceito dela
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-104
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 no motor de busca. Para uso nas buscas, são comparadas com o operador @@ e não
 necessariamente há a comparação em ordem alfabética
@@ -7214,16 +7051,14 @@ código aberto, que usa a linguagem SQL, sendo altamente extensível, com suport
 tipo de dados JSON desde a versão 9.2, permitindo a manipulação de dados no
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-105
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 I formato JSON de maneira eficiente, podendo armazenar documentos JSON no dois
 tipos de dados disponíveis: JSON e JSONB.
@@ -7280,16 +7115,14 @@ CREATE [ UNIQUE ] INDEX [ CONCURRENTLY ] [ name ] ON table [ USING method
 ]
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-106
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Tendo como referência essas informações, assinale a opção correta.
 
@@ -7347,16 +7180,14 @@ Em um banco de dados PostgreSQL, a manipulação de ROLES é feita exclusivament
 por comandos CREATE e DROP fornecidos com o banco de dados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-107
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Comentário: Um ROLE (papel) é um conjunto de permissões (ou privilégios) que pode
 ser atribuído aos usuários do banco. No PostgreSQL, a manipulação dos ROLES é
@@ -7411,16 +7242,14 @@ backup, conforme dito na questão.
 Gabarito: B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-108
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 12. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
 ADMINISTRATIVO - SUPORTE E INFRAESTRUTURA DE TI
@@ -7481,16 +7310,14 @@ por uma conexão TCP/IP. O servidor pode aceitar diferentes conexões dos client
 mesmo tempo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-109
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Está correto o que se afirma em
 Al, II e III.
@@ -7549,16 +7376,14 @@ comando:
 CLUSTER [VERBOSE] table_name [ USING index_name ]
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-110
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Sobre as alternativas B e C, acabamos de definí-las acima. A alternativa D trata de
 um
@@ -7620,16 +7445,14 @@ pq_setting. Sabemos o que são os dados de run-time, mas quais exatamente? Segue
 tabela com os parâmetros, os tipos e a descrição das informações contidas na visão.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-111
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Nome Tipo Descrição
 
@@ -7713,11 +7536,11 @@ o servidor irá requerer que o cliente forneça um certificado válido. Nenhum
 aviso ou
 requisição de senha será enviado para o cliente. O atributo CN (COMMON NAME) do
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 certificado será comparado com o nome do usuário do banco de dados solicitado e, se
 eles
@@ -7774,16 +7597,14 @@ usar o comando pg_dump ou pg_dumpall. Já para restauração podemos fazer uso d
 comandos psql ou pg_restore. Logo, nossa resposta pode ser encontrada na alternativa D.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-113
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Se você quiser conhecer alguns exemplo de utilização destes comandos, sugiro que acesse
 este site1.
@@ -7831,7 +7652,6 @@ o pg_dump fornece um mecanismo de arquivamento e transferência flexível. O pg_
 pode ser usado para fazer backup de um banco de dados inteiro. Em seguida, o
 pg_restore
 
-1
 
 https://pt.wikibooks.org/wiki/PostgreSQL Pr%C3%Altico/Administra%C3%A7%C3%A3o/Backup e Restor
 
@@ -7840,16 +7660,14 @@ consistentes com a versão
 mais recente do SGBD.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-114
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 pode ser usado para examinar o arquivo e/ou selecionar as partes do banco de dados
 que
@@ -7915,16 +7733,14 @@ comando. Podemos ainda usar o modificar DELIMITERS para especificar o caractere 
 separa as colunas dentro de cada linha do arquivo. O padrão é um caractere de tabulação
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-115
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 para arquivos em formato de texto ou uma vírgula no formato CSV. Este delimitador deve
 ser um único caractere de um byte. Esta opção não é permitida quando usando o formato
@@ -7997,16 +7813,14 @@ CREATE VIEW vista AS SELECT 'Hello World';
 Isto aconteceu, porque
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-116
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 A a criação de uma visualização requer a utilização da cláusula WHERE para a
 restrição dos dados.
@@ -8068,16 +7882,14 @@ Item. 22. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-117
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Considere o trecho em PostgreSQL abaixo.
 
@@ -8132,16 +7944,14 @@ Observem
 abaixo uma tabela que vimos com os tipos numéricos presentes no PostgreSQL:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-118
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Name Storage Size Range
 
@@ -8213,11 +8023,11 @@ incremento.
 
 Gabarito: A
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 25. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - 1a REGIÃO (RJ) PROVA: TÉCNICO DO
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
@@ -8274,16 +8084,14 @@ alternativa C. Vamos para a próxima questão.
 Gabarito: C.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-120
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 27. BANCA: FCC ANO: 2012 ORGÃO: MPE-PE - Analista Ministerial PROVA:
 Informática
@@ -8341,15 +8149,13 @@ Por fim, tempos as funções GREATEST e LEAST, que selecionam o valor maior ou m
 de uma lista de expressões. Temos a resposta para a questão na alternativa D.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-121
-
-168
 
 
-Thiago Rodrigues Cavalcanti
+
+
+
 Aula Thiago Cavalcanti)
 
 Gabarito: D
@@ -8410,16 +8216,14 @@ para o servidor de banco de dados. O padrão geralmente é 100 conexões, mas po
 menor se as configurações do kernel não o suportarem. Este parâmetro só pode ser
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-122
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 configurado no início do servidor. Ou seja, para alterar esse valor, precisamos
 reiniciar o
@@ -8480,11 +8284,11 @@ IMMUTABLE
 
 RETURNS NULL ON NULL INPUT;
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Comentário: A questão trata dos parâmetros IMMUTABLE, STABLE, VOLATILE. Esses
 atributos informam ao otimizador de consulta sobre o comportamento da função.
@@ -8543,16 +8347,14 @@ Item. 32. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Quest�
 86 e 88
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-124
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Julgue os itens que se seguem, a respeito do processamento de transações e
 otimização de desempenho do SGBD e de consultas SQL.
@@ -8611,16 +8413,14 @@ Veja que Autovacuum não guarda nenhuma relação de similaridade funcional com 
 Podemos afirmar, portanto, que a alternativa está incorreta. Sabemos que o AWR significa
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-125
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Automatic Workload Repository, ou seja, é um repositório de informações a respeito da
 carga de trabalho do banco de dados. O framework do AWR coleta, processa e mantém
@@ -8680,18 +8480,16 @@ Gabarito: C
 Item. 34. BANCA: FCC - Técnico Judiciário (TRT 2a
 Especializado/Tecnologia da lnformação/2018
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
+
 
 
 Região)/Apoio
 
-126
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Considere que um Técnico de TI deseja criar as tabelas abaixo em um banco de dados
 PostgreSQL 8 aberto e em condições ideais.
@@ -8757,16 +8555,14 @@ Item. 35. BANCA: CESPE - Analista Judiciário (TRT 7a Região)/Apoio
 Especializado/Tecnologia da lnformação/2017
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-127
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 No sistema gerenciador de banco de dados PostgreSQL, a restrição de acesso pelo
 endereço IP do cliente é feita mediante alteração do arquivo de configuração
@@ -8843,16 +8639,14 @@ Quando a cláusula WHERE está presente, um índice parcial é criado. Um índic
 é um índice que contém entradas para apenas uma parte de uma tabela, geralmente
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-128
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 uma porção mais útil para a indexação do que o resto do quadro. Da mesma forma, os
 índices também são recomendados para utilização nas cláusulas ORDER BY e
@@ -8910,16 +8704,14 @@ abaixo
 com uma lista de pastas criadas pela execução do comando initdb.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-129
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 
 This PC ► Windows (G) ► postgres
@@ -9032,16 +8824,14 @@ CREATE TABLE processo (proc_num character(24));
 INSERT INTO processo SELECT '0000125-40.' || '1981.403.6100';
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-130
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 SELECT proc_num, octet_length(proc_num) FROM processo;
 
@@ -9104,16 +8894,14 @@ I
 UPDATE salario SET salario = salario + 1000.00
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-131
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 WHERE nome = 'Marcos';
 COMMIT;
@@ -9180,16 +8968,14 @@ na ordem em que foram declaradas; ou os primeiros N nomes de colunas, se existir
 apenas N colunas fornecidas na cláusula VALUES ou na consulta. Os valores fornecidos
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-132
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 pela cláusula VALUES ou pela consulta são associados à lista de colunas explícita ou
 implícita da esquerda para a direita.
@@ -9251,16 +9037,14 @@ CASE WHEN condição THEN resultado
 [WHEN ...]
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-133
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 [Resultado ELSE]
 END.
@@ -9319,16 +9103,14 @@ desses parâmetros é o FILLFACTOR, sendo que no caso de
 a) índices B-Tree, seu valor padrão é 50.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-134
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 b) tabelas, pode variar entre os valores 50 e 100.
 
@@ -9392,16 +9174,14 @@ ON {[ TABLE ] table_name [, ...]
 | ALL TABLES IN SCHEMA schema_name [, ...]}
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-135
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 TO {[ GROUP ] role_name | PUBLIC } [, ...] [ WITH GRANT OPTION ]
 
@@ -9456,16 +9236,14 @@ b) 0048432784000
 c) 48432784
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-136
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 d) 48723484
 
@@ -9519,16 +9297,14 @@ log_directory podem ser acessados. O uso dessas funções é restrito aos superu
 São quatro as funções:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-137
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 pg_ls_dir retorna todos os nomes do diretório especificado, exceto as entradas especiais
 H II Q II II
@@ -9586,11 +9362,11 @@ comandos podem disparar outros gatilhos. Isto é conhecido como gatilhos em casc
 cascading triggers. Não há nenhuma limitação para o número de níveis desta cascata. É
 possível que as cascatas provoquem uma invocação recursiva do mesmo gatilho; por
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 exemplo, um INSERT pode executar um comando que insere uma linha adicional na mesma
 tabela, fazendo com que o gatilho INSERT possa ser disparado mais uma vez.
@@ -9647,16 +9423,14 @@ O CROSS JOIN é basicamente um produto cartesiano entre as duas relações parti
 da junção.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-139
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Vejam que confirmamos nossa resposta na alternativa A.
 
@@ -9713,16 +9487,14 @@ não
 existem na documentação do PostgreSQL. Resta, portanto, analisarmos a alternativa D.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-140
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 A função pg_sleep aparece dentro das funções utilizadas para gerar atrasos nas execuções
 de um processo no servidor. São basicamente três comandos:
@@ -9781,16 +9553,14 @@ Tecnologia da Informação
 No banco de dados PostgreSQL, o comando MOVE é utilizado para reposicionar
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-141
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 A uma tabela em um banco de dados.
 B uma linha em uma tabela.
@@ -9856,16 +9626,14 @@ registro, ou uma lista de variáveis simples, separadas por vírgulas, da mesma 
 que o
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-142
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 comando SELECT INTO. Se não houver nenhuma linha seguinte, o alvo é definido como
 NULL(s), tal como acontece com SELECT INTO. A variável especial FOUND pode verificar
@@ -9923,16 +9691,14 @@ bloco de transação, todas as declarações após o comando BEGIN serão execut
 uma única transação até que um COMMIT ou ROLLBACK explícito. Por padrão (sem o
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-143
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 BEGIN), o PostgreSQL executa as transações em modo "autocommit", isto é, cada
 comando é executado em sua própria transação e uma efetivação é implicitamente
@@ -9990,16 +9756,14 @@ C criar uma tabela, inicialmente vazia, no banco de dados corrente.
 D registrar um novo tipo de dado para uso no banco de dados corrente.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-144
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 E registrar uma nova linguagem procedural a ser utilizada em consultas ao banco de
 dados.
@@ -10060,16 +9824,14 @@ D xmlagg.
 E xmlconcr.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-145
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Comentário. Vejamos as ações feitas por cada uma das funções xml da questão. Antes,
 porém, precisamos eliminar da nossa analise as alternativas que não são funções XML.
@@ -10085,11 +9847,11 @@ Para a lista completa das funções XML, sugiro olhar a documentação oficial a
 
 Gabarito: D.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 LISTA DE QUESTõES - MULTIBANCAS
 
@@ -10145,16 +9907,14 @@ Item. 3. IBFC - Técnico Judiciário (TRE PA)/Apoio Especializado/Operação de
 Computadores/2020
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-147
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Quanto às principais características do PostgreSQL, analise as afirmativas abaixo e dê
 valores Verdadeiro (V) ou Falso (F).
@@ -10214,16 +9974,14 @@ realizando o ranqueamento de semelhança entre as palavras do resultado em rela�
 às palavras da busca.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-148
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 c) Erros de ortografia podem ser tratados pelo mecanismo de busca FTS, por
 semelhança entre os termos.
@@ -10282,16 +10040,14 @@ O PostgreSQL é um sistema gerenciador de banco de dados objeto-relacional
 JSonb.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-149
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 8. VUNESP - Analista de Tecnologia da Informação (Pref Olímpia)/2019
 
@@ -10346,11 +10102,11 @@ por comandos CREATE e DROP fornecidos com o banco de dados.
 
 Item. 11. IDECAN - Técnico (IF Baiano)/Tecnologia da Informação 72019
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Sobre o PostgreSQL, assinale a alternativa correta.
 
@@ -10405,11 +10161,11 @@ A I, II e III.
 B I e II, apenas.
 C I e III, apenas.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 D II e III, apenas.
 E III, apenas.
@@ -10459,11 +10215,11 @@ padrão, e é aceito, neste caso, com o uso dos protocolos TCP, IP ou NTP.
 Item. 17. BANCA: FCC - Analista em Gestão (DPE AM)/Especializado em Tecnologia da
 Informação de Defensoria/Analista de Sistema/2018
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 No PostgreSQL 9.0, para efetuar o backup e a restauração de um banco de dados
 utilizam-se, respectivamente, os comandos
@@ -10516,11 +10272,11 @@ uma tabela de um banco de dados, é o comando:
 
 (e) EXPORT.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 20. BANCA: CESPE - Oficial Técnico de Inteligência/Área 9/2018
 
@@ -10577,11 +10333,11 @@ cláusula SELECT.
 E em erro, pois múltiplas inserções são possíveis somente com a utilização de
 colchetes para a limitação dos registros.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 23. BANCA: FCC - Analista Judiciário (TRT 23a Região)/Apoio
 Especializado/Tecnologia da lnformação/2016
@@ -10638,16 +10394,14 @@ D . . . teste [][]...
 E . . . teste [ ] x [ ]. . .
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-155
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 26. BANCA: FCC ANO: 2012 ÓRGÃO: TCE-AM PROVA: ANALISTA TÉCNICO DE
 CONTROLE EXTERNO - TECNOLOGIA DA INFORMAÇÃO
@@ -10704,16 +10458,14 @@ Item. 29. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Quest�
 71 e 72
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-156
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Um sistema gerenciador de banco de dados (SGBD) instalado no Linux deve ser
 configurado de modo a permitir os seguintes requisitos:
@@ -10770,16 +10522,14 @@ como as transações concorrentes se comportarão no SGBD. No Postgres 9.6, o n�
 de isolamento padrão é READ COMMITTED, mas pode ser alterado para
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-157
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 SERIAZABLE por meio do comando SET TRANSACTION ISOLATION LEVEL
 SERIAZABLE.
@@ -10839,16 +10589,14 @@ d) constraint departamento(codDep)
 e) references departamento(codDep)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-158
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 35. BANCA: CESPE - Analista Judiciário (TRT 7a Região)/Apoio
 Especializado/Tecnologia da lnformação/2017
@@ -10904,16 +10652,14 @@ d) gunzip.
 e) sql_backup.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-159
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 Item. 38. BANCA: CESPE ANO: 2015 ÓRGÃO: CGE-PI PROVA: AUDITOR
 GOVERNAMENTAL - TECNOLOGIA DA INFORMAÇÃO
@@ -10971,11 +10717,11 @@ I
 UPDATE salario SET salario = salario + 1000.00
 WHERE nome = 'Marcos';
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 COMMIT;
 
@@ -11032,11 +10778,11 @@ DADOS
 [49] No sistema gerenciador de banco de dados PostgreSQL 8 (versão 8.3) há duas
 bases de dados padrão utilizadas quando se cria uma nova base de dados. Se o
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 objetivo for utilizar a base de dados padrão denominada templateO, o comando a ser
 empregado na criação da base de dados teste, é CREATE DATABASE
@@ -11096,16 +10842,14 @@ SELECT TRIM (0 FROM 0004872348400) AS "Exemplo";
 No Oracle:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-162
-
-168
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
+
 
 SELECT TRIM (0 FROM 0004872348400) "Exemplo" FROM sys.dual;
 
@@ -11157,11 +10901,11 @@ A INNER OUTER JOIN ON.
 B LEFT OUTER JOIN ON.
 C RIGHT OUTER JOIN ON.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 D NATURAL JOIN.
 ECROSS JOIN.
@@ -11212,11 +10956,11 @@ B uma tabela remota.
 
 C um banco de dados do tipo cluster.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 D uma visualização ( VIEW ).
 
@@ -11264,11 +11008,11 @@ D registrar um novo tipo de dado para uso no banco de dados corrente.
 E registrar uma nova linguagem procedural a ser utilizada em consultas ao banco de
 dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 Item. 56. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Técnico Ministerial PROVA:
 Informática
@@ -11306,11 +11050,11 @@ C xmlgrep.
 D xmlagg.
 E xmlconcr.
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-Thiago Rodrigues Cavalcanti
-(Prof. Thiago Cavalcanti)
+
+
+
 
 GABARITo
 
@@ -11374,12 +11118,10 @@ Item. 51. D 52. E
 Item. 55. B 56. D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-167
 
-168
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

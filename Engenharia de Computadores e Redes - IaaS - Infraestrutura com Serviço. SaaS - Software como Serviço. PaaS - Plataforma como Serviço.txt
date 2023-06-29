@@ -1,7 +1,7 @@
 Capítulo. Engenharia de Computadores e Redes - IaaS - Infraestrutura com Serviço. SaaS - Software como Serviço. PaaS - Plataforma como Serviço.
 
 
-índice
+Índice
 
 1) Computação em Nuvem
 
@@ -15,47 +15,36 @@ Sumário
 
 Cluster, Grid e Balanceamento de Carga
 
-3
 
 Cluster
 
-3
 
 Grid
 
-3
 
 Balanceamento de Carga
 
-4
 
 Computação em Nuvem (Cloud Computing)
 
-7
 
 Co-location
 
-7
 
 Hosting
 
-8
 
 Nuvem Privada
 
-10
 
 Nuvem Pública
 
-10
 
 Nuvem Comunitária
 
-11
 
 Nuvem Híbrido
 
-11
 
 Arquiteturas de Cloud Computing
 
@@ -63,96 +52,73 @@ Arquiteturas de Cloud Computing
 
 Infrastruture as a Service (laaS)
 
-13
 
 Platform as a Service (PaaS)
 
-13
 
 Software as a Service (SaaS)
 
-14
 
 Communication as a Service (CaaS)
 
-14
 
 Data base as a Service (DBaaS)
 
-14
 
 Function as a Service (FaaS)
 
-15
 
 Everything as a Service (XaaS)
 
-15
 
 Workloads.
 
-16
 
 Tipos de migração
 
-21
 
 Serverless.
 
-24
 
 Serviços AWS- GOOGLE - AZURE
 
-25
 
 Questões Comentadas.
 
-26
 
 Cluster e Grid
 
-26
 
 Computação em Nuvem
 
-28
 
 Questões Comentadas Complementares.
 
-37
 
 Computação em Nuvem
 
-37
 
 Lista de Questões.
 
-43
 
 Cluster e Grid
 
-43
 
 Computação em Nuvem
 
-44
 
 Lista de Questões Complementares.
 
-48
 
 Computação em Nuvem
 
-48
 
 Gabarito.
 
-52
-
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-1
+
+
 
 
 André Castro
@@ -160,21 +126,17 @@ André Castro
 
 Gabarito - Questões CESPE
 
-52
 
 Gabarito - Questões FCC
 
-52
 
 Resumo
 
-53
 
 Considerações Finais
 
-55
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -240,7 +202,7 @@ Algumas outras características que são muito importantes a respeito do Grid:
 * A administração e gerência dos dispositivos é descentralizada, ou seja, a NASA não controla os
 dispositivos pessoais dos usuários que participam do Grid, mas sim os próprios donos;
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -292,11 +254,9 @@ ou dispositivos sem que o serviço seja afetado.
 
 Podemos dividir a implementação do balanceamento de carga em duas categorias:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-6
 
 
-58
+
 
 
 André Castro
@@ -326,11 +286,9 @@ Percebe-se que todo o tráfego é encaminhado ao servidor de Banco de dados. Já
 figura a seguir, temos
 uma implementação de balanceamento de carga em software:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-7
 
 
-58
+
 
 
 André Castro
@@ -344,8 +302,7 @@ os servidores se comunicam para atender de forma alternada às requisições.
 
 Já na figura abaixo, temos a implementação de um balanceamento em hardware:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-8
+
 
 www.estrategiaconcursos.com.br
 ,s"'
@@ -482,7 +439,7 @@ pagamento sob demanda (Pay-per-use). Abaixo algumas características de um
 ambiente de nuvem de
 forma objetiva:
 
-Item. 0.0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+Item. 0.0 
 
 
 André Castro
@@ -536,7 +493,7 @@ divididos em 4 categorias: Nuvem Privada, Nuvem Pública, Nuvem Comunitária e N
 Híbrida. Vamos ver
 cada uma delas:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -696,7 +653,7 @@ e :
 : balanceamento de carga entre nuvens).
 :
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -748,11 +705,9 @@ Dropbox
 
 Reparem que todos os serviços acima podem ser utilizados de forma gratuita ou
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-14
+0 0 
 
 
-58
 
 
 André Castro
@@ -813,7 +768,7 @@ usuário tem acesso e permissão para alterar configurações e parâmetros das
 aplicações hospedadas na
 nuvem. E disponibilizado um ambiente completo de desenvolvimento para o usuário como um sistema
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -869,11 +824,9 @@ Esse tipo de arquitetura de nuvem ainda é um pouco incipiente.
 
 Exemplo: SimpleBD e Amozon Relational Dotobose Service.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-16
 
 
-58
+
 
 
 André Castro
@@ -941,7 +894,7 @@ mercado e às necessidades dos clientes.
 
 \ tipos de serviços podem ser disponibilizados aos usuários. O serviço
 
-0-0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+0-0 
 
 
 André Castro
@@ -996,7 +949,7 @@ Workload ou processos
 de trabalho, ou ainda cargas de trabalho. Basicamente, trata-se do recurso que deverá ser
 trabalhado ou
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -1029,7 +982,7 @@ workloads abaixo, e seus comportamentos. Assim, temos, como base, os tipos a seg
 
 Vamos comentar um pouco sobre cada um deles e seus desdobramentos.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 dos
@@ -1084,7 +1037,7 @@ sexta.
 
 V ESCLARECENDO!
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 ww. estrategiaconcursos. com.br
 
 
@@ -1144,7 +1097,7 @@ de usuários passa a
 diminuir é que começa o processo de desprovisionamento, até retornar para a linhar de base
 original.
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+0 0 
 
 
 André Castro
@@ -1177,7 +1130,7 @@ Por fim, o úlitmo tipo de workload, aquele referenciado sempre com "mudança co
 Aqui, a ideia reside
 também em dois pontos básicos:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -1227,11 +1180,9 @@ Item. 2. Improve-and-move
 
 Item. 3. Remover e substituir (às vezes chamado de rip-and-replace)
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-23
 
 
-58
+
 
 
 André Castro
@@ -1315,11 +1266,9 @@ porque precisam ser refatoradas para que o aplicativo migre. E necessário
 avaliar o tempo e o esforço
 extra como parte do ciclo de vida do aplicativo.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-24
 
 
-58
+
 
 
 André Castro
@@ -1396,11 +1345,9 @@ i Vamos lá... Antes de validarmos os conceitos e tipos, vejam que a questão tr
 chaves e
 o mero conhecimento de inglês ajudaria, pois vejam que o enunciado destaca o modo de
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-25
 
 
-58
+
 
 
 André Castro
@@ -1454,7 +1401,7 @@ técnicas que podem ser referenciadas pelas bancas nos seus termos originais. E 
 segunda, caso tenha
 dificuldade na tradução, em português para entender as características básicas dos serviços.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -1510,7 +1457,7 @@ diversas categorias. Recomendo que naveguem, em cada categoria, para extrair os 
 em destaque
 apresentados.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -1557,11 +1504,9 @@ Os nós em clusters são autônomos e não o são nos GRIDs.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-28
 
 
-58
+
 
 
 André Castro
@@ -1612,11 +1557,9 @@ um único dispositivo lógico, sendo infactível a utilização de SO's distinto
 
 Gabarito: E
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-29
 
 
-58
+
 
 
 André Castro
@@ -1688,11 +1631,9 @@ recursos, com geração de relatórios e medições online. Tal princípio busca
 
 MENSURADOS transparência ao cliente
 
-0-0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-30
+0-0 
 
 
-58
 
 
 André Castro
@@ -1752,7 +1693,7 @@ definição é: "importante característica da computação em nuvem que garante
 cada usuário acesse
 recursos de forma compartilhada sob a ótica de uma arquitetura SaaS".
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -1807,11 +1748,9 @@ principais suítes de soluções para tal.
 
 Gabarito: E
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-32
 
 
-58
+
 
 
 André Castro
@@ -1860,7 +1799,7 @@ trocou o perfil híbrido por restrito.
 
 Gabarito: E
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+0 0 
 
 
 André Castro
@@ -1915,7 +1854,7 @@ pela denominada computação em nuvens (cloud computing) é a recuperação de a
 caso
 danos aos computadores.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -1970,7 +1909,7 @@ operacional utilizados.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -2032,11 +1971,9 @@ Comentários:
 
 Vamos aos itens:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-36
 
 
-58
+
 
 
 André Castro
@@ -2091,7 +2028,7 @@ permitem a computação em nuvem.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -2121,11 +2058,9 @@ processando diversos blocos de informações.
 
 Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-38
 
 
-58
+
 
 
 André Castro
@@ -2179,11 +2114,9 @@ III. O usuário tem um melhor controle de gastos ao usar aplicativos, pois a mai
 computação em nuvem fornecem aplicações gratuitamente e, quando cobrado, o usuário paga somente
 pelo tempo de utilização dos recursos.
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-39
+0 0 
 
 
-58
 
 
 André Castro
@@ -2241,7 +2174,7 @@ PaaS.
 
 Gabarito: D
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -2287,11 +2220,9 @@ interessante reparar que laaS distintos podem servir como base para um mesmo sis
 
 Gabarito: B
 
-O. SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-41
+O. 
 
 
-58
 
 
 André Castro
@@ -2353,7 +2284,7 @@ Temos aí a principal característica da computação em nuvem do tipo laaS:
 manipulação a nível de
 hardware, rede, entre outros elementos característicos de uma infraestrutura de rede e datacenters.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -2420,7 +2351,6 @@ Gabarito: C
 (Pós-Edital) 43
 
 
-58
 
 
 André Castro
@@ -2450,7 +2380,7 @@ Temos aí o exemplo clássico de aplicação do tipo SaaS.
 
 Gabarito: E
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -2490,7 +2420,7 @@ existência de diversos computadores utilizando-se de um único hardware, o que 
 factível a
 execução de sistemas operacionais diferentes.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -2546,7 +2476,7 @@ provedores de serviço oferecem banco de dados e servidores de aplicação. No
 caso de
 ferramentas de desenvolvimento, o único modelo funcional é o de software como serviço (SaaS).
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+0 0 
 
 
 André Castro
@@ -2598,7 +2528,7 @@ computing permite a utilização de diversas aplicações por meio da Internet,
 com a mesma
 facilidade obtida com a instalação dessas aplicações em computadores pessoais.
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+0 0 
 
 
 André Castro
@@ -2659,7 +2589,7 @@ laaS (infrastructure-as-a-service), o consumidor consegue configurar o sistema
 operacional
 utilizado pela nuvem.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -2679,7 +2609,7 @@ Item. 30. (CESPE - FUNPRESP/ Área 8/2016) A computação em nuvem permite o pro
 dados
 de maneira distribuída em máquinas com diferentes arquiteturas físicas.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -2729,11 +2659,9 @@ usuários a servidores online, tornando desnecessário o uso de dispositivos de 
 
 É correto o que consta em
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-50
 
 
-58
+
 
 
 André Castro
@@ -2784,7 +2712,7 @@ dois
 
 I são usados para
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -2845,11 +2773,9 @@ d) SaaS.
 
 e) PaaS.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-52
 
 
-58
+
 
 
 André Castro
@@ -2912,7 +2838,7 @@ d) DBaas - Data Base as a Service.
 
 e) SaaS - Software as a Service.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -2979,7 +2905,7 @@ GABARITo - QUESTõES FCC
 
 7 C
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 André Castro
@@ -3012,11 +2938,9 @@ de Datacenter para os clientes. Ele contempla ainda critérios de segurança fí
 o Hosting - O serviço de hosting está muito mais voltado para o conceito de hospedagem em termos
 de serviço.
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-55
 
 
-58
+
 
 
 André Castro
@@ -3063,7 +2987,7 @@ Once-in-a-lifetime Workload ou Carga de Trabalho Único de Vida
 
 Unpredictable Workload ou Carga de Trabalho Imprevisível
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 ww. estrategiaconcursos. com.br
 
 
@@ -3097,7 +3021,7 @@ Prof. André Castro.
 
 @ProfAndreCastro t.me/ProfessorAndreCastro
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

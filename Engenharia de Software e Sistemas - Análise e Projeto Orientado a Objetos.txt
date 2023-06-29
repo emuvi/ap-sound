@@ -3,9 +3,6 @@ Capítulo. Engenharia de Software e Sistemas - Análise e Projeto Orientado a Ob
 Concursos
 
 
-
-
-
 Índice
 
 1) APOO - Paradigma Orientado a Objetos
@@ -31,11 +28,7 @@ Concursos
 11) Lista de Questões - APOO - Diversas
 
 
-
-
 Diego Carvalho
-
-
 
 
 PARADIGMA ORIENTADo A OBJEToS
@@ -105,12 +98,10 @@ cotidianamente para
 resolver seus problemas?
 
 
-0 0 
+0 0
 
 
-3
 
-193
 
 
 Pois é, já é algo natural! Ele auxilia a modelagem de sistemas, reduzindo a diferença
@@ -181,14 +172,7 @@ despencam em prova. Fechado?
 
 
 
-4
-
-193
-
-
 Diego Carvalho
-
-
 
 
 Classes e Objetos
@@ -221,8 +205,6 @@ eles são únicos,
 mesmo que sejam instâncias de uma mesma classe e que tenham os mesmos valores de variáveis.
 
 
-
-
 O estado reflete os valores correntes dos atributos do objeto em um
 determinado momento.
 
@@ -251,14 +233,7 @@ linguagens orientada a objeto.
 
 
 
-6
-
-193
-
-
 Diego Carvalho
-
-
 
 
 Atributos
@@ -304,14 +279,7 @@ instância; para ser de classe, deve vir precedida de static).
 
 
 
-7
-
-193
-
-
 Diego Carvalho
-
-
 
 
 Métodos
@@ -386,13 +354,7 @@ Late Binding
 
 
 
-8
-
-193
-
-
 Diego Carvalho
-
 
 
 TIPO DE LIGAÇÃO | DESCRIÇÃO
@@ -413,11 +375,6 @@ de ligação é o mais comum quando utilizamos polimorfismo? Late Binding!
 
 
 
-
-
-9
-
-193
 
 
 Mensagens
@@ -467,13 +424,7 @@ são executadas dentro desse objeto e uma mensagem contendo o resultado da opera
 
 
 
-10
-
-193
-
-
 Diego Carvalho
-
 
 
 ao objeto solicitante. Em nosso paradigma, objetos vivem dando ordens para outros
@@ -495,14 +446,7 @@ seus respectivos donos. Relaxem, nós veremos isso mais à frente com o conceito
 
 
 
-11
-
-193
-
-
 Diego Carvalho
-
-
 
 
 Abstração
@@ -532,7 +476,6 @@ Nossa Senhora Aparecida
 
 CO
 
-70
 
 ■S
 
@@ -561,11 +504,6 @@ cn
 
 
 
-
-
-12
-
-193
 
 
 A abstração é um processo mental pelo qual nós seres humanos nos atemos aos aspectos
@@ -603,14 +541,7 @@ ser declarada como abstrata!
 
 
 
-13
-
-193
-
-
 Diego Carvalho
-
-
 
 
 Interface
@@ -698,14 +629,7 @@ Contém construtores.
 
 
 
-14
-
-193
-
-
 Diego Carvalho
-
-
 
 
 Em geral, são mais lentas que
@@ -749,11 +673,7 @@ interface
 especifica o que um objeto pode fazer.
 
 
-
-
 Diego Carvalho
-
-
 
 
 Encapsulamento
@@ -824,13 +744,7 @@ UML —
 
 
 
-16
-
-193
-
-
 Diego Carvalho
-
 
 
 PACOTE X X
@@ -850,7 +764,6 @@ DEFAÜLT X X
 PRIVADO X
 
 
-17
 
 www.estrategiaconcursos.com.br
 / 193
@@ -859,8 +772,6 @@ www.estrategiaconcursos.com.br
 
 
 Diego Carvalho
-
-
 
 
 Polimorfismo
@@ -929,8 +840,6 @@ ser uma
 diferença na quantidade, tipo ou ordem dos parâmetros. O segundo é também conhecido como
 
 
-
-
 polimorfismo por sobrescrita, polimorfismo por inclusão, polimorfismo por herança,
 polimorfismo
 porsubtipo, redefinição ou overriding.
@@ -972,8 +881,6 @@ contextos sem
 necessidade de quaisquer alterações. Nesse caso, um elemento (Ex: função, classe,
 método, etc)
 pode ser escrito genericamente para que possa suportar valores idênticos sem depender do tipo.
-
-
 
 
 Como assim, professor? Vamos imaginar que você tenha listas de diversos tipos: você
@@ -1034,11 +941,6 @@ evitando assim um erro de tipo. Imaginem uma variável do tipo inteiro e uma var
 
 
 
-20
-
-193
-
-
 É possível atribuir um valor inteiro a um tipo real (visto que ele é "maior") de
 forma implícita. Nesse
 momento, ocorre uma coerção (também chamada conversão) de uma variável de um tipo em
@@ -1078,14 +980,7 @@ unique to the subclasse.
 
 
 
-21
-
-193
-
-
 Diego Carvalho
-
-
 
 
 Herança (Generalização/Especialização)
@@ -1142,11 +1037,6 @@ Quando superclasses possuem membros homônimos e a subclasse não redefine esses
 
 
 
-22
-
-193
-
-
 no momento em que um objeto da subclasse tentar referenciar diretamente o membro
 homônimo
 das superclasses, o compilador não saberá a qual membro ele está se referindo.
@@ -1197,14 +1087,7 @@ mesmo nome pode representar muitos comportamentos diferentes.
 
 
 
-23
-
-193
-
-
 Diego Carvalho
-
-
 
 
 Conceitos Básicos
@@ -1305,11 +1188,6 @@ A soLur
 
 
 
-24
-
-193
-
-
 A Análise consiste em atividades necessárias para entender o domínio do problema, isto
 é, o que
 deve ser feito. É uma atividade de investigação, com foco no cliente. Já o Projeto
@@ -1390,8 +1268,6 @@ Empresa
 +getContaQ: String
 
 
-
-
 MODELO DE CLASSES DE
 
 IMPLEMENTAÇÃO
@@ -1418,7 +1294,6 @@ public class Empresa {
 12 public Number CNPJ;
 public String Endereço;
 
-14
 
 public getConta() {
 
@@ -1426,7 +1301,6 @@ public getConta() {
 
 17 }
 
-11
 
 À medida que o sistema é desenvolvido, o modelo é incrementado com novos detalhes. O
 Modelo de Análise enfatiza o desenho lógico, a visão externa, conceituai, abstrata,
@@ -1462,8 +1336,6 @@ Análise para
 o Design. Pessoal, a Análise apresenta quatro atividades principais:
 
 ►
-
-
 
 
 Em 1992, Ivar Jacobson (aquele da UML) propôs uma técnica
@@ -1536,8 +1408,6 @@ controle está estreitamente relacionado à realização de um caso de uso
 específico. Em muitos
 cenários, é possível até dizer que os objetos de controle "executam" as realizações de casos de
 uso.
-
-
 
 
 No entanto, se as tarefas de caso de uso estiverem intrinsecamente relacionadas, alguns
@@ -1613,8 +1483,6 @@ identificação de
 responsabilidades.
 
 
-
-
 Essa identificação e categorização implica que cada classe seja especialista em realizar
 uma tarefa
 específica que comporá o modelo de análise: comunicar-se com atores
@@ -1688,8 +1556,6 @@ criação de
 um novo serviço em uma camada mais baixa, não afetarão camadas inferiores.
 
 
-
-
 A arquitetura em camadas permite melhor separação de responsabilidades;
 decomposição de
 complexidade; encapsulamento de implementação; maior reúso e extensibilidade. No
@@ -1755,13 +1621,7 @@ validação de dados do usuário.
 
 
 
-30
-
-193
-
-
 Diego Carvalho
-
 
 
 RESUMo
@@ -1819,13 +1679,7 @@ instância; para ser de classe, deve vir precedida de static).
 
 
 
-31
-
-193
-
-
 Diego Carvalho
-
 
 
 TIPO DE MÉTODO | DESCRIÇÃO
@@ -1896,11 +1750,6 @@ métodos.
 
 
 
-32
-
-193
-
-
 CONSTRUTORES
 VELOCIDADE
 
@@ -1937,8 +1786,6 @@ derivadas da mesma superclasse podem invocar métodos que têm a mesma
 assinatura, mas comportamentos distintos.
 
 
-
-
 HERANÇA
 
 Trata-se do princípio que permite que classes compartilhem atributos e métodos.
@@ -1948,8 +1795,6 @@ ou especializar operações ou atributos.
 HERANÇA SIMPLES HERANÇA MÚLTIPLA
 
 ENTE CtR CRIAR
-
-
 
 
 NA ANÃLIS&, PÊ5&NHA-5É O PRO0L&MA/ NO PROJfTO, P&5fNHA-5f A SOLUÇÃO/
@@ -1964,7 +1809,6 @@ NA ANÃLI5&, PÊ5ÊNHA-S& O PROBL&MA/ NO PROJÉTO, P&5&NHA-5& A SOLUÇÃO/
 NA ANÃLISf, PÉS&NHA-5& O PROBLEMA/ NO PROJfTO, PÊ6&NHA-6& A SOLUÇÃO/
 NA ANÃLI5É, PfS&NHA-5f O PROBL&MA/ NO PROJ&TO, P&5&NHA-5f A SOLUf
 
-11
 
 
 MODELO DE CLASSES DE ANÁLISE
@@ -2046,14 +1890,7 @@ agindo como coordenador para a realização de casos de uso.
 
 
 
-35
-
-193
-
-
 Diego Carvalho
-
-
 
 
 CLASSE
@@ -2115,13 +1952,7 @@ D PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
 
 
-36
-
-193
-
-
 Diego Carvalho
-
 
 
 QUESTõES CoMENTADAS - CESPE
@@ -2182,13 +2013,7 @@ Gabarito: Errado
 
 
 
-37
-
-193
-
-
 Diego Carvalho
-
 
 
 Item. 4. (CESPE / Petrobrás - 2022) A POO é embasada nos conceitos de
@@ -2248,11 +2073,6 @@ Comentários:
 
 
 
-
-
-38
-
-193
 
 
 Perfeito! Uma interface é uma classe abstrata pura que especifica o que um objeto
@@ -2315,11 +2135,6 @@ Gabarito: Letra A
 
 
 
-39
-
-193
-
-
 n.(CESPE/ ABIN-2018) Se, em tempo de execução de um sistema, ocorrer associação entre
 uma
 entidade e um atributo, então essa associação será considerada um acoplamento dinâmico.
@@ -2380,13 +2195,7 @@ acesso não sejam definidos como público.
 
 
 
-40
-
-193
-
-
 Diego Carvalho
-
 
 
 Gabarito: Correto
@@ -2451,11 +2260,6 @@ Comentários:
 
 
 
-41
-
-193
-
-
 Na verdade, uma classe define atributos, comportamentos e abstrações comuns
 compartilhados
 por um tipo de objeto.
@@ -2516,10 +2320,7 @@ Gabarito: Letra A
 métodos que tenham a mesma assinatura, mas comportamentos distintos, ou seja, em que haja
 
 
-
-
 Diego Carvalho
-
 
 
 alteração do funcionamento interno de um método herdado de um objeto pai. Na
@@ -2575,11 +2376,6 @@ Comentários:
 
 
 
-43
-
-193
-
-
 (a) Correto, métodos de mesmo nome com comportamentos variados; (b) Errado, a questão
 trata
 de sobrescrita que é polimorfismo universal e, não, ad-hoc; (c) Errado, saída
@@ -2618,10 +2414,7 @@ somente
 herda características de uma classe, a herança é do tipo simples.
 
 
-
-
 Diego Carvalho
-
 
 
 Comentários:
@@ -2689,11 +2482,6 @@ Gabarito: Errado
 
 
 
-45
-
-193
-
-
 27.(CESPE / TJDFT - 2015) A combinação de dados com o código que os manipula em um
 único
 objeto é denominada encapsulamento.
@@ -2750,8 +2538,6 @@ saber como ele
 funciona internamente, apenas como transmite os seus atributos.
 
 Comentários:
-
-
 
 
 'Transmitir' foi um verbo pouco adequado utilizado pelo examinador. Na verdade,
@@ -2817,8 +2603,6 @@ estão na mesma hierarquia. Logo, não necessariamente ocorrerá uma herança m�
 Gabarito: Errado
 
 
-
-
 33-(CESPE / INPI - 2013) Em uma operação de sobrecarga, uma classe derivada pode
 redefinir
 operações de sua classe base.
@@ -2877,13 +2661,7 @@ redefinição de métodos, assim como o conceito de ligação tardia.
 
 
 
-48
-
-193
-
-
 Diego Carvalho
-
 
 
 Comentários:
@@ -2940,11 +2718,6 @@ Gabarito: Correto
 
 
 
-49
-
-193
-
-
 4i.(CESPE / FUB - 2011) Um objeto possui dados internos e métodos
 que definem,
 respectivamente, seu estado atual e seu comportamento. Um objeto pode se comunicar com
@@ -2997,11 +2770,6 @@ Gabarito: Correto
 
 
 
-
-
-50
-
-193
 
 
 45-(CESPE / BRB - 2011) Para que a interface pública de uma classe seja considerada
@@ -3067,11 +2835,6 @@ Gabarito: Errado
 
 
 
-51
-
-193
-
-
 48.(CESPE / TRT-RN - 2010) Programa que utilize uma linguagem orientada a objetos
 (00), ao
 incorporar corretamente ao seu funcionamento conceitos como os de encapsulamento, herança
@@ -3097,8 +2860,6 @@ d) generalização, especialização, herança e polimorfismo.
 e) atributos, métodos, instâncias e mensagens.
 
 Comentários:
-
-
 
 
 Os pilares derivados da abstração são: herança, polimorfismo e encapsulamento.
@@ -3153,8 +2914,6 @@ de uma
 coleção de objetos semelhantes.
 
 Comentários:
-
-
 
 
 Perfeito! Essa é a definição de uma classe: descrição generalizada de uma coleção de
@@ -3216,13 +2975,7 @@ Comentários:
 
 
 
-54
-
-193
-
-
 Diego Carvalho
-
 
 
 Perfeito! Um exemplo é a linguagem Java...
@@ -3277,11 +3030,6 @@ Gabarito: Correto
 
 
 
-
-
-55
-
-193
 
 
 62.(CESPE / Banco da Amazônia - 2010) O comportamento de um objeto é definido em sua
@@ -3339,10 +3087,7 @@ uma herança
 múltipla - quando há somente uma, é uma herança simples.
 
 
-
-
 Diego Carvalho
-
 
 
 Gabarito: Correto
@@ -3399,11 +3144,6 @@ Comentários:
 
 
 
-
-
-57
-
-193
 
 
 Classes de Fronteira são utilizadas para modelar a interação entre um ator e o
@@ -3469,8 +3209,6 @@ ser
 fronteiras, controladoras ou entidades. Uma fronteira modela interações entre o sistema e
 
 
-
-
 atores, uma entidade modela apenas objetos persistentes e uma controladora só pode
 controlar
 interações entre instâncias de uma mesma classe.
@@ -3526,10 +3264,7 @@ Comentários:
 Valores? Não, os valores podem ser diferentes.
 
 
-
-
 Diego Carvalho
-
 
 
 Gabarito: Errado
@@ -3590,11 +3325,6 @@ Comentários:
 
 
 
-60
-
-193
-
-
 Perfeito! Ela busca identificar entidades do domínio do problema e essas
 entidades ajudam a
 sustentar a definição das classes de objetos.
@@ -3615,13 +3345,7 @@ Gabarito: Errado
 
 
 
-61
-
-193
-
-
 Diego Carvalho
-
 
 
 QUESTõES CoMENTADAS - FCC
@@ -3681,8 +3405,6 @@ a: 1 - para
 quem for usar a classe não a use de forma errada; e 2 - para que implementação
 seja feita por
 meio dos métodos get e set.
-
-
 
 
 c) permite que um mesmo método possa ter vários comportamentos e a definição de
@@ -3748,13 +3470,7 @@ Item. 4. (FCC / SANASA Campinas - 2019) Considere:
 
 
 
-63
-
-193
-
-
 Diego Carvalho
-
 
 
 Os hidrômetros, relógios registradores de consumo de água, têm determinadas
@@ -3826,11 +3542,6 @@ Gabarito: Letra D
 
 
 
-64
-
-193
-
-
 Item. 6. (FCC / TRT-SC - 2013) Na programação orientada a objetos, as classes podem
 conter, dentre
 outros elementos, métodos e atributos. Os métodos:
@@ -3893,11 +3604,6 @@ b) polimorfismo, funções, métodos, Herança, cópias.
 
 
 
-
-
-65
-
-193
 
 
 c) classe, atributos, operações, Objetos, instâncias.
@@ -3966,11 +3672,6 @@ que a subclasse é uma especialização de superclasse.
 
 
 
-66
-
-193
-
-
 b) Numa árvore genealógica de classes, a classe mais baixa herda os atributos e
 métodos
 somente da superclasse no nível imediatamente acima.
@@ -4033,13 +3734,7 @@ Item. 12. (FCC / TJ-PE - 2012) Sobre orientação a objetos, considere:
 
 
 
-67
-
-193
-
-
 Diego Carvalho
-
 
 
 I. A relação de herança permite modelar as similaridades inerentes a uma classe e
@@ -4104,13 +3799,7 @@ ele é capaz de manter através de seus atributos.
 
 
 
-68
-
-193
-
-
 Diego Carvalho
-
 
 
 Comentários:
@@ -4171,8 +3860,6 @@ Errado. É claro que
 elas podem possuir diferenças, caso contrário não faria sentido.
 
 Gabarito: Letra C
-
-
 
 
 15- (FCC / TST - 2012) Considere que a classe Pessoa possui 3 métodos que podem ser
@@ -4239,13 +3926,7 @@ Gabarito: Letra C
 
 
 
-70
-
-193
-
-
 Diego Carvalho
-
 
 
 Item. 17. (FCC / TST - 2012) Na orientação a objetos:
@@ -4321,10 +4002,7 @@ verdade, são métodos
 sobrescritos e, não, sobrecarregados; (e) Errado. Não vejo relação disso com polimorfismo.
 
 
-
-
 Diego Carvalho
-
 
 
 Gabarito: Letra A
@@ -4383,10 +4061,7 @@ públicas
 e fornecer métodos de captura e configuração privados.
 
 
-
-
 Diego Carvalho
-
 
 
 Comentários:
@@ -4454,8 +4129,6 @@ vantagens na mudança de paradigmas foi que agora temos um outro nível de reusa
 Gabarito: Letra C
 
 
-
-
 2i.(FCC / TRT-RS - 2011) O aumento da produtividade de desenvolvimento e a capacidade
 de
 compartilhar o conhecimento adquirido, representa uma vantagem no uso de
@@ -4520,13 +4193,7 @@ Comentários:
 
 
 
-74
-
-193
-
-
 Diego Carvalho
-
 
 
 (I) Correto. Comportamento por meio de métodos e Estados por meio de atributos; (II)
@@ -4595,11 +4262,6 @@ Comentários:
 
 
 
-75
-
-193
-
-
 O recurso que serve para inicializar os atributos e é executado automaticamente sempre
 que um
 novo objeto é criado é também chamado de método construtor.
@@ -4658,11 +4320,6 @@ Comentários:
 
 
 
-
-
-76
-
-193
 
 
 Perfeito! Primeiro, objetos se comunicam por meio de passagem de mensagem.
@@ -4729,13 +4386,7 @@ a) público, pacote, privado e protegido.
 
 
 
-77
-
-193
-
-
 Diego Carvalho
-
 
 
 b) público, protegido, privado e pacote.
@@ -4800,8 +4451,6 @@ tem-um
 elemento turbinado. Logo, discordo do gabarito...
 
 
-
-
 Gabarito: Letra B
 
 32.(FCC / TRT-RS - 2011) Na taxonomia utilizada para as formas de polimorfismo são,
@@ -4834,8 +4483,6 @@ objetos são
 acessados por outros objetos, protegendo o acesso direto aos mesmos através de operações.
 
 
-
-
 III. Na restrição de multiplicidade é possível determinar o número de atributos e operações
 que
 uma classe pode herdar de uma superclasse.
@@ -4866,8 +4513,6 @@ Gabarito: Letra B
 
 34-(FCC / DPE-SP-2010) Classes e objetos são dois conceitos-chave da programação orientada a
 objetos. Com relação a estes conceitos, é correto afirmar que:
-
-
 
 
 a) uma classe é uma descrição de um ou mais objetos por meio de um conjunto
@@ -4931,13 +4576,7 @@ habitantes, teve um aumento de mais 2.000.000 de novos habitantes. Na associaç�
 
 
 
-81
-
-193
-
-
 Diego Carvalho
-
 
 
 acima aos conceitos da modelagem orientada a objeto, é correto afirmar que
@@ -4997,11 +4636,6 @@ Gabarito: Letra C
 
 
 
-
-
-82
-
-193
 
 
 I. Um objeto pode ser real ou abstrato. Sendo uma instância de uma classe, possui
@@ -5074,13 +4708,7 @@ d) o comportamento de um objeto.
 
 
 
-83
-
-193
-
-
 Diego Carvalho
-
 
 
 e) as operações de uma classe.
@@ -5140,10 +4768,7 @@ objetos,
 este é o conceito que embasa:
 
 
-
-
 Diego Carvalho
-
 
 
 a) a multiplicidade.
@@ -5207,10 +4832,7 @@ estados) e
 comportamentos (métodos ou operações).
 
 
-
-
 Diego Carvalho
-
 
 
 Gabarito: Letra B
@@ -5274,10 +4896,7 @@ são criados é denominado:
 a) void.
 
 
-
-
 Diego Carvalho
-
 
 
 b) interface.
@@ -5343,10 +4962,7 @@ d) I e II, apenas.
 e) I e III, apenas.
 
 
-
-
 Diego Carvalho
-
 
 
 Comentários:
@@ -5404,8 +5020,6 @@ Gabarito: Correto
 Item. 52. (FCC / SEFAZ-SP - 2009) Sobre a visibilidade dos métodos na orientação a objetos considere:
 
 I. Os métodos públicos de uma classe definem a interface da classe.
-
-
 
 
 II. Os métodos privativos de uma classe não fazem parte da interface da classe.
@@ -5474,13 +5088,7 @@ a) polimorfismo.
 
 
 
-89
-
-193
-
-
 Diego Carvalho
-
 
 
 b) encapsulamento.
@@ -5544,10 +5152,7 @@ de uma
 característica típica do polimorfismo.
 
 
-
-
 Diego Carvalho
-
 
 
 Gabarito: Letra A
@@ -5616,13 +5221,7 @@ d) agregação.
 
 
 
-91
-
-193
-
-
 Diego Carvalho
-
 
 
 e) multiplicidade.
@@ -5679,10 +5278,7 @@ Gabarito: Letra E
 62.(FCC / TRT18 - 2008) São dois tipos de relacionamento todo-parte:
 
 
-
-
 Diego Carvalho
-
 
 
 a) agregação e composição.
@@ -5740,17 +5336,10 @@ Proteção de atributos e operações? Trata-se de uma característica típica d
 Gabarito: Letra B
 
 
-
-
 Diego Carvalho
 
 
-
-
-
-
 Diego Carvalho
-
 
 
 QUESTõES CoMENTADAS - FCV
@@ -5819,11 +5408,6 @@ objetos. O SisAut possui a classe Veículo, que compartilha seu código-fonte co
 
 
 
-95
-
-193
-
-
 subclasses: Carro e Moto. As subclasses Carro e Moto aproveitam os métodos e atributos
 da
 classe Veículo.
@@ -5887,10 +5471,7 @@ considerados individualmente no sistema, independente da turma.
 Para representar a relação entre alunos e turma, Pedro deve utilizar:
 
 
-
-
 Diego Carvalho
-
 
 
 a) composição.
@@ -5958,13 +5539,7 @@ e) A implementa B.
 
 
 
-97
-
-193
-
-
 Diego Carvalho
-
 
 
 Comentários:
@@ -6029,11 +5604,6 @@ simultaneamente.
 
 
 
-98
-
-193
-
-
 III. A herança múltipla é a possibilidade de, numa dada classe, coexistirem métodos homônimos
 com múltiplas assinaturas, desde que distintas.
 
@@ -6094,10 +5664,7 @@ Assinale a
 alternativa que atende ao paradigma de Orientação a Objetos.
 
 
-
-
 Diego Carvalho
-
 
 
 a) Herança; isomorfismo; multilateralidade.
@@ -6164,11 +5731,6 @@ derivadas de uma mesma superclasse podem invocar métodos que têm a mesma ident
 
 
 
-100
-
-193
-
-
 (assinatura) mas comportamentos distintos, especializados para cada classe
 derivada, usando
 para tanto uma referência a um objeto do tipo da superclasse é denominado:
@@ -6195,13 +5757,7 @@ Gabarito: Letra D
 
 
 
-101
-
-193
-
-
 Diego Carvalho
-
 
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
@@ -6261,8 +5817,6 @@ c) encapsulamento
 d) subprogramação
 
 Comentários:
-
-
 
 
 Desses conceitos apresentados, apenas o de subprogramação não está relacionado a
@@ -6333,11 +5887,6 @@ Gabarito: Letra D
 
 
 
-103
-
-193
-
-
 5- (AOCP / IBGE - 2019) As classes, bem como os seus objetos, contêm atributos e
 métodos que
 estão intimamente relacionados. Os objetos podem se comunicar entre si, mas eles, em
@@ -6406,11 +5955,6 @@ múltipla, julgue os itens subsequentes.
 
 
 
-104
-
-193
-
-
 I. Com a implementação da herança múltipla, é possível simplificaros programas e
 proporcionar
 soluções para resolver problemas difíceis.
@@ -6476,11 +6020,6 @@ sua implementação.
 
 
 
-105
-
-193
-
-
 c) Refere-se à capacidade de salvar atributos de um objeto em um meio
 permanente de
 persistência, tais como bancos de dados ou arquivos, possibilitando que objetos
@@ -6540,11 +6079,6 @@ classes abstratas.
 
 
 
-
-
-106
-
-193
 
 
 Está(ão) CORRETA(S), apenas, a(s) proposição(ões)
@@ -6611,11 +6145,6 @@ d) Representação do quanto uma classe depende de outra classe do sistema.
 
 
 
-
-
-107
-
-193
 
 
 e) Representação das características essenciais de um objeto e que o diferencia
@@ -6685,11 +6214,6 @@ Comentários:
 
 
 
-108
-
-193
-
-
 À medida que trata do nível de dependência entre módulos de um software é o acoplamento.
 
 Gabarito: Letra E
@@ -6752,11 +6276,6 @@ Gabarito: Letra C
 
 
 
-
-
-109
-
-193
 
 
 a) Sequenciamento, Procedimentos, Bibliotecas e Herança.
@@ -6826,11 +6345,6 @@ Gabarito: Letra C
 
 
 
-110
-
-193
-
-
 2o.(CCV-UFC/ UFC- 2019) Um dos recursos existentes na orientação a objetos é denominado
 polimorfismo. Com relação a esse recurso, é correto afirmar:
 
@@ -6894,13 +6408,7 @@ não é utilizada por muitas das linguagens de programação; (b) Errado, não e
 
 
 
-111
-
-193
-
-
 Diego Carvalho
-
 
 
 Errado, não há essa dependência; (d) Errado, o polimorfismo também pode ocorrer por
@@ -6970,13 +6478,7 @@ o polimorfismo consiste em alterar alguma ação herdada de uma superclasse.
 
 
 
-112
-
-193
-
-
 Diego Carvalho
-
 
 
 Gabarito: Letra A
@@ -7042,13 +6544,7 @@ classes, permitindo que classes compartilhem atributos e métodos.
 
 
 
-113
-
-193
-
-
 Diego Carvalho
-
 
 
 Gabarito: Correto
@@ -7105,10 +6601,7 @@ obrigatoriamente
 possuirtodos os métodos. A palavra "devem" acabou deixando o item errado.
 
 
-
-
 Diego Carvalho
-
 
 
 Gabarito: Errado
@@ -7174,10 +6667,7 @@ como deve
 ser feito.
 
 
-
-
 Diego Carvalho
-
 
 
 Gabarito: Letra B
@@ -7242,10 +6732,7 @@ São os
 tipos de uma associação, EXCETO:
 
 
-
-
 Diego Carvalho
-
 
 
 a) acoplamento.
@@ -7299,8 +6786,6 @@ operações ou
 atributos.
 
 Gabarito: Correto
-
-
 
 
 37- (QUADRIX/CRM-PR-2oI8) Uma classe especifica a estrutura de um objeto, informando
@@ -7357,11 +6842,6 @@ Comentários:
 
 
 
-
-
-118
-
-193
 
 
 O polimorfismo ad-hoc é aquele que pode trabalhar com um número finito de
@@ -7426,11 +6906,6 @@ sobrescrita
 
 
 
-119
-
-193
-
-
 d) no tipo da referência ao objeto em vez do objeto referenciado, quando há a
 sobrecarga
 (overloading) de métodos.
@@ -7491,13 +6966,7 @@ um software passível de erros e difícil de manter.
 
 
 
-120
-
-193
-
-
 Diego Carvalho
-
 
 
 Quais estão corretas?
@@ -7563,10 +7032,7 @@ a) herança
 b) polimorfismo
 
 
-
-
 Diego Carvalho
-
 
 
 c) classe
@@ -7625,8 +7091,6 @@ Errado, na
 verdade, ela pode - sim - incorporar atributos e operações adicionais.
 
 Gabarito: Letra B
-
-
 
 
 49-(IF-TO / IF-TO - 2018) Considere o cenário onde uma Classe B lega suas
@@ -7692,13 +7156,7 @@ objetos herdam todos os componentes da classe pai.
 
 
 
-123
-
-193
-
-
 Diego Carvalho
-
 
 
 Gabarito: Letra A
@@ -7765,13 +7223,7 @@ d) minimiza o consumo de memória e CPU.
 
 
 
-124
-
-193
-
-
 Diego Carvalho
-
 
 
 Comentários:
@@ -7833,10 +7285,7 @@ sobrecarregar.
 Gabarito: Letra B
 
 
-
-
 Diego Carvalho
-
 
 
 56.(PR-4 UFRJ / UFRJ - 2018) Com relação aos conceitos de orientação
@@ -7907,11 +7356,6 @@ Gabarito: Letra A
 
 
 
-126
-
-193
-
-
 58.(IBFC/TJ-PE-20i7) Em um programa orientado a objetos, verifica-se que a classe X
 estende a
 classe Y. Ou seja, pode-se afirmar, pelos preceitos da POO (Programação Orientada a
@@ -7979,11 +7423,6 @@ Comentários:
 
 
 
-127
-
-193
-
-
 (íC) Herança é o mecanismo pelo qual uma classe pode estender outra classe
 ou, ainda, ser
 estendida de outra classe; (2A) Métodos definem as habilidades dos objetos; (3B)
@@ -8047,13 +7486,7 @@ do... polimorfismo.
 
 
 
-128
-
-193
-
-
 Diego Carvalho
-
 
 
 Gabarito: Letra E
@@ -8117,8 +7550,6 @@ são
 especializações de Motor. Motor e Gerador são especializações de Máquina. Todas as
 classes
 respondem a uma mensagem chamada "calcularPotencia", sem argumentos, que calcula e
-
-
 
 
 retorna um número real que indica potência do objeto, em watts, de acordo com os
@@ -8191,13 +7622,7 @@ Esses conceitos correspondem, respectivamente, ao que se conhece pelos nomes de:
 
 
 
-130
-
-193
-
-
 Diego Carvalho
-
 
 
 a) I - Tipo; II - Classe
@@ -8261,10 +7686,7 @@ encapsulamento), que
 podem ser visíveis ou invisíveis... agora só pode ser encapsulamento mesmo.
 
 
-
-
 Diego Carvalho
-
 
 
 Gabarito: Letra D
@@ -8324,10 +7746,7 @@ a) As classes podem formar heranças segmentadas em classes adjacentes.
 b) Overflow é a redefinição do fluxo de uma classe, em uma de suas subclasses.
 
 
-
-
 Diego Carvalho
-
 
 
 c) Overriding é a redefinição de um método, definido em uma classe, em
@@ -8389,11 +7808,6 @@ requisitada por B.
 
 
 
-
-
-133
-
-193
 
 
 III - A existência da mesma operação polimórfica definida em duas classes, ClasseA e
@@ -8462,13 +7876,7 @@ apenas uma subclasse.
 
 
 
-134
-
-193
-
-
 Diego Carvalho
-
 
 
 Comentários:
@@ -8528,8 +7936,6 @@ dados e os
 métodos que os manipulam.
 
 
-
-
 c) Um método de um tipo de objeto referência somente as estruturas de dados desse
 tipo de
 objeto. Comparativamente, é similar às funções e procedures do universo da programação.
@@ -8563,13 +7969,7 @@ Gabarito: Letra A
 
 
 
-136
-
-193
-
-
 Diego Carvalho
-
 
 
 LISTA DE QUESTõES - CESPE
@@ -8636,13 +8036,7 @@ b) polimorfismo.
 
 
 
-137
-
-193
-
-
 Diego Carvalho
-
 
 
 c) generalização.
@@ -8713,11 +8107,6 @@ b) a identificação da assinatura do método corresponde ao seu nome.
 
 
 
-138
-
-193
-
-
 c) uma classe derivada da classe-mãe tem vários métodos com a mesma
 assinatura, e o
 compilador realiza o primeiro deles.
@@ -8780,11 +8169,6 @@ herda características de uma classe, a herança é do tipo simples.
 
 
 
-
-
-139
-
-193
 
 
 25.(CESPE/TRE-GO-2oIS) Uma classe abstrata possui instâncias diretas, bem como suas
@@ -8853,11 +8237,6 @@ mesmo nome.
 
 
 
-140
-
-193
-
-
 36.(CESPE / TRE-RJ - 2012) As heranças, que são princípios de orientação a objetos,
 permitem o
 compartilhamento de atributos e métodos pelas classes e são usadas com o
@@ -8921,8 +8300,6 @@ por
 meio de mensagens. Por exemplo, quando o objeto A deseja que o objeto B execute um
 de seus
 métodos, envia a este uma mensagem. Algumas vezes, o objeto receptor precisa de mais
-
-
 
 
 informação para que saiba exatamente o que deve fazer, de modo que essa informação
@@ -8992,11 +8369,6 @@ exemplo, mediante o agrupamento de objetos e classes.
 
 
 
-142
-
-193
-
-
 Item. 56. (CESPE / MPU - 2010) Considerando as características do relacionamento entre uma
 classe e
 suas subclasses, é correto afirmar que toda implementação de subclasse é polimórfica.
@@ -9057,11 +8429,6 @@ comportamentos e atributos, respectivamente.
 
 
 
-
-
-143
-
-193
 
 
 Item. 68. (CESPE / MPE-RR - 2008) Na orientação a objetos, um objeto tipicamente
@@ -9128,8 +8495,6 @@ os níveis
 superiores.
 
 
-
-
 Item. 78. (CESPE / TRE-AL - 2004) O polimorfismo ocorre quando uma subclasse herda
 atributos e
 operações de classes diferentes.
@@ -9147,10 +8512,7 @@ implementação
 tem igual importância e impacto no projeto e na análise orientados a objetos.
 
 
-
-
 Diego Carvalho
-
 
 
 GABARITo
@@ -9236,8 +8598,6 @@ Item. 80. ERRADO
 27- CORRETO 54- CORRETO
 
 
-
-
 LISTA DE QUESTõES - FCC
 
 í. (FCC / METRÔ-SP - 2019) Considere as seguintes situações:
@@ -9295,8 +8655,6 @@ Física e uma classe Pessoa Jurídica possuem o atributo nome como uma informaç
 comum
 e que o CPF é um atributo específico para a Pessoa Física e o CNPJ é um atributo específico para
 Pessoa Jurídica. Então o Analista criou uma outra classe com o atributo nome e seu objetivo é
-
-
 
 
 que haja herança deste e, eventualmente, outros métodos e atributos, para as classes
@@ -9367,12 +8725,7 @@ c) precisam possuir corpo em interfaces e classes abstratas.
 
 
 
-1
 
-
-148
-
-193
 
 
 d) podem ser sobrescritos em aplicações que possuem relação de herança.
@@ -9444,8 +8797,6 @@ d) II, III eV.
 e) II, IV eV.
 
 
-
-
 Item. 10. (FCC / TRF2 - 2012) Sobre orientação a objetos é correto afirmar:
 
 a) Na hierarquia de classes, se superclasse é uma generalização de subclasses, pode-se
@@ -9506,8 +8857,6 @@ d) III, apenas.
 e) II, apenas.
 
 
-
-
 Item. 13. (FCC / TRE-CE - 2012) Sobre orientação a objetos, é INCORRETO afirmar:
 
 a) os conceitos de generalização e especialização da orientação a objetos estão
@@ -9566,8 +8915,6 @@ excluir, mas estes
 métodos são sobrescritos na classe Aluno e Professor com implementações bastante
 distintas,
 em função dos dados associados a cada um deles. O exemplo ilustra o conceito de:
-
-
 
 
 a) hereditariedade.
@@ -9634,8 +8981,6 @@ abstratos. O
 polimorfismo obriga que as classes-filhas implementem os métodos e atributos
 desta classe-
 pai. O acesso aos atributos da classe-pai independe do modificador utilizado.
-
-
 
 
 d) o conceito de herança estabelece que uma classe possa aproveitar a
@@ -9706,12 +9051,7 @@ e fornecer métodos de captura e configuração privados.
 
 
 
-1
 
-
-153
-
-193
 
 
 2o.(FCC / INFRAERO -2011) Sobre a programação orientada a objetos, analise:
@@ -9782,11 +9122,6 @@ Na orientação a objetos é correto o que se afirma em:
 
 
 
-154
-
-193
-
-
 a) I, II e III, apenas.
 
 b) I, II e IV, apenas.
@@ -9855,8 +9190,6 @@ subrotinas) são
 encapsuladas nos próprios objetos e passam a designar-se:
 
 
-
-
 a) atributo.
 
 b) herança.
@@ -9919,8 +9252,6 @@ Item. 30. (FCC / TRT-MS - 2011) Propriedade pela qual duas ou mais classes deriv
 uma mesma
 superclasse podem invocar métodos que têm a mesma assinatura mas comportamentos
 distintos. Trata-se de:
-
-
 
 
 a) polimorfismo.
@@ -9989,8 +9320,6 @@ d) II e III, apenas.
 e) I e II, apenas.
 
 
-
-
 34-(FCC / DPE-SP-2010) Classes e objetos são dois conceitos-chave da programação
 orientada a
 objetos. Com relação a estes conceitos, é correto afirmar que:
@@ -10051,8 +9380,6 @@ d) objeto, instância, operação.
 e) classe, objeto, associação pelo método de agregação.
 
 Item. 37. (FCC /TRE-RS - 2010) Um objeto é, na orientação a objetos,
-
-
 
 
 a) uma rotina de programação contida em uma classe que pode ser chamada diversas
@@ -10119,12 +9446,7 @@ c) o estado de um objeto.
 
 
 
-1
 
-
-159
-
-193
 
 
 d) o comportamento de um objeto.
@@ -10196,8 +9518,6 @@ e) encapsulamento, polimorfismo e interface.
 a) As classes, os métodos e as mensagens.
 
 
-
-
 b) A identidade, os atributos e as operações.
 
 c) O encapsulamento, a herança e o polimorfismo.
@@ -10267,8 +9587,6 @@ e) um objeto capaz de armazenar estados através de seus atributos.
 Item. 49. (FCC / PGE-RJ - 2009) Sobre orientação a objetos, considere:
 
 
-
-
 I. Os valores dos atributos são definidos no nível de classe.
 
 II. Os métodos são definidos no nível de objeto.
@@ -10334,8 +9652,6 @@ sua implementação interna, mas de sua interface." Esta afirmação remete ao c
 a) herança múltipla.
 
 b) herança polimórfica.
-
-
 
 
 c) prototipação.
@@ -10409,8 +9725,6 @@ c) constitui-se em ferimento à regra de herança.
 d) visa ao aumento da coesão entre os atributos da superclasse.
 
 
-
-
 e) não é recomendada na orientação a objetos.
 
 Item. 58. (FCC / PGE-RJ - 2009) Um comando "abrir" ao provocar diferentes ações em objetos
@@ -10479,8 +9793,6 @@ b) generalização e composição.
 c) generalização e especialização.
 
 
-
-
 d) composição e dependência.
 
 e) especialização e agregação.
@@ -10512,10 +9824,7 @@ d) agregação.
 e) especialização.
 
 
-
-
 Diego Carvalho
-
 
 
 GABARITo
@@ -10585,10 +9894,7 @@ Item. 21. LETRA B 43- LETRA A
 Item. 22. CORRETO 44- LETRA B
 
 
-
-
 Diego Carvalho
-
 
 
 LISTA DE QUESTõES - FCV
@@ -10659,11 +9965,6 @@ padronizados. Assim, os cabeçalhos devem ter cor de fundo, paleta de cores e ti
 
 
 
-
-
-167
-
-193
 
 
 seguindo o padrão adotado em outros documentos emitidos pelo departamento
@@ -10738,11 +10039,6 @@ geral do sistema com todas as suas funcionalidades, sem entrar em detalhes espec
 
 
 
-168
-
-193
-
-
 funcionalidade, deforma que a interface como um todo possa ser criticada pelos
 usuários. Nesse
 caso, o tipo de protótipo mais adequado é o (a):
@@ -10806,10 +10102,7 @@ requisitos:
 a) não-funcionais.
 
 
-
-
 Diego Carvalho
-
 
 
 b) de domínio.
@@ -10854,13 +10147,7 @@ e) gerenciamento.
 
 
 
-170
-
-193
-
-
 Diego Carvalho
-
 
 
 GABARITo
@@ -10877,8 +10164,6 @@ Item. 12. LETRAC
 4- LETRA B 9- LETRA A
 
 5- LETRA C 10. LETRA E
-
-
 
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
@@ -10943,11 +10228,6 @@ d) Abstração
 
 
 
-
-
-172
-
-193
 
 
 4- (CONSULPLAN/ Prefeitura de Suzano - SP - 2019) Na orientação a objetos, todo
@@ -11026,11 +10306,6 @@ múltiplas classes-base (pais) para a classe derivada (filha).
 
 
 
-173
-
-193
-
-
 III. Na herança múltipla, uma classe herda apenas a estrutura, e não o comportamento de mais
 de uma classe-base.
 
@@ -11094,11 +10369,6 @@ Item. 11. (IF-PE / IF-PE - 2019) Sobre o uso de interfaces em orientação a obj
 
 
 
-
-
-174
-
-193
 
 
 I. evita que alterações de código em determinados componentes do sistema sejam
@@ -11174,12 +10444,7 @@ c) Uma solução reusável para um problema comum.
 
 
 
-1
 
-
-175
-
-193
 
 
 d) Uma unidade coesa de funcionalidades que podem ser desenvolvidas e
@@ -11255,12 +10520,7 @@ verdadeiro ou "F" caso falso as assertivas a seguir.
 
 
 
-1
 
-
-176
-
-193
 
 
 () A Sobrescrita permite que, em uma mesma classe, tenhamos vários métodos com o mesmo
@@ -11328,11 +10588,6 @@ São eles:
 
 
 
-177
-
-193
-
-
 a) herança, polimorfismo e agregação.
 
 b) especialização, agregação e associação.
@@ -11393,8 +10648,6 @@ redefinir os
 métodos e atributos que herdou. A classe que implementa a classe Abstrata não pode
 definir
 seus próprios atributos.
-
-
 
 
 25- (QUADRIX / CRQ 4a Região-SP - 2018) Com o princípio da "herança", um objeto faz
@@ -11468,12 +10721,7 @@ e) Programação 00 e Projeto 00.
 
 
 
-1
 
-
-179
-
-193
 
 
 32.(FAURGS/ UFRGS- 2018) Em relação ao paradigma de orientação a objetos,
@@ -11542,11 +10790,6 @@ permitindo o compartilhamento de atributos e operações idênticas.
 
 
 
-180
-
-193
-
-
 yj. (QUADRIX/CRM-PR-2018) Uma classe especifica a estrutura de um objeto, informando
 quais
 serão seus valores.
@@ -11606,8 +10849,6 @@ que
 habilita uma quantidade de operações diferentes a ter o mesmo nome,
 diminuindo o
 acoplamento entre objetos?
-
-
 
 
 a) Encapsulamento
@@ -11674,8 +10915,6 @@ conteúdo e
 comportamento de alguma entidade do mundo real.
 
 a) herança
-
-
 
 
 b) polimorfismo
@@ -11746,8 +10985,6 @@ receptor
 forneça algum resultado por meio da execução de uma operação.
 
 
-
-
 c) classe define as características de um conjunto de atributos que podem herdar
 dados de
 outras classes.
@@ -11814,11 +11051,6 @@ d) requer que classes sejam estendidas para a reutilização de código.
 
 
 
-
-
-184
-
-193
 
 
 55- (CS-UFG / SANEAGO - GO - 2018) Uma classe abstrata A contém o método abstrato
@@ -11891,11 +11123,6 @@ e) a classe X é derivada de Y
 
 
 
-185
-
-193
-
-
 59-(IBFC / EMBASA-2017) Quanto aos fundamentos básicos de programação orientada a
 objetos,
 relacione os quatro conceitos abaixo com os respectivos significados mencionados
@@ -11966,12 +11193,7 @@ d) mensagem
 
 
 
-1
 
-
-186
-
-193
 
 
 e) polimorfismo
@@ -12043,8 +11265,6 @@ dois conceitos
 fundamentais:
 
 
-
-
 l-a definição de uma estrutura, a partir da qual é possível especificar todas as
 características da
 implementação, operações e armazenamento de informações para instâncias que serão criadas
@@ -12110,8 +11330,6 @@ uma classe D tem
 implicitamente definida:
 
 
-
-
 a) em atributos e análises da classe C.
 
 b) em cada um dos modelos e concepções da classe C.
@@ -12173,8 +11391,6 @@ ClasseB seja
 subclasse de ClasseA.
 
 É correto APENAS o que se afirma em:
-
-
 
 
 a) l.
@@ -12241,8 +11457,6 @@ possui objetos
 criados a partir dela).
 
 
-
-
 b) Um objeto é qualquer coisa, real ou abstrata, a respeito do qual armazenamos
 dados e os
 métodos que os manipulam.
@@ -12256,8 +11470,6 @@ da
 maneira como ele é implementado, uma vez que a definição sobre como
 implementar os
 conhecimentos ou ações de uma classe não são informadas.
-
-
 
 
 GABARITo
@@ -12337,8 +11549,6 @@ Item. 76. LETRA A
 25- CORRETO 5i- LETRA A
 
 Item. 26. CORRETO 52. LETRA D
-
-
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

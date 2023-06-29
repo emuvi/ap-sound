@@ -20,88 +20,61 @@ Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-índice
+Índice
 
 1) Java EE - Conceitos Básicos - Teoria
-3
 
 2) Java EE - Common Annotations - Teoria
-11
 
 3) Java EE - Conceitos Básicos - Questões Comentadas.
-14
 
 4) Java EE - Conceitos Básicos - Lista de Questões.
-23
 
 5) Java EE - JSP - Teoria
-28
 
 6) Java EE - JSP - Questões Comentadas - CEBRASPE
-38
 
 7) Java EE - JSP - Questões Comentadas - Multibancas.
-44
 
 8) Java EE - JSP - Lista de Questões - Cebraspe
-69
 
 9) Java EE - JSP - Lista de Questões - Multibancas.
-72
 
 10) Java EE - Servlets - Teoria
-82
 
 11) Java EE - Servlets - Questões Comentadas - CEBRASPE
-87
 
 12) Java EE - Servlets - Questões Comentadas - MULTIBANCAS
-95
 
 13) Java EE - Servlets - Lista de Questões - CEBRASPE
-114
 
 14) Java EE - Servlets - Lista de Questões - CEBRASPE
-118
 
 15) Java EE - JSF - Teoria
-128
 
 16) Java EE - JSF - Questões Comentadas.
-136
 
 17) Java EE - JSF - Lista de Questões.
-151
 
 18) Java EE - JPA - Teoria
-159
 
 19) Java EE - JPA - Questões Comentadas.
-166
 
 20) Java EE - JPA - Lista de Questões.
-181
 
 21) Java EE - Hibernate - Teoria
-188
 
 22) Java EE - Hibernate - Questões Comentadas.
-200
 
 23) Java EE - Hibernate - Lista de Questões.
-215
 
 24) Java EE - JDBC - Teoria
-221
 
 25) Java EE - JDBC - Questões Comentadas.
-225
 
 26) Java EE - JDBC - Lista de Questões.
-231
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-2
+* 
 
 
 Paolla Ramos e Silva
@@ -175,12 +148,10 @@ JEE; e atualmente é conhecido
 como Java EE.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-3
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -208,14 +179,12 @@ legados, processamento de
 transações de mainframe, sistemas externos, entre outros.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-4
 
-235
 
 
 Paolla Ramos e Silva
@@ -366,7 +335,7 @@ April 2013
 
 JAVA EE 6 (10/12/2009) JAVA EE 7 (12/06/2013)
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
 
 Paolla Ramos e Silva
@@ -474,12 +443,10 @@ Java Authorization Service Provider
 Contract for Containers (JACC) 1.5
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-6
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -561,15 +528,13 @@ Standard Tag Library for JavaServer Pages (JSTL)
 Debugging Support for Other Languages
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-7
 
-235
 
 
 Paolla Ramos e Silva
@@ -606,8 +571,7 @@ SAAJ, JAX-
 RS, JAXB, JMS, JAAS, JASPIC, JACC, JCA, JavaMail, Management Specification e Deployment
 Specification - além disso, ele não oferece suporte a Arquivos EAR (apenas Arquivos WAR).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-8
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -666,14 +630,12 @@ básicos de
 módulo:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-9
 
-235
 
 
 Paolla Ramos e Silva
@@ -701,8 +663,7 @@ bibliotecas, etc.
 mudança? Para que o servidor
 possa diferenciar o que está sendo implantado.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-10
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -777,15 +738,13 @@ anotação
 é aplicada deve satisfazer diversos critérios.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-11
 
-235
 
 
 Paolla Ramos e Silva
@@ -855,15 +814,13 @@ declarar
 papéis que não estão implicitamente declarados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-12
 
-235
 
 
 Paolla Ramos e Silva
@@ -905,12 +862,10 @@ saibam
 dosar seus níveis de atenção e estudos em cada disciplina.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-13
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -946,12 +901,10 @@ JAVA EE 6 (10/12/2009) JAVA EE 7 (12/06/2013)
 Enterprise JavaBeans (EJB) 3.1 Enterprise JavaBeans (EJB) 3.2
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-14
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -1001,8 +954,7 @@ Comentários:
 
 Database
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-15
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -1043,8 +995,7 @@ Java EE, servlets, JavaServer Faces e JSP consistem em tecnologias utilizadas na
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-16
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -1093,8 +1044,7 @@ a) não há como juntar componentes EJB e módulos web em uma mesma aplicação,
 pois
 deverão ser publicados separadamente.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-17
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -1160,8 +1110,7 @@ e) cliente, servidor, cliente.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-18
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -1211,8 +1160,7 @@ Hibernate não é integrante do J2EE?". Galera, o Hibernate é um framework que
 implementa a
 especificação JPA. Logo, ele não faz parte do J2EE ou Java EE. Beleza? Gabarito: B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-19
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -1260,8 +1208,7 @@ e) Beans, Swing e JVM.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-20
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -1302,8 +1249,7 @@ Conforme vimos em aula, disponibiliza o Contêiner Web e Contêiner EJB! Gabarit
 
 Item. 14. (FCC - 2012 - TJ/PE - Analista de Sistemas) Sobre a plataforma Java EE 6, é correto afirmar:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-21
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -1352,8 +1298,7 @@ transação, segurança, etc;
 
 (e) Essa ele entregou! Anotações são marcados com @. Gabarito: A
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-22
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -1406,8 +1351,7 @@ d) Fornecedor. Web. Político. Sistemas de Informação Camada.
 
 e) Cliente. Stakeholders. Negócios. Background corporativo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-23
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -1479,12 +1423,10 @@ d) JDBC, Hibernate e JPA.
 e) JSP, JSF e Eclipse.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-24
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -1545,15 +1487,13 @@ services
 no arquivo web.xml.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-25
 
-235
 
 
 Paolla Ramos e Silva
@@ -1569,8 +1509,7 @@ apenas para o tipo bean.
 
 e) Anotações são marcados com um caracter # (cerquilha).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-26
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -1600,7 +1539,7 @@ Item. 14. A
 
 Item. 5. E 10. B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 /
@@ -1675,8 +1614,7 @@ Arquivo: HelloWorld.jsp (No MVC, em geral, é utilizada como Visão)
 
 </title>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-28
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -1752,8 +1690,7 @@ Apresentação)!2 Bacana?
 essa separação
 que foi criada a Tecnologia JSP.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'"'
-29
+ x'"'
 
 www.estrategiaconcursos.com.br
 / 235
@@ -1823,15 +1760,13 @@ application,
 out, config, page, session e exception. Em seguida, veremos a sintaxe da linguagem!
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-30
 
-235
 
 
 PROVA!
@@ -1872,7 +1807,7 @@ para uso subsequente em expressões ou scriptlets. Alguns alunos me perguntam co
 decoro
 isso! Bem, uma declaração declara! Declara o quê? Variáveis! Como? Com ponto de exclamação.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -1937,9 +1872,8 @@ vindo!".
 
 3 Apesar disso, hoje em dia, é considerado má prática utilizar Scriptlets em Páginas JSP.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
-1
+
 
 
 Paolla Ramos e Silva
@@ -2013,8 +1947,7 @@ jsp:expression
 visualmente com a ajuda de uma
 ferramenta de desenvolvimento.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-33
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -2070,12 +2003,10 @@ necessário instanciar explicitamente
 um objeto da classe para acessar seus métodos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-34
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -2142,15 +2073,13 @@ Scriptlets Scriptlets
 <% Scriptlet %>
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-35
 
-235
 
 
 Paolla Ramos e Silva
@@ -2228,7 +2157,7 @@ ${Lista["1"]} // É exatamente igual ao anterior
 da linguagem de expressão
 oferecida pelo JSP 2.0 e a criada linguagem de expressão criada para o JSF.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -2268,15 +2197,13 @@ função pode se
 chamar Multiplica e o método que a realiza se chamar Divida - sem nenhum problema.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-37
 
-235
 
 
 Paolla Ramos e Silva
@@ -2323,15 +2250,13 @@ application Objeto do tipo ServIetContext que permite compartilhar
 informações entre todos os componentes web da aplicação.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-38
 
-235
 
 
 Paolla Ramos e Silva
@@ -2380,8 +2305,7 @@ diversos sistemas operacionais, como o Windows e o Linux.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-39
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -2441,15 +2365,13 @@ Scriptlets Scriptlets <% Scriptlet
 Comentários Comments <%- Comentário -%>
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-40
 
-235
 
 
 Paolla Ramos e Silva
@@ -2507,15 +2429,13 @@ tecnologias utilizadas na camada web.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-41
 
-235
 
 
 Paolla Ramos e Silva
@@ -2589,8 +2509,7 @@ sendo o
 "value" a informação de saída. Poderia ser utilizado <%= %>, mas o comando <c:out>
 oferece
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'
-42
+ x'
 
 www.estrategiaconcursos.com.br
 / 235
@@ -2610,12 +2529,10 @@ ele serve;
 (e) Errado, há necessidade de ser transformada em uma Servlet. Gabarito: C
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-43
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -2673,15 +2590,13 @@ e) scriptlet.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-44
 
-235
 
 
 Paolla Ramos e Silva
@@ -2728,8 +2643,7 @@ Import Especifica uma lista de pacotes ou classes importadas.
 Info Define uma string que pode ser acessada para informações.
 isThreadSafe Define se a servlet é capaz de atender múltiplas solicitações.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-45
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -2776,8 +2690,7 @@ Conforme vimos em aula, a Diretiva Taglib estende o conjunto de tags através de
 biblioteca
 de tags, similar ao que diz a primeira opção. Gabarito: A
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-46
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -2836,12 +2749,10 @@ ATRIBUTO PROPÓSITO
 buffer Especifica o modelo de buffering da saída padrão.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-47
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -2883,15 +2794,13 @@ e) Expression tag.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-48
 
-235
 
 
 Paolla Ramos e Silva
@@ -2948,8 +2857,7 @@ EE) que
 permite utilizar ou o código Java dentro das páginas web ou tags que realizam sua
 lógica. Por ser
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'
-49
+ x'
 
 www.estrategiaconcursos.com.br
 / 235
@@ -3012,8 +2920,7 @@ nome da função coincida com o nome do método da classe Java.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-50
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -3077,8 +2984,7 @@ declaração de atributos ou métodos, utilizam-se as tags:
 
 a) <% %>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-51
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -3136,12 +3042,10 @@ e) Combinadas com servlets no desenvolvimento exclusivo de páginas estáticas.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-52
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -3197,12 +3101,10 @@ pageContext Objeto do tipo PageContext e contém informações de contexto
 para execução da página.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-53
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -3256,8 +3158,7 @@ conjunto de dados estáticos (Ex: HTML e XML); ou pode ser um conjunto de elemen
 JSP e tags
 customizadas, que definem como a página construirá conteúdo dinâmico.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-54
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -3311,15 +3212,13 @@ e) <jsp:newlnstance id="cliente" class= "dados.Cliente"/>
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-55
 
-235
 
 
 Paolla Ramos e Silva
@@ -3376,15 +3275,13 @@ II. uri="caminho/nome_do_arquivo"%>.
 d) I. JSF, <%@page
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-56
 
-235
 
 
 Paolla Ramos e Silva
@@ -3436,12 +3333,10 @@ Comentários:
 ATRIBUTO PROPÓSITO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-57
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -3487,12 +3382,10 @@ b) Import.
 c) isThreadSafe.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-58
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -3531,8 +3424,7 @@ deve ser gerada, será definida na diretiva page do JSP por meio do atributo:
 
 a) info.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-59
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -3578,12 +3470,10 @@ Conforme vimos em aula, trata-se do Atributo Extends.
 Gabarito: B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-60
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -3643,8 +3533,7 @@ separa a
 lógica do conteúdo da sua apresentação. Páginas JSP são compiladas em
 Servlets e podem
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-61
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -3710,8 +3599,7 @@ em Servlets?
 
 Conforme vimos em aula, Páginas JSP são compiladas em Servlets. Gabarito: A
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-62
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -3761,15 +3649,13 @@ isErrorPage Indica se a Página JSP possui URL de outra página.
 Extends Especifica uma superclasse a ser estendida pela servlet.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-63
 
-235
 
 
 Paolla Ramos e Silva
@@ -3818,8 +3704,7 @@ IV. Conforme visto em aula, ambos são executados no Servidor.
 
 Gabarito: B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'
-64
+ x'
 
 www.estrategiaconcursos.com.br
 / 235
@@ -3871,15 +3756,13 @@ page Sinônimo do operador "this" do objeto HttpJspPage. Não é
 usado com frequência.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-65
 
-235
 
 
 Paolla Ramos e Silva
@@ -3929,8 +3812,7 @@ Conforme vimos em aula, trata-se do JSP! Gabarito: B
 JSP interrompe o processamento das requisições pela página corrente e as direciona para
 outro componente Web?
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-66
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -3990,8 +3872,7 @@ d) Diretiva Page.
 
 e) Diretiva taglib.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-67
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -4034,9 +3915,7 @@ QQ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software 
 www.estrategiaconcursos.com.br
 
 
-68
 
-235
 
 
 Paolla Ramos e Silva
@@ -4086,7 +3965,7 @@ tecnologias utilizadas na camada web.
 Item. 9. (CESPE - 2017 - TRE/BA - Analista de Sistemas) A respeito da JSP (JavaServer Pages), assinale
 a opção correta.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 a) As páginas JSP compiladas não precisam ser executadas em uma máquina virtual Java (JVM).
@@ -4110,15 +3989,13 @@ transformada
 em um Servlet.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-70
 
-235
 
 
 Paolla Ramos e Silva
@@ -4148,7 +4025,7 @@ Item. 8. C
 
 Item. 9. C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
@@ -4203,15 +4080,13 @@ d) importar arquivos htm
 e) importar pacotes.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-72
 
-235
 
 
 Paolla Ramos e Silva
@@ -4265,12 +4140,10 @@ a) Declaration tag.
 b) Directive tag.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-73
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -4323,8 +4196,7 @@ a) <% %>
 
 b) <%! %>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-74
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -4384,15 +4256,13 @@ Item. 17. (FCC - 2013 - ALERN - Analista de Sistemas) Em uma aplicação web des
 a plataforma Java EE 6, há a seguinte classe Java:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-75
 
-235
 
 
 Paolla Ramos e Silva
@@ -4444,8 +4314,7 @@ a) I. Javascript, <%@page
 
 II. file="caminho/nome_do_arquivo"%>.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-76
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -4509,12 +4378,10 @@ e) AutoFIush.
 deve ser gerada, será definida na diretiva page do JSP por meio do atributo:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-77
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -4567,8 +4434,7 @@ a) compilação em um servlet.
 
 b) presença maciça de código Assembly.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-78
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -4624,8 +4490,7 @@ d) String.
 
 e) Request.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-79
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -4685,8 +4550,7 @@ d) Diretiva Page.
 
 e) Diretiva taglib.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-80
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -4724,12 +4588,10 @@ Item. 7. E 14. A
 Item. 21. B 28. B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-81
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -4799,16 +4661,14 @@ imagem anterior!
 1 Oracle afirma: "A servlet can almost be thought of as an applet that runs on the server side".
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 * 05152001900 - Everton
 Murilo Vieira
 
-82
 
-235
 
 
 Paolla Ramos e Silva
@@ -4912,16 +4772,14 @@ PrintWriter out = res.getWriter();
 out.println("<html>");
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 * 05152001900 - Everton
 Murilo Vieira
 
-83
 
-235
 
 
 Paolla Ramos e Silva
@@ -4978,15 +4836,13 @@ por meio do objeto ServIetConfig.
 2 Seu nome completo é: javax.servlet.http.HttpServIet.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-84
 
-235
 
 
 Paolla Ramos e Silva
@@ -5029,8 +4885,7 @@ poderosos para gerar as strings do HTML baseadas em informações dinâmicas
 vindas, por
 exemplo, de um banco de dados. Vocês entenderam direitinho?
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-85
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -5094,8 +4949,7 @@ requisição do cliente,
 o contêiner gera um novo par de objetos request e response, cria uma nova thread e os passa para
 ela.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-86
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -5158,15 +5012,13 @@ classe da qual
 herda a classe acima declarada é javax.servIet.HttpServIet. A classe indicada também
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-87
 
-235
 
 
 Paolla Ramos e Silva
@@ -5229,15 +5081,13 @@ HttpSession session = request.getSession();
 dispatcher.forward(request,response);
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-88
 
-235
 
 
 Paolla Ramos e Silva
@@ -5300,8 +5150,7 @@ pelo browser e direcionado à servlet BookStoreServIet implicará a criação de
 uma nova
 instância da classe BookStoreServIet, bem como a criação de uma thread que invoca o
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-89
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -5364,15 +5213,13 @@ não entendeu dessa maneira :(
 Gabarito: C
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-90
 
-235
 
 
 Paolla Ramos e Silva
@@ -5436,15 +5283,13 @@ Opa, não precisa utilizar HTTP (apesar de ele ser o mais comum).
 Gabarito: E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-91
 
-235
 
 
 Paolla Ramos e Silva
@@ -5508,8 +5353,7 @@ Contexto por Aplicação Web por JVM. Entenderam mais ou menos? É simples, só 
 pouco
 abstrato!
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x'"'
-92
+ x'"'
 
 www.estrategiaconcursos.com.br
 / 235
@@ -5581,8 +5425,7 @@ Confome vimos em aula, servlet não é um servidor de aplicação, mas simplesme
 Classe
 Java.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-93
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -5655,8 +5498,7 @@ e) são carregadas apenas uma vez e, para cada nova requisição, a servlet gera
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-95
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -5726,15 +5568,13 @@ serviço ou para
 estabelecer conexão com outros serviços.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-96
 
-235
 
 
 Paolla Ramos e Silva
@@ -5806,14 +5646,12 @@ para tratar
 requisições dos clientes. Chama-se então o método service com dois parâmetros:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-97
 
-235
 
 
 Paolla Ramos e Silva
@@ -5877,8 +5715,7 @@ a) I, II, III e IV.
 
 b) I, apenas.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-98
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -5949,8 +5786,7 @@ tudo nisso? O Servlet Container!
 
 (IV) Conforme vimos em aula, não se chama método unload - o nome do método é destroy!
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-99
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -6038,8 +5874,7 @@ d) getParameterO
 
 e) nameComponentO
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-100
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -6103,8 +5938,7 @@ d) As duas asserções são proposições verdadeiras, mas a segunda não é a j
 correta
 da primeira.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-101
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -6169,8 +6003,7 @@ Conforme vimos em aula, essa classe abstrata é a HttpServIet.
 
 Gabarito: B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-102
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -6243,15 +6076,13 @@ Java,
 porém rodando em um servidor web e não no do cliente.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-103
 
-235
 
 
 Paolla Ramos e Silva
@@ -6313,15 +6144,13 @@ Conforme vimos em aula, são executados no Container Web.
 Gabarito: C
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-104
 
-235
 
 
 Paolla Ramos e Silva
@@ -6379,8 +6208,7 @@ página JSP transforma-se em um servlet, que é compilado, carregado e inicializ
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-105
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -6463,7 +6291,7 @@ d) I e III
 
 e) II e III
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -6547,14 +6375,12 @@ apesar de não serem restritas a ele.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-107
 
-235
 
 
 Paolla Ramos e Silva
@@ -6613,8 +6439,7 @@ II. Servlets são independentes de plataforma, de modo que podem ser
 executadas em
 diferentes servidores, em diferentes sistemas operacionais.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-108
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -6674,15 +6499,13 @@ requestType o valor
 Servlet. HTTP_REQUEST.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-109
 
-235
 
 
 Paolla Ramos e Silva
@@ -6729,8 +6552,7 @@ a) É um método da JPA utilizado na persistência assíncrona de dados.
 
 b) É um componente que roda do lado do cliente para tratar problemas de comunicação.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-110
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -6791,8 +6613,7 @@ Sobre o código do Servlet, é possível afirmar que:
 
 a) ao ser executado por um contêiner de Servlet, será exibida uma tela em branco no navegador.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-111
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -6853,8 +6674,7 @@ e) release()
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-112
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -6881,14 +6701,12 @@ era invalidate().
 Gabarito: D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-113
 
-235
 
 
 Paolla Ramos e Silva
@@ -6946,12 +6764,10 @@ public String getServIetlnfoQ {
 return "The BookStore servlet returns the main web page " +
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-114
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -7002,12 +6818,10 @@ em servidores web, os servlets não respondem a requisições genéricas.
 os servlets, para funcionarem, precisam utilizar o protocolo HTTP.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-115
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -7045,12 +6859,10 @@ e o servlet é exemplo de servidor de aplicações que contém diretórios como 
 e é responsável por gerenciar requisições recebidas de clientes.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-116
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -7062,10 +6874,8 @@ GABARITo
 GABARITO
 
 c 5. E 9. E
-13
 
 c 6. E 10. E
-14
 
 E 7. C
 Item. 11. C 15
@@ -7073,12 +6883,10 @@ Item. 11. C 15
 c 8. C 12. E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-117
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -7135,12 +6943,10 @@ Item. 4. (FCC - 2012 - TRE/CE - Analista de Sistemas) No contexto do ciclo de vi
 considere:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-118
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -7192,12 +6998,10 @@ passando os objetos request e response. O método service não é chamado a cada
 requisição, mas apenas uma vez, na primeira requisição do usuário à servlet.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-119
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -7278,12 +7082,10 @@ do cliente, processando esses dados, opcionalmente acessando recursos externos c
 bancos de dados, e respondendo ao cliente com conteúdo no formato HTML.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-120
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -7336,12 +7138,10 @@ e) HttpServIetObject.
 ler os parâmetros de inicialização do contexto de um servlet utiliza-se o método:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-121
 
-235
+
 
 
 a) String getlnitParameter(String).
@@ -7395,12 +7195,10 @@ compilados e executados no servidor.
 frameworks Java EE, um Analista de Sistemas concluiu que o container WEB do servidor
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-122
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -7476,12 +7274,10 @@ b) II
 c) III
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-123
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -7567,12 +7363,10 @@ d) prerender.
 I. Servlets são implementadas como arquivos de classe da Linguagem Java.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-124
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -7628,12 +7422,10 @@ e) É uma JSP que possibilita a execução de código no lado do cliente, mesmo 
 com um servidor.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-125
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -7691,12 +7483,10 @@ d) invalidate()
 e) release()
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-126
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -7728,12 +7518,10 @@ Item. 9. B 19. C
 Item. 10. A 20. D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-127
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -7810,7 +7598,7 @@ a Sun Microsystems junto com uma comunidade de desenvolvedores resolveu
 criar uma
 especificação padronizada baseada nesse framework, denominado Java Server Faces (JSF).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Cuidado com as questões de prova que afirmam que se trata apenas de uma especificação
@@ -7878,14 +7666,12 @@ Aplicação Web. Ela possui as seguintes partes:
 1 As implementações da especificação mais famosas são Oracle Mojarra e o Apache MyFaces.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-129
 
-235
 
 
 Paolla Ramos e Silva
@@ -7967,12 +7753,10 @@ três atividades:
 * Criar uma Página Web (usando tags de componentes);
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-130
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -8057,15 +7841,13 @@ composição de
 componentes customizados; etc.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-131
 
-235
 
 
 Paolla Ramos e Silva
@@ -8105,7 +7887,7 @@ implementadas por esse componente - evitando repetição de código e facilitand
 manutenção
 do sistema.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -8171,8 +7953,7 @@ para requisições futuras.
 passado
 para os componentes apropriados. Essas visões atualizam seus estados com os valores dos
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-133
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -8255,12 +8036,10 @@ Trata-se de
 uma linguagem de declaração de página poderosa, apesar de leve. Antigamente, utiliza-se a
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-134
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -8339,8 +8118,7 @@ filtros de conversão de imagens; filtros de compressão de dados; filtros de
 criptografia; filtros de
 tokenização; filtros XSLT; filtros que acionam eventos de acesso a recursos, entre outros.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-135
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -8412,8 +8190,7 @@ internacionalização e acessibilidade; e prover extensibilidade. Segundo, tagli
 tags) para adicionar componentes a páginas web e conectar componentes a objetos
 server-side.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-136
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -8488,15 +8265,13 @@ JSF e
 a IDE NetBeans gera automaticamente dois componentes essenciais assim descritos:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-137
 
-235
 
 
 Paolla Ramos e Silva
@@ -8566,8 +8341,7 @@ para construir a interface com o usuário.
 Conforme vimos em aula, Backing Beans são Managed Beans, e essa pode ser uma de suas
 funções. Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-138
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -8636,15 +8410,13 @@ uma
 aplicação específica que utiliza JSF.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-139
 
-235
 
 
 Paolla Ramos e Silva
@@ -8711,8 +8483,7 @@ necessário:
 
 Conforme vimos em aula, ela serve para referenciar propriedades e Managed Beans.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-140
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -8777,8 +8548,7 @@ o Namespace: xmlns:f="http://java.sun.com/jsf/core"
 
 FACELETS: fornece tags para criar templates para aplicações web.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-141
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -8849,8 +8619,7 @@ para construir a interface com o usuário.
 
 Conforme vimos em aula, trata-se da FacesServIet. Gabarito: E
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-142
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -8922,8 +8691,7 @@ FacesServIet.
 
 Conforme vimos em aula, trata-se da fase Apply Request Values. Gabarito: B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-143
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -8995,15 +8763,13 @@ Comentários:
 Gabarito: D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-144
 
-235
 
 
 Paolla Ramos e Silva
@@ -9067,8 +8833,7 @@ Conforme vimos em aula, trata-se da fase Apply Request Values. Gabarito: C
 em
 JSF 2 (Java Server Faces), um managed bean permanece no escopo de session.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-145
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -9132,8 +8897,7 @@ Comentários:
 Apply Request Values: qualquer dado que for enviado como parte da requisição é passado para
 os componentes apropriados. Essas visões atualizam seus estados com os valores dos dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-146
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -9197,8 +8961,7 @@ especificação padronizada baseada nesse framework, denominado Java Server Face
 
 Conforme vimos em aula, trata-se do JSF! Gabarito: B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-147
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -9269,7 +9032,7 @@ Conforme vimos em aula, a questão está perfeita! Gabarito: C
 25.(FGV - 2013 - ALEMA - Analista de Sistemas) Com relação à especificação Java Server
 Faces (JSF), assinale V para a afirmativa verdadeira e F para a falsa.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -9331,15 +9094,13 @@ especificação padronizada baseada nesse framework, denominado Java Server Face
 (V) Perfeito, implementa o padrão MVC! Gabarito: A
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-149
 
-235
 
 
 Paolla Ramos e Silva
@@ -9392,8 +9153,7 @@ Plataforma Java EE - sendo considerada obsoleta para JSF!
 
 Conforme vimos em aula, a questão está perfeita! Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-150
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -9457,15 +9217,13 @@ c) faces-config.xml.
 d) webcontext.xml.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-151
 
-235
 
 
 Paolla Ramos e Silva
@@ -9525,15 +9283,13 @@ WEB-INF.xml e FACES-CONFIG.xml.
 d) possui bibliotecas que suportam Ajax (Asynchronous JavaScript And XML).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 /
 
-152
 
-235
 
 
 Paolla Ramos e Silva
@@ -9594,15 +9350,13 @@ a
 maior modularidade, com o uso de templates e componentes compostos (composite).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-153
 
-235
 
 
 Paolla Ramos e Silva
@@ -9669,14 +9423,12 @@ métodos em
 beans gerenciados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-154
 
-235
 
 
 Paolla Ramos e Silva
@@ -9744,8 +9496,7 @@ d) Processar validações (Process validation).
 
 e) Atualizar valores do modelo (Update model values).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-155
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -9821,7 +9572,7 @@ b) F, V e V.
 
 c) V, F e F.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+* 
 
 
 Paolla Ramos e Silva
@@ -9852,7 +9603,7 @@ mais indicada que a JSP (JavaServer Pages), uma vez que esta não suporta todos 
 novos
 recursos da versão Java EE 7.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -9883,12 +9634,10 @@ Item. 7. D 14. E
 Item. 21. E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-158
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -9960,8 +9709,7 @@ public class Bar implements javax.ejb.EntityBean { ...
 
 1 Possui até uma versão para .NET - chama-se NHibernate.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-159
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -10035,7 +9783,7 @@ incorporado ao EJB 3.0 (apesar de ser independente deste), permitindo sua
 utilização em
 Ambientes Java SE e Java EE.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -10106,8 +9854,7 @@ dados.
 @OneToMany Mapeamento um para muitos (1 :N).
 @OneToOne Mapeamento um para um (1:1).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-161
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -10187,8 +9934,7 @@ Um artigo do DevMedia faz uma excelente comparação entre Persistence Context e
 Memória
 Cache de um Processador (aquela mais rápida):
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-162
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -10266,11 +10012,9 @@ EntityManagerFactory, basta chamar a função createEntityManager.
 2 Ele especifica qual implementação será utilizada (Hibernate, Toplink, JDO, etc); conexão com
 banco, etc.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-163
+
 
 www. estra tegiaconcursos. com. br
-235
 
 
 Paolla Ramos e Silva
@@ -10311,14 +10055,12 @@ desconectado do EntityManager. Quando um objeto é Destacado, mudanças sucessiv
 mais ser rastreadas e nenhuma sincronização automática do banco de dados será realizada.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
-164
 
-235
 
 
 Paolla Ramos e Silva
@@ -10336,14 +10078,12 @@ essa
 implementação também. Blz?
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-165
 
-235
 
 
 Paolla Ramos e Silva
@@ -10400,8 +10140,7 @@ a) pode ser utilizada, como provedor de persistência, as bibliotecas
 EclipseLink, Hibernate,
 OracleTopLink, JBossSeam e JDBCProvider.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-166
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -10476,8 +10215,7 @@ Anotações
 (Annotations) - principalmente para consultas e atualizações de dados. O
 desenvolvedor define
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-167
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -10550,8 +10288,7 @@ QL) for both static and dynamic queries. It also supports the use of
 pluggable persistence
 providers.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-168
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -10623,8 +10360,7 @@ nomenclatura dos métodos, construtor público padrão e sem parâmetros, entre 
 o
 JPA, o POJO é a unidade básica!
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-169
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -10697,8 +10433,7 @@ automatizado e transparente e sua persistência em um banco de dados relacional.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-170
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -10766,8 +10501,7 @@ Item. 3.0. Gabarito: C
 uma solução para persistência de dados, utilizada, inclusive, quando há mapeamento do
 modelo orientado a objeto para bancos de dados relacionais.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-171
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -10834,15 +10568,13 @@ especificação EJB e serve para definir as interfaces de acesso local e/ou remo
 componente EJB.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-172
 
-235
 
 
 Paolla Ramos e Silva
@@ -10905,15 +10637,13 @@ private EntityManager em;
 private EntityTransaction et;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-173
 
-235
 
 
 Paolla Ramos e Silva
@@ -10980,8 +10710,7 @@ b) @Transient
 
 c) @Stateless.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-174
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -11038,8 +10767,7 @@ a) novo (new), gerenciado (managed), destacado (detached) e removido (removed).
 
 b) ativo (active), inativo (inactive) e removido (removed).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-175
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -11099,8 +10827,7 @@ e) São corretas apenas as afirmativas 3, 4 e 5
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-176
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -11174,8 +10901,7 @@ Java SE.
 cabeça de
 vocês. Está errado!
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-177
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -11236,8 +10962,7 @@ Gabarito: A
 22.(FCC - 2011 - TRT - 23a REGIÃO (MT) - Técnico Judiciário - Tecnologia da Informação) Em
 relação à JPA (Java Persistence API) é INCORRETO afirmar que:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-178
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -11316,13 +11041,11 @@ de
 dados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
-179
 
-235
 
 
 Paolla Ramos e Silva
@@ -11338,12 +11061,10 @@ Conforme vimos em aula, namedQuery define apenas uma consulta! A Anotação name
 quem define diversas consultas! Gabarito: A
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-180
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -11411,15 +11132,13 @@ TopLink e
 Objetos de Dados Java.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-181
 
-235
 
 
 Paolla Ramos e Silva
@@ -11482,15 +11201,13 @@ uma solução para persistência de dados, utilizada, inclusive, quando há mape
 modelo orientado a objeto para bancos de dados relacionais.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-182
 
-235
 
 
 Paolla Ramos e Silva
@@ -11550,8 +11267,7 @@ et.begin();
 O parâmetro "Exemplo", passado para o método createEntityManagerFactory da classe
 Persistence refere-se ao nome:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-183
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -11621,9 +11337,8 @@ Item. 2. Hibernate especifica uma JSR.
 
 Item. 3. Hibernate cuida da camada de persistência enquanto JPA da camada de transação.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
-1
+
 
 
 Paolla Ramos e Silva
@@ -11694,12 +11409,10 @@ private string nome;
 private collection<Predio> prediocoliection;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-185
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -11723,15 +11436,13 @@ pode ser nulo.
 e) @OneToMany indica que o atributo contém um conjunto de entidades que a referenciam.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-186
 
-235
 
 
 Paolla Ramos e Silva
@@ -11826,7 +11537,7 @@ de Persistência Java (JPA). Apesar disso, ele também é oferecido para executa
 plataforma .NET - é o famoso
 NHibernate.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -11893,8 +11604,7 @@ muito sentido utilizar o Hibernate, porque ele continuará manipulando o
 banco de dados
 diretamente.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-189
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -11940,12 +11650,10 @@ executadas diversas
 vezes.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-190
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -12018,15 +11726,13 @@ name="hibernate.connection.uri">jdbc:mysql://localhost/banco_dados</property>
 </hibernate-configuration>
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-191
 
-235
 
 
 Paolla Ramos e Silva
@@ -12086,14 +11792,12 @@ por controlar transações:
 2 Classes Persistentes não precisam implementar interfaces ou herdar de uma classe-base especial!
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-192
 
-235
 
 
 * Session (org.hibernate.Session): trata-se de um objeto leve, single-threaded, de
@@ -12141,12 +11845,10 @@ padrão sem
 argumentos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-193
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -12193,8 +11895,7 @@ representação no banco de dados e um valor identificador. Qualquer mudança em
 um
 objeto nesse estado é detectada e sincronizada com a base de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-194
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -12259,7 +11960,7 @@ identificadora, isto é, será a chave primária. Pode ser um campo
 único ou a combinação de múltiplos campos dependendo da
 estrutura da tabela.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -12361,15 +12062,13 @@ CHAR(1) (T or
 'F')
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-196
 
-235
 
 
 Paolla Ramos e Silva
@@ -12427,8 +12126,7 @@ return primeitoNome;
 
 }
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-197
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -12508,8 +12206,7 @@ time de futebol e jogadores. Ora, um time de futebol tem vários jogadores, mas 
 jogador só
 joga em um time de futebol. Outro exemplo: um órgão tem vários servidores, mas um servidor
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-198
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -12570,15 +12267,13 @@ conflito. Sobre
 esse assunto, é isso que vocês precisam saber.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-199
 
-235
 
 
 Paolla Ramos e Silva
@@ -12633,12 +12328,10 @@ e) Transiente (Transient), Permanente (Permanent) e Resiliente (Resilient).
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-200
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -12687,8 +12380,7 @@ seguido pelo sufixo .map.xml.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-201
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -12763,8 +12455,7 @@ arquivo de mapeamento hbm.xml individuais para cada classe de persistência e,
 então,
 referenciá-la e mapeá-la no cfg.xml.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-202
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -12833,15 +12524,13 @@ um modelo de metadados). No âmbito do mapeamento objeto-relacional (hibernate) 
 camada de:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-203
 
-235
 
 
 Paolla Ramos e Silva
@@ -12907,8 +12596,7 @@ destruída e não pode ser reconstruída de forma automática.
 representação no banco de dados e um valor identificador. Qualquer mudança em um objeto
 nesse estado é detectada e sincronizada com a base de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-204
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -12976,8 +12664,7 @@ c) descriptions.
 
 d) patterns.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-205
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -13046,12 +12733,10 @@ d) lógico/físico para desenvolvimento por meio da prototipação.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-206
 
-235
+
 
 
 Pois bem! Era trabalhoso transformar objetos de uma classe em registros de uma tabela
@@ -13113,12 +12798,10 @@ a licença LGPL, o que permite seu uso em projetos comerciais ou open source.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-207
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -13186,7 +12869,7 @@ critério, entre outras.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -13229,8 +12912,7 @@ facilitar a integração entre programas em Java, funcionando também em ambient
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-209
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -13299,8 +12981,7 @@ Conforme vimos em aula, é exatamente isso! Sobrescreve-se o nome da tabela
 por meio do
 atributo name. Gabarito: C
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-210
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -13371,7 +13052,7 @@ Utilizada para especificar detalhes da tabela que serão utilizados
 para persistir entidades na base de dados. Caso essa anotação seja
 omitida, não resultará em erro, porém será utilizado o nome da
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -13434,7 +13115,7 @@ Nota de Rodapé: Classes Persistentes não precisam implementar interfaces ou
 herdar de uma
 classe-base especial!
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -13498,8 +13179,7 @@ e vice-versa. Entenderam bem? Eles podem até ter nomes parecidos, mas não
 são iguais
 (Hibernate: date; Java: Date; SQL: DATE). Vejamos a tabela abaixo:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-213
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -13515,9 +13195,8 @@ Conforme vimos em aula, os tipos de mapeamento não são tipos SQL, muito menos 
 são
 Tipos Hibernate! Gabarito: E
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
-1
+
 
 
 Paolla Ramos e Silva
@@ -13585,8 +13264,7 @@ necessário criar
 um arquivo de mapeamento XML que deve ser salvo obrigatoriamente com o nome da classe
 seguido pelo sufixo .map.xml.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-215
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -13662,8 +13340,7 @@ Item. 7. (FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecno
 sua
 essência, o Hibernate é um framework para:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-216
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -13735,8 +13412,7 @@ linguagem de consulta HQL (Hibernate Query Language) pode ser utilizada. A HQL e
 pedidos SQL sobre as classes de persistência do Java em vez de tabelas no banco de dados, o
 que diminui a distância entre o desenvolvimento das regras de negócio e o banco de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-217
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -13804,8 +13480,7 @@ c) transient, persistent, detached
 
 d) transient, connected, timewait
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-218
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -13872,8 +13547,7 @@ O objeto Session Factory do Hibernate mantém o mapeamento objeto relacional na 
 Item. 23. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção de Sistemas)
 A Interface Criteria do Hibernate é utilizada para realizar consultas ao banco de dados.
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-219
+* 
 
 
 Paolla Ramos e Silva
@@ -13910,12 +13584,10 @@ Item. 7. A 14. C
 Item. 21. C
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-220
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -13990,8 +13662,7 @@ Java, normalmente é independente de plataforma e escrito pelos próprios desenv
 É
 o tipo mais recomendado para ser usado.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-221
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -14051,7 +13722,7 @@ DriverManager. getConnection("jdbc:odbc:meusCdsDb"," conta", "sen ha");
 
 catch(SQLException e)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 2-22
 
 www.estrategiaconcursos.com.br
@@ -14119,8 +13790,7 @@ con.closeO;
 
 catch(SQLException onConClose)
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-223
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -14152,15 +13822,13 @@ fechamento
 para a cláusula finally().
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-224
 
-235
 
 
 Paolla Ramos e Silva
@@ -14224,15 +13892,13 @@ a) import java.awt.*;
 b) import java.util.*;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-225
 
-235
 
 
 Paolla Ramos e Silva
@@ -14291,8 +13957,7 @@ catch(SQLException e)
 // exceção java.lang.ClassNotFoundExeption
 e.printStackTrace();
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-226
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -14389,14 +14054,12 @@ d) Estabelecer a conexão com o Banco de Dados.
 e) Criar uma variável para logon do Banco de Dados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-227
 
-235
 
 
 Paolla Ramos e Silva
@@ -14457,12 +14120,10 @@ a dados
 a partir da linguagem de programação Java. É possível acessar praticamente qualquer fonte de
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-228
 
-235
+
 
 
 Paolla Ramos e Silva
@@ -14522,8 +14183,7 @@ e funções
 armazenados no banco (quando o banco suportar este recurso). A interface
 ResuItSet permite
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-229
+
 
 www.estrategiaconcursos.com.br
 / 235
@@ -14544,14 +14204,12 @@ recursos.
 Conforme vimos em aula, o nome correto é CalIableStatement. Gabarito: E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-230
 
-235
 
 
 Paolla Ramos e Silva
@@ -14607,15 +14265,13 @@ d) java.io.lOException.
 e) java.util.lnputMismatchException.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-231
 
-235
 
 
 Paolla Ramos e Silva
@@ -14713,14 +14369,12 @@ Driver
 (*.mdb)};DBQ=E:\\bd.mdb", ""l
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-232
 
-235
 
 
 Paolla Ramos e Silva
@@ -14773,15 +14427,13 @@ Dados) O JDBC fornece a classe CalIableStatementSQL, que permite que procediment
 funções SQL armazenados sejam chamados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,
 
 
-233
 
-235
 
 
 Paolla Ramos e Silva
@@ -14813,7 +14465,7 @@ Item. 9. D
 
 Item. 10. E
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 ,

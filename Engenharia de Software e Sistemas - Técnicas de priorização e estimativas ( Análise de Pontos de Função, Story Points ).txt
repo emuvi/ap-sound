@@ -21,62 +21,45 @@ Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-índice
+Índice
 
 1) APF - Contexto Histórico
-3
 
 2) APF - Ponto de Função
-8
 
 3) APF - Principais Benefícios.
-12
 
 4) APF - Componentes Fundamentais.
-14
 
 5) APF - Etapas do Processo de Contagem
-27
 
 6) APF-NESMA
 
-43
 
 7) Resumo - APF
 
-46
 
 8) Questões Comentadas - APF - CESPE
-53
 
 9) Questões Comentadas - APF - FCC
-75
 
 10) Questões Comentadas - APF - FGV
-88
 
 11) Questões Comentadas - APF - Diversas.
-103
 
 12) Lista de Questões - APF - CESPE
-124
 
 13) Lista de Questões - APF - FCC
-134
 
 14) Lista de Questões - APF - FGV
-143
 
 15) Lista de Questões - APF - Diversas.
-153
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-2
 
-166
+
 
 
 APRESENTAçÃo
@@ -106,7 +89,7 @@ tempo sobrando e quer vertudo, vejam também as incidências baixas e baixíssim
 Além disso, essas faixas não são por banca - é baseado tanto na quantidade de vezes que caiu em
 prova independentemente da banca e também em minhas avaliações sobre cada assunto...
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -153,12 +136,10 @@ final da aula na lista de exercícios e possuem comentários bem mais
 completos, abrangentes e direcionados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-4
 
-166
+
 
 
 ANÁLISE DE PoNToS DE FUNçÃo
@@ -225,12 +206,10 @@ são escritos em menos linhas1; a codificação em si corresponde a apenas cerca
 código para desenvolver a mesma
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-5
 
-166
+
 
 
 total de desenvolvimento de um software; além disso, linguagens de programação
@@ -245,18 +224,14 @@ LÍNGUA | FRASE |
 QUANTIDADE DE CARACTERES
 
 O segredo do sucesso é a constância no objetivo
-47
 
 The secret of success is constancy in the goal
-46
 
 Das Erfolgsgeheimnis ist Konstanz im Ziel
 4i
 
 CekpeTycnexa - HoCToAHCTBo B u,e/in
-34
 
-14
 
 No desenvolvimento de software, ocorre de maneira bastante similar: algumas linguagens
 são mais
@@ -330,12 +305,10 @@ nos primeiros
 estágios do ciclo de vida de desenvolvimento de um software.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-6
 
-166
+
 
 
 Ele e sua equipe criaram uma técnica relativamente nova e estruturada para
@@ -397,7 +370,7 @@ funcionalidades.
 Comentários: não é sob 0 ponto de vista dos analistas - é sob 0 ponto de vista dos usuários
 (Errado).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -467,12 +440,10 @@ experiência de diversos especialistas sobre características de vários projeto
 similares executados no Dassado e cataloaados em dados históricos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-8
 
-166
+
 
 
 Eu sei que ainda está obscuro, então vamos ver outro exemplo hipotético! Imagine que
@@ -543,7 +514,7 @@ complexa de se implementar, o programador queimou o cérebro por uma semana para
 mas
 essa funcionalidade não é percebida diretamente pelo usuário durante a utilização do software,
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 então ela será solenemente ignorada na contagem não ajustada porque a análise de
@@ -609,7 +580,7 @@ qualidade diretamente; (c) Correto, ele mede a funcionalidade ou tamanho funcion
 um software ou aplicativo; (d) Errado,
 esse item não faz qualquer sentido; (e) Errado, esse item não faz qualquer sentido (Letra C).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 (TRT/iZj - 2016) A métrica Pontos de Função:
@@ -668,12 +639,10 @@ A APF MEDE DIRETAMENTE 0 ESFORÇO, PRODUTIVIDADE OU CUSTO DE UM SOFTWARE?
 Não, mas é possível correlacionar essas variáveis à métrica de pontos de função.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-11
 
-166
+
 
 
 Diego Carvalho
@@ -754,12 +723,10 @@ esforço, produtividade, custo, qualidade, ENTRE OUTROS. No entanto, ela pode
 ser usada em conjunto com outras grandezas e dados históricos da organização
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-12
 
-166
+
 
 
 Diego Carvalho
@@ -800,12 +767,10 @@ contexto de
 como os números foram obtidos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-13
 
-166
+
 
 
 Componentes Fundamentais
@@ -855,7 +820,7 @@ o EE - Entrada Externa
 
 o CE - Consulta Externa
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 o SE-Saída Externa
@@ -905,7 +870,7 @@ de um software sob o ponto de vista do usuário, para determinar o tamanho funci
 do software. Para aplicar a APF, Glaucia precisa definir um recurso com as seguintes
 características:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 - age como uma membrana pela qual entram e saem os dados processados pelas
@@ -965,12 +930,10 @@ Comentários: as funções de dados são Arquivo Lógico Interno e Arquivo de In
 B).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-16
 
-166
+
 
 
 Arquivo Lógico Interno (ALI)
@@ -1011,12 +974,10 @@ começaram a clarear, mas você pode dar um exemplo?
 ou como os dados devem ser processados, e
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-17
 
-166
+
 
 
 Vejam esse formulário do nosso sistema de recursos humanos hipotético. Observem que nós
@@ -1090,7 +1051,7 @@ Entretanto, uma dessas classificações possui como característica ser
 mantido na
 fronteira da aplicação; assinale-a.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) Arquivo Referenciado.
@@ -1155,12 +1116,10 @@ questão faz referência ao
 Arquivo de Interface Externa (Errado)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-19
 
-166
+
 
 
 Arquivo de Interface Externa (AIE)
@@ -1228,12 +1187,10 @@ que são acessados e utilizados por outra aplicação; dados formatados e proces
 para uso por outra aplicação.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-20
 
-166
+
 
 
 (IBGE - 2017) A Análise de Pontos de Função (APF) é uma técnica para a medição de
@@ -1287,12 +1244,10 @@ tipo de função de dados lidos e mantidos pela aplicação.
 Comentários: eles são lidos e mantidos fora da fronteira da aplicação (Errado).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-21
 
-166
+
 
 
 Diego Carvalho
@@ -1375,12 +1330,10 @@ se
 executar uma mesma lógica de entrada, entre outros.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-22
 
-166
+
 
 
 (TCU - 2015) Imprimir um cheque e identificá-lo como pago na conta-corrente
@@ -1447,12 +1400,10 @@ dos arquivos lógicos
 internos (Correto).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-23
 
-166
+
 
 
 Diego Carvalho
@@ -1538,12 +1489,10 @@ a:
 a) Arquivos Lógicos Internos.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-24
 
-166
+
 
 
 Diego Carvalho
@@ -1610,12 +1559,10 @@ das palestras é derivada da
 soma da quantidade de palestras (Letra D).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-25
 
-166
+
 
 
 Diego Carvalho
@@ -1682,12 +1629,10 @@ processamento adicional - eu
 acredito a questão caberia recurso (Correto).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-26
 
-166
+
 
 
 Etapas do Processo de Contagem
@@ -1756,7 +1701,7 @@ documentada, registrando todas as informações anteriores (o propósito, o tipo
 contagem, o
 escopo, a fronteira da aplicação, entre outros).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -1786,12 +1731,10 @@ escopo da contagem e fronteira da aplicação que será contada.
 Comentários: ela é realizada antes da identificação do escopo e fronteira (Errado).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-28
 
-166
+
 
 
 Determinar o Tipo de Contagem
@@ -1865,7 +1808,7 @@ Comentários: trata-se da contagem de desenvolvimento, manutenção/melhoria e a
 aplicados de acordo com o propósito da contagem. OIFPUG define os seguintes tipos de
 contagem de pontos de função:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) evolutiva, corretiva e ajuste.
@@ -1917,12 +1860,10 @@ Desenvolvimento.
 Comentários: na primeira versão teremos uma contagem do tipo projeto de desenvolvimento (Correto).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-30
 
-166
+
 
 
 Determinar o Escopo e Fronteira
@@ -1969,7 +1910,7 @@ relacionadas deve considerar a funcionalidade das aplicações em termos das fun
 negócio identificadas pelo usuário, e
 não sob 0 ponto de vista das interfaces necessárias (Errado).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Calcular Pontos de Função Não-Ajustados
@@ -2006,7 +1947,7 @@ Todos os ALI/AIE são igualmente complexos? Não. Então, como se mede sua compl
 Pela
 quantidade de Dados Elementares Referenciados (DER) e Registros Lógicos Referenciados
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 (RLR). O que diabos é isso, professor? DER é um atributo único, reconhecido pelo
@@ -2080,7 +2021,7 @@ tamanho funcional do seu ALI/AIE por meio dessa complexidade, como pode ser vist
 tabela
 abaixo:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 COMPLEXIDADE FUNCIONAL
@@ -2160,7 +2101,7 @@ TIPOS DE TRANSAÇÃO |
 
 | ENTRADA EXTERNA (EE) | SAÍDA EXTERNA (SE) | CONSULTA EXTERNA (CE) |
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Pessoal, eu expliquei tudo isso para que vocês entendam o fundamento de
@@ -2219,7 +2160,7 @@ esse custo é repassado para o Governo Federal. Então, em Projetos de Desenvolv
 há uma
 fórmula para calcular o total de pontos de função: DFP = ADD + CFP.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 DPF é o tamanho das funções de desenvolvimento; ADD é o tamanho das
@@ -2272,12 +2213,10 @@ a)3e7-
 converter dados ou proporcionar outros requisitos
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-36
 
-166
+
 
 
 b) 3 e io.
@@ -2338,12 +2277,10 @@ função não ajustados. Logo, a
 questão possui duas respostas, mas infelizmente não foi anulada (Letra A).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-37
 
-166
+
 
 
 Calcular Fator de Ajuste
@@ -2449,7 +2386,7 @@ Descreve em que nível o alto volume de transações de negócio influencia o
 projeto,
 desenvolvimento, instalação e suporte da aplicação.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -2539,7 +2476,7 @@ isolada.
 ■ Pontue if se a aplicação é puramente batch, mas possui entrada de dados ou impressão
 remota.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 ■ Pontue 2, se a aplicação é batch, mas possui alguma entrada de dados e alguma
@@ -2598,7 +2535,7 @@ alternativa que lista três dessas características.
 
 a) Processamento complexo, eficiência do usuário final, desempenho.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 b) Desempenho, saída externa, arquivos lógicos internos.
@@ -2657,12 +2594,10 @@ Comentários: se há influência em quatro das 14 CGS, então temos que VFA = SN
 0,65 = 0,20+0,65 = 0,85 ou 85% dos pontos brutos. (Letra D).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-41
 
-166
+
 
 
 Calcular os Pontos de Função Ajustados
@@ -2724,7 +2659,7 @@ função.
 
 Comentários: perfeito, bastava lembrar da fórmula: PFA = PFNA x VFA (Correto).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 NESMA
@@ -2780,7 +2715,7 @@ Essa contagem se baseia na premissa de que-para cada arquivo lógico interno-exi
 para que serve a
 contagem indicativa se ela será bastante imprecisa? Porque pode ser útil na análise de viabilidade
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 de um projeto! No início da aula, nós falamos sobre a importância de estimar o custo
@@ -2846,12 +2781,10 @@ II. Contagem de pf estimativa.
 III. Contagem de pf indicativa.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-44
 
-166
+
 
 
 Quanto ao tipo de contagem, a Netherlands Software Metrics Association reconhece o
@@ -2904,12 +2837,10 @@ complexidade funcional avaliada como
 média; (e) Correto, a contagem indicativa considera ALI = 35 e AIE = 15 (Letra E).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-45
 
-166
+
 
 
 Diego Carvalho
@@ -2995,12 +2926,10 @@ base de comparação.
 COMPONENTES
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-46
 
-166
+
 
 
 Diego Carvalho
@@ -3062,12 +2991,10 @@ Arquivos temporários; arquivos de trabalho; arquivos de classificação; arquiv
 cópia de segurança (backup); arquivos introduzidos somente por causa da tecnologia
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-47
 
-166
+
 
 
 Diego Carvalho
@@ -3148,12 +3075,10 @@ Dados transferidos para outra aplicação; relatórios; relatórios online;
 gráficos; gerador de relatórios.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-48
 
-166
+
 
 
 Diego Carvalho
@@ -3245,12 +3170,10 @@ DOCUMENTAR E REPORTAR
 TIPO DE CONTAGEMj DESCRIÇÃO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-49
 
-166
+
 
 
 Diego Carvalho
@@ -3355,12 +3278,10 @@ DISTRIBUÍDO
 Descreve o grau pelo qual a aplicação transfere dados entre seus componentes.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-50
 
-166
+
 
 
 Diego Carvalho
@@ -3465,12 +3386,10 @@ mudança de
 sua lógica de processamento ou estrutura de dados.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-51
 
-166
+
 
 
 Diego Carvalho
@@ -3513,12 +3432,10 @@ como descrição de telas e relatórios ou um protótipo do sistema.
 PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-52
 
-166
+
 
 
 QUESTõES CoMENTADAS - CESPE
@@ -3557,12 +3474,9 @@ alta
 
 quantidade
 
-3
 
 ]
-2
 
-3
 
 Tendo como referência as informações precedentes, julgue o próximo item, de acordo com
 o
@@ -3599,12 +3513,10 @@ relativas a uma
 mensuração de sistemas em pontos de função.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-53
 
-166
+
 
 
 I manutenção de sete páginas HTML estáticas no portal da organização, contida em um
@@ -3638,12 +3550,9 @@ alta
 
 quantidade
 
-3
 
 ]
-2
 
-3
 
 Tendo como referência as informações precedentes, julgue o próximo item, de acordo com
 o
@@ -3691,12 +3600,10 @@ do software baseado na visão do usuário.
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-54
 
-166
+
 
 
 Diego Carvalho
@@ -3749,7 +3656,7 @@ resultado
 da análise da documentação do projeto, primeira atividade do procedimento de contagem de
 PF do Manual de Práticas de Contagem (CPM).
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3794,7 +3701,7 @@ Eu divirjo do gabarito oficial! A contagem de funções de transação e de
 funções de dados é
 simultânea, logo uma não deve ser precedida da outra.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -3849,7 +3756,7 @@ RLR. Logo, questão incorreta!
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 13. (CESPE / TJ-AM - 2019) Devido a suas características, uma tela de login pode
@@ -3911,12 +3818,10 @@ Comentários:
 Não há restrição quanto à tecnologia de implementação.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-58
 
-166
+
 
 
 Diego Carvalho
@@ -3984,7 +3889,7 @@ calculam-se os PFA; (e) Correto. O item não afirma que é baseado apenas nesses
 princípios.
 Ora, há 14 fatores, mas esses três fatores mencionados são - sim - princípios de qualidade de
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 software (de acordo com a NBR ISO/IEC 9126) que ajudam o cálculo do fator de ajuste.
@@ -4045,12 +3950,10 @@ complexidade, como simples, média ou complexa.
 Comentários:
 
 
-Q-Q SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+Q-Q 
 
 
-60
 
-166
 
 
 Não vislumbro qualquer erro nessa questão! Alguns afirmam que é o nome: deveria ser
@@ -4111,12 +4014,10 @@ técnica
 mais trabalhosa que outras.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-61
 
-166
+
 
 
 Diego Carvalho
@@ -4179,7 +4080,7 @@ O objetivo é manter um ou mais arquivos lógicos internos e/ou alterar o
 comportamento do
 sistema.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4238,7 +4139,7 @@ Gabarito: Correto
 funções
 de conversão de dados não devem ser contadas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -4302,7 +4203,7 @@ Gabarito: Errado
 38.(CESPE / ECT - 2011) A técnica de análise de pontos de função tem como objetivos primários,
 entre outros, a medição da funcionalidade que o usuário solicita e recebe, a medição do
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 desempenho e a manutenção de software independentemente da tecnologia utilizada para sua
@@ -4368,9 +4269,7 @@ Q-Q SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 20
 (Pós-Edital)
 
 
-65
 
-166
 
 
 Diego Carvalho
@@ -4431,7 +4330,7 @@ tecnológicos e de qualidade.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 De fato, as Características Gerais de Sistema são utilizadas para determinar o fator
@@ -4496,12 +4395,10 @@ AIE são funções do tipo dados.
 Gabarito: Errado
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-67
 
-166
+
 
 
 49.(CESPE / TRE-BA - 2009) A APF auxilia a compreender e agir sobre problemas típicos
@@ -4566,12 +4463,10 @@ aplicativos de
 software embasados na arquitetura J2EE, com padrões de desenho, framework MVC,
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-68
 
-166
+
 
 
 interoperabilidade XML e bancos de dados relacionais. Além disso, ela adota um processo
@@ -4638,12 +4533,10 @@ e as funcionalidades requeridas para conversão de dados.
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-69
 
-166
+
 
 
 55- (CESPE /TRE-ES - 2009) Logo após o início das atividades técnicas de um projeto,
@@ -4709,12 +4602,10 @@ forma de
 implementação. Na análise de pontos de função, são contados os seguintes componentes:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-70
 
-166
+
 
 
 arquivos lógicos internos, arquivos de interface interna, entradas externas, consultas
@@ -4774,12 +4665,10 @@ fato realizada nos estágios iniciais de contagem.
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-71
 
-166
+
 
 
 62.(CESPE / STF - 2008) Em um projeto de desenvolvimento de software que adota o
@@ -4845,12 +4734,10 @@ característica
 do domínio da informação usada como parâmetro de entrada da análise.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-72
 
-166
+
 
 
 Diego Carvalho
@@ -4913,7 +4800,7 @@ que realizam uma tarefa. Em uma função, pode-se também ter declarações de
 parâmetros
 formais e de variáveis locais manipuladas pelas instruções. A métrica denominada pontos de
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 função (function points) é igual ao número de funções em um programa. Essa métrica
@@ -4966,12 +4853,10 @@ de programação utilizada.
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-74
 
-166
+
 
 
 QUESTõES CoMENTADAS - FCC
@@ -5035,12 +4920,10 @@ quantidades e correspondentes funções:
 - 2 ALI baixa comolexidade
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-75
 
-166
+
 
 
 - 2 ALI média complexidade
@@ -5112,12 +4995,10 @@ COMPLEXIDADE FUNCIONAL |
 - 3 AIE (Alta) = 3 x 10 = 30
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-76
 
-166
+
 
 
 Total de Pontos de Função de Dados (ALI/AIE) = 21 + 20 + 20 + 30 = 91 PFs
@@ -5177,12 +5058,10 @@ atualização
 dos Arquivos Lógicos Internos (ALIs).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-77
 
-166
+
 
 
 Diego Carvalho
@@ -5256,12 +5135,10 @@ função de
 transação.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-78
 
-166
+
 
 
 Diego Carvalho
@@ -5326,7 +5203,7 @@ de qualidade e análise de produtividade.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 (a) Pessoal, eu disse diversas vezes que a análise de pontos de função não depende
@@ -5395,12 +5272,10 @@ pode confundir
 função em linguagens de programação com a funcionalidade medida na APF. (d) Que viagem é
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-80
 
-166
+
 
 
 essa? APF não tem nada a ver com isso! (e) Agora, sim! Perfeito, mede-se
@@ -5471,9 +5346,7 @@ Q-Q SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 20
 (Pós-Edital)
 
 
-81
 
-166
 
 
 e) 212.
@@ -5548,12 +5421,10 @@ a) I e II, apenas.
 b) I e III, apenas.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-82
 
-166
+
 
 
 c) II e III, apenas.
@@ -5625,12 +5496,10 @@ AROUIVO LÚDICA INTERNA (ALI]
 Perceberam que tem que decorar essa tabela, né?! Trata-se de ALI, AIE e SE!
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-83
 
-166
+
 
 
 Diego Carvalho
@@ -5700,12 +5569,10 @@ e) 19.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-84
 
-166
+
 
 
 Sabe-se que PFA = VFA*PFNA = no,6o e PFNA = 140,00. Logo, VFA = 110,60/140,00 =
@@ -5766,12 +5633,10 @@ código desenvolvido.
 c) É dependente da tecnologia utilizada no desenvolvimento.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-85
 
-166
+
 
 
 d) A contagem de pontos de função pode ser aplicada logo após a definição da
@@ -5835,12 +5700,10 @@ e) CE.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-86
 
-166
+
 
 
 Mantém dados recebidos de fora da fronteira da aplicação em um ou mais arquivos
@@ -5884,12 +5747,10 @@ contagem de pontos brutos em até 35% - para mais ou para menos.
 Gabarito: Letra B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-87
 
-166
+
 
 
 Diego Carvalho
@@ -5956,12 +5817,10 @@ transação não necessariamente é executada e gerenciada por um SGBD.
 Gabarito: Letra C
 
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+0 0 
 
 
-88
 
-166
 
 
 3- (FGV / DPE-RJ - 2019) Determinado órgão governamental está utilizando a técnica de
@@ -6032,12 +5891,10 @@ contagem dos pontos de função das três funcionalidades novas e da excluída.
 Gabarito: Letra C
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-89
 
-166
+
 
 
 5- (FGV / Banestes- 2018) Em termos de Análise de Pontos de Função (APF),
@@ -6092,12 +5949,10 @@ resultou nos
 elementos listados na tabela a seguir.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-90
 
-166
+
 
 
 Nome da Função
@@ -6185,12 +6040,10 @@ TOTAL = 45
 Gabarito: Letra D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-91
 
-166
+
 
 
 7- (FGV / COMPESA - 2018) O levantamento da complexidade das oito funções de um
@@ -6262,7 +6115,6 @@ tamanho
 funcional de um software. Nesse método são contadas as funções de dados e
 funções de
 transação. Após essas contagens são aplicados fatores de ajuste. A opção que apresenta
-3
 fatores de ajuste desse método é:
 
 a) Volume de transações, entrada de dados online e presença de stakeholders negativos;
@@ -6280,12 +6132,10 @@ Comentários:
 14 CARACTERÍSTICA GERAIS DO SISTEMA (CGS)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-92
 
-166
+
 
 
 Diego Carvalho
@@ -6359,7 +6209,7 @@ referência a um grupo de dados "X" logicamente relacionado, mantido e
 armazenado no
 sistema B, conforme representado no diagrama a seguir.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6418,12 +6268,10 @@ Com base nessas contagens, Roger e sua equipe podem fazer as estimativas de soft
 o método será Dossível estimar utilizando Dontos de função.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-94
 
-166
+
 
 
 Diego Carvalho
@@ -6500,7 +6348,7 @@ aplicação.
 não
 seja apenas uma simples recuperação de dados ou informação de controle.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -6563,25 +6411,16 @@ Saída
 Arquivo
 
 Simples
-3
 
-4
 
-7
 
 Médio
-4
 
-5
 
-10
 
 Complexo
-6
 
-7
 
-15
 
 a) 3-
 
@@ -6594,12 +6433,10 @@ d) 6.
 e) 7-
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-96
 
-166
+
 
 
 Diego Carvalho
@@ -6665,7 +6502,7 @@ Gabarito: Letra A
 Métricas de Software da Holanda) - é uma organização similar ao IFPUG, que mantém seu
 próprio Manual de Práticas de Contagens. A diferença entre as regras mantidas pela NESMA e
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 as mantidas pelo IFPUG é que a NESMA reconhece três tipos de contagem de pontos de
@@ -6730,12 +6567,10 @@ c) 98;
 d) 100;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-98
 
-166
+
 
 
 Diego Carvalho
@@ -6802,7 +6637,7 @@ Assinale:
 
 a) se somente a afirmativa I estiver correta.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 b) se somente a afirmativa II estiver correta.
@@ -6872,12 +6707,10 @@ dentro da fronteira de outra aplicação, é um AIE.
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-100
 
-166
+
 
 
 2i.(FGV / MEC - 2009) Num sistema de controle acadêmico, uma tela permite
@@ -6945,19 +6778,17 @@ do entendimento da banca.
 Gabarito: Letra D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-101
 
-166
+
 
 
 Diego Carvalho
 
 (Profs. Diego Carvalho e Fernando Pedrosa)
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
@@ -7047,12 +6878,10 @@ Figura 10(c) - Tabela para determinação da
 contribuição de PF
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-103
 
-166
+
 
 
 í. (FUNDATEC / ISS-Porto Alegre - 2022) Sabe-se que em todos os processos elementares
@@ -7121,12 +6950,10 @@ de transação
 deveriam ser consideradas como de complexidade funcional média. Vamos consultar a tabela:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-104
 
-166
+
 
 
 Diego Carvalho
@@ -7230,7 +7057,7 @@ b) 2 entradas externas, 1 consulta externa, 1 saída externa, 14 PFs
 
 c) 2 entradas externas, 2 consultas externas, 15 PFs
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 d) 2 entradas externas, 2 consultas externas, 14 PFs
@@ -7293,12 +7120,10 @@ quantidade de pontos
 de função. Professor, análise de pontos de função pode ser utilizada para medir esforço? Sim, ela é
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-106
 
-166
+
 
 
 utilizada para medir o tamanho funcional de um software e, a partir dela, é possível
@@ -7368,12 +7193,10 @@ precisão
 sobre o cálculo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-107
 
-166
+
 
 
 Por essa razão, essas características são quantificadas de modo a obter um valor
@@ -7441,12 +7264,10 @@ domínios de
 informação. O que é isso? É uma área de interesse (Ex: sistema de uma universidade, hospital,
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-108
 
-166
+
 
 
 Diego Carvalho
@@ -7513,12 +7334,10 @@ Prototipação.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-109
 
-166
+
 
 
 (a) Errado, é independente da estrutura tecnológica; (b) Errado, mas eu acho a redação
@@ -7549,37 +7368,22 @@ Arquivo de Interface Externa
 Arquivo Lógico Interno
 
 Baixa
-2
 
-1
 
-0
 
-0
 
-2
 
 Média
-1
 
-4
 
-0
 
-0
 
-2
 
 Alta
-1
 
-1
 
-0
 
-1
 
-2
 
 Quantos pontos de função não ajustados tem tal sistema?
 
@@ -7617,12 +7421,10 @@ AIE-> 0*5 + 0*7 + 1*10 = 0 + 0 + 10 10
 | BAIXA | MÉDIA | ALTA |
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-110
 
-166
+
 
 
 ALI 2*7 + 2*10 + 2*15 = 14 + 20 + 30= 64
@@ -7685,12 +7487,10 @@ aplicação
 d) do projeto de integração, do projeto de requerimentos (requisitos), de depuração (testes)
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-111
 
-166
+
 
 
 e) do projeto de desenvolvimento, do projeto de requerimentos (requisitos), de
@@ -7761,9 +7561,7 @@ Q-Q SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 20
 (Pós-Edital)
 
 
-112
 
-166
 
 
 e) é uma medida de software, que possibilita um conjunto de métricas de
@@ -7831,12 +7629,10 @@ e) Arquivo de Interface Lógica.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-113
 
-166
+
 
 
 O grupo de dados, logicamente relacionados, reconhecido pelo usuário, mantido por meio
@@ -7901,12 +7697,10 @@ são uma função do tipo dado; (d) Errado, Arquivos Referenciados Externos não
 Gabarito: Letra A
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-114
 
-166
+
 
 
 Diego Carvalho
@@ -7977,12 +7771,10 @@ d) a linguagem de programação utilizada.
 e) o sistema gerenciador de banco de dados utilizado.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-115
 
-166
+
 
 
 Diego Carvalho
@@ -8042,7 +7834,7 @@ d) 102,65.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Vamos lembrar da fórmula: PFA = PFNA x [(NI x 0,01) + 0,65]. Se os Pontos de
@@ -8108,12 +7900,10 @@ b) Arquivos temporários, de trabalho ou de classificação.
 c) Arquivos de backup.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-117
 
-166
+
 
 
 d) Arquivos de mensagens de erro desde que mantidos pela aplicação.
@@ -8189,12 +7979,10 @@ Comentários:
 MUDANÇAS
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-118
 
-166
+
 
 
 As características são múltiplos locais e processamento complexo.
@@ -8261,12 +8049,10 @@ uma vez.
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-119
 
-166
+
 
 
 33- (ESAF / MPOG - 2010) Assinale a afi rmativa correta relativa à Análise por Pontos de Função
@@ -8324,12 +8110,10 @@ manutenção.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-120
 
-166
+
 
 
 É a funcionalidade da aplicação, funcionalidade de conversão, e fator de ajuste da aplicação.
@@ -8404,12 +8188,10 @@ Gabarito: Letra D
 para o cálculo do fator de ajuste é:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-121
 
-166
+
 
 
 a) avaliar o impacto de cada uma das 14 CGS no aplicativo que está sendo contado,
@@ -8464,12 +8246,10 @@ mandatário.
 Gabarito: Letra E
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-122
 
-166
+
 
 
 38.(ESAF / SUSEP - 2010) São Características Gerais do Sistema (CGS) do fator de ajuste que
@@ -8498,12 +8278,10 @@ nenhum é uma característica geral do sistema.
 Gabarito: Letra B
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-123
 
-166
+
 
 
 LISTA DE QUESTõES - CESPE
@@ -8542,12 +8320,9 @@ alta
 
 quantidade
 
-3
 
 ]
-2
 
-3
 
 Tendo como referência as informações precedentes, julgue o próximo item, de acordo com
 o
@@ -8591,12 +8366,9 @@ alta
 
 quantidade
 
-3
 
 ]
-2
 
-3
 
 Tendo como referência as informações precedentes, julgue o próximo item, de acordo com
 o
@@ -8606,7 +8378,7 @@ De acordo com os dados da tabela apresentada, as funções transacionais represe
 pontos
 de função.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 3- (CESPE / Ministério de Economia - 2020) Uma técnica paramétrica para estimativa de
@@ -8672,7 +8444,7 @@ externa, no caso da carga inicial dos dados, e como consultas ou saídas externa
 quando o
 usuário solicitar relatório associado à funcionalidade de migração de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 15. (CESPE / STM - 2018) Segundo a Nesma, a contagem indicativa considera
@@ -8737,7 +8509,7 @@ software a ser desenvolvido, independentemente dos índices de produtividade
 de cada
 empresa.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 21. (CESPE / STJ - 2015) Na contagem de pontos de função, deve-se contar um dado
@@ -8802,7 +8574,7 @@ Item. 32. (CESPE / MPOG - 2013) Na contagem por pontos de função, um arquivo d
 externa
 (AIE) sempre será um arquivo lógico interno (ALI) de outra aplicação.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 33- (CESPE/CNJ-2013) O principal objetivo de um arquivo de interface externa (AIE) é
@@ -8870,7 +8642,7 @@ externa é um processo elementar que envia dados ou informações de controle pa
 da
 fronteira, sendo considerada componente funcional básico.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 43- (CESPE / CET - 2011) Uma consulta externa disponibiliza informações para o usuário
@@ -8940,12 +8712,10 @@ dados e
 transacionais contribui com determinado número de PF.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-129
 
-166
+
 
 
 Item. 52. (CESPE/TCU -2009) Uma organização executa projetos de desenvolvimento de aplicativos
@@ -9018,7 +8788,7 @@ arquivos lógicos internos, arquivos de interface interna, entradas externas, co
 externas e
 saídas externas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 59-(CESPE/ UNIPAMPA-2009) A métrica pontos de função tem como final idade aferir o
@@ -9088,12 +8858,10 @@ desenvolvimento
 em determinada organização.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-131
 
-166
+
 
 
 Item. 69. (CESPE / PRODEST - 2006) Uma função pode ser definida como uma coleção de
@@ -9119,12 +8887,10 @@ função
 de um software depende da linguagem de programação usada para implementar este software.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-132
 
-166
+
 
 
 GABARITo
@@ -9207,7 +8973,7 @@ Item. 38. CORRETO
 
 39- CORRETO
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - FCC
@@ -9275,7 +9041,7 @@ E os seguintes valores padrão:
 
 - 4, para CE média
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Sem considerar o fator de ajuste, o total de pontos Função de Dados e o total de
@@ -9344,7 +9110,7 @@ funcional de um software cujo processo de medição envolve diversas etapas, den
 a
 medição das funções de dados, que envolvem as funcionalidades fornecidas pelo sistema ao
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 usuário para atender a suas necessidades de armazenamento de dados. Dentre as funções
@@ -9414,14 +9180,11 @@ Item. 8. (FCC / MPE-AP - 2012) Dentre os métodos disponíveis na utilização d
 a analise de pontos de função (Function Point Analysis). Nesse método,
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-1
 
 
-136
 
-166
+
+
 
 
 a) a função realizada pelos objetos do sistema, seus atributos e operações são
@@ -9481,7 +9244,7 @@ a) 136.
 
 b) 148.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 C) 159-
@@ -9549,7 +9312,7 @@ d) AIE, ALe EE.
 
 e) EE, CEe SE.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 13- (FCC / INFRAERO - 2011) A métrica análise por pontos de função foi desenvolvida
@@ -9610,7 +9373,7 @@ envolvidos e na soma dos ALI, mas não dos AIE participantes do processo.
 
 Está correto o que se afirma em:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) I, apenas.
@@ -9677,7 +9440,7 @@ ig.(FCC / TCM-PA - 2009) Quanto aos pontos brutos, na Análise de Pontos de Fun�
 fator de
 ajuste aplicado pode aumentá-los:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -9694,7 +9457,7 @@ d) ou diminuí-los em até 1,35%.
 
 e) em até 65% ou diminuí-los em até 35%.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -9741,7 +9504,7 @@ Item. 18. LETRA C
 
 Item. 19. LETRA B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - FC V
@@ -9808,7 +9571,7 @@ o intuito de atualizar 0 tamanho funcional do SISFIN, ao término das alteraçõ
 funções do
 SISFIN serão contadas utilizando a técnica de Análise de Ponto de Função (APF). Sendo assim,
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -9901,12 +9664,10 @@ Baixa
 Alta
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-144
 
-166
+
 
 
 Assinale a opção que corresponde ao total de pontos de função não ajustados computado
@@ -9982,7 +9743,6 @@ de tamanho
 funcional de um software. Nesse método são contadas as funções de dados e
 funções de
 transação. Após essas contagens são aplicados fatores de ajuste. A opção que apresenta
-3
 fatores de ajuste desse método é:
 
 a) Volume de transações, entrada de dados online e presença de stakeholders negativos;
@@ -9995,7 +9755,7 @@ d) Atualização online, interface com usuário e Múltiplos locais;
 
 e) Facilidade de Implantação, Facilidade operacional e Facilidade de obsolescência.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 g. (FGV / Prefeitura de Paulínia - SP - 2016) Ponto de Função é uma métrica
@@ -10063,7 +9823,7 @@ equipe podem fazer as estimativas de software aplicando o método:
 
 a) Linhas de código;
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 b) Pontos por Casos de Uso;
@@ -10138,7 +9898,7 @@ c) 3-2-4-i-5
 
 d) 2-3-5-4-i
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 e)3-2-i-5-4
@@ -10167,25 +9927,16 @@ Saída
 Arquivo
 
 Simples
-3
 
-4
 
-7
 
 Médio
-4
 
-5
 
-10
 
 Complexo
-6
 
-7
 
-15
 
 a) 3.
 
@@ -10224,7 +9975,7 @@ c) se somente a alternativa III estiver correta.
 
 d) se somente as alternativas I e II estiverem corretas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 e) se nenhuma alternativa estiver correta.
@@ -10289,7 +10040,7 @@ d) 1OO;
 
 e) 102.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 i8.(FGV / FIOCRUZ - 2010) Pontos por função - PF são derivados usando uma relação
@@ -10360,7 +10111,7 @@ c) se somente as afirmativas I e III estiverem corretas.
 
 d) se somente as afirmativas II e III estiverem corretas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 e) se todas as afirmativas estiverem corretas.
@@ -10409,7 +10160,7 @@ d) I, lie III.
 
 e) somente I.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -10440,7 +10191,7 @@ Item. 22. LETRA D
 
 Item. 8. LETRA D 16. LETRA B
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
@@ -10529,7 +10280,7 @@ Alta Média Baixa
 Figura 10(c) - Tabela para determinação da
 contribuição de PF
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 í. (FUNDATEC / ISS-Porto Alegre - 2022) Sabe-se que em todos os processos elementares
@@ -10627,7 +10378,7 @@ preliminar usado para a estimativa de esforço inicial de um software e
 baseada nos seus
 requisitos?
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) Número de pontos de função.
@@ -10703,7 +10454,7 @@ d) estruturas complexas.
 
 e) variáveis internas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Item. 8. (Avança SP / Câmara Municipal de Taboão da Serra - SP - 2019) No que se refere à análise de
@@ -10760,37 +10511,22 @@ Arquivo de Interface Externa
 Arquivo Lógico Interno
 
 Baixa
-2
 
-1
 
-0
 
-0
 
-2
 
 Média
-1
 
-4
 
-0
 
-0
 
-2
 
 Alta
-1
 
-1
 
-0
 
-1
 
-2
 
 Quantos pontos de função não ajustados tem tal sistema?
 
@@ -10798,7 +10534,7 @@ a) 103
 
 b) 106
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 c) 120
@@ -10868,7 +10604,7 @@ d) Artefatos Lógicos Internos - Artefatos de Integração Externa
 
 e) Acervo de Livros Internos - Acervo de Interfaces Externas.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 15- (IBFC / EBSERH - 2017) O conceito de Ponto de Função foi definido originalmente
@@ -10939,14 +10675,11 @@ c) Arquitetura Lógica Interna - Arquitetura Integrada Externa
 d) Artefatos Logicos Internos - Artefatos de Integração Externa
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-1
 
 
-158
 
-166
+
+
 
 
 e) Acervo de Livros Internos - Acervo de Interfaces Externas.
@@ -11020,7 +10753,7 @@ b) Uma Entrada Externa (EE), pois existe mudança de comportamento do sistema.
 
 c) Uma Saída Externa (SE), pois existe dados derivados na transação.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 d) Um Arquivo Lógico Interno (ALI), pois os dados foram salvos no banco de dados.
@@ -11083,7 +10816,7 @@ c) 101,65
 
 d) 102,65.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 26.(IBFC / EBSERH -2013) Em APF (Análise de Pontos de Função) existe o importante conceito de
@@ -11149,12 +10882,10 @@ d) Entrada de dados off-line, Compatibilidade Web.
 e) Múltiplos locais, Processamento complexo.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-161
 
-166
+
 
 
 Item. 31. (CONSULPLAN /TSE-2012) A análise de Ponto de Função engloba diversas etapas, sendo
@@ -11225,7 +10956,7 @@ Referenciados e da manipulação de Dados Elementares.
 desenvolvimento
 consiste dos componentes de funcionalidade:
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 a) reusabilidade de aplicação; reusabilidade de conversão; fator de ajuste da aplicação.
@@ -11280,7 +11011,7 @@ c) avaliar as entradas de cada uma das 14 CGS no aplicativo que está sendo cont
 atribuindo
 peso de 0 a 10 para cada característica.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 d) avaliar o impacto de cada uma das 14 CGS no aplicativo que está sendo contado,
@@ -11320,7 +11051,7 @@ d) Saída de dados on-line, Facilidade de planejamento e Performance.
 
 e) Comunicação de transações, Interação entre programas e Usabilidade.
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Diego Carvalho
@@ -11367,7 +11098,7 @@ Item. 38. LETRA B
 
 13- LETRA C 26. LETRA A
 
-SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
+
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

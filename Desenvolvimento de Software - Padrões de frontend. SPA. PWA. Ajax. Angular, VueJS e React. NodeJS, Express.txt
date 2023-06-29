@@ -20,79 +20,55 @@ Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael Lacerda)
 
-índice
+Índice
 
 1) AJAX- Teoria
-3
 
 2) AJAX - Questões Comentadas.
-8
 
 3) AJAX - Lista de Questões.
-25
 
 4) SPA - Teoria
-37
 
 5) Vue.JS -100% - Teoria
-39
 
 6) Vue.JS -100% - Questões Comentadas.
-41
 
 7) Vue.JS -100% - Lista de Questões.
-46
 
 8) ReactJS - Teoria
-50
 
 9) ReactJS - Questões Comentadas.
-53
 
 10) ReactJS - Lista de Questões.
-59
 
 11) AngularJS
-63
 
 12) AngularJS - Questões Comentadas.
-69
 
 13) AngularJS - Lista de Questões.
-79
 
 14) NodeJS - Teoria
-85
 
 15) WebPackJS - Teoria
-88
 
 16) WebPackJS - Questões Comentadas.
-89
 
 17) WebPackJS - Lista de Questões.
-92
 
 18) WebSocket - Teoria
-94
 
 19) WebSocket - Questões Comentadas.
-97
 
 20) WebSocket - Lista de Questões.
-101
 
 21) PWA-Teoria
-104
 
 22) PWA - Questões Comentadas.
-107
 
 23) PWA - Lista de Questões.
-111
 
-* SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-2
+* 
 
 
 Paolla Ramos e Silva
@@ -191,7 +167,6 @@ HTML+CSS data
 
 Ajax engine
 
-1
 
 HTTP rcqucst
 
@@ -258,12 +233,10 @@ comunicação
 assíncrona com o servidor.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-4
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -305,12 +278,10 @@ primeiro recupera dados como um Objeto DOM, em formato XML! É possível, ainda,
 dados em outros formatos, tais como: HTML e JSON!
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-5
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -375,12 +346,10 @@ III - Uma das características de Ajax é a exibição dinâmica de dados e uso 
 objetos DOM (Document Object Model).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-6
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -436,12 +405,10 @@ AJAX não usa SMTP, não faz
 sentido também falar do protocolo SMTP e do AJAX, são coisa distintas (Letra A).
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 
 
-7
 
-114
 
 
 Paolla Ramos e Silva
@@ -509,12 +476,10 @@ e) responseHTML
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-8
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -585,8 +550,7 @@ Comentários:
 
 - Recuperação Assíncrona de Dados: XMLHttpRequest;
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-9
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -653,8 +617,7 @@ Gabarito: Letra D
 
 Item. 7. (FCC / INFRAERO - 2011) Representa uma desvantagem do uso de AJAX:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-10
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -731,8 +694,7 @@ I. Troca e manipulação de dados usando XML e XSLT.
 
 II. Retorno de dados assincronamente usando XMLHttpRequest.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-11
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -805,8 +767,7 @@ d) FTP
 
 e) UTF-8
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-12
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -876,8 +837,7 @@ de AJAX.
 
 <html>
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-13
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -970,8 +930,7 @@ XMLHttpRequest. XMLHttpRequest é um objeto que fornece funcionalidade ao
 cliente para
 transferir dados entre um cliente e um servidor.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-14
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -1042,12 +1001,10 @@ XMLHttpRequest,
 que é capaz de transmitir requisições HTTP de modo assíncrono.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-15
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -1101,7 +1058,7 @@ Item. 18. (FGV/TCM-SP-2015) Considere a requisição AJAX construída, no client
 chamada
 à seguinte função em Javascript:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -1174,9 +1131,7 @@ Gabarito: Letra B
 software - 2023 (Pós-Edital)
 
 
-17
 
-114
 
 
 Paolla Ramos e Silva
@@ -1233,7 +1188,7 @@ realizar operações Ajax é chamado de XMLHttpRequest.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -1296,8 +1251,7 @@ nos códigos em JavaScript e Node.
 
 Sabendo disso, analise as afirmativas abaixo:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-19
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -1368,12 +1322,10 @@ d) I, lie III.
 Comentários:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-20
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -1435,8 +1387,7 @@ var a = [1,2,3,4,5] ;
 
 a.slice(0,3);
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-21
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -1506,8 +1457,7 @@ ArrayList é utilizado na linguagem JAVA e não no JS.
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-22
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -1572,8 +1522,7 @@ tipos diferentes.
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-23
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -1601,8 +1550,7 @@ ações do usuário.
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-24
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -1681,12 +1629,10 @@ aplicação
 Web, o modelo AJAX normalmente utiliza:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-25
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -1763,12 +1709,10 @@ informações:
 a) XML.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-26
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -1844,12 +1788,10 @@ d) FTP
 e) UTF-8
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-27
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -1929,8 +1871,7 @@ xhr.send(null);
 
 }
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-28
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -2013,8 +1954,7 @@ I - Uma das aplicações mais frequentes da tecnologia AJAX é na atualização
 assíncrona do
 conteúdo de páginas HTML.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-29
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -2056,12 +1996,10 @@ Item. 18. (FGV/TCM-SP- 2015) Considere a requisição AJAX construída, no clien
 à seguinte função em Javascript:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-30
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -2127,12 +2065,10 @@ Item. 22. (FUNCAB / PRODAM - 2014) A utilização de Ajax em uma página permite
 dados de uma URL sem a necessidade de recarregar a página inteira. O objeto JavaScript que
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 
 
-31
 
-114
 
 
 Paolla Ramos e Silva
@@ -2173,8 +2109,7 @@ nos códigos em JavaScript e Node.
 
 Sabendo disso, analise as afirmativas abaixo:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-32
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -2241,12 +2176,10 @@ d) I, lie III.
 manipulação de arrays. Sobre o método de manipulação de arrayof, é correto afirmar que:
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-33
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -2314,8 +2247,7 @@ b) Retorna o valor de um número arredondado para o inteiro, mais próximo.
 
 c) Retorna o valor de um número arredondado para o inteiro, logo abaixo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-34
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -2349,7 +2281,7 @@ limitações. Sua maior limitação é não permitir que determinados objetos gr
 apresentados
 na página (imagem, botão etc.) respondam dinamicamente às ações do usuário.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x35
+ x35
 
 www.estrategiaconcursos.com.br
 / 114
@@ -2399,12 +2331,10 @@ Item. 10. LETRA E 22. ERRADO
 Item. 12. LETRA C 24- CORRETO
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-36
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -2475,8 +2405,7 @@ todo código (HTML, CSS e JavaScript) é recuperado em uma única carga inicial 
 navegador
 utiliza apenas uma URL.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-37
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -2546,14 +2475,12 @@ isso, vamos
 às questões...
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 1 www.estrategiaconcursos.com.br
 
 
-38
 
-114
 
 
 Paolla Ramos e Silva
@@ -2596,7 +2523,7 @@ count: 0
 
 }).mount('#app')
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -2660,8 +2587,7 @@ extrapolando o velho e bom: HTML, CSS e Javascript. Por fim, no Vue para renderi
 uma lista de
 elementos com base nos dados de um determinado Array basta utilizar o comando v-for.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-40
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -2765,9 +2691,7 @@ escolhida: 'Nenhuma*
 (Pós-Edital)
 
 
-41
 
-114
 
 
 Paolla Ramos e Silva
@@ -2833,12 +2757,10 @@ de um determinado Array é o v-for.
 Gabarito: Letra A
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-42
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -2904,8 +2826,7 @@ que nos permite descrever declarativamente a saída HTML com base no estado do J
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-43
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -2969,8 +2890,7 @@ dentre elas, aprimorando HTML estático sem uma etapa de compilação.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-44
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -2990,8 +2910,7 @@ estático sem uma etapa de compilação.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-45
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -3162,8 +3081,7 @@ Item. 6. (QUESTÃO INÉDITA) O framework Vue.js estende o HTML padrão com uma s
 modelo
 que nos permite descrever declarativamente a saída HTML com base no estado do JavaScript.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-47
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -3193,8 +3111,7 @@ incremental. Dependendo de cada caso de uso, o Vue pode ser usado de diferentes
 maneiras,
 dentre elas, aprimorando HTML estático sem uma etapa de compilação.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-48
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -3221,12 +3138,10 @@ Item. 9. CORRETO
 ío.CORRETO
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 
 
-49
 
-114
 
 
 Paolla Ramos e Silva
@@ -3289,7 +3204,7 @@ que mantém um DOM virtual próprio.
 
 UNIFICA 0 MARKUP E A LÓGICA DA VIEW, FACILITANDO A EXTENSÃO E MANUTENÇÃO
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -3369,8 +3284,7 @@ STATE
 State é gerenciado de dentro do componente (como variáveis declaradas dentro
 de uma função.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-51
+ x
 
 www.estrategiaconcursos.com.br
 / 114
@@ -3414,8 +3328,7 @@ ver 0 que acabamos de estudar, não é verdade? Logo, 0 ReactJS - conforme vimos
 exclusivamente do DOM do
 navegador, já que tem um DOM virtual própria (Letra A).
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-52
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -3499,7 +3412,7 @@ b) imperativa, que não gerencia seu próprio virtual DOM e não dá suporte a
 componentes
 reutilizáveis.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x53
+ x53
 
 www.estrategiaconcursos.com.br
 / 114
@@ -3568,8 +3481,7 @@ Item. 5. (AOCP / PRODEB - 2018) Qual é a linguagem utilizada no desenvolvimento
 biblioteca de
 frontend chamada React?
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-54
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -3642,12 +3554,10 @@ definido e
 controlado pelo próprio componente e muda ao longo de sua vida e Props (Propriedades): São
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-55
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -3727,8 +3637,7 @@ a alternativa em que todos os métodos são considerados como Updating:
 
 a) getStateQ, forceUpdateQ e renderQ
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-56
+ x
 
 www.estrategiaconcursos.com.br
 / 114
@@ -3801,8 +3710,7 @@ Questão fora da curva, mas por padrão, os projetos no react, ficam
 armazenados na pasta
 node_modules.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-57
+ x
 
 www.estrategiaconcursos.com.br
 / 114
@@ -3865,12 +3773,10 @@ SGBDs é MySQL, Oracle, SQL Server e Acess. Obviamente, React não é SGBD.
 Gabarito: Letra D
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-58
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -3942,12 +3848,10 @@ c) CSS
 d) .NET
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-59
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -4023,8 +3927,7 @@ a) Component Driven Development.
 
 b) Component Development Structured.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-60
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -4091,12 +3994,10 @@ d) MySQL, Oracle, SQL Server e Acess.
 e) GIT, REST, VueJS e Oracle.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-61
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -4119,12 +4020,10 @@ Item. 4. ERRADO 9. LETRA D
 Item. 5. LETRA E io. LETRA A
 
 
-0 0 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+0 0 
 
 
-62
 
-114
 
 
 Paolla Ramos e Silva
@@ -4200,7 +4099,7 @@ A partir daí, foram lançados um bocado de frameworks de desenvolvimento front-
 utilizam
 o Modelo MVC. Quais, professor? Knockout, Backbone.js, Ember, batman.js, e... AngularJS! Trata-
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -4277,8 +4176,7 @@ da variável, e
 modifica o conteúdo da tag <p> com o valor da variável. O segundo chama-se
 interpolação de
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-64
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -4356,8 +4254,7 @@ como Angular.
 Um ponto a ressaltar é que, a partir da versão 2, todas as versões seguintes são
 evoluções naturais
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-65
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -4440,8 +4337,7 @@ respectivamente. Como nós já vimos na aula, cada componente deve definir uma v
 que é
 especificada pelo atributo template ou templateUrl:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-66
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -4514,8 +4410,7 @@ verdadeira.
 
 NG-CSP Altera a política de segurança do conteúdo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-67
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -4587,8 +4482,7 @@ examinador colocou chaves e parêntesis {()}, e isso não é nada na arquitetura
 AngularJS. Portanto,
 item errado
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-69
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -4651,12 +4545,10 @@ Gabarito: Letra A
 Item. 6. (FCC / TRT2 - 2018) Considere a página web abaixo, que utiliza o Angular JS versão 1.6.9.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-70
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -4716,12 +4608,10 @@ Gabarito: Letra B
 Item. 7. (COPERV / UFSC - 2018) Considere a página web abaixo que utiliza Angular.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-71
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -4792,12 +4682,10 @@ Item. 8. (IBFC /TJ-PE - 2017) Abaixo são apresentadas algumas das principais di
 (1) ng-model
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-72
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -4861,8 +4749,7 @@ NG-CSP Altera a política de segurança do conteúdo.
 
 Gabarito: Letra B
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-73
+ x
 
 www.estrategiaconcursos.com.br
 / 114
@@ -4927,8 +4814,7 @@ Este fragmento evidencia o uso de:
 
 a) QueryJS.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-74
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -4999,8 +4885,7 @@ NG-REPEAT Instancia um elemento por item de um array.
 NG-SHOW E NG-HIDE Mostra ou esconde um elemento HTML de acordo com o resultado de uma
 expressão booleana.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-75
+ x
 
 www.estrategiaconcursos.com.br
 / 114
@@ -5068,8 +4953,7 @@ diretivas e vinculando dados ao HTML através de expressões.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-76
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -5140,8 +5024,7 @@ verdadeira.
 
 NG-CSP Altera a política de segurança do conteúdo.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital) x
-77
+ x
 
 www.estrategiaconcursos.com.br
 / 114
@@ -5170,8 +5053,7 @@ sempre que o valor da expressão mudar.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-78
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -5240,12 +5122,10 @@ e) <p>Candidato aprovado: <js:angular value="candidato. nome"/x/p>.
 Item. 6. (FCC / TRT2 - 2018) Considere a página web abaixo, que utiliza o Angular JS versão 1.6.9.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-79
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -5325,12 +5205,10 @@ I. <p ng-bind="nome,,x/p>
 II. <p>{{nomeH</p>
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-80
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -5401,12 +5279,10 @@ d) I e II
 e) I e III
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-81
 
-114
+
 
 
 Item. 11. (FCC / TRT ii - 2017) Considere o fragmento de código HTML abaixo.
@@ -5469,12 +5345,10 @@ eficiente do
 conteúdo;
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-82
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -5505,8 +5379,7 @@ Item. 16. (CESPE / STJ - 2015) O atributo ngBind informa ao AngularJS para atual
 conteúdo do
 texto, quando o valor da expressão for alterado.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-83
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -5537,12 +5410,10 @@ Item. 5. LETRA A li. LETRA C
 Item. 6. LETRA B 12. LETRA C
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 
 
-84
 
-114
 
 
 Paolla Ramos e Silva
@@ -5587,12 +5458,10 @@ o Thread Processing Thread Waiting
 Para quem quiser conhecê-lo: https://www.youtube.com/watch?v=SAc0vQCC6UQ
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-85
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -5645,8 +5514,7 @@ fila. A primeira requisição entra no Event Loop e o servidor delega a requisi�
 alguma thread
 assíncrona.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-86
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -5694,8 +5562,7 @@ ela apenas executa o Javascript. Galera, é possível escrever livros sobre isso
 nunca caiu em
 prova, então vamos parar por aqui...
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-87
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -5776,7 +5643,7 @@ realize a conversão desdes arquivos em módulos com gráficos de dependência. 
 temos o
 MODE que realizam a execução do webpack em produção.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -5831,12 +5698,10 @@ um gráfico que mapeia cada módulo e as dependências de um ou mais pacotes
 Gabarito: Correto
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-89
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -5899,8 +5764,7 @@ gerado pelo webpack.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-90
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -5935,8 +5799,7 @@ Ao contrário, o MODE no webpack realiza a execução em produção e não em de
 
 Gabarito: Errado
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-91
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -5994,12 +5857,10 @@ em
 produção.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-92
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -6028,8 +5889,7 @@ Item. 9. CORRETO
 
 Item. 10. ERRADO
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-93
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -6074,8 +5934,7 @@ conexão persistente entre cliente/servidor e as duas partes podem enviar dados
 a qualquer
 momento.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-94
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -6157,8 +6016,7 @@ A linha 2 abre um WebSocket com o serviço disponível em "ws://meuservico.com.b
 Essa
 conexão usa a própria conexão HTTP da página, e mantém o canal aberto enquanto o socket não
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-95
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -6206,12 +6064,10 @@ uma
 questão simples sobre o que o WebSocket é (ou tentar te enganar, falando coisas que ele não é).
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-96
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -6278,12 +6134,10 @@ a) esses browsers por questões de segurança, não permitem que scripts manipul
 HTML que foi renderizado na página.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-97
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -6346,8 +6200,7 @@ sessão de comunicação interativa entre o navegador do usuário e um servidor
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-98
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -6415,8 +6268,7 @@ protocolo https.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-99
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -6460,8 +6312,7 @@ ocorrer um erro.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-100
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -6533,7 +6384,7 @@ c) WebSocket permite a comunicação bidirecional por canais full-duplex sobre u
 conexão
 UDP.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -6580,8 +6431,7 @@ Item. 11. (QUESTÃO INÉDITA) Entre as funcionalidades do websocket, temos o ws.
 é o
 callback de quando ocorrer um erro.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-102
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -6655,7 +6505,7 @@ Vamos explorar isso com os sites, para ficar mais aderente. Imagina que você ac
 o Chrome ou
 Mozilla Firefox e quer acesso o Google Maps.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+
 
 
 Paolla Ramos e Silva
@@ -6707,12 +6557,10 @@ As aplicações PWA podem acessar recursos do dispositivo para aprimorar a
 experiência no app.
 
 
-00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
+00 
 
 
-105
 
-114
 
 
 Paolla Ramos e Silva
@@ -6798,8 +6646,7 @@ em um ambiente de navegador.
 
 Comentários:
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-107
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -6869,8 +6716,7 @@ Basta acessar a web em um site que já seja compatível com PWA, não precisa ba
 nenhuma
 aplicação, este é o erro da questão.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-108
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -6936,12 +6782,10 @@ convencer o seu
 público a baixar um app ou realizarqualquertipo de cadastro.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-109
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -6961,8 +6805,7 @@ necessidade de abrir o navegador e digitar uma URL.
 
 Gabarito: Correto
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-110
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -7036,12 +6879,10 @@ aplicação,
 abrir e ainda conceder uma série de permissões para, finalmente, utilizá-los.
 
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-111
 
-114
+
 
 
 Paolla Ramos e Silva
@@ -7070,8 +6911,7 @@ Item. 10. (QUESTÃO INÉDITA) Os PWAs podem ser adicionados às homes dos
 smartphones,
 dispensando a necessidade de abrir o navegador e digitar uma URL.
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-112
+
 
 www.estrategiaconcursos.com.br
 / 114
@@ -7098,8 +6938,7 @@ Item. 9. CORRETO
 
 Item. 10. CORRETO
 
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-1
+
 
 www.estrategiaconcursos.com.br
 / 1
