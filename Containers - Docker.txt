@@ -52,7 +52,7 @@ Quanto as instruções Docker, uma se destaca por ser responsável por indicar a
 
 - ENV : Define variáveis de ambiente;
 
-- FROM : Inicia a imagem a partir de outra imagem: Ex “FROM debian:8”;
+- FROM : Inicia a imagem a partir de outra imagem: Ex "FROM debian:8";
 
 - RUN : Roda um comando no sistema operacional da imagem;
 
@@ -62,5 +62,5 @@ Como o Docker trabalha utilizando cliente e servidor (toda a comunicação entre
 
 Entre esses conjuntos podemos destacar a biblioteca libcontainer, que é responsável pela comunicação entre o Docker Daemon e o backend utilizado, sendo ela a responsável pela criação do container, e através dela é possível configurar os limites de recursos por container.
 
-Vale lembrar que, apesar do Docker ter sido desenvolvido inicialmente com base na tecnologia LXC (Linux Containers – sendo, portanto, mais associado aos containers Linux), hoje essa tecnologia tornou-se independente de sistema operacional: podemos utilizar o Docker em ambientes Linux, Windows e até mesmo MacOS.
+Vale lembrar que, apesar do Docker ter sido desenvolvido inicialmente com base na tecnologia LXC (Linux Containers - sendo, portanto, mais associado aos containers Linux), hoje essa tecnologia tornou-se independente de sistema operacional: podemos utilizar o Docker em ambientes Linux, Windows e até mesmo MacOS.
 

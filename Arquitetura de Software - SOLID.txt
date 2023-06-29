@@ -16,7 +16,7 @@ Item. 5. Princípio da Inversão de Dependência (Dependency Inversion Principle
 Esses princípios SOLID são diretrizes importantes para criar um código modular, flexível e de fácil manutenção. Eles promovem a coesão, o baixo acoplamento e a extensibilidade em sistemas de software orientados a objetos. Ao seguir esses princípios, você pode melhorar a qualidade do software, facilitar a evolução do sistema e tornar o código mais resiliente a mudanças.
 
 
-Escrever um código que satisfaça os requisitos atuais, e que também possa satisfazer requisitos futuros facilmente, deve ser o objetivo de qualquer desenvolvedor – evoluir com o tempo é o único fator que pode manter o código-fonte. Princípios SOLID são cinco princípios de design de código orientado a objeto para tornar o código mais entendível, claro, flexível, conciso e tolerante a mudanças; e para aumentar a adesão do código aos princípios da orientação a objetos.
+Escrever um código que satisfaça os requisitos atuais, e que também possa satisfazer requisitos futuros facilmente, deve ser o objetivo de qualquer desenvolvedor - evoluir com o tempo é o único fator que pode manter o código-fonte. Princípios SOLID são cinco princípios de design de código orientado a objeto para tornar o código mais entendível, claro, flexível, conciso e tolerante a mudanças; e para aumentar a adesão do código aos princípios da orientação a objetos.
 SOLID é um acrônimo para cada um dos cinco princípios que fazem parte desse grupo:
 
 § Single Responsability Principle
@@ -29,7 +29,7 @@ SOLID é um acrônimo para cada um dos cinco princípios que fazem parte desse g
 
 § Dependency Inversion Principle
 
-Esses cinco princípios de desenvolvimento de software são diretrizes a serem seguidas ao criar software para facilitar o dimensionamento e a manutenção. Veja bem, alguns desses princípios podem parecer semelhantes, mas não visam o mesmo objetivo. Para simplificar o acompanhamento, usarei a palavra “Classe”, mas observe que ela também pode se aplicar a uma função, método ou módulo.
+Esses cinco princípios de desenvolvimento de software são diretrizes a serem seguidas ao criar software para facilitar o dimensionamento e a manutenção. Veja bem, alguns desses princípios podem parecer semelhantes, mas não visam o mesmo objetivo. Para simplificar o acompanhamento, usarei a palavra "Classe", mas observe que ela também pode se aplicar a uma função, método ou módulo.
 
 Índice
 
@@ -48,7 +48,7 @@ Responsabilidade Única
 
 Uma classe dever ter uma única responsabilidade.
 Se uma classe tiver muitas responsabilidades, aumenta a probabilidade de ocorrerem bugs, uma vez que alterar uma de suas responsabilidades pode afetar as outras sem que você saiba. Para resolver esse problema, temos o Princípio da Responsabilidade Única. O objetivo desse princípio é separar comportamentos para que, se surgirem bugs como resultado de sua alteração, isso não afete outros comportamentos não relacionados.
-Na imagem, temos um robô que tem muitas responsabilidades: ele é chef, jardineiro, pintor e motorista – o ideal é que tivéssemos um robô para cada uma dessas responsabilidades.
+Na imagem, temos um robô que tem muitas responsabilidades: ele é chef, jardineiro, pintor e motorista - o ideal é que tivéssemos um robô para cada uma dessas responsabilidades.
 
 Aberto-Fechado
 
@@ -85,7 +85,7 @@ Em primeiro lugar, vamos definir os termos usados aqui de forma mais simples:
 § Detalhes: como a ferramenta funciona;
 
 Este princípio diz que uma classe não deve ser fundida com a ferramenta que usa para executar uma ação. Em vez disso, ele deve ser fundido à interface que permitirá que a ferramenta se conecte à classe. Também diz que tanto a classe quanto a interface não devem saber como a ferramenta funciona. No entanto, a ferramenta precisa atender à especificação da interface. O objetivo desse princípio é reduzir a dependência de uma classe de alto nível na classe de baixo nível, introduzindo uma interface.
-Na imagem à esquerda, temos um robô que possui um braço exclusivamente para cortar pizzas; já na imagem à direita, temos um robô que possui um braço que pode ser adaptado para diversas ações – inclusive cortar pizza. Note que eu posso adaptar uma outra ferramenta no braço do robô para que ele possa realizar outra ação. Logo, temos uma inversão: as classes de alto nível deixam de depender das classes de baixo nível e passam a depender apenas da abstração (interface).
+Na imagem à esquerda, temos um robô que possui um braço exclusivamente para cortar pizzas; já na imagem à direita, temos um robô que possui um braço que pode ser adaptado para diversas ações - inclusive cortar pizza. Note que eu posso adaptar uma outra ferramenta no braço do robô para que ele possa realizar outra ação. Logo, temos uma inversão: as classes de alto nível deixam de depender das classes de baixo nível e passam a depender apenas da abstração (interface).
 
 Para finalizar, vamos falar um pouquinho sobre coesão e acoplamento. A implementação de qualquer classe deve ser coesa, isto é, toda classe deve implementar uma única funcionalidade ou serviço. Especificamente, todos os métodos e atributos de uma classe devem estar voltados para a implementação do mesmo serviço. Uma outra forma de explicar coesão é afirmando que toda classe deve ter uma única responsabilidade no sistema.
 Dito de outra forma, deve existir um único motivo para modificar uma classe. Ok? Bem, a coesão tem algumas vantagens: facilita a implementação de uma classe, bem como o seu entendimento e manutenção; facilita a alocação de um único responsável por manter uma classe; e facilita o reuso e teste de uma classe, pois é mais simples reusar e testar uma classe coesa do que uma classe com várias responsabilidades.

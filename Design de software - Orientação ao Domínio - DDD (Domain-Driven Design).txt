@@ -24,7 +24,7 @@ Ao aplicar o DDD, é essencial considerar a evolução contínua do design e a i
 O DDD é uma abordagem poderosa para o design de software em domínios complexos, onde a compreensão profunda e precisa do negócio é crucial para o sucesso do projeto. No entanto, é importante equilibrar o uso adequado dos conceitos do DDD com as necessidades e restrições do projeto, evitando complexidade desnecessária quando não é justificada.
 
 
-Design Orientado ao Domínio (Domain-Driven Design – DDD)
+Design Orientado ao Domínio (Domain-Driven Design - DDD)
 
 Um domínio geralmente é mais extenso do que alguns objetos e, para torná-lo mais gerenciável, o DDD divide um domínio em subdomínios. O termo DDD 'domínio do problema' é usado para definir uma área funcional dentro de um contexto como uma organização ou departamento.
 O desenvolvimento de software é mais frequentemente aplicado para automatizar processos que existem no mundo real ou fornecer soluções para problemas de negócios reais. Os processos de negócios sendo automatizados ou problemas do mundo real que o software é o domínio do software. Devemos entender desde o início que o software é originado e profundamente relacionado a este domínio.

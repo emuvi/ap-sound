@@ -781,7 +781,7 @@ definição de cada um desses elementos.
 
 ENTIDADES
 
-Entidades são objetos do “mundo real” sobre os quais se deseja manter informações no
+Entidades são objetos do "mundo real" sobre os quais se deseja manter informações no
 banco de dados. Cada entidade de ser a representação abstrata de um objeto. Atributos
 são as propriedades que descrevem essas entidades. Relacionamentos são as
 associações entre entidades. Cada tipo entidade que participa de um tipo relacionamento
@@ -982,9 +982,9 @@ PRATELEIRA
 
 —O capacidade
 
-—• número do corredor
+—* número do corredor
 
-—• número da prateleira
+—* número da prateleira
 
 Figura 4 - Exemplo de identificadores simples e composto
 
@@ -1667,9 +1667,9 @@ vez está ligado por uma linha a cada subclasse que foi definida. O símbolo em 
 de 'u'
 em cada linha que liga uma subclasse ao círculo indica que a subclasse é um
 subconjunto
-da superclasse. O círculo pode ser vazio ou pode conter um símbolo “d” (para
+da superclasse. O círculo pode ser vazio ou pode conter um símbolo "d" (para
 disjunção) ou
-“o” (para sobreposição). Vejam a figura abaixo para esclarecer a nossa explicação.
+"o" (para sobreposição). Vejam a figura abaixo para esclarecer a nossa explicação.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
@@ -1712,7 +1712,7 @@ subclasses de qualquer superclasse deve ser separada. Por exemplo, uma entidade 
 BOOK pode pertencer a um TEXTBOOK ou NOVEL, mas não ambos. Uma especialização
 definida por um atributo em que na definição deste atributo ele possua um valor único
 implica em uma restrição de disjunção. A restrição de disjunção é representada por um
-símbolo “d” escrito em um círculo num diagrama ERE como mostrado na figura.
+símbolo "d" escrito em um círculo num diagrama ERE como mostrado na figura.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
@@ -1736,7 +1736,7 @@ inferior. Isto é, as subclasses de qualquer superclasse não precisam ser separ
 entidades podem se sobrepor uma à outra.
 
 Em termos de diagrama ERE, a restrição de sobreposição é representada por um símbolo
-‘o’ escrito em um círculo que une à superclasse com suas subclasses. Por exemplo, os
+'o' escrito em um círculo que une à superclasse com suas subclasses. Por exemplo, os
 tipos
 de entidade PLAYER e POLITICIAN mostram uma restrição de sobreposição, uma
 celebridade pode ser um jogador bem como um político (ver figura). Da mesma forma, uma
@@ -2328,7 +2328,7 @@ Identifying Relationship
 
 **Child Entity
 
-Na figura ao lado, a entidade A “empresta”
+Na figura ao lado, a entidade A "empresta"
 sua chave primária para a entidade B. Logo,
 temos um relacionamento identificador, e,
 logicamente uma dependência de
@@ -2428,7 +2428,7 @@ linha. Podemos colocar após a definição do
 nome dos atributos os termos (FK), (PK),
 (AKn), (O). Os três primeiros se referem,
 respectivamente, a chave estrangeira, chave
-primária e chave alternativas. O ‘n’ representa
+primária e chave alternativas. O 'n' representa
 uma numeração atribuída a chave alternativa.
 
 O último termo (O) representa que o atributo em questão é opcional. Vejam a figura
@@ -2777,10 +2777,10 @@ de uma entidade associada a uma ocorrência da entidade em apreço através do
 relacionamento A cardinalidade é expressa como Número (Mínimo, Máximo) pode
 ser mínima ou máxima:
 
-• Máxima: informa a quantidade máxima de ocorrências de determinada entidade,
+* Máxima: informa a quantidade máxima de ocorrências de determinada entidade,
 associada a uma ocorrência da entidade em apreço, usando o relacionamento;
 
-• Mínima: informa a quantidade mínima de ocorrências de determinada entidade,
+* Mínima: informa a quantidade mínima de ocorrências de determinada entidade,
 associada a uma ocorrência da entidade em apreço, usando o relacionamento.
 
 Além disto, a cardinalidade é representada no lado oposto. Pela figura acima, (0,n)
@@ -2789,7 +2789,7 @@ concluir que O ITEM ESTÁ ERRADO, pois a cardinalidade de Hospital é (1,1).
 
 O modelo apresentado nos permite concluir que:
 
-• Uma ocorrência de Universidade pode estar associada a várias ocorrências de
+* Uma ocorrência de Universidade pode estar associada a várias ocorrências de
 Hospital (determinada Universidade pode possuir vários Hospitais) e pode ainda
 não ter nenhuma correspondência;
 
@@ -2824,7 +2824,7 @@ Conforme o modelo ER em questão, um tipo de produto pode estar associado a
 somente 1 produto e cada produto possui um preço e uma descrição.
 
 Comentário: Temos que lembrar que a leitura da cardinalidade do relacionamento
-entre duas entidades é feita de forma “cruzada”, neste caso, cada produto
+entre duas entidades é feita de forma "cruzada", neste caso, cada produto
 está
 associado a um tipo de produto e cada tipo de produto pode estar associado a vários
 produtos. Logo, temos uma alternativa incorreta.
@@ -2864,7 +2864,7 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 01 (Prof. Thiago Cavalcanti)
 
-“No sistema implementado, o cliente não terá de cadastrar cada produto nos módulos
+"No sistema implementado, o cliente não terá de cadastrar cada produto nos módulos
 de vendas e compras, pois a redundância será tratada na fase da modelagem do
 banco de dados"
 
@@ -3665,7 +3665,7 @@ A letra B faz uma leitura errada do relacionamento entre cliente e filial. O cor
 dizer que uma filial atende a zero até n clientes e um cliente é atendido por uma e
 apenas uma filial.
 
-Para responder a alternativa C precisamos entender o que significar o “ (1 ,n) ” ao
+Para responder a alternativa C precisamos entender o que significar o " (1 ,n) " ao
 lado
 do atributo telefone da entidade cliente. Podemos dizer que ele representa um atributo
 multivalorado, pois um cliente pode ter mais de um telefone e obrigatório, pois cada
@@ -3981,11 +3981,11 @@ conjunto F.
 
 Então temos que definir uma cardinalidade que corresponda com essa condição da função.
 
-• A cardinalidade de E->F tem que ser de no mínimo 1 e no máximo 1
+* A cardinalidade de E->F tem que ser de no mínimo 1 e no máximo 1
 correspondente, o que
 gerará: [1,1]
 
-• E a cardinalidade de F-> E tem que ser de no mínimo 1 e no máximo 1 ou n
+* E a cardinalidade de F-> E tem que ser de no mínimo 1 e no máximo 1 ou n
 correspondente, o
 que gerará: [1, (1 ou n) ]
 
@@ -4041,10 +4041,10 @@ Comentário. O relacionamento R apresentado na questão tem cardinalidade 1:N.
 Analisando a
 figura, temos duas regras que devem ser respeitadas:
 
-• uma instância da entidade El pode se relacionar com uma ou várias instâncias da entidade E2;
+* uma instância da entidade El pode se relacionar com uma ou várias instâncias da entidade E2;
 e
 
-• uma instância da entidade E2 pode se relacionar com nenhuma ou no máximo uma
+* uma instância da entidade E2 pode se relacionar com nenhuma ou no máximo uma
 instância de
 El.
 
@@ -4379,11 +4379,11 @@ contém uma lista de motivos extraída do sistema. Um motivo possui código e de
 
 O sistema deve, também, atender a alguns requisitos adicionais. São eles:
 
-• o cliente deve informar o endereço de entrega no momento em que inserir um pedido;
+* o cliente deve informar o endereço de entrega no momento em que inserir um pedido;
 
-• um pedido possui um número e a data em que foi realizado;
+* um pedido possui um número e a data em que foi realizado;
 
-• uma transportadora precisa ter registrados o número do CNPJ, o nome e o endereço.
+* uma transportadora precisa ter registrados o número do CNPJ, o nome e o endereço.
 
 Qual diagrama E-R descreve adequadamente os elementos envolvidos no negócio da empresa KWX?
 
@@ -4585,22 +4585,22 @@ FOREIGN KEY (COD ARBTR)
 
 Observações:
 
-• A Tabela CAO contém os dados dos cães inscritos na referida associação. A coluna
+* A Tabela CAO contém os dados dos cães inscritos na referida associação. A coluna
 NOME_PAI
 indica o nome do pai de um cão, a coluna RACA indica a raça do mesmo, e a coluna NOME_PROPR
 indica o nome do seu proprietário. As demais colunas são autoexplicativas.
 
-• A Tabela COMPETICAO contém informações sobre as competições patrocinadas pela
+* A Tabela COMPETICAO contém informações sobre as competições patrocinadas pela
 associação.
 Suas colunas são autoexplicativas.
 
-• A Tabela PARTICIPACAO informa as competições das quais participaram os cães
+* A Tabela PARTICIPACAO informa as competições das quais participaram os cães
 registrados na
 associação. Cada linha dessa tabela indica a colocação obtida por um cão em uma
 determinada
 competição. Suas colunas são autoexplicativas.
 
-• A Tabela ARBITRO contém os dados dos árbitros que julgam os cães que
+* A Tabela ARBITRO contém os dados dos árbitros que julgam os cães que
 participam de
 competições. Suas colunas são autoexplicativas.
 
@@ -4619,7 +4619,7 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 01 (Prof. Thiago Cavalcanti)
 
-• Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
+* Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
 determinado
 árbitro em uma determinada competição. Suas colunas são autoexplicativas.
 
@@ -4696,7 +4696,7 @@ seguintes informações sobre o pagamento de entregas foram fornecidas por um
 funcionário da
 empresa:
 
-•Uma entrega é identificada internamente por um código. Além disso, é necessário
+*Uma entrega é identificada internamente por um código. Além disso, é necessário
 registrar o peso
 e as dimensões do objeto a ser entregue, o endereço de entrega e o custo da operação de entrega;
 
@@ -4715,28 +4715,28 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 01 (Prof. Thiago Cavalcanti)
 
-• Uma entrega pode ser paga através de cartão de crédito, cartão de débito ou
+* Uma entrega pode ser paga através de cartão de crédito, cartão de débito ou
 boleto bancário.
 Visando a atender às demandas de seus clientes, uma entrega pode ser paga usando-se
 qualquer
 combinação desses três meios de pagamento;
 
-• Em relação a um pagamento com cartão de crédito, o sistema deve registrar a data
+* Em relação a um pagamento com cartão de crédito, o sistema deve registrar a data
 de pagamento,
 o valor pago, o número do cartão, sua data de validade e a instituição que o emitiu;
 
-• Em relação a um pagamento com cartão de débito, o sistema deve registrar a data
+* Em relação a um pagamento com cartão de débito, o sistema deve registrar a data
 de pagamento,
 o valor pago, o número do banco e os números da agência e da conta corrente às quais o cartão está
 vinculado;
 
-• Em relação a um pagamento com boleto bancário, o sistema deve registrar a data de
+* Em relação a um pagamento com boleto bancário, o sistema deve registrar a data de
 pagamento,
 o valor pago e o número do código de barras do boleto;
 
-• Cada pagamento registrado se refere a uma única entrega
+* Cada pagamento registrado se refere a uma única entrega
 
-• Não há entrega registrada no sistema que não tenha, pelo menos, um pagamento
+* Não há entrega registrada no sistema que não tenha, pelo menos, um pagamento
 associado a ela.
 
 Qual diagrama E-R representa corretamente os elementos e as regras presentes na
@@ -5297,15 +5297,15 @@ Além de atender aos requisitos acima, o sistema de informação em questão dev
 responder às
 seguintes questões:
 
-• Qual é o nome do consórcio vencedor?
+* Qual é o nome do consórcio vencedor?
 
-• Quais são as empresas que integram um determinado consórcio?
+* Quais são as empresas que integram um determinado consórcio?
 
-• Qual é o país de origem de uma determinada empresa?
+* Qual é o país de origem de uma determinada empresa?
 
-• Qual é o nome de uma determinada área de exploração? Onde ela está localizada?
+* Qual é o nome de uma determinada área de exploração? Onde ela está localizada?
 
-• Qual é o código de um determinado bloco de exploração? Onde ele está localizado? A
+* Qual é o código de um determinado bloco de exploração? Onde ele está localizado? A
 que área de
 exploração ele pertence?
 
@@ -6342,11 +6342,11 @@ contém uma lista de motivos extraída do sistema. Um motivo possui código e de
 
 O sistema deve, também, atender a alguns requisitos adicionais. São eles:
 
-• o cliente deve informar o endereço de entrega no momento em que inserir um pedido;
+* o cliente deve informar o endereço de entrega no momento em que inserir um pedido;
 
-• um pedido possui um número e a data em que foi realizado;
+* um pedido possui um número e a data em que foi realizado;
 
-• uma transportadora precisa ter registrados o número do CNPJ, o nome e o endereço.
+* uma transportadora precisa ter registrados o número do CNPJ, o nome e o endereço.
 
 Qual diagrama E-R descreve adequadamente os elementos envolvidos no negócio da empresa KWX?
 
@@ -6502,22 +6502,22 @@ FOREIGN KEY (COD ARBTR)
 
 Observações:
 
-• A Tabela CAO contém os dados dos cães inscritos na referida associação. A coluna
+* A Tabela CAO contém os dados dos cães inscritos na referida associação. A coluna
 NOME_PAI
 indica o nome do pai de um cão, a coluna RACA indica a raça do mesmo, e a coluna NOME_PROPR
 indica o nome do seu proprietário. As demais colunas são autoexplicativas.
 
-• A Tabela COMPETICAO contém informações sobre as competições patrocinadas pela
+* A Tabela COMPETICAO contém informações sobre as competições patrocinadas pela
 associação.
 Suas colunas são autoexplicativas.
 
-• A Tabela PARTICIPACAO informa as competições das quais participaram os cães
+* A Tabela PARTICIPACAO informa as competições das quais participaram os cães
 registrados na
 associação. Cada linha dessa tabela indica a colocação obtida por um cão em uma
 determinada
 competição. Suas colunas são autoexplicativas.
 
-• A Tabela ARBITRO contém os dados dos árbitros que julgam os cães que
+* A Tabela ARBITRO contém os dados dos árbitros que julgam os cães que
 participam de
 competições. Suas colunas são autoexplicativas.
 
@@ -6536,7 +6536,7 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 01 (Prof. Thiago Cavalcanti)
 
-• Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
+* Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
 determinado
 árbitro em uma determinada competição. Suas colunas são autoexplicativas.
 
@@ -6589,32 +6589,32 @@ seguintes informações sobre o pagamento de entregas foram fornecidas por um
 funcionário da
 empresa:
 
-• Uma entrega é identificada internamente por um código. Além disso, é necessário
+* Uma entrega é identificada internamente por um código. Além disso, é necessário
 registrar o peso
 e as dimensões do objeto a ser entregue, o endereço de entrega e o custo da operação de entrega;
 
-• Uma entrega pode ser paga através de cartão de crédito, cartão de débito ou
+* Uma entrega pode ser paga através de cartão de crédito, cartão de débito ou
 boleto bancário.
 Visando a atender às demandas de seus clientes, uma entrega pode ser paga usando-se
 qualquer
 combinação desses três meios de pagamento;
 
-• Em relação a um pagamento com cartão de crédito, o sistema deve registrar a data
+* Em relação a um pagamento com cartão de crédito, o sistema deve registrar a data
 de pagamento,
 o valor pago, o número do cartão, sua data de validade e a instituição que o emitiu;
 
-• Em relação a um pagamento com cartão de débito, o sistema deve registrar a data
+* Em relação a um pagamento com cartão de débito, o sistema deve registrar a data
 de pagamento,
 o valor pago, o número do banco e os números da agência e da conta corrente às quais o cartão está
 vinculado;
 
-• Em relação a um pagamento com boleto bancário, o sistema deve registrar a data de
+* Em relação a um pagamento com boleto bancário, o sistema deve registrar a data de
 pagamento,
 o valor pago e o número do código de barras do boleto;
 
-• Cada pagamento registrado se refere a uma única entrega
+* Cada pagamento registrado se refere a uma única entrega
 
-• Não há entrega registrada no sistema que não tenha, pelo menos, um pagamento associado a ela.
+* Não há entrega registrada no sistema que não tenha, pelo menos, um pagamento associado a ela.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
@@ -6976,15 +6976,15 @@ Além de atender aos requisitos acima, o sistema de informação em questão dev
 responder às
 seguintes questões:
 
-• Qual é o nome do consórcio vencedor?
+* Qual é o nome do consórcio vencedor?
 
-• Quais são as empresas que integram um determinado consórcio?
+* Quais são as empresas que integram um determinado consórcio?
 
-• Qual é o país de origem de uma determinada empresa?
+* Qual é o país de origem de uma determinada empresa?
 
-• Qual é o nome de uma determinada área de exploração? Onde ela está localizada?
+* Qual é o nome de uma determinada área de exploração? Onde ela está localizada?
 
-• Qual é o código de um determinado bloco de exploração? Onde ele está localizado? A
+* Qual é o código de um determinado bloco de exploração? Onde ele está localizado? A
 que área de
 exploração ele pertence?
 

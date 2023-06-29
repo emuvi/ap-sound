@@ -57,14 +57,14 @@ IMPLEMENTAçÃo DE SGBDS RELACIoNAIS.
 
 OBJETIVoS DA AULA
 
-• Conhecer a terminologia de banco de dados relacional.
+* Conhecer a terminologia de banco de dados relacional.
 
-• Entender o significado das regras de integridade para bancos de dados relacionais.
+* Entender o significado das regras de integridade para bancos de dados relacionais.
 
-• Entender o impacto das linhas referenciadas na manutenção de bancos de dados
+* Entender o impacto das linhas referenciadas na manutenção de bancos de dados
 relacionais.
 
-• Entender o significado de cada operador da álgebra relacional.
+* Entender o significado de cada operador da álgebra relacional.
 
 CoNCEIToS BÁSICoS
 
@@ -350,8 +350,8 @@ relações gerados.
 Item. 4. Um operador de atribuição relacional para atribuição de valores de relações
 a essas RelVars.
 
-Item. 5. Uma coleção ilimitada de operadores relacionais genéricos (“a álgebra
-relacional”) para derivar valores de relações a partir de outros valores de relações.
+Item. 5. Uma coleção ilimitada de operadores relacionais genéricos ("a álgebra
+relacional") para derivar valores de relações a partir de outros valores de relações.
 
 A coleção ilimitada de tipos escalares está associada aos tipos de dados que podem ser
 atribuídos a cada um dos atributos de uma tabela. Existem alguns tipos de dados
@@ -714,8 +714,8 @@ vazio em particular!
 
 Esse último ponto merece uma explicação mais detalhada. Existe a tupla vazia (TUPLA {
 
-}). Às vezes, referimo-nos a uma tupla de grau zero mais explicitamente como uma “0-
-tupla”, a fim de enfatizar o fato de que ela não possui componentes. Outro nome
+}). Às vezes, referimo-nos a uma tupla de grau zero mais explicitamente como uma "0-
+tupla", a fim de enfatizar o fato de que ela não possui componentes. Outro nome
 conhecido
 é de tupla nulária.
 
@@ -985,11 +985,11 @@ dados.
 Vamos comparar os conceitos de tabelas e visões de forma pragmática. A distinção entre
 uma tabela básica e uma visão é constantemente caracterizada desta maneira:
 
-Tabelas básicas “existem realmente”, no sentido de que representam dados de
+Tabelas básicas "existem realmente", no sentido de que representam dados de
 fato armazenados no banco de dados.
 
-As visões, ao contrário, não “existem realmente”, mas apenas oferecem diferentes
-modos de visualização dos “dados reais”.
+As visões, ao contrário, não "existem realmente", mas apenas oferecem diferentes
+modos de visualização dos "dados reais".
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
@@ -1433,7 +1433,7 @@ ld_Municipio para ser chave primária da relação MUNICÍPIO. As outras chaves 
 preteridas podem ser denominadas chave alternativa.
 
 Agora, vamos falar sobre chave estrangeira. Observe que, na relação aprovados, temos
-um campo denominado Município. Esse campo vai “apontar” para a chave primária da tabela
+um campo denominado Município. Esse campo vai "apontar" para a chave primária da tabela
 Município (ld_Municipio). O que acontece aqui é que os valores presentes na
 coluna
 Município da tabela aprovados devem estar presentes na chave da tabela município. Outra
@@ -1853,7 +1853,7 @@ PG J V E DQCGPSGW
 —
 
 
-‘ | «dl Sá™5
+' | «dl Sá™5
 
 51 27 15 6 6 26 58 12 63
 ---- -------
@@ -1871,7 +1871,7 @@ T? Sào Paulo
 - "
 
 
-' I O •"temacicrai
+' I O *"temacicrai
 
 42 27 6 9 24 51 7 52
 ---------
@@ -1880,13 +1880,13 @@ Grêmio 41 27 11 8 8
 50 44 14 51
 
 
-• @ Bania
+* @ Bania
 
 41 27 11 8 8 24 50 6 51
 ------------
 
 
-• | / Atraetk»
+* | / Atraetk»
 
 59 27 11 6 10 29 58 9 48
 ---------
@@ -1933,7 +1933,7 @@ F | Ceara
 —
 
 
-” I & »
+" I & »
 
 26 27 6 8 13 59 18 -21 32
 ------------
@@ -2054,15 +2054,15 @@ linguagens e várias formas de recuperação de informações. Entretanto, deve 
 menos uma linguagem, com uma sintaxe bem definida e expressa por um conjunto de
 caracteres, que suporte de forma compreensiva todos os seguintes itens:
 
-• Sintaxe linear
+* Sintaxe linear
 
-• Acesso de forma interativa e/ou por meio de programas
+* Acesso de forma interativa e/ou por meio de programas
 
-• Operações de definição de dados, definição de "views", manipulação de dados
+* Operações de definição de dados, definição de "views", manipulação de dados
 (interativa e embutida em programas), restrições de integridade,
 autorizações/segurança de acesso.
 
-• Administração de transações (begin, commit e rollback).
+* Administração de transações (begin, commit e rollback).
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
@@ -2248,11 +2248,11 @@ modelo relacional é conhecido como álgebra relacional. Navathe apresenta três
 motivos
 para considerarmos essas operações importantes:
 
-• Fornece alicerce formal para o modelo relacional.
+* Fornece alicerce formal para o modelo relacional.
 
-• É usado como base para implementação e otimização de consultas.
+* É usado como base para implementação e otimização de consultas.
 
-• Alguns dos seus conceitos são incorporados na linguagem SQL padrão.
+* Alguns dos seus conceitos são incorporados na linguagem SQL padrão.
 
 Historicamente, a álgebra e o cálculo relacional foram desenvolvidos antes da linguagem
 SQL. O conjunto básico de operações para o modelo relacional é a álgebra relacional.
@@ -2374,11 +2374,11 @@ CÚ
 
 2
 
-• União
+* União
 
-• Diferença
+* Diferença
 
-• Produto
+* Produto
 cartesiano
 
 Figura 3 - Operações fundamentais da álgebra relacional.
@@ -2738,7 +2738,7 @@ união
 das universidades. Contudo, se precisarmos usar esse resultado mais adiante, qual o nome
 da nova relação e dos atributos? Temos, portanto, que renomear o resultset.
 
-O segundo uso do rename seria para reduzir ambiguidade em “selfjoirTs”. Quando
+O segundo uso do rename seria para reduzir ambiguidade em "selfjoirTs". Quando
 fazemos um join da tabela com ela mesma e queremos comparar os atributos do resultado,
 precisamos renomear as tabelas para que essa comparação possa ser feita. Se você se
 lembrar de SQL, a linguagem implementa alias sobre as tabelas, e uma das funções desse
@@ -2932,7 +2932,7 @@ GUILHERME NEVES
 
 _ _ _ _ _ _ _ _ RESULTADO
 
-NOME | CP^“nTNASCIMENTO
+NOME | CP^"nTNASCIMENTO
 
 DIEGO CARVALHO 111.111.111-11 12/10/1988
 
@@ -3309,8 +3309,8 @@ Harry 3415 Finance
 
 George 3401 Finance
 
-A operação de divisão é usada nas consultas nas quais se emprega a frase: “para
-todos”.
+A operação de divisão é usada nas consultas nas quais se emprega a frase: "para
+todos".
 Seu resultado será composto, basicamente, pelos elementos da primeira tabela
 que se
 relacionem com todos os elementos da segunda tabela. Vejam o exemplo abaixo:
@@ -3418,15 +3418,15 @@ primeira versão dos operadores.
 
 Operadores de conjuntos tradicionais
 
-• União, Interseção, Diferença e Produto cartesiano
+* União, Interseção, Diferença e Produto cartesiano
 
-• Todos eles um pouco modificados para levar em conta
+* Todos eles um pouco modificados para levar em conta
 o fato de que seus operandos são, especificamente,
 relações e não conjuntos arbitrários.
 
 Operadores relacionais especiais
 
-• De restrição (também conhecido como seleção),
+* De restrição (também conhecido como seleção),
 projeção, junção e divisão.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
@@ -3884,14 +3884,14 @@ lista de superchaves (Fl, F2 e F3) e (F5 e F3).
 
 Vamos lá então:
 
-• (Fl, F2, F3, F4, F5) — superchave com 5 atributos
+* (Fl, F2, F3, F4, F5) — superchave com 5 atributos
 
-• (Fl, F2, F3, F4), (Fl, F2, F3, F5), (F5, F3, F2, F4), (F5, F3, Fl, F4) — superchaves com 4
+* (Fl, F2, F3, F4), (Fl, F2, F3, F5), (F5, F3, F2, F4), (F5, F3, Fl, F4) — superchaves com 4
 atributos
 
-• (Fl, F2, F3), (F5, F3, Fl), (F5, F3, F2), (F5, F3, F4) - superchaves com 3 atributos
+* (Fl, F2, F3), (F5, F3, Fl), (F5, F3, F2), (F5, F3, F4) - superchaves com 3 atributos
 
-• (F5, F3) - superchave com 2 atributos
+* (F5, F3) - superchave com 2 atributos
 
 Vejam que no total temos 10 possíveis superchaves para a relação em questão. Esse
 conjunto incluí as duas chaves candidatas
@@ -4101,18 +4101,18 @@ normal:
 
 Primeira forma normal
 
-• Uma relação R existe na primeira forma normal (1FN) se, e somente se, todos
+* Uma relação R existe na primeira forma normal (1FN) se, e somente se, todos
 os domínios subjacentes contiverem apenas valores atômicos.
 
-• No modelo relacional, um domínio é atômico se os elementos do domínio são
+* No modelo relacional, um domínio é atômico se os elementos do domínio são
 considerados unidades indivisíveis. Um esquema de relação R está na
 primeira forma normal se todos os atributos de R são atômicos.
 
-• A primeira forma normal afirma que o domínio de um atributo deve incluir
+* A primeira forma normal afirma que o domínio de um atributo deve incluir
 apenas valores atômicos (simples e indivisíveis) e que o valor de qualquer
 atributo em uma tupla deve ser um único valor do domínio desse atributo.
 
-• A primeira forma normal evita as chamadas relações aninhadas, essas
+* A primeira forma normal evita as chamadas relações aninhadas, essas
 relações contêm vários atributos em uma única coluna e não são permitidas
 no modelo relacional.
 
@@ -4264,10 +4264,10 @@ da tabela. Desta forma, é possível aceitar algumas das definições abaixo:
 
 Segunda forma normal
 
-• Um esquema de relação R está na 2FN se cada atributo não primário A em
+* Um esquema de relação R está na 2FN se cada atributo não primário A em
 R for total e funcionalmente dependente da chave primária de R.
 
-• Uma tabela está na segunda forma normal (2FN) se estiver na primeira forma
+* Uma tabela está na segunda forma normal (2FN) se estiver na primeira forma
 normal (1FN), e seus atributos não chaves forem totalmente dependentes da
 chave primária.
 
@@ -4573,7 +4573,7 @@ e) A > B; A > C; B > A.
 
 Comentário: Essa questão pode ter sua resolução dividida em duas partes. Sabemos que temos três
 atributos: A, B e C. O atributo
-"A” foi definido como chave primária. Logo, pela explicação que vimos até aqui temos que A -> B e A
+"A" foi definido como chave primária. Logo, pela explicação que vimos até aqui temos que A -> B e A
 -> C. A chave primária não
 pode ter valores nulos
 
@@ -4681,7 +4681,7 @@ considerada normalizada para uma dessas formas quanto todas as suas relações
 se
 apresentarem nessa forma.
 
-Tratamos das formas normais mais “simples” e relacionadas à DF, espero que você tenha
+Tratamos das formas normais mais "simples" e relacionadas à DF, espero que você tenha
 entendido. Qualquer dúvida ou comentário pode ser enviado para mim aqui mesmo, no
 fórum do Estratégia Concursos ou por e-mail. Mas, o objetivo desta aula é: ensinar
 todas as
@@ -5426,7 +5426,7 @@ atualizações válidas.
 
 Comentário: Essa questão apresenta uma pegadinha. Esse é um tipo de questão para
 as pessoas que sofrem do mal da leitura dinâmica rústica errarem. Muita calma ao ler
-as questões do seu concurso. A afirmação: “preservado contra atualizações válidas”
+as questões do seu concurso. A afirmação: "preservado contra atualizações válidas"
 distorce uma das funções do SGBD. O SGDB deve ser utilizado para garantir
 a
 consistência do banco de dados. Preservando contra anomalias de atualização ou
@@ -5485,7 +5485,7 @@ UbetorUNQOfUMO
 ÜR.IUNC MM.rUMC RR.OEP NR.CPf
 VL_SALARIO
 
-XI r ULAXO *00 izMOi.’W(r
+XI r ULAXO *00 izMOi.'W(r
 10.000.00
 ow SKRANO A00 00
 2000.00
@@ -5503,8 +5503,8 @@ ow SKRANO A00 00
 
 Cher-M CvxAMta5 óa FUN CIONZRIO:
 
-•XjüNC
-‘NR.CPF
+*XjüNC
+'NR.CPF
 
 Gabarito: C.
 
@@ -5879,7 +5879,7 @@ alternativa está correta, essa é nossa resposta!
 C. A terceira forma normal trata da eliminação das dependências transitivas. Desta
 forma a alternativa está incorreta, pois fala em dependências intransitivas.
 
-D. A primeira forma normal, como falamos na alternativa “A”, visa eliminar atributos
+D. A primeira forma normal, como falamos na alternativa "A", visa eliminar atributos
 atômicos, a alternativa D, portanto, encontra-se incorreta.
 
 E. A presença de dependências transitivas é eliminada pela terceira forma normal e
@@ -5991,7 +5991,7 @@ Comentário 99. A normalização para primeira forma normal é feita eliminando 
 atributos compostos ou multivalorados. Veremos mais sobre normalização na próxima
 aula.
 
-Comentário 100. Segundo o livro do Navathe: “Quando o projeto de um banco de dados
+Comentário 100. Segundo o livro do Navathe: "Quando o projeto de um banco de dados
 é finalizado e um SGBD é escolhido para implementá-lo, o primeiro passo é especificar
 esquemas conceituais e internos para o banco de dados e quaisquer mapeamentos
 entre os dois. Em muitos SGBDs, onde não é mantida nenhuma separação estrita de
@@ -6425,17 +6425,17 @@ REFERENCES SIMULADO (CODIGO)
 
 Considere que:
 
-• ATabela PARTICIPACAO registra a inscrição de alunos nos exames simulados
+* ATabela PARTICIPACAO registra a inscrição de alunos nos exames simulados
 promovidos pela
 escola. Um aluno pode inscrever-se em muitos simulados, e um simulado
 pode ter muitos
 alunos inscritos.
 
-• Todas as vezes em que um aluno se inscrever em um simulado uma linha
+* Todas as vezes em que um aluno se inscrever em um simulado uma linha
 será inserida na
 tabela PARTICIPACAO.
 
-• Após a correção de um simulado, os pontos obtidos pelos alunos inscritos
+* Após a correção de um simulado, os pontos obtidos pelos alunos inscritos
 são atualizados na
 tabela PARTICIPACAO.
 
@@ -6461,18 +6461,18 @@ Que sequência de operações da Álgebra Relacional produz o mesmo resultado qu
 o comando
 SQL acima?
 
-• A ÜDATA = '02/06/2017' (TCHMATRICULA (SI M U LADO rxl SIMULADO.CODIGO=PARTICIPACAO.CODIGO
+* A ÜDATA = '02/06/2017' (TCHMATRICULA (SI M U LADO rxl SIMULADO.CODIGO=PARTICIPACAO.CODIGO
 PARTICIPACAO))
 
-• B OMATRICULA ((H DATA = '02/06/2017' (SIMULADO))
+* B OMATRICULA ((H DATA = '02/06/2017' (SIMULADO))
 CODIGO=PARTICIPACAO.CODIGO
 PARTICIPACAO)
 
-• C RMATRICULA ((oDATA ='02/06/2017' (SIMULADO)) OCoDIGo=PARTICIPACAo.CoDIGo PARTICIPACAO)
+* C RMATRICULA ((oDATA ='02/06/2017' (SIMULADO)) OCoDIGo=PARTICIPACAo.CoDIGo PARTICIPACAO)
 
-• D OMATRICULA ((ttDATA ='02/06/2017' (SIMULADO))t*i CoDIGo=PARTICIPACAo.CoDIGo PARTICIPACAO)
+* D OMATRICULA ((ttDATA ='02/06/2017' (SIMULADO))t*i CoDIGo=PARTICIPACAo.CoDIGo PARTICIPACAO)
 
-• E HMATRICULA ((ODATA ='02/06/2017' (SIMULADO)) WcODIGO=PARTICIPACAO.CODIGO PARTICIPACAO)
+* E HMATRICULA ((ODATA ='02/06/2017' (SIMULADO)) WcODIGO=PARTICIPACAO.CODIGO PARTICIPACAO)
 
 Comentário: O comando pede para fazer uma projeção na coluna matrícula sobre
 o resultado
@@ -6631,15 +6631,15 @@ enumerasse o que foi feito no esquema, tendo em vista garantir que todas
 as tabelas atendam
 à 35 forma normal (3FN). Ao ser questionado pelo analista, ele respondeu o seguinte:
 
-• Todas as colunas definidas são atômicas.
+* Todas as colunas definidas são atômicas.
 
-• Foram definidas chaves primárias para todas as tabelas.
+* Foram definidas chaves primárias para todas as tabelas.
 
-• Todas as colunas que fazem parte de alguma chave primária foram definidas como NOT NULL.
+* Todas as colunas que fazem parte de alguma chave primária foram definidas como NOT NULL.
 
-• Não há chave primária composta em tabela alguma.
+* Não há chave primária composta em tabela alguma.
 
-• Todas as dependências funcionais transitivas foram eliminadas.
+* Todas as dependências funcionais transitivas foram eliminadas.
 
 Nessas condições, para garantir que todas as tabelas desse esquema atendam à 3FN,
 A é necessário estender a restrição de NOT NULL para as demais colunas.
@@ -6691,11 +6691,11 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 02 (Prof. Thiago Cavalcanti)
 
-• Tabelas são descritas por um nome e uma lista de colunas, separadas por vírgulas.
+* Tabelas são descritas por um nome e uma lista de colunas, separadas por vírgulas.
 
-• Colunas que participam da chave primária estão sublinhadas.
+* Colunas que participam da chave primária estão sublinhadas.
 
-• Dependências funcionais entre colunas são definidas pelo símbolo (->) e exibidas em seguida
+* Dependências funcionais entre colunas são definidas pelo símbolo (->) e exibidas em seguida
 à definição das tabelas.
 
 Todos os esquemas atendem à 1FN.
@@ -6823,17 +6823,17 @@ E segunda forma normal não pode conter chave primária composta.
 
 Comentário: A questão trata de normalização. Vamos relembrar quais são as formas normais:
 
-• 1- Forma Normal (1FN): Para estar na 1FN, todos os atributos devem
+* 1- Forma Normal (1FN): Para estar na 1FN, todos os atributos devem
 ser atômicos (ou
 indivisíveis).
 
-• 2- Forma Normal (2FN): Para estar na 2FN, a tabela deve estar na 1FN e, além
+* 2- Forma Normal (2FN): Para estar na 2FN, a tabela deve estar na 1FN e, além
 disso, todas
 as colunas que não são chave devem ter dependência funcional com toda a
 chave primária,
 e não apenas parte dela. Ou seja, não pode existir dependências funcionais parciais.
 
-• 3- Forma Normal (3FN): Para estar na 3FN, a tabela deve estar na 2FN e todas
+* 3- Forma Normal (3FN): Para estar na 3FN, a tabela deve estar na 2FN e todas
 as colunas
 que não são chaves primárias não podem apresentar dependência
 entre si, sendo
@@ -7043,16 +7043,16 @@ NOME DEPTO - nome do departamento em que o empregado trabalha.
 
 Em relação às formas normais (FN), essa Tabela
 
-• A encontra-se na 2FN, pois atende à 1FN e não possui chave primária composta.
+* A encontra-se na 2FN, pois atende à 1FN e não possui chave primária composta.
 
-• B encontra-se na 2FN, pois atende à 1FN e não possui dependências funcionais parciais.
+* B encontra-se na 2FN, pois atende à 1FN e não possui dependências funcionais parciais.
 
-• C encontra-se na 3FN, pois atende às duas primeiras formas normais e não possui
+* C encontra-se na 3FN, pois atende às duas primeiras formas normais e não possui
 dependências funcionais transitivas.
 
-• D encontra-se na 3FN, pois atende à 2FN e não possui chave primária composta.
+* D encontra-se na 3FN, pois atende à 2FN e não possui chave primária composta.
 
-• E não atende a nenhuma das formas normais.
+* E não atende a nenhuma das formas normais.
 
 Comentário: Claramente a tabela tem problemas com a primeira forma normal por
 possuir
@@ -7069,7 +7069,7 @@ PRATICAR!
 A notação a seguir é uma forma alternativa de descrever esquemas de bancos de dados
 relacionais, sem que seja necessário fazê-lo por meio de comandos SQL.
 
-• Uma tabela é descrita por meio de um nome e um conjunto de colunas, separadas por
+* Uma tabela é descrita por meio de um nome e um conjunto de colunas, separadas por
 vírgulas.
 
 
@@ -7087,13 +7087,13 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 02 (Prof. Thiago Cavalcanti)
 
-• Por serem irrelevantes para a questão, os tipos de dados das colunas não são especificados.
+* Por serem irrelevantes para a questão, os tipos de dados das colunas não são especificados.
 
-• Colchetes são usados para representar colunas que admitem o valor nulo.
+* Colchetes são usados para representar colunas que admitem o valor nulo.
 
-• Colunas sublinhadas representam a chave primária de uma tabela.
+* Colunas sublinhadas representam a chave primária de uma tabela.
 
-• Chaves estrangeiras são representadas por meio da cláusula REF:
+* Chaves estrangeiras são representadas por meio da cláusula REF:
 
 <lista_de_colunas> REF <nome_de_tabela>
 
@@ -7247,17 +7247,17 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 02 (Prof. Thiago Cavalcanti)
 
-• Uma tabela é descrita por meio de um nome e um conjunto de colunas, separadas
+* Uma tabela é descrita por meio de um nome e um conjunto de colunas, separadas
 por
 vírgulas.
 
-• Por serem irrelevantes para a questão, os tipos de dados das colunas não são especificados.
+* Por serem irrelevantes para a questão, os tipos de dados das colunas não são especificados.
 
-• Colchetes são usados para representar colunas que admitem o valor nulo.
+* Colchetes são usados para representar colunas que admitem o valor nulo.
 
-• Colunas sublinhadas representam a chave primária de uma tabela.
+* Colunas sublinhadas representam a chave primária de uma tabela.
 
-• Chaves estrangeiras são representadas por meio da cláusula REF:
+* Chaves estrangeiras são representadas por meio da cláusula REF:
 
 <lista_de_colunas> REF <nome_de_tabela>
 Seja o seguinte diagrama E-R:
@@ -7415,13 +7415,13 @@ C={xl,x2,x3,x4,x5,x6,x7,x8,x9}
 Quais conjuntos NÃO violam as regras definidas nesse modelo conceituai?
 As especificações/generalizações podem ter 4 tipos de combinações:
 
-• Disjunta total
+* Disjunta total
 
-• Disjunta parcial
+* Disjunta parcial
 
-• Sobreposta total
+* Sobreposta total
 
-• Sobreposta parcial
+* Sobreposta parcial
 
 A restrição de completude pode ser parcial ou total. A especialização/generalização
 parcial
@@ -7716,11 +7716,11 @@ credito_bloqueado_sn igual a "S"?
 
 (A) '^Credito_bloqueado_sn="S"(<^id_conta,debito_bloqueado_sn (Conta))
 
-(B) ’Kid_conta,debito_bloqueado_sn(Pcredito_bloqueado_sn="S" (Conta))
+(B) 'Kid_conta,debito_bloqueado_sn(Pcredito_bloqueado_sn="S" (Conta))
 
 (C) ^id_conta,debito_bloqueado_sn(^credito_bloqueado_sn="S" (Conta))
 
-(D) cscredito_bloqueado_sn="S"(’,lid_conta,debito_bloqueado_sn (Conta))
+(D) cscredito_bloqueado_sn="S"(',lid_conta,debito_bloqueado_sn (Conta))
 
 (E) ^id_conta,debito_bloqueado_sn(^credito_bloqueado_sn="S" (Conta))
 
@@ -8497,7 +8497,7 @@ Agora que temos conhecimento do conjunto de regras de inferência, vamos analisa
 uma
 
 y - y yT 7.1/
-das alternativas baseada nas dependências funcionais iniciais: ■ ' ’
+das alternativas baseada nas dependências funcionais iniciais: ■ ' '
 
 A X -> YZ-Se Y é subconjunto de X podemos garantir que X->Y. Como Y->Z, pela
 transitividade
@@ -9334,11 +9334,11 @@ REFERENCES SIMULADO (CODIGO)
 
 Considere que:
 
-• ATabela PARTICIPACAO registra a inscrição de alunos nos exames simulados promovidos pela
+* ATabela PARTICIPACAO registra a inscrição de alunos nos exames simulados promovidos pela
 escola. Um aluno pode inscrever-se em muitos simulados, e um simulado pode ter muitos
 alunos inscritos.
 
-• Todas as vezes em que um aluno se inscrever em um simulado uma linha será
+* Todas as vezes em que um aluno se inscrever em um simulado uma linha será
 inserida na
 tabela PARTICIPACAO.
 
@@ -9357,7 +9357,7 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 02 (Prof. Thiago Cavalcanti)
 
-• Após a correção de um simulado, os pontos obtidos pelos alunos inscritos são
+* Após a correção de um simulado, os pontos obtidos pelos alunos inscritos são
 atualizados na
 tabela PARTICIPACAO.
 
@@ -9372,18 +9372,18 @@ WHERE S.DATA='02/06/2017' AND S.CODIGO=P.CODIGO
 Que sequência de operações da Álgebra Relacional produz o mesmo resultado que o comando
 SQL acima?
 
-• A ODATA = '02/06/2017' (TUIMATRICULA (SI M U LADO IX SIMULADO.CODIGO=PARTICIPACAO.CODIGO
+* A ODATA = '02/06/2017' (TUIMATRICULA (SI M U LADO IX SIMULADO.CODIGO=PARTICIPACAO.CODIGO
 PARTICIPACAO))
 
-• B OMATRICULA ((xi DATA = '02/06/2017'(SIMULADO))
+* B OMATRICULA ((xi DATA = '02/06/2017'(SIMULADO))
 CODIGO=PARTICIPACAO.CODIGO
 PARTICIPACAO)
 
-• C TIMATRICULA ((oDATA = '02/06/2017' (SIMULADO)) OCoDIGo=PARTICIPACAo.CoDIGo PARTICIPACAO)
+* C TIMATRICULA ((oDATA = '02/06/2017' (SIMULADO)) OCoDIGo=PARTICIPACAo.CoDIGo PARTICIPACAO)
 
-• D OMATRICULA ((TlDATA ='02/06/2017' (SIM ULADO))>3 CODIGO=PARTICIPACAO.CODIGO PARTICIPACAO)
+* D OMATRICULA ((TlDATA ='02/06/2017' (SIM ULADO))>3 CODIGO=PARTICIPACAO.CODIGO PARTICIPACAO)
 
-• E HMATRICULA ((oDATA = '02/06/2017' (SIMULADO))ixCoDIGo=PARTICIPACAo.CoDIGo PARTICIPACAO)
+* E HMATRICULA ((oDATA = '02/06/2017' (SIMULADO))ixCoDIGo=PARTICIPACAo.CoDIGo PARTICIPACAO)
 
 Item. 6. CESGRANRIO - Engenheiro (PETROBRAS)/Equipamentos Júnior/Eletrônica/2018
 
@@ -9469,15 +9469,15 @@ enumerasse o que foi feito no esquema, tendo em vista garantir que todas as tabe
 atendam
 à 35 forma normal (3FN). Ao ser questionado pelo analista, ele respondeu o seguinte:
 
-• Todas as colunas definidas são atômicas.
+* Todas as colunas definidas são atômicas.
 
-• Foram definidas chaves primárias para todas as tabelas.
+* Foram definidas chaves primárias para todas as tabelas.
 
-• Todas as colunas que fazem parte de alguma chave primária foram definidas como NOT NULL.
+* Todas as colunas que fazem parte de alguma chave primária foram definidas como NOT NULL.
 
-• Não há chave primária composta em tabela alguma.
+* Não há chave primária composta em tabela alguma.
 
-• Todas as dependências funcionais transitivas foram eliminadas.
+* Todas as dependências funcionais transitivas foram eliminadas.
 
 Nessas condições, para garantir que todas as tabelas desse esquema atendam à 3FN,
 A é necessário estender a restrição de NOT NULL para as demais colunas.
@@ -9492,11 +9492,11 @@ Item. 8. CESGRANRIO - Analista de Sistemas Júnior (TRANSPETROJ/Processos de Neg
 
 Considere a seguinte notação para especificar componentes de esquemas relacionais:
 
-• Tabelas são descritas por um nome e uma lista de colunas, separadas por vírgulas.
+* Tabelas são descritas por um nome e uma lista de colunas, separadas por vírgulas.
 
-• Colunas que participam da chave primária estão sublinhadas.
+* Colunas que participam da chave primária estão sublinhadas.
 
-• Dependências funcionais entre colunas são definidas pelo símbolo (->) e exibidas em
+* Dependências funcionais entre colunas são definidas pelo símbolo (->) e exibidas em
 seguida
 à definição das tabelas.
 
@@ -9787,17 +9787,17 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 02 (Prof. Thiago Cavalcanti)
 
-• Uma tabela é descrita por meio de um nome e um conjunto de colunas, separadas
+* Uma tabela é descrita por meio de um nome e um conjunto de colunas, separadas
 por
 vírgulas.
 
-• Por serem irrelevantes para a questão, os tipos de dados das colunas não são especificados.
+* Por serem irrelevantes para a questão, os tipos de dados das colunas não são especificados.
 
-• Colchetes são usados para representar colunas que admitem o valor nulo.
+* Colchetes são usados para representar colunas que admitem o valor nulo.
 
-• Colunas sublinhadas representam a chave primária de uma tabela.
+* Colunas sublinhadas representam a chave primária de uma tabela.
 
-• Chaves estrangeiras são representadas por meio da cláusula REF:
+* Chaves estrangeiras são representadas por meio da cláusula REF:
 
 <lista_de_colunas> REF <nome_de_tabela>
 
@@ -9912,16 +9912,16 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 02 (Prof. Thiago Cavalcanti)
 
-• Uma tabela é descrita por meio de um nome e um conjunto de colunas, separadas por
+* Uma tabela é descrita por meio de um nome e um conjunto de colunas, separadas por
 vírgulas.
 
-• Por serem irrelevantes para a questão, os tipos de dados das colunas não são especificados.
+* Por serem irrelevantes para a questão, os tipos de dados das colunas não são especificados.
 
-• Colchetes são usados para representar colunas que admitem o valor nulo.
+* Colchetes são usados para representar colunas que admitem o valor nulo.
 
-• Colunas sublinhadas representam a chave primária de uma tabela.
+* Colunas sublinhadas representam a chave primária de uma tabela.
 
-• Chaves estrangeiras são representadas por meio da cláusula REF:
+* Chaves estrangeiras são representadas por meio da cláusula REF:
 
 <lista_de_colunas> REF <nome_de_tabela>
 Seja o seguinte diagrama E-R:
@@ -10206,7 +10206,7 @@ igual a
 
 (A) ^credito_bloqueado_sn="S"((^id_conta₁debito_bloqueado_sn (Conta))
 
-(B) ’Kid_conta,debito_bloqueado_sn(Pcredito_bloqueado_sn="S" (Conta))
+(B) 'Kid_conta,debito_bloqueado_sn(Pcredito_bloqueado_sn="S" (Conta))
 
 (C) nid_conta,debito_bloqueado_sn(^credito_bloqueado_sn="S" (Conta))
 
@@ -10558,7 +10558,7 @@ R * ° R1=2D (P)
 
 c P(R1,R2)-7iTlvl (TxV)nnV3V1(V)
 
-R - o (P> ’
+R - o (P> '
 
 D R(R1 ,R2)«—7tT1v1 «aT1>15(T))M T2>V1 («v:.v<_,wy <V)>)
 
@@ -10613,7 +10613,7 @@ Placa Í^Ano = 2011: Valor < 9000)
 
 B Placa^ Valor < 9000 AN D Ano = 2010
 
-C C‘placa(HValor<9000ANDAno = 2011 (VEICULO))
+C C'placa(HValor<9000ANDAno = 2011 (VEICULO))
 
 D HP1aca (GAno = 2011 AND Valor < 9000 (VE1CU L0 ))
 

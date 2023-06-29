@@ -392,13 +392,13 @@ Key K3
 
 I $1000 |
 
-• EDE (Encrypt-Decrypt-Encrypt) Method - 3DES-EDE Method
+* EDE (Encrypt-Decrypt-Encrypt) Method - 3DES-EDE Method
 
-• Data is encrypted usmg K1.
+* Data is encrypted usmg K1.
 
-• Data is decrypted usmg K2
+* Data is decrypted usmg K2
 
-• Data is encrypted usmg K3
+* Data is encrypted usmg K3
 
 Desse modo, ao se utilizar três chaves distintas, tem-se uma robustez de 56
 bits por chave,
@@ -736,25 +736,25 @@ garantir a autenticidade, integridade e não-repúdio, e até confidencialidade.
 
 As principais informações contidas em um certificado digital são:
 
-• Chave pública do usuário ou sistemas;
+* Chave pública do usuário ou sistemas;
 
-• Dados relativos à sua identidade;
+* Dados relativos à sua identidade;
 
-• Prazo de validade;
+* Prazo de validade;
 
-• Assinatura Digital da Entidade Certificadora que gerou o certificado;
+* Assinatura Digital da Entidade Certificadora que gerou o certificado;
 
-• Chave pública da CA
+* Chave pública da CA
 
-• Cadeia de certificados hierarquicamente superiores;
+* Cadeia de certificados hierarquicamente superiores;
 
 Além disso, por seguir o padrão X.509 do ITU-t, consta ainda:
 
-• Versão do X.509 e número de série do certificado;
+* Versão do X.509 e número de série do certificado;
 
-• Informação do algoritmo gerador do certificado;
+* Informação do algoritmo gerador do certificado;
 
-• Identificação do gerador do certificado;
+* Identificação do gerador do certificado;
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
 
@@ -766,7 +766,7 @@ www. estrategiaconcursos. com. br
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 Aula 07
 
-• Informações sobre o algoritmo assimétrico da chave pública do usuário;
+* Informações sobre o algoritmo assimétrico da chave pública do usuário;
 
 Chave simétrica Chave simétrica
 
@@ -792,7 +792,7 @@ Chave pública de A
 Assinatura
 digital de A
 
-• Tipos de Certificados Digitais:
+* Tipos de Certificados Digitais:
 
 o Certificado de Assinatura Digital (Al, A2, A3 e A4)
 

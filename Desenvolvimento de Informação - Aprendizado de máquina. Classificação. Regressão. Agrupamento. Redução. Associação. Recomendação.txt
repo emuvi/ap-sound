@@ -107,11 +107,11 @@ Vamos começar nosso estudo de aprendizado supervisionado com os seus pontos
 fracos ou
 problemas, na lista abaixo apresentamos os problemas do Aprendizado Não Supervisionado:
 
-• O aprendizado não supervisionado é mais difícil em comparação com as
+* O aprendizado não supervisionado é mais difícil em comparação com as
 tarefas de
 aprendizado supervisionado.
 
-• Como sabemos se os resultados são significativos, já que não há
+* Como sabemos se os resultados são significativos, já que não há
 rótulos de resposta
 disponíveis?
 
@@ -139,7 +139,7 @@ um pouco sobre a sua taxonomia. A aprendizagem não supervisionada pode ser clas
 em duas
 categorias:
 
-• Aprendizado Paramétrico Não Supervisionado - Neste caso, assumimos uma
+* Aprendizado Paramétrico Não Supervisionado - Neste caso, assumimos uma
 distribuição
 paramétrica de dados. Ela assume que os dados da amostra vêm de uma população que segue
 uma distribuição de probabilidade baseada em um conjunto fixo de
@@ -169,7 +169,7 @@ de
 resposta disponíveis e, portanto, não há uma medida correta de precisão disponível para
 verificar o resultado.
 
-• Aprendizado não supervisionado não paramétrico - Na versão não
+* Aprendizado não supervisionado não paramétrico - Na versão não
 parametrizada do
 aprendizado não supervisionado, os dados são agrupados em clusters, onde cada cluster
 (espera-se) diz algo sobre categorias e classes presentes nos dados. Esse
@@ -233,16 +233,16 @@ www. estrategiaconcursos. com. br
 Thiago Rodrigues Cavalcanti
 Aula 10 (Prof. Thiago Cavalcanti)
 
-•-- •
+*-- *
 
-•rçy Y
+*rçy Y
 
 
-• •----►•
+* *----►*
 
 0 1
 
-•-- • A
+*-- * A
 
 2 3
 
@@ -823,24 +823,24 @@ Se você chegou até aqui e está com dificuldade de entender esse conteúdo
 de redução de
 dimensionalidade. Deixa-me resumir os conceitos básicos para você:
 
-• Redução de dimensionalidade é uma tarefa cujo objetivo é simplificar os dados sem
+* Redução de dimensionalidade é uma tarefa cujo objetivo é simplificar os dados sem
 perder muitas informações.
 
-• Uma maneira de fazer isso é mesclar vários recursos correlacionados em um.
+* Uma maneira de fazer isso é mesclar vários recursos correlacionados em um.
 
-• Por exemplo, a quilometragem de um carro pode estar
+* Por exemplo, a quilometragem de um carro pode estar
 fortemente
 correlacionada com sua idade, então o algoritmo de redução
 de
 dimensionalidade irá mesclá-los em um recurso que representa o desgaste do
 carro. Esse método é chamado de extração de recurso .
 
-• Alguns algoritmos
+* Alguns algoritmos
 
-• Análise de componente principal (PCA) : Encontra a transformação linear que
+* Análise de componente principal (PCA) : Encontra a transformação linear que
 captura a maior parte da variação no conjunto de dados existente.
 
-• Aprendizagem múltipla: identifica uma transformação não linear que
+* Aprendizagem múltipla: identifica uma transformação não linear que
 produz
 uma representação dimensional inferior dos dados.
 
@@ -854,10 +854,10 @@ www. estrategiaconcursos. com. br
 Thiago Rodrigues Cavalcanti
 Aula 10 (Prof. Thiago Cavalcanti)
 
-• Autoencoders: usa uma rede neural para compactar dados de forma não linear
+* Autoencoders: usa uma rede neural para compactar dados de forma não linear
 com perda mínima de informações
 
-• A redução da dimensionalidade produz novos dados que capturam as
+* A redução da dimensionalidade produz novos dados que capturam as
 informações
 mais importantes contidas nos dados de origem. Em vez de agrupar
 dados em
@@ -925,10 +925,10 @@ Dado um conjunto de pontos, com noção de distância entre os pontos, agrupar o
 em um
 certo número de clusters , tal que
 
-• as distâncias internas (dentro do cluster) devem ser pequenas, ou seja, os membros dos
+* as distâncias internas (dentro do cluster) devem ser pequenas, ou seja, os membros dos
 clusters são próximos/semelhantes entre si.
 
-• as distâncias externas devem ser grandes, ou seja, os membros de diferentes clusters são
+* as distâncias externas devem ser grandes, ou seja, os membros de diferentes clusters são
 diferentes.
 
 Os objetivos do agrupamento
@@ -969,27 +969,27 @@ dados. Proximidade aqui significa quão semelhantes/dissimilares as amostras sã
 relação umas
 às outras.
 
-• Medida de similaridade S(Xj,xk): grande se Xj,xk são semelhantes
+* Medida de similaridade S(Xj,xk): grande se Xj,xk são semelhantes
 
-• Medida de dissimilaridade (ou distância) D(xi,xk): pequena se Xi,xk são semelhantes
+* Medida de dissimilaridade (ou distância) D(xi,xk): pequena se Xi,xk são semelhantes
 
 large d, small s large s, small d
 
 Existem várias medidas de similaridade que podem ser usadas.
 
-• Vetores: Distância do Cosseno
+* Vetores: Distância do Cosseno
 
-• Conjuntos: Distância Jaccard
+* Conjuntos: Distância Jaccard
 
 J(A,B) = |.4nz?| |4nB|
 
-|.4uB| “ |.4| + |B| - |.4n B\'
+|.4uB| " |.4| + |B| - |.4n B\'
 
 (lf A and B are both empty, we define J(A.B) = 1.)
 
 0 < J(A.B) < 1.
 
-• Pontos: Distância Euclidiana ... q=2
+* Pontos: Distância Euclidiana ... q=2
 
 d(x,x') =
 
@@ -1051,13 +1051,13 @@ www. estrategiaconcursos. com. br
 Thiago Rodrigues Cavalcanti
 Aula 10 (Prof. Thiago Cavalcanti)
 
-• K-médias
+* K-médias
 
-• Fuzzy K-means
+* Fuzzy K-means
 
-• Agrupamento hierárquico
+* Agrupamento hierárquico
 
-• Mistura de Gaussianos
+* Mistura de Gaussianos
 
 Cada um desses algoritmos pertence a um dos tipos de agrupamento listados acima.
 Enquanto, K-
@@ -1112,12 +1112,12 @@ indicador da distância dos n pontos de dados de seus respectivos centros de clu
 De forma mais
 estruturada, podemos dizer que o algoritmo é composto pelos seguintes passos:
 
-• Seja X = {x^,x3,... ,xn} o conjunto de pontos de dados e V- {v1,v2, ,vc} o conjunto de
+* Seja X = {x^,x3,... ,xn} o conjunto de pontos de dados e V- {v1,v2, ,vc} o conjunto de
 centros.
 
-• Selecione aleatoriamente os centros de cluster 'c' (centróides).
+* Selecione aleatoriamente os centros de cluster 'c' (centróides).
 
-• Calcule a distância entre cada ponto de dados e centros de cluster.
+* Calcule a distância entre cada ponto de dados e centros de cluster.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
@@ -1129,16 +1129,16 @@ www. estrategiaconcursos. com. br
 Thiago Rodrigues Cavalcanti
 Aula 10 (Prof. Thiago Cavalcanti)
 
-• Atribua o ponto de dados ao centro do cluster cuja distância do centro do clusterseja a mínima
+* Atribua o ponto de dados ao centro do cluster cuja distância do centro do clusterseja a mínima
 de todos os centros do cluster.
 
-• Recalcule o novo centro de cluster usando:
+* Recalcule o novo centro de cluster usando:
 
 onde, 'Cj' representa o número de pontos de dados no Q cluster.
 
-• Recalcule a distância entre cada ponto de dados e os novos centros de cluster obtidos.
+* Recalcule a distância entre cada ponto de dados e os novos centros de cluster obtidos.
 
-• Se nenhum ponto de dados foi reatribuído, pare, caso contrário, repita a partir da etapa 3).
+* Se nenhum ponto de dados foi reatribuído, pare, caso contrário, repita a partir da etapa 3).
 
 Embora possa ser provado que o procedimento sempre terminará, o algoritmo
 k-means não
@@ -1160,16 +1160,16 @@ em k clusters de modo a minimizar a soma das distâncias quadradas aos centros d
 clusters. Tem
 alguns pontos fracos:
 
-• A maneira de inicializar os centróides não foi especificada. Uma maneira popular
+* A maneira de inicializar os centróides não foi especificada. Uma maneira popular
 de começar
 é escolher aleatoriamente k das amostras.
 
-• Pode acontecer que o conjunto de amostras mais próximo de um centróide m,
+* Pode acontecer que o conjunto de amostras mais próximo de um centróide m,
 esteja vazio,
 de modo que m, não possa ser atualizado. Este é um problema que precisa ser tratado
 durante a implementação, mas geralmente é ignorado.
 
-• Os resultados dependem do valor de k e não existe uma maneira ótima de
+* Os resultados dependem do valor de k e não existe uma maneira ótima de
 descrever um
 melhor "k".
 
@@ -1217,20 +1217,20 @@ melhor analisados como distribuições probabilísticas em vez de uma atribuiç�
 
 O algoritmo fuzzy k-means é o seguinte:
 
-• Suponha um número fixo de clusters K.
+* Suponha um número fixo de clusters K.
 
-• Inicialização: Inicialize aleatoriamente as k-médias associadas aos clusters e
+* Inicialização: Inicialize aleatoriamente as k-médias associadas aos clusters e
 calcule a
 probabilidade de que cada ponto de dados Xi seja membro de um determinado cluster K,
 P(PontoXiPossuiRotuloKIXi, K).
 
-• Iteração: Recalcule o centróide do cluster como o centróide
+* Iteração: Recalcule o centróide do cluster como o centróide
 ponderado, dadas as
 probabilidades de pertinência de todos os pontos de dados Xi:
 
 Xi X P(nk(\xi)b«I* )6
 
-• Término : Iterar até a convergência ou até que um número de iterações especificado
+* Término : Iterar até a convergência ou até que um número de iterações especificado
 pelo
 usuário seja alcançado (a iteração pode ficar presa em alguns máximos ou mínimos locais)
 
@@ -1249,7 +1249,7 @@ um determinado conjunto de dados, suponha que o represente como distribuído em 
 eixo. A
 figura abaixo mostra isso:
 
-• • •••••• • • •-• ••••• • • • • ► x
+* * ****** * * *-* ***** * * * * ► x
 
 Olhando para a imagem, podemos identificar dois clusters nas proximidades das duas
 concentrações
@@ -1289,18 +1289,18 @@ Dado um conjunto de N itens a serem agrupados e uma matriz de distância N*N (ou
 similaridade), o
 processo básico de agrupamento hierárquico é este:
 
-• Comece atribuindo cada item a um cluster, de modo que, se você tiver N itens,
+* Comece atribuindo cada item a um cluster, de modo que, se você tiver N itens,
 agora terá N
 clusters, cada um contendo apenas um item. Sejam as distâncias (semelhanças) entre os
 clusters iguais às distâncias (semelhanças) entre os itens que eles contêm.
 
-• Encontre o par de clusters mais próximo (mais semelhante) e mescle-os em um
+* Encontre o par de clusters mais próximo (mais semelhante) e mescle-os em um
 único cluster,
 para que agora você tenha um cluster a menos.
 
-• Calcular distâncias (semelhanças) entre o novo cluster e cada um dos clusters antigos.
+* Calcular distâncias (semelhanças) entre o novo cluster e cada um dos clusters antigos.
 
-• Repita as etapas 2 e 3 até que todos os itens estejam agrupados em um único
+* Repita as etapas 2 e 3 até que todos os itens estejam agrupados em um único
 cluster de
 tamanho N.
 
@@ -1334,20 +1334,20 @@ Aula 10 (Prof. Thiago Cavalcanti)
 
 Um modelo de mistura com alta probabilidade tende a ter as seguintes características:
 
-• as distribuições de componentes têm altos "picos" (os dados em um cluster são apertados);
+* as distribuições de componentes têm altos "picos" (os dados em um cluster são apertados);
 
-• o modelo de mistura "cobre" bem os dados (os padrões dominantes nos dados são
+* o modelo de mistura "cobre" bem os dados (os padrões dominantes nos dados são
 capturados por distribuições de componentes).
 
 Principais vantagens do clustering baseado em modelo:
 
-• técnicas de inferência estatística bem estudadas disponíveis;
+* técnicas de inferência estatística bem estudadas disponíveis;
 
-• flexibilidade na escolha da distribuição dos componentes;
+* flexibilidade na escolha da distribuição dos componentes;
 
-• obter uma estimativa de densidade para cada cluster;
+* obter uma estimativa de densidade para cada cluster;
 
-• uma classificação "soft" está disponível.
+* uma classificação "soft" está disponível.
 
 Mistura de Gaussianas
 
@@ -1417,12 +1417,12 @@ G {1,..., K}, onde Ké o número de clusters do nosso conjunto de dados. Cada Ga
 mistura
 é composto pelos seguintes parâmetros:
 
-• Uma média p que define seu centro.
+* Uma média p que define seu centro.
 
-• Uma covariância Z que define sua largura. Isso seria equivalente às dimensões de um
+* Uma covariância Z que define sua largura. Isso seria equivalente às dimensões de um
 elipsoide em um cenário multivariado.
 
-• Uma probabilidade de mistura n que define quão grande ou pequena será a função gaussiana.
+* Uma probabilidade de mistura n que define quão grande ou pequena será a função gaussiana.
 
 Vamos agora ilustrar esses parâmetros graficamente:
 
@@ -1455,7 +1455,7 @@ Isso é
 exatamente o que a probabilidade máxima faz. Em geral, a função densidade gaussiana é
 dada por:
 
-•V(XIM,S) = (27r)D/12|S|i/2exP (-|íx - - g)
+*V(XIM,S) = (27r)D/12|S|i/2exP (-|íx - - g)
 
 Onde x representa nossos pontos de dados, D é o número de dimensões de cada ponto
 de dados, p
@@ -1526,7 +1526,7 @@ só podem
 assumir o valor de um quando k é igual ao cluster de onde vem o ponto. Portanto:
 
 
-p(z)=p(~i=í)zip(z2=í)z2—p(^k=i)zk=H”**
+p(z)=p(~i=í)zip(z2=í)z2—p(^k=i)zk=H"**
 
 K
 
@@ -1697,9 +1697,9 @@ limite inferior na função de verossimilhança real e repetindo até a converg�
 
 O algoritmo de maximização de expectativa
 
-• Comece com uma estimativa para os valores dos parâmetros do seu modelo
+* Comece com uma estimativa para os valores dos parâmetros do seu modelo
 
-• Etapa E: Para cada ponto de dados que possui valores ausentes, use sua equação de modelo
+* Etapa E: Para cada ponto de dados que possui valores ausentes, use sua equação de modelo
 para resolver a distribuição dos dados ausentes, considerando sua estimativa
 atual dos
 parâmetros do modelo e dados observados (observe que você está resolvendo uma
@@ -1712,11 +1712,11 @@ correto, essa probabilidade esperada será a probabilidade real de nossos dados
 observados;
 se os parâmetros não estiverem corretos, será apenas um limite inferior.
 
-• Etapa M: Agora que temos uma função de verossimilhança esperada sem variáveis não
+* Etapa M: Agora que temos uma função de verossimilhança esperada sem variáveis não
 observadas, maximize a função como faria no caso totalmente observado, para obter uma
 nova estimativa dos parâmetros do seu modelo.
 
-• Repita até a convergência.
+* Repita até a convergência.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
@@ -1732,16 +1732,16 @@ PRoBLEMAS ASSoCIADoS E APLICAçõES PoSSÍVEIS Ao AGRUPAMENTo
 
 Há uma série de problemas com clustering. Entre eles:
 
-• Lidar com muitas dimensões e um grande número de itens de dados pode ser
+* Lidar com muitas dimensões e um grande número de itens de dados pode ser
 problemático
 devido à complexidade do tempo;
 
-• A eficácia do método depende da definição de "distância" (para agrupamento
+* A eficácia do método depende da definição de "distância" (para agrupamento
 baseado em
 distância). Se não existe uma medida de distância óbvia devemos "defini-la", o que nem
 sempre é fácil, principalmente em espaços multidimensionais;
 
-• O resultado do algoritmo de agrupamento (que em muitos casos pode ser
+* O resultado do algoritmo de agrupamento (que em muitos casos pode ser
 arbitrário) pode
 ser interpretado de diferentes maneiras.
 
@@ -1749,21 +1749,21 @@ Aplicações possíveis
 
 Os algoritmos de agrupamento podem ser aplicados em muitos campos, por exemplo:
 
-• Marketing : encontrar grupos de clientes com comportamento semelhante, dado um
+* Marketing : encontrar grupos de clientes com comportamento semelhante, dado um
 grande
 banco de dados de clientes contendo suas propriedades e registros de compras anteriores;
 
-• Biologia : classificação de plantas e animais em função de suas características;
+* Biologia : classificação de plantas e animais em função de suas características;
 
-• Seguros : identificação de grupos de segurados de automóveis com um custo médio
+* Seguros : identificação de grupos de segurados de automóveis com um custo médio
 de
 sinistro elevado; identificação de fraudes;
 
-• Estudos de terremotos : agrupamento de epicentros de terremotos
+* Estudos de terremotos : agrupamento de epicentros de terremotos
 observados para
 identificar zonas perigosas;
 
-• World Wide Web : classificação de documentos; agrupar dados de weblog para
+* World Wide Web : classificação de documentos; agrupar dados de weblog para
 descobrir
 grupos de padrões de acesso semelhantes.
 

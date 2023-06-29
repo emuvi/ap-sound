@@ -1855,7 +1855,7 @@ quesito, o que costuma aparecer em prova é em termos operacionais de como proce
 
 A norma traz algumas orientações que merecem destaque:
 
-• Considerar um repositório centralizado para tal procedimento. Semelhante ao processo de
+* Considerar um repositório centralizado para tal procedimento. Semelhante ao processo de
 gerenciamento de LOG's;
 
 
@@ -1873,12 +1873,12 @@ www. estrategiaconcursos. com.br
 André Castro
 Aula 05
 
-• Evitar manter as bibliotecas de programas-fonte no mesmo ambiente dos sistemas
+* Evitar manter as bibliotecas de programas-fonte no mesmo ambiente dos sistemas
 operacionais;
 
-• Não permitir um controle irrestrito das equipes de suporte aos programas-fonte;
+* Não permitir um controle irrestrito das equipes de suporte aos programas-fonte;
 
-• A listagem dos programas seja mantida em ambiente seguro;
+* A listagem dos programas seja mantida em ambiente seguro;
 
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
@@ -3672,7 +3672,7 @@ d) considerar a segurança da informação em qualquer tipo de projeto.
 
 Comentários:
 
-Típica questão que "mistura” os conceitos dos diversos capítulos presentes na
+Típica questão que "mistura" os conceitos dos diversos capítulos presentes na
 norma.
 Assim, se você só olha e lembra de ter lido o primeiro aspecto na norma
 e marca a
@@ -3736,7 +3736,7 @@ todo o contexto da segurança da informação.
 
 Percebam que as letras "B, C e D" tratam de aspectos mais práticos, do âmbito tático
 e
-operacional, enquanto a letra "A” possui um caráter mais de diretriz...
+operacional, enquanto a letra "A" possui um caráter mais de diretriz...
 
 Gabarito: A
 
@@ -4141,7 +4141,7 @@ simples restrição de acesso ao código fonte.
 
 A norma zela por um repositório centralizado para armazenamento de códigos
 fontes,
-algo semelhante ao que a norma diz a respeito de gerenciamento de LOG’s.
+algo semelhante ao que a norma diz a respeito de gerenciamento de LOG's.
 
 Além dessa, há uma série de orientações a respeito da mitigação de riscos em relação
 às
@@ -4226,7 +4226,7 @@ assumirmos no âmbito de requisitos de negócio.
 
 Bom, voltando para a norma, temos que ela nos traz exatamente o seguinte trecho:
 
-“Estabelecer regra baseada na premissa de que "Tudo é proibido a menos que expressamente permitido"
+"Estabelecer regra baseada na premissa de que "Tudo é proibido a menos que expressamente permitido"
 em lugar
 da regra mais fraca que "Tudo é permitido, a menos que expressamente proibido";
 
@@ -4330,15 +4330,15 @@ c) segurança física e do ambiente;
 
 d) tópicos orientados aos usuários finais:
 
-• l) uso aceitável dos ativos;
+* l) uso aceitável dos ativos;
 
-• 2) mesa Limpa e Tela Limpa;
+* 2) mesa Limpa e Tela Limpa;
 
-• 3) transferência de informações;
+* 3) transferência de informações;
 
-• 4) dispositivos móveis e trabalho remoto;
+* 4) dispositivos móveis e trabalho remoto;
 
-• 5) restrições sobre o uso e instalação de software;
+* 5) restrições sobre o uso e instalação de software;
 
 e) backup;
 
@@ -4847,9 +4847,9 @@ pelo licenciamento do software cliente em estações de trabalho particulares de
 propriedade de funcionários, fornecedores ou terceiros.
 
 II. Ambiente físico proposto para o trabalho remoto que inclui ambientes de trabalho não
-tradicionais, como aqueles referidos como: “ambientes de telecommuting", “local de
-trabalho flexível'’ e “trabalho remoto", excetuando-se, em todas as suas formas, o
-chamado “trabalho virtual".
+tradicionais, como aqueles referidos como: "ambientes de telecommuting", "local de
+trabalho flexível'' e "trabalho remoto", excetuando-se, em todas as suas formas, o
+chamado "trabalho virtual".
 
 III. Segurança física existente no local do trabalho remoto, levando-se em consideração a
 segurança física do prédio e o ambiente local.

@@ -280,7 +280,7 @@ r...............................................................................
 
 í (CESPE / CEBRASPE - 2022 - BANRISUL) Julgue o próximo item, a respeito de lógica de programação.
 
-: “O fluxograma é uma das formas de se representarem as instruções de um programa, utilizando-se de
+: "O fluxograma é uma das formas de se representarem as instruções de um programa, utilizando-se de
 alguns =
 
 : comandos genéricos ou primitivos para a interpretação do algoritmo."
@@ -469,7 +469,7 @@ Recently Played
 
 Songs
 
-+ The Bard’s Song (In the For
++ The Bard's Song (In the For
 
 
 Albums
@@ -974,14 +974,14 @@ CASO 4:
 
 Selecione (Número)
 
-Caso 13: Presidente = “Dilma”
+Caso 13: Presidente = "Dilma"
 
-Caso 20: Presidente = “Pastor Everatdo”
-Caso 28: Presidente = “Levy Fidetix”
-Caso 43: Presidente = “Eduardo Jorge”
-Caso 45: Presidente = “Aécio Neves”
-Caso 50: Presidente = “Luciana Genro”
-Caso Outro: Presidente = “Nulo”
+Caso 20: Presidente = "Pastor Everatdo"
+Caso 28: Presidente = "Levy Fidetix"
+Caso 43: Presidente = "Eduardo Jorge"
+Caso 45: Presidente = "Aécio Neves"
+Caso 50: Presidente = "Luciana Genro"
+Caso Outro: Presidente = "Nulo"
 
 Fim Selecione
 
@@ -1021,7 +1021,7 @@ fim
 
 escreva avaliar (120,30);
 
-“O resultado do pseudocódigo precedente será 120."
+"O resultado do pseudocódigo precedente será 120."
 
 Comentários: A última linha chama a função avaliar definindo os parâmetros a = 120 e
 b = 30.
@@ -1097,7 +1097,7 @@ Eduardo Jorge'
 ▼
 
 Numero = 45 Presidente ■
-’Aéoo Neves*
+'Aéoo Neves*
 
 Na
 
@@ -1353,7 +1353,7 @@ better better better better better waaaaa —
 
 í
 
-lyncs •- $ony .Mv
+lyncs *- $ony .Mv
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
@@ -1645,7 +1645,7 @@ permitem apenas uma dessas modalidades.
 
 Julgue o próximo item, a respeito de lógica de programação.
 
-“Os laços usados em estruturas de repetição e teste podem ser feitos por meio de
+"Os laços usados em estruturas de repetição e teste podem ser feitos por meio de
 comandos como enquanto
 e repita."
 
@@ -1960,7 +1960,7 @@ Ofeject Oriented Concurrent
 
 Scriptiog Multi-parãdigni
 
-Sm ’ H Declardlfve
+Sm ' H Declardlfve
 P 0
 
 B Lg
@@ -1970,11 +1970,11 @@ Fo Pc
 Ad Cp
 Vb Dp
 
-St Sq Pg 1 C ‘ M “ Ml Sc
-Ef * Oc Ps “ Tc ” Ht “ PI ” Cl Er
-Jv Py “ As CfJs ’ Pp Fs Hk
+St Sq Pg 1 C ' M " Ml Sc
+Ef * Oc Ps " Tc " Ht " PI " Cl Er
+Jv Py " As CfJs ' Pp Fs Hk
 
-Cs SI ü Gv “ Rb G “ Cj °
+Cs SI ü Gv " Rb G " Cj °
 
 fliU
 
@@ -2333,11 +2333,11 @@ inteiro numero, atual = 1, valor = 1
 
 Nesta linha, são definidas 3 variáveis:
 
-• numero, sem valor.
+* numero, sem valor.
 
-• atual, com valor 1
+* atual, com valor 1
 
-• valor, com valor 1
+* valor, com valor 1
 numero = 6
 
 Define o valor da variável numero para 6.
@@ -2494,7 +2494,7 @@ Negação (NOT)
 
 a) "O resultado da expressão (a != 3 / / b < 10 / / c == 5) é falso."
 
-• a != 3: a variável "a", que é "5", é diferente de "3", então é verdadeiro.
+* a != 3: a variável "a", que é "5", é diferente de "3", então é verdadeiro.
 
 o Pela tabela verdade, disso, já podemos deduzir que a expressão é verdadeira, pois,
 em
@@ -2505,22 +2505,22 @@ o O item afirma que a expressão é falso. Então está errado.
 
 b) "O resultado da expressão (d > 8 && c == 3 11 a >= 10) é verdadeiro."
 
-• d >8: a variável "d" é "9", o que é maior do que 8. Verdadeiro.
+* d >8: a variável "d" é "9", o que é maior do que 8. Verdadeiro.
 
-• c== 3: a variável "c" é "3", o que é igual a "3". Verdadeiro.
+* c== 3: a variável "c" é "3", o que é igual a "3". Verdadeiro.
 
-• a >= 10: a variável "a" é "3", o que não é maior ou igual a 10. Falso
+* a >= 10: a variável "a" é "3", o que não é maior ou igual a 10. Falso
 
-• A expressão fica da seguinte maneira: (verdadeiro E verdadeiro OU falso). Pela tabela
+* A expressão fica da seguinte maneira: (verdadeiro E verdadeiro OU falso). Pela tabela
 verdade:
 
-• Portanto, este é o item correto! Gabarito: Letra B.
+* Portanto, este é o item correto! Gabarito: Letra B.
 
-c) “\(d==12&&a !=10)éfalso"
+c) "\(d==12&&a !=10)éfalso"
 
-• d == 12: a variável "d" é "9", e isso não é igual a "12". Falso!
+* d == 12: a variável "d" é "9", e isso não é igual a "12". Falso!
 
-• a != 10: a variável "a" é "3", o que é igual a "3". Verdadeiro.
+* a != 10: a variável "a" é "3", o que é igual a "3". Verdadeiro.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
@@ -2540,11 +2540,11 @@ Paolla Ramos e Silva
 Aula 00 (Profs. Paolla Ramos e Raphael Lacerda)
 
 
-• A expressão fica
+* A expressão fica
 
 Pela tabela verdade:
 
-• Portanto, o item está errado!
+* Portanto, o item está errado!
 
 assim: NÃO (falso E verdadeiro).
 
@@ -2552,7 +2552,7 @@ verdadeiro
 
 d) "(c ==4 11 d <=6) && (a >= 5 && b 1=9) // (/ (a <5)) é falso."
 
-• Para resolver esse item bem rápido, observemos o último elemento da expressão:
+* Para resolver esse item bem rápido, observemos o último elemento da expressão:
 
 o !(a < 5): "a" não é menor do que 5. Então a expressão "a < 5" é falsa. Mas tem um operador
 de negação. Então a expressão "!(a < 5)" é verdadeira.
@@ -2560,11 +2560,11 @@ de negação. Então a expressão "!(a < 5)" é verdadeira.
 o Se o último item da expressão é um "ou" e ele é verdadeiro, então a expressão é
 verdadeira.
 
-• Portanto, o item está errado!
+* Portanto, o item está errado!
 
 e) "O resultado da expressão (a == 3 / / b > 10 / / d == 8) é verdadeiro."
 
-• Item por item:
+* Item por item:
 
 o a == 3: a variável "a" é "5", o que é diferente de "3". Falso.
 
@@ -2574,7 +2574,7 @@ o d == 8: a variável "d" é "9", o que não é "8". Falso.
 
 o (falso OU falso OU falso) = falso.
 
-• Portanto, o item está errado!
+* Portanto, o item está errado!
 
 Item. 8. (CESPE / CEBRASPE - 2021-SEED-PR)
 
@@ -2719,9 +2719,9 @@ números pares, o resto é 1.
 
 Pela estrutura "se" e "então":
 
-• Se número for ímpar, o resto é 1, portanto entra no "se" escreve X.
+* Se número for ímpar, o resto é 1, portanto entra no "se" escreve X.
 
-• Se o número for par, resto é 0, portanto entra no "então, e escreve Y.
+* Se o número for par, resto é 0, portanto entra no "então, e escreve Y.
 Analisando cada uma das alternativas:
 
 a) maior que 2, escreve Y.
@@ -2953,7 +2953,7 @@ Operador
 
 +
 
-•
+*
 1
 
 Significado
@@ -3243,13 +3243,13 @@ FALSO
 
 Analisemos individualmente as preposições entre parênteses.
 
-• 4 > 2: 4 é maior do que 2. Verdadeiro.
+* 4 > 2: 4 é maior do que 2. Verdadeiro.
 
-• 5 = 3: 5 é igual a 3. Falso.
+* 5 = 3: 5 é igual a 3. Falso.
 
-• 4 > 2: 4 é maior que 2. Verdadeiro.
+* 4 > 2: 4 é maior que 2. Verdadeiro.
 
-• 5 = 5: 5 é igual a 5. Verdadeiro.
+* 5 = 5: 5 é igual a 5. Verdadeiro.
 
 Agora, vamos substituir na expressão:
 (4 > 2) xor (5 = 3) and (4 > 2) or (5 = 5)
@@ -3323,7 +3323,7 @@ para (inteiro i = 0; i < 5; i++)
 
 {
 
-escreva (vetor[i]+ ”\n")
+escreva (vetor[i]+ "\n")
 
 }
 
@@ -4128,10 +4128,10 @@ Comentários:
 
 As passagens de parâmetro em funções ocorrem de duas maneiras:
 
-• Por valor: os valores das variáveis usadas como parâmetros passados para a função não são
+* Por valor: os valores das variáveis usadas como parâmetros passados para a função não são
 alterados.
 
-• Por referência: os valores das variáveis usadas como parâmetros passados para a função são
+* Por referência: os valores das variáveis usadas como parâmetros passados para a função são
 alterados.
 
 O item diz que, na passagem por valor, os valores se alteram. Na verdade, isso
@@ -5141,7 +5141,7 @@ leia (vl, v2, v3)
 exiba(vl)
 
 enquanto v3>l faça
-vl <- vl • v2
+vl <- vl * v2
 
 v3 <- v3 - 1
 
@@ -5238,7 +5238,7 @@ caso 8 : pedágio <- 1.5 * i
 
 fim escolha
 
-imprima("O veiculo de categoria ”, categoria, " pagara pedagio= ", pedágio)
+imprima("O veiculo de categoria ", categoria, " pagara pedagio= ", pedágio)
 fim enquanto
 
 FINALIZA:
@@ -5490,9 +5490,9 @@ Comentários:
 
 Da análise do algoritmo, podemos deduzir que:
 
-• Há um vetor de quatro posições, cada posição inicializada com zero.
+* Há um vetor de quatro posições, cada posição inicializada com zero.
 
-• O usuário deve preencher os valores 1, 2 e 3 para declarar votos nos candidatos 1, 2 e 3;
+* O usuário deve preencher os valores 1, 2 e 3 para declarar votos nos candidatos 1, 2 e 3;
 0 caso o voto seja em branco; e -1 para finalizar e mostrar os resultados.
 
 
@@ -5923,19 +5923,19 @@ Comentários:
 
 Antes de mais nada, existem alguns operadores aqui que precisam ser explicados:
 
-• DIV: obtém o quociente da divisão de dois números inteiros.
+* DIV: obtém o quociente da divisão de dois números inteiros.
 
-• MOD: obtém o resto da divisão números inteiros.
+* MOD: obtém o resto da divisão números inteiros.
 
 Dito isso, o algoritmo ele funciona da seguinte maneira:
 
-• Lê uma variável taxa.
+* Lê uma variável taxa.
 
-• Obtém o quociente da divisão de taxa por 5, e armazena na variável "quociente".
+* Obtém o quociente da divisão de taxa por 5, e armazena na variável "quociente".
 
-• Obtém o resto da divisão da taxa por 5, e armazena na variável "resto".
+* Obtém o resto da divisão da taxa por 5, e armazena na variável "resto".
 
-• Define as variáveis "tres" e "cinco" como 0.
+* Define as variáveis "tres" e "cinco" como 0.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
@@ -5953,10 +5953,10 @@ Paolla Ramos e Silva
 
 Aula 00 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• Dependendo do resto da divisão calculada, ele vai definir novos valores para as variáveis
+* Dependendo do resto da divisão calculada, ele vai definir novos valores para as variáveis
 "cinco" e "tres".
 
-• Imprime os valores de "taxa", "cinco" e "tres".
+* Imprime os valores de "taxa", "cinco" e "tres".
 
 Note que, embora o programa peça para digitar um valor maior ou igual a 8, ele não
 testa se o
@@ -6345,11 +6345,11 @@ Aula 00 (Profs. Paolla Ramos e Raphael Lacerda)
 
 Da análise do algoritmo, nota-se que seu comportamento é o seguinte:
 
-• Temos um vetor de 10 posições.
+* Temos um vetor de 10 posições.
 
-• Lê o valor de k, e define valores iniciais i = 1 e a = falso.
+* Lê o valor de k, e define valores iniciais i = 1 e a = falso.
 
-• Enquanto o for i <= 10 e a = falso, ele vai rodar um loop:
+* Enquanto o for i <= 10 e a = falso, ele vai rodar um loop:
 
 o No fim do loop, ele executa i <- i + 1, ou seja, incrementa o valor de i. Significa que
 
@@ -6366,12 +6366,12 @@ valor k, que foi lido.
 
 ■ Se não for, imprime "Insucesso", e segue o fluxo.
 
-• Na prática, o que o algoritmo faz é percorrer o vetor posição a
+* Na prática, o que o algoritmo faz é percorrer o vetor posição a
 posição. Vai imprimir
 "Insucesso" em cada uma das posições em que o valor não corresponder a "k". Quando
 finalmente encontrar o valor de "k", ele imprime "Sucesso" e sai do loop.
 
-• Logo, só vai imprimir "Sucesso" uma vez, pra primeira vez que o valor tiver no vetor.
+* Logo, só vai imprimir "Sucesso" uma vez, pra primeira vez que o valor tiver no vetor.
 
 Verifiquemos item a item:
 
@@ -7626,10 +7626,10 @@ Aula 00 (Profs. Paolla Ramos e Raphael Lacerda)
 
 Primeiro, algumas considerações.
 
-• As posições no array são contadas a partir do 0 neste algoritmo. Ou seja, a primeira
+* As posições no array são contadas a partir do 0 neste algoritmo. Ou seja, a primeira
 posição é o 0, a segunda é o 1, e assim por diante.
 
-• Era para o algoritmo ser o Bubble Sort, um famoso algoritmo de ordenação. O erro do
+* Era para o algoritmo ser o Bubble Sort, um famoso algoritmo de ordenação. O erro do
 algoritmo é não usar uma variável de troca na hora de inverter os valores.
 
 L[k] = L[k+1];
@@ -7989,7 +7989,7 @@ e) 100
 
 Comentários:
 
-• O algoritmo itera x e y sempre do valor inicial até 9.
+* O algoritmo itera x e y sempre do valor inicial até 9.
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 120
@@ -8004,7 +8004,7 @@ Paolla Ramos e Silva
 
 Aula 00 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• Primeiro ele itera incrementando o valor de x; e dentro da iteração do x, ele itera y,
+* Primeiro ele itera incrementando o valor de x; e dentro da iteração do x, ele itera y,
 incrementando o valor de y, e printando os valores de x e y.
 
 o Dessa forma, a 1a iteração de x irá de 1 até 9.
@@ -8919,7 +8919,7 @@ VL : logico
 procedimento PROC PL(var X;caracter;Y:inteiro;W:logico)
 inicio
 
-X <- "BURITI”
+X <- "BURITI"
 Y <- 2021
 
 W <- VERDADEIRO
@@ -8927,7 +8927,7 @@ W <- VERDADEIRO
 fimprocedimento
 inicio
 
-SD <- “GUAPORÉ”
+SD <- "GUAPORÉ"
 NR <- 2023
 
 VL <- FALSO
@@ -8983,13 +8983,13 @@ As variáveis SD, NR e VL são declaradas como variáveis globais.
 Depois, o algoritmo inicializa as variáveis SD = "GUAPORÉ", NR = 2023 e VL = FALSO.
 Então, é chamado o PROC_PL passando as variáveis:
 
-• Para o parâmetro X, é atribuída a variável SD, por referência; ou seja, se o valor de X mudar,
+* Para o parâmetro X, é atribuída a variável SD, por referência; ou seja, se o valor de X mudar,
 o valor de SD muda também.
 
-• Para o parâmetro Y, é atribuída a variável NR, por valor; ou seja, se o valor de Y mudar, o
+* Para o parâmetro Y, é atribuída a variável NR, por valor; ou seja, se o valor de Y mudar, o
 de NR não irá mudar.
 
-• Para o parâmetro W, é atribuída a variável VL, pro valor; ou seja, se o valor de W mudar, o
+* Para o parâmetro W, é atribuída a variável VL, pro valor; ou seja, se o valor de W mudar, o
 de VL não mudará.
 
 O procedimento PROC_PL altera as variáveis X, Y e W. Mas a única que importa é a
@@ -9069,11 +9069,11 @@ de 0 a 5, ou seja, 6 vezes. Significa que serão impressos 6 números em tela.
 Assim, a gente já elimina as alternativas a e b.
 Agora, vamos ao algoritmo:
 
-• Declara as variáveis CP e RP como inteiros, e globais.
+* Declara as variáveis CP e RP como inteiros, e globais.
 
-• Entra no "para CT de 0 até 5 faça".
+* Entra no "para CT de 0 até 5 faça".
 
-• Para CT = 0:
+* Para CT = 0:
 
 o Executa RP <- FREC(CT) = FREC(O)
 
@@ -9478,15 +9478,15 @@ Comentários:
 Novamente, é importantíssimo ter em mente os algoritmos de ordenação, pois caem muito!
 Neste caso, o Insertion Sort, eu vou ter que considerar o seguinte:
 
-• O algoritmo compara v[j-1 ] com v[ 1 ].
+* O algoritmo compara v[j-1 ] com v[ 1 ].
 
 o Isso significa que ele deverá trocar os valores de v[j] e de v[j - 1 ], e não de v[j] e
 v[j+1 ], como ocorre com o Bubble Sort.
 
-• A variável j deve ser decrementada, e não incrementada, já que o segundo enquanto
+* A variável j deve ser decrementada, e não incrementada, já que o segundo enquanto
 testa j > 0.
 
-• Deve ser usada uma variável auxiliar, que no caso, aqui, será x. Ela é usada para trocar os
+* Deve ser usada uma variável auxiliar, que no caso, aqui, será x. Ela é usada para trocar os
 valores de v[j] e v[j -1].
 
 Vamos item a item:
@@ -9773,7 +9773,7 @@ para (inteiro i « 0; i < 5; i++)
 
 {
 
-escreva (vetor[i]+ ’’\n”)
+escreva (vetor[i]+ ''\n")
 
 }
 
@@ -11877,7 +11877,7 @@ para (inteiro i = 0; i < 5; i++)
 
 {
 
-escreva (vetor[i]+ ”\n")
+escreva (vetor[i]+ "\n")
 
 }
 
@@ -14274,7 +14274,7 @@ W <- VERDADEIRO
 fimprocedimento
 inicio
 
-SD <- “GUAPORÉ”
+SD <- "GUAPORÉ"
 NR <- 2023
 
 VL <- FALSO
@@ -14738,7 +14738,7 @@ para (inteiro i = 0; i < 5; i++)
 
 {
 
-escreva (vetor[i]+ ”\n")
+escreva (vetor[i]+ "\n")
 
 }
 

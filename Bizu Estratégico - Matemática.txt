@@ -253,11 +253,11 @@ o Exemplo:
 
 ■ Sendo A = {0,1,2,3}, B = {2, 4, 6} e C = {1,2,3,4}, determine (A - B) U (BA C).
 
-• A-B = {0,1,3}
+* A-B = {0,1,3}
 
-• BA C = {2, 4}
+* BA C = {2, 4}
 
-• (A- B) U (BA C) = {2, 4} U {0, 1, 3} = {0, 1, 2, 3, 4}
+* (A- B) U (BA C) = {2, 4} U {0, 1, 3} = {0, 1, 2, 3, 4}
 
 Item. 4. Propriedades da união e interseção
 
@@ -336,9 +336,9 @@ B) quantos gostam de matemática ou português?
 
 C) Quantos não gostam de nenhuma das matérias?
 
-• Montando o diagrama, sendo a intersecção 5
+* Montando o diagrama, sendo a intersecção 5
 
-• Assim, os que gostam só de matemática são 15, os que gostam de matemática
+* Assim, os que gostam só de matemática são 15, os que gostam de matemática
 ou português são 38 e os que não gostam de nenhuma matéria são 12.
 
 o Quando tivermos três informações podemos usar o mesmo processo, só que
@@ -439,31 +439,31 @@ IR c C
 
 Item. 9. Problemas envolvendo Conjuntos Numéricos
 
-• A soma de números naturais é sempre um número natural;
+* A soma de números naturais é sempre um número natural;
 
-• A soma de números inteiros é sempre um número inteiro;
+* A soma de números inteiros é sempre um número inteiro;
 
-• A soma de números racionais é sempre um número racional;
+* A soma de números racionais é sempre um número racional;
 
-• A soma de números reais é sempre um número real.
+* A soma de números reais é sempre um número real.
 
-• A subtração de números inteiros é um outro número inteiro.
+* A subtração de números inteiros é um outro número inteiro.
 
-• A subtração de números racionais é um outro número racional.
+* A subtração de números racionais é um outro número racional.
 
-• A subtração de números reais é um outro número real.
+* A subtração de números reais é um outro número real.
 
-• A multiplicação de dois números naturais é sempre um número natural.
+* A multiplicação de dois números naturais é sempre um número natural.
 
-• A multiplicação de dois números inteiros é sempre um número inteiro.
+* A multiplicação de dois números inteiros é sempre um número inteiro.
 
-• A multiplicação de dois números racionais é sempre um número racional.
+* A multiplicação de dois números racionais é sempre um número racional.
 
-• A multiplicação de dois números reais é sempre um número real.
+* A multiplicação de dois números reais é sempre um número real.
 
-• A divisão de dois números racionais será sempre um racional»
+* A divisão de dois números racionais será sempre um racional»
 
-• A divisão de dois números reais será sempre um número real.
+* A divisão de dois números reais será sempre um número real.
 
 Porcentagem
 
@@ -503,7 +503,7 @@ o Exemplo:
 ■ Transformar a fração 3/8 em taxa percentual.
 
 
-• - ³=³ - ■ 100% =³⁰—⁰
+* - ³=³ - ■ 100% =³⁰—⁰
 
 8 8 8
 
@@ -511,7 +511,7 @@ o Exemplo:
 
 ■ Transformar 0,4 em taxa percentual.
 
-• 0,4 = 0,4 ■ 100% = 40%
+* 0,4 = 0,4 ■ 100% = 40%
 
 Item. 12. Participação percentual de uma parte do todo
 
@@ -574,13 +574,13 @@ um aumento de 40%. Dois meses depois, a loja anunciou uma liquidação e a
 mercadoria sofreu um desconto de 25%. Qual o valor final da mercadoria?
 Qual a variação percentual acumulada?
 
-• Após o aumento a mercadoria vale: 140% de R$ 300,00= —.¹3⁴0⁰ 0 =
+* Após o aumento a mercadoria vale: 140% de R$ 300,00= —.¹3⁴0⁰ 0 =
 
 r 100
 
 420 reais
 
-• Após o desconto a mercadoria vale: 75% de R$ 4200,00= —.⁷4⁵20 =
+* Após o desconto a mercadoria vale: 75% de R$ 4200,00= —.⁷4⁵20 =
 
 r 100
 
@@ -590,11 +590,11 @@ Fração, Razão e Proporção
 
 Item. 15. Operações com frações
 
-• Adição / Subtração - para somarmos/subtrairmos duas frações, deveremos deixá-
+* Adição / Subtração - para somarmos/subtrairmos duas frações, deveremos deixá-
 las, necessariamente, com os mesmos denominadores. E para isso precisaremos
 muitas vezes encontrar o Mínimo Múltiplo Comum (M.M.C).
 
-• Adição / Subtração - para somarmos/subtrairmos duas frações, deveremos deixá-
+* Adição / Subtração - para somarmos/subtrairmos duas frações, deveremos deixá-
 las, necessariamente, com os mesmos denominadores. E para isso precisaremos
 muitas vezes encontrar o Mínimo Múltiplo Comum (M.M.C).
 
@@ -612,9 +612,9 @@ Aula 12
 
 2 3 16 + 9 25
 
-3 + 8 “ 24 " 24
+3 + 8 " 24 " 24
 
-• Multiplicação - na multiplicação de duas ou mais frações, temos a regrinha básica
+* Multiplicação - na multiplicação de duas ou mais frações, temos a regrinha básica
 de multiplicarmos numerador com numerador e denominador com denominador,
 meus caros.
 
@@ -622,16 +622,16 @@ meus caros.
 
 5-2 3 * 5
 
-• Divisão- na divisão de duas frações, também temos a velha e conhecida regrinha
+* Divisão- na divisão de duas frações, também temos a velha e conhecida regrinha
 básica, repetimos a primeira fração e multiplicamos pelo inverso da segunda fração
 
 | 3 151-33
 
-± “ s'7"T7“2
+± " s'7"T7"2
 
 15
 
-• Potenciação/Radiciação - o grande cuidado aqui que devemos ter é no lance do
+* Potenciação/Radiciação - o grande cuidado aqui que devemos ter é no lance do
 expoente da fração (-)n e do índice do radical n- .
 
 32 9
@@ -642,12 +642,12 @@ expoente da fração (-)n e do índice do radical n- .
 
 Item. 16. Múltiplos e divisores
 
-• O MMC de dois, três ou mais números inteiros é o menor número que é múltiplo
+* O MMC de dois, três ou mais números inteiros é o menor número que é múltiplo
 simultaneamente dos dois, três ou mais números, com exceção do número 0
 (zero), obviamente. Por exemplo, o menor múltiplo comum entre 3 e 5 é 15, pois
 15 é divisível por 3 e por 5 ao mesmo tempo.
 
-• O MDC entre dois ou mais números naturais é o maior número que os divide sem
+* O MDC entre dois ou mais números naturais é o maior número que os divide sem
 deixar resto.
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
@@ -662,9 +662,9 @@ Aula 12
 
 Item. 17. Média aritmética simples
 
-• A média aritmética preserva a soma da lista de números
+* A média aritmética preserva a soma da lista de números
 
-• Para calcular a média aritmética, basta somar todos os elementos e dividir pela
+* Para calcular a média aritmética, basta somar todos os elementos e dividir pela
 quantidade de elementos.
 
 Média= (x1+x2+x3+...+xn)/n

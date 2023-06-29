@@ -109,7 +109,7 @@ em nuvem se sobrepõe à computação distribuída, centralizada e paralela. A l
 seguir define
 esses termos com mais clareza:
 
-• Computação centralizada - este é um paradigma de computação pelo qual todos os
+* Computação centralizada - este é um paradigma de computação pelo qual todos os
 recursos do
 computador são centralizados em um sistema físico. Todos os recursos (processadores,
 memória e
@@ -119,7 +119,7 @@ operacional integrado. Muitos data centers e supercomputadores são sistemas cen
 mas
 são usados em aplicações paralelas, distribuídas e de computação em nuvem.
 
-• Computação paralela - na computação paralela, todos os processadores estão
+* Computação paralela - na computação paralela, todos os processadores estão
 fortemente
 acoplados à memória compartilhada centralizada ou fracamente acoplados
 à memória
@@ -146,7 +146,7 @@ paralelo são chamados de programas paralelos. O processo de escrever programas
 paralelos é
 muitas vezes referido como programação paralela.
 
-• Computação distribuída - este é um campo da ciência/engenharia da computação que
+* Computação distribuída - este é um campo da ciência/engenharia da computação que
 estuda
 sistemas distribuídos. Um sistema distribuído consiste em vários computadores
 autônomos, cada
@@ -158,7 +158,7 @@ de computador executado em um sistema distribuído é conhecido como programa di
 O
 processo de escrever programas distribuídos é conhecido como programação distribuída.
 
-• Computação em nuvem - uma nuvem de recursos na Internet pode ser um sistema de computação
+* Computação em nuvem - uma nuvem de recursos na Internet pode ser um sistema de computação
 centralizado ou distribuído. A nuvem aplica computação paralela ou distribuída,
 ou ambas. As
 nuvens podem ser construídas com recursos físicos ou virtualizados em grandes
@@ -223,21 +223,21 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 08 (Prof. Thiago Cavalcanti)
 
-• Modelagem de incêndios para auxiliar as equipes de bombeiros e ajudar a população
+* Modelagem de incêndios para auxiliar as equipes de bombeiros e ajudar a população
 
-• Modelagem de tsunamis e tempestades de furacões
+* Modelagem de tsunamis e tempestades de furacões
 
-• Reconhecimento de voz para interfaces de computador
+* Reconhecimento de voz para interfaces de computador
 
-• Modelagem de disseminação de vírus e desenvolvimento de vacinas
+* Modelagem de disseminação de vírus e desenvolvimento de vacinas
 
-• Modelagem das condições climáticas ao longo de décadas e séculos
+* Modelagem das condições climáticas ao longo de décadas e séculos
 
-• Reconhecimento de imagem para tecnologia de carros autônomos
+* Reconhecimento de imagem para tecnologia de carros autônomos
 
-• Equipar as equipes de emergência com simulações em execução de perigos, como inundações
+* Equipar as equipes de emergência com simulações em execução de perigos, como inundações
 
-• Reduzindo o consumo de energia para dispositivos móveis
+* Reduzindo o consumo de energia para dispositivos móveis
 
 Com as técnicas de processamento paralelo, é possível lidar com problemas e conjuntos
 de dados
@@ -566,7 +566,7 @@ maiores ou
 diminuir o consumo de energia. Vejamos de forma mais organizada os benefícios da computação
 paralela.
 
-• Tempo de execução mais rápido com mais núcleos de computação
+* Tempo de execução mais rápido com mais núcleos de computação
 
 Redução do tempo de execução de um aplicativo ou a aceleração, muitas vezes é
 considerado o
@@ -600,7 +600,7 @@ e uma consciência das oportunidades de paralelismo podem levá-lo a um caminho 
 claro para
 reduzir o tempo de execução dos seus aplicativos.
 
-• Tamanhos de problemas maiores com mais nós de computação
+* Tamanhos de problemas maiores com mais nós de computação
 
 Usando o paralelismo em seu aplicativo, você pode aumentar o tamanho do seu problema
 para
@@ -618,7 +618,7 @@ mencionado anteriormente, expor o paralelismo é equivalente a empregar mais cai
 abrir mais
 caixas de autoatendimento para atender um número maior e crescente de clientes.
 
-• Eficiência energética fazendo mais com menos
+* Eficiência energética fazendo mais com menos
 
 Uma das novas áreas de impacto da computação paralela é a eficiência
 energética. Com o
@@ -720,7 +720,7 @@ que o aplicativo tenha paralelismo suficiente que possa ser exposto. Isso permit
 uso eficiente dos
 recursos do dispositivo.
 
-• A computação paralela pode reduzir custos
+* A computação paralela pode reduzir custos
 
 O custo real monetário está se tornando uma preocupação mais visível para
 equipes de
@@ -1089,9 +1089,9 @@ hardware influenciam as estratégias paralelas. Categorizamos as abordagens
 paralelas que um
 desenvolvedor pode adotar
 
-• Paralelização baseada em processos
+* Paralelização baseada em processos
 
-• Paralelização baseada em thread
+* Paralelização baseada em thread
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
@@ -1103,9 +1103,9 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 08 (Prof. Thiago Cavalcanti)
 
-• Vetorização
+* Vetorização
 
-• Processamento de fluxo
+* Processamento de fluxo
 
 Seguindo o exemplo, apresentaremos um modelo para ajudá-lo a pensar
 em hardware

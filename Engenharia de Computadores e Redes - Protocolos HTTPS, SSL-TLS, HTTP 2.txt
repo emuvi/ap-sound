@@ -73,13 +73,13 @@ Utiliza ainda o conceito de sessão a nível de aplicação. O seu procedimento 
 ocorre nas
 seguintes etapas:
 
-• O cliente estabelece uma conexão TCP com o servidor, geralmente, na porta 80, sendo esta
+* O cliente estabelece uma conexão TCP com o servidor, geralmente, na porta 80, sendo esta
 a porta padrão do protocolo;
 
-• O servidor responde à mensagem indicando o estado corrente da requisição, além da versão
+* O servidor responde à mensagem indicando o estado corrente da requisição, além da versão
 suportada e outras informações do servidor;
 
-• A partir de então, se não houver mensagem de erro, a conexão será estabelecida;
+* A partir de então, se não houver mensagem de erro, a conexão será estabelecida;
 
 Utiliza codificação dos dados em textos ASCII, para que possam ser devidamente
 interpretados pelos
@@ -97,11 +97,11 @@ www. estrategiaconcursos. com.br
 André Castro
 Aula 06
 
-• HTTPvl.O - Não realiza conexões persistentes. Isto é, para cada troca de
+* HTTPvl.O - Não realiza conexões persistentes. Isto é, para cada troca de
 informação entre
 cliente e servidor, necessita-se estabelecer e encerrar uma nova conexão TCP;
 
-• HTTPvl.l - Realiza conexões persistentes. Estabelece-se apenas uma requisição TCP
+* HTTPvl.l - Realiza conexões persistentes. Estabelece-se apenas uma requisição TCP
 para a
 troca de diversas mensagens entre o cliente e servidor. Além disso, pode-se enviar
 mais de
@@ -157,7 +157,7 @@ Como vimos, existem dois tipos de mensagem HTTP: requisição e resposta. Vamos
 verificar a
 estrutura de cada uma delas:
 
-• Requisição: Pode ser dividida em 3 partes: linha de requisição, cabeçalho e corpo da
+* Requisição: Pode ser dividida em 3 partes: linha de requisição, cabeçalho e corpo da
 entidade;
 
 O método utilizado, o caminho do objeto e a versão do protocolo fazem parte da linha
@@ -208,7 +208,7 @@ HTTP
 
 Request
 
-• Resposta: Pode ser dividida em 3 partes: linha de estado, cabeçalho e corpo da entidade;
+* Resposta: Pode ser dividida em 3 partes: linha de estado, cabeçalho e corpo da entidade;
 
 Aversão do protocolo e o estado da conexão são apresentados na linha de estado. Os
 demais
@@ -276,36 +276,36 @@ www. estrategiaconcursos. com.br
 André Castro
 Aula 06
 
-• GET - Solicitação de leitura de determinado objeto. A requisição de páginas WEB
+* GET - Solicitação de leitura de determinado objeto. A requisição de páginas WEB
 pode ser
 feita através desse método;
 
-• PUT - Solicitação de gravação de determinado objeto. Pode-se enviar páginas para
+* PUT - Solicitação de gravação de determinado objeto. Pode-se enviar páginas para
 um
 servidor remoto através desse método;
 
-• POST - Método utilizado para anexar informações ou enviar arquivos de
+* POST - Método utilizado para anexar informações ou enviar arquivos de
 dados ou
 formulários como complemento de uma requisição de leitura. Dessa forma, a
 resposta
 dependerá da informação enviada. Basicamente trata a criação/atualização de um objeto
 ou recurso existente.
 
-• HEAD - Mesma lógica do GET. Entretanto, solicita a leitura apenas do cabeçalho
+* HEAD - Mesma lógica do GET. Entretanto, solicita a leitura apenas do cabeçalho
 de um
 objeto ou página WEB. Tranquilo quando você vincula o nome do método com a estrutura
 do dado, certo? HEAD = CABEÇALHO. Com isso pode-se obter informações como a data da
 última modificação da página.
 
-• DELETE- Remove o objeto ou página no servidor;
+* DELETE- Remove o objeto ou página no servidor;
 
-• OPTIONS - Realiza a consulta de determinadas opções;
+* OPTIONS - Realiza a consulta de determinadas opções;
 
-• TRACE - Utilizado para teste com mensagens do tipo loopback;
+* TRACE - Utilizado para teste com mensagens do tipo loopback;
 
-• CONNECT- Utilizado para comunicação com servidores PROXY;
+* CONNECT- Utilizado para comunicação com servidores PROXY;
 
-• PATCH- Utilizado para aplicar modificações parciais a um recurso;
+* PATCH- Utilizado para aplicar modificações parciais a um recurso;
 
 CÓDIGOS DE ESTADO
 
@@ -313,17 +313,17 @@ Os códigos de estado são definidos em classes, conforme a seguir, com a descri
 principais
 códigos:
 
-• lxx - Classe informacional - Esta classe indica uma resposta provisória, que
+* lxx - Classe informacional - Esta classe indica uma resposta provisória, que
 consiste de
 informações do estado da requisição e cabeçalhos opcionais.
 
-• 2xx - Classe de Sucesso - Indica que a requisição foi recebida, entendida, aceita e processada.
+* 2xx - Classe de Sucesso - Indica que a requisição foi recebida, entendida, aceita e processada.
 
-• 3xx - Classe de Redirecionamento - Indica a necessidade de atuação por parte do
+* 3xx - Classe de Redirecionamento - Indica a necessidade de atuação por parte do
 cliente
 HTTP para completar a requisição. Pode ou não ser o caso de atuação direta do usuário.
 
-• 4xx - Classe de Erro de Cliente - Indica a possibilidade de que houve um erro na
+* 4xx - Classe de Erro de Cliente - Indica a possibilidade de que houve um erro na
 requisição
 por parte do cliente. Caso não seja uma requisição com método HEAD, o servidor enviará uma
 explicação da situação do erro e se esta é permanente ou temporária.
@@ -350,7 +350,7 @@ enviado a descrição do motivo da recusa.
 404 (NOT FOUND) - O servidor não encontrou nenhum documento que coincida com a URI
 informada.
 
-• 5xx - Classe de Erro de Servidor - Indica que o servidor reconheceu um erro interno ou a
+* 5xx - Classe de Erro de Servidor - Indica que o servidor reconheceu um erro interno ou a
 incapacidade de atender a requisição.
 
 500 (INTERNAL SERVER ERROR) - Erro inesperado que impediu o atendimento a requisição.
@@ -375,7 +375,7 @@ diminuir o tempo de resposta.
 
 Sua implementação pode se dar:
 
-• Servidor Proxy - Pode-se adicionar um elemento intermediário entre o cliente e o servidor,
+* Servidor Proxy - Pode-se adicionar um elemento intermediário entre o cliente e o servidor,
 
 de tal forma que as consultas necessariamente passem pelo nó intermediário antes de chegar
 
@@ -402,7 +402,7 @@ requisição
 imediatamente. É importante ressaltar que a presença do PROXY implica em duas conexões
 a serem estabelecidas: Cliente e PROXY; PROXY e Servidor.
 
-• Proxy reverso - Esse conceito gera alguns benefícios na implementação de serviços
+* Proxy reverso - Esse conceito gera alguns benefícios na implementação de serviços
 HTTP no
 lado do servidor. Entre eles temos os recursos de proteção, balanceamento e
 distribuição de
@@ -429,7 +429,7 @@ www. estrategiaconcursos. com.br
 André Castro
 Aula 06
 
-• Cache Local - Os browsers possuem a capacidade de armazenar as informações recebidas
+* Cache Local - Os browsers possuem a capacidade de armazenar as informações recebidas
 do
 servidor de tal forma que uma nova requisição idêntica à anterior não enseje uma nova
 consulta ao servidor. Desse modo, a requisição será atendida diretamente pelo Browser.
@@ -595,7 +595,7 @@ www. estrategiaconcursos. com.br
 André Castro
 Aula 06
 
-• Compressão Automática
+* Compressão Automática
 
 Nas implementações padrões das versões anteriores do HTTP, quando se almejava incremento
 do
@@ -610,7 +610,7 @@ destinados às requisições ou a respostas, diminuindo bastante o volume de dad
 trafegados nos
 HEADERS.
 
-• Criptografia e Segurança
+* Criptografia e Segurança
 
 Para comunicações seguras, tem-se a utilização do HTTPS de forma obrigatória com vistas
 a tratar
@@ -624,7 +624,7 @@ Desse modo, o SSL é um protocolo fundamental na implementação e transição d
 para o
 HTTP2.0.
 
-• Paralelização de Fluxos com Multiplexing
+* Paralelização de Fluxos com Multiplexing
 
 Como vimos anteriormente, o HTTP em suas versões anteriores utiliza o conceito de
 envio de
@@ -678,7 +678,7 @@ Na nova versão, envia-se apenas informações de cabeçalho que são diferentes
 informações já
 enviadas, reduzindo, assim, o fluxo de dados desnecessários.
 
-• Priorização de Requests
+* Priorização de Requests
 
 O HTTPv2.0 possui a capacidade de distinguir as respostas a serem enviadas e
 categorizá-las
@@ -706,7 +706,7 @@ Aula 06
 
 A figura a seguir nos traz essa representação:
 
-• Server-Push
+* Server-Push
 
 A ideia desse recurso é identificar a necessidade do cliente de tal modo que ele não
 necessite fazer
@@ -718,7 +718,7 @@ necessariamente virá pedidos para as demais páginas. Desse modo, ele antecipa 
 questão e já
 envia os recursos independentemente da requisição do cliente.
 
-• HTTP2.0 com TLS 1.2
+* HTTP2.0 com TLS 1.2
 
 Para implementação do HTTP em sua versão 2.0, deve-se utilizar a extensão do TLS conhecida como
 Server Name Indication (SNI). Para as versões do TLS 1.3 ou superior, a implementação e suporte
@@ -1154,7 +1154,7 @@ Comentários:
 
 Vimos na nossa lista de códigos que a família 4xx corresponde a erros do lado do cliente.
 Mais especificamente o 404, temos que o recurso não foi encontrado, retornando uma
-mensagem "not found”, ou seja, tem-se um URI inválida.
+mensagem "not found", ou seja, tem-se um URI inválida.
 
 Gabarito: E
 
@@ -1438,7 +1438,7 @@ receberem emails.
 
 Comentários:
 
-Vimos que essa é uma das formas de atuação dos MTA’s. Possui uma função de relay na
+Vimos que essa é uma das formas de atuação dos MTA's. Possui uma função de relay na
 rede ao repassar essas informações. Atenção para o detalhe muito bem pontuado pela
 banca. Ao enviar, atua como cliente, ao receber, atua como servidor. Se tivesse escrito de
 forma inversa estaria errado.
@@ -1964,7 +1964,7 @@ Gabarito: E
 
 Item. 9. FCC - TRT - 6- Região (PE)/Analista Judiciário - TI/2012
 
-Protocolos de rede podem ser classificados como "sem estados” (statelessj ou "com
+Protocolos de rede podem ser classificados como "sem estados" (statelessj ou "com
 estado" (stateful). A este respeito é correto afirmar que
 
 a) protocolos sem estados exigem que tanto cliente como servidor mantenham um
@@ -1998,7 +1998,7 @@ Vimos que o HTTP é um protocolo sem estados. Vale lembrar que o conceito de
 persistência é diferente do fato de não armazenar estado. Nesse sentido, uma alternativa
 é a utilização de cookies no lado do cliente para que o servidor possa obter algumas
 informações e tentar retomar alguns aspectos ou características do usuário com vistas a
-"simular” uma condição com estados.
+"simular" uma condição com estados.
 
 Gabarito: D
 
@@ -2075,7 +2075,7 @@ Gabarito: B
 
 13.FCC - AL-SP/Agente Técnico Legislativo Especializado - Segurança de Redes/2010
 
-Protocolos de rede podem ser classificados como "sem estados” (stateless) ou "com
+Protocolos de rede podem ser classificados como "sem estados" (stateless) ou "com
 estado" (stateful). Um exemplo de protocolo "sem estados" é o protocolo
 
 a) HTTP.
@@ -2560,8 +2560,8 @@ e) proxy reverso.
 
 Item. 9. FCC - TRT - 65 Região (PE)/Analista Judiciário - TI/2012
 
-Protocolos de rede podem ser classificados como "sem estados” (stateless) ou "com
-estado” (stateful). A este respeito é correto afirmar que
+Protocolos de rede podem ser classificados como "sem estados" (stateless) ou "com
+estado" (stateful). A este respeito é correto afirmar que
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 49
@@ -2819,9 +2819,9 @@ chamadas de HTTPS. Uma característica do SSL é ser transparente ao usuário.
 
 Ao trazermos os principais objetivos a serem alcançados pelo SSL, podemos listar:
 
-• Autenticação entre clientes e servidores;
+* Autenticação entre clientes e servidores;
 
-• Garantia da Integridade dos dados (caso estes sejam alterados, pode-se detectar
+* Garantia da Integridade dos dados (caso estes sejam alterados, pode-se detectar
 facilmente);
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
@@ -2836,7 +2836,7 @@ www. estrategiaconcursos. com.br
 André Castro
 Aula 06
 
-• Garantia da Confidencialidade: As informações transmitidas não podem ser interceptadas
+* Garantia da Confidencialidade: As informações transmitidas não podem ser interceptadas
 e
 interpretadas devido ao uso da criptografia, devendo ser lida apenas pelo destinatário
 que
@@ -2848,9 +2848,9 @@ protocolos auxiliares que atuam em conjunto em prol dos objetivos acima. Esse
 conjunto de
 protocolos pode ser dividido em duas camadas:
 
-• Camada de segurança e integridade dos dados: SSL Record;
+* Camada de segurança e integridade dos dados: SSL Record;
 
-• Camada de conexão SSL: SSL Handshake protocol, SSL ChangeCipher SpecProtocol e SSL
+* Camada de conexão SSL: SSL Handshake protocol, SSL ChangeCipher SpecProtocol e SSL
 Alert Protocol.
 
 Assim, para termos um aspecto visual da estrutura do protocolo, podemos analisar a
@@ -2872,13 +2872,13 @@ Record Protocol
 
 Falando um pouco sobre cada um dos protocolos:
 
-• Handshake Protocol - Responsável pelo estabelecimento da comunicação segura
+* Handshake Protocol - Responsável pelo estabelecimento da comunicação segura
 e
 autenticação das partes, com a escolha dos algoritmos de criptografia.
 Falaremos mais
 detalhadamente a seguir.
 
-• Alert Protocol - É o protocolo responsável pelo controle do protocolo através da
+* Alert Protocol - É o protocolo responsável pelo controle do protocolo através da
 troca de
 mensagens vinculadas ao funcionamento e transmissão de dados na conexão. Faz
 algo
@@ -2902,14 +2902,14 @@ interrompida imediatamente. Possui uma estrutura de dois bytes em que o primeiro
 tipo
 da falha e o segundo diz respeito ao alerta ou erro ocorrido.
 
-• Change Cipher Spec - É constituído por um tipo de mensagem que caracteriza um marco
+* Change Cipher Spec - É constituído por um tipo de mensagem que caracteriza um marco
 onde, a partir dessa mensagem, toda comunicação será criptografada conforme negociações
 feitas no estabelecimento da comunicação. É uma mensagem de duas vias, onde ambas as
 partes precisam emitir essa mensagem. Assim, diz-se que a sessão SSL de fato está
 aberta e
 será utilizado o RECORD PROTOCOL.
 
-• Record Protocol - Protocolo responsável pelo encapsulamento dos dados. Esse
+* Record Protocol - Protocolo responsável pelo encapsulamento dos dados. Esse
 protocolo
 recebe os dados abertos da camada superior, encapsula, encripta e/ou adiciona o Message
 Authentication Codes (MACs) para garantir a segurança. É nessa fase que percebemos a
@@ -3065,11 +3065,11 @@ Aula 06
 
 Abordando então as diferenças entre esses protocolos, podemos citar:
 
-• O TLS tem a capacidade de trabalhar em portas diferentes e usa algoritmos de
+* O TLS tem a capacidade de trabalhar em portas diferentes e usa algoritmos de
 criptografia
 mais robustos como o HMAC, enquanto o SSL suporta apenas o MAC.
 
-• O TLS, quando utilizado em infraestrutura de chaves públicas, pode ser utilizado
+* O TLS, quando utilizado em infraestrutura de chaves públicas, pode ser utilizado
 por uma
 autoridade intermediária, não necessitando recorrer à raiz de um Autoridade de
 Certificação

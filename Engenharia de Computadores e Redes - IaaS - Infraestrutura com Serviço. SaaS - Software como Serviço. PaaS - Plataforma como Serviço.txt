@@ -246,7 +246,7 @@ para processar e retornar o resultado à NASA, participando então do Grid.
 
 Algumas outras características que são muito importantes a respeito do Grid:
 
-• A administração e gerência dos dispositivos é descentralizada, ou seja, a NASA não controla os
+* A administração e gerência dos dispositivos é descentralizada, ou seja, a NASA não controla os
 dispositivos pessoais dos usuários que participam do Grid, mas sim os próprios donos;
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
@@ -259,13 +259,13 @@ www. estrategiaconcursos. com.br
 André Castro
 Aula 04
 
-• As capacidades de processamento sâo diversificadas e heterogêneas. Pode-se ter
+* As capacidades de processamento sâo diversificadas e heterogêneas. Pode-se ter
 computadores
 individuais de alta capacidade de processamento, bem como se pode ter
 dispositivos bem mais
 simples com muito mais limitações.
 
-• Utiliza padrões abertos, permitindo assim plena interoperabilidade entre os dispositivos;
+* Utiliza padrões abertos, permitindo assim plena interoperabilidade entre os dispositivos;
 
 (CESPE - SERPRO/Analista- Suporte Técnico/2008) Nos GRIDs, a alocação dos recursos é
 feita por
@@ -317,7 +317,7 @@ www. estrategiaconcursos. com.br
 André Castro
 Aula 04
 
-• Balanceamento de carga por software: Consiste na instalação e configuração
+* Balanceamento de carga por software: Consiste na instalação e configuração
 de um Software,
 podendo ser inclusive a nível de sistema operacional, em servidores que fazem parte de
 um cluster.
@@ -327,7 +327,7 @@ mais é do que a distribuição uniforme entre os servidores. Isto é, uma requi
 para cada um de
 forma alternada.
 
-• Balanceamento de carga por hardware: Temos que um hardware específico atua como
+* Balanceamento de carga por hardware: Temos que um hardware específico atua como
 intermediário
 e é responsável por efetuar a distribuição das requisições entre os dispositivos. Pode
 ser um switch,
@@ -385,7 +385,7 @@ Conforme vimos em aula, é exatamente isso! A integração com os mais
 diversos dispositivos e a
 independência de sistemas operacionais ou hardware do lado do cliente é uma
 característica da
-computação em nuvem. Algumas pessoas encrencam com o “independentemente” — não vamos
+computação em nuvem. Algumas pessoas encrencam com o "independentemente" — não vamos
 criar
 problemas com a banca. Vamos entender o foco da questão e responder objetivamente.
 
@@ -481,13 +481,13 @@ Vamos ver a definição de Cloud Computing proposta pelo NIST (Instituto Naciona
 Padrões e Tecnologias
 do Departamento de Comércio Norte-Americano):
 
-“Computação em nuvem é um modelo para permitir acesso ubíquo, conveniente e sob
+"Computação em nuvem é um modelo para permitir acesso ubíquo, conveniente e sob
 demanda via rede a
 um agrupamento compartilhado e configurável de recursos computacionais (por exemplo,
 redes, servidores,
 equipamentos de armazenamento, aplicações e serviços), que pode ser rapidamente
 fornecido e liberado
-com esforços mínimos de gerenciamento ou interação com o provedor de serviços”.
+com esforços mínimos de gerenciamento ou interação com o provedor de serviços".
 
 Podemos afirmar que a Computação em Nuvem é um modelo no qual a
 computação (software,
@@ -600,7 +600,7 @@ conceitos de nuvem:
 ............... ................................................ ............... .........
 ................... .............. .............................
 
-: “A infraestrutura de nuvem é provisionada para uso exclusivo por uma
+: "A infraestrutura de nuvem é provisionada para uso exclusivo por uma
 única :
 
 : organização compreendendo vários consumidores (por exemplo, unidades de negócios). :
@@ -608,7 +608,7 @@ conceitos de nuvem:
 : Pode ser propriedade, gerida e operada pela organização, um terceiro, ou alguma :
 
 : combinação deles, e pode existir dentro ou fora das instalações.
-”............................................. :
+"............................................. :
 
 NUVEM PÚBLICA
 
@@ -645,7 +645,7 @@ Vamos ver novamente, a definição do NIST:
 ............... ........... ..................................................................
 .................. ....................................... .
 
-: “A infraestrutura de nuvem é provisionada para uso aberto pelo público em geral.
+: "A infraestrutura de nuvem é provisionada para uso aberto pelo público em geral.
 Pode :
 
 : ser de propriedade, gerenciada e operada por uma organização empresarial, :
@@ -653,7 +653,7 @@ Pode :
 : acadêmica ou governamental, ou alguma combinação deles. Ele existe nas instalações :
 
 : do provedor de nuvem.
-”...................................................................................................
+"...................................................................................................
 ............ :
 
 NUVEM CoMUNITÁRIA
@@ -737,15 +737,15 @@ mercado atualmente, tais como:
 
 de alguns serviços de nuvem pública que hegemonizam o
 
-• iCloud:
+* iCloud:
 
 A empresa responsável pelo iCloud é a Apple. Ele permite a
 integração e
 compartilhamento de dados entre os diversos dispositivos deste fabricante. Entre
 eles,
-podemos citar os iPhones, lpad’s e Mac’s.
+podemos citar os iPhones, lpad's e Mac's.
 
-• OneDrive:
+* OneDrive:
 
 
 A empresa responsável pelo OneDrive é a Microsoft. É a evolução do
@@ -755,14 +755,14 @@ possui uma versão business mais completa.
 
 OneDrive
 
-• GoogleDrive:
+* GoogleDrive:
 
 A empresa responsável pelo GoogleDrive é a Google. Ele fornece
 recursos
 semelhantes aos do OneDrive, além da possibilidade de edição e programação online
 de forma compartilhada e simultânea — é integrado com outros serviços.
 
-• DropBox:
+* DropBox:
 
 
 A empresa responsável pelo DropBox é a própria DropBox. Ele fornece recursos
@@ -998,7 +998,7 @@ b) DaaS -Development as a Service.
 
 c) laaS -Implementation as a Service.
 
-d) PaaS “Platform as a Service.
+d) PaaS "Platform as a Service.
 
 e) SaaS -Software as a Service.
 
@@ -1228,7 +1228,7 @@ moldagem real do tráfego.
 
 Item. 5. Continuously Changing Workload
 
-Por fim, o úlitmo tipo de workload, aquele referenciado sempre com “mudança contínua".
+Por fim, o úlitmo tipo de workload, aquele referenciado sempre com "mudança contínua".
 Aqui, a ideia reside
 também em dois pontos básicos:
 
@@ -1683,7 +1683,7 @@ Comentários:
 
 Inverteram os conceitos mais uma vez. A utilização de um cluster permite enxergar
 diversos hardwares como
-um único dispositivo lógico, sendo infactível a utilização de SO’s distintos.
+um único dispositivo lógico, sendo infactível a utilização de SO's distintos.
 
 Gabarito: E
 
@@ -1811,7 +1811,7 @@ Conforme vimos em aula, é exatamente isso! A integração com os mais
 diversos dispositivos e a
 independência de sistemas operacionais ou hardware do lado do cliente
 é uma característica da
-computação em nuvem. Algumas pessoas encrencam com o “independentemente” — não
+computação em nuvem. Algumas pessoas encrencam com o "independentemente" — não
 vamos criar
 problemas com a banca. Vamos entender o foco da questão e responder objetivamente.
 
@@ -1827,9 +1827,9 @@ Comentários:
 
 Aqui temos um termo utilizado pela Microsoft. Discordo de uma banca cobrar isso em
 prova, mas vamos lá! A
-definição é: “importante característica da computação em nuvem que garante que
+definição é: "importante característica da computação em nuvem que garante que
 cada usuário acesse
-recursos de forma compartilhada sob a ótica de uma arquitetura SaaS”.
+recursos de forma compartilhada sob a ótica de uma arquitetura SaaS".
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
@@ -2333,9 +2333,9 @@ para a nuvem, é denominado
 
 a) AaaS -□Application as a Service.
 
-b) DaaS “tZlDevelopment as a Service.
+b) DaaS "tZlDevelopment as a Service.
 
-c) laaS “dlmplementation as a Service.
+c) laaS "dlmplementation as a Service.
 
 d) PaaS -EZlPIatform as a Service.
 
@@ -2375,7 +2375,7 @@ I são usados para
 
 a construção de umII, que, por sua vez, é utilizado para a implementação de duas aplicações
 
-( Hl )•
+( Hl )*
 
 Preenchem as lacunas I, II e III, correta e respectivamente,
 
@@ -2498,7 +2498,7 @@ software ou assegurar que a atual licença de software permita mais outro usuár
 tem
 estressado muito Luiza, que resolveu buscar novas alternativas. Ela leu a seguinte
 notícia em
-uma publicação de TI: “Ao invés de instalar uma suíte de aplicativos em cada
+uma publicação de TI: "Ao invés de instalar uma suíte de aplicativos em cada
 computador, basta
 carregar uma aplicação. Essa aplicação permitiria aos funcionários fazerem o
 login em um
@@ -2506,7 +2506,7 @@ serviço baseado na web que hospeda todos os programas de que o usuário precisa
 seu
 trabalho. Máquinas remotas de outra empresa executariam tudo: de e-mails e processadores
 de
-textos até complexos programas de análise de dados.”.
+textos até complexos programas de análise de dados.".
 
 A solução a que a publicação se refere e a empresa responsável por armazenar e executar todos os
 aplicativos são, respectivamente:
@@ -2906,7 +2906,7 @@ a) AaaS - Application as a Service.
 
 b) DaaS - Development as a Service.
 
-c) laaS ” Implementation as a Service.
+c) laaS " Implementation as a Service.
 
 d) PaaS ~ Platform as a Service.
 
@@ -2940,7 +2940,7 @@ André Castro
 Aula 04
 
 a construção de umII, que, por sua vez, é utilizado para a implementação de duas aplicações
-(III)•
+(III)*
 
 Preenchem as lacunas I, II e III, correta e respectivamente,
 
@@ -3022,7 +3022,7 @@ software ou assegurar que a atual licença de software permita mais outro usuár
 tem
 estressado muito Luiza, que resolveu buscar novas alternativas. Ela leu a seguinte
 notícia em
-uma publicação de TI: “Ao invés de instalar uma suíte de aplicativos em cada
+uma publicação de TI: "Ao invés de instalar uma suíte de aplicativos em cada
 computador, basta
 carregar uma aplicação. Essa aplicação permitiria aos funcionários fazerem o
 login em um
@@ -3030,7 +3030,7 @@ serviço baseado na web que hospeda todos os programas de que o usuário precisa
 seu
 trabalho. Máquinas remotas de outra empresa executariam tudo: de e-mails e processadores
 de
-textos até complexos programas de análise de dados.”.
+textos até complexos programas de análise de dados.".
 
 A solução a que a publicação se refere e a empresa responsável por armazenar e executar todos os
 aplicativos são, respectivamente:
@@ -3156,11 +3156,11 @@ processamento são diversificadas e heterogêneas. E utiliza padrões abertos.
 
 o Balanceamento de Carga
 
-• SOFTWARE - Consiste na instalação e configuração de um Software, podendo ser inclusive a
+* SOFTWARE - Consiste na instalação e configuração de um Software, podendo ser inclusive a
 nível de
 sistema operacional, em servidores que fazem parte de um cluster.
 
-• HARDWARE - Atua como intermediário e é responsável por efetuar a distribuição das requisições
+* HARDWARE - Atua como intermediário e é responsável por efetuar a distribuição das requisições
 entre os dispositivos.
 
 ■ Computação em Nuvem (Cloud Computing)

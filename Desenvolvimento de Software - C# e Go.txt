@@ -49,7 +49,7 @@ DESENVoLVIMENTo BACK-END - C#
 WHY DO JAVA PROGRAMMERS
 WEAR GLASSES?
 
-THEY CAN’T SEE SHARP.
+THEY CAN'T SEE SHARP.
 
 Olá! Antes de iniciarmos, é importante saber que nesta aula vou considerar que você
 já conhece
@@ -107,7 +107,7 @@ classes pertencem à sua
 aplicação - para que o código
 fique separado do .Net Uma
 
-classe contém um “pedaço" do seu
+classe contém um "pedaço" do seu
 programa, deve haver no mínimo
 uma classe. Por sua vez, os
 métodos contém as instruções,
@@ -517,7 +517,7 @@ IEnumerable<T>.
 
 Esclarecendo
 
-Interfaces são os templates, ou seja, são “receitas" do que uma classe ter. Essa classe
+Interfaces são os templates, ou seja, são "receitas" do que uma classe ter. Essa classe
 deverá implementar todos os métodos definidos na interface,
 
 Uma classe que implementa a interface IEnumerable<T> permite que seus elementos
@@ -530,7 +530,7 @@ Vamos ver um trecho de código de exemplo?
 
 List<Pessoa> pessoas = new List<Pessoa>();
 
-[•••]
+[***]
 
 foreach (Pessoa pessoa in pessoas)
 {
@@ -784,7 +784,7 @@ Saída: 0 8 12 13 36
 Obs: Repare que o resultado foi declarado como var, isso significa que em tempo de compilação o tipo
 será definido pelo .Net de acordo com o tipo da variável valores*
 
-DESENVoLVIMENTo BACK-END - C#: *?’ OPERADoR
+DESENVoLVIMENTo BACK-END - C#: *?' OPERADoR
 CoNDICIoNAL T ERNÁRIo
 
 O operador condicional '?' retornará um entre dois valores dependendo da condição. Esta
@@ -1102,7 +1102,7 @@ public class Automovel:Veiculo
 
 { public override void mover()
 
-( Console.Write("Acelerando”);
+( Console.Write("Acelerando");
 
 }
 
@@ -1110,7 +1110,7 @@ public class Fusca: Automovel
 
 { public override void mover{)
 
-( Console.Write ("Passeando”);
+( Console.Write ("Passeando");
 
 }
 
@@ -1971,7 +1971,7 @@ int i=D;
 while (i<10) {
 
 a[i] = i + (i>0 ? a[i-l] : 0) ;
-i++ ’
+i++ '
 
 }
 
@@ -2491,7 +2491,7 @@ públic class Fusca:Automóvel
 
 { públic override void mover{)
 
-( Console.Write ("Passeando”);
+( Console.Write ("Passeando");
 
 }
 

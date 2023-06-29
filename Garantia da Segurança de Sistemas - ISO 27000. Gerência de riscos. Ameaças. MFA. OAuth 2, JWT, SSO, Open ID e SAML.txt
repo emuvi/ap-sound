@@ -459,38 +459,38 @@ alguns conceitos complementares previstos na norma de referência X.800 que
 trata da Segurança de
 arquiteturas, principalmente no que tange a soluções de rede distribuídas. Vamos conhecê-los:
 
-• Autenticação de entidade Parceiras
+* Autenticação de entidade Parceiras
 
 o Usada em associação com uma conexão lógica com a capacidade de prover confiabilidade
 a
 respeito da identidade das entidades conectadas.
 
-• Autenticação da origem dos Dados
+* Autenticação da origem dos Dados
 
 o Considerando uma transferência sem conexão entre as partes, visa assegurar que a
 origem
 dos dados recebidos é quem ela afirma ser.
 
-• Confidencialidade de campo seletivo
+* Confidencialidade de campo seletivo
 
 o Busca-se manter a confidencialidade de campos específicos dentro do volume
 de dados de
 um usuário em uma conexão.
 
-• Confidencialidade do fluxo de tráfego
+* Confidencialidade do fluxo de tráfego
 
 o Busca-se gerar a confidencialidade sob a perspectiva do fluxo, ou seja, a simples
 análise do
 fluxo de dados não deve ser capaz de gerar informações indevidas.
 
-• Integridade de conexão com recuperação
+* Integridade de conexão com recuperação
 
 o Como o próprio nome diz, é capaz de detectar qualquer modificação,
 inserção, deleção ou
 repetição de quaisquer dados dentro de uma sequência de dado. Além disso, é capaz de
 recuperar a intervenção realizada.
 
-• Integridade de conexão sem recuperação
+* Integridade de conexão sem recuperação
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
@@ -504,7 +504,7 @@ Aula 00
 
 o Como vimos, neste caso, não há capacidade de recuperação, mas tão somente de detecção.
 
-• Integridade de conexão de campo seletivo
+* Integridade de conexão de campo seletivo
 
 o Assim como a confidencialidade seletiva, aqui, busca-se garantir a
 integridade de áreas e
@@ -512,23 +512,23 @@ dados específicos. Assim, busca-se avaliar se houve modificação, inserção,
 eliminação ou
 repetição dessa parcela.
 
-• Integridade sem conexão
+* Integridade sem conexão
 
 o Considera a capacidade de prover a integridade de dados em um ambiente
 sem conexão.
 Possui o foco na detecção de modificações e uma capacidade limitada de detectar repetições.
 
-• Integridade de campo seletivo sem conexão
+* Integridade de campo seletivo sem conexão
 
 o Mesma condição do tipo acima, porém, de áreas de dados específicos ou seletivos.
 
-• Irretratabilidade de origem
+* Irretratabilidade de origem
 
 o É o padrão que vimos, uma vez que é possível provar que a mensagem
 foi enviada por
 determinada parte.
 
-• Irretratabilidade de destino
+* Irretratabilidade de destino
 
 o A perspectiva aqui é diferente. Consegue-se provar que o destinatário
 recebeu determinada
@@ -542,13 +542,13 @@ conceitos que são constantemente explorados pelas bancas examinadoras. Nesse se
 vamos conhecê-
 los:
 
-• Furto de dados: informações pessoais e outros dados podem ser obtidos
+* Furto de dados: informações pessoais e outros dados podem ser obtidos
 tanto pela
 interceptação de tráfego como pela exploração de possíveis vulnerabilidades
 existentes em
 seu computador;
 
-• Uso indevido de recursos: um atacante pode ganhar acesso a um computador
+* Uso indevido de recursos: um atacante pode ganhar acesso a um computador
 conectado à
 rede e utilizá-lo para a prática de atividades maliciosas, como
 obter arquivos,
@@ -571,19 +571,19 @@ www. estrategiaconcursos. com. br
 André Castro
 Aula 00
 
-• Varredura: um atacante pode fazer varreduras na rede, a fim de
+* Varredura: um atacante pode fazer varreduras na rede, a fim de
 descobrir outros
 computadores e, então, tentar executar ações maliciosas, como ganhar acesso e
 explorar
 vulnerabilidades;
 
-• Interceptação de tráfego: um atacante, que venha a ter acesso à rede,
+* Interceptação de tráfego: um atacante, que venha a ter acesso à rede,
 pode tentar
 interceptar o tráfego e, então, coletar dados que estejam sendo transmitidos sem o uso
 de
 criptografia;
 
-• Exploração de vulnerabilidades: por meio da exploração de
+* Exploração de vulnerabilidades: por meio da exploração de
 vulnerabilidades, um
 computador pode ser infectado ou invadido e, sem que o dono saiba, participar de
 ataques,
@@ -594,17 +594,17 @@ ser invadidos, terem as configurações alteradas e fazerem com que as conexões
 usuários
 sejam redirecionadas para sites fraudulentos;
 
-• Ataque de negação de serviço: um atacante pode usar a rede para enviar grande
+* Ataque de negação de serviço: um atacante pode usar a rede para enviar grande
 volume de
 mensagens para um computador, até torná-lo inoperante ou incapaz de se comunicar;
 
-• Ataque de força bruta: computadores conectados à rede e que usem senhas como
+* Ataque de força bruta: computadores conectados à rede e que usem senhas como
 métodos
 de autenticação estão expostos a ataques de força bruta. Muitos computadores,
 infelizmente,
 utilizam, por padrão, senhas de tamanho reduzido e/ou de conhecimento geral dos atacantes;
 
-• Ataque de personificação: um atacante pode introduzir ou substituir um dispositivo
+* Ataque de personificação: um atacante pode introduzir ou substituir um dispositivo
 de rede
 para induzir outros a se conectarem a este, ao invés do dispositivo legítimo,
 permitindo a
@@ -807,7 +807,7 @@ de determinados recursos, como bloqueio de portas USB ou unidades de DVD, de for
 física, como
 também no intuito de não possibilitar o furto de notebooks, por exemplo,
 através das conhecidas
-chaves kensington, que, literalmente, “prendem" o equipamento em uma localidade.
+chaves kensington, que, literalmente, "prendem" o equipamento em uma localidade.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
@@ -1161,7 +1161,7 @@ Existem três técnicas de controle e gerenciamento de acesso que são amplament
 utilizadas nos ambientes
 de tecnologia da informação.
 
-• Mandatory Access Control (MAC) - O administrador do sistema é responsável por
+* Mandatory Access Control (MAC) - O administrador do sistema é responsável por
 atribuir as devidas
 permissões para os usuários. Este modelo utiliza o conceito de "labei" para identificar
 o nível de
@@ -1170,7 +1170,7 @@ de acesso e
 através desta avaliação, é verificado o nível de acesso do usuário e quais recursos ele é capaz de
 usar.
 
-• Discretionary Access Control (DAC) - Este é um modelo mais flexível quando
+* Discretionary Access Control (DAC) - Este é um modelo mais flexível quando
 comparado com o MAC
 e considerando o usuário que necessita compartilhar o recurso com outros usuários. Nesta técnica,
 
@@ -1192,7 +1192,7 @@ por exemplo, em que o próprio usuário pode determinar as permissões do arquiv
 ele tem a
 posse.
 
-• Role-Based Access Control (RBAC) - Também conhecido como controle baseado em papéis.
+* Role-Based Access Control (RBAC) - Também conhecido como controle baseado em papéis.
 Nesta
 técnica, o administrador garantir privilégios de acordo com a função exercida
 pelo usuário. Esta
@@ -1950,7 +1950,7 @@ J DTWlf
 
 -W
 
-5 foto’
+5 foto'
 
 s£
 
@@ -2904,7 +2904,7 @@ Aula 00
 
 ** ACORDE!
 
-• ISO 27001
+* ISO 27001
 
 Esta norma define os requisitos de um Sistema de Gestão da Segurança da Informação -
 SGSI. O referido
@@ -2920,7 +2920,7 @@ Esta norma é a mais básica e serve como pilar para as demais, principalmente n
 aspecto de certificação
 empresarial em gestão de segurança da informação.
 
-• ISO 27002
+* ISO 27002
 
 A norma ISO/IEC 27002, de forma bem objetiva, apresenta um código de boas práticas
 com controles de
@@ -2928,21 +2928,21 @@ Segurança da Informação. Estes subsidiam a implantação de um Sistemas de Ge
 Segurança da
 Informação.
 
-• ISO 27003
+* ISO 27003
 
 Nesta norma, temos uma abordagem mais alto nível que define diretrizes para a
 implementação de um SGSI.
 Lembremos que a ISO 27001 trata apenas dos requisitos.
 
-• ISO 27004
+* ISO 27004
 
 Aqui, teremos uma definição de métricas para medição da gestão da segurança da informação.
 
-• ISO 27005
+* ISO 27005
 
 Outra norma extremamente importante que aborda a gestão de riscos da segurança da informação.
 
-• NBR15999
+* NBR15999
 
 A referida norma trata da gestão de continuidade de negócios. Lembremos que
 quando falamos de
@@ -2952,7 +2952,7 @@ frente a eventos diversos, entre eles os mais catastróficos, a organização
 não pode ter seu negócio
 prejudicado, gerando a continuidade necessária.
 
-• NBR 22301
+* NBR 22301
 
 Esta norma trata dos requisitos para criação de um sistema de gestão de continuidade de negócios.
 
@@ -2966,7 +2966,7 @@ www. estrategiaconcursos. com. br
 André Castro
 Aula 00
 
-• NBR 31000
+* NBR 31000
 
 Tal norma tratar da gestão de riscos em um caráter organizacional.
 
@@ -3049,15 +3049,15 @@ r
 
 |
 
-: • RISCO: probabilidade de uma fonte de ameaça explorar uma vulnerabilidade,
+: * RISCO: probabilidade de uma fonte de ameaça explorar uma vulnerabilidade,
 resultando em i
 
 um impacto para a organização;
 
-i • AMEAÇA: Causa potencial de um incidente indesejado.
+i * AMEAÇA: Causa potencial de um incidente indesejado.
 
-; • VULNERABILIDADE: Fragilidade de um ativo que pode ser explorada por uma ou mais ameaças
-i • IMPACTO: Resultado gerado por uma ameaça ao explorar uma vulnerabilidade.
+; * VULNERABILIDADE: Fragilidade de um ativo que pode ser explorada por uma ou mais ameaças
+i * IMPACTO: Resultado gerado por uma ameaça ao explorar uma vulnerabilidade.
 
 É importante aproveitarmos o contexto para definir, segundo a ISO 27001, o conceito de incidente:
 
@@ -3089,23 +3089,23 @@ Existem algumas formas básicas de como a organização deve reagir aos riscos. 
 tomar basicamente
 quatro tipos de ação, quais sejam:
 
-• Evitar - Busca-se ações com vistas a prevenir a ocorrência de determinado
+* Evitar - Busca-se ações com vistas a prevenir a ocorrência de determinado
 risco. Como exemplo,
 pode-se bloquear o acesso de determinado usuário à internet. Isso poderia evitar que
 este acesse
 serviços remotamente e vaze dados pela Internet.
 
-• Transferir - Busca-se transferir o risco para uma terceira parte. Nesse caso, a
+* Transferir - Busca-se transferir o risco para uma terceira parte. Nesse caso, a
 terceira parte assume
 a responsabilidade das ações frente ao risco, bem como custos e outros fatores.
 Analogia simples ao
 seguro de carro que fazemos, passando o risco de acidente e roubo para a seguradora.
 
-• Mitigar - Objetiva-se atuar em prol da minimização dos riscos. Como exemplo,
+* Mitigar - Objetiva-se atuar em prol da minimização dos riscos. Como exemplo,
 pode-se restringir o
 acesso de determinados usuários a sites controlados.
 
-• Aceitar ou Reter - Determinados riscos não valem a penas ser evitados, mitigados
+* Aceitar ou Reter - Determinados riscos não valem a penas ser evitados, mitigados
 ou transferidos
 por agregar custos ou esforços extremamente elevados que, em termos quantitativos, são
 maiores
@@ -3207,7 +3207,7 @@ homologação.
 
 Veremos então neste tópico diversos aspectos que devem ser considerados para tal finalidade.
 
-• Senhas Fortes
+* Senhas Fortes
 
 A utilização de senhas fortes é amplamente difundida no mundo da Segurança da
 Informação. Entretanto,
@@ -3236,7 +3236,7 @@ gerar senhas
 extremamente fortes para os usuários.
 
 
-• Atualização de aplicações
+* Atualização de aplicações
 
 Item. 0.0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
@@ -3264,7 +3264,7 @@ Assim, não basta que o software seja seguro por si próprio se softwares comple
 e integrados ou
 sistemas operacionais não se encontram atualizados, com diversas brechas de segurança.
 
-• Fuzzing
+* Fuzzing
 
 Esta é uma técnica utilizada para testar erros em aplicações. É amplamente utilizado
 no processo de
@@ -3290,7 +3290,7 @@ paralelamente, monitorará o comportamento da aplicação, pois esta poderá tra
 dados de forma
 indevida.
 
-• Boas práticas de Código Seguro
+* Boas práticas de Código Seguro
 
 Diversas aplicações necessitam ser desenvolvidas dentro de prazos específicos e muitas
 vezes, arrojados.
@@ -3339,7 +3339,7 @@ em utilizar tais mensagens para correção, recomenda-se que este utilize logs d
 aplicações e
 controle de forma segura em um ambiente seguro.
 
-• Baseline de Configuração de Aplicação
+* Baseline de Configuração de Aplicação
 
 As aplicações podem utilizar diversos componentes pelos quais possuem
 dependências para seu
@@ -3534,7 +3534,7 @@ r
 
 I
 
-:• Definir as diretivas de design e arquitetura de segurança;
+:* Definir as diretivas de design e arquitetura de segurança;
 
 
 oo SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
@@ -3556,11 +3556,11 @@ r
 
 |
 
-:• Documentar os elementos da superfície de ataque do software;
+:* Documentar os elementos da superfície de ataque do software;
 
-;• Realizara modelagem de ameaças;
+;* Realizara modelagem de ameaças;
 
-:• Definir critérios de fornecimento complementar.
+:* Definir critérios de fornecimento complementar.
 
 Item. 3. FASE DE IMPLEMENTAÇÃO
 
@@ -3579,14 +3579,14 @@ Os elementos do SDL considerados nessa fase são:
 ................................................ .................... ....................
 ■■■■■................... .............................. .................... .................|
 
-: • Aplicar padrões de codificação e teste.
+: * Aplicar padrões de codificação e teste.
 
-i • Aplicar ferramentas de testes de segurança, incluindo ferramentas de difusão.
+i * Aplicar ferramentas de testes de segurança, incluindo ferramentas de difusão.
 
-i • Aplicar ferramentas de verificação de código de análise estática.
+i * Aplicar ferramentas de verificação de código de análise estática.
 i
 
-i • Realizar revisões de código.
+i * Realizar revisões de código.
 
 A atenção especial fica em relação ao fato de que não se considera a aplicação de
 ferramentas de verificação
@@ -3678,15 +3678,15 @@ A estrutura do processo é dividida em cinco perspectivas, denominadas Visões C
 Cada Visão, por sua
 vez, é dividida em atividades, que contém os componentes do processo. São as Visões:
 
-• Visão Conceituai;
+* Visão Conceituai;
 
-• Visão de Papéis;
+* Visão de Papéis;
 
-• Visão de Avaliação de Atividade
+* Visão de Avaliação de Atividade
 
-• Visão de Implementação de Atividade
+* Visão de Implementação de Atividade
 
-• Visão de Vulnerabilidades.
+* Visão de Vulnerabilidades.
 
 As visões também são referenciadas como Conjuntos de Taxonomias de
 vulnerabilidades a serem
@@ -3735,9 +3735,9 @@ de vulnerabilidades no
 desenvolvimento de software, divididas em 5 categorias:
 
 
-• Erros de Tipo e Limites de Tamanho;
+* Erros de Tipo e Limites de Tamanho;
 
-• Problemas do Ambiente;
+* Problemas do Ambiente;
 
 Erros de Sincronização e Temporização;
 Erros de Protocolo;
@@ -4089,13 +4089,13 @@ Comentários:
 André Castro
 Aula 00
 
-Pessoal, os únicos itens que tratam da integridade são as letras “A” e “D”. As
-letras “B” e “C” tratam do
-princípio da autenticidade, enquanto a letra “E” de confidencialidade.
+Pessoal, os únicos itens que tratam da integridade são as letras "A" e "D". As
+letras "B" e "C" tratam do
+princípio da autenticidade, enquanto a letra "E" de confidencialidade.
 
-Assim, para a letra “A”, temos o grande diferencial que é a capacidade de detecção e
+Assim, para a letra "A", temos o grande diferencial que é a capacidade de detecção e
 recuperação de todos
-os dados. Para a letra “D”, temos que será aplicado o princípio de monitoramento em
+os dados. Para a letra "D", temos que será aplicado o princípio de monitoramento em
 uma parcela específica,
 ou seja, uma área selecionada dos dados. Percebam que nesse caso não há recuperação,
 mas tão somente
@@ -4188,7 +4188,7 @@ Comentários:
 
 Mais uma questão bacana do CESPE. Temos descrito aqui a violação do princípio da
 confidencialidade quando
-a assertiva afirma que “o seu conteúdo tenha sido visualizado”. Entretanto, a
+a assertiva afirma que "o seu conteúdo tenha sido visualizado". Entretanto, a
 informação se manteve íntegra
 pois não houve alteração de seu conteúdo, não havendo, portanto, a violação do princípio da
 integridade.
@@ -4413,7 +4413,7 @@ informação.
 
 Comentários:
 
-Lembremos que autenticação biométrica está baseado no mecanismo de “algo que você é”.
+Lembremos que autenticação biométrica está baseado no mecanismo de "algo que você é".
 Como sabemos,
 esse é um procedimento de segurança da informação.
 
@@ -4676,7 +4676,7 @@ Comentários:
 
 Lembremos sempre de ficarmos atentos a essas afirmações restritivas. No caso em
 questão, temos o termo
-“ESTRITAMENTE”. Não né pessoal? O simples princípio da autenticidade ficou de fora da lista.
+"ESTRITAMENTE". Não né pessoal? O simples princípio da autenticidade ficou de fora da lista.
 
 Gabarito: E
 
@@ -4850,8 +4850,8 @@ Comentários:
 Questão bem tranquila por ser do TCU. O erro da questão se encontra no segundo
 trecho ao se descrever o
 princípio da disponibilidade e não integridade. Gostaria apenas de destacar o trecho de
-“usuários autorizados
-tenham acesso”. Qual é a ideia aqui pessoal?
+"usuários autorizados
+tenham acesso". Qual é a ideia aqui pessoal?
 
 Se eu tenho um sistema interno que somente os usuários de gestão devem acessar, caso esse sistema
 fique fora
@@ -4897,7 +4897,7 @@ recursos.
 
 Comentários:
 
-O problema da questão está na palavra “Limitada”. O escopo é mais amplo da auditoria,
+O problema da questão está na palavra "Limitada". O escopo é mais amplo da auditoria,
 ainda que seja
 para fins de análise forense.
 
@@ -4965,7 +4965,7 @@ da informação.
 
 Comentários:
 
-Em “Conformidade” com nossa teoria, certo pessoal? Uma boa questão para utilizarmos
+Em "Conformidade" com nossa teoria, certo pessoal? Uma boa questão para utilizarmos
 como padrão de
 resposta e resumo de conceito.
 
@@ -5068,13 +5068,13 @@ A modelagem de ameaças se dá na fase de DESIGN. Lembremos os principais aspect
 considerados nessa
 fase:
 
-• Definir as diretivas de design e arquitetura de segurança;
+* Definir as diretivas de design e arquitetura de segurança;
 
-• Documentar os elementos da superfície de ataque do software;
+* Documentar os elementos da superfície de ataque do software;
 
-• Realizar a modelagem de ameaças;
+* Realizar a modelagem de ameaças;
 
-• Definir critérios de fornecimento complementar.
+* Definir critérios de fornecimento complementar.
 
 Gabarito: E
 
@@ -5311,9 +5311,9 @@ E) criptografia na troca de informações entre os computadores do TRF.
 
 Comentário:
 
-Pessoal, o problema nessa questão está nos itens “B” e “D”, pois, ambos são itens
+Pessoal, o problema nessa questão está nos itens "B" e "D", pois, ambos são itens
 utilizados para segurança
-física. Entretanto, no item “B”, temos a descrição incorreta pois não se objetiva
+física. Entretanto, no item "B", temos a descrição incorreta pois não se objetiva
 autenticar os dados e sim a
 pessoa.
 
@@ -5369,7 +5369,7 @@ nos fins de semana ou à noite.
 
 Comentário;
 
-O item “B” nos traz uma lista de itens que fazem parte da segurança física de
+O item "B" nos traz uma lista de itens que fazem parte da segurança física de
 qualquer ambiente. Questão
 bem extensa, porém, bem tranquila.
 
@@ -5522,7 +5522,7 @@ e) entrada e saída de dados.
 
 Comentários:
 
-Percebam que a questão aborda a questão da “Localização dos equipamentos”.
+Percebam que a questão aborda a questão da "Localização dos equipamentos".
 Ora, estamos falando,
 portanto, das questões atreladas ao controle físico.
 
@@ -6422,7 +6422,7 @@ RESUMo
 
 ■ PRINCÍPIOS DE SEGURANÇA
 
-• Três principais pilares que compõem a base da Segurança da Informação, quais sejam:
+* Três principais pilares que compõem a base da Segurança da Informação, quais sejam:
 
 o Confidencialidade - Aqui temos o princípio que visa zelar pela privacidade e sigilo
 dos
@@ -6440,7 +6440,7 @@ o Disponibilidade - Nesse princípio, temos como principal objetivo o fato de de
 recurso poder ser utilizado quando este for requisitado em um determinado momento,
 considerando a devida autorização do usuário requisitante.
 
-• Segurança de Redes: O Cert.br, principal órgão do Brasil responsável pelo fomento
+* Segurança de Redes: O Cert.br, principal órgão do Brasil responsável pelo fomento
 à Segurança
 da Informação, nos traz alguns conceitos que são constantemente explorados
 pelas bancas
@@ -6512,13 +6512,13 @@ e que, de fato, podem ser tocados, enquanto a lógica está relacionada aos dado
 seu formato
 analógico ou digital, tanto no aspecto de transmissão, processamento e armazenamento.
 
-• Segurança Física: exemplos de elementos que são considerados como recursos para a
+* Segurança Física: exemplos de elementos que são considerados como recursos para a
 segurança
 física: unidade de alimentação ininterrupta (UPS), gerador, site físico redundante, CFTV,
 travas
 de equipamentos, alarmes, catracas, sala cofre.
 
-• Segurança Lógica:
+* Segurança Lógica:
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
@@ -6530,7 +6530,7 @@ www. estrategiaconcursos. com. br
 André Castro
 Aula 00
 
-• Controle de Acesso: método aplicado tanto no contexto físico e lógico, com vistas a
+* Controle de Acesso: método aplicado tanto no contexto físico e lógico, com vistas a
 estabelecer
 barreiras que podem restringir determinados acessos a locais, equipamentos, serviços e dados
 a
@@ -6545,22 +6545,22 @@ rotinas, ferramentas ou soluções que implementam, de fato, o princípio de
 autenticação com o
 devido controle de acesso.
 
-• SAML - Security Assertion Markup Language: não é uma tecnologia em si, mas sim,
+* SAML - Security Assertion Markup Language: não é uma tecnologia em si, mas sim,
 um padrão
 aberto que permite com que provedores de serviços e recursos de identidade passe credenciais
 de autorização para provedores de serviços.
 
-• OAuth: o padrão foi concebido no nicho privado, em conjunto pela
+* OAuth: o padrão foi concebido no nicho privado, em conjunto pela
 Google e pelo Twitter,
 permitindo assim logins simplificados e integrados a múltiplos serviços na Internet.
 
-• Biometria: forma de identificar de maneira única um indivíduo por meio de suas
+* Biometria: forma de identificar de maneira única um indivíduo por meio de suas
 características
 físicas ou comportamentais.
 
 ■ SEGURANÇA EM ENDPOINTS
 
-• Na prática, se o dispositivo está conectado à rede em alguma medida, com a
+* Na prática, se o dispositivo está conectado à rede em alguma medida, com a
 capacidade de
 processar informação e trafegar dados, poderá ser classificado como um ENDPOINT.
 
@@ -6570,7 +6570,7 @@ processar informação e trafegar dados, poderá ser classificado como um ENDPOI
 André Castro
 Aula 00
 
-• Dentre alguns recursos e contextos de aplicação das soluções voltadas para
+* Dentre alguns recursos e contextos de aplicação das soluções voltadas para
 segurança em
 EndPoints, podemos citar Antivírus, Antimalwares, firewalls, HIDS e HIPS, Atualizações
 diversas
@@ -6578,7 +6578,7 @@ de drivers, softwares e S.O., entre outros.
 
 ■ AUDITORIA E CONFORMIDADE
 
-• Auditoria: a auditoria em tecnologia da informação diz respeito à análise
+* Auditoria: a auditoria em tecnologia da informação diz respeito à análise
 cuidadosa e sistemática
 dos recursos de TI, pessoas, documentos, sistemas, entre outros, no intuito de se
 averiguar se estes
@@ -6588,19 +6588,19 @@ definidos como padrão. Avalia-se quanto à sua eficácia e eficiência em torno
 dos objetivos e
 resultados esperados.
 
-• Conformidade: conceito relacionado à adesão dos sistemas de informação às
+* Conformidade: conceito relacionado à adesão dos sistemas de informação às
 políticas e às normas
 organizacionais de segurança da informação.
 
 ■ CONTINUIDADE DE NEGÓCIOS
 
-• ISO 27002 sobre o objetivo da Gestão da Continuidade de Negócios: “não permitir
+* ISO 27002 sobre o objetivo da Gestão da Continuidade de Negócios: "não permitir
 a interrupção
 das atividades do negócio e proteger os processos críticos contra efeitos de falhas ou
 desastres
-significativos, e assegurar a sua retomada em tempo hábil, se for o caso”
+significativos, e assegurar a sua retomada em tempo hábil, se for o caso"
 
-• O PCN - Plano de Continuidade de Negócios é o documento responsável por
+* O PCN - Plano de Continuidade de Negócios é o documento responsável por
 consolidar as ações
 para continuidade do negócio. Todos os riscos envolvidos, no que tange às suas
 probabilidades e
@@ -6610,7 +6610,7 @@ bem como suas instalações.
 
 ■ PRINCÍPIOS DE NORMAS E PADRÕES
 
-• Gerência de Riscos: Existem algumas formas básicas de como a organização deve reagir
+* Gerência de Riscos: Existem algumas formas básicas de como a organização deve reagir
 aos
 riscos. Pode-se tomar basicamente quatro tipos de ação, quais sejam:
 
@@ -6658,23 +6658,23 @@ risco em caso de ocorrência.
 
 ■ DIRETRIZES PARA O DESENVOLVIMENTO DE SOFTWARE SEGURO
 
-• SDL (Security Development Lifecycle): metodologia criada pela Microsoft para o
+* SDL (Security Development Lifecycle): metodologia criada pela Microsoft para o
 desenvolvimento
 de softwares que precisam suportar ataques de usuários mal-intencionados.
 
-• CLASP (Comprehensive, Lightweight Application Security Process):
+* CLASP (Comprehensive, Lightweight Application Security Process):
 metodologia de
 desenvolvimento seguro de software orientada a atividades e papéis, que
 descreve melhores
 práticas para projetos novos ou em andamento.
 
-• SAST (Static Application Security Testing): em sua tradução literal, "aplicação
+* SAST (Static Application Security Testing): em sua tradução literal, "aplicação
 estática para teste
 de segurança". O propósito é avaliar o código fonte e as diversas versões compiladas
 para buscar
 identificar brechas de segurança.
 
-• DAST (Dynamic Application Security Testing): utilizado para fins de verificação de
+* DAST (Dynamic Application Security Testing): utilizado para fins de verificação de
 compliance
 de segurança e padrões internacionais da indústria, bem como para geração de
 releases e

@@ -109,11 +109,11 @@ Apache.
 
 Servidores web e de aplicação. Wildfly, IIS, Apache.
 
-• Tanenbaum define que: "Um sistema distribuído é um conjunto
+* Tanenbaum define que: "Um sistema distribuído é um conjunto
 de computadores
 independentes entre si que se apresenta a seus usuários como um sistema único e coerente."
 
-• Resumindo, são sistemas que o usuário "enxerga" como um único computador, mas na
+* Resumindo, são sistemas que o usuário "enxerga" como um único computador, mas na
 verdade
 existem alguns (ou muitos), geograficamente distribuídos. Como as mensagens são trocadas
 e
@@ -166,7 +166,7 @@ www. estrategiaconcursos. com.br
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 Aula 11
 
-• Middleware: camada de software localizada logicamente entre uma camada de
+* Middleware: camada de software localizada logicamente entre uma camada de
 nível mais alto
 (usuários e aplicações) e uma camada subjacente (frameworks e facilidades de
 comunicação). As
@@ -187,11 +187,11 @@ r
 Concorrência Falhas
 independentes
 
-• Gerenciamento de recursos: a principal tarefa do sistema é garantir o controle
+* Gerenciamento de recursos: a principal tarefa do sistema é garantir o controle
 sobre quem usa
 o quê. Esse controle também permite o compartilhamento dos recursos.
 
-• Gerenciamento de processos: essa funcionalidade distribui o processamento
+* Gerenciamento de processos: essa funcionalidade distribui o processamento
 de forma justa
 entre as aplicações, evitando que uma aplicação monopolize o recurso.
 A gerência do
@@ -199,7 +199,7 @@ processador está diretamente relacionada ao escalonamento. A sensação de
 que um
 processador está sendo compartilhado entre os vários processos é dita pseudoparalelismo.
 
-• Modelo cliente-servidor: os servidores mantêm recursos e servem pedidos de operações
+* Modelo cliente-servidor: os servidores mantêm recursos e servem pedidos de operações
 sobre
 esses recursos. Servidores podem ser clientes de outros servidores. Os próprios nomes
 ajudam
@@ -221,7 +221,7 @@ www. estrategiaconcursos. com. br
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 Aula 11
 
-• Modelo peer-to-peer: todos os processos possuem papeis semelhantes, sem
+* Modelo peer-to-peer: todos os processos possuem papeis semelhantes, sem
 distinção entre
 clientes e servidores. As principais características são mais ampla
 distribuição de carga
@@ -229,7 +229,7 @@ distribuição de carga
 e a
 coordenação mais complicada que cliente-servidor.
 
-• Clusters são sistemas de processamento compostos por uma coleção de
+* Clusters são sistemas de processamento compostos por uma coleção de
 computadores
 autônomos, interconectados e que trabalham em conjunto para processar
 uma tarefa.
@@ -255,9 +255,9 @@ JBoss Application Server (AS)
 JBoss Enterprise Application
 Platform (EAP)
 
-• versão open source e não possui suporte
+* versão open source e não possui suporte
 
-• O Apache é um servidor Web livre (possui código-fonte aberto) que
+* O Apache é um servidor Web livre (possui código-fonte aberto) que
 funciona em ambiente
 multiplataforma (Windows, Novell, OS/2, Unix, Linux, FreeBSD etc.). No Linux o servidor
 utiliza o
@@ -265,7 +265,7 @@ daemon httpd. Suas funcionalidades são mantidas através de uma estrutura de
 módulos,
 permitindo inclusive que o usuário escreva seus próprios módulos.
 
-• Apachectl (Apache HTTP Server Control Interface): trata-se de um front end para
+* Apachectl (Apache HTTP Server Control Interface): trata-se de um front end para
 o servidor
 Apache. É utilizado para ajudar o administrador a controlar o funcionamento do daemon
 httpd.
@@ -289,7 +289,7 @@ httpd, passando argumentos de linha de comando;
 traduzindo-
 os em sinais apropriados ao httpd.
 
-• O IIS (Internet Information Services) é um servidor Web criado pela Microsoft para
+* O IIS (Internet Information Services) é um servidor Web criado pela Microsoft para
 seus sistemas
 operacionais para servidores. A versão mais recente é o IIS 10 (Windows Server 2016 e
 Windows
@@ -299,13 +299,13 @@ serviços e aplicativos, permitindo a integração das seguintes tecnologias: AS
 PHP,
 WCF e o próprio IIS.
 
-• permite que o IIS processe requisições no pool de
+* permite que o IIS processe requisições no pool de
 aplicativos utilizando o "Integrated Pipeline"
 
 
 Modo clássico
 
-• utiliza o pipeline de processamento do IIS 6,
+* utiliza o pipeline de processamento do IIS 6,
 inicialmente as requisições são processadas através .
 
 dos m ódulos do IIS7

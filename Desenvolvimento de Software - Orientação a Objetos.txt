@@ -165,7 +165,7 @@ public static void main ( String [ ] args ) throws java . lang . Exception
 
 Interface
 
-Galera, o que é uma Interface? É simplesmente um contrato! Quando vocês assinam o contrato do seguro de um carro, vocês estão se comprometendo a atender aquilo que lá está escrito. Analogamente, a interface é um contrato que obriga aqueles que a assinam a implementar os métodos lá presentes. Elas ajudam a padronizar implementações – entradas e saídas.
+Galera, o que é uma Interface? É simplesmente um contrato! Quando vocês assinam o contrato do seguro de um carro, vocês estão se comprometendo a atender aquilo que lá está escrito. Analogamente, a interface é um contrato que obriga aqueles que a assinam a implementar os métodos lá presentes. Elas ajudam a padronizar implementações - entradas e saídas.
 
 Em outras palavras, é um recurso utilizado em Java para obrigar a um determinado grupo de classes a ter métodos ou propriedades em comum para existir em um determinado contexto, contudo os métodos podem ser implementados em cada classe de uma maneira diferente. Em geral, as interfaces são compostas basicamente de um conjunto de assinaturas de métodos públicos e abstratos.
 
@@ -189,19 +189,19 @@ Uma Classe Abstrata pode, inclusive, não conter nenhum método abstrato, i.e., 
 
 Encapsulamento
 
-Pessoal, nós já sabemos que para se descobrir o que um objeto pode fazer, basta olhar para as assinaturas de seus métodos públicos definidos na classe desse objeto – que formam uma interface de uso. A assinatura de um método é composta pelo seu nome e seus parâmetros. Por outro lado, para descobrir como um objeto realiza suas operações, deve-se observar o corpo de cada um dos métodos da classe.
+Pessoal, nós já sabemos que para se descobrir o que um objeto pode fazer, basta olhar para as assinaturas de seus métodos públicos definidos na classe desse objeto - que formam uma interface de uso. A assinatura de um método é composta pelo seu nome e seus parâmetros. Por outro lado, para descobrir como um objeto realiza suas operações, deve-se observar o corpo de cada um dos métodos da classe.
 
 Os corpos dos métodos constituem a implementação das operações dos objetos. Professor, por que nós encapsulamentos classes, atributos e métodos? Cara, por duas razões: desenvolvimento e manutenibilidade. O encapsulamento ajuda a aumentar a divisão de responsabilidades (ou coesão) e, dessa forma, fica mais fácil e rápido desenvolver sistemas em módulos.
 
-Da mesma forma, ele ajuda a manutenção, visto que para torna-se mais difícil fazer “besteiras” no código e atrapalhar manutenções futuras. Trazendo isso para a vida real, lidamos com encapsulamento o tempo inteiro. Você sabe como usar um controle remoto, mas você não sabe como ele funciona internamente. Encapsula-se seu funcionamento interno e disponibiliza-se apenas sua interface ao usuário.
+Da mesma forma, ele ajuda a manutenção, visto que para torna-se mais difícil fazer "besteiras" no código e atrapalhar manutenções futuras. Trazendo isso para a vida real, lidamos com encapsulamento o tempo inteiro. Você sabe como usar um controle remoto, mas você não sabe como ele funciona internamente. Encapsula-se seu funcionamento interno e disponibiliza-se apenas sua interface ao usuário.
 
 Chegamos ao conceito de Modificadores de Acesso! Eles são utilizados para modificar o modo como classes, métodos e variáveis são acessadas. Existem três modificadores de acesso e um quarto nível (acesso default/friendly), quando não se usa nenhum dos modificadores citados. Toda classe, método e variáveis de instância declaradas possuem um controle de acesso.
 
 Pessoal, esses Modificadores de Acesso determinam quão acessíveis são esses elementos. Vamos vê-los agora em mais detalhes:
 
-§ public : essa instrução indica que a classe, método ou atributo assim declaradas podem ser acessadas em qualquer lugar e a qualquer momento da execução do programa – é o modificador menos restritivo.
+§ public : essa instrução indica que a classe, método ou atributo assim declaradas podem ser acessadas em qualquer lugar e a qualquer momento da execução do programa - é o modificador menos restritivo.
 
-§ private : essa instrução indica que métodos ou atributos (classes, não) assim declaradas podem ser acessadas apenas dentro da classe que os criou. Subclasses herdam-nos, mas não os acessam – é o modificador mais restritivo1.
+§ private : essa instrução indica que métodos ou atributos (classes, não) assim declaradas podem ser acessadas apenas dentro da classe que os criou. Subclasses herdam-nos, mas não os acessam - é o modificador mais restritivo1.
 
 § protected : essa instrução indica que métodos ou atributos (classes, não) assim declaradas somente podem ser acessadas dentro do pacote em que está contida ou por subclasses no mesmo pacote.
 
@@ -294,7 +294,7 @@ Sim
 
 Pensem comigo! Acessar ou editar propriedades de objetos, manipulando-as diretamente, pode ser muito perigoso e gerar muitos problemas. Por conta disso, é mais seguro, para a integridade dos objetos e, consequentemente, para a integridade da aplicação, que esse acesso ou edição sejam realizados através de métodos desse objeto.
 
-Utilizando métodos, podemos controlar como consultas e modificações são realizadas, controlando-as. Para tal, podemos utilizar Métodos Getters e Setters – para recuperar dados e inserir dados, respectivamente. Para o primeiro, utiliza-se o Método Get; para o segundo, utiliza- se o Método Set. Em geral, costuma-se declarar atributos como privados, e métodos e classes como públicos.
+Utilizando métodos, podemos controlar como consultas e modificações são realizadas, controlando-as. Para tal, podemos utilizar Métodos Getters e Setters - para recuperar dados e inserir dados, respectivamente. Para o primeiro, utiliza-se o Método Get; para o segundo, utiliza- se o Método Set. Em geral, costuma-se declarar atributos como privados, e métodos e classes como públicos.
 
 Polimorfismo
 
@@ -336,7 +336,7 @@ public String EntendendoAssinatura ( int A , char B ) ;
 public String EntendendoAssinatura ( char B , int A ) ;
 
 
-Agora vamos ver um exemplo de Polimorfismo Dinâmico. Eu pensei comigo mesmo: O que seria uma característica comum de praticamente todos os animais? Emitir sons! Observem que eu criei uma classe abstrata que possui um único método – também abstrato –, que não retorna valor algum e não recebe nenhum argumento. Vejam a classe abaixo:
+Agora vamos ver um exemplo de Polimorfismo Dinâmico. Eu pensei comigo mesmo: O que seria uma característica comum de praticamente todos os animais? Emitir sons! Observem que eu criei uma classe abstrata que possui um único método - também abstrato -, que não retorna valor algum e não recebe nenhum argumento. Vejam a classe abaixo:
 
 
 abstract class Animal {
@@ -345,7 +345,7 @@ abstract void som ( ) ;
 
 }
 
-Dito isso, vou criar dois animais do meu gosto pessoal: um gato e um cachorro! Bem, o gato é um animal! Que relacionamento é esse “é um”? Herança! Portanto as classes gato e cachorro serão classes filhas da superclasse Animal. Observem abaixo que ambas implementam o método abstract void som( ), porém cada uma a sua maneira, visto que gatos e cachorros emitem sons diferentes!
+Dito isso, vou criar dois animais do meu gosto pessoal: um gato e um cachorro! Bem, o gato é um animal! Que relacionamento é esse "é um"? Herança! Portanto as classes gato e cachorro serão classes filhas da superclasse Animal. Observem abaixo que ambas implementam o método abstract void som( ), porém cada uma a sua maneira, visto que gatos e cachorros emitem sons diferentes!
 
 class Gato extends Animal {
 
@@ -367,7 +367,7 @@ System . out . println ( " AUAU! " ) ;
 
 }
 
-Pois bem! Vamos ver agora o Polimorfismo Dinâmico em ação. Criaremos um objeto do tipo Gato e atribuiremos a um objeto do tipo Animal. Professor, você pode fazer isso? Sim, porque Gato é filho de Animal – é similar a um casting implícito! Em seguida chamaremos o método som(). Por fim, faremos o mesmo procedimento com o objeto do tipo Cachorro.
+Pois bem! Vamos ver agora o Polimorfismo Dinâmico em ação. Criaremos um objeto do tipo Gato e atribuiremos a um objeto do tipo Animal. Professor, você pode fazer isso? Sim, porque Gato é filho de Animal - é similar a um casting implícito! Em seguida chamaremos o método som(). Por fim, faremos o mesmo procedimento com o objeto do tipo Cachorro.
 
 public static void main ( String [ ] args ) {
 
@@ -381,7 +381,7 @@ animal . som ( ) ; // Emite o som AUAU!
 
 }
 
-Olha que bacana: existem dois métodos com exatamente o mesmo nome e mesma assinatura! Como o compilador saberá qual deve ser chamado? Ele não saberá – tem que ser em tempo de execução. No primeiro momento, ele apresentará “MIAU!”, porque animal é nesse instante um gato. Depois fazemos outra atribuição e ele apresentará “AUAU”, porque animal naquele instante é um cachorro.
+Olha que bacana: existem dois métodos com exatamente o mesmo nome e mesma assinatura! Como o compilador saberá qual deve ser chamado? Ele não saberá - tem que ser em tempo de execução. No primeiro momento, ele apresentará "MIAU!", porque animal é nesse instante um gato. Depois fazemos outra atribuição e ele apresentará "AUAU", porque animal naquele instante é um cachorro.
 
 O Polimorfismo Estático é bem mais simples! Imaginem que eu deseje fazer dois cálculos matemáticos. Primeiro somar três números e depois somar apenas dois números. Eu posso ter dois métodos com mesmo nome, mas assinaturas diferentes. Dessa forma, se eu passar três valores, ele saberá que é um método; e se eu passar dois valores, ele saberá que é outro método. Simples, não?
 
@@ -397,7 +397,7 @@ Esse exemplo ilustrou a Herança Simples! Neste caso, uma entidade herda estados
 
 Imagine um Empregado chamado José de uma empresa qualquer. Para ser mais específico, pense em José como sendo tanto Gerente quanto Contador simultaneamente dessa empresa. Ele herdaria as capacidades de um Gerente e de um Contador, concordam? Portanto, em uma hierarquia de entidades, João herdaria de duas classes diferentes diretamente, como apresenta a imagem abaixo:
 
-A sintaxe da herança sugere que você pode estender uma e somente uma classe. O Java não suporta Herança Múltipla, porque – segundo projetistas da linguagem – esse tipo de implementação poderia gerar confusão. Imagine, por exemplo, duas classes-base declarando um atributo que possua o mesmo nome, mas com tipos diferentes. Qual dos dois a classe-filha deveria herdar?
+A sintaxe da herança sugere que você pode estender uma e somente uma classe. O Java não suporta Herança Múltipla, porque - segundo projetistas da linguagem - esse tipo de implementação poderia gerar confusão. Imagine, por exemplo, duas classes-base declarando um atributo que possua o mesmo nome, mas com tipos diferentes. Qual dos dois a classe-filha deveria herdar?
 
 A mesma situação poderia acontecer com um método! Se dois métodos possuíssem o mesmo nome, mas diferentes listas de parâmetros ou tipos de retorno, qual deles a subclasse deveria herdar? Vocês percebem como isso poderia causar inconsistências de projeto? Para prevenir tais problemas, a linguagem Java rejeita a implementação de herança múltipla.
 

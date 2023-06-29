@@ -157,13 +157,13 @@ de inatividade por mês, incluindo aplicação de patches.
 
 O banco de dados autônomo traz vários benefícios.
 
-• Máximo tempo de atividade, desempenho e segurança, incluindo patches e correções
+* Máximo tempo de atividade, desempenho e segurança, incluindo patches e correções
 automáticas
 
-• Eliminação de tarefas de gerenciamento manuais e propensas a erros por meio da
+* Eliminação de tarefas de gerenciamento manuais e propensas a erros por meio da
 automação
 
-• Custos reduzidos e produtividade aprimorada ao automatizar tarefas do dia a dia
+* Custos reduzidos e produtividade aprimorada ao automatizar tarefas do dia a dia
 
 O Oracle Autonomous Database é executado nativamente na Oracle Cloud
 Infrastructure,
@@ -358,7 +358,7 @@ Uma dessas perguntas seria: qual o tipo da edição de banco de dados (database
 edition) você
 deseja? Você deve escolher entre uma das opções abaixo:
 
-• Enterprise Edition - Esse tipo de instalação vai configurar todas as
+* Enterprise Edition - Esse tipo de instalação vai configurar todas as
 funcionalidades do
 produto Oracle Database que prover gerenciamento de dados em nível empresarial. Sua
 intenção é
@@ -366,7 +366,7 @@ garantir o desempenho e a segurança para sistemas transacionais (OLTP) e ambien
 Data
 Warehousing (OLAP).
 
-• Standard Edition - Esse tipo de instalação se encaixa perfeitamente em aplicações de
+* Standard Edition - Esse tipo de instalação se encaixa perfeitamente em aplicações de
 nível
 departamental ou utilizada por grupos de trabalho. Visa também o atendimento das
 demandas de
@@ -376,7 +376,7 @@ gerenciamento de dados. Podem ser inclusos algumas ferramentas de gerenciamento,
 replicação,
 funcionalidades Web e outras facilidades para aplicações comerciais.
 
-• Standard One Edition - Essa instalação é perfeita para grupos de trabalho,
+* Standard One Edition - Essa instalação é perfeita para grupos de trabalho,
 departamentos
 ou aplicações web. Ela provê o core dos serviços e opções para gerenciamento e banco
 de dados
@@ -384,7 +384,7 @@ relacionais em ambientes de servidor único (single-server) ou extremamente
 distribuídos. A
 instalação inclui todas as facilidades necessárias para construir uma aplicação de negócio crítica.
 
-• Personal Edition - Apenas para o sistema operacional Windows. Essa instalação é
+* Personal Edition - Apenas para o sistema operacional Windows. Essa instalação é
 composta
 das mesmas funcionalidades do Enterprise Edition, mas suporta apenas um usuário
 (single-user).
@@ -793,13 +793,13 @@ tabelas e índices, estão fisicamente armazenados em arquivos de dados.
 
 As características dos arquivos de dados são:
 
-• Um arquivo de dados pode ser associado com apenas um banco de dados.
+* Um arquivo de dados pode ser associado com apenas um banco de dados.
 
-• Arquivos de Dados podem ter certas características definidas para deixá-los estender
+* Arquivos de Dados podem ter certas características definidas para deixá-los estender
 ou
 crescer, automaticamente, quando o banco de dados fica sem espaço.
 
-• Um ou mais arquivos de dados formam uma unidade lógica de armazenamento de banco
+* Um ou mais arquivos de dados formam uma unidade lógica de armazenamento de banco
 de
 dados chamada tablespace.
 
@@ -922,7 +922,7 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 04 (Prof. Thiago Cavalcanti)
 
-{ [ 'filename' | ’ASM_filename' ]
+{ [ 'filename' | 'ASM_filename' ]
 
 [ SIZE integer [K|M|G|T|P|EJ]
 [ REUSE ]
@@ -1037,11 +1037,11 @@ contém entradas que especificam a estrutura física do banco de dados. Por exem
 contém as
 seguintes informações:
 
-• Nome do banco
+* Nome do banco
 
-• Nomes e localizações de arquivos de dados e arquivos de log de redo
+* Nomes e localizações de arquivos de dados e arquivos de log de redo
 
-• Carimbo de tempo da criação de banco de dados
+* Carimbo de tempo da criação de banco de dados
 
 O banco de dados Oracle pode fazer multiplex do arquivo de controle, ou
 seja, manter
@@ -1391,7 +1391,7 @@ segmento é um conjunto de extensões alocadas para uma determinada estrutura l�
 lista a
 seguir descreve os diferentes tipos de segmentos.
 
-• Segmento de dados - Cada tabela sem clusters tem um segmento de dados. Todos os dados
+* Segmento de dados - Cada tabela sem clusters tem um segmento de dados. Todos os dados
 de uma tabela são armazenados nas extensões de segmento de dados. Para uma tabela com
 partições, cada partição tem um segmento de dados. Cada cluster também tem um segmento
 de
@@ -1399,11 +1399,11 @@ dados. Os dados de todas as tabelas de um cluster são armazenados no segmento d
 dados do
 cluster.
 
-• Segmento de índice - Cada índice tem um segmento de índice que armazena todos os
+* Segmento de índice - Cada índice tem um segmento de índice que armazena todos os
 seus
 dados. Para um índice particionado, cada partição tem um segmento de índice.
 
-• Segmento temporário - Segmentos temporários são criados pela Oracle quando
+* Segmento temporário - Segmentos temporários são criados pela Oracle quando
 uma
 instrução SQL precisa de uma área de banco de dados temporária para concluir a
 execução. Quando
@@ -1411,7 +1411,7 @@ a instrução termina, as extensões do segmento temporário são devolvidas ao 
 uso
 futuro.
 
-• Segmento de rollback - Se você estiver operando no modo de gerenciamento automático
+* Segmento de rollback - Se você estiver operando no modo de gerenciamento automático
 de
 undo, o servidor de banco de dados gerencia o desfazer com a utilização de
 tablespaces. A Oracle
@@ -1611,11 +1611,11 @@ de dados. Por exemplo, um dicionário de dados armazena informações sobre a es
 lógica e
 física do banco de dados. Um dicionário de dados também armazena as seguintes informações:
 
-• Os usuários válidos de um banco de dados Oracle
+* Os usuários válidos de um banco de dados Oracle
 
-• Informações sobre restrições de integridade definidas para tabelas no banco de dados
+* Informações sobre restrições de integridade definidas para tabelas no banco de dados
 
-• A quantidade de espaço alocado para um objeto de esquema e quanto está em uso
+* A quantidade de espaço alocado para um objeto de esquema e quanto está em uso
 
 Um dicionário de dados é criado quando uma base de dados é criada. Para refletir com precisão
 o status do banco de dados em todos os momentos, o dicionário de dados
@@ -2396,11 +2396,11 @@ na memória, menos operações de l/O em disco são necessárias, e o desempenho
 
 Os blocos de dados, preservados no Buffer Cache, podem adquirir três tipos de estados:
 
-• Buffers sujos (Dirty Buffers)
+* Buffers sujos (Dirty Buffers)
 
-• Buffers livres (Free Buffers)
+* Buffers livres (Free Buffers)
 
-• Buffers fixados (Pinned Buffers).
+* Buffers fixados (Pinned Buffers).
 
 Buffers sujos contêm blocos de dados alterados ou acrescentados, devido a uma instrução
 DML, que ainda não foram submetidos a commit. Esse buffer não pode ser reutilizado
@@ -2922,11 +2922,11 @@ na memória, menos operações de l/O em disco são necessárias, e o desempenho
 
 Os blocos de dados, preservados no Buffer Cache, podem adquirir três tipos de estados:
 
-• Buffers sujos (Dirty Buffers)
+* Buffers sujos (Dirty Buffers)
 
-• Buffers livres (Free Buffers)
+* Buffers livres (Free Buffers)
 
-• Buffers fixados (Pinned Buffers).
+* Buffers fixados (Pinned Buffers).
 
 Buffers sujos contêm blocos de dados alterados ou acrescentados, devido a uma instrução
 DML, que ainda não foram submetidos a commit. Esse buffer não pode ser reutilizado
@@ -3908,7 +3908,7 @@ as informações modificadas na memória estão armazenadas fisicamente no disco
 realizada
 nas seguintes condições:
 
-• Quando ocorre um Log Switch. Um Log Switch (troca de log) acontece quando o Oracle
+* Quando ocorre um Log Switch. Um Log Switch (troca de log) acontece quando o Oracle
 troca
 de um redo log para outro. Enquanto isso, o servidor permanece gravando novas
 transações em
@@ -3919,9 +3919,9 @@ arquivo de parâmetros);
 
 ■ Quando acontece um shutdown;
 
-• O DBA força um checkpoint;
+* O DBA força um checkpoint;
 
-• Quando a Tablespace é passada para Offline.
+* Quando a Tablespace é passada para Offline.
 
 O processo de Checkpoint é habilitado através do parâmetro CHECKPOINT_PROCESS. Veja a
 figura abaixo com detalhes sobre o CKPT:
@@ -4201,7 +4201,7 @@ SELECT COUNTf*)
 
 FROM employees
 
-WHERE phone_number LIKE *650%’;
+WHERE phone_number LIKE *650%';
 
 Item. 3. BANCA: FCC ANO: 2013 ÓRGÃO: MPE-MA PROVA: ANALISTA JUDICIÁRIO BANCO DE DADOS
 
@@ -4781,7 +4781,7 @@ seja arquivado. Um grupo preenchido fica disponível para arquivamento imediatam
 log de redo ocorrer. O
 arquivamento tem estas vantagens:
 
-• Um backup de banco de dados, junto com arquivos de redo log online e arquivados, garante que você
+* Um backup de banco de dados, junto com arquivos de redo log online e arquivados, garante que você
 possa recuperar todas
 as transações confirmadas no caso de um sistema operacional ou falha de disco.
 
@@ -4800,11 +4800,11 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 04 (Prof. Thiago Cavalcanti)
 
-• Se você mantiver um log arquivado, poderá usar um backup feito enquanto o banco de dados
+* Se você mantiver um log arquivado, poderá usar um backup feito enquanto o banco de dados
 está aberto e em uso normal
 do sistema.
 
-• Você pode manter um banco de dados de reserva atualizado com seu banco de dados original
+* Você pode manter um banco de dados de reserva atualizado com seu banco de dados original
 aplicando continuamente os
 logs de redo arquivados originais ao banco de dados de reserva (secundário).
 
@@ -5046,19 +5046,19 @@ banco de dados e são exibidos em relatórios e visualizações. As estatística
 coletadas e
 processadas pelo AWR incluem:
 
-• Estatísticas de objeto que determinam estatísticas de acesso e uso de segmentos
+* Estatísticas de objeto que determinam estatísticas de acesso e uso de segmentos
 do banco
 de dados;
 
-• Estatísticas do modelo de tempo com base no uso de tempo das atividades;
+* Estatísticas do modelo de tempo com base no uso de tempo das atividades;
 
-• Algumas das estatísticas do sistema e da sessão;
+* Algumas das estatísticas do sistema e da sessão;
 
-• Instruções SQL que estão produzindo a carga mais alta no sistema, com base em
+* Instruções SQL que estão produzindo a carga mais alta no sistema, com base em
 critérios
 como tempo decorrido e tempo de CPU;
 
-• Estatísticas do histórico de sessões ativas (ASH), representando o histórico da
+* Estatísticas do histórico de sessões ativas (ASH), representando o histórico da
 atividade de
 sessões recentes.
 
@@ -6863,29 +6863,29 @@ usuário pode editar um arquivo de controle. Entre outras coisas, um arquivo
 de controle
 contém informações como:
 
-• O nome do banco de dados
+* O nome do banco de dados
 
-• O registro de data e hora da criação do banco de dados
+* O registro de data e hora da criação do banco de dados
 
-• Os nomes e localizações de arquivos de dados associados e arquivos de redo log
+* Os nomes e localizações de arquivos de dados associados e arquivos de redo log
 
-• Informação de espaço de tabelas
+* Informação de espaço de tabelas
 
-• Intervalos offline de arquivos de dados
+* Intervalos offline de arquivos de dados
 
-• O histórico de log
+* O histórico de log
 
-• Informação de log arquivada
+* Informação de log arquivada
 
-• Conjunto de backup e informações de peça de backup
+* Conjunto de backup e informações de peça de backup
 
-• Arquivo de dados de backup e informações de log de redo
+* Arquivo de dados de backup e informações de log de redo
 
-• Informações de cópia do arquivo de dados
+* Informações de cópia do arquivo de dados
 
-• O número de sequência do log atual
+* O número de sequência do log atual
 
-• Informação do ponto de verificação
+* Informação do ponto de verificação
 
 Gabarito: A
 
@@ -7102,11 +7102,11 @@ de controle contém entradas que especificam a estrutura física do banco de
 dados. Por
 exemplo, ele contém as seguintes informações:
 
-• Nome do banco
+* Nome do banco
 
-• Nomes e localizações de arquivos de dados e arquivos de log de redo
+* Nomes e localizações de arquivos de dados e arquivos de log de redo
 
-• Carimbo de tempo da criação de banco de dados
+* Carimbo de tempo da criação de banco de dados
 
 Gabarito: C
 

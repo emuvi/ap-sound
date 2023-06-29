@@ -217,7 +217,7 @@ n
 
 H - . 111 1
 
-1 1 1" •• H
+1 1 1" ** H
 
 *1 2 3
 
@@ -240,9 +240,9 @@ números, estando estes dispostos segundo uma ordem.
 > Estando ordenados os dados numéricos e sendo n o número de elementos, o valor
 mediano será:
 
-• O termo de ordem se n por ímpar.
+* O termo de ordem se n por ímpar.
 
-• A média aritmética dos termos de ordem e + 1, se n for par.
+* A média aritmética dos termos de ordem e + 1, se n for par.
 
 > O valor da mediana pode coincidir ou não com um elemento da série.
 Quando o
@@ -278,13 +278,13 @@ fi
 
 Em que:
 
-• li é o limite inferior da classe mediana.
+* li é o limite inferior da classe mediana.
 
-• f acanté a frequência acumulada da classe anterior à classe mediana.
+* f acanté a frequência acumulada da classe anterior à classe mediana.
 
-• f i é a frequência simples da classe mediana.
+* f i é a frequência simples da classe mediana.
 
-• h é a amplitude da classe mediana.
+* h é a amplitude da classe mediana.
 
 Item. 7. Moda
 
@@ -371,7 +371,7 @@ n
 
 > Símbolos para variância e desvio padrão
 
-• Variância populacional: a2
+* Variância populacional: a2
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
 
@@ -383,11 +383,11 @@ www. estrategiaconcursos. com.br
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 Aula 05
 
-• Variância Amostrai: S2
+* Variância Amostrai: S2
 
-• Desvio padrão populacional: a
+* Desvio padrão populacional: a
 
-• Desvio padrão Amostrai: S
+* Desvio padrão Amostrai: S
 
 
 > Variância Populacional:
@@ -529,7 +529,7 @@ h = e(X) = ^Xi.pm
 t=i
 
 
-• Esta expressão significa que, para calcular a esperança de uma variável aleatória,
+* Esta expressão significa que, para calcular a esperança de uma variável aleatória,
 devemos multiplicar cada valor da variável pela sua respectiva probabilidade e
 depois somar tudo.
 
@@ -634,13 +634,13 @@ atributo e, portanto, N - s possuem o atributo fracasso.
 
 > Resumindo:
 
-• Temos um conjunto com N elementos dos quais s possuem o atributo sucesso
+* Temos um conjunto com N elementos dos quais s possuem o atributo sucesso
 
 e N -s possuem o atributo fracasso.
 
-• Serão retirados n elementos do conjunto sem reposição.
+* Serão retirados n elementos do conjunto sem reposição.
 
-• Queremos calcular a probabilidade de obtermos k sucessos.
+* Queremos calcular a probabilidade de obtermos k sucessos.
 
 > Assim, a probabilidade de obtermos um sucesso (no primeiro experimento) é igual a
 p
@@ -720,7 +720,7 @@ www. estrategiaconcursos. com.br
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 Aula 05
 
-• Em que e é uma constante (número de Euler) e vale aproximadamente
+* Em que e é uma constante (número de Euler) e vale aproximadamente
 2,718....
 
 Estimação Intervalar e Testes de Hipóteses

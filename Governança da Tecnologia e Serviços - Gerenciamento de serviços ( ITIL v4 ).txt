@@ -234,7 +234,7 @@ entrega e suporte de serviços; monitoramento e melhoria contínua do serviço
 
 Comentários: Essa questão cobra exatamente as mudanças trazidas pela ITIL 4. Neste framework não há
 mais o conceito do
-ciclo “estratégia, desenho, transição, operação e melhoria contínua", 0 que torna a questão ERRADA,
+ciclo "estratégia, desenho, transição, operação e melhoria contínua", 0 que torna a questão ERRADA,
 embora 0 trecho inicial
 (Quanto ao aspecto de abrangência, de forma similar ao COBIT 5, a ITIL 4 descreve uma abordagem
 holística no gerenciamento
@@ -261,15 +261,15 @@ esforço de gerenciamento ou interação do provedor.
 Vamos focar nos Conceitos-Chave de Gestão de Serviços. Eles se aplicam a todas as organizações,
 independentemente de seu tipo ou tecnologias empregadas. São eles:
 
-• Valor e Cocriação de Valor;
+* Valor e Cocriação de Valor;
 
-• Organizações, Provedores, Consumidores e outros Stakeholders;
+* Organizações, Provedores, Consumidores e outros Stakeholders;
 
-• Produtos e Serviços;
+* Produtos e Serviços;
 
-• Relacionamentos de Serviços;
+* Relacionamentos de Serviços;
 
-• Resultados, Custos e Riscos.
+* Resultados, Custos e Riscos.
 
 Valor pode ser definido como benefícios, utilidade e importância percebidos em algo. Já
 cocriação
@@ -435,13 +435,13 @@ perspectivas críticas para a promoção eficiente e eficaz de valor, para os cl
 outras partes
 interessadas, na forma de produtos e serviços.
 
-• Organizações e Pessoas;
+* Organizações e Pessoas;
 
-• Informação e Tecnologia;
+* Informação e Tecnologia;
 
-• Parceiros e Fornecedores;
+* Parceiros e Fornecedores;
 
-• Fluxos de Valore Processos.
+* Fluxos de Valore Processos.
 
 Social
 factors
@@ -513,13 +513,13 @@ serviços.
 - As tecnologias específicas dependem da natureza do serviço sendo oferecido,
 podendo incluirtecnologias "de ponta" como:
 
-• Blockchain
+* Blockchain
 
-• Inteligência Artificial
+* Inteligência Artificial
 
-• Aprendizado de Máquina
+* Aprendizado de Máquina
 
-• Cloud Computing
+* Cloud Computing
 
 - Toda organização depende, em algum nível, de serviços oferecidos por outras
 organizações.
@@ -540,9 +540,9 @@ produtos e serviços a seus consumidores.
 - Um Processo é uma série de atividades inter-relacionadas que transforma entradas
 em saídas.
 
-• Definem uma sequência de ações e suas dependências.
+* Definem uma sequência de ações e suas dependências.
 
-• Geralmente são detalhados na forma de procedimentos ou práticas.
+* Geralmente são detalhados na forma de procedimentos ou práticas.
 
 É importante mostrar a tabela de Relacionamentos entre organizações que está
 contida na
@@ -1222,15 +1222,15 @@ atividades-chave necessárias para atender à demanda e criar valor por meio do
 gerenciamento de
 produtos e serviços, possuindo 6 atividades-chave:
 
-• Engajar,
+* Engajar,
 
-• Planejar,
+* Planejar,
 
-• Projeto e Transição,
+* Projeto e Transição,
 
-• Obter/Construir,
+* Obter/Construir,
 
-• Entregar e Suportar
+* Entregar e Suportar
 
 CVS é um modelo flexível que define seis atividades principais que podem ser
 combinadas de várias
@@ -1601,15 +1601,15 @@ Estratégia que define as metas e estratégias da organização. Algumas ativida
 especificas dessa
 meta são entre outras:
 
-• Analisar o ambiente para identificar oportunidades;
+* Analisar o ambiente para identificar oportunidades;
 
-• Identificar restrições e como elas podem ser removidas;
+* Identificar restrições e como elas podem ser removidas;
 
-• Definir missão, visão, perspectiva e posição;
+* Definir missão, visão, perspectiva e posição;
 
-• Decidir produtos/serviços a serem oferecidos ao mercado;
+* Decidir produtos/serviços a serem oferecidos ao mercado;
 
-• Garantir que a estratégia acompanha as mudanças no ambiente interno e externo.
+* Garantir que a estratégia acompanha as mudanças no ambiente interno e externo.
 
 Gerenciamento de Portfolio
 
@@ -1652,15 +1652,15 @@ entre uma
 organização e as respectivas partes interessadas em níveis estratégicos e táticos. Ela assegura
 que:
 
-• As necessidades dos stakeholders são conhecidas;
+* As necessidades dos stakeholders são conhecidas;
 
-• Os serviços são priorizados corretamente;
+* Os serviços são priorizados corretamente;
 
-• Existe alta satisfação de clientes;
+* Existe alta satisfação de clientes;
 
-• Reclamações em nível tático e/ou estratégico são gerenciadas corretamente;
+* Reclamações em nível tático e/ou estratégico são gerenciadas corretamente;
 
-• Conflitos entre stakeholders são mediados apropriadamente.
+* Conflitos entre stakeholders são mediados apropriadamente.
 
 Gerenciamento de Fornecedores
 
@@ -1739,11 +1739,11 @@ todos os projetos de uma organização sejam entregues a contento. A ITIL aborda
 modos
 diferentes de gerenciar projetos: Cascata e Ágil:
 
-• O modo Cascata funciona bem quando os requisitos são bem conhecidos, e a
+* O modo Cascata funciona bem quando os requisitos são bem conhecidos, e a
 estabilidade é mais
 importante do que a velocidade do trabalho.
 
-• O modo Ágil funciona melhor quando os requisitos são incertos, e a velocidade
+* O modo Ágil funciona melhor quando os requisitos são incertos, e a velocidade
 de entrega é
 mais importante do que especificações muito precisas.
 
@@ -1935,11 +1935,11 @@ A segurança necessária é alcançada por meio de políticas, processos, compor
 gestão de
 riscos e controles. É necessário manter um equilíbrio entre:
 
-• Prevenção: garantir que um incidente de segurança não ocorra.
+* Prevenção: garantir que um incidente de segurança não ocorra.
 
-• Detecção: detectar um incidente de segurança que não foi prevenido.
+* Detecção: detectar um incidente de segurança que não foi prevenido.
 
-• Correção: recuperar-se de incidentes de segurança após sua ocorrência.
+* Correção: recuperar-se de incidentes de segurança após sua ocorrência.
 
 PRESTE MAIS ~
 
@@ -1978,11 +1978,11 @@ parceiros e fornecedores, etc. Conceitos importantes relacionados à medição e
 são: Fator
 Crítico de Sucesso e Indicador Chave de Desempenho.
 
-• Fator Crítico de Sucesso (CSF)3:Uma precondição necessária para o atingimento de
+* Fator Crítico de Sucesso (CSF)3:Uma precondição necessária para o atingimento de
 resultados
 esperados.
 
-• Indicador Chave de Desempenho (KPI) 4:Uma métrica importante para avaliar a
+* Indicador Chave de Desempenho (KPI) 4:Uma métrica importante para avaliar a
 probabilidade
 de se atingir um resultado esperado.
 
@@ -1996,13 +1996,13 @@ serviços.
 
 São exemplos de atividades típicas da prática melhoria contínua:
 
-• Identificar oportunidades de melhoria;
+* Identificar oportunidades de melhoria;
 
-• Fazer um plano para a implementação de melhorias;
+* Fazer um plano para a implementação de melhorias;
 
-• Medir e avaliar os resultados de melhoria;
+* Medir e avaliar os resultados de melhoria;
 
-• Coordenar atividades de melhoria na organização.
+* Coordenar atividades de melhoria na organização.
 
 3 Sigla em inglês: Criticai Success Fator (CSF))
 
@@ -2176,11 +2176,11 @@ soluções em busca de criar valor para o cliente ou facilitar seus resultados. 
 análise de negócio
 permite:
 
-• Comunicar necessidades de maneira compreensível;
+* Comunicar necessidades de maneira compreensível;
 
-• Expressar razões para mudanças;
+* Expressar razões para mudanças;
 
-• Descrever soluções que permitem a criação de valor.
+* Descrever soluções que permitem a criação de valor.
 
 A análise de negócio pode serfocada em Requisitos de Utilidade ou Garantia.
 
@@ -2211,13 +2211,13 @@ funcionar para que eles possam ser entregues a contento. Nesta etapa define-se c
 serviço vai
 funcionartecnicamente. Inclui o planejamento de:
 
-• Pessoas, parceiros e fornecedores;
+* Pessoas, parceiros e fornecedores;
 
-• Informação;
+* Informação;
 
-• Comunicação;
+* Comunicação;
 
-• Tecnologias.
+* Tecnologias.
 
 Design Thinking é uma das principais técnicas utilizadas no projeto de um novo
 serviço. Consiste
@@ -2334,15 +2334,15 @@ identifica os serviços entregues e seus respectivos níveis. Exemplos de
 métricas de
 acompanhamento para níveis de serviço:
 
-• Engajamento de Clientes (tempo de uso, taxa de retorno);
+* Engajamento de Clientes (tempo de uso, taxa de retorno);
 
-• Satisfação de Clientes;
+* Satisfação de Clientes;
 
-• Métricas Operacionais (disponibilidade, tempo para resolver
+* Métricas Operacionais (disponibilidade, tempo para resolver
 incidentes, tempo de
 processamento, etc.);
 
-• Métricas de Negócio (o quão efetivo está sendo o serviço).
+* Métricas de Negócio (o quão efetivo está sendo o serviço).
 
 Gerenciamento de Capacidade e Desempenho
 
@@ -2519,11 +2519,11 @@ serviços. O controle de mudanças visa maximizar o número de mudanças de suce
 serviços,
 assegurando:
 
-• Avaliação de riscos;
+* Avaliação de riscos;
 
-• Autorização de mudanças;
+* Autorização de mudanças;
 
-• Agendamento de mudanças.
+* Agendamento de mudanças.
 
 A ideia é controlar as mudanças de forma que não sejam realizadas mudanças não
 aprovadas.
@@ -2568,11 +2568,11 @@ O gerenciamento de Ativos de TI visa planejar e gerenciar o ciclo de vida comple
 de todos ativos
 de TI, ajudando a organização a:
 
-• Maximizar valor, controlar custos e gerenciar riscos;
+* Maximizar valor, controlar custos e gerenciar riscos;
 
-• Tomar decisões sobre ativos (compra, reuso, aposentadoria, etc.);
+* Tomar decisões sobre ativos (compra, reuso, aposentadoria, etc.);
 
-• Cumprir requisitos regulatórios e contratuais.
+* Cumprir requisitos regulatórios e contratuais.
 
 NOVIDADE
 
@@ -2672,13 +2672,13 @@ para suportar o gerenciamento de configuração. O gerenciamento de configuraç�
 tipicamente
 precisa:
 
-• Identificar itens de configuração;
+* Identificar itens de configuração;
 
-• Atualizar dados de configuração quando o item é implantado;
+* Atualizar dados de configuração quando o item é implantado;
 
-• Verificar se os registros de configuração estão corretos;
+* Verificar se os registros de configuração estão corretos;
 
-• Auditar aplicações e infraestrutura para identificar itens que não estão documentados.
+* Auditar aplicações e infraestrutura para identificar itens que não estão documentados.
 
 SERPRO (Analista - Especialização: Tecnologia) Governança de TI - 2023 (Pós-Edital)
 
@@ -2806,17 +2806,17 @@ segurança, etc.) e podem ser resolvidos por diferentes grupos ou pessoas. São
 grupos de resolução
 de incidentes:
 
-• Os próprios usuários (utilizando autoajuda);
+* Os próprios usuários (utilizando autoajuda);
 
-• Central de Serviços (primeiro nível);
+* Central de Serviços (primeiro nível);
 
-• Especialistas de Suporte (segundo/terceiro nível);
+* Especialistas de Suporte (segundo/terceiro nível);
 
-• Fornecedores e terceirizados;
+* Fornecedores e terceirizados;
 
-• Em alguns casos pode ser necessária uma equipe com vários representantes;
+* Em alguns casos pode ser necessária uma equipe com vários representantes;
 
-• Em casos extremos, pode ser necessário ativar o plano de recuperação de desastres.
+* Em casos extremos, pode ser necessário ativar o plano de recuperação de desastres.
 
 (FGV / TJDFT - 2022) A prática do ITIL versão 4 que tem por objetivo minimizar o
 impacto negativo de uma
@@ -3063,17 +3063,17 @@ Uma requisição de serviço consiste em uma requisição de um usuário, ou seu
 representante, que
 inicia uma ação considerada como parte normal do serviço. Exemplos de requisição de serviços
 
-• Gerar um relatório;
+* Gerar um relatório;
 
-• Trocar um cartucho de tinta;
+* Trocar um cartucho de tinta;
 
-• Requisitar uma informação (por ex., como salvar um documento);
+* Requisitar uma informação (por ex., como salvar um documento);
 
-• Requisitar um equipamento (fone, computador, etc.);
+* Requisitar um equipamento (fone, computador, etc.);
 
-• Pedir acesso a um recurso (pasta, diretório, etc.);
+* Pedir acesso a um recurso (pasta, diretório, etc.);
 
-• Feedback, reclamação ou elogios.
+* Feedback, reclamação ou elogios.
 
 Central de Serviços
 
@@ -3085,7 +3085,7 @@ dos serviços. Capturar demandas de incidentes e requisições de serviço. Pode
 ser utilizadas várias
 tecnologias de comunicação:
 
-• Telefone, Chat, E-mail;
+* Telefone, Chat, E-mail;
 
 SERPRO (Analista - Especialização: Tecnologia) Governança de TI - 2023 (Pós-Edital)
 
@@ -3094,9 +3094,9 @@ www. estrategiaconcursos. com.br
 05152001900 - Everton Murilo Vieira
 
 
-• Portal Online, Aplicações Mobile;
+* Portal Online, Aplicações Mobile;
 
-• Rede Social, etc.
+* Rede Social, etc.
 
 í (PG-DF - 2021 - Adaptada) A central de serviço da ITIL é uma prática que visa ser
 o ponto principal de contato
@@ -3179,31 +3179,31 @@ O objetivo desta prática é assegurar que as aplicações atendem às
 necessidades de stakeholders
 internos e externos em termos de:
 
-• Funcionalidade;
+* Funcionalidade;
 
-• Confiabilidade;
+* Confiabilidade;
 
-• Manutenibilidade;
+* Manutenibilidade;
 
-• Conformidade;
+* Conformidade;
 
-• Auditabilidade.
+* Auditabilidade.
 
 São Atividades típicas:
 
-• Arquitetura de solução;
+* Arquitetura de solução;
 
-• Modelagem de solução;
+* Modelagem de solução;
 
-• Desenvolvimento de Software;
+* Desenvolvimento de Software;
 
-• Teste de Software (unidade, integração, sistema, etc.);
+* Teste de Software (unidade, integração, sistema, etc.);
 
-• Gerenciamento de repositórios de código;
+* Gerenciamento de repositórios de código;
 
-• Criação de pacotes de implantação;
+* Criação de pacotes de implantação;
 
-• Controle de versão.
+* Controle de versão.
 
 SERPRO (Analista - Especialização: Tecnologia) Governança de TI - 2023 (Pós-Edital)
 
@@ -3228,11 +3228,11 @@ Por fim, a última prática tem como proposito implantar componentes em
 ambiente de produção,
 tais como:
 
-• Hardware;
+* Hardware;
 
-• Software;
+* Software;
 
-• Documentação.
+* Documentação.
 
 Também pode envolver a implantação de componentes em outros ambientes,
 para testes ou
@@ -3379,11 +3379,11 @@ CO DISPONIBILIDADE, CAPACIDADE, NÍVEIS DE SEGURANÇA E CONTINUIDADE DO SERVIÇO
 O modelo 4 dimensões suporta uma abordagem holística.
 As quatro dimensões são:
 
-• Organizações e Pessoas;
+* Organizações e Pessoas;
 
-• Informação e Tecnologia;
+* Informação e Tecnologia;
 
-• Parceiros e Fornecedores;
+* Parceiros e Fornecedores;
 
 SERPRO (Analista - Especialização: Tecnologia) Governança de TI - 2023 (Pós-Edital)
 
@@ -3392,7 +3392,7 @@ www. estrategiaconcursos. com.br
 05152001900 - Everton Murilo Vieira
 
 
-• Fluxos de Valore Processos.
+* Fluxos de Valore Processos.
 
 Social
 factors
@@ -3434,13 +3434,13 @@ serviços.
 - As tecnologias específicas dependem da natureza do serviço sendo oferecido,
 podendo incluirtecnologias "de ponta" como:
 
-• Blockchain
+* Blockchain
 
-• Inteligência Artificial
+* Inteligência Artificial
 
-• Aprendizado de Máquina
+* Aprendizado de Máquina
 
-• Cloud Computing
+* Cloud Computing
 
 - Toda organização depende, em algum nível, de serviços oferecidos por outras
 organizações.
@@ -3468,9 +3468,9 @@ produtos e serviços a seus consumidores.
 - Um Processo é uma série de atividades inter-relacionadas que transforma entradas
 em saídas.
 
-• Definem uma sequência de ações e suas dependências.
+* Definem uma sequência de ações e suas dependências.
 
-• Geralmente são detalhados na forma de procedimentos ou práticas.
+* Geralmente são detalhados na forma de procedimentos ou práticas.
 
 Sistema de valor de serviços: modelo que representa o modo como
 todos os componentes e
@@ -3684,15 +3684,15 @@ Cadeia de valor de serviços
 
 6 atividades-chave:
 
-• Engajar,
+* Engajar,
 
-• Planejar,
+* Planejar,
 
-• Projeto e Transição,
+* Projeto e Transição,
 
-• Obter/Construir,
+* Obter/Construir,
 
-• Entregar e Suportar
+* Entregar e Suportar
 
 
 SERPRO (Analista - Especialização: Tecnologia) Governança de TI - 2023 (Pós-Edital)
@@ -4889,17 +4889,17 @@ as especificações
 e prazos.
 Além disso, são saídas dessa atividade:
 
-• Requisitos e especificações para a atividade "obter/construir"
+* Requisitos e especificações para a atividade "obter/construir"
 
-• Requisitos de contratos e acordos para a atividade "engajar"
+* Requisitos de contratos e acordos para a atividade "engajar"
 
-• Produtos e serviços novos e modificados para a atividade "entrega e suporte"
+* Produtos e serviços novos e modificados para a atividade "entrega e suporte"
 
-• Conhecimento e informação sobre produtos e serviços, novos e modificados, para todas as
+* Conhecimento e informação sobre produtos e serviços, novos e modificados, para todas as
 
-• Atividades da cadeia de valor
+* Atividades da cadeia de valor
 
-• Informação de desempenho e oportunidades de aperfeiçoamento para a atividade
+* Informação de desempenho e oportunidades de aperfeiçoamento para a atividade
 "melhorar
 
 Assim, foi possível verificar que as assertivas estão em conformidade aos objetivos do
@@ -6560,9 +6560,9 @@ tendência crescente de aplicar as melhores práticas nas empresas e nos negóci
 definindo
 quatro dimensões as quais devem ser consideradas para garantir uma abordagem holística
 a um
-tipo de gerenciamento, que engloba quatro dimensões: • Organizações e pessoas; •
+tipo de gerenciamento, que engloba quatro dimensões: * Organizações e pessoas; *
 Informação
-e tecnologia; • Parceiros e fornecedores; e • Fluxos de valor e processos. Esse
+e tecnologia; * Parceiros e fornecedores; e * Fluxos de valor e processos. Esse
 gerenciamento é
 do seguinte tipo:
 
@@ -8204,9 +8204,9 @@ tendência crescente de aplicar as melhores práticas nas empresas e nos negóci
 definindo
 quatro dimensões as quais devem serconsideradas para garantir uma abordagem holística a
 um
-tipo de gerenciamento, que engloba quatro dimensões: • Organizações e pessoas; •
+tipo de gerenciamento, que engloba quatro dimensões: * Organizações e pessoas; *
 Informação
-e tecnologia; • Parceiros e fornecedores; e • Fluxos de valor e processos. Esse
+e tecnologia; * Parceiros e fornecedores; e * Fluxos de valor e processos. Esse
 gerenciamento é
 do seguinte tipo:
 

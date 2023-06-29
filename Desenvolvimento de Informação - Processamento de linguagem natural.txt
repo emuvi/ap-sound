@@ -214,9 +214,9 @@ contém várias informações que podem ser extraídas ao analisá-la. Algumas p
 podem
 ser respondidas olhando esses dados são as seguintes:
 
-• Quantas saudações de Ano Novo foram enviadas por SMS no dia 1 de janeiro?
+* Quantas saudações de Ano Novo foram enviadas por SMS no dia 1 de janeiro?
 
-• Quantas pessoas foram contatadas cujo nome não consta da lista de contatos?
+* Quantas pessoas foram contatadas cujo nome não consta da lista de contatos?
 
 A arte de extrair percepções úteis de qualquer dado de texto pode ser chamada de análise de texto.
 PLN, por outro lado, não se restringe apenas aos dados de texto. O reconhecimento e a análise de
@@ -237,11 +237,11 @@ linguagem natural (NLG - Natural Language Generation). Uma explicação adequada
 termos
 é fornecida da seguinte forma:
 
-• NLU: NLU se refere a um processo pelo qual um objeto inanimado com poder de
+* NLU: NLU se refere a um processo pelo qual um objeto inanimado com poder de
 computação
 é capaz de compreender a linguagem falada.
 
-• NLG : NLG refere-se a um processo pelo qual um objeto inanimado com poder de computação
+* NLG : NLG refere-se a um processo pelo qual um objeto inanimado com poder de computação
 é capaz de manifestar seus pensamentos em uma linguagem que os humanos são capazes
 de entender.
 
@@ -439,9 +439,9 @@ r 1
 Classificação de
 texto
 
-• Análise de sentimento
+* Análise de sentimento
 
-• Detecção de idioma
+* Detecção de idioma
 
 h á
 
@@ -541,7 +541,7 @@ modelo
 
 Deployment Avaliação
 
-» •
+» *
 
 Modelagem
 
@@ -794,10 +794,10 @@ do stemming. Os erros mais comuns associados ao processo de stemming podem ser
 divididos em
 dois grupos:
 
-• Overstemming: acontece quando a cadeia de caracteres removida não era um sufixo,
+* Overstemming: acontece quando a cadeia de caracteres removida não era um sufixo,
 mas parte do stem. Isto pode resultar na conflação de termos não relacionados.
 
-• Understemming-. acontece quando um sufixo não é removido. Isto geralmente
+* Understemming-. acontece quando um sufixo não é removido. Isto geralmente
 causa
 uma falha na conflação de palavras relacionadas
 
@@ -1153,7 +1153,7 @@ distribuída
 
 Palavras que ocorrem em contextos semelhantes têm
 significados semelhantes. Por exemplo, as palavras em
-inglês “cachorro" e "gato" ocorrem em contextos
+inglês "cachorro" e "gato" ocorrem em contextos
 semelhantes. Assim, de acordo com a hipótese distributiva,
 deve haver uma forte semelhança entre os significados
 dessas duas palavras.
@@ -1176,7 +1176,7 @@ Um mapeamento entre o espaço vetorial proveniente da
 representação distribucional e o espaço vetorial
 proveniente da representação distribuída.
 
-i • Conjunto de métodos de PLN que objetivam aprender as
+i * Conjunto de métodos de PLN que objetivam aprender as
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
@@ -1272,7 +1272,7 @@ escritas. Os sinais de pontuação, como o ponto de exclamação ("!"), são tok
 não palavras,
 porque você não pode pronunciá-los isoladamente. Palavras e token são frequentemente
 usados
-alternadamente no PLN. Na verdade, quando você vê “palavra" no texto da PLN,
+alternadamente no PLN. Na verdade, quando você vê "palavra" no texto da PLN,
 geralmente significa
 "token", porque a maioria das tarefas da PLN lida apenas com texto escrito que é
 processado de
@@ -1520,21 +1520,21 @@ a codificação one-hot é intuitiva de entender e direta de implementar. No ent
 sofre de
 algumas deficiências:
 
-• O tamanho de um vetor one-hot é diretamente proporcional ao tamanho do
+* O tamanho de um vetor one-hot é diretamente proporcional ao tamanho do
 vocabulário, e a
 maioria dos corporas do mundo real tem grandes vocabulários. Isso resulta em
 uma
 representação esparsa em que a maioria das entradas nos vetores são zeros, tornando-se
 computacionalmente ineficiente para armazenar, computar e aprender.
 
-• Esta representação não fornece uma representação de comprimento fixo para o texto, ou
+* Esta representação não fornece uma representação de comprimento fixo para o texto, ou
 
 seja, se um texto contém 10 palavras, você obtém uma representação mais longa do que
 um
 texto com 5 palavras. Para boa parte dos algoritmos de aprendizagem, precisamos que os
 vetores de características tenham o mesmo comprimento.
 
-• Ele trata as palavras como unidades atômicas e não tem noção de (des)
+* Ele trata as palavras como unidades atômicas e não tem noção de (des)
 similaridade entre as
 palavras. Por exemplo, considere três palavras: executar, correr e maçã. Executar e
 correr
@@ -1556,7 +1556,7 @@ www. estrategiaconcursos. com. br
 Thiago Rodrigues Cavalcanti
 Aula 12 (Prof. Thiago Cavalcanti)
 
-• Digamos que treinamos um modelo usando nosso corpus de exemplo. Em tempo
+* Digamos que treinamos um modelo usando nosso corpus de exemplo. Em tempo
 de
 execução, recebemos uma frase: "homem come frutas". Os dados de treinamento
 não
@@ -1634,9 +1634,9 @@ Come = 6 [00000 1]
 
 Vejamos algumas das vantagens dessa codificação:
 
-• Como a codificação one-hot, o BoW é bastante simples de entender e implementar.
+* Como a codificação one-hot, o BoW é bastante simples de entender e implementar.
 
-• Com esta representação, documentos com as mesmas palavras terão suas representações
+* Com esta representação, documentos com as mesmas palavras terão suas representações
 vetoriais mais próximas entre si no espaço euclidiano em comparação com documentos com
 palavras completamente diferentes. A distância entre Di e Ü2Ó 0 em comparação com a
 distância entre Di e D 4, que é 2. Perceba que o espaço vetorial resultante do
@@ -1647,27 +1647,27 @@ vocabulário semelhante, eles estarão mais próximos um do outro no espaço vet
 vice-
 versa.
 
-• Temos uma codificação de comprimento fixo para qualquer frase de comprimento arbitrário.
+* Temos uma codificação de comprimento fixo para qualquer frase de comprimento arbitrário.
 
 No entanto, ele também tem suas desvantagens:
 
-• O tamanho do vetor aumenta com o tamanho do vocabulário. Portanto, a dispersão
+* O tamanho do vetor aumenta com o tamanho do vocabulário. Portanto, a dispersão
 continua
 a ser um problema. Uma maneira de controlá-la é limitando o vocabulário a um número
 n das
 palavras mais frequentes.
 
-• Não captura a semelhança entre palavras diferentes que significam a mesma coisa.
+* Não captura a semelhança entre palavras diferentes que significam a mesma coisa.
 Digamos
 que temos três documentos: "Eu corro", "Eu corri" e "Eu comi". Os vetores BoW de
 todos os
 três documentos estarão igualmente separados.
 
-• Essa representação não tem como lidar com palavras fora do vocabulário (ou seja,
+* Essa representação não tem como lidar com palavras fora do vocabulário (ou seja,
 palavras
 novas que não foram vistas no corpus).
 
-• Como o nome indica, é um "saco" de palavras - as informações sobre a ordem das
+* Como o nome indica, é um "saco" de palavras - as informações sobre a ordem das
 palavras
 se perdem nessa representação. Ambos, Di e D2, terão a mesma representação
 neste
@@ -1733,17 +1733,17 @@ recursos de n-gram".
 
 Aqui estão os principais prós e contras do BoN:
 
-• Ele captura algumas informações de contexto e ordem de palavras na forma de n-gramas.
+* Ele captura algumas informações de contexto e ordem de palavras na forma de n-gramas.
 
-• O espaço vetorial resultante é capaz de capturar alguma semelhança semântica.
+* O espaço vetorial resultante é capaz de capturar alguma semelhança semântica.
 Documentos
 com os mesmos n-gramas terão seus vetores mais próximos uns dos outros no
 espaço
 euclidiano em comparação com documentos com n-gramas completamente diferentes.
 
-• À medida que n aumenta, a dimensionalidade (e, portanto, a esparsidade) aumenta.
+* À medida que n aumenta, a dimensionalidade (e, portanto, a esparsidade) aumenta.
 
-• Ele ainda não fornece uma maneira de resolver o problema de palavras fora do vocabulário.
+* Ele ainda não fornece uma maneira de resolver o problema de palavras fora do vocabulário.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
@@ -1863,12 +1863,12 @@ PLN, especialmente nas versões iniciais da solução. Se olharmos para trás em
 esquemas de
 representação que discutimos até agora, notamos três desvantagens fundamentais:
 
-• Eles são representações discretas - ou seja, tratam unidades de linguagem
+* Eles são representações discretas - ou seja, tratam unidades de linguagem
 (palavras, n-
 gramas, etc.) como unidades atômicas. Essa descrição dificulta sua capacidade de capturar
 relações entre palavras.
 
-• Os vetores de recursos são representações esparsas e de alta dimensão. A
+* Os vetores de recursos são representações esparsas e de alta dimensão. A
 dimensionalidade
 aumenta com o tamanho do vocabulário, com a maioria dos valores sendo zero para
 qualquer
@@ -1876,7 +1876,7 @@ vetor. Isso dificulta a capacidade de aprendizagem. Além disso, a representaç�
 de alta
 dimensionalidade os torna computacionalmente ineficientes.
 
-• Eles não podem lidar com palavras fora do vocabulário.
+* Eles não podem lidar com palavras fora do vocabulário.
 
 Com isso, chegamos ao fim das abordagens básicas de vetorização. Antes de continuarmos
 gostaria
@@ -2099,11 +2099,11 @@ www. estrategiaconcursos. com. br
 Thiago Rodrigues Cavalcanti
 Aula 12 (Prof. Thiago Cavalcanti)
 
-• Dados mais compactos são mais fáceis de transferir e armazenar.
+* Dados mais compactos são mais fáceis de transferir e armazenar.
 
-• Tarefas algorítmicas requerem menos tempo quando nossos dados são menores.
+* Tarefas algorítmicas requerem menos tempo quando nossos dados são menores.
 
-• Certas tarefas complexas podem ser simplificadas removendo informações desnecessárias.
+* Certas tarefas complexas podem ser simplificadas removendo informações desnecessárias.
 
 Existem alguns métodos para redução de dimensionalidade que podem ser classificados de
 acordo
@@ -2303,22 +2303,22 @@ taxonomia da classificação de texto para entender isso.
 
 Binária
 
-•Se o número de classes for dois
+*Se o número de classes for dois
 
-•Exemplo: classificar um e-mail como spam ou não spam
+*Exemplo: classificar um e-mail como spam ou não spam
 
 Multiclasse
 
-•Se o número de classes for maior do que dois.
+*Se o número de classes for maior do que dois.
 
-•Exemplo: Classificar o sentimento de uma resenha de cliente como negativo, neutro ou positivo
+*Exemplo: Classificar o sentimento de uma resenha de cliente como negativo, neutro ou positivo
 
 Multilabel
 
-•Pode ter mais de um rótulo associado
+*Pode ter mais de um rótulo associado
 
-•Exemplo: um artigo de notícias sobre uma partida de futebol pode pertencer a mais de uma
-categoria, como "esportes” e "futebol
+*Exemplo: um artigo de notícias sobre uma partida de futebol pode pertencer a mais de uma
+categoria, como "esportes" e "futebol
 
 Qualquer abordagem de classificação supervisionada, incluindo classificação de
 texto, pode ser
@@ -2404,7 +2404,7 @@ Botar pra torar
 Conhecimento
 
 João Magalhães
-Tm»?” Silvinha pcess° Alegria
+Tm»?" Silvinha pcess° Alegria
 Diversão A . . I IO
 
 Prof.Thiago .Cavalcanti
@@ -2491,7 +2491,7 @@ Distribution of topics
 
 Topic
 
-• • • •
+* * * *
 
 Frequency of words
 
@@ -2567,15 +2567,15 @@ www. estrategiaconcursos. com. br
 Thiago Rodrigues Cavalcanti
 Aula 12 (Prof. Thiago Cavalcanti)
 
-• Dl: Gosto de comer brócolis e banana.
+* Dl: Gosto de comer brócolis e banana.
 
-• D2: Comi banana com salada no café da manhã.
+* D2: Comi banana com salada no café da manhã.
 
-• D3: Cachorros e gatinhos são fofos.
+* D3: Cachorros e gatinhos são fofos.
 
-• D4: Minha irmã adotou um gatinho ontem.
+* D4: Minha irmã adotou um gatinho ontem.
 
-• D5: Olhe este hamster fofo mastigando um pedaço de brócolis.
+* D5: Olhe este hamster fofo mastigando um pedaço de brócolis.
 
 Aprender um modelo de tópico nesta coleção usando LDA pode produzir uma saída como esta:
 
@@ -2583,11 +2583,11 @@ a) Tópico A: 30% brócolis, 15% bananas, 10% café da manhã, 10% mastigando
 
 b) Tópico B: 20% cachorros, 20% gatinhos, 20% fofos, 15% hamster
 
-• Documento 1 e 2: 100% Tópico A
+* Documento 1 e 2: 100% Tópico A
 
-• Documento 3 e 4: 100% Tópico B
+* Documento 3 e 4: 100% Tópico B
 
-• Documento 5: 60% Tópico A, 40% Tópico B
+* Documento 5: 60% Tópico A, 40% Tópico B
 
 Assim, os tópicos nada mais são do que uma mistura de palavras-chave com uma
 distribuição de
@@ -3006,7 +3006,7 @@ ser investigada principalmente em três níveis, representados graficamente na f
 
 Vamos descrever rapidamente cada um dos níveis:
 
-• Nível da mensagem: o objetivo é classificar a polaridade de uma mensagem opinativa
+* Nível da mensagem: o objetivo é classificar a polaridade de uma mensagem opinativa
 completa. Por exemplo, dada a avaliação de um produto, o sistema determina se a
 mensagem
 de texto expressa uma opinião geral positiva, negativa ou neutra sobre o
@@ -3024,12 +3024,12 @@ www. estrategiaconcursos. com. br
 Thiago Rodrigues Cavalcanti
 Aula 12 (Prof. Thiago Cavalcanti)
 
-• Nível da frase: o objetivo é determinar a polaridade de cada frase contida em uma mensagem
+* Nível da frase: o objetivo é determinar a polaridade de cada frase contida em uma mensagem
 de texto. O pressuposto é que cada frase, em uma determinada mensagem, denota uma
 única
 opinião sobre uma única entidade.
 
-• Nível de entidade e aspecto: executa uma análise mais detalhada do que
+* Nível de entidade e aspecto: executa uma análise mais detalhada do que
 o nível de
 mensagem e frase. Parte-se da ideia de que uma opinião consiste em um sentimento e um
 alvo (de opinião). Por exemplo, a frase "O iPhone é muito bom, mas ainda
@@ -3042,7 +3042,7 @@ Opinião Regular Versus Comparativa
 
 Uma opinião pode assumir diferentes matizes e pode ser atribuída a um dos seguintes grupos:
 
-• Opinião regular: uma opinião regular é muitas vezes referida na literatura como
+* Opinião regular: uma opinião regular é muitas vezes referida na literatura como
 uma opinião
 padrão e tem dois subtipos principais:
 
@@ -3055,7 +3055,7 @@ a frase "Depois que mudei para o iPhone, perdi todos os meus dados!" descreve um
 efeito indesejável da ativação dos "meus dados" em outro celular, que indiretamente
 dá um sentimento negativo sobre o iPhone.
 
-• Opinião comparativa: Uma opinião comparativa expressa uma relação de semelhanças ou
+* Opinião comparativa: Uma opinião comparativa expressa uma relação de semelhanças ou
 diferenças entre duas ou mais entidades e/ou uma preferência do titular da opinião com
 base
 em alguns aspectos comuns das entidades. Por exemplo, as frases "O iOS tem
@@ -3081,11 +3081,11 @@ www. estrategiaconcursos. com. br
 Thiago Rodrigues Cavalcanti
 Aula 12 (Prof. Thiago Cavalcanti)
 
-• Opinião explícita: Uma opinião explícita é uma declaração subjetiva que dá uma
+* Opinião explícita: Uma opinião explícita é uma declaração subjetiva que dá uma
 opinião
 regular ou comparativa (por exemplo, "O brilho da tela do iPhone é incrível ").
 
-• Opinião implícita: uma opinião implícita é uma declaração objetiva que implica uma
+* Opinião implícita: uma opinião implícita é uma declaração objetiva que implica uma
 opinião
 regular ou comparativa que geralmente expressa um fato desejável ou indesejável
 (por
@@ -4017,11 +4017,11 @@ unidades linguísticas
 
 Comentário: A redução da dimensionalidade pode ser feita de duas maneiras diferentes:
 
-• Mantendo apenas as variáveis mais relevantes do conjunto de dados original (esta
+* Mantendo apenas as variáveis mais relevantes do conjunto de dados original (esta
 técnica
 é chamada de seleção de recursos)
 
-• Ao encontrar um conjunto menor de novas variáveis, cada uma sendo uma combinação
+* Ao encontrar um conjunto menor de novas variáveis, cada uma sendo uma combinação
 das
 variáveis de entrada, contendo basicamente as mesmas informações que as variáveis de
 entrada (esta técnica é chamada de redução de dimensionalidade)
@@ -4073,14 +4073,14 @@ k J
 
 Documento
 
-• Combinação
+* Combinação
 de tópicos
 
 y
 
 Tópico
 
-• Combinação
+* Combinação
 de termos
 
 Termos
@@ -4139,16 +4139,16 @@ teste,
 mas, em algumas condições usamos um terceiro subconjunto dos dados chamado de validação.
 Vamos aproveitar a questão para rever a definição dos 3 conceitos:
 
-• Conjunto de treinamento: Conjunto de exemplos utilizados para a aprendizagem, ou
+* Conjunto de treinamento: Conjunto de exemplos utilizados para a aprendizagem, ou
 seja,
 para se adequar aos parâmetros do classificador.
 
-• Conjunto de validação: um conjunto de exemplos usados para ajustar os parâmetros
+* Conjunto de validação: um conjunto de exemplos usados para ajustar os parâmetros
 de
 um classificador, por exemplo, para escolher o número de unidades ocultas em uma rede
 neural.
 
-• Conjunto de testes: um conjunto de exemplos usados apenas para avaliar o
+* Conjunto de testes: um conjunto de exemplos usados apenas para avaliar o
 desempenho
 de um classificador totalmente especificado.
 
@@ -4171,7 +4171,7 @@ Aula 12 (Prof. Thiago Cavalcanti)
 
 Item. 10. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
-• Sobre análise de sentimento, avalie a afirmativa incorreta.
+* Sobre análise de sentimento, avalie a afirmativa incorreta.
 
 a) O nível de análise por dividido em nível de mensagem, nível de sentença ou nível de
 entidade/aspecto.
@@ -4581,15 +4581,15 @@ Linguagem Natural para obter insights sobre os documentos em texto. Este process
 altamente
 importante pode ser realizado por vários algoritmos ou métodos. Alguns deles são:
 
-• Latent Dirichlet Allocation (LDA)
+* Latent Dirichlet Allocation (LDA)
 
-• Non Negative Matrix Factorization (NMF)
+* Non Negative Matrix Factorization (NMF)
 
-• Latent Semantic Analysis (LSA)
+* Latent Semantic Analysis (LSA)
 
-• Parallel Latent Dirichlet Allocation (PLDA)
+* Parallel Latent Dirichlet Allocation (PLDA)
 
-• Pachinko Allocation Model (PAM)
+* Pachinko Allocation Model (PAM)
 
 Assim, temos a nossa reposta na alternativa B.
 

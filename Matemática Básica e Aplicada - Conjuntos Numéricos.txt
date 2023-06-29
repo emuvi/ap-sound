@@ -150,9 +150,9 @@ Nessa altura da aula, é importante definirmos duas classes especiais de número
 números pares e os
 números ímpares.
 
-• Número par: todo número inteiro que pode ser escrito na forma p = 2n, n ETL
+* Número par: todo número inteiro que pode ser escrito na forma p = 2n, n ETL
 
-• Número ímpar: todo número inteiro que pode ser escrito na forma i = 2n + 1, n E TL.
+* Número ímpar: todo número inteiro que pode ser escrito na forma i = 2n + 1, n E TL.
 
 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 www. estrategiaconcursos. com. br
@@ -167,9 +167,9 @@ As definições acima podem parecer um pouco complicadas, normalmente, elas são
 apenas para
 demonstrar propriedades desses números. Logo, podemos defini-los de uma maneira mais simplificada.
 
-• Número par: todo número terminado em 0, 2,4,6 e 8.
+* Número par: todo número terminado em 0, 2,4,6 e 8.
 
-• Número ímpar: todo número terminado em 1,3, 5, 7 e 9.
+* Número ímpar: todo número terminado em 1,3, 5, 7 e 9.
 
 A forma como conceituamos acima é uma consequência da definição original. É
 muito útil quando
@@ -177,7 +177,7 @@ precisamos identificar se um número é par ou ímpar!
 
 r ..........................................................................
 ...................................... .........................................■
-•■■■■•..............................................
+*■■■■*..............................................
 ..................................................................................................
 . ............................... ..
 
@@ -281,7 +281,7 @@ Item. 1. Ele possa ser representado em uma forma fracionária de números inteir
 1 3 10 1
 500
 
-T = 1 : 2 = 1’5 : T = 5 ■ iõ^’1 ; 3 - 166,66
+T = 1 : 2 = 1'5 : T = 5 ■ iõ^'1 ; 3 - 166,66
 
 Todos os números acima são exemplos de números racionais.
 
@@ -623,13 +623,13 @@ Soma
 
 Para a soma, devemos guardar as seguintes propriedades:
 
-• A soma de números naturais é sempre um número natural;
+* A soma de números naturais é sempre um número natural;
 
-• A soma de números inteiros é sempre um número inteiro;
+* A soma de números inteiros é sempre um número inteiro;
 
-• A soma de números racionais é sempre um número racional;
+* A soma de números racionais é sempre um número racional;
 
-• A soma de números reais é sempre um número real.
+* A soma de números reais é sempre um número real.
 
 Note que deixamos apenas um conjunto de números fora da nossa lista: os irracionais.
 Como já abordamos
@@ -651,11 +651,11 @@ muito atenção com esse tipo de generalização acerca dos números irracionais
 disso, podemos ainda
 comentar a soma de números pares e ímpares.
 
-• PAR ± PAR = PAR
+* PAR ± PAR = PAR
 
-• ÍMPAR ± ÍMPAR = PAR
+* ÍMPAR ± ÍMPAR = PAR
 
-• ÍMPAR ± PAR = ÍMPAR
+* ÍMPAR ± PAR = ÍMPAR
 
 HORA DE
 
@@ -709,11 +709,11 @@ Gabarito: Letra A.
 
 Subtração
 
-• A subtração de números inteiros é um outro número inteiro.
+* A subtração de números inteiros é um outro número inteiro.
 
-• A subtração de números racionais é um outro número racional.
+* A subtração de números racionais é um outro número racional.
 
-• A subtração de números reais é um outro número real.
+* A subtração de números reais é um outro número real.
 
 Dessa vez, deixamos dois conjuntos de fora: o conjunto de números naturais e dos irracionais.
 Observe que
@@ -830,13 +830,13 @@ n = 3,1415926535897932384626433832795028841971693993751058209749445923 ...
 
 Multiplicação
 
-• A multiplicação de dois números naturais é sempre um número natural.
+* A multiplicação de dois números naturais é sempre um número natural.
 
-• A multiplicação de dois números inteiros é sempre um número inteiro.
+* A multiplicação de dois números inteiros é sempre um número inteiro.
 
-• A multiplicação de dois números racionais é sempre um número racional.
+* A multiplicação de dois números racionais é sempre um número racional.
 
-• A multiplicação de dois números reais é sempre um número real.
+* A multiplicação de dois números reais é sempre um número real.
 
 Mais uma vez, os números irracionais ficaram de fora da nossa lista. Para provar
 porque estão de fora,
@@ -925,9 +925,9 @@ I
 
 Divisão
 
-• A divisão de dois números racionais será sempre um racional.
+* A divisão de dois números racionais será sempre um racional.
 
-• A divisão de dois números reais será sempre um número real.
+* A divisão de dois números reais será sempre um número real.
 
 Observe que é a nossa menor lista até agora. Divisão de números naturais não
 necessariamente fornecerá
@@ -1137,12 +1137,12 @@ No entanto, também podemos usar a seguinte identidade:
 
 Fazendo isso, ficamos com:
 
-n3 = 8/c3 + 3 • (2/c)2 ■ 1 + 3 ■ (2/c) • l2 + l3
+n3 = 8/c3 + 3 * (2/c)2 ■ 1 + 3 ■ (2/c) * l2 + l3
 
 n3 = 8/c3 + 12/c2 + 6/c + 1
 Reescrevendo de uma forma mais conveniente:
 
-n3 = 2 • (4/c3 + 5/c2 + 3/c) + 1
+n3 = 2 * (4/c3 + 5/c2 + 3/c) + 1
 Chamando k' = 4k3 + 5/c2 + 3/c, podemos reescrever:
 
 n3 = 2k' + 1
@@ -1412,7 +1412,7 @@ www. estrategiaconcursos. com. br
 Equipe Exatas Estratégia Concursos
 Aula 07
 
-A/5 • V2Õ = VTÕÕ = 10
+A/5 * V2Õ = VTÕÕ = 10
 
 Logo, acabamos de mostrar dois números irracionais em que 0 produto deles é um número
 racional.

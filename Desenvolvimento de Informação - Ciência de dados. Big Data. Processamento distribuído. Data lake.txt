@@ -237,66 +237,66 @@ Velocidade
 
 Variedade
 
-W• V•W• V••V
+W* V*W* V**V
 
 
-••• ••••••
+*** ******
 
-••• ••••••
+*** ******
 
-• • • ••
+* * * **
 
 Dados em repouso
 
-• Terabytes ou exabytes
+* Terabytes ou exabytes
 de dados existentes para
 o processo
 
 Dados em
 movimento
 
-• Streaming data (fluxo de
+* Streaming data (fluxo de
 dados
 
-• Requer milissegundos
+* Requer milissegundos
 ou segundos para
 resposta.
 
 O
 
-• •
+* *
 o
 
 Dados em diferentes
 formas
 
-• Estruturados
+* Estruturados
 
-• Semiestruturado
+* Semiestruturado
 
-• Não estruturado
+* Não estruturado
 
-• Texto
+* Texto
 
-• Multimídia
+* Multimídia
 
 Dados em dúvida
 
-• Incerteza sobre a
+* Incerteza sobre a
 consistência e
 completude.
 
-• Ambiguidade, latência,
+* Ambiguidade, latência,
 modelos de
 aproximação.
 
 Dados em dinheiro
 
-• Os dados devem estar
+* Os dados devem estar
 associados aos modelos
 de negócio.
 
-• Preocupação com a
+* Preocupação com a
 geração de retorno.
 
 Vejam a figura apresentada acima. Ela representa uma indicação do conceito de
@@ -1179,11 +1179,11 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 07 (Prof. Thiago Cavalcanti)
 
-• Sob demanda, como dados de mídia social
+* Sob demanda, como dados de mídia social
 
-• Feed contínuo, em tempo real (dados de clima ou transacionais)
+* Feed contínuo, em tempo real (dados de clima ou transacionais)
 
-• Série temporal (dados com base em tempo)
+* Série temporal (dados com base em tempo)
 
 Tipo de dados — Tipo dos dados a serem processados — transacionais, históricos,
 principais e
@@ -1205,17 +1205,17 @@ escopo de uma perspectiva de negócios.
 
 Consumidores de dados — Uma lista de todos os possíveis consumidores dos dados processados:
 
-• Processos de negócios
+* Processos de negócios
 
-• Usuários corporativos
+* Usuários corporativos
 
-• Aplicativos corporativos
+* Aplicativos corporativos
 
-• Pessoas individuais em várias funções de negócios
+* Pessoas individuais em várias funções de negócios
 
-• Parte dos fluxos do processo
+* Parte dos fluxos do processo
 
-• Outros repositórios de dados ou aplicativos corporativos
+* Outros repositórios de dados ou aplicativos corporativos
 
 Hardware — O tipo de hardware no qual a solução de big data será implementada —
 hardware
@@ -1296,15 +1296,15 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 07 (Prof. Thiago Cavalcanti)
 
-• Realizar análise em tempo real e exibição de dados de fluxo
+* Realizar análise em tempo real e exibição de dados de fluxo
 
-• Extrair dados de forma interativa, com base no contexto
+* Extrair dados de forma interativa, com base no contexto
 
-• Executar procuras avançadas e obter recomendações
+* Executar procuras avançadas e obter recomendações
 
-• Visualizar informações paralelamente
+* Visualizar informações paralelamente
 
-• Ter acesso a hardware avançado para necessidades de visualização futuristas
+* Ter acesso a hardware avançado para necessidades de visualização futuristas
 
 A pesquisa para determinar como os insights de big data podem ser consumidos por
 humanos e
@@ -1475,13 +1475,13 @@ devem ser descobertos dinamicamente. O conhecimento dos cientistas de dados e do
 usuários
 corporativos é necessário para definir a análise exigida para as seguintes tarefas:
 
-• Identificar e descobrir os cálculos e algoritmos
+* Identificar e descobrir os cálculos e algoritmos
 
-• Identificar e descobrir as fontes de dados
+* Identificar e descobrir as fontes de dados
 
-• Definir os formatos necessários que podem ser consumidos pelos cálculos
+* Definir os formatos necessários que podem ser consumidos pelos cálculos
 
-• Executar os cálculos nos dados paralelamente
+* Executar os cálculos nos dados paralelamente
 
 CAIU
 
@@ -2007,26 +2007,26 @@ Modelo Agregado
 //em cientes
 (
 
-“kT:l
+"kT:l
 
-"nome" "Marcos”,
+"nome" "Marcos",
 
-"endcotxanca": [{“cidade”: “Chicago-}]
+"endcotxanca": [{"cidade": "Chicago-}]
 
 }
 
 //em pedidos
 (
 
-"•d” 99
+"*d" 99
 
-“idCbente" 1.
-“ttensPeddo":[
+"idCbente" 1.
+"ttensPeddo":[
 
 (
 
-“idProduto":2,
-“preço": 35,00,
+"idProduto":2,
+"preço": 35,00,
 
 "produtoNome" "Laptop"
 
@@ -2039,9 +2039,9 @@ L
 
 <
 
-"num Cart ao" “1000-1000-1000-1000",
+"num Cart ao" "1000-1000-1000-1000",
 
-"endCotxançrf’:{"cidade" "Natal"}
+"endCotxançrf':{"cidade" "Natal"}
 
 }
 
@@ -2100,7 +2100,7 @@ I 1
 
 Key Value
 
-“nome: Marcos, sobrenome: Silva, cidade: São Paulo, estado: SP.cep: 66745-025"
+"nome: Marcos, sobrenome: Silva, cidade: São Paulo, estado: SP.cep: 66745-025"
 
 Exemplos: Redis, DynamoDB, Riak
 
@@ -2312,11 +2312,11 @@ Vértice Vértice
 
 
 nome: Marcos
-sobrenome: Silva”
+sobrenome: Silva"
 
 cidade: Sao Paulo
-estado: ‘SP’
-cep:“66745-025"
+estado: 'SP'
+cep:"66745-025"
 
 Exemplos: Neo4J, Infinite Graph, InforGrid
 
@@ -3142,12 +3142,12 @@ Seu funcionamento é orientado a agentes. Um agente Flume roda na JVM (Java Virt
 Machine) e
 possui os seguintes componentes:
 
-• Source: responsável pela entrada de dados.
+* Source: responsável pela entrada de dados.
 
-• Channel: armazena os dados que passam do source para o sink. Seu
+* Channel: armazena os dados que passam do source para o sink. Seu
 comportamento é parecido com uma fila.
 
-• Sink: responsável por enviar os dados ao destino/saída. A saída pode ser outro
+* Sink: responsável por enviar os dados ao destino/saída. A saída pode ser outro
 agente Flume.
 
 filesystem
@@ -3258,12 +3258,12 @@ Sqoop TOOL PROPERTY_ARGS SQOOP_ARGS
 
 A estrutura da linha de comando tem é composta dos seguintes termos:
 
-• TOOL: indica a operação que você deseja executar, por exemplo, import e export.
+* TOOL: indica a operação que você deseja executar, por exemplo, import e export.
 
-• PROPERTY_ARGS - conjunto de parâmetros que são inseridos como propriedades
+* PROPERTY_ARGS - conjunto de parâmetros que são inseridos como propriedades
 Java no formato -Dname=value.
 
-• SQOOP_ARGS - todos os vários parâmetros sqoop.
+* SQOOP_ARGS - todos os vários parâmetros sqoop.
 
 Vejamos um exemplo:
 
@@ -3481,12 +3481,12 @@ Na figura apareceu ainda dois papeis, produtores e consumidores, vamos falar um 
 sobre cada
 um deles:
 
-• Produtor: tem a principal função de introduzir as mensagens para os Tópicos do
+* Produtor: tem a principal função de introduzir as mensagens para os Tópicos do
 Kafka, permitindo às aplicações publicar fluxos de registos. Escreve para um só
 Líder, providenciando uma produção balanceada de carregamento para que cada
 processo de escrita possa ser servido por um Broker e uma máquina em separado.
 
-• Consumidor: retira mensagens de um Tópico Kafka, permitindo que as aplicações
+* Consumidor: retira mensagens de um Tópico Kafka, permitindo que as aplicações
 subscrevam ao mesmo tópico e processem o fluxo de registos. Lê de uma só
 partição dando a opção de escalar através do consumo de mensagens num estilo
 similar a uma produção de mensagens. Pode também ser organizado em forma de
@@ -3802,13 +3802,13 @@ o quadro abaixo um pouco mais sobre as atividades de perícia.
 
 CURIOSIDADE
 
-• Conectar a mídia original sem proteção de escrita pode alterar dados ou
+* Conectar a mídia original sem proteção de escrita pode alterar dados ou
 metadados de arquivos e essas alterações podem ser questionadas pelas partes
 envolvidas. Outra atividade essencial ao fazer a cópia é calcular o hash dos dados
 originais e o da cópia. Esses valores devem coincidir, garantindo-se, com isso, a
 integridade e a cadeia de custódia das evidências digitais.
 
-• Ao se deparar com máquinas que estejam desligadas, vide regra, não se deve ligá-
+* Ao se deparar com máquinas que estejam desligadas, vide regra, não se deve ligá-
 las. O principal motivo dessa recomendação é a preservação dos dados. Ao se ligar
 as máquinas, o próprio processo de inicialização do sistema operacional fará
 alterações em alguns dados, e essas alterações podem ser detectadas
@@ -4925,13 +4925,13 @@ resoluções da
 entidade devem ser descobertos dinamicamente. O conhecimento dos cientistas de dados e
 dos usuários corporativos é necessário para definir a análise exigida para as seguintes tarefas:
 
-• Identificar e descobrir os cálculos e algoritmos
+* Identificar e descobrir os cálculos e algoritmos
 
-• Identificar e descobrir as fontes de dados
+* Identificar e descobrir as fontes de dados
 
-• Definir os formatos necessários que podem ser consumidos pelos cálculos
+* Definir os formatos necessários que podem ser consumidos pelos cálculos
 
-• Executar os cálculos nos dados paralelamente
+* Executar os cálculos nos dados paralelamente
 
 Gabarito: E.
 

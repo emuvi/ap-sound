@@ -320,7 +320,7 @@ LINGUAGEM ASSEMBLY 8051 LINGUAGEM C
 
 14 msg:
 
-15 db “Olá, Mundo!",0
+15 db "Olá, Mundo!",0
 
 02 {
 
@@ -6852,9 +6852,9 @@ i4.(FGV / INEA-RJ - 2013) A análise preliminar de um sistema a ser
 desenvolvido possui as
 seguintes características:
 
-• doze entradas externas sendo três simples, quatro médias e cinco complexas.
+* doze entradas externas sendo três simples, quatro médias e cinco complexas.
 
-• seis saídas externas sendo duas simples e quatro médias.
+* seis saídas externas sendo duas simples e quatro médias.
 
 Infelizmente, não foi possível determinar o número de Arquivos Lógicos Internos
 (ALI) do
@@ -10633,9 +10633,9 @@ e)3-2-i-5-4
 i4.(FGV / INEA-RJ - 2013) A análise preliminar de um sistema a ser desenvolvido possui as
 seguintes características:
 
-• doze entradas externas sendo três simples, quatro médias e cinco complexas.
+* doze entradas externas sendo três simples, quatro médias e cinco complexas.
 
-• seis saídas externas sendo duas simples e quatro médias.
+* seis saídas externas sendo duas simples e quatro médias.
 
 Infelizmente, não foi possível determinar o número de Arquivos Lógicos Internos
 (ALI) do

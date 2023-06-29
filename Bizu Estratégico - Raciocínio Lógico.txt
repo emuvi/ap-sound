@@ -213,15 +213,15 @@ Aula 04
 
 Princípio da Identidade
 
-• Uma proposição verdadeira é sempre verdadeira. Uma proposição falsa é sempre falsa.
+* Uma proposição verdadeira é sempre verdadeira. Uma proposição falsa é sempre falsa.
 
 Princípio da Não Contradição
 
-• Uma proposição não pode ser verdadeira e falsa simultaneamente.
+* Uma proposição não pode ser verdadeira e falsa simultaneamente.
 
 Princípio do Terceiro Excluído
 
-• Uma proposição só pode ter um dos dois valores lógicos, isto é, ou é verdadeira (V) ou
+* Uma proposição só pode ter um dos dois valores lógicos, isto é, ou é verdadeira (V) ou
 falsa (F), não podendo ter outro valor.
 
 Item. 2. Tipos de Proposições
@@ -462,9 +462,9 @@ então" pelo conectivo "OU".
 
 ■ Exemplo:
 
-• Afirmação: Se viajo, então acordo cedo.
+* Afirmação: Se viajo, então acordo cedo.
 
-• Equivalente: Não viajo ou acordo cedo
+* Equivalente: Não viajo ou acordo cedo
 
 o p -> q <=> ~q -> ~p
 
@@ -484,9 +484,9 @@ www. estrategiaconcursos. com. br
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 Aula 04
 
-• Afirmação: Se viajo, então acordo cedo.
+* Afirmação: Se viajo, então acordo cedo.
 
-• Equivalente: Se não acordo cedo, então não viajo
+* Equivalente: Se não acordo cedo, então não viajo
 
 Item. 7. Negações mais importantes
 
@@ -494,12 +494,12 @@ o 1a Lei de De Morgan
 
 ■ Conectivo E
 
-• Deve-se negar as duas proposições simples que a compõe e trocar o
+* Deve-se negar as duas proposições simples que a compõe e trocar o
 conectivo "E" pelo "OU".
 
-• Equação: ~ (p A q) <=> (~p) V (~q)
+* Equação: ~ (p A q) <=> (~p) V (~q)
 
-• Exemplo:
+* Exemplo:
 
 o Afirmação: Rodrigo está doente e não foi trabalhar.
 
@@ -509,12 +509,12 @@ o 2a Lei de De Morgan
 
 ■ Conectivo OU
 
-• Deve-se negar as duas proposições simples que a compõe e trocar o
+* Deve-se negar as duas proposições simples que a compõe e trocar o
 conectivo "OU" pelo "E".
 
-• Equação: ~ (p V q) <=> (~p) A (~q)
+* Equação: ~ (p V q) <=> (~p) A (~q)
 
-• Exemplo:
+* Exemplo:
 
 o Afirmação: Vou à festa ou não me chamo Guilherme,
 
@@ -522,12 +522,12 @@ o Negação: Não vou à festa e me chamo Guilherme.
 
 o Negação de "E" com "Se... então"
 
-• Deve-se manter a primeira parte, trocar o "E" pelo "Se... então" e
+* Deve-se manter a primeira parte, trocar o "E" pelo "Se... então" e
 negar a segunda parte.
 
-• Equação: ~ (p A q) <=> p —► (~q)
+* Equação: ~ (p A q) <=> p —► (~q)
 
-• Exemplo:
+* Exemplo:
 
 o Afirmação: Ando e pulo.
 
@@ -535,12 +535,12 @@ o Negação: Se ando então não pulo.
 
 o Negação de "Se... então" com "E"
 
-• Deve-se manter a primeira parte, trocar o "Se... então" pelo "E" e
+* Deve-se manter a primeira parte, trocar o "Se... então" pelo "E" e
 negar a segunda parte.
 
-• Equação: ~(p —> q) <=> p A (~q)
+* Equação: ~(p —> q) <=> p A (~q)
 
-• Exemplo:
+* Exemplo:
 
 o Afirmação: Se surfo então sou feliz.
 
@@ -604,10 +604,10 @@ Aula 04
 
 Validade dos argumentos dedutivos X Verdade das proposições
 
-• Validade é uma característica dos argumentos dedutivos. Esse tipo de argumento pode ser válido ou
+* Validade é uma característica dos argumentos dedutivos. Esse tipo de argumento pode ser válido ou
 inválido; e
 
-• Verdade é uma característica das proposições. As proposições podem ser verdadeiras ou falsas.
+* Verdade é uma característica das proposições. As proposições podem ser verdadeiras ou falsas.
 
 'alidade dos argumentos dedutivos
 
@@ -622,23 +622,23 @@ Um argumento dedutivo inválido também é conhecido por sofisma ou falácia for
 erdade das proposições|
 Podemos ter um argumento válido nas seguintes situações:
 
-• Premissas verdadeiras e conclusão verdadeira;
+* Premissas verdadeiras e conclusão verdadeira;
 
-• Premissas falsas e conclusão falsa; e
+* Premissas falsas e conclusão falsa; e
 
-• Premissas falsas e conclusão verdadeira.
+* Premissas falsas e conclusão verdadeira.
 
 Observe que não é possível ter um argumento válido com premissas verdadeiras e conclusão falsa.
 
 Já para um argumento inválido podemos ter as quatro situações:
 
-• Premissas verdadeiras e conclusão verdadeira;
+* Premissas verdadeiras e conclusão verdadeira;
 
-• Premissas verdadeiras e conclusão falsa;
+* Premissas verdadeiras e conclusão falsa;
 
-• Premissas falsas e conclusão falsa;
+* Premissas falsas e conclusão falsa;
 
-• Premissas falsas e conclusão verdadeira.
+* Premissas falsas e conclusão verdadeira.
 
 Diagramas Lógicos
 
@@ -744,9 +744,9 @@ acontece pois quando falamos "nenhum", na verdade já temos uma negação subent
 
 Item. 11. Diagramas Lógicos
 
-• Todo engenheiro é responsável.
+* Todo engenheiro é responsável.
 
-• Nenhum engenheiro é responsável.
+* Nenhum engenheiro é responsável.
 
 Engenheiros
 

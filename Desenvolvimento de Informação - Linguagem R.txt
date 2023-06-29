@@ -276,22 +276,22 @@ Aula 13 (Prof. Thiago Cavalcanti)
 
 Como vantagens da linguagem interpretada podemos listar:
 
-• São rápidas e práticas, permitem agregar funcionalidades sem depender de
+* São rápidas e práticas, permitem agregar funcionalidades sem depender de
 ferramentas e compiladores.
 
-• Podem seradaptadas a diversas tecnologias
+* Podem seradaptadas a diversas tecnologias
 
-• Não dependem de instalações e ou bibliotecas.
+* Não dependem de instalações e ou bibliotecas.
 
-• Não precisam de uma ferramenta específica de desenvolvimento.
+* Não precisam de uma ferramenta específica de desenvolvimento.
 
 Já as desvantagens são:
 
-• Por não ser compilada, erros de sintaxe não são identificados no desenvolvimento.
+* Por não ser compilada, erros de sintaxe não são identificados no desenvolvimento.
 
-• Não tem acesso completo a recursos da máquina por questões de segurança.
+* Não tem acesso completo a recursos da máquina por questões de segurança.
 
-• Depende de um interpretador local para ser executado.
+* Depende de um interpretador local para ser executado.
 
 Agora ... se eu pedir para você preencher a lacuna ...Ré uma linguagem!
 
@@ -308,9 +308,9 @@ A instalação padrão do R vem com uma interface gráfica para o usuário
 
 Interface - GUI). I«RGui(64R.bRGjtu)i (64-bit)
 
-File Edrt ViewNMoisWc iPnadcokawgses“Wl,einEddiot w“sicwHeelapcka9tt ^indows Help
+File Edrt ViewNMoisWc iPnadcokawgses"Wl,einEddiot w"sicwHeelapcka9tt ^indows Help
 
-z □ 7X“
+z □ 7X"
 
 
 voce encontrara
@@ -348,19 +348,19 @@ TOME
 
 NOTA!
 
-• Highlight do código;
+* Highlight do código;
 
-• Autocomplete;
+* Autocomplete;
 
-• Match automático de parênteses e chaves;
+* Match automático de parênteses e chaves;
 
-• Interface intuitiva para objetos, gráficos e script;
+* Interface intuitiva para objetos, gráficos e script;
 
-• Criação de "projetos" com interface para controle de versão;
+* Criação de "projetos" com interface para controle de versão;
 
-• Facilidade na criação de pacotes;
+* Facilidade na criação de pacotes;
 
-• Interação com HTML, entre outras.
+* Interação com HTML, entre outras.
 
 Você pode abrir o RStudio em seu computador e iniciar um novo Script em "File" ->
 "New File" ->
@@ -407,20 +407,20 @@ X
 
 File £dit £ode View Plots Session fiuild Qebug Profile lools Help
 
-O • H 1 1 * .
-• Addins -
+O * H 1 1 * .
+* Addins -
 
 t Project |None|
 
 z R data sets O AprovadosBB.R*
 tnvironment History (Mirwbom
 
-Source on Save • *Run ”**
-"• Source • -* fej •"* Import Dataset • /
-list •
+Source on Save * *Run "**
+"* Source * -* fej *"* Import Dataset * /
+list *
 1 1
 1 Global
-Environment •
+Environment *
 
 
 1:1 (Top levei) :
@@ -435,14 +435,14 @@ Platform: x86_64-w64-mingw32/x64 (64-bit)
 
 R is free software and comes with ABSoLUTELv No WARRANTY.
 YoU are welcome to redistribute it under certain conditions.
-Type 'HcenseO* or ‘licenceO’ for distribution details.
+Type 'HcenseO* or 'licenceO' for distribution details.
 
 R is a collaborative project with many contributors.
 
 Type 'contributorsO' for more 1nformat1on and
-'citationO’ on how to cite R or R packages in publications.
+'citationO' on how to cite R or R packages in publications.
 
-Type 'demoO' for some demos, 'helpO’ for on-line help, or
+Type 'demoO' for some demos, 'helpO' for on-line help, or
 'help. startO' for an HTML browser Interface to help.
 
 Type 'qO' to quit R.
@@ -504,8 +504,8 @@ gráfico aparecerá no canto inferior direito do RStudio.
 Files Plots Packages Help Viewer
 D
 
->*' Zoom S Export ’ O
-Publish • | (S> I
+>*' Zoom S Export ' O
+Publish * | (S> I
 
 O
 
@@ -609,7 +609,7 @@ nosso ambiente e armazená-los em variáveis ou símbolos. Vamos criar uma vari�
 associar a
 essa variável um valor.
 
-> olamundo <- “Helloworld
+> olamundo <- "Helloworld
 
 A linha acima permite a criação de uma variável denominada olamundo, o símbolo <- é
 usado para
@@ -874,14 +874,14 @@ NOTA!
 
 Açào de Ajuda
 
-Procurar por “multivariate” em todos os pacotes instalados
+Procurar por "multivariate" em todos os pacotes instalados
 Obter ajuda sobre o comando X
 
 Iniciar ajuda no browser padrão instalado
 Obter ajuda sobre (p.ex.) o pacote cluster
 
 Comando que procura objetos (p.ex.) pelo nome anova
-Mostrar exemplos do “comandoX"
+Mostrar exemplos do "comandoX"
 
 Listar as funções e operações contidas no pacote base do R
 
@@ -1001,15 +1001,15 @@ a) vetores: uma sequência de valores numéricos ou de caracteres (letras,
 palavras)
 sempre do mesmo tipo. Os vetores no R podem ser, entre outros, de tipos:
 
-• numeric (número comum) - ex: 1,2,3;
+* numeric (número comum) - ex: 1,2,3;
 
-• integer (inteiro) - ex: 2oL,IoL;
+* integer (inteiro) - ex: 2oL,IoL;
 
-• complex (número complexo) ex.: 6 - zp;
+* complex (número complexo) ex.: 6 - zp;
 
-• character (texto)-ex.: "O Estratégia é TOP";
+* character (texto)-ex.: "O Estratégia é TOP";
 
-• logical (lógicos, booleanos) ex.: TRUE, FALSE.
+* logical (lógicos, booleanos) ex.: TRUE, FALSE.
 
 b) matrizes: coleção de vetores em linhas e colunas, todos os vetores dever ser do
 
@@ -1141,7 +1141,7 @@ inteiros usam-se os "dois pontos". Veja:
 
 > a<-l:10 #cria uma sequência de inteiros de 1 a 10
 
-> a #exibe o conteúdo do objeto “a”
+> a #exibe o conteúdo do objeto "a"
 [1] 1 2 3 4 5 6 7 8 9 10
 
 Uma maneira mais geral de produzir sequências de valores é usando a função seq() que
@@ -1409,9 +1409,9 @@ abaixo podem ser usadas para melhorar a apresentação dos dados e facilitar o
 entendimento das
 relações entre eles.
 
-• Vantagens: são rápidas e simples.
+* Vantagens: são rápidas e simples.
 
-• Desvantagens: são feias e difíceis para gerar gráficos complexos.
+* Desvantagens: são feias e difíceis para gerar gráficos complexos.
 
 Nesta seção, mostraremos como construir alguns tipos de gráficos usando as funções base
 do R,
@@ -1421,9 +1421,9 @@ Gráfico de dispersão
 
 Para construir um gráfico de dispersão, utilizamos a função plot(). Seus principais parâmetros são:
 
-• x, y - vetores para representarem os eixos x e y.
+* x, y - vetores para representarem os eixos x e y.
 
-• type - tipo de gráfico. Pode ser pontos, linhas, escada, entre outros.
+* type - tipo de gráfico. Pode ser pontos, linhas, escada, entre outros.
 Para mais detalhes sobre os argumentos, ver help(plot).
 
 Além de gerar gráficos de dispersão, tentar chamar a função
@@ -1475,9 +1475,9 @@ www. estrategiaconcursos. com. br
 Thiago Rodrigues Cavalcanti
 Aula 13 (Prof. Thiago Cavalcanti)
 
-• x - o vetor numérico para o qual o histograma será construído.
+* x - o vetor numérico para o qual o histograma será construído.
 
-• Breaks - o número (aproximado) de retângulos.
+* Breaks - o número (aproximado) de retângulos.
 
 > hist(rnorm(1000))
 
@@ -1516,7 +1516,7 @@ Boxplot
 
 Para construir esse tipo de gráfico, utilizamos a função boxplot(). Os principais parâmetros são:
 
-• X - O vetor numérico para o qual o boxplot será construído.
+* X - O vetor numérico para o qual o boxplot será construído.
 
 Vejamos um exemplo, neste exemplo usamos mais um conjunto de dados do
 próprio R. O
@@ -1785,7 +1785,7 @@ Estimate Std . Error t value Pr(>|t|)
 
 displ -3.5306 0.1945 -18.15 <2e-16 ***
 
-Signif. codes: 0 “***’ 0.001 *’ 0.01 0.05 ‘’ 0.1
+Signif. codes: 0 "***' 0.001 *' 0.01 0.05 '' 0.1
 Residual standard error: 3.836 on 232 degrees of freedom
 
 Multiple R-squared: 0.5868, Adjusted R-squared: 0.585
@@ -1802,25 +1802,25 @@ mais são do que um atalho conveniente para funções, isto é, 1+2 é a mesma c
 Assim,
 temos a lista de operadores:
 
-• Soma (+),
+* Soma (+),
 
-• Subtração (-),
+* Subtração (-),
 
-• Multiplicação (* *)
+* Multiplicação (* *)
 
-• Divisão (/)
+* Divisão (/)
 
-• Exponenciação (A)
+* Exponenciação (A)
 
-• Resto da divisão (%%)
+* Resto da divisão (%%)
 
 Além dos operadores básicos, há uma série de funções matemáticas, tais como:
 
-• abs(x) # valor absoluto
+* abs(x) # valor absoluto
 
-• log(x) # logaritmo
+* log(x) # logaritmo
 
-• exp(x) #exponenciação
+* exp(x) #exponenciação
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
@@ -1832,11 +1832,11 @@ www. estrategiaconcursos. com. br
 Thiago Rodrigues Cavalcanti
 Aula 13 (Prof. Thiago Cavalcanti)
 
-• sqrt (x) # raiz quadrada
+* sqrt (x) # raiz quadrada
 
-• factorial (x) fffatorial
+* factorial (x) fffatorial
 
-• choose (10,2) #combinação
+* choose (10,2) #combinação
 
 Há também diversas funções trigonométricas, como seno sin(), cosseno cos(), tangente
 tan() e
@@ -2332,9 +2332,9 @@ return(resultado) # opcional
 
 }
 
-• o comando function() diz para o R que você está definindo uma função.
+* o comando function() diz para o R que você está definindo uma função.
 
-• os valores dentro dos parênteses de function() são os argumentos (ou parâmetros)
+* os valores dentro dos parênteses de function() são os argumentos (ou parâmetros)
 da função. Argumentos podem ter valores de/du/t(padrão), que são definidos com o
 sinal de igualdade (no caso arg3 tem como default o valor default3). Existe
 um
@@ -2342,10 +2342,10 @@ parâmetro "coringa" muito útil, o ..., que permite passar argumentos para
 outras
 funções.
 
-• dentro das chaves encontra-se o "corpo" da função, isto é, uma série de comandos
+* dentro das chaves encontra-se o "corpo" da função, isto é, uma série de comandos
 válidos que serão realizados.
 
-• o comando return() encerra a função e retorna seu argumento. O
+* o comando return() encerra a função e retorna seu argumento. O
 return() é
 opcional. Caso omitido, a função retorna o último objeto calculado.
 
@@ -2405,12 +2405,12 @@ if (condicao) {
 
 }
 
-• O início do código se dá com o comando //seguido de parênteses e chaves;
+* O início do código se dá com o comando //seguido de parênteses e chaves;
 
-• Dentro dos parênteses temos uma condição lógica, que deverá ter como
+* Dentro dos parênteses temos uma condição lógica, que deverá ter como
 resultado ou TRUE ou FALSE;
 
-• Dentro das chavestemos o bloco de código que será executado se-e somente se
+* Dentro das chavestemos o bloco de código que será executado se-e somente se
 
 -a condição dos parênteses forTRUE.
 
@@ -2432,15 +2432,15 @@ if (condicao) {
 
 }
 
-• O início do código se dá com o comando if seguido de parênteses e chaves;
+* O início do código se dá com o comando if seguido de parênteses e chaves;
 
-• Dentro dos parênteses temos uma condição lógica, que deverá ter como
+* Dentro dos parênteses temos uma condição lógica, que deverá ter como
 resultado ou TRUE ou FALSE;
 
-• Dentro das chaves do if() temos um bloco de código que será executado se-e
+* Dentro das chaves do if() temos um bloco de código que será executado se-e
 somente se - a condição do parênteses for TRUE.
 
-• Logo em seguida temos o else seguido de chaves;
+* Logo em seguida temos o else seguido de chaves;
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
@@ -2452,7 +2452,7 @@ www. estrategiaconcursos. com. br
 Thiago Rodrigues Cavalcanti
 Aula 13 (Prof. Thiago Cavalcanti)
 
-• Dentro das chaves do else temos um bloco de código que será executado se - e
+* Dentro das chaves do else temos um bloco de código que será executado se - e
 somente se - a condição dos parênteses for FALSE.
 
 Os comandos if() e if() else não são vetorizados. Uma alternativa para casos como
@@ -2462,13 +2462,13 @@ função ifelse(). A função ifelse() tem a seguinte estrutura básica:
 
 ifelse(vetor_de_condicoes, valor_se_TRUE, valor_se_FALSE)
 
-• o primeiro argumento é um vetor (ou uma expressão que retorna um vetor) com
+* o primeiro argumento é um vetor (ou uma expressão que retorna um vetor) com
 vários TRUEe FALSE;
 
-• o segundo argumento é o valor que será retornado quando o elemento
+* o segundo argumento é o valor que será retornado quando o elemento
 do vetor_de_condicoes forTRUE;
 
-• o terceiro argumento é o valor que será retornado quando o elemento
+* o terceiro argumento é o valor que será retornado quando o elemento
 do vetor_de_condicoes for FALSE.
 
 Minha experiência com programação tem demonstrado que usar funções que operam
@@ -2977,7 +2977,7 @@ boxplot(x)
 
 C0
 
-n • 20
+n * 20
 
 B C D
 
@@ -3352,7 +3352,7 @@ RR Console _<
 
 > require(tidyverse)
 
-> * <“ c(O, 2f3,4f 5)
+> * <" c(O, 2f3,4f 5)
 
 > V <* C(5.4,6, 4,7. 5)
 
@@ -3373,7 +3373,7 @@ geom_line()+
 geom_point()+
 xlab("x")+
 
-ylab(“y")
+ylab("y")
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
@@ -4367,7 +4367,7 @@ A
 
 > y <- c(5.4,6.4,?. 9}
 
-> z <- c(”anf"b","awf' ■b”, "a", ■
+> z <- c("anf"b","awf' ■b", "a", ■
 
 > graf o data-framé(x,yr 2)
 

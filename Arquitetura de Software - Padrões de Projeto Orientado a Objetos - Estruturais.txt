@@ -32,13 +32,13 @@ Esse padrão de projeto deve ser utilizado quando se deseja evitar um vínculo p
 Ele provê alto nível de desacoplamento de componentes, fazendo uma ponte entre as hierarquias de classes relacionadas. Esse padrão de projeto é um pouco complicado de se entender, portanto prestem atenção! Considerem a hipótese de um conjunto de janelas gráficas que funcionem em diversas plataformas (Windows, Linux, Mac, etc). Professor, por que não usar o Adapter? De fato, ele poderia adaptar interfaces para cada uma das plataformas.
 No entanto, há dezenas de tipos de janelas gráficas (Diálogo, Aviso, Erro, etc), tornando a utilização inviável para grandes quantidades. Uma ideia melhor seria criar uma interface para plataformas e outra para janelas. A primeira conteria os elementos comuns das plataformas e teria classes concretas específicas para implementar janelas em Linux, Mac, etc; e a segunda conteria elementos comuns das janelas e teria classes concretas específicas para implementar janelas Aviso, Erro, etc.
 Logo, ao chamar um método da classe concreta da interface de janelas, ela realizará chamadas aos métodos concretos da interface de plataformas. Assim, caso se queira adicionar mais tipos de janelas ou mais plataformas, não haverá impacto no cliente, não haverá recompilação de código nem vínculo entre interfaces de um e implementações de outros. O desacoplamento permite que se modifique o código da interface sem alterar a implementação das janelas e vice-versa.
-Notem que, assim, pode-se combinar as interfaces e implementações de quaisquer maneiras possíveis – essa é vantagem do padrão Bridge. Esse padrão nos lembra do padrão bridge.
+Notem que, assim, pode-se combinar as interfaces e implementações de quaisquer maneiras possíveis - essa é vantagem do padrão Bridge. Esse padrão nos lembra do padrão bridge.
 
 Composite
 
 Esse padrão compõe objetos em estruturas de árvore para representar hierarquias parte-todo, permitindo aos clientes tratarem objetos individuais e composições de objetos uniformemente.
 Esse padrão de projeto deve ser utilizado quando se deseja representar hierarquias parte-todo de objetos e quando se deseja que os clientes ignorem a diferença entre composições de objetos e objetos individuais. Assim, eles tratarão todos os objetos em uma estrutura composta uniformemente. Considerem a hipótese de uma interface gráfica composta de vários objetos. Em muitos casos, esses objetos são compostos de outros objetos. Exemplo de implementação:
-Por meio de uma árvore de forma transparente para o cliente – ele não precisa saber de nada disso. Assim, ele não deve diferenciar objetos individuais (folhas) de objetos compostos (nós).
+Por meio de uma árvore de forma transparente para o cliente - ele não precisa saber de nada disso. Assim, ele não deve diferenciar objetos individuais (folhas) de objetos compostos (nós).
 
 Decorator
 

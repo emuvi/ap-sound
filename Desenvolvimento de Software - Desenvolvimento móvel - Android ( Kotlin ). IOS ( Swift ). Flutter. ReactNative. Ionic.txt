@@ -430,7 +430,7 @@ bibliotecas adicionais que facilitam a adição de
 funcionalidades e recursos extras aos aplicativos.
 Algumas dessas bibliotecas incluem:
 
-• Jetpack: Jetpack é um conjunto de bibliotecas que
+* Jetpack: Jetpack é um conjunto de bibliotecas que
 oferece ferramentas e componentes para acelerar o
 desenvolvimento de interfaces de usuário (UI) no
 Android. Ele inclui o Jetpack Compose, que é uma
@@ -439,7 +439,7 @@ usuário nativas do Android, simplificando o
 desenvolvimento com menos código e APIs intuitivas
 em Kotlin.
 
-• AndroidX: O AndroidX é uma versão refatorada das APIs do Android que não são
+* AndroidX: O AndroidX é uma versão refatorada das APIs do Android que não são
 incluídas
 no sistema operacional. Ele oferece suporte a bibliotecas como o Constraint Layout, que
 fornece APIs para a construção de layouts baseados em restrições, e o Data Binding
@@ -448,14 +448,14 @@ que ajuda a escrever layouts declarativos e minimiza o código necessário para 
 a
 lógica do aplicativo aos layouts.
 
-• Bibliotecas do dispositivo: Existem bibliotecas
+* Bibliotecas do dispositivo: Existem bibliotecas
 específicas para dispositivos, como a Android
 Automotive Library, que fornece APIs para a
 construção de aplicativos para veículos automotivos, e
 a Android Game Development Kit libraries, que
 facilitam a criação e otimização de jogos.
 
-• Outras bibliotecas: O Android também possui
+* Outras bibliotecas: O Android também possui
 bibliotecas como o Material Components, que ajuda
 os desenvolvedores a implementar o design do
 Material Design em seus aplicativos, e o Android NDK,
@@ -705,20 +705,20 @@ Cada app Android é ativado na própria sandbox de segurança, protegido pelos s
 recursos
 de segurança do Android:
 
-• O sistema operacional Android é um sistema Linux multiusuário em que cada aplicativo é
+* O sistema operacional Android é um sistema Linux multiusuário em que cada aplicativo é
 um usuário diferente.
 
-• Por padrão, o sistema atribui a cada aplicativo um código de usuário do Linux exclusivo (o
+* Por padrão, o sistema atribui a cada aplicativo um código de usuário do Linux exclusivo (o
 código é usado somente pelo sistema e é desconhecido para o aplicativo). O sistema
 define
 permissões para todos os arquivos em um aplicativo, de modo que somente o código de
 usuário atribuído àquele aplicativo pode acessá-los.
 
-• Cada processo tem a própria máquina virtual (VM), portanto, o código de um
+* Cada processo tem a própria máquina virtual (VM), portanto, o código de um
 aplicativo é
 executado isoladamente de outros aplicativos.
 
-• Por padrão, cada aplicativo é executado no próprio processo do Linux. O Android
+* Por padrão, cada aplicativo é executado no próprio processo do Linux. O Android
 inicia o
 processo quando é preciso executar algum componente do aplicativo. Em seguida, encerra-
 o quando não mais é necessário ou quando o sistema precisa recuperar
@@ -1317,18 +1317,18 @@ e tags que definem as características e comportamentos do aplicativo. Alguns el
 comuns
 encontrados no manifesto são:
 
-• <manifest>: A tag raiz que envolve todo o conteúdo do arquivo manifest.
+* <manifest>: A tag raiz que envolve todo o conteúdo do arquivo manifest.
 
-• <uses-permission>: Permite solicitar permissões ao usuário para acessar recursos ou
+* <uses-permission>: Permite solicitar permissões ao usuário para acessar recursos ou
 funcionalidades do dispositivo, como câmera, localização ou acesso à internet.
 
-• <application>: Define as configurações e componentes principais do aplicativo, como
+* <application>: Define as configurações e componentes principais do aplicativo, como
 atividades, serviços e provedores de conteúdo.
 
-• <activity>: Descreve as atividades do aplicativo, que representam as diferentes telas e
+* <activity>: Descreve as atividades do aplicativo, que representam as diferentes telas e
 interações com o usuário.
 
-• <service>: Especifica os serviços em segundo plano que podem ser executados pelo
+* <service>: Especifica os serviços em segundo plano que podem ser executados pelo
 aplicativo.
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
@@ -1344,20 +1344,20 @@ Paolla Ramos e Silva
 
 Aula 20 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• <receiver>: Define os receptores de transmissão (broadcast
+* <receiver>: Define os receptores de transmissão (broadcast
 receivers), que são
 componentes capazes de responder a eventos ou ações específicas do sistema ou de outros
 aplicativos.
 
-• <provider>: Descreve os provedores de conteúdo, que permitem compartilhar dados
+* <provider>: Descreve os provedores de conteúdo, que permitem compartilhar dados
 entre
 aplicativos ou fornecer acesso a dados específicos do aplicativo para outros componentes.
 
-• <intent-filter>: Define filtros de intenção (intent filters) para os componentes,
+* <intent-filter>: Define filtros de intenção (intent filters) para os componentes,
 especificando
 quais tipos de ações, categorias ou esquemas de URI eles podem responder.
 
-• <meta-data>: Permite adicionar metadados adicionais ao aplicativo.
+* <meta-data>: Permite adicionar metadados adicionais ao aplicativo.
 
 O AndroidManifest.xml é gerado automaticamente pelo Android Studio durante o
 processo de
@@ -1450,12 +1450,12 @@ aplicativos podem fazer enquanto os usuários não estão interagindo diretament
 com eles. Os
 aplicativos são limitados de duas maneiras:
 
-• Restrições de serviços em segundo plano: enquanto um aplicativo está ocioso, há
+* Restrições de serviços em segundo plano: enquanto um aplicativo está ocioso, há
 limites
 para o uso dos serviços em segundo plano. Isso não se aplica aos serviços em primeiro
 plano, que são mais evidentes para o usuário.
 
-• Restrições de transmissão: com exceções limitadas, os aplicativos não
+* Restrições de transmissão: com exceções limitadas, os aplicativos não
 podem usar os
 manifestos para registrar-se em transmissões implícitas. Os aplicativos ainda
 poderão se
@@ -1494,11 +1494,11 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 204
 
 
-• Ele tem uma atividade visível, independentemente de ela estar em andamento ou pausada.
+* Ele tem uma atividade visível, independentemente de ela estar em andamento ou pausada.
 
-• Ele tem um serviço de primeiro plano.
+* Ele tem um serviço de primeiro plano.
 
-• Outro aplicativo está conectado a ele, seja por vinculação de um dos serviços
+* Outro aplicativo está conectado a ele, seja por vinculação de um dos serviços
 ou pelo uso
 de um dos provedores de conteúdo. Por exemplo, o aplicativo estará em primeiro plano
 se
@@ -2572,7 +2572,7 @@ Enterprise para o gerenciamento de dispositivos móveis no ambiente corporativo.
 desses
 casos de uso incluem:
 
-• Gerenciamento de dispositivos pessoais: O Android Enterprise permite que os
+* Gerenciamento de dispositivos pessoais: O Android Enterprise permite que os
 funcionários
 usem seus próprios dispositivos pessoais no ambiente de trabalho. Com a
 solução, é
@@ -2582,7 +2582,7 @@ garante a segregação de aplicativos e dados pessoais e corporativos, protegend
 a
 privacidade de cada usuário.
 
-• Dispositivos corporativos com perfis separados: Para dispositivos de
+* Dispositivos corporativos com perfis separados: Para dispositivos de
 propriedade da
 empresa, o Android Enterprise suporta a criação de perfis pessoais e
 profissionais
@@ -2592,7 +2592,7 @@ profissionais, mantendo os dados e aplicativos separados para garantir a
 segurança e
 privacidade das informações corporativas.
 
-• Dispositivos corporativos com perfil profissional: O Android Enterprise
+* Dispositivos corporativos com perfil profissional: O Android Enterprise
 também suporta a
 configuração de dispositivos de propriedade da empresa que têm apenas um
 perfil
@@ -2600,7 +2600,7 @@ profissional. Nesse caso, o dispositivo é totalmente gerenciado pela empresa, c
 políticas
 de segurança, aplicativos e configurações controlados pela organização.
 
-• Dispositivos dedicados para tarefas específicas: O Android Enterprise é
+* Dispositivos dedicados para tarefas específicas: O Android Enterprise é
 adequado para
 dispositivos usados para tarefas especializadas, como leitores de código de
 barras ou
@@ -2609,7 +2609,7 @@ perfil
 profissional e são totalmente gerenciados pela empresa, com acesso restrito a aplicativos
 específicos necessários para a tarefa em questão.
 
-• Dispositivos para serviços dedicados: Nesse caso de uso, os dispositivos são
+* Dispositivos para serviços dedicados: Nesse caso de uso, os dispositivos são
 destinados a
 serviços específicos, como dispositivos de campo para técnicos ou funcionários
 externos.
@@ -3787,9 +3787,9 @@ seu código. O Swift fornece um tipo de inteiro adicional, Int, que tem o mesmo
 tamanho que o
 tamanho da palavra nativa da plataforma atual:
 
-• Em uma plataforma de 32 bits, Int tem o mesmo tamanho que Int32.
+* Em uma plataforma de 32 bits, Int tem o mesmo tamanho que Int32.
 
-• Em uma plataforma de 64 bits, Int tem o mesmo tamanho que Int64.
+* Em uma plataforma de 64 bits, Int tem o mesmo tamanho que Int64.
 
 A menos que você precise trabalhar com um tamanho específico de inteiro, sempre use
 Int para
@@ -3805,9 +3805,9 @@ O Swift também fornece um tipo de inteiro não assinado, Ulnt, que tem o mesmo
 tamanho que o
 tamanho da palavra nativa da plataforma atual:
 
-• Em uma plataforma de 32 bits, Ulnt tem o mesmo tamanho que Ulnt32.
+* Em uma plataforma de 32 bits, Ulnt tem o mesmo tamanho que Ulnt32.
 
-• Em uma plataforma de 64 bits, Ulnt tem o mesmo tamanho que Ulnt64.
+* Em uma plataforma de 64 bits, Ulnt tem o mesmo tamanho que Ulnt64.
 
 Use Ulnt apenas quando você precisa especificamente de um tipo de inteiro não assinado
 com o
@@ -3831,9 +3831,9 @@ inteiros e podem armazenar números que são muito maiores ou menores do que
 podem ser
 armazenados em um Int. O Swift fornece dois tipos de números de ponto flutuante com sinal:
 
-• Double representa um número de ponto flutuante de 64 bits.
+* Double representa um número de ponto flutuante de 64 bits.
 
-• Float representa um número de ponto flutuante de 32 bits.
+* Float representa um número de ponto flutuante de 32 bits.
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 55
@@ -3949,13 +3949,13 @@ Literais Numéricos
 
 Literais inteiros podem ser escritos como:
 
-• Um número decimal, sem prefixo
+* Um número decimal, sem prefixo
 
-• Um número binário, com o prefixo 0b
+* Um número binário, com o prefixo 0b
 
-• Um número octal, com o prefixo 0o
+* Um número octal, com o prefixo 0o
 
-• Um número hexadecimal, com o prefixo 0x
+* Um número hexadecimal, com o prefixo 0x
 Todos esses literais inteiros têm um valor decimal de 17:
 
 let decimallnteger = 17
@@ -3977,9 +3977,9 @@ minúsculo.
 
 Para números decimais com um expoente de x, o número base é multiplicado por 10x:
 
-• 1,25e2 significa 1.25 x 102, ou 125.0.
+* 1,25e2 significa 1.25 x 102, ou 125.0.
 
-• 1,25e-2 significa 1.25 x 10“2, ou 0.0125.
+* 1,25e-2 significa 1.25 x 10"2, ou 0.0125.
 
 Para números hexadecimais com um expoente de x, o número base é multiplicado por 2X:
 
@@ -3996,9 +3996,9 @@ Paolla Ramos e Silva
 
 Aula 20 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• 0xFp2 significa 15 x 22, ou 60.0.
+* 0xFp2 significa 15 x 22, ou 60.0.
 
-• OxFp-2 significa 15 x 2“2, ou 3.75.
+* OxFp-2 significa 15 x 2"2, ou 3.75.
 
 Todos esses literais de ponto flutuante têm um valor decimal de 12.1875:
 
@@ -4450,13 +4450,13 @@ Operadores aritméticos:
 
 Swift suporta os quatro operadores aritméticos padrão para todos os tipos numéricos:
 
-• Adição (+)
+* Adição (+)
 
-• Subtração (-)
+* Subtração (-)
 
-• Multiplicação (*)
+* Multiplicação (*)
 
-• Divisão (/)
+* Divisão (/)
 
 1 + 2 // resulta em 3
 
@@ -4506,17 +4506,17 @@ Operadores de comparação:
 
 O Swift suporta os seguintes operadores de comparação:
 
-• Igual a (a == b)
+* Igual a (a == b)
 
-• Diferente de (a != b)
+* Diferente de (a != b)
 
-• Maior que (a > b)
+* Maior que (a > b)
 
-• Menor que (a < b)
+* Menor que (a < b)
 
-• Maior ou igual a (a >= b)
+* Maior ou igual a (a >= b)
 
-• Menor ou igual a (a <= b)
+* Menor ou igual a (a <= b)
 
 Cada um dos operadores de comparaçao retorna um valor Bool para indicar se a
 afirmação é
@@ -4625,11 +4625,11 @@ Os operadores lógicos modificam ou combinam os valores lógicos booleanos true 
 Swift
 suporta os três operadores lógicos padrão encontrados em linguagens baseadas em C:
 
-• Operador lógico NOT (la)
+* Operador lógico NOT (la)
 
-• Operador lógico AND (a && b)
+* Operador lógico AND (a && b)
 
-• Operador lógico OR (a II b)
+* Operador lógico OR (a II b)
 
 * SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 66
@@ -4639,7 +4639,7 @@ Paolla Ramos e Silva
 
 Aula 20 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• Operador lógico NOT
+* Operador lógico NOT
 
 O operador lógico NOT (!a) inverte um valor booleano, fazendo com que true se torne
 false e false
@@ -5337,15 +5337,15 @@ seguinte:
 
 Grid interface Data-entry interface
 
-• Preencher suas visualizações com dados e atualizar essas visualizações quando os dados
+* Preencher suas visualizações com dados e atualizar essas visualizações quando os dados
 mudarem.
 
-• Informar as alterações nos dados de volta aos objetos do seu modelo de dados.
+* Informar as alterações nos dados de volta aos objetos do seu modelo de dados.
 
-• Ajustar o tamanho, posição e visibilidade das visualizações para corresponder ao ambiente
+* Ajustar o tamanho, posição e visibilidade das visualizações para corresponder ao ambiente
 atual.
 
-• Facilitar transições para outras páginas de conteúdo.
+* Facilitar transições para outras páginas de conteúdo.
 
 Apresentando e gerenciando visualizações com um view controller
 
@@ -5487,7 +5487,7 @@ view controller precisa saber sobre muitas dessas interações para poder
 atualizar suas
 visualizações, e você tem várias maneiras de fazer isso:
 
-• Implemente métodos de delegado e ação em seu view controller. Essa opção é simples
+* Implemente métodos de delegado e ação em seu view controller. Essa opção é simples
 e
 fácil de implementar, mas oferece menos flexibilidade e torna mais difícil testar e
 validar
@@ -5510,13 +5510,13 @@ Paolla Ramos e Silva
 
 Aula 20 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• Implemente métodos de delegado e ação em uma extensão de classe em
+* Implemente métodos de delegado e ação em uma extensão de classe em
 seu view
 controller. Essa opção separa seu código de tratamento de eventos do restante do seu
 view
 controller, facilitando o teste e a validação desse código.
 
-• Implemente métodos de delegado e ação em objetos dedicados que, em
+* Implemente métodos de delegado e ação em objetos dedicados que, em
 seguida,
 encaminham informações relevantes para seu view controller. Essa opção oferece
 mais
@@ -5783,14 +5783,14 @@ necessários para gerenciar a hierarquia de visualização do controlador de exi
 
 As principais responsabilidades de um controlador de exibição incluem:
 
-• Atualizar o conteúdo das visualizações, geralmente em resposta a mudanças nos dados
+* Atualizar o conteúdo das visualizações, geralmente em resposta a mudanças nos dados
 subjacentes.
 
-• Responder às interações do usuário com as visualizações.
+* Responder às interações do usuário com as visualizações.
 
-• Redimensionar as visualizações e gerenciar o layout da interface geral.
+* Redimensionar as visualizações e gerenciar o layout da interface geral.
 
-• Coordenar com outros objetos, incluindo outros controladores de exibição, em seu
+* Coordenar com outros objetos, incluindo outros controladores de exibição, em seu
 aplicativo.
 
 Um controlador de exibição está intimamente ligado às visualizações que ele gerencia e
@@ -5905,7 +5905,7 @@ UlCollectionViewController
 
 O controlador de exibição implementa o seguinte comportamento:
 
-• Se o controlador de exibição de coleção tiver um arquivo NIB atribuído
+* Se o controlador de exibição de coleção tiver um arquivo NIB atribuído
 ou tiver sido
 carregado de um storyboard, ele carrega sua exibição a partir do arquivo NIB ou
 storyboard
@@ -5915,7 +5915,7 @@ ele cria automaticamente um novo objeto de coleção não configurado, que pode
 ser
 acessado usando a propriedade collectionView.
 
-• Ao carregar uma coleção de exibição de um storyboard ou arquivo NIB, os
+* Ao carregar uma coleção de exibição de um storyboard ou arquivo NIB, os
 objetos de
 origem de dados (data source) e delegado (delegate) para a coleção de
 exibição são
@@ -5923,7 +5923,7 @@ obtidos do arquivo NIB. Se um data source ou delegate não for especificado, o
 controlador
 de exibição de coleção atribui a si mesmo para o papel não especificado.
 
-• Quando a coleção de exibição está prestes a aparecer pela primeira vez, o
+* Quando a coleção de exibição está prestes a aparecer pela primeira vez, o
 controlador de
 exibição de coleção recarrega os dados da coleção de exibição. Ele também limpa a
 seleção
@@ -6603,9 +6603,9 @@ enquanto um componente de galeria de imagens pode usar o State para armazenar o
 índice da
 imagem selecionada. Para adicionar State a um componente, utilize um destes Hooks:
 
-• useState declara uma variável de State que você pode atualizar diretamente.
+* useState declara uma variável de State que você pode atualizar diretamente.
 
-• useReducer declara uma variável de State com a lógica de atualização dentro de uma função
+* useReducer declara uma variável de State com a lógica de atualização dentro de uma função
 redutora.
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
@@ -6778,7 +6778,7 @@ interface do usuário atual para todos os componentes abaixo, independentemente
 de quão
 profundos estejam.
 
-• useContext lê e se inscreve em um contexto.
+* useContext lê e se inscreve em um contexto.
 
 function Button() {
 
@@ -6811,7 +6811,7 @@ de emergência" do paradigma do React. Eles são úteis quando você precisa
 trabalhar com
 sistemas não relacionados ao React, como as APIs nativas do navegador.
 
-• useRef declara um Ref. Você pode armazenar qualquer valor nele, mas na maioria das vezes
+* useRef declara um Ref. Você pode armazenar qualquer valor nele, mas na maioria das vezes
 é usado para armazenar um nó DOM.
 
 uselmperativeHandle permite personalizar o Ref exposto pelo seu componente. Isso
@@ -6831,7 +6831,7 @@ lidar com rede, DOM do navegador, animações, widgets escritos usando uma
 biblioteca de
 interface de usuário diferente e outros códigos não relacionados ao React.
 
-• useEffect conecta um componente a um sistema externo.
+* useEffect conecta um componente a um sistema externo.
 
 function ChatRoom({ roomld }) {
 useEffect(() => {
@@ -6852,7 +6852,7 @@ ser que não precise de um Effect.
 
 Existem duas variações raramente usadas de useEffect com diferenças no tempo de execução:
 
-• useLayoutEffect é disparado antes de o navegador repintar a tela. Você pode medir o layout
+* useLayoutEffect é disparado antes de o navegador repintar a tela. Você pode medir o layout
 aqui.
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
@@ -6868,7 +6868,7 @@ Paolla Ramos e Silva
 
 Aula 20 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• uselnsertionEffect é disparado antes de o React fazer alterações no DOM. Bibliotecas
+* uselnsertionEffect é disparado antes de o React fazer alterações no DOM. Bibliotecas
 podem inserir CSS dinâmico aqui.
 
 Performance Hooks
@@ -6881,9 +6881,9 @@ uma nova renderização se os dados não foram alterados desde a renderização 
 
 Para pular cálculos e renderizações desnecessárias, use um destes Hooks:
 
-• useMemo permite que você armazene em cache o resultado de um cálculo caro.
+* useMemo permite que você armazene em cache o resultado de um cálculo caro.
 
-• useCalIback permite que você armazene em cache uma definição de função antes de passá-
+* useCalIback permite que você armazene em cache uma definição de função antes de passá-
 la para um componente otimizado.
 
 function TodoList({ todos, tab, theme }) {
@@ -6904,10 +6904,10 @@ precisam bloquear a interface do usuário (como atualizar um gráfico).
 
 Para priorizar a renderização, use um destes Hooks:
 
-• useTransition permite marcar uma transição de estado como não bloqueadora e permite
+* useTransition permite marcar uma transição de estado como não bloqueadora e permite
 que outras atualizações a interrompam.
 
-• useDeferredValue permite adiar a atualização de uma parte não crítica da interface do
+* useDeferredValue permite adiar a atualização de uma parte não crítica da interface do
 usuário e permitir que outras partes se atualizem primeiro.
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
@@ -6944,7 +6944,7 @@ script. Se você deseja aprender mais sobre o lonic antes de mergulhar, criamos 
 vídeo para
 guiar você pelos conceitos básicos.
 
-• Um único código-base, rodando em todos os lugares: O lonic é a única pilha de
+* Um único código-base, rodando em todos os lugares: O lonic é a única pilha de
 aplicativos
 móveis que permite aos desenvolvedores web criar aplicativos para todas as principais
 lojas
@@ -6952,19 +6952,19 @@ de aplicativos e a web móvel a partir de um único código-base. E com o Adapti
 Styling,
 os aplicativos lonic parecem e funcionam perfeitamente em todos os dispositivos.
 
-• Foco em desempenho: O lonic foi construído para ter um ótimo
+* Foco em desempenho: O lonic foi construído para ter um ótimo
 desempenho nos
 dispositivos móveis mais recentes, seguindo as melhores práticas, como
 transições
 aceleradas por hardware eficientes e gestos otimizados para toque.
 
-• Design limpo, simples e funcional: O lonic foi projetado para funcionar e ser
+* Design limpo, simples e funcional: O lonic foi projetado para funcionar e ser
 exibido com
 beleza em todos os dispositivos móveis e plataformas atuais. Com componentes prontos,
 tipografia e um tema base lindo (mas extensível) que se adapta a cada plataforma, você
 estará construindo com estilo.
 
-• Otimizado para Nativo e Web: O lonic emula as diretrizes de interface de
+* Otimizado para Nativo e Web: O lonic emula as diretrizes de interface de
 usuário de
 aplicativos nativos e usa SDKs nativos, unindo os padrões de IU e recursos do
 dispositivo
@@ -6973,12 +6973,12 @@ Capacitor
 (ou Cordova) para implantação nativa ou é executado no navegador como um Progressive
 Web App.
 
-• Cross-platform: Construa e implante aplicativos que funcionem em várias
+* Cross-platform: Construa e implante aplicativos que funcionem em várias
 plataformas,
 como iOS nativo, Android e a web como Progressive Web App - tudo com uma única base
 de código. Escreva uma vez, execute em qualquer lugar.
 
-• Baseado em Padrões Web: O lonic é construído sobre tecnologias web
+* Baseado em Padrões Web: O lonic é construído sobre tecnologias web
 confiáveis e
 padronizadas: HTML, CSS e JavaScript, usando APIs web modernas, como Elementos
 
@@ -6998,12 +6998,12 @@ Aula 20 (Profs. Paolla Ramos e Raphael Lacerda)
 Personalizados e Shadow DOM. Por causa disso, os componentes do lonic têm uma API
 estável e não dependem exclusivamente de um único fornecedor de plataforma.
 
-• Design bonito: Limpo, simples e funcional. O lonicfoi projetado para funcionar e
+* Design bonito: Limpo, simples e funcional. O lonicfoi projetado para funcionar e
 ser exibido
 de forma bonita, pronto para uso em todas as plataformas. Comece com componentes pré-
 projetados, tipografia, paradigmas interativos e um tema base lindo (mas extensível).
 
-• Simplicidade: O lonic foi construído com simplicidade em mente, para que a
+* Simplicidade: O lonic foi construído com simplicidade em mente, para que a
 criação de
 aplicativos seja agradável, fácil de aprender e acessível para qualquer pessoa
 com
@@ -7375,25 +7375,25 @@ desenvolvedores. Para melhor visualização, separei uma lista dos 10
 frameworks de
 desenvolvimento de aplicativos móveis mais conhecidos e amplamente usados em todo o mundo:
 
-• Flutter (Google)
+* Flutter (Google)
 
-• React Native (Facebook)
+* React Native (Facebook)
 
-• Xamarin (Microsoft)
+* Xamarin (Microsoft)
 
-• lonic
+* lonic
 
-• Cordova (PhoneGap)
+* Cordova (PhoneGap)
 
-• NativeScript
+* NativeScript
 
-• SwiftUI (Apple)
+* SwiftUI (Apple)
 
-• Adobe PhoneGap
+* Adobe PhoneGap
 
-• jQuery Mobile
+* jQuery Mobile
 
-• Sencha Ext JS
+* Sencha Ext JS
 
 Embora o Corona SDK seja um framework conhecido, ele nao está entre os 10 primeiros
 nessa
@@ -7848,22 +7848,22 @@ produtivos.
 
 Ao utilizar Kotlin para o desenvolvimento Android, você pode se beneficiar de:
 
-• Menos código combinado com maior legibilidade. Gaste menos tempo
+* Menos código combinado com maior legibilidade. Gaste menos tempo
 escrevendo seu
 código e compreendendo o código de outros desenvolvedores.
 
-• Menos erros comuns. Aplicativos construídos com Kotlin têm 20% menos
+* Menos erros comuns. Aplicativos construídos com Kotlin têm 20% menos
 chances de
 apresentar falhas, de acordo com dados internos do Google.
 
-• Suporte ao Kotlin em bibliotecas Jetpack. O Jetpack Compose é o kit
+* Suporte ao Kotlin em bibliotecas Jetpack. O Jetpack Compose é o kit
 de ferramentas
 moderno recomendado pelo Android para construir interfaces de usuário nativas em Kotlin.
 As extensões KTX adicionam recursos da linguagem Kotlin, como coroutines,
 funções de
 extensão, lambdas e parâmetros nomeados, às bibliotecas Android existentes.
 
-• Suporte para desenvolvimento multiplataforma. O Kotlin
+* Suporte para desenvolvimento multiplataforma. O Kotlin
 Multiplatform permite o
 desenvolvimento não apenas para Android, mas também para iOS, backend e aplicações
 
@@ -7887,18 +7887,18 @@ Compose, torna possível compartilhar interfaces de usuário entre
 plataformas - iOS,
 Android, desktop e web.
 
-• Linguagem e ambiente maduros. Desde sua criação em 2011, o Kotlin tem se
+* Linguagem e ambiente maduros. Desde sua criação em 2011, o Kotlin tem se
 desenvolvido
 continuamente, não apenas como uma linguagem, mas como um ecossistema completo
 com ferramentas robustas. Agora, está integrado perfeitamente ao Android Studio
 e é
 amplamente utilizado por várias empresas no desenvolvimento de aplicativos Android.
 
-• Interoperabilidade com Java. Você pode usar Kotlin juntamente com a
+* Interoperabilidade com Java. Você pode usar Kotlin juntamente com a
 linguagem de
 programação Java em seus aplicativos sem precisar migrar todo o seu código para Kotlin.
 
-• Fácil aprendizado. O Kotlin é muito fácil de aprender, especialmente para
+* Fácil aprendizado. O Kotlin é muito fácil de aprender, especialmente para
 desenvolvedores
 Java.
 
@@ -7988,33 +7988,33 @@ máquina virtual ou tempo de execução adicional.
 
 Plataformas de destino O Kotlin/Native suporta as seguintes plataformas:
 
-• macOS
+* macOS
 
-• iOS, tvOS, watchOS
+* iOS, tvOS, watchOS
 
-• Linux
+* Linux
 
-• Windows (MinGW)
+* Windows (MinGW)
 
-• Android NDK
+* Android NDK
 
 O Kotlin/Native suporta interoperabilidade bidirecional com linguagens de
 programação nativas
 para diferentes sistemas operacionais. O compilador cria:
 
-• um executável para várias plataformas
+* um executável para várias plataformas
 
-• uma biblioteca estática ou dinâmica com cabeçalhos C para projetos C/C++
+* uma biblioteca estática ou dinâmica com cabeçalhos C para projetos C/C++
 
-• um framework Apple para projetos Swift e Objective-C
+* um framework Apple para projetos Swift e Objective-C
 
 O Kotlin/Native suporta interoperabilidade para usar bibliotecas existentes
 diretamente do
 Kotlin/Native:
 
-• bibliotecas C estáticas ou dinâmicas
+* bibliotecas C estáticas ou dinâmicas
 
-• frameworks C, Swift e Objective-C
+* frameworks C, Swift e Objective-C
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 112
@@ -8780,21 +8780,21 @@ a idade média deles.
 
 Os seguintes tipos de coleção sao relevantes para o Kotlin:
 
-• A List é uma coleção ordenada com acesso aos elementos por meio de índices -
+* A List é uma coleção ordenada com acesso aos elementos por meio de índices -
 números
 inteiros que refletem sua posição. Os elementos podem ocorrer mais de uma vez em uma
 lista. Um exemplo de lista é um número de telefone: é um grupo de dígitos, sua
 ordem é
 importante e eles podem se repetir.
 
-• O Set é uma coleção de elementos únicos. Ele reflete a abstração
+* O Set é uma coleção de elementos únicos. Ele reflete a abstração
 matemática de um
 conjunto: um grupo de objetos sem repetições. Geralmente, a ordem dos
 elementos de
 um conjunto não tem importância. Por exemplo, os números em bilhetes de loteria formam
 um conjunto: eles são únicos e sua ordem não é importante.
 
-• O Map (ou dicionário) é um conjunto de pares chave-valor. As chaves são únicas
+* O Map (ou dicionário) é um conjunto de pares chave-valor. As chaves são únicas
 e cada
 uma delas está associada a exatamente um valor. Os valores podem ser duplicados. Os
 Maps são úteis para armazenar conexões lógicas entre objetos, por exemplo, o ID de um
@@ -9290,21 +9290,21 @@ Nesse exemplo, a classe Java chamada Classe_Java foi convertida para Kotlin como
 Classe_Kotlin.
 Veja as diferenças:
 
-• O modificador de acesso "public" da classe Java não foi especificado em Kotlin,
+* O modificador de acesso "public" da classe Java não foi especificado em Kotlin,
 pois o
 modificador de acesso padrão em Kotlin é mais restrito do que "public". Portanto, a
 classe
 Kotlin só pode ser acessada dentro do mesmo módulo.
 
-• Os atributos privados da classe Java foram convertidos para atributos privados em
+* Os atributos privados da classe Java foram convertidos para atributos privados em
 Kotlin,
 seguindo a mesma sintaxe.
 
-• Os atributos d e curso em Kotlin não possuem um valor padrão definido como em
+* Os atributos d e curso em Kotlin não possuem um valor padrão definido como em
 Java. Em
 Kotlin, eles são inicializados implicitamente como 0 e "Estratégia", respectivamente.
 
-• A classe Kotlin Classe_Kotlin não possui um construtor primário declarado
+* A classe Kotlin Classe_Kotlin não possui um construtor primário declarado
 explicitamente.
 No entanto, ela recebe dois parâmetros (aula e professor) no construtor primário, que
 são

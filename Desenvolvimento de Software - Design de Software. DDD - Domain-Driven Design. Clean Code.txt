@@ -203,21 +203,21 @@ Quando se fala em Orientação a Objetos pensa-se logo em classes, heranças,
 polimorfismo,
 encapsulamento. Mas a essência da Orientação a Objetos também tem elementos como:
 
-• Alinhamento do código com o negócio: o contato dos desenvolvedores com os
+* Alinhamento do código com o negócio: o contato dos desenvolvedores com os
 especialistas
 do domínio é algo essencial quando se faz DDD (o pessoal de métodos ágeis já sabe disso faz
 tempo);
 
-• Favorecer reutilização: os blocos de construção, que veremos adiante, facilitam
+* Favorecer reutilização: os blocos de construção, que veremos adiante, facilitam
 aproveitar
 um mesmo conceito de domínio ou um mesmo código em vários lugares;
 
-• Mínimo de acoplamento: Com um modelo bem-feito, organizado, as várias partes de
+* Mínimo de acoplamento: Com um modelo bem-feito, organizado, as várias partes de
 um
 sistema interagem sem que haja muita dependência entre módulos ou classes de objetos de
 conceitos distintos;
 
-• Independência da Tecnologia: DDD não foca em tecnologia, mas sim em entender as
+* Independência da Tecnologia: DDD não foca em tecnologia, mas sim em entender as
 regras
 de negócio e como elas devem estar refletidas no código e no modelo de domínio. Não
 que
@@ -302,11 +302,11 @@ Naked Objects é um padrão de arquitetura usado na engenharia de software. É d
 por três
 princípios:
 
-• Toda a lógica de negócios deve ser encapsulada nos objetos de domínio. Este
+* Toda a lógica de negócios deve ser encapsulada nos objetos de domínio. Este
 princípio não é
 exclusivo de objetos nus; é um forte compromisso com o encapsulamento.
 
-• A interface do usuário deve ser uma representação direta dos objetos do domínio,
+* A interface do usuário deve ser uma representação direta dos objetos do domínio,
 com todas
 as ações do usuário consistindo em criar, recuperar ou invocar métodos nos
 objetos do
@@ -314,7 +314,7 @@ domínio. Este princípio não é exclusivo de objetos nus: é uma interpretaç�
 interface
 de usuário orientada a objetos.
 
-• O recurso inovador do padrão de objeto nu surge combinando o Io e 2o
+* O recurso inovador do padrão de objeto nu surge combinando o Io e 2o
 princípios em um 3
 
 0 princípio:
@@ -1451,17 +1451,17 @@ Testes limpos seguem as regras do acrônimo FIRST (Fast, Indepedent, Repeatable,
 Self-validation,
 Timely).
 
-• Rapidez: os testes devem ser rápidos para que possam ser executados diversas vezes;
+* Rapidez: os testes devem ser rápidos para que possam ser executados diversas vezes;
 
-• Independência: quando testes são dependentes, uma falha pode causar um efeito dominó
+* Independência: quando testes são dependentes, uma falha pode causar um efeito dominó
 dificultando a análise individual;
 
-• Repetitividade: deve ser possível repetir o teste em qualquer ambiente;
+* Repetitividade: deve ser possível repetir o teste em qualquer ambiente;
 
-• Auto validação: bons testes possuem como resultado respostas do tipo verdadeiro ou falso.
+* Auto validação: bons testes possuem como resultado respostas do tipo verdadeiro ou falso.
 Caso contrário, a falha pode se tornar subjetiva;
 
-• Pontualidade: os testes precisam ser escritos antes do código de produção, onde
+* Pontualidade: os testes precisam ser escritos antes do código de produção, onde
 os testes
 serão aplicados. Caso contrário, o código pode ficar complexo demais para ser testado
 ou até
@@ -1528,7 +1528,7 @@ Paolla Ramos e Silva
 
 Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
 
-3 R’s da Arquitetura de software
+3 R's da Arquitetura de software
 
 O conceito do Clean Code é baseado nos 3 R's da Arquitetura de software, que são
 Readability
@@ -1567,18 +1567,18 @@ Are functions documented?
 
 principais características:
 
-• Nomes de variáveis;
+* Nomes de variáveis;
 
-• Nomes de funções;
+* Nomes de funções;
 
-• Formatação;
+* Formatação;
 
-• Níveis de aninhamento;
+* Níveis de aninhamento;
 
-• Quantidade de linhas em
+* Quantidade de linhas em
 funções;
 
-• Quantidade de Argumentos
+* Quantidade de Argumentos
 
 k passados a uma função.
 
@@ -1588,27 +1588,27 @@ possam ser reutilizadas dentro do
 
 sistema, priorizando fatores como:
 
-• Um nível de abstração;
+* Um nível de abstração;
 
-• Tamanho da função;
+* Tamanho da função;
 
-• Indentação;
+* Indentação;
 
-• Níveis de aninhamento;
+* Níveis de aninhamento;
 
-• Efeitos colaterais;
+* Efeitos colaterais;
 
-• Parâmetros de saída.
+* Parâmetros de saída.
 
 O refatoramento diz respeito à capacidade do sistema em permitir a otimização da
 estrutura sem
 que outras funcionalidades sejam afetadas. Nesta etapa são priorizados os seguintes fatores:
 
-• Efeitos colaterais isolados;
+* Efeitos colaterais isolados;
 
-• Testes constantes de funcionalidades;
+* Testes constantes de funcionalidades;
 
-• Refinamento sucessivo.
+* Refinamento sucessivo.
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 25
@@ -1839,14 +1839,14 @@ um código legível.
 
 Para criar nomes que revelem seu propósito devemos seguir os seguintes conceitos:
 
-• Nomes de variáveis devem informar seu conteúdo ou sua finalidade.
+* Nomes de variáveis devem informar seu conteúdo ou sua finalidade.
 
-• Nomes de funções devem informar a atividade executada pela função.
+* Nomes de funções devem informar a atividade executada pela função.
 
-• Nomes bons dispensam comentários, sempre troque comentários sobre variáveis por um
+* Nomes bons dispensam comentários, sempre troque comentários sobre variáveis por um
 nome que facilite o entendimento.
 
-• Faça um bom uso do Naming Convention. Nomes de constantes no padrão SNAKE_CASE e
+* Faça um bom uso do Naming Convention. Nomes de constantes no padrão SNAKE_CASE e
 demais nomes no padrão CamelCase.
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
@@ -2318,18 +2318,18 @@ fechamento.
 
 Entretanto, há situações em que é recomendado fazer uso dos comentários, como:
 
-• Legal Comments: copyright e authorship podem ser necessários e razoáveis de se colocar no
+* Legal Comments: copyright e authorship podem ser necessários e razoáveis de se colocar no
 início de cada arquivo.
 
-• Informative Comments: por exemplo, explicando o formato aceito por uma expressão
+* Informative Comments: por exemplo, explicando o formato aceito por uma expressão
 regular.
 
-• Explanation of Intent: explicar a intenção por trás de uma decisão.
+* Explanation of Intent: explicar a intenção por trás de uma decisão.
 
-• Clarification: quando o código não puder ser modificado e algo obscuro necessitar ser
+* Clarification: quando o código não puder ser modificado e algo obscuro necessitar ser
 explicado.
 
-• Warning of Consequences: avisar os efeitos colaterais de se executar um método.Ex: Test
+* Warning of Consequences: avisar os efeitos colaterais de se executar um método.Ex: Test
 case demorado.
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
@@ -2345,11 +2345,11 @@ Paolla Ramos e Silva
 
 Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• TODO Comments: não é uma desculpa para deixar código ruim no sistema. Serve como
+* TODO Comments: não é uma desculpa para deixar código ruim no sistema. Serve como
 um
 lembrete.
 
-• Amplification: amplifica a importância de uma ação que caso contrário poderia
+* Amplification: amplifica a importância de uma ação que caso contrário poderia
 parecer sem
 importância.
 
@@ -2385,11 +2385,11 @@ facilitam a leitura.
 
 Os principais padrões de Naming Conventions para o java são:
 
-• CamelCase - Utilizado para nomearfunções e variáveis, este padrão remete que são
+* CamelCase - Utilizado para nomearfunções e variáveis, este padrão remete que são
 utilizadas
 palavras compostas e faz a distinção por iniciais em maiúsculo. EX: daysInMonth.
 
-• SNAKE_CASE - Utilizado para nomear constantes, este padrão é normalmente utilizado
+* SNAKE_CASE - Utilizado para nomear constantes, este padrão é normalmente utilizado
 com
 todos os caracteres em maiúsculo e um para a separação das palavras compostas, como
 no exemplo a seguir:
@@ -2656,7 +2656,7 @@ r■■■«■■■...........................................................
 ............... *................................ .. ............................................
 .. ................................................. .. ............................
 ............................... .. ............... .. .............■■■■■■
-••••■
+****■
 
 : (CESPE - MPE CE - 2020) Julgue o seguinte item, relativo a métricas de qualidade de código, clean
 i

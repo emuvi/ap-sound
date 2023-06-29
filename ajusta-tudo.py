@@ -49,6 +49,21 @@ def adjust_items(text):
     return text
 
 
+def adjust_chars(text):
+    print('Ajustando caracteres...')
+    result = []
+    for line in text:
+        line = line.replace('“', '"')
+        line = line.replace('”', '"')
+        line = line.replace('’', "'")
+        line = line.replace('‘', "'")
+        line = line.replace('–', '-')
+        line = line.replace('•', '*')
+        line = line.replace('…', '...')
+        result.append(line)
+    return result
+
+
 def list_paths():
     return [p for p in os.listdir('.') if p[-4:] == '.txt']
 
@@ -63,6 +78,7 @@ def adjust_text(text, path):
     print('Ajustando: ' + path)
     text = adjust_empty_lines(text)
     text = adjust_chapter(text, path)
+    text = adjust_chars(text)
     text = adjust_items(text)
     return text
 

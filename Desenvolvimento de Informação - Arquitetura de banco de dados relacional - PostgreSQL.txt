@@ -465,10 +465,10 @@ lançado em 3 de outubro de 2019. Inclui um amplo conjunto de novos recursos em
 relação
 às versões anteriores, incluindo o seguinte:
 
-• Várias otimizações de desempenho, variando de expressões de tabela comuns (CTE)
+* Várias otimizações de desempenho, variando de expressões de tabela comuns (CTE)
 embutidas ao enorme gerenciamento de partições de tabelas
 
-• Algumas otimizações administrativas, incluindo a reconstrução simultânea de índices,
+* Algumas otimizações administrativas, incluindo a reconstrução simultânea de índices,
 soma de verificação off-line e, mais notavelmente, relatórios sobre o progresso dos
 processos de manutenção
 
@@ -482,14 +482,14 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 06 (Prof. Thiago Cavalcanti)
 
-• Recursos de segurança, incluindo autenticação multifator e criptografia TCP/IP via
+* Recursos de segurança, incluindo autenticação multifator e criptografia TCP/IP via
 GSSAPI2 (Generic Security Service Application Program Interface)
 
-• Suporte para expressões de caminho SQL/JSON que especificam os itens a serem
+* Suporte para expressões de caminho SQL/JSON que especificam os itens a serem
 recuperados dos dados JSON, semelhantes às expressões XPath usadas para
 acesso SQL a XML.
 
-• Colunas geradas armazenadas são colunas especiais que sempre são calculadas a
+* Colunas geradas armazenadas são colunas especiais que sempre são calculadas a
 partir de outras colunas.
 
 O PostgreSQL 12 também contém um conjunto de mudanças destinadas a facilitar a vida
@@ -509,12 +509,12 @@ fh^TOME
 
 NOTA!
 
-• Particionamento, que agora inclui a capacidade de executar antes dos gatilhos em
+* Particionamento, que agora inclui a capacidade de executar antes dos gatilhos em
 tabelas particionadas, a capacidade de remover partições em casos extremos
 específicos para acelerar a execução de consultas e uma maneira melhor de unir
 partições em consultas (chamadas de junções por partição).
 
-• Replicação, que agora pode funcionar no nível lógico mesmo em
+* Replicação, que agora pode funcionar no nível lógico mesmo em
 tabelas
 particionadas, publicando automaticamente todas as partições. Além disso, agora
 não há promoção automática de um servidor se ele não atingir o alvo específico para
@@ -544,10 +544,10 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 06 (Prof. Thiago Cavalcanti)
 
-• índices, que agora são mais eficientes em geral para armazenar dados e aceitar
+* índices, que agora são mais eficientes em geral para armazenar dados e aceitar
 operadores com parâmetros.
 
-• Estatísticas, com particular atenção às melhorias nas estatísticas estendidas, aos
+* Estatísticas, com particular atenção às melhorias nas estatísticas estendidas, aos
 dados coletados e usados pelo otimizador e a algumas mudanças nos catálogos de
 monitoramento.
 
@@ -827,7 +827,7 @@ H serverjicense 09/02/2021 03:27
 Documento de Te... 2 KB
 
 
-• D:
+* D:
 
 |-1 StackBuilder_3rd_party_licenses
 B uninstall-postgresql
@@ -949,11 +949,11 @@ Aula 06 (Prof. Thiago Cavalcanti)
 
 O PostgreSQL divide os usuários em duas categorias principais:
 
-• Usuários normais: esses usuários são aqueles que podem se
+* Usuários normais: esses usuários são aqueles que podem se
 conectar e manipular bancos de dados e objetos, dependendo de seu
 conjunto de privilégios.
 
-• Superusuários: Esses usuários podem fazer qualquer coisa com
+* Superusuários: Esses usuários podem fazer qualquer coisa com
 qualquer objeto de banco de dados.
 
 O PostgreSQL permite a configuração de quantos superusuários você precisar, e
@@ -1113,23 +1113,23 @@ encarregado de servir a conexão.
 
 Esta é uma rápida recapitulação dos principais termos usados no PostgreSQL:
 
-• Cluster: refere-se a todo o serviço PostgreSQL.
+* Cluster: refere-se a todo o serviço PostgreSQL.
 
-• Postmaster: este é o primeiro processo que o cluster executa, e este processo é
+* Postmaster: este é o primeiro processo que o cluster executa, e este processo é
 responsável por manter o controle das atividades de todo o cluster. O postmaster
 bifurca-se em um processo de back-end toda vez que uma nova conexão é
 estabelecida.
 
-• Banco de dados: o banco de dados é um contêiner de dados isolado ao qual os
+* Banco de dados: o banco de dados é um contêiner de dados isolado ao qual os
 usuários (ou aplicativos) podem se conectar. Um cluster pode lidar com vários bancos
 de dados. Um banco de dados pode ser feito por diferentes objetos, incluindo
 esquemas (namespaces'), tabelas, gatilhos e outros objetos.
 
-• PGDATA: é o nome do diretório que, no armazenamento persistente, é totalmente
+* PGDATA: é o nome do diretório que, no armazenamento persistente, é totalmente
 dedicado ao PostgreSQL e seus dados. O PostgreSQL armazena os dados nesse
 diretório.
 
-• WALs: contém o log de intenção de alterações do banco de dados, usado para
+* WALs: contém o log de intenção de alterações do banco de dados, usado para
 recuperar dados de um travamento crítico.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
@@ -1346,7 +1346,7 @@ examinador. Mas, se olharmos o texto abaixo, retirado do manual de referência
 do
 PostgreSQL, veremos que ela nada mais é do que uma tradução do texto:
 
-“The user's client (frontend) application that wants to perform database operations.
+"The user's client (frontend) application that wants to perform database operations.
 Client
 applications can be very diverse in nature: a client could be a text-oriented tool, a
 graphical
@@ -1354,7 +1354,7 @@ application, a web server that accesses the database to display web pages, or a
 specialized
 database maintenance tool. Some client applications are supplied with the
 PostgreSQL
-distribution; most are developed by users.”
+distribution; most are developed by users."
 
 Gabarito: A
 
@@ -1404,7 +1404,7 @@ admitirmos o acesso remoto. Primeiramente mostraremos quais são as alterações
 arquivo. Em seguida, teceremos os comentários teóricos explicativos a respeito de cada
 alteração.
 
-• Adicionar/editar a seguinte linha no seu arquivo postgresql.conf:
+* Adicionar/editar a seguinte linha no seu arquivo postgresql.conf:
 
 o listen_addresses =
 
@@ -1430,7 +1430,7 @@ Aula 06 (Prof. Thiago Cavalcanti)
 em todas as NICs. Por isso, usamos que significa "todos os endereços
 IP".
 
-• Adicionar a seguinte linha como a primeira linha do arquivo pg_hba.conf,
+* Adicionar a seguinte linha como a primeira linha do arquivo pg_hba.conf,
 para
 permitir o acesso a todos os bancos de dados para todos os usuários, utilizando
 uma senha criptografada:
@@ -1594,7 +1594,7 @@ Veremos agora o comando CREATE DATABASE. É possível, utilizando a interface Sh
 serve
 basicamente para criação de uma nova base de dados. Observe a figura a seguir:
 
-SQL Shell (psql) “ u
+SQL Shell (psql) " u
 
 postgres=# \help CREATE DATABASE
 Command: CREATE DATABASE
@@ -1677,7 +1677,7 @@ usado
 como wrapper para o comando CLUSTER que acabamos de falar.
 
 Na letra E, temos mais uma expressão que não existe na documentação do Postgres:
-"locale init”. Mas sabemos que o suporte a locale é algo imprescindível dentro de
+"locale init". Mas sabemos que o suporte a locale é algo imprescindível dentro de
 qualquer
 SGBD. Vejamos então como o suporte a locale é tratado.
 
@@ -1831,31 +1831,31 @@ FIQUE
 
 ATENTO!
 
-• postgresql.conf é o arquivo de configuração principal, usado como padrão quando
+* postgresql.conf é o arquivo de configuração principal, usado como padrão quando
 o serviço é iniciado.
 
-• postgresql.auto.conf é o arquivo de configuração incluído automaticamente usado
+* postgresql.auto.conf é o arquivo de configuração incluído automaticamente usado
 para armazenar configurações alteradas dinamicamente por meio de instruções SQL.
 
-• pg_hba.conf é o arquivo que fornece a configuração referente às conexões de banco
+* pg_hba.conf é o arquivo que fornece a configuração referente às conexões de banco
 de dados disponíveis.
 
-• PG_VERSION é um arquivo de texto que contém o número da versão principal (útil
+* PG_VERSION é um arquivo de texto que contém o número da versão principal (útil
 ao inspecionar o diretório para entender qual versão do cluster gerenciou o diretório
 PGDATA).
 
-• postmaster.pid é o PID (número do processo) do cluster em execução.
+* postmaster.pid é o PID (número do processo) do cluster em execução.
 
 Já os principais diretórios disponíveis PGDATA são os seguintes:
 
-• base é um diretório que contém todos os dados dos usuários, incluindo bancos de
+* base é um diretório que contém todos os dados dos usuários, incluindo bancos de
 dados, tabelas e outros objetos.
 
-• global é um diretório que contém objetos de todo o cluster.
+* global é um diretório que contém objetos de todo o cluster.
 
-• pg_wal é o diretório que contém os arquivos WAL.
+* pg_wal é o diretório que contém os arquivos WAL.
 
-• pg_stat e pg_stat_tmp são, respectivamente, o armazenamento das informações
+* pg_stat e pg_stat_tmp são, respectivamente, o armazenamento das informações
 estatísticas permanentes e temporárias sobre o status e a saúde do cluster.
 
 Observação importante!! O PostgreSQL não nomeia objetos no disco, como tabelas, de
@@ -1895,7 +1895,7 @@ O pg_ctl aceita o comando a ser executado como o primeiro argumento, seguido por
 outros
 parâmentros específicos - os comandos principais são os seguintes:
 
-• start, stop e restart que executam as ações correspondentes no cluster.
+* start, stop e restart que executam as ações correspondentes no cluster.
 
 INDO MAIS
 
@@ -1919,15 +1919,15 @@ dados
 não é garantida e o servidor precisa de uma recuperação de falha no momento da
 inicialização.
 
-• status que relata o status atual (em execução ou não) do cluster.
+* status que relata o status atual (em execução ou não) do cluster.
 
-• initdb (ou init abreviadamente) que executa a inicialização do cluster, possivelmente
+* initdb (ou init abreviadamente) que executa a inicialização do cluster, possivelmente
 removendo quaisquer dados existentes anteriormente.
 
-• reload que faz com que o servidor PostgreSQL recarregue a configuração, o que é
+* reload que faz com que o servidor PostgreSQL recarregue a configuração, o que é
 útil quando você deseja aplicar alterações de configuração.
 
-• promote que é usado quando o cluster está rodando como um servidor subordinado
+* promote que é usado quando o cluster está rodando como um servidor subordinado
 (denominado standby) em uma configuração de replicação e, a partir de agora, deve
 ser desanexado do mestre original e tornar-se independente.
 
@@ -1949,20 +1949,20 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 06 (Prof. Thiago Cavalcanti)
 
-• postmaster.pid - a existência deste arquivo no diretório de dados que é usado
+* postmaster.pid - a existência deste arquivo no diretório de dados que é usado
 para
 ajudar pg_ctl a determinar se o servidor está sendo executado ou não.
 
-• postmaster.opts.default - se esse arquivo existir no diretório de dados, o pg_ctl
+* postmaster.opts.default - se esse arquivo existir no diretório de dados, o pg_ctl
 (no
 modo start) passará o conteúdo do arquivo como opções para o comando.
 
-• postmaster.opts - se esse arquivo existir no diretório de dados, o pg_ctl (no
+* postmaster.opts - se esse arquivo existir no diretório de dados, o pg_ctl (no
 modo
 restart) passará o conteúdo do arquivo como opções para o servidor PostgreSQL. O
 conteúdo deste arquivo também é exibido no modo de status.
 
-• postgresql.conf - este arquivo, localizado no diretório de dados, é analisado para
+* postgresql.conf - este arquivo, localizado no diretório de dados, é analisado para
 descobrir a porta apropriada para usar com psql, quando o parâmetro -w é informado.
 
 PRoCESSoS Do PoSCRESQL
@@ -2054,22 +2054,22 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 06 (Prof. Thiago Cavalcanti)
 
-• checkpointer é um processo responsável por executar os pontos de verificação, que
+* checkpointer é um processo responsável por executar os pontos de verificação, que
 são pontos no tempo em que o banco de dados garante que todos os dados sejam
 realmente armazenados de forma persistente no disco.
 
-• background writer é responsável por ajudar a enviar os dados da memória para o
+* background writer é responsável por ajudar a enviar os dados da memória para o
 armazenamento permanente.
 
-• walwriter é responsável por gravar os Logs Write-Ahead (WALs), os logs que são
+* walwriter é responsável por gravar os Logs Write-Ahead (WALs), os logs que são
 necessários para garantir a confiabilidade dos dados, mesmo no caso de uma falha
 do banco de dados.
 
-• stats collector é um processo que monitora a quantidade de dados que o PostgreSQL
+* stats collector é um processo que monitora a quantidade de dados que o PostgreSQL
 está manipulando, armazenando-os para uma análise e decisões posteriores, como
 decidir quais índices usar para satisfazer uma consulta.
 
-• logical replication launcher é um processo responsável por lidar com a replicação
+* logical replication launcher é um processo responsável por lidar com a replicação
 lógica.
 
 CATÁLoGo Do SISTEMA
@@ -2491,7 +2491,7 @@ v §Servers(1)
 
 v ^PostgreSQL 13
 
-> • Databases (2)
+> * Databases (2)
 
 v í^Login/Group Roles (10)
 
@@ -2620,26 +2620,26 @@ permissão para efetuar login e tenha credenciais válidas. As principais opçõ
 permitem
 manipular e gerenciar as tentativas de login são as seguintes:
 
-• PASSWORD ou ENCRYPTED PASSWORD são opções equivalentes e permitem
+* PASSWORD ou ENCRYPTED PASSWORD são opções equivalentes e permitem
 definir a senha de login para a função. Ambas as opções existem para
 compatibilidade com versões anteriores do PostgreSQL, mas hoje em dia, o
 cluster sempre armazena as senhas de funções de forma criptografada, portanto,
 o uso de ENCRYPTED PASSWORD não adiciona nenhum valor à PASSWORD
 opção.
 
-• PASSWORD NULL força explicitamente uma senha nula (não vazia), evitando
+* PASSWORD NULL força explicitamente uma senha nula (não vazia), evitando
 que o usuário efetue login com qualquer senha. Esta opção pode ser usada para
 negar autenticação baseada em senha.
 
-• CONNECTION LIMIT <n> permite que o usuário abra não mais do que <n>
+* CONNECTION LIMIT <n> permite que o usuário abra não mais do que <n>
 conexões simultâneas ao cluster, sem qualquer consideração a um banco de
 dados específico. Isso geralmente é útil para evitar que um usuário desperdice
 recursos no cluster.
 
-• VALID UNTIL permite que você especifique um instante (no futuro) quando a
+* VALID UNTIL permite que você especifique um instante (no futuro) quando a
 função expirará.
 
-• IN ROLE serve para criar um papel como membro de um outro especificado.
+* IN ROLE serve para criar um papel como membro de um outro especificado.
 
 Apenas para complementar nosso conhecimento a respeito de ROLES, apresentamos
 abaixo a sintaxe completa do comando. Observe que a maioria dos parâmetros é de
@@ -3332,8 +3332,8 @@ expressões. Veja a sintaxe do comando abaixo:
 CREATE [ UNIQUE ] INDEX [ CONCURRENTLY ] [ name ] 0N tablename [ USING method ]
 
 ( { column_name | ( expression ) } [ COLLATE collation ] [ opclass ] [ ASC | DESC ] [ NULLS { FIRST
-| LAST }][>•••])
-[ WITH ( storage_parameter = value [>•••])]
+| LAST }][>***])
+[ WITH ( storage_parameter = value [>***])]
 
 [ TABLESPACE tablespace_name ]
 
@@ -3466,7 +3466,7 @@ necessário dar-lhe um nome e um tipo. Veja abaixo como ficaria a sintaxe
 correta do
 comando:
 
-CREATE VIEW vista AS SELECT text 'Hello World’ AS hello;
+CREATE VIEW vista AS SELECT text 'Hello World' AS hello;
 
 Inclusive, o exemplo do problema apresentado no enunciado é o mesmo que temos na
 documentação. A resolução do problema é a mesma apresentada acima. Observe que
@@ -3496,20 +3496,20 @@ O conceito fundamental por trás das regras é modificar o fluxo de um evento. S
 é dado
 um evento, o que podemos fazer quando certas condições ocorrem é o seguinte:
 
-• Não fazer nada e desfazer a ação daquele evento.
+* Não fazer nada e desfazer a ação daquele evento.
 
-• Acionar outro evento em vez do padrão.
+* Acionar outro evento em vez do padrão.
 
-• Acionar outro evento em conjunto com o padrão.
+* Acionar outro evento em conjunto com o padrão.
 
 Portanto, dada uma operação de gravação, por exemplo, uma operação de INSERT,
 podemos realizar uma destas três ações:
 
-• Cancelar a operação.
+* Cancelar a operação.
 
-• Executar outra operação em vez de INSERT.
+* Executar outra operação em vez de INSERT.
 
-• Executar o INSERT e simultaneamente execute outra operação.
+* Executar o INSERT e simultaneamente execute outra operação.
 Para tal, escrevemos um comando usando a seguinte sintaxe?
 
 CREATE [ OR REPLACE ] RULE nome AS ON evento
@@ -3763,7 +3763,7 @@ from_item
 
 [ WITH ORDINALITY ] [ [ AS ] alias [ ( column_alias [,...])]]
 
-] function_name ( [ argument [>•••]])[ AS ] alias
+] function_name ( [ argument [>***]])[ AS ] alias
 ( columndefinition [, ...]
 
 ] function_name ( [ argument [, ...] ] ) AS ( column_definition [,
@@ -3780,7 +3780,7 @@ USING ( join_column [, ...]
 
 )
 
-•])][. •••])
+*])][. ***])
 
 ) 1
 
@@ -4709,10 +4709,10 @@ v gServers(1)
 
 * t$PostgreSQL13
 
-* • Databases (2)
+* * Databases (2)
 
 
-v •estratégia
+v *estratégia
 
 > ®Casts
 
@@ -4733,7 +4733,7 @@ Database estratégia
 
 > ^Schemas
 
-* •postgres
+* *postgres
 
 > Casts
 
@@ -4805,14 +4805,14 @@ Observamos que, se fôssemos detalhar de forma prática o uso do pgAdmin, poder�
 perder muito tempo em assuntos que efetivamente não aparecem em provas de concursos.
 Desta forma, resolvemos listar as principais funcionalidades do pgAdmin:
 
-• Gráfico para planos de consultas usando o EXPLAIN. Esta
+* Gráfico para planos de consultas usando o EXPLAIN. Esta
 característica é
 impressionante, pois oferece uma visão pictórica sobre como o planejador de consultas
 está
 pensando. Acabaram os dias tentando percorrer a verbosidade das saídas do planejador
 baseados em texto.
 
-• Painel SQL. pgAdmin consegue interagir com PostgreSQL via SQL, permitindo inclusive
+* Painel SQL. pgAdmin consegue interagir com PostgreSQL via SQL, permitindo inclusive
 que você veja o SQL gerado. Quando você usa a interface gráfica para fazer alterações
 em
 seu banco de dados, o SQL subjacente criado para executar as tarefas é
@@ -4821,7 +4821,7 @@ automaticamente no painel SQL. Para os novatos de SQL, estudar o SQL gerado é u
 grande oportunidade de aprendizagem. Para profissionais, aproveitar o SQL gerado é uma
 grande economia de tempo.
 
-• A edição direta de arquivos de configuração, tais como postgresql.conf e pg_hba.conf.
+* A edição direta de arquivos de configuração, tais como postgresql.conf e pg_hba.conf.
 
 Você já não precisa ficar procurando os arquivos ou utilizar outro editor.
 
@@ -4892,21 +4892,21 @@ postgresql.conf.
 
 Gabarito Certo.
 
-• Exportação de dados. pgAdmin pode facilmente exportar os resultados da consulta para
+* Exportação de dados. pgAdmin pode facilmente exportar os resultados da consulta para
 CSV ou outro formato delimitado. Ele pode até mesmo exportar como
 HTML,
 proporcionando-lhe um mecanismo de relatório facilmente ajustável.
 
-• Assistente de backup e restauração. Não é preciso mais memorizar os comandos e
+* Assistente de backup e restauração. Não é preciso mais memorizar os comandos e
 interruptores para realizar um backup ou restauração, usando o pg_restore e pg_dump. O
 pgAdmin tem uma boa interface para fazer backup e restaurar banco de dados, esquemas,
 uma única tabela e informações globais. Na guia mensagem é possível ver o comando
 pg_dump ou pg_restore.
 
-• Assistente de Grant. O assistente permitirá que você altere as permissões em muitos
+* Assistente de Grant. O assistente permitirá que você altere as permissões em muitos
 objetos de banco de dados de uma só vez, gerando uma enorme economia de tempo.
 
-• Motor pgScript. Esta é uma maneira rápida e suja para executar scripts que não
+* Motor pgScript. Esta é uma maneira rápida e suja para executar scripts que não
 precisam
 completar suas operações como uma transação. Com isso, você pode executar loops que
 façam commit de cada atualização SQL, ao contrário de funções armazenadas, as quais
@@ -4929,11 +4929,11 @@ Aula 06 (Prof. Thiago Cavalcanti)
 requerem que todas as etapas sejam concluídas antes do trabalho ser efetivado de fato.
 Infelizmente, você não pode usá-lo fora da interface do pgAdmin.
 
-• Arquitetura de Plugin. Recentemente desenvolvidos, os add-ons são rapidamente
+* Arquitetura de Plugin. Recentemente desenvolvidos, os add-ons são rapidamente
 acessíveis com um único clique do mouse. Você pode até mesmo instalar o seu próprio
 Plugin.
 
-• pgAgent plugin. Este agente de agendamento de trabalho multiplataforma é semelhante
+* pgAgent plugin. Este agente de agendamento de trabalho multiplataforma é semelhante
 ao agendador de tarefas do SQL Server (SQLAgent). O pgAdmin fornece uma interface
 legal para isso.
 
@@ -5265,10 +5265,10 @@ BOOLEAN indicating whether col is a valid date
 TIMESTAMP representing current date and time
 string showing date/time in Unix format
 
-BOOLEAN indicating whether col ’s overlap in time
+BOOLEAN indicating whether col 's overlap in time
 convert col to string based on mask
 
-see psql ’s W/ for a list of geometric functions
+see psql 's W/ for a list of geometric functions
 broadcast addressof co/
 
 host addressof col
@@ -5380,14 +5380,14 @@ CREATE extension tablefunc;
 A função de crosstab recebe um comando SQL SELECT como parâmetro, que deve ser compatível com as
 seguintes restrições:
 
-• O SELECT deve retornar (no mínimo) 3 colunas.
+* O SELECT deve retornar (no mínimo) 3 colunas.
 
-• A primeira coluna no SELECT será o identificador de cada linha na tabela dinâmica ou
+* A primeira coluna no SELECT será o identificador de cada linha na tabela dinâmica ou
 resultado da consulta. Na questão, o
 nome do aluno faz esse papel. Observe como os nomes dos alunos (Beltrano e Fulano) aparecem na
 primeira coluna.
 
-• A segunda coluna do SELECT representa as categorias da tabela dinâmica. No exemplo, essas
+* A segunda coluna do SELECT representa as categorias da tabela dinâmica. No exemplo, essas
 categorias são as disciplinas
 escolares. É importante observar que os valores desta coluna se expandirão em muitas colunas na
 tabela dinâmica. Se a
@@ -5395,7 +5395,7 @@ segunda coluna retornar cinco valores diferentes (geografia, história e assim p
 diante), a tabela dinâmica terá cinco
 colunas.
 
-• A terceira coluna no SELECT representa o valor a ser atribuído a cada célula da tabela
+* A terceira coluna no SELECT representa o valor a ser atribuído a cada célula da tabela
 dinâmica.
 
 O $$ é um delimitador que você usa para indicar onde a definição da função começa e termina.
@@ -5651,7 +5651,7 @@ o valorl. Para entender melhor, observe a sintaxe e um exemplo a seguir:
 
 NULLIF(volueíj vo£ue2)
 
-SELECT NULLIF(value, ’(none)') ...
+SELECT NULLIF(value, '(none)') ...
 
 Por fim, tempos as funções GREATEST e LEAST, que selecionam o valor maior ou menor
 de uma lista de expressões. Temos a resposta para a questão na alternativa D.
@@ -5927,7 +5927,7 @@ Thiago Rodrigues Cavalcanti
 Aula 06 (Prof. Thiago Cavalcanti)
 
 CREATE TABLE foo (fooid INTj foosubid INT, fooname TEXT);
-INSERI INTO foo VALUES (1* 2^ “thiree');
+INSERI INTO foo VALUES (1* 2^ "thiree');
 
 INSERI INTO foo VALUES (4, 5_> 'six');
 
@@ -5961,15 +5961,15 @@ SELECT * FROM get_all_foo()j
 As declarações IF e CASE permitem que você execute comandos alternativamente com
 base em certas condições. PL/pgSQL possui três formas de IF e duas formas para o CASE:
 
-• IF... THEN
+* IF... THEN
 
-• IF ... THEN ... ELSE
+* IF ... THEN ... ELSE
 
-• IF ... THEN ... ELSIF ... THEN ... ELSE
+* IF ... THEN ... ELSIF ... THEN ... ELSE
 
-• CASE ... WHEN ... THEN ... ELSE ... END CASE
+* CASE ... WHEN ... THEN ... ELSE ... END CASE
 
-• CASE WHEN ... THEN ... ELSE ... END CASE
+* CASE WHEN ... THEN ... ELSE ... END CASE
 
 Com as declarações LOOP, EXIT, CONTINUE, WHILE, FOR e FOREACH, você pode
 mandar sua função PL/pgSQL repetir uma série de comandos. Observem o exemplo abaixo
@@ -6092,14 +6092,14 @@ IF (TG_OP = 'DELETE') THEN
 INSERT INTO emp_audit SELECT
 RETURN OLD;
 
-ELSIF (TG_OP = 'UPDATE’) THEN
+ELSIF (TG_OP = 'UPDATE') THEN
 
 'D', now(), user, OLD.*;
 
 
 END;
 
-INSERT INTO emp_audit SELECT •u’, now(), user, NEW.*;
+INSERT INTO emp_audit SELECT *u', now(), user, NEW.*;
 RETURN NEW;
 
 ELSIF (TG_OP = 'INSERT') THEN
@@ -6201,13 +6201,13 @@ tabelas. Esta parte da memória RAM do servidor é chamada de shared_buffers. A 
 como o
 PostgreSQL funciona é a seguinte:
 
-• Os dados são retirados dos discos.
+* Os dados são retirados dos discos.
 
-• Os dados são colocados em buffers compartilhados.
+* Os dados são colocados em buffers compartilhados.
 
-• Os dados são processados em buffers compartilhados.
+* Os dados são processados em buffers compartilhados.
 
-• Os dados são baixados para discos.
+* Os dados são baixados para discos.
 
 Normalmente, em um servidor dedicado apenas para PostgreSQL, o tamanho shared_buffers é
 cerca
@@ -6223,23 +6223,23 @@ O programa cliente pensará que o servidor ainda possui apenas uma mesa. O
 particionamento de
 dados pode ser feito de duas maneiras:
 
-• Usando herança de tabela
+* Usando herança de tabela
 
-• Usando particionamento declarativo
+* Usando particionamento declarativo
 
 O PostgreSQL 12 gerencia os seguintes tipos de particionamento de tabela:
 
-• Range partitioning - quando a tabela é dividida em "intervalos". Os intervalos
+* Range partitioning - quando a tabela é dividida em "intervalos". Os intervalos
 não devem se
 sobrepor e a faixa é definida por meio do uso de um campo ou conjunto de campos.
 Aqui
 estamos falando de valores numéricos.
 
-• List partitioning - a tabela será particionada usando uma lista de valores. Essa
+* List partitioning - a tabela será particionada usando uma lista de valores. Essa
 lista tende a
 ser um conjunto discreto, por exemplo, cidades ou time de futebol.
 
-• Hash partitioning - a tabela será particionada usando um valor de hash que será usado como
+* Hash partitioning - a tabela será particionada usando um valor de hash que será usado como
 o valor para dividir os dados em tabelas diferentes.
 
 Para não deixar o conceitos de herança de tabelas em aberto. Vejamos a sua definição. O PostgreSQL
@@ -6763,7 +6763,7 @@ SQL
 
 statement
 
-•—l
+*—l
 
 PARSER
 
@@ -6903,7 +6903,7 @@ Outros dois formatos podem ser usados. O primeiro é o plano (plain -Fp), cuja s
 do
 arquivo é um script SQL em texto plano. O outro seria o tar (-Ft), que exporta um
 arquivo
-em formato “.tar” adequado para entrada do pg_restore. O formato tar é compatível com
+em formato ".tar" adequado para entrada do pg_restore. O formato tar é compatível com
 o
 formato de diretório. Extrair um arquivo tar formatado produz um arquivo no formato de
 diretório válido. No entanto, o tar-format não suporta a compressão e tem um limite
@@ -6925,7 +6925,7 @@ aplicam ao banco de dados como um todo.
 Como o pg_dumpall lê as tabelas de todos os bancos de dados, você provavelmente vai
 ter
 de se conectar como um superusuário do banco de dados, a fim de produzir uma
-“descarga”
+"descarga"
 completa dos dados. Também será necessário o privilégio de superusuário para executar o
 script salvo, a fim de possuir autorização para adicionar usuários e grupos, e para
 criar
@@ -7052,10 +7052,10 @@ E pg_dump -Fp -b trt13 > tribunal.tar
 
 Comentário. Para fazermos a questão, é preciso entender alguns detalhes do comando
 pg_dump. Vejam que ele deu a dica na questão: (1) "permitir salvar e restaurar objetos
-grandes” e durante a restauração (2) “permitiu a seleção manual e reordenação de itens
+grandes" e durante a restauração (2) "permitiu a seleção manual e reordenação de itens
 arquivados durante a restauração, porém, (3) a ordem relativa de itens de dados das
 tabelas
-não pôde ser alterada durante o processo de restauração”. Vamos então entender o que
+não pôde ser alterada durante o processo de restauração". Vamos então entender o que
 significa.
 
 Primeiramente, para restaurar grandes objetos ou large objects, é necessário
@@ -7085,7 +7085,7 @@ Outros dois formatos podem ser usados. O primeiro é o plano (plain -Fp), cuja s
 do
 arquivo é um script SQL em texto plano. O outro seria o tar (-Ft), que exporta um
 arquivo
-em formato “.tar” adequado para entrada do pg_restore. O formato tar é compatível com
+em formato ".tar" adequado para entrada do pg_restore. O formato tar é compatível com
 o
 formato de diretório. Extrair um arquivo tar formatado produz um arquivo no formato de
 diretório válido. No entanto, o tar-format não suporta a compressão e tem um limite
@@ -7115,7 +7115,7 @@ pg_dump -Ft -b trt 13 > tribunal.tar
 
 Veja que, depois do -b, definimos a base de dados sobre a qual vamos fazer o dump.
 Em
-seguida, definimos após o operador “>” o arquivo no qual os dados serão gravados.
+seguida, definimos após o operador ">" o arquivo no qual os dados serão gravados.
 Gabarito
 confirmado na alternativa B.
 
@@ -7854,7 +7854,7 @@ examinador. Mas, se olharmos o texto abaixo, retirado do manual de referência
 do
 PostqreSQL, veremos que ela nada mais é do que uma tradução do texto:
 
-“The user's client (frontend) application that wants to perform database operations.
+"The user's client (frontend) application that wants to perform database operations.
 Client
 applications can be very diverse in nature: a client could be a text-oriented tool, a
 graphical
@@ -7862,7 +7862,7 @@ application, a web server that accesses the database to display web pages, or a
 specialized
 database maintenance tool. Some client applications are supplied with the
 PostgreSQL
-distribution; most are developed by users.”
+distribution; most are developed by users."
 
 Gabarito: A
 
@@ -7917,7 +7917,7 @@ usado
 como wrapper para o comando CLUSTER que acabamos de falar.
 
 Na letra E, temos mais uma expressão que não existe na documentação do Postgres:
-”locale init”. Mas sabemos que o suporte a locale é algo imprescindível dentro de
+"locale init". Mas sabemos que o suporte a locale é algo imprescindível dentro de
 qualquer
 SGBD. Vejamos então como o suporte a locale é tratado.
 
@@ -8173,10 +8173,10 @@ E pg_dump -Fp -b trt13 > tribunal.tar
 
 Comentário. Para fazermos a questão, é preciso entender alguns detalhes do comando
 pg_dump. Vejam que ele deu a dica na questão: (1) "permitir salvar e restaurar objetos
-grandes” e durante a restauração (2) “permitiu a seleção manual e reordenação de itens
+grandes" e durante a restauração (2) "permitiu a seleção manual e reordenação de itens
 arquivados durante a restauração, porém, (3) a ordem relativa de itens de dados das
 tabelas
-não pôde ser alterada durante o processo de restauração”. Vamos então entender o que
+não pôde ser alterada durante o processo de restauração". Vamos então entender o que
 significa.
 
 Primeiramente, para restaurar grandes objetos ou large objects, é necessário
@@ -8230,7 +8230,7 @@ Outros dois formatos podem ser usados. O primeiro é o plano (plain -Fp), cuja s
 do
 arquivo é um script SQL em texto plano. O outro seria o tar (-Ft), que exporta um
 arquivo
-em formato “.tar” adequado para entrada do pg_restore. O formato tar é compatível com
+em formato ".tar" adequado para entrada do pg_restore. O formato tar é compatível com
 o
 formato de diretório. Extrair um arquivo tar formatado produz um arquivo no formato de
 diretório válido. No entanto, o tar-format não suporta a compressão e tem um limite
@@ -8245,7 +8245,7 @@ pg_dump -Ft -b trt 13 > tribunal.tar
 
 Veja que, depois do -b, definimos a base de dados sobre a qual vamos fazer o dump.
 Em
-seguida, definimos após o operador “>” o arquivo no qual os dados serão gravados.
+seguida, definimos após o operador ">" o arquivo no qual os dados serão gravados.
 Gabarito
 confirmado na alternativa B.
 
@@ -8358,7 +8358,7 @@ JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 A instrução SQL em PostgreSQL abaixo está mal formulada.
 
-CREATE VIEW vista AS SELECT 'Hello World’;
+CREATE VIEW vista AS SELECT 'Hello World';
 
 Isto aconteceu, porque
 
@@ -8717,7 +8717,7 @@ o valorl. Para entender melhor, observe a sintaxe e um exemplo a seguir:
 
 NULLIF (voltrel, vo£ue2)
 
-SELECT NULLIF(value, ’(none)') ...
+SELECT NULLIF(value, '(none)') ...
 
 Por fim, tempos as funções GREATEST e LEAST, que selecionam o valor maior ou menor
 de uma lista de expressões. Temos a resposta para a questão na alternativa D.
@@ -8993,7 +8993,7 @@ Item. 88. O PostgreSQL e outros bancos de dados relacionais usam uma técnica ch
 Version Concurrency Control (MVCC) para manter o controle das transações. Uma
 penalidade de espaço surge quando usamos o MVCC, ela é conhecida como inchaço. O
 PostgreSQL precisa de ajuda de uma ferramenta externa chamada VACUUM para poder
-limpar essa “sujeira”.
+limpar essa "sujeira".
 
 As tabelas e os índices inchados não somente desperdiçam espaço, como também deixam
 as consultas mais lentas. Então, isso não é só uma questão de conseguir mais espaço
@@ -9569,7 +9569,7 @@ Um comando SQL, cuja sintaxe é válida no PostgreSQL 9.3, está apresentado em:
 (A) SELECT nomel, nome2, nome 3 FROM tab2TRT ORDER FOR nomel AFTER
 nome2;
 
-(B) DELETE FROM tabTRT WHERE data processo= “13-AGO-2013”;
+(B) DELETE FROM tabTRT WHERE data processo= "13-AGO-2013";
 
 (C) UPDATE trabTRT SETTING mes = 10 INSTEAD mes = 5;
 
@@ -9912,7 +9912,7 @@ source
 O TRIM permite que você recorte caracteres à esquerda (leading) ou à direita
 (trailing), ou
 ambos (both) de uma sequência de caracteres. Se você não especificar um caractere, o
-default é um espaço em branco. No caso da questão, foi especificado o “O”.
+default é um espaço em branco. No caso da questão, foi especificado o "O".
 
 Já no Postgres, a função faz a mesma coisa, remove a cadeia mais longa contendo
 apenas
@@ -9984,7 +9984,7 @@ bytea; por conseguinte, o controle de codificação não é executado. Em combin
 função convert_from, esta função pode ser usada para ler um arquivo em uma codificação
 especificada:
 
-SELECT convert_from(pg_read_binary_file(’arquio_em_utf8.txt’), ’UTF8’);
+SELECT convert_from(pg_read_binary_file('arquio_em_utf8.txt'), 'UTF8');
 
 pg_stat_file retorna um registro que contém o tamanho do arquivo, último timestamp de
 acesso, último timestamp de modificação, timestamp do último status do arquivo
@@ -9992,8 +9992,8 @@ de
 mudança (apenas plataformas Unix), timestamp de criação do arquivo (somente para
 Windows) e um boolean, indicando se é um diretório. Usos típicos incluem:
 
-SELECT * FROM pg_stat_file(’filename’);
-SELECT (pg_stat_file(’filename’)).modification;
+SELECT * FROM pg_stat_file('filename');
+SELECT (pg_stat_file('filename')).modification;
 
 Vejam que esta última função é a que mais se adequa ao enunciado e, portanto,
 torna-se
@@ -10185,7 +10185,7 @@ exemplos:
 SELECT pg_sleep(l.5);
 
 SELECT pg_sleep_for('5 minutes');
-SELECT pg_sleep_until(1tomorrow 03:00’);
+SELECT pg_sleep_until(1tomorrow 03:00');
 
 Gabarito: D.
 
@@ -11025,7 +11025,7 @@ JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 A instrução SQL em PostgreSQL abaixo está mal formulada.
 
-CREATE VIEW vista AS SELECT 'Hello World’;
+CREATE VIEW vista AS SELECT 'Hello World';
 
 Isto aconteceu, porque
 
@@ -11511,7 +11511,7 @@ Um comando SQL, cuja sintaxe é válida no PostgreSQL 9.3, está apresentado em:
 (A) SELECT nomel, nome2, nome 3 FROM tab2TRT ORDER FOR nomel AFTER
 nome2;
 
-(B) DELETE FROM tabTRT WHERE data processo= “13-AGO-2013”;
+(B) DELETE FROM tabTRT WHERE data processo= "13-AGO-2013";
 
 (C) UPDATE trabTRT SETTING mes = 10 INSTEAD mes = 5;
 

@@ -308,7 +308,7 @@ d 0 0 E
 
 G| 0
 
-• s £
+* s £
 
 Matriz 2x7 e Vetor (7 Posições)
 
@@ -471,7 +471,7 @@ I Vp? PR.OX
 
 ?LL
 
-kNO' J o’
+kNO' J o'
 
 Suponha que seja feita uma mudança na estrutura de uma lista linear, de modo que o
 campo próximo no
@@ -1048,7 +1048,7 @@ transcrever isso para 0 desenho hierárquico de uma árvore, lemos da esquerda
 para a direita. Agora
 suponhamos que Fi tem dois filhos Ni e N2. Logo, reescrevemos a subárvore de Fi como (Fi (N1XN2)).
 
-r■■■■■■•■■.................................................. ..
+r■■■■■■*■■.................................................. ..
 ................................................................... ..
 .............................................................. ■■■■■■■■..........................
 ............................... .. .................... ■■■■■■............................ ..
@@ -1544,7 +1544,7 @@ por um ramo esquerdo
 restaurar o equilíbrio de
 altura, executamos uma rotação esquerda seguida de uma rotação direita. Vejam...
 
-W°’1)
+W°'1)
 
 0(OO)
 
@@ -1795,7 +1795,7 @@ tiverem pesos, aij pode conter, ao invés de 1 quando houver uma aresta entre v,
 Vj, o peso
 dessa mesma aresta.
 
-'1 1 0 0 1 0’
+'1 1 0 0 1 0'
 
 1 1) 1 0 1 0
 
@@ -2052,7 +2052,7 @@ Aula 01 (Profs. Paolla Ramos e Raphael Lacerda)
 
 BITMAPS
 
-° § 2 © • < <
+° § 2 © * < <
 
 o o £ O ? » § £ O
 
@@ -2142,18 +2142,18 @@ Ainda relembrando um pouco de banco de dados, se quisermos buscar toda as
 bandas
 inglesas, podemos realizar a consulta abaixo:
 
-SELECT * FROM BANDA WHERE PAIS = ‘Inglaterra’
+SELECT * FROM BANDA WHERE PAIS = 'Inglaterra'
 
 E se quiséssemos saber quais são dos EUA e da Inglaterra? Teríamos a consulta a seguir
-SELECT * FROM BANDA WHERE PAIS = ‘Inglaterra’ OR PAIS = ‘EUA’
+SELECT * FROM BANDA WHERE PAIS = 'Inglaterra' OR PAIS = 'EUA'
 
 As consultas funcionam normalmente, mas para realizá-las, o sistema
 gerenciador de
 banco de dados (SGDB) deve percorrer todas as tuplas (linhas/observações) e
 comparar
-‘Inglaterra’ com o valor da coluna ‘PAIS’, na primeira consulta, e com
-'Inglaterra' e ‘EUA’
-na segunda. Essas "varreduras”, chamadas de FULL TABLE SCAN, são muito custosas para
+'Inglaterra' com o valor da coluna 'PAIS', na primeira consulta, e com
+'Inglaterra' e 'EUA'
+na segunda. Essas "varreduras", chamadas de FULL TABLE SCAN, são muito custosas para
 o banco e, dependendo do tamanho da tabela, podem levar a um tempo
 excessivamente
 grande para serem executadas. Um modo de acessar de forma mais
@@ -2166,21 +2166,21 @@ Um bitmap deve indicar quais tuplas possuem um certo valor para a coluna
 escolhida
 para se criar o índice. Se consultas como a que mostramos for muito
 comum, é válido
-criarmos um índice para a coluna ‘PAIS’ e facilitar o acesso.
+criarmos um índice para a coluna 'PAIS' e facilitar o acesso.
 
 0 bitmap é uma tabela onde as linhas são os possíveis valores da coluna selecionada
 para
-criar o índice (nesse caso, todos os valores de ‘PAIS’) e as colunas são os números
+criar o índice (nesse caso, todos os valores de 'PAIS') e as colunas são os números
 da
 tuplas (ROWID). Para cada linha do bitmap, serão preenchidos os valores 0 e
 1 caso o
-valor de ‘PAIS’ da referida tupla da tabela ‘Banda’ ser ou não daquele país. Ou
+valor de 'PAIS' da referida tupla da tabela 'Banda' ser ou não daquele país. Ou
 seja, para o
 caso específico, teremos três tuplas no bitmap, cada uma correspondente a um
 valor de
-‘PAIS’: EUA, Inglaterra e Suécia. As colunas do bitmap são os números das tuplas da
+'PAIS': EUA, Inglaterra e Suécia. As colunas do bitmap são os números das tuplas da
 tabela
-‘Banda’, ou seja: 1, 2, 3,4, 5, 6, 7, 8, 9 e 10. Professor, não entendi nadinha!
+'Banda', ou seja: 1, 2, 3,4, 5, 6, 7, 8, 9 e 10. Professor, não entendi nadinha!
 Para visualizar
 melhor como um bitmap é construído, vamos criar um representando a coluna 'PAIS':
 
@@ -2197,7 +2197,7 @@ Suécia 0 0 0 0 1 0 1
 0 0 0
 
 Para entender o preenchimento temos que nos remeter à tabela original
-‘Banda’.
+'Banda'.
 Percebam que as bandas da Inglaterra são as de número 2, 3, 6, e 9. Desse modo, no
 bitmap, preenchemos com valor 1 as colunas correspondentes aos números (ROWID)
 das
@@ -2729,9 +2729,9 @@ Comentários:
 
 Por definição, temos que:
 
-• Estruturas de dados homogêneas: seus elementos possuem o mesmo tipo de dado básico.
+* Estruturas de dados homogêneas: seus elementos possuem o mesmo tipo de dado básico.
 
-• Estrutura de dados heterogênea: seus elementos possuem tipos de dados distintos.
+* Estrutura de dados heterogênea: seus elementos possuem tipos de dados distintos.
 
 Via de regra, um vetor e uma matriz possuem sempre o mesmo tipo de dados: um vetor de inteiro, um
 vetor de string, um vetor de booleanos, e assim por diante. Portanto, são homogêneos.
@@ -3679,19 +3679,19 @@ ID Cor
 
 De linha a linha, vamos analisando:
 
-(1, 3, 0₅ “Verde”)
+(1, 3, 0₅ "Verde")
 
 O verde vem depois do 3 (Amarelo), e antes do 0. Como não existe 0, então sabemos que:
 
 Lista: Amarelo - Verde
-(2, 4, 3, “Azul”)
+(2, 4, 3, "Azul")
 
 O azul vem depois do 4 (Vermelho), e antes do 3 (Amarelo), então sabemos que:
 Lista: Vermelho - Azul - Amarelo - Verde
 
 Apenas com essas duas linhas, já sabemos a ordem que é a letra D, certo? Mas... vamos conferir as
 demais.
-(3, 2, 1, “Amarelo”)
+(3, 2, 1, "Amarelo")
 
 Diz que o Amarelo vem depois do 2 (Azul) e antes do 1 (Verde). Está certo.
 (4, 0, 2, "Vermelho")
@@ -3760,12 +3760,12 @@ ID Cor
 
 De linha a linha, vamos analisando:
 
-(1, 3, 0₅ “Verde”)
+(1, 3, 0₅ "Verde")
 
 O verde vem depois do 3 (Amarelo), e antes do 0. Como não existe 0, então sabemos que:
 
 Lista: Amarelo - Verde
-(2, 4, 3, “Azul”)
+(2, 4, 3, "Azul")
 
 O azul vem depois do 4 (Vermelho), e antes do 3 (Amarelo), então sabemos que:
 
@@ -3773,7 +3773,7 @@ Lista: Vermelho - Azul - Amarelo - Verde
 
 Apenas com essas duas linhas, já sabemos a ordem que é a letra D, certo? Mas... vamos conferir as
 demais.
-(3, 2, 1, “Amarelo”)
+(3, 2, 1, "Amarelo")
 
 Diz que o Amarelo vem depois do 2 (Azul) e antes do 1 (Verde). Está certo.
 (4, 0, 2, "Vermelho")
@@ -4575,20 +4575,20 @@ Comentários:
 
 Push e pop são duas operações de uma pilha:
 
-• Push: inserir um elemento no topo da pilha;
+* Push: inserir um elemento no topo da pilha;
 
-• Pop: remover o último elemento inserido na pilha.
+* Pop: remover o último elemento inserido na pilha.
 Quanto aos demais itens:
 
-• IMPORT, EXPORT: operações de arquivos.
+* IMPORT, EXPORT: operações de arquivos.
 
-• INPUT, OUPUT: entrada e saída de dados. Não tem a ver com pilhas.
+* INPUT, OUPUT: entrada e saída de dados. Não tem a ver com pilhas.
 
-• INSERT, REMOVE: inserir e remover. Embora na pilha tenhamos inserção e remoção, estas
+* INSERT, REMOVE: inserir e remover. Embora na pilha tenhamos inserção e remoção, estas
 operações, com
 este nome, estão associadas a listas.
 
-• READ, READLN: operações para a entrada de dados.
+* READ, READLN: operações para a entrada de dados.
 
 Gabarito: Letra D
 
@@ -4674,9 +4674,9 @@ Comentários:
 
 Push e pop são duas operações de uma pilha:
 
-• Push: inserir um elemento no topo da pilha;
+* Push: inserir um elemento no topo da pilha;
 
-• Pop: remover o último elemento inserido na pilha.
+* Pop: remover o último elemento inserido na pilha.
 
 A pilha leva em consideração o padrão LIFO, ou seja, last-in first-out, ou seja, o último a entrar
 é o primeiro a sair.
@@ -4684,14 +4684,14 @@ Por isso, suas duas operações são push e pop.
 
 Quanto aos demais itens:
 
-• lista estática: uma lista em que o número de elementos é fixo e pré-alocado.
+* lista estática: uma lista em que o número de elementos é fixo e pré-alocado.
 
-• fila: segue o padrão FIFO, ou seja, first-in first-out, ou seja, o primeiro a entrar é o
+* fila: segue o padrão FIFO, ou seja, first-in first-out, ou seja, o primeiro a entrar é o
 primeiro a sair.
 
-• Hash: uma estrutura de dados para inserção, busca e remoção de forma rápida.
+* Hash: uma estrutura de dados para inserção, busca e remoção de forma rápida.
 
-• lista dinâmica: uma lista em que o número de elementos é alterado dinamicamente enquanto o
+* lista dinâmica: uma lista em que o número de elementos é alterado dinamicamente enquanto o
 programa
 executa.
 
@@ -4856,11 +4856,11 @@ Comentários:
 
 Precisamos considerar dois pontos importantes:
 
-• Os elementos são apenas inseridos ao final da lista.
+* Os elementos são apenas inseridos ao final da lista.
 
-• Os elementos também são removidos apenas no fim da lista.
+* Os elementos também são removidos apenas no fim da lista.
 
-• Os elementos só podem ser removidos se todos os inseridos após ele tiverem sido removidos.
+* Os elementos só podem ser removidos se todos os inseridos após ele tiverem sido removidos.
 Ou seja, o
 último a ser inserido é o primeiro a ser removido, ou seja, regra LIFO.
 
@@ -4872,19 +4872,19 @@ elemento do fim da lista. E temos a regra LIFO.
 
 Analisemos as demais estruturas de dados:
 
-• Lista duplamente encadeada: cada nó tem uma referência ao nó anterior e ao próximo, exceto o
+* Lista duplamente encadeada: cada nó tem uma referência ao nó anterior e ao próximo, exceto o
 primeiro e o
 último. A inserção e remoção é livre.
 
-• Lista simplesmente encadeada: cada nó tem uma referência ao próximo nó, exceto o último. A
+* Lista simplesmente encadeada: cada nó tem uma referência ao próximo nó, exceto o último. A
 inserção e
 remoção é livre.
 
-• Fila: segue o padrão FIFO (first-in first-out), ou seja, o primeiro a entrar é o primeiro a
+* Fila: segue o padrão FIFO (first-in first-out), ou seja, o primeiro a entrar é o primeiro a
 sair. Além disso, no caso
 da fila, os elementos são sempre adicionados no fim, e removidos do início da lista.
 
-• Árvore binária: uma árvore binária possui nós com no máximo dois filhos. Não seguem as regras
+* Árvore binária: uma árvore binária possui nós com no máximo dois filhos. Não seguem as regras
 do enunciado.
 
 Gabarito: Letra D
@@ -4911,9 +4911,9 @@ As pilhas segrem a regra LIFO (last-in first-out), ou seja, o último a entrar �
 Isso faz com que tenha
 duas operações:
 
-• PUSH: inclui um elemento na pilha.
+* PUSH: inclui um elemento na pilha.
 
-• POP: retira o último elemento incluído da pilha.
+* POP: retira o último elemento incluído da pilha.
 
 Gabarito: Letra E
 
@@ -4966,11 +4966,11 @@ Comentários:
 
 Precisamos definir os comandos.
 
-• CLEAR: limpa a pilha.
+* CLEAR: limpa a pilha.
 
-• PUSH: inclui um elemento na pilha.
+* PUSH: inclui um elemento na pilha.
 
-• POP: retira o último elemento incluído da pilha.
+* POP: retira o último elemento incluído da pilha.
 Então, vamos seguir linha a linha:
 
 CLEAR
@@ -5138,9 +5138,9 @@ Aula 01 (Profs. Paolla Ramos e Raphael Lacerda)
 
 Precisamos definir os comandos.
 
-• PUSH: inclui um elemento na pilha.
+* PUSH: inclui um elemento na pilha.
 
-• POP: retira o último elemento incluído da pilha.
+* POP: retira o último elemento incluído da pilha.
 Então, vamos seguir linha a linha:
 
 PUSH (10)
@@ -5775,14 +5775,14 @@ est regra é a fila.
 
 Quanto às outras estruturas de dados:
 
-• pilha: o último inserido é o primeiro a ser retirado, ou seja, LIFO, last-in first-out.
+* pilha: o último inserido é o primeiro a ser retirado, ou seja, LIFO, last-in first-out.
 
-• lista encadeada: lista em que cada nó possui uma referência ao próximo nó.
+* lista encadeada: lista em que cada nó possui uma referência ao próximo nó.
 
-• lista duplamente encadeada: lista em que cada nó possui referências ao nó anterior e ao
+* lista duplamente encadeada: lista em que cada nó possui referências ao nó anterior e ao
 próximo.
 
-• matriz: estrutura de dados bidimensional composta por linhas e colunas.
+* matriz: estrutura de dados bidimensional composta por linhas e colunas.
 
 Gabarito: Letra B
 
@@ -5875,13 +5875,13 @@ o primeiro a ser removido.
 
 Quanto aos demais itens, vamos analisar:
 
-• Pointer ou ponteiros: variáveis que armazenam endereços de memória de outras variáveis.
+* Pointer ou ponteiros: variáveis que armazenam endereços de memória de outras variáveis.
 
-• Stack ou pilhas: estrutura de dados que segue a lógica LIFO, ou last-in first-out, que
+* Stack ou pilhas: estrutura de dados que segue a lógica LIFO, ou last-in first-out, que
 significa "o último a
 entrar é o primeiro a sair".
 
-• Array ou matrizes: estruturas de dados que permitem armazenar e acessar vários valores de uma
+* Array ou matrizes: estruturas de dados que permitem armazenar e acessar vários valores de uma
 vez, sem
 seguir lógica FIFO ou LIFO.
 
@@ -6015,13 +6015,13 @@ removidos no início. Além disso, precisa ser circular, já que o processo sai 
 para o início.
 Sobre as demais estruturas de dados:
 
-• pilha: não serve, pois a inserção e a remoção dos elementos é sempre no final.
+* pilha: não serve, pois a inserção e a remoção dos elementos é sempre no final.
 
-• árvore B: não é uma estrutura de dados linear.
+* árvore B: não é uma estrutura de dados linear.
 
-• fila simples: não serve, pois o final não é ligado ao início.
+* fila simples: não serve, pois o final não é ligado ao início.
 
-• árvore binária: també, não é uma estrutura de dados linear.
+* árvore binária: també, não é uma estrutura de dados linear.
 
 Gabarito: Letra C
 
@@ -6666,10 +6666,10 @@ Comentários:
 
 O limite superior da profundidade da árvore é d < 1 + log[m/2j((N+l)/2), sendo que:
 
-• m = a ordem da árvore, ou seja, o número máximo de chaves numa página não folha. Neste caso,
+* m = a ordem da árvore, ou seja, o número máximo de chaves numa página não folha. Neste caso,
 m = 2d.
 
-• N = a quantidade de registros.
+* N = a quantidade de registros.
 Portanto:
 
 d < 1 + l0g[m/2]((N + l)/2)
@@ -6998,10 +6998,10 @@ Paolla Ramos e Silva
 
 Aula 01 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• d = a ordem da árvore, ou seja, o número máximo de chaves numa página não folha. Neste caso,
+* d = a ordem da árvore, ou seja, o número máximo de chaves numa página não folha. Neste caso,
 d = 20.
 
-• N = a quantidade de registros. Neste caso, N = 10.000.000
+* N = a quantidade de registros. Neste caso, N = 10.000.000
 Portanto, calculemos:
 
 d < 1 + log[d/2]((N+l)/2)
@@ -7064,11 +7064,11 @@ Comentários:
 
 O limite superior da profundidade da árvore é d < 1 + log[m/2j((N+l)/2), sendo que:
 
-• m = a ordem da árvore, ou seja, o número máximo de chaves numa página não folha. Neste caso,
+* m = a ordem da árvore, ou seja, o número máximo de chaves numa página não folha. Neste caso,
 m = 16,
 porque a quantidade máxima de chaves numa página é 2d = 2*8 = 16.
 
-• N = a quantidade de registros. Neste caso, N = 30.000
+* N = a quantidade de registros. Neste caso, N = 30.000
 Assim:
 
 d < 1 + l0g[m/2]((N + l)/2)
@@ -7308,15 +7308,15 @@ ter uma altura menor do que a de outras estruturas hierarquizadas semelhantes.
 
 Quanto às demais estruturas de dados, sabemos que:
 
-• digital ou trie: estrutura de dados para armazenar uma coleção de strings de forma
+* digital ou trie: estrutura de dados para armazenar uma coleção de strings de forma
 organizada, para ser usado
 de forma eficiente em um dicionário.
 
-• lista linear duplamente encadeada circular: uma lista em que cada nó tem ligação
+* lista linear duplamente encadeada circular: uma lista em que cada nó tem ligação
 com o anterior e o próximo.
 Além disso, o primeiro nó tem ligação com o último, e vice-versa.
 
-• árvore rubro-negra: uma variante de uma árvore de busca balanceada. Os nós da
+* árvore rubro-negra: uma variante de uma árvore de busca balanceada. Os nós da
 árvore podem ser coloridos
 de vermelho ou preto. Há algumas regras:
 
@@ -7324,7 +7324,7 @@ a. os nós vermelhos sempre têm dois filhos pretos
 
 b. a raiz e as folhas devem ser nós pretos.
 
-• árvore binária de busca não balanceada: os elementos são dispostos na árvore de modo que as
+* árvore binária de busca não balanceada: os elementos são dispostos na árvore de modo que as
 operações são
 realizadas em tempo linear. É o contrário da Árvore B, que é balanceada.
 
@@ -8829,13 +8829,13 @@ No caso, você pode notar que, neste grafo, os vértices que estão mais distant
 vértices A ou J, para
 os vértices D ou M. E existem caminhos mínimos entre eles, por exemplo:
 
-• ABLCD: tamanho 4
+* ABLCD: tamanho 4
 
-• JBLCD: tamanho 4
+* JBLCD: tamanho 4
 
-• ABLCM: tamanho 4
+* ABLCM: tamanho 4
 
-• JBLCM: tamanho 4
+* JBLCM: tamanho 4
 
 Existem caminhos maiores, se eu quiser fazer, por exemplo:
 
@@ -8855,13 +8855,13 @@ Paolla Ramos e Silva
 
 Aula 01 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• ABKLCD: tamanho 5
+* ABKLCD: tamanho 5
 
-• JBKLCD: tamanho 5
+* JBKLCD: tamanho 5
 
-• ABKLCDM: tamanho 6
+* ABKLCDM: tamanho 6
 
-• JBKLCDM: tamanho 6
+* JBKLCDM: tamanho 6
 
 Porém o diâmetro leva em consideração a maior distância mínima entre os vértices. E as distâncias
 mínimas são de
@@ -8880,21 +8880,21 @@ Comentários:
 O grau de um vértice é a quantidade de arestas que estão ligadas a ele.
 Portanto:
 
-• A tem 2 arestas, grau 2.
+* A tem 2 arestas, grau 2.
 
-• B tem 4 arestas, grau 4.
+* B tem 4 arestas, grau 4.
 
-• C tem 3 arestas, grau 3.
+* C tem 3 arestas, grau 3.
 
-• D tem 2 arestas, grau 2.
+* D tem 2 arestas, grau 2.
 
-• J tem 2 arestas, grau 2.
+* J tem 2 arestas, grau 2.
 
-• K tem 2 arestas, grau 2.
+* K tem 2 arestas, grau 2.
 
-• L tem 3 arestas, grau 3.
+* L tem 3 arestas, grau 3.
 
-• M tem 2 arestas grau 2.
+* M tem 2 arestas grau 2.
 
 Gabarito: Certo
 
@@ -9128,9 +9128,9 @@ A rota direta mais longa entre duas localidades é entre 0 e 1, cuja distância 
 d) a rota mais curta partindo da localidade 3 e chegando na localidade 2 é 9.
 Temos duas rotas possíveis:
 
-• 3-4-0-2: distância 4+7+5 = 16
+* 3-4-0-2: distância 4+7+5 = 16
 
-• 3-4-0-1-2: distância 4+7+10+2 = 23
+* 3-4-0-1-2: distância 4+7+10+2 = 23
 Falso.
 
 e) é possível ir e voltar de todas as localidades adjacentes.
@@ -10608,9 +10608,9 @@ Comentários:
 
 Por definição, temos que:
 
-• Estruturas de dados homogêneas: seus elementos possuem o mesmo tipo de dado básico.
+* Estruturas de dados homogêneas: seus elementos possuem o mesmo tipo de dado básico.
 
-• Estrutura de dados heterogênea: seus elementos possuem tipos de dados distintos.
+* Estrutura de dados heterogênea: seus elementos possuem tipos de dados distintos.
 
 Via de regra, um vetor e uma matriz possuem sempre o mesmo tipo de dados: um vetor de inteiro, um
 vetor de string, um vetor de booleanos, e assim por diante. Portanto, são homogêneos.
@@ -11880,20 +11880,20 @@ Comentários:
 
 Push e pop são duas operações de uma pilha:
 
-• Push: inserir um elemento no topo da pilha;
+* Push: inserir um elemento no topo da pilha;
 
-• Pop: remover o último elemento inserido na pilha.
+* Pop: remover o último elemento inserido na pilha.
 Quanto aos demais itens:
 
-• IMPORT, EXPORT: operações de arquivos.
+* IMPORT, EXPORT: operações de arquivos.
 
-• INPUT, OUPUT: entrada e saída de dados. Não tem a ver com pilhas.
+* INPUT, OUPUT: entrada e saída de dados. Não tem a ver com pilhas.
 
-• INSERT, REMOVE: inserir e remover. Embora na pilha tenhamos inserção e remoção, estas
+* INSERT, REMOVE: inserir e remover. Embora na pilha tenhamos inserção e remoção, estas
 operações, com
 este nome, estão associadas a listas.
 
-• READ, READLN: operações para a entrada de dados.
+* READ, READLN: operações para a entrada de dados.
 
 Gabarito: Letra D
 
@@ -11979,9 +11979,9 @@ Comentários:
 
 Push e pop são duas operações de uma pilha:
 
-• Push: inserir um elemento no topo da pilha;
+* Push: inserir um elemento no topo da pilha;
 
-• Pop: remover o último elemento inserido na pilha.
+* Pop: remover o último elemento inserido na pilha.
 
 A pilha leva em consideração o padrão LIFO, ou seja, last-in first-out, ou seja, o último a entrar
 é o primeiro a sair.
@@ -11989,14 +11989,14 @@ Por isso, suas duas operações são push e pop.
 
 Quanto aos demais itens:
 
-• lista estática: uma lista em que o número de elementos é fixo e pré-alocado.
+* lista estática: uma lista em que o número de elementos é fixo e pré-alocado.
 
-• fila: segue o padrão FIFO, ou seja, first-in first-out, ou seja, o primeiro a entrar é o
+* fila: segue o padrão FIFO, ou seja, first-in first-out, ou seja, o primeiro a entrar é o
 primeiro a sair.
 
-• Hash: uma estrutura de dados para inserção, busca e remoção de forma rápida.
+* Hash: uma estrutura de dados para inserção, busca e remoção de forma rápida.
 
-• lista dinâmica: uma lista em que o número de elementos é alterado dinamicamente enquanto o
+* lista dinâmica: uma lista em que o número de elementos é alterado dinamicamente enquanto o
 programa
 executa.
 
@@ -12162,11 +12162,11 @@ Comentários:
 
 Precisamos considerar dois pontos importantes:
 
-• Os elementos são apenas inseridos ao final da lista.
+* Os elementos são apenas inseridos ao final da lista.
 
-• Os elementos também são removidos apenas no fim da lista.
+* Os elementos também são removidos apenas no fim da lista.
 
-• Os elementos só podem ser removidos se todos os inseridos após ele tiverem sido removidos.
+* Os elementos só podem ser removidos se todos os inseridos após ele tiverem sido removidos.
 Ou seja, o
 último a ser inserido é o primeiro a ser removido, ou seja, regra LIFO.
 
@@ -12178,19 +12178,19 @@ elemento do fim da lista. E temos a regra LIFO.
 
 Analisemos as demais estruturas de dados:
 
-• Lista duplamente encadeada: cada nó tem uma referência ao nó anterior e ao próximo, exceto o
+* Lista duplamente encadeada: cada nó tem uma referência ao nó anterior e ao próximo, exceto o
 primeiro e o
 último. A inserção e remoção é livre.
 
-• Lista simplesmente encadeada: cada nó tem uma referência ao próximo nó, exceto o último. A
+* Lista simplesmente encadeada: cada nó tem uma referência ao próximo nó, exceto o último. A
 inserção e
 remoção é livre.
 
-• Fila: segue o padrão FIFO (first-in first-out), ou seja, o primeiro a entrar é o primeiro a
+* Fila: segue o padrão FIFO (first-in first-out), ou seja, o primeiro a entrar é o primeiro a
 sair. Além disso, no caso
 da fila, os elementos são sempre adicionados no fim, e removidos do início da lista.
 
-• Árvore binária: uma árvore binária possui nós com no máximo dois filhos. Não seguem as regras
+* Árvore binária: uma árvore binária possui nós com no máximo dois filhos. Não seguem as regras
 do enunciado.
 
 Gabarito: Letra D
@@ -12217,9 +12217,9 @@ As pilhas segrem a regra LIFO (last-in first-out), ou seja, o último a entrar �
 Isso faz com que tenha
 duas operações:
 
-• PUSH: inclui um elemento na pilha.
+* PUSH: inclui um elemento na pilha.
 
-• POP: retira o último elemento incluído da pilha.
+* POP: retira o último elemento incluído da pilha.
 
 Gabarito: Letra E
 
@@ -12283,11 +12283,11 @@ Comentários:
 
 Precisamos definir os comandos.
 
-• CLEAR: limpa a pilha.
+* CLEAR: limpa a pilha.
 
-• PUSH: inclui um elemento na pilha.
+* PUSH: inclui um elemento na pilha.
 
-• POP: retira o último elemento incluído da pilha.
+* POP: retira o último elemento incluído da pilha.
 Então, vamos seguir linha a linha:
 
 CLEAR
@@ -12455,9 +12455,9 @@ Comentários:
 
 Precisamos definir os comandos.
 
-• PUSH: inclui um elemento na pilha.
+* PUSH: inclui um elemento na pilha.
 
-• POP: retira o último elemento incluído da pilha.
+* POP: retira o último elemento incluído da pilha.
 Então, vamos seguir linha a linha:
 
 PUSH (10)

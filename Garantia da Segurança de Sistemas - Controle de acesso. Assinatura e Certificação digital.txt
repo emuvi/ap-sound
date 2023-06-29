@@ -156,27 +156,27 @@ dificultando bastante possíveis fraudes.
 
 As principais informações contidas em um certificado digital são:
 
-• Chave pública do usuário ou sistemas;
+* Chave pública do usuário ou sistemas;
 
-• Dados relativos à sua identidade;
+* Dados relativos à sua identidade;
 
-• Prazo de validade;
+* Prazo de validade;
 
-• Assinatura Digital da Entidade Certificadora que gerou o certificado;
+* Assinatura Digital da Entidade Certificadora que gerou o certificado;
 
-• Chave pública da CA
+* Chave pública da CA
 
-• Cadeia de certificados hierarquicamente superiores;
+* Cadeia de certificados hierarquicamente superiores;
 
 Além disso, por seguir o padrão X.509 do ITU-t, consta ainda:
 
-• Versão do X.509 e número de série do certificado;
+* Versão do X.509 e número de série do certificado;
 
-• Informação do algoritmo gerador do certificado;
+* Informação do algoritmo gerador do certificado;
 
-• Identificação do gerador do certificado;
+* Identificação do gerador do certificado;
 
-• Informações sobre o algoritmo assimétrico da chave pública do usuário;
+* Informações sobre o algoritmo assimétrico da chave pública do usuário;
 
 A utilização de certificados digitais permite agregar os princípios de autenticidade e
 integridade por
@@ -423,7 +423,7 @@ No exemplo em questão, podemos verificar algumas informações. O referido cert
 digital foi
 emitido para o domínio www4.receita.fazenda.gov.br.
 
-A Autoridade Certificadora responsável por emitir tal certificado é a “Autoridade
+A Autoridade Certificadora responsável por emitir tal certificado é a "Autoridade
 Certificadora do
 SERPRO SRF vl". Ora pessoal, aqui já começamos a identificar uma estrutura hierárquica
 de uma
@@ -632,7 +632,7 @@ Sugiro uma leitura desse documento pelo menos uma vez para se ter uma visão ger
 
 A seguir, apresento ainda um tópico que tem caído em algumas provas.
 
-• Tipos de Certificados Digitais:
+* Tipos de Certificados Digitais:
 
 o Certificado de Assinatura Digital (Al, A2, A3 e A4)
 
@@ -700,11 +700,11 @@ Ainda no âmbito da ICP Brasil, podemos categorizar os certificados considerando
 o usuário ou
 sistema que irá utilizá-lo. Nesse sentido, podemos fazer a primeira distinção, quais sejam:
 
-• Pessoa Física (e-CPF;
+* Pessoa Física (e-CPF;
 
-• Pessoa Jurídica (e-CNPJ);
+* Pessoa Jurídica (e-CNPJ);
 
-• Sistemas;
+* Sistemas;
 
 Então a depender da utilização, devemos trabalhar com tipos diferenciados de
 certificados. Vamos
@@ -828,11 +828,11 @@ Agora imagine que se deseja criar subdomínios distintos a partir de uma mesma U
 padrão. Vamos
 supor que o objetivo seja criar três subdomínios para o ESTRATÉGIA conforme abaixo:
 
-• www.alunos.estrategiaconcursos.com.br
+* www.alunos.estrategiaconcursos.com.br
 
-• www.professores.estrategiaconcursos.com.br
+* www.professores.estrategiaconcursos.com.br
 
-• www.administrativo.estrategiaconcursos.com.br
+* www.administrativo.estrategiaconcursos.com.br
 
 Considerando o certificado padrão, seriam necessários 3 certificados digitais, sendo um
 para cada
@@ -863,13 +863,13 @@ como certificados "Multi-Domínio".
 
 Nesse sentido, a ideia é gerar um único certificado que suporte outros domínios, por exemplo:
 
-• www.estrategiaconcursos.com.br
+* www.estrategiaconcursos.com.br
 
-• www estrategiaconcursos.com
+* www estrategiaconcursos.com
 
-• www.administrativo.estrategiaconcursos.net
+* www.administrativo.estrategiaconcursos.net
 
-• Entre outros....
+* Entre outros....
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 19

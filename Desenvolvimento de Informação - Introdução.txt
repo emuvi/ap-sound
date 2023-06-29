@@ -390,7 +390,7 @@ mcorrênc
 
 Reícuperaçe30
 
-4 ‘3pós falhe3
+4 '3pós falhe3
 
 Figura 3 - Principais funcionalidades de um SGBD.
 
@@ -1120,13 +1120,13 @@ Eles definem então visões para cada grupo de usuários. Podemos listar ainda c
 atribuições do
 AD:
 
-• Padronizar os nomes dos objetos criados no BD
+* Padronizar os nomes dos objetos criados no BD
 
-• Gerenciar e auxiliar na definição das regras de integridade
+* Gerenciar e auxiliar na definição das regras de integridade
 
-• Controlar a existência de informações redundantes
+* Controlar a existência de informações redundantes
 
-• Trabalhar de forma corporativa nos modelos de dados da organização
+* Trabalhar de forma corporativa nos modelos de dados da organização
 
 Falaremos agora do DBA - Database Administrator, ou, da pessoa que fornece o suporte
 técnico
@@ -1143,13 +1143,13 @@ como falhas de segurança ou demora no tempo de resposta do sistema. Segundo o D
 uma lista
 de atividades associadas ao DBA contém as seguintes tarefas:
 
-• Definir o esquema conceituai1 (às vezes conhecido como lógico)
+* Definir o esquema conceituai1 (às vezes conhecido como lógico)
 
-• Definir o esquema interno
+* Definir o esquema interno
 
-• Contatar com os usuários
+* Contatar com os usuários
 
-• Definir restrições de segurança e integridade
+* Definir restrições de segurança e integridade
 
 1 Esse esquema conceituai é estabelecido no âmbito da arquitetura em três esquemas.
 Veremos que ele
@@ -1167,9 +1167,9 @@ www. estrategiaconcursos. com. br
 Thiago Rodrigues Cavalcanti
 Aula 00 (Prof. Thiago Cavalcanti)
 
-• Monitorar o desempenho e responder a requisitos de mudanças.
+* Monitorar o desempenho e responder a requisitos de mudanças.
 
-• Definir normas de descarga e recarga (dumping)2
+* Definir normas de descarga e recarga (dumping)2
 Vejamos algumas questões rápida sobre o assunto:
 
 x/ HORA DE
@@ -1329,13 +1329,13 @@ pouco mais sobre os modelos de armazenamento de dados. Perceba que os aspectos
 semânticos
 vão sendo aprimorados até os modelos semântico.
 
-•Endereçando problemas de Big Data
+*Endereçando problemas de Big Data
 
-• Menos semântica nos modelos de dados
+* Menos semântica nos modelos de dados
 
-• Baseado em modelos sem esquema e chave valor
+* Baseado em modelos sem esquema e chave valor
 
-• Mais adaptado para armazenamento de uma grandes quantidade de dados esparsos
+* Mais adaptado para armazenamento de uma grandes quantidade de dados esparsos
 i
 
 Figura 1 - Evolução histórica dos modelos de dados.
@@ -1386,17 +1386,17 @@ Figura 2 - Modelo de banco de dados hierárquico.
 
 Esses dois modelos, em rede e hierárquico, apresentavam problemas sérios, entre eles:
 
-• O acesso ao banco de dados feito através de operações com o ponteiro de baixo
+* O acesso ao banco de dados feito através de operações com o ponteiro de baixo
 nível.
 
-• Detalhes de armazenamento dependiam do tipo de dados a serem armazenados.
+* Detalhes de armazenamento dependiam do tipo de dados a serem armazenados.
 
-• Para adicionar um campo no banco era necessário reescrever o esquema subjacente
+* Para adicionar um campo no banco era necessário reescrever o esquema subjacente
 de acesso/modificação, em outras palavras o modelo de dados físico.
 
-• Ênfase nos registros a serem processados, não na estrutura global.
+* Ênfase nos registros a serem processados, não na estrutura global.
 
-• O usuário deveria conhecer a estrutura física da BD, para fim de consulta das
+* O usuário deveria conhecer a estrutura física da BD, para fim de consulta das
 informações.
 
 Vejamos algumas questões recentes sobre o assunto:
@@ -1839,7 +1839,7 @@ NOTA!
 
 Modelos de dados hierárquicos
 
-•1968 - Primero modelo de dados a ser
+*1968 - Primero modelo de dados a ser
 reconhecido. Usa estruturas de árvores onde cada
 registro é considerado uma coleção de campos ou
 atributos. Exemplo: IMS.
@@ -1848,11 +1848,11 @@ i
 
 Modelo de dados relacional
 
-• Década de 1970 - Sucessor dos modelos de dados
+* Década de 1970 - Sucessor dos modelos de dados
 legados. Baseia-se no conceito de relações, tuplas e
 atributos. Tem fundamentação na teoria dos conjuntos.
 
-• Década de 1980 - Os SGBDs começam a ser melhorados
+* Década de 1980 - Os SGBDs começam a ser melhorados
 devido a grande aceitação do mercado.
 
 Network Database Model
@@ -1861,16 +1861,16 @@ Network Database Model
 
 Modelo de dados em Rede
 
-•1969 - Eliminou o conceito de hierarquia,
+*1969 - Eliminou o conceito de hierarquia,
 permitindo que um mesmo registro estivesse
 envolvido em várias associações. Ex: IDS.
 
 Modelo Entidade Relacionamento.
 
-• É um modelo conceituai de alto-nível, ou seja, é
+* É um modelo conceituai de alto-nível, ou seja, é
 projetado para ser compreensível aos usuários comuns.
 
-• Formado por um conjunto de objetos chamados de
+* Formado por um conjunto de objetos chamados de
 entidades e pelo conjunto dos relacionamentos entre
 esses objetos.
 
@@ -1881,20 +1881,20 @@ Hi
 
 Modelos de dados semântico
 
-• Modelos de dados orientado a objetos - são mais
+* Modelos de dados orientado a objetos - são mais
 adequados para tratamento de objetos complexos e
 dinâmicos.. Um objeto estará associado a um estado e
 um comportamento.
 
-• Modelo de dados objeto relacional
+* Modelo de dados objeto relacional
 
 Modelo de dados NoSQL.
 
-• Década de 90 - Surgem as primeiras alternativas aos
+* Década de 90 - Surgem as primeiras alternativas aos
 modelos relacionais baseados em documentos, chave-
 valor e colunar.
 
-• Anos 2000 - As bases de dados NoSQL começam a ser
+* Anos 2000 - As bases de dados NoSQL começam a ser
 reconhecidas devido ao alto poder de performance e
 escalabilidade
 
@@ -2382,7 +2382,7 @@ Banco de dados armazenado
 Outros arquivos
 armazenados
 
-Arquivo armazenado de “peças
+Arquivo armazenado de "peças
 
 n?da nome corda peso da
 peça da peça peça peça
@@ -2399,7 +2399,7 @@ P1 Porca Vermelho
 do tipo de registrow Ocorrências de campos armazenados
 
 
-armazenado “peça’
+armazenado "peça'
 
 I
 
@@ -2627,16 +2627,16 @@ seguida apresentar uma figura que servirá de base para uma explicação mais de
 
 WST( MAIS
 
-ATENÇAO! (•) Nível interno - (também conhecido como nível de
+ATENÇAO! (*) Nível interno - (também conhecido como nível de
 armazenamento) é o
 mais próximo do meio de armazenamento físico - ou seja, é aquele que se
 ocupa do modo como os dados são fisicamente armazenados dentro do
 sistema.
 
-(•) Nível conceituai - (também conhecido como nível lógico de comunidade, ou às vezes
+(*) Nível conceituai - (também conhecido como nível lógico de comunidade, ou às vezes
 apenas nível lógico, sem qualificação) é um nível "indireto" entre os outros dois.
 
-(•) Nível externo ou visão - (também conhecido como nível lógico do usuário) é o mais
+(*) Nível externo ou visão - (também conhecido como nível lógico do usuário) é o mais
 próximo dos usuários - ou seja, é aquele que se ocupa do modo como os dados são vistos
 por usuários individuais.
 
@@ -3216,8 +3216,8 @@ Connection conn = conectarBD();
 
 sql += "select nome from usuários
 
-sql +="where login =» + »'” + login +
-sql += " and senha = " + »"»• + senha +
+sql +="where login =» + »'" + login +
+sql += " and senha = " + »"»* + senha +
 try{
 
 Statement st = conn.createStatement();
@@ -3802,7 +3802,7 @@ conflitantes no sistema. A assertiva está incorreta e uma possível correção 
 mesma seria:
 
 "No sistema implementado, o cliente não terá de cadastrar cada produto nos módulos de
-vendas e compras, pois a redundância será tratada na fase da modelagem do banco de dados”
+vendas e compras, pois a redundância será tratada na fase da modelagem do banco de dados"
 
 Gabarito: E.
 
@@ -3851,12 +3851,12 @@ compartilhamento de dados; dessa forma, cada informação é armazenada uma úni
 
 Comentário: Lembrando da nossa qual que existe dois tipos de redundâncias:
 
-• Redundância controlada de dados: Acontece quando o software tem conhecimento da
+* Redundância controlada de dados: Acontece quando o software tem conhecimento da
 múltipla representação da informação e garante a sincronização entre as
 diversas
 representações.
 
-• Redundância não controlada: Acontece quando a responsabilidade pela manutenção da
+* Redundância não controlada: Acontece quando a responsabilidade pela manutenção da
 sincronia entre as diversas representações de uma informação está com o usuário e não
 com o software.
 
@@ -3899,34 +3899,34 @@ de dados:
 
 Modelo Conceituai
 
-• É uma descrição de banco de dados de forma independente de
+* É uma descrição de banco de dados de forma independente de
 implementação num
 sistema de gerenciamento.
 
-• Registra quais dados podem aparecer no banco, mas não registra COMO estes dados estão
+* Registra quais dados podem aparecer no banco, mas não registra COMO estes dados estão
 armazenados no SGBD. (Veja que o modelo registra o que e não como, logo a alternativa
 está incorreta.)
 
-• Oferecem conceitos que são próximos ao modo como muitos usuários percebem os dados.
+* Oferecem conceitos que são próximos ao modo como muitos usuários percebem os dados.
 
-• Os modelos de dados conceituais utilizam conceitos como entidades,
+* Os modelos de dados conceituais utilizam conceitos como entidades,
 atributos e
 relacionamentos.
 
 Modelo Lógico
 
-• Também conhecidos como modelos de dados representativos ou de implementação
+* Também conhecidos como modelos de dados representativos ou de implementação
 
-• Mostram os dados usando estruturas de registro e, portanto, às vezes são
+* Mostram os dados usando estruturas de registro e, portanto, às vezes são
 denominados
 modelos de dados baseados em registro.
 
 Modelo Físico
 
-• Descrevem o armazenamento dos dados como arquivos no computador, com informações
+* Descrevem o armazenamento dos dados como arquivos no computador, com informações
 como formatos de registro, ordenações de registro e caminhos de acesso.
 
-• Um índice é um exemplo de um caminho que permite o acesso direto aos dados
+* Um índice é um exemplo de um caminho que permite o acesso direto aos dados
 usando
 um termo de índice ou uma palavra-chave.
 

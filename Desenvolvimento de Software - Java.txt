@@ -127,30 +127,30 @@ uma classe
 
 A linguagem Java foi projetada tendo em vista os seguintes objetivos:
 
-• Orientação a objetos - Baseado no modelo de Smalltalk e Simulaõy;
+* Orientação a objetos - Baseado no modelo de Smalltalk e Simulaõy;
 
-• Portabilidade - Independência de plataforma - "escreva uma vez, execute em qualquer
+* Portabilidade - Independência de plataforma - "escreva uma vez, execute em qualquer
 lugar" ("write once, run anywhere");
 
-• Recursos de Rede - Possui extensa biblioteca de rotinas que facilitam a cooperação com
+* Recursos de Rede - Possui extensa biblioteca de rotinas que facilitam a cooperação com
 protocolos TCP/IP, como HTTP e FTP;
 
-• Segurança - Pode executar programas via rede com restrições de execução.
+* Segurança - Pode executar programas via rede com restrições de execução.
 
-• Além disso, podem-se destacar outras vantagens apresentadas pela linguagem:
+* Além disso, podem-se destacar outras vantagens apresentadas pela linguagem:
 Sintaxe similara C/C++
 
-• Facilidades de Internacionalização - Suporta nativamente caracteres Unicode;
+* Facilidades de Internacionalização - Suporta nativamente caracteres Unicode;
 
-• Simplicidade na especificação, tanto da linguagem como do "ambiente" de execução
+* Simplicidade na especificação, tanto da linguagem como do "ambiente" de execução
 (JVM);
 
-• É distribuída com um vasto conjunto de bibliotecas (ou APIs);
+* É distribuída com um vasto conjunto de bibliotecas (ou APIs);
 
-• Possui facilidades para criação de programas distribuídos e multitarefa (múltiplas linhas de
+* Possui facilidades para criação de programas distribuídos e multitarefa (múltiplas linhas de
 execução num mesmo programa);
 
-• Desalocação de memória automática por processo de coletor de lixo;
+* Desalocação de memória automática por processo de coletor de lixo;
 
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
@@ -168,7 +168,7 @@ Paolla Ramos e Silva
 
 Aula 04 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• Carga Dinâmica de Código - Programas em Java são formados por uma coleção de classes
+* Carga Dinâmica de Código - Programas em Java são formados por uma coleção de classes
 armazenadas independentemente e que podem ser carregadas no momento de utilização.
 
 Um resumo das características do Java:
@@ -347,15 +347,15 @@ possui um mini provador de teoremas que verifica o respeito às regras básicas 
 linguagem para
 que o código garanta:
 
-• Não fraudar ponteiros
+* Não fraudar ponteiros
 
-• Não violaras restrições de acesso
+* Não violaras restrições de acesso
 
-• Ter acesso a objetos no estado que eles estejam
+* Ter acesso a objetos no estado que eles estejam
 
-• Chamar os métodos com os argumentos apropriados e com os tipos apropriados
+* Chamar os métodos com os argumentos apropriados e com os tipos apropriados
 
-• Não causar o trasbordamento de pilhas
+* Não causar o trasbordamento de pilhas
 
 O bytecode Java contém mais informações de tipos do que seria estritamente necessário
 para o
@@ -475,7 +475,7 @@ Paolla Ramos e Silva
 
 Aula 04 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• Java Standard Edition (Java SE): O Java Standard Edition é a
+* Java Standard Edition (Java SE): O Java Standard Edition é a
 plataforma central de
 programação Java. Ele contém todas as bibliotecas e APIs que qualquer programador
 precisa
@@ -488,7 +488,7 @@ arquiteturas com maior capacidade de processamento e memória. Os aplicativos po
 executados em Windows, Mac OS, Linux, Solaris ou outros sistemas operacionais, contanto
 que estes tenham instalado o ambiente de execução JRE (Java Runtime Environment).
 
-• Java Enterprise Edition (Java EE): O Java EE, ou Java Platform, Enterprise
+* Java Enterprise Edition (Java EE): O Java EE, ou Java Platform, Enterprise
 Edition, é a
 plataforma que disponibiliza recursos para o desenvolvimento de aplicações
 corporativas
@@ -512,7 +512,7 @@ cada uma possui uma responsabilidade específica. Atualmente é possível
 classificar essa
 estrutura em duas partes: arquitetura lógica e arquitetura física.
 
-• Java Micro Edition (Java ME): O Java Micro Edition é a plataforma para
+* Java Micro Edition (Java ME): O Java Micro Edition é a plataforma para
 desenvolvimento de
 aplicações para dispositivos móveis e sistemas integrados, como decodificadores de
 sinais. O
@@ -538,28 +538,28 @@ HJAVASE^^? IM1
 < A
 (
 
-• PLATAFORMA CENTRAL DE • PLATAFORMA QUE •
+* PLATAFORMA CENTRAL DE * PLATAFORMA QUE *
 PLATAFORMA PARA
 PROGRAMAÇÃO JAVA DISPONIBILIZA RECURSOS PARA
 DESENVOLVIMENTO DE
 
-• CONTÉM TODAS AS 0 DESENVOLVIMENTO DE
+* CONTÉM TODAS AS 0 DESENVOLVIMENTO DE
 APLICAÇÕES PARA
 BIBLIOTECAS EAPIS APLICAÇÕES CORPORATIVAS
 DISPOSITIVOS MÓVEIS E
 
-• OPENJDK: IMPLEMENTAÇÃO VOLTADAS PARA WEB E SISTEMAS
+* OPENJDK: IMPLEMENTAÇÃO VOLTADAS PARA WEB E SISTEMAS
 INTEGRADOS,
 GRATUITA E DE CÓDIGO SERVIDORES DE APLICAÇÃO. * FORNECE UM
 
-ABERTO DO JAVA SE. • PROJETADA PARA SUPORTAR
+ABERTO DO JAVA SE. * PROJETADA PARA SUPORTAR
 SUBCONJUNTO DA
 
-• APLICATIVOS COM JRE SISTEMAS DE USO EM LARGA
+* APLICATIVOS COM JRE SISTEMAS DE USO EM LARGA
 FUNCIONALIDADE DO JAVA
 INSTALADO PODEM ESCALA. SE
 
-EXECUTAR EM VÁRIOS • DESENVOLVIMENTO DE * APRESENTA
+EXECUTAR EM VÁRIOS * DESENVOLVIMENTO DE * APRESENTA
 BIBLIOTECAS
 
 SISTEMAS OPERACIONAIS APLICAÇÕES ESCALÁVEIS,
@@ -567,7 +567,7 @@ ESPECÍFICAS PARA
 
 ROBUSTAS EMULTICAMADAS. DISPOSITIVOS MÓVEIS.
 
-• SEGURANÇA E CONFIABILIDADE.
+* SEGURANÇA E CONFIABILIDADE.
 
 v J
 
@@ -1061,18 +1061,18 @@ Aula 04 (Profs. Paolla Ramos e Raphael Lacerda)
 
 PASSAGEM DE PARÂMETROS POR VALOR
 
-• CÓPIA DO VALOR DO ARGUMENTO É PASSADA PARA 0 MÉTODO.
+* CÓPIA DO VALOR DO ARGUMENTO É PASSADA PARA 0 MÉTODO.
 
-• APENAS SEU VALOR É PASSADO PARA A VARIÁVEL CORRESPONDENTE AO
+* APENAS SEU VALOR É PASSADO PARA A VARIÁVEL CORRESPONDENTE AO
 PARÂMETRO
 
 PASSAGEM DE PARÂMETROS POR REFERÊNCIA
 
-• 0 MÉTODO CHAMADO PODE ACESSAR 0 VALOR DO ARGUMENTO
+* 0 MÉTODO CHAMADO PODE ACESSAR 0 VALOR DO ARGUMENTO
 NO CHAMADOR DIRETAMENTE E MODIFICAR ESSES DADOS, SE
 NECESSÁRIO
 
-• APRIMORA DESEMPENHO ELIMINANDO A NECESSIDADE DE
+* APRIMORA DESEMPENHO ELIMINANDO A NECESSIDADE DE
 COPIAR QUANTIDADES DE DADOS POSSIVELMENTE GRANDES
 
 (SEFAZ-CE-2007) Na passagem de parâmetros por valor, a expressão correspondente
@@ -1123,9 +1123,9 @@ Aula 04 (Profs. Paolla Ramos e Raphael Lacerda)
 
 Os componentes de um pacote se dividem em duas categorias.
 
-• Os objetos do pacote são arquivos de aplicativo que serão instalados.
+* Os objetos do pacote são arquivos de aplicativo que serão instalados.
 
-• Os arquivos de controle controlam como, onde e se o pacote está instalado.
+* Os arquivos de controle controlam como, onde e se o pacote está instalado.
 
 Os arquivos de controle também estão divididos em duas categorias: arquivos de
 informação e
@@ -1141,13 +1141,13 @@ usando o comando pkgmk.
 
 Para construir um pacote, você deve fornecer:
 
-• Objetos de pacote (arquivos e diretórios do software de aplicativo)
+* Objetos de pacote (arquivos e diretórios do software de aplicativo)
 
-• Dois arquivos de informação (os arquivos pkginfo e prototype)
+* Dois arquivos de informação (os arquivos pkginfo e prototype)
 
-• Arquivos de informação opcionais
+* Arquivos de informação opcionais
 
-• Scripts de instalação opcionais
+* Scripts de instalação opcionais
 
 A ilustração seguinte descreve o conteúdo de um pacote.
 
@@ -1175,17 +1175,17 @@ Você deve criar os objetos de pacote antes de construir o pacote. Os componente
 abaixo fazem
 parte do aplicativo. Podem ser os seguintes itens:
 
-• Arquivos (arquivos executáveis ou arquivos de dados);
+* Arquivos (arquivos executáveis ou arquivos de dados);
 
-• Diretórios;
+* Diretórios;
 
-• Pipes nomeados;
+* Pipes nomeados;
 
-• Links;
+* Links;
 
-• Dispositivos;
+* Dispositivos;
 
-• O arquivo pkginfo;
+* O arquivo pkginfo;
 
 O pkginfo é um arquivo de informação do pacote necessário que define os valores de
 parâmetro.
@@ -1346,7 +1346,7 @@ JANELA
 
 L J
 
-F ’
+F '
 
 ESTENDE AS
 FUNCIONALIDADES DE
@@ -1356,14 +1356,14 @@ SOM, ANIMAÇÃO
 
 L J
 
-F ’
+F '
 
 NECESSITA DE UM
 NAVEGADOR, POR OUTRO
 
 L À
 
-F ’
+F '
 
 PODE SER
 DISPONIBILIZADA PARA
@@ -1550,15 +1550,15 @@ identificadores diferentes (mas ambos válidos).
 
 Utilizamos, em Java, as seguintes regras para criação do identificador:
 
-• não pode ser uma palavra-reservada (palavra-chave);
+* não pode ser uma palavra-reservada (palavra-chave);
 
-• não pode sertrue nem false - literais que representam os tipos lógicos (booleanos);
+* não pode sertrue nem false - literais que representam os tipos lógicos (booleanos);
 
-• não pode ser null - literal que representa o tipo nulo;
+* não pode ser null - literal que representa o tipo nulo;
 
-• não pode conter espaços em brancos ou outros caracteres de formatação;
+* não pode conter espaços em brancos ou outros caracteres de formatação;
 
-• deve ser a combinação de uma ou mais letras e dígitos UNICODE-16. Por exemplo, no
+* deve ser a combinação de uma ou mais letras e dígitos UNICODE-16. Por exemplo, no
 alfabeto latino, teríamos:
 
 o letras de A a Z (de \u0041 a \u005a);
@@ -2493,7 +2493,7 @@ numero=numero-numero;
 String x="Alo";
 
 String y="Mundo!";
-x = x + ”, ” + y j
+x = x + ", " + y j
 
 //numero passa a valer 5
 
@@ -3078,17 +3078,17 @@ if (expressaoBooleana) {
 
 A expressão Booleana pode ser uma das condições lógicas usuais da matemática:
 
-• Menorque:a<b
+* Menorque:a<b
 
-• Menor ou igual a: a <= b
+* Menor ou igual a: a <= b
 
-• Maiorque:a>b
+* Maiorque:a>b
 
-• Maior ou igual a: a >= b
+* Maior ou igual a: a >= b
 
-• igualaa==b
+* igualaa==b
 
-• Diferente de: a != b
+* Diferente de: a != b
 
 Você pode usar essas condições para executar ações diferentes para decisões diferentes.
 Depois
@@ -3344,11 +3344,11 @@ System.out.print("Erro: A hora deve ser menor que 24.");
 
 if (hora <= 12)
 
-horas. ") •
+horas. ") *
 
 else
 
-horas. ") •
+horas. ") *
 
 System.out.pri nt(hora + " AM é o mesmo que " + hora +
 
@@ -3677,14 +3677,14 @@ da criação de objetos que contêm dados e métodos.
 
 A programação orientada a objetos tem várias vantagens sobre a programação procedural ©
 
-• POO é mais rápido e fácil de executar
+* POO é mais rápido e fácil de executar
 
-• POO fornece uma estrutura clara para os programas
+* POO fornece uma estrutura clara para os programas
 
-• POO ajuda a manter o código Java DRY "Don't Repeat Yourself" e torna o código mais
+* POO ajuda a manter o código Java DRY "Don't Repeat Yourself" e torna o código mais
 fácil de manter, modificar e depurar
 
-• POO possibilita a criação de aplicativos reutilizáveis, completos com menos código e
+* POO possibilita a criação de aplicativos reutilizáveis, completos com menos código e
 menortempo de desenvolvimento
 
 Dica: O princípio "Don't Repeat Yourself" (DRY) consiste em reduzir a repetição de
@@ -4265,15 +4265,15 @@ No momento em que um construtor é invocado, a seguinte sequência de ações é
 para
 a criação de um objeto:
 
-• O espaço para o objeto é alocado e seu conteúdo é inicializado (bitwise) com zeros.
+* O espaço para o objeto é alocado e seu conteúdo é inicializado (bitwise) com zeros.
 
-• O construtor da classe base é invocado.
+* O construtor da classe base é invocado.
 
-• Os membros da classe são inicializados para o objeto, seguindo a ordem
+* Os membros da classe são inicializados para o objeto, seguindo a ordem
 em que foram
 declarados na classe.
 
-• O restante do corpo do construtor é executado.
+* O restante do corpo do construtor é executado.
 
 Seguir essa sequência é uma necessidade de forma a garantir que, quando o
 corpo de um
@@ -4481,7 +4481,7 @@ Aula 04 (Profs. Paolla Ramos e Raphael Lacerda)
 public class Aluno extends Pessoa {
 
 // strNome e strTelefone, bem como seus metoc/os são herdados nesta calasse por
-meio da palavra "extends”
+meio da palavra "extends"
 
 }
 
@@ -5846,13 +5846,13 @@ As boas práticas de programação chamam a atenção a técnicas que irão
 ajudá-lo a criar
 programas que são mais claros, mais compreensíveis e mais fáceis de manter. Vejamos algumas.
 
-• Algumas organizações exigem que todo programa comece com um comentário
+* Algumas organizações exigem que todo programa comece com um comentário
 que
 informa o objetivo e o autor dele, a data e a hora em que foi modificado pela última vez.
 
-• Utilize linhas e espaços em branco para aprimorar a legibilidade do programa.
+* Utilize linhas e espaços em branco para aprimorar a legibilidade do programa.
 
-• Recue o corpo inteiro de cada declaração de classe por um "nível" entre a chave
+* Recue o corpo inteiro de cada declaração de classe por um "nível" entre a chave
 esquerda e
 a chave direita que delimitam o corpo da classe. Esse formato enfatiza a estrutura da
 declaração de classe e torna mais fácil sua leitura. Usamos três espaços para formar
@@ -5860,29 +5860,29 @@ um
 nível de recuo — muitos programadores preferem dois ou quatro espaços. Qualquer que
 seja o estilo que você escolher, utilize-o de modo consistente.
 
-• Recue o corpo inteiro de cada declaração de método um "nível" entre as chaves
+* Recue o corpo inteiro de cada declaração de método um "nível" entre as chaves
 que
 definem o corpo do método. Isso faz com que a estrutura do método se destaque,
 tornando
 a declaração do método mais fácil de ler.
 
-• Coloque um espaço depois de cada vírgula (,) em uma lista de argumentos para
+* Coloque um espaço depois de cada vírgula (,) em uma lista de argumentos para
 tornar os
 programas mais legíveis.
 
-• Declarar cada variável em uma declaração própria. Esse formato permite
+* Declarar cada variável em uma declaração própria. Esse formato permite
 que um
 comentário descritivo seja inserido ao lado de cada servariável que é declarado.
 
-• Escolher nomes de variáveis significativos ajuda um programa a serautodocumentado (isto
+* Escolher nomes de variáveis significativos ajuda um programa a serautodocumentado (isto
 é, pode-se entender o programa simplesmente lendo-o em vez de ler os documentos
 associados ou visualizar um número excessivo de comentários).
 
-• Coloque espaços de ambos os lados de um operador binário para legibilidade.
+* Coloque espaços de ambos os lados de um operador binário para legibilidade.
 
-• Insira uma única declaração por linha em um programa para facilitar a leitura
+* Insira uma única declaração por linha em um programa para facilitar a leitura
 
-• Ao escrever expressões que contêm muitos operadores, consulte a tabela do
+* Ao escrever expressões que contêm muitos operadores, consulte a tabela do
 operador de
 precedência. Confirme se as operações na expressão são realizadas na ordem que você
 espera. Se, em uma expressão complexa, você não estiver seguro quanto à ordem da
@@ -5890,7 +5890,7 @@ avaliação, utilize parênteses para forçar essa ordem, exatamente como você
 faria em
 expressões algébricas.
 
-• Recue as duas instruções do corpo de uma instrução if...else. Muitos IDEs fazem isso por
+* Recue as duas instruções do corpo de uma instrução if...else. Muitos IDEs fazem isso por
 você. Se existem vários níveis de recuo, cada nível deve ser recuado pela mesma quantidade
 adicional de espaço.
 
@@ -5903,7 +5903,7 @@ www.estrategiaconcursos.com.br
 05152001900 - Everton Murilo Vieira /
 
 
-• Sempre inclua chaves em uma instrução do...while. Isso ajuda a eliminar ambiguidade entre
+* Sempre inclua chaves em uma instrução do...while. Isso ajuda a eliminar ambiguidade entre
 a instrução while e uma instrução do...while que contém apenas uma instrução.
 
 3 a va 8
@@ -6223,44 +6223,44 @@ JAVA SE
 
 A r
 
-• PLATAFORMA CENTRAL DE
+* PLATAFORMA CENTRAL DE
 
 PROGRAMAÇÃO JAVA
 
-• CONTÉM TODAS AS
+* CONTÉM TODAS AS
 BIBLIOTECAS EAPIS
 
-• OPENJDK: IMPLEMENTAÇÃO
+* OPENJDK: IMPLEMENTAÇÃO
 GRATUITA E DE CÓDIGO
 ABERTO DO JAVA SE.
 
-• APLICATIVOS COM JRE
+* APLICATIVOS COM JRE
 INSTALADO PODEM
 EXECUTAR EM VÁRIOS
 SISTEMAS OPERACIONAIS
 
 JAVA EE
 
-• PLATAFORMA QUE
+* PLATAFORMA QUE
 DISPONIBILIZA RECURSOS PARA
 0 DESENVOLVIMENTO DE
 APLICAÇÕES CORPORATIVAS
 VOLTADAS PARA WEB E
 SERVIDORES DE APLICAÇÃO.
 
-• PROJETADA PARA SUPORTAR
+* PROJETADA PARA SUPORTAR
 SISTEMAS DE USO EM LARGA
 ESCALA.
 
-• DESENVOLVIMENTO DE
+* DESENVOLVIMENTO DE
 APLICAÇÕES ESCALÁVEIS,
 ROBUSTAS EMULTICAMADAS.
 
-• SEGURANÇA E CONFIABILIDADE.
+* SEGURANÇA E CONFIABILIDADE.
 
 JAVA ME
 
-• PLATAFORMA PARA
+* PLATAFORMA PARA
 DESENVOLVIMENTO DE
 APLICAÇÕES PARA
 DISPOSITIVOS MÓVEIS E
@@ -6281,14 +6281,14 @@ V 7
 
 PASSAGEM DE PARÂMETROS POR VALOR
 
-• CÓPIA DO VALOR DO ARGUMENTO É PASSADA PARA 0 MÉTODO.
+* CÓPIA DO VALOR DO ARGUMENTO É PASSADA PARA 0 MÉTODO.
 
-• APENAS SEU VALOR É PASSADO PARA A VARIÁVEL CORRESPONDENTE AO
+* APENAS SEU VALOR É PASSADO PARA A VARIÁVEL CORRESPONDENTE AO
 PARÂMETRO
 
 PASSAGEM DE PARÂMETROS POR REFERÊNCIA
 
-• 0 MÉTODO CHAMADO PODE ACESSAR 0 VALOR 00 ARGUMENTO
+* 0 MÉTODO CHAMADO PODE ACESSAR 0 VALOR 00 ARGUMENTO
 NO CHAMADOR DIRETAMENTE E MODIFICAR ESSES DADOS, SE
 NECESSÁRIO
 
@@ -6327,13 +6327,13 @@ conjunto de arquivos e diretórios em um formato definido.
 
 Para construir um pacote, você deve fornecer:
 
-• Objetos de pacote (arquivos e diretórios do software de aplicativo)
+* Objetos de pacote (arquivos e diretórios do software de aplicativo)
 
-• Dois arquivos de informação (os arquivos pkginfo e prototype)
+* Dois arquivos de informação (os arquivos pkginfo e prototype)
 
-• Arquivos de informação opcionais
+* Arquivos de informação opcionais
 
-• Scripts de instalação opcionais
+* Scripts de instalação opcionais
 
 HERANÇA
 
@@ -6899,14 +6899,14 @@ Classes e Objetos
 
 A programação orientada a objetos tem várias vantagens sobre a programação procedural ©
 
-• POO é mais rápido e fácil de executar
+* POO é mais rápido e fácil de executar
 
-• POO fornece uma estrutura clara para os programas
+* POO fornece uma estrutura clara para os programas
 
-• POO ajuda a manter o código Java DRY "Don't Repeat Yourself" e torna o código mais
+* POO ajuda a manter o código Java DRY "Don't Repeat Yourself" e torna o código mais
 fácil de manter, modificar e depurar
 
-• POO possibilita a criação de aplicativos reutilizáveis, completos com menos código e
+* POO possibilita a criação de aplicativos reutilizáveis, completos com menos código e
 menortempo de desenvolvimento
 
 Tudo em Java está associado a classes e objetos, juntamente com seus atributos e
@@ -7145,7 +7145,7 @@ i despacha uma thread
 
 pronto ~ executando I J
 
-’ o quantum expira
+' o quantum expira
 
 Coleções
 
@@ -8671,7 +8671,7 @@ try {
 Class . forName ( "com.mysql.jdbc . Driver") ;
 
 con =
-DriverManager.getConnection("jdbcrmysql://localhost:3306/trf3", "root”,
+DriverManager.getConnection("jdbcrmysql://localhost:3306/trf3", "root",
 "ad3jA");
 st = con.createStatementO ;
 
@@ -9423,7 +9423,7 @@ out.println("</HEAD>");
 out.println("<BODY>");
 out.println("<P>Prezado(a) ", " + nome + "
 
-</P>“);
+</P>");
 
 out.println("<P>Obrigado por se
 cadastrar.</P>");
@@ -9644,7 +9644,7 @@ a <
 
 8 this.cilindradas ■ cilindradas;
 
-ié‘ }
+ié' }
 
 Quanto a esse contexto, considere, ainda, as instruções a seguir,
 da classe CarroEsportivo.
@@ -11379,7 +11379,7 @@ try {
 Class . forName ( "com.mysql.jdbc . Driver") ;
 
 con =
-DriverManager.getConnection("jdbcrmysql://localhost:3306/trf3", "root”,
+DriverManager.getConnection("jdbcrmysql://localhost:3306/trf3", "root",
 "ad3jA");
 st = con.createStatementO ;
 
@@ -11830,7 +11830,7 @@ out.println("<BODY>");
 
 out.println("<P>Prezado(a) ", " + nome + "
 
-</P>“);
+</P>");
 
 out.println("<P>Obrigado por se
 cadastrar.</P>");

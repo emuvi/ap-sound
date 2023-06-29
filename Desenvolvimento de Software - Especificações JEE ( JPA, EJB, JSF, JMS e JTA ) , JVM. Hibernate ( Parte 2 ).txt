@@ -278,15 +278,15 @@ Galera, esse é um tema que cai pouquíssimo em prova! Quando cai, em geral, bas
 saber a
 definição e as características básicas de seu funcionamento. Podemos defini-lo de diversas formas:
 
-• Trata-se de uma especificação para envio e processamento de mensagens entre
+* Trata-se de uma especificação para envio e processamento de mensagens entre
 componentes de software distribuídos.
 
-• Trata-se de uma tecnologia para envio de mensagens entre dois ou mais clientes distintos.
+* Trata-se de uma tecnologia para envio de mensagens entre dois ou mais clientes distintos.
 
-• Trata-se de um middleware que permite que aplicações possam criar, enviar, receber e ler
+* Trata-se de um middleware que permite que aplicações possam criar, enviar, receber e ler
 mensagens.
 
-• Trata-se de uma API que permite a comunicação entre diferentes componentes de uma
+* Trata-se de uma API que permite a comunicação entre diferentes componentes de uma
 aplicação distribuída.
 
 Todas essas definições estão corretas! Além disso, ele realiza
@@ -375,13 +375,13 @@ no segundo caso, chamamos o emissor de publicador e o receptor de assinante (sub
 
 A Arquitetura JMS possui três elementos principais:
 
-• Provedor: sistema de mensagem que implementa Interfaces JMS e fornece componentes
+* Provedor: sistema de mensagem que implementa Interfaces JMS e fornece componentes
 administrativos e de controle.
 
-• Cliente: programas ou componentes, escritos em Java, que produzem e consomem
+* Cliente: programas ou componentes, escritos em Java, que produzem e consomem
 mensagens. Qualquer aplicação Java EE pode ser um cliente.
 
-• Mensagem: trata-se dos objetos que comunicam informações entre Clientes JMS - os dados
+* Mensagem: trata-se dos objetos que comunicam informações entre Clientes JMS - os dados
 em si.
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)

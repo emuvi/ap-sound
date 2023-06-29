@@ -2088,7 +2088,7 @@ entanto não criam nenhuma saída visível. Ademais, são interpretadas pelo con
 mesmo
 de qualquer elemento! Existem três diretivas principais:
 
-• page - define atributos de configuração da Página JSP.
+* page - define atributos de configuração da Página JSP.
 
 PROVA!
 
@@ -2530,9 +2530,9 @@ Essas ações ajudam a controlar o comportamento da Engine da Servlet. As açõe
 famosas e
 conhecidas são: (...)
 
-• jsp:useBean: usada quando se deseja invocar/instanciar um JavaBean;
+* jsp:useBean: usada quando se deseja invocar/instanciar um JavaBean;
 
-• jsp:plugin: usada para executar e mostrar um objeto (Ex: Applet) no browser.
+* jsp:plugin: usada para executar e mostrar um objeto (Ex: Applet) no browser.
 
 Conforme vimos em aula, temos: jsp:useBean (para uso de javabeans); jsp:forward (para
 controle
@@ -2645,7 +2645,7 @@ Aula 12 (Profs. Paolla Ramos e Raphael Lacerda)
 
 oportunidade de dar dinâmica ao permitir que o valor seja um bean e que se possa
 utilizar a
-notação “Para acessar propriedades; (d) Errado, é claro que pode - é para isso que
+notação "Para acessar propriedades; (d) Errado, é claro que pode - é para isso que
 ele serve;
 
 (e) Errado, há necessidade de ser transformada em uma Servlet. Gabarito: C
@@ -3106,17 +3106,17 @@ Essas ações ajudam a controlar o comportamento da Engine da Servlet. As açõe
 famosas e
 conhecidas são:
 
-• jsp:include: usada para inserir conteúdo dinâmico em tempo de solicitação;
+* jsp:include: usada para inserir conteúdo dinâmico em tempo de solicitação;
 
-• jsp:forward: usada para redirecionar requisições para outra Página JSP;
+* jsp:forward: usada para redirecionar requisições para outra Página JSP;
 
-• jsp:param: usada para passar parâmetros para outra Ação JSP;
+* jsp:param: usada para passar parâmetros para outra Ação JSP;
 
-• jsp:useBean: usada quando se deseja invocar/instanciar um JavaBean;
+* jsp:useBean: usada quando se deseja invocar/instanciar um JavaBean;
 
-• jsp:setProperty: usada para setar o valor da propriedade de um JavaBean;
+* jsp:setProperty: usada para setar o valor da propriedade de um JavaBean;
 
-• jsp:getProperty: usada para recuperar o valor da propriedade de um JavaBean.
+* jsp:getProperty: usada para recuperar o valor da propriedade de um JavaBean.
 
 Conforme vimos em aula, trata-se do <jsp:useBean>. Gabarito: E
 
@@ -3400,7 +3400,7 @@ Essas ações ajudam a controlar o comportamento da Engine da Servlet. As açõe
 famosas e
 conhecidas são: (...)
 
-• jsp:useBean: usada quando se deseja invocar/instanciar um JavaBean;
+* jsp:useBean: usada quando se deseja invocar/instanciar um JavaBean;
 
 //Ações JSP - Exemplo
 
@@ -4040,7 +4040,7 @@ Essas ações ajudam a controlar o comportamento da Engine da Servlet. As açõe
 famosas e
 conhecidas são: (...)
 
-• jspdorward: usada para redirecionar requisições para outra Página JSP;
+* jspdorward: usada para redirecionar requisições para outra Página JSP;
 Conforme vimos em aula, trata-se do jspdorward. Gabarito: C
 
 28.(ESAF - 2009 - ANA - Analista Administrativo - Tecnologia da Informação -
@@ -4091,7 +4091,7 @@ Essas ações ajudam a controlar o comportamento da Engine da Servlet. As açõe
 famosas e
 conhecidas são: (...)
 
-• jsp:include: usada para inserir conteúdo dinâmico em tempo de solicitação;
+* jsp:include: usada para inserir conteúdo dinâmico em tempo de solicitação;
 
 Conforme vimos em aula, trata-se da Ação jsp:include. Gabarito: B
 
@@ -4866,12 +4866,12 @@ AL-AHLI FAMINTO
 Interesse de clube árabe complica a
 renovação de Guerrero com o Timão
 
-• Mano Menezes não descarta dirigir o Palmeiras
+* Mano Menezes não descarta dirigir o Palmeiras
 
 Depois da decepção nos 50m, Cielo
 quer recompensa: "Mais dois pódios"
 
-• Cielo perde para algoz francês e leva o bronze
+* Cielo perde para algoz francês e leva o bronze
 
 Bem, acima eu afirmei que as servlets são responsáveis por fornecer conteúdo web
 dinâmicos. E
@@ -4957,7 +4957,7 @@ renovação de Guerrero com o Timão
 uepuis da decepção nos 50m, Cielo
 quer recompensa: "Mais dois pódios"
 
-• Cielo perde para algoz francês e leva o bronze
+* Cielo perde para algoz francês e leva o bronze
 
 agora observem que a página acima é modificada quando se move o cursor do mouse
 sobre o link
@@ -6606,11 +6606,11 @@ Gabarito: B
 
 8 getServletContext().getRequestDispatcher(
 
-9 "/bookstore/bookstore.html”);
+9 "/bookstore/bookstore.html");
 
 10 if (dispatcher == null) {
 
-11 System. out.println("There was no dispatcher”);
+11 System. out.println("There was no dispatcher");
 
 12 // No dispatcher means the html file could not be found.
 
@@ -6624,7 +6624,7 @@ Gabarito: B
 
 17 HttpSession session = request.getSession();
 
-18 // Send the user the bookstore’s opening page
+18 // Send the user the bookstore's opening page
 
 19 dispatcher.forward(request, response);
 
@@ -6636,7 +6636,7 @@ Gabarito: B
 
 23 return "The BookStore servlet returns the main web page " +
 
-24 "for Duke’s Bookstore.";
+24 "for Duke's Bookstore.";
 
 25 }
 
@@ -7649,7 +7649,7 @@ e) II e III
 
 10 if (dispatcher = null) {
 
-11 System. out.println("There was no dispatcher”);
+11 System. out.println("There was no dispatcher");
 
 12 // No dispatcher means the html file could not be found.
 
@@ -7657,13 +7657,13 @@ e) II e III
 
 14 } else {
 
-15 System.out.println("There is a dispatcher”);
+15 System.out.println("There is a dispatcher");
 
 16 // Get or start a new session for this user
 
 17 HttpSession session = request.getSession();
 
-18 // Send the user the bookstore’s opening page
+18 // Send the user the bookstore's opening page
 
 19 dispatcher.forward(requestr response);
 
@@ -7673,9 +7673,9 @@ e) II e III
 
 22 public String getServletlnfo() {
 
-23 return ”The Bookstore servlet returns the main web page ” +
+23 return "The Bookstore servlet returns the main web page " +
 
-24 "for Duke’s Bookstore.”;
+24 "for Duke's Bookstore.";
 
 25 }
 
@@ -8023,9 +8023,9 @@ Javascript ou HTML. A funcionalidade fornecida por uma Aplicação JSF é simila
 qualquer outra
 Aplicação Web. Ela possui as seguintes partes:
 
-• Um conjunto de Páginas Web em que são colocados os componentes;
+* Um conjunto de Páginas Web em que são colocados os componentes;
 
-• Um conjunto de tags para adicionar componentes à página web;
+* Um conjunto de tags para adicionar componentes à página web;
 
 1 As implementações da especificação mais famosas são Oracle Mojarra e o Apache MyFaces.
 
@@ -8045,15 +8045,15 @@ Paolla Ramos e Silva
 
 Aula 12 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• Um conjunto de Managed Beans (ou Beans Gerenciados);
+* Um conjunto de Managed Beans (ou Beans Gerenciados);
 
-• Um Descritor de Implantação Web (web.xml);
+* Um Descritor de Implantação Web (web.xml);
 
-• Um ou mais arquivos de configuração (Ex: faces-config.xml);
+* Um ou mais arquivos de configuração (Ex: faces-config.xml);
 
-• Um conjunto de objetos customizados (Ex: validadores, conversores, etc);
+* Um conjunto de objetos customizados (Ex: validadores, conversores, etc);
 
-• Um conjunto de tags customizadas para representar objetos customizados;
+* Um conjunto de tags customizadas para representar objetos customizados;
 
 Pessoal, o JSF oferece diversos validadores embutidos para validar seus Componentes UI
 - essa
@@ -8117,7 +8117,7 @@ basicamente,
 
 três atividades:
 
-• Criar uma Página Web (usando tags de componentes);
+* Criar uma Página Web (usando tags de componentes);
 
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
@@ -8135,9 +8135,9 @@ Paolla Ramos e Silva
 
 Aula 12 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• Desenvolver Managed Beans;
+* Desenvolver Managed Beans;
 
-• E mapear a instância FacesServIet.
+* E mapear a instância FacesServIet.
 
 Aqui vamos fazer uma pequena pausa! Professor, o que é um Managed Bean? São apenas
 POJOs
@@ -8445,13 +8445,13 @@ template são os Componentes Compostos, que agem como um componente. Ademais,
 é bom
 destacar algumas características:
 
-• Utilização de XHTML para criação de Páginas Web;
+* Utilização de XHTML para criação de Páginas Web;
 
-• Suporte a Facelets Tag Libraries (além do JSFTL e JSTL);
+* Suporte a Facelets Tag Libraries (além do JSFTL e JSTL);
 
-• Suporte a Linguagens de Expressão (Expression Languages);
+* Suporte a Linguagens de Expressão (Expression Languages);
 
-• Suporte a templates para componentes e páginas.
+* Suporte a templates para componentes e páginas.
 
 Em suma, a utilização de Facelets reduz o tempo e esforço gastos no
 desenvolvimento e
@@ -8463,15 +8463,15 @@ referenciar propriedades e Managed Beans. Para desenvolver uma Aplicação Facel
 simples, é
 necessário:
 
-• Desenvolver um Managed Bean;
+* Desenvolver um Managed Bean;
 
-• Criar páginas usando tags de componentes;
+* Criar páginas usando tags de componentes;
 
-• Definir a navegação das páginas;
+* Definir a navegação das páginas;
 
-• Mapear a instância javax.faces.webapp.FacesServIet;
+* Mapear a instância javax.faces.webapp.FacesServIet;
 
-• Adicionar declarações de Managed Beans.
+* Adicionar declarações de Managed Beans.
 
 JSF: Filtros
 
@@ -8902,7 +8902,7 @@ utilizam tags dessas bibliotecas:
 
 Fragmento de código
 
-<ui:insert name=”tituloM>Título <Aii:insert>
+<ui:insert name="tituloM>Título <Aii:insert>
 
 Fragmento de código II:
 
@@ -9729,7 +9729,7 @@ dessas bibliotecas:
 
 Fragmento de código
 
-<ui:insert name=’'tituloM>Título <ui:insert>
+<ui:insert name=''tituloM>Título <ui:insert>
 
 </h1>
 
@@ -9740,7 +9740,7 @@ nome}">
 
 Fragmento de código III:
 
-< h: sei ectOne Me n u id=“I i sta">
+< h: sei ectOne Me n u id="I i sta">
 
 <f:selectltems
 
@@ -10129,15 +10129,15 @@ Antes de continuar, preciso que vocês entendam o conceito de POJO (Plain Old
 Java Object).
 Trata-se de objetos simples e comuns que não deveriam ter que:
 
-• Estender interfaces pré-especificadas:
+* Estender interfaces pré-especificadas:
 
 public class Foo extends javax.servIet.http.HttpServIet { ...
 
-• Implementar classes pré-especificadas:
+* Implementar classes pré-especificadas:
 
 public class Bar implements javax.ejb.EntityBean { ...
 
-• Conter anotações pré-especificadas:
+* Conter anotações pré-especificadas:
 @javax.persistence.Entity public class Baz { ...
 
 1 Possui até uma versão para .NET - chama-se NHibernate.
@@ -11444,23 +11444,23 @@ Aula 12 (Profs. Paolla Ramos e Raphael Lacerda)
 
 ©Entity
 
-@Table(name - “domic”)
+@Table(name - "domic")
 @NamedQueries ({
 
-@NamedQuery(name - “Domic.findByid", query - “SELECT r FRoM Domic r wHERE r.id - :1d”),
-@NamedQuery(name « “Domic.findByNome”, query = “SELECT r FRoM Domic r wHERE r.nome = :nome”)
+@NamedQuery(name - "Domic.findByid", query - "SELECT r FRoM Domic r wHERE r.id - :1d"),
+@NamedQuery(name « "Domic.findByNome", query = "SELECT r FRoM Domic r wHERE r.nome = :nome")
 
 public class Domic implements serializable {
 private static final long serialversionuiD = 1L;
 @ld
 
-@column(name = “id", nullable - false)
+@column(name = "id", nullable - false)
 private integer id;
 
-@column(name = “nome”)
+@column(name = "nome")
 private string nome;
 
-@oneToMany(cascade = cascadeType.ALL, mappedBy = “domicld”)
+@oneToMany(cascade = cascadeType.ALL, mappedBy = "domicld")
 private collection<Predio> prediocoliection;
 
 a) @NamedQuery é aplicada para definir várias consultas.
@@ -11876,23 +11876,23 @@ relação à JPA (Java Persistence API) é INCORRETO afirmar que:
 
 ©Entity
 
-@Table(name - “domic”)
+@Table(name - "domic")
 @NamedQueries ({
 
-@NamedQuery(name - “Domic.findByid", query - “SELECT r FRoM Domic r wHERE r.id - :1d”),
-@NamedQuery(name « “Domic.findByNome”, query = “SELECT r FRoM Domic r wHERE r.nome = :nome”)
+@NamedQuery(name - "Domic.findByid", query - "SELECT r FRoM Domic r wHERE r.id - :1d"),
+@NamedQuery(name « "Domic.findByNome", query = "SELECT r FRoM Domic r wHERE r.nome = :nome")
 
 public class Domic implements serializable {
 private static final long serialversionuiD = 1L;
 @ld
 
-@column(name = “id", nullable - false)
+@column(name = "id", nullable - false)
 private integer id;
 
-@column(name = “nome”)
+@column(name = "nome")
 private string nome;
 
-@oneToMany(cascade = cascadeType.ALL, mappedBy = “domicld”)
+@oneToMany(cascade = cascadeType.ALL, mappedBy = "domicld")
 private collection<Predio> prediocoliection;
 
 
@@ -12315,7 +12315,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 235
 
 
-• Session (org.hibernate.Session): trata-se de um objeto leve, single-threaded, de
+* Session (org.hibernate.Session): trata-se de um objeto leve, single-threaded, de
 vida curta
 que representa uma comunicação entre a aplicação e os objetos persistentes, através de
 uma conexão JDBC. É criada por uma SessionFactory e é instanciada cada vez que uma
@@ -12323,7 +12323,7 @@ interação com o banco de dados for necessária. É por meio dela que objetos
 persistentes
 são salvos e recuperados.
 
-• SessionFactory (org.hibernate.SessionFactory): trata-se de um objeto pesado,
+* SessionFactory (org.hibernate.SessionFactory): trata-se de um objeto pesado,
 thread-safe e
 imutável de coleções de mapeamentos objeto-relacional para um único banco de dados -
 deve existir apenas uma instância na aplicação. É uma fábrica de sessões é necessário
@@ -12332,7 +12332,7 @@ SessionFactory por banco de dados utilizando um arquivo de configuração
 separado -
 semelhante ao EntityManagerFactory do JPA.
 
-• Transaction (org.hibernate.Transaction): trata-se de um objeto single-threaded de
+* Transaction (org.hibernate.Transaction): trata-se de um objeto single-threaded de
 vida curta
 utilizado por uma aplicação para especificar unidades indivisíveis e atômicas
 de uma
@@ -12342,7 +12342,7 @@ inferiores, sendo opcional - o desenvolvedor escolhe se o utiliza ou se gerencia
 transações
 em seu próprio código de aplicação.
 
-• Configuration (org.hibernate.Configuration): trata-se de um objeto utilizado para
+* Configuration (org.hibernate.Configuration): trata-se de um objeto utilizado para
 realizar as
 configurações de inicialização do Hibernate. Por meio dele,
 definem-se diversas
@@ -12404,12 +12404,12 @@ podemos ver
 representado na imagem acima! Bem, vamos falar agora um pouquinho sobre cada um desses
 estados - eu recomendo que vocês entendam bem o funcionamento:
 
-• Transiente: a instância não esteve nem está associada a um contexto persistente,
+* Transiente: a instância não esteve nem está associada a um contexto persistente,
 isto é, não
 há uma representação no banco de dados, nem um valor identificador. Ela é instanciada,
 utilizada, destruída e não pode ser reconstruída de forma automática.
 
-• Persistente: a instância está atualmente associada a um contexto persistente, isto
+* Persistente: a instância está atualmente associada a um contexto persistente, isto
 é, há uma
 representação no banco de dados e um valor identificador. Qualquer mudança em
 um
@@ -12428,7 +12428,7 @@ Paolla Ramos e Silva
 
 Aula 12 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• Desanexado: a instância foi associada a um contexto persistente3, no entanto não
+* Desanexado: a instância foi associada a um contexto persistente3, no entanto não
 está mais
 associada por alguma razão (Ex: Fim de sessão). Ainda existe uma referência, o objeto
 ainda

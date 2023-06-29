@@ -250,17 +250,17 @@ Meu primeiro parágrafo.
 
 O que é HTML?
 
-• HTML significa HyperText Markup Language.
+* HTML significa HyperText Markup Language.
 
-• HTML é a linguagem de marcação padrão para criar páginas da Web;
+* HTML é a linguagem de marcação padrão para criar páginas da Web;
 
-• HTML descreve a estrutura de uma página da Web;
+* HTML descreve a estrutura de uma página da Web;
 
-• HTML consiste em uma série de elementos;
+* HTML consiste em uma série de elementos;
 
-• Os elementos HTML informam ao navegador como exibir o conteúdo;
+* Os elementos HTML informam ao navegador como exibir o conteúdo;
 
-• Os elementos HTML rotulam partes do conteúdo como "isto é um título", "isto é
+* Os elementos HTML rotulam partes do conteúdo como "isto é um título", "isto é
 um parágrafo", "isto é um link", etc.
 
 HTML (abreviação para a expressão inglesa HyperText Markup Language, que
@@ -327,25 +327,25 @@ Meu primeiro parágrafo.
 l
 1
 
-• A declaração <!DOCTYPE html> define que este documento é um documento HTML5;
+* A declaração <!DOCTYPE html> define que este documento é um documento HTML5;
 
-• O elemento <html> é o elemento raiz de uma página HTML;
+* O elemento <html> é o elemento raiz de uma página HTML;
 
-• O elemento <head> contém metainformações sobre a página HTML;
+* O elemento <head> contém metainformações sobre a página HTML;
 
-• O elemento <title> especifica um título para a página HTML (que é
+* O elemento <title> especifica um título para a página HTML (que é
 mostrado na barra
 de título do navegador ou na guia da página);
 
-• O elemento <body> define o corpo do documento e é um recipiente
+* O elemento <body> define o corpo do documento e é um recipiente
 para todos os
 conteúdos visíveis, como cabeçalhos, parágrafos, imagens, hiperlinks, tabelas,
 listas,
 etc.
 
-• O elemento <h1 > define um título grande;
+* O elemento <h1 > define um título grande;
 
-• O elemento <p> define um parágrafo.
+* O elemento <p> define um parágrafo.
 
 r
 
@@ -406,27 +406,27 @@ Web.
 
 Alguns dos novos recursos do HTML5 incluem:
 
-• Elementos semânticos: o HTML5 apresenta novos elementos com
+* Elementos semânticos: o HTML5 apresenta novos elementos com
 significados
 específicos, como <header>, <footer> e <article>. Esses elementos tornam
 mais fácil
 para os desenvolvedores estruturar seu conteúdo de maneira lógica e significativa.
 
-• Suporte de áudio e vídeo: o HTML5 inclui suporte integrado para
+* Suporte de áudio e vídeo: o HTML5 inclui suporte integrado para
 reprodução de áudio
 e vídeo, eliminando a necessidade de plug-ins de terceiros, como o Flash.
 
-• Elemento Canvas: O elemento <canvas> permite aos
+* Elemento Canvas: O elemento <canvas> permite aos
 desenvolvedores desenhar
 gráficos e animações diretamente no navegador, usando JavaScript.
 
-• Armazenamento off-line: o HTML5 fornece uma maneira de os
+* Armazenamento off-line: o HTML5 fornece uma maneira de os
 aplicativos da Web
 armazenarem dados localmente, para que os usuários ainda possam
 acessar o
 aplicativo quando estiverem off-line.
 
-• Controles de formulário aprimorados: o HTML5 apresenta novos
+* Controles de formulário aprimorados: o HTML5 apresenta novos
 controles de
 formulário e tipos de entrada, como data, e-mail e intervalo, o que torna
 mais fácil
@@ -463,25 +463,25 @@ máquinas.
 
 Vejamos uma lista de alguns elementos semânticos comuns em HTML:
 
-• <header>: representa o cabeçalho de uma página da web ou seção de
+* <header>: representa o cabeçalho de uma página da web ou seção de
 uma página da
 web.
 
-• <nav>: representa uma seção da página da Web que contém links de navegação.
+* <nav>: representa uma seção da página da Web que contém links de navegação.
 
-• <main>: Representa o conteúdo principal da página web.
+* <main>: Representa o conteúdo principal da página web.
 
-• < article >: representa um conteúdo independente, como uma postagem de
+* < article >: representa um conteúdo independente, como uma postagem de
 blog ou
 artigo de notícias.
 
-• <section>: Representa uma seção da página da web, como um capítulo ou um tema.
+* <section>: Representa uma seção da página da web, como um capítulo ou um tema.
 
-• <aside>: Representa o conteúdo que está relacionado ao conteúdo
+* <aside>: Representa o conteúdo que está relacionado ao conteúdo
 principal da
 página da web, mas que não é essencial para a compreensão do conteúdo principal.
 
-• <footer>: representa o rodapé de uma página da web ou seção de uma
+* <footer>: representa o rodapé de uma página da web ou seção de uma
 página da
 web.
 
@@ -732,9 +732,9 @@ src="https://www.facebook.com/tr?id=1751780821700636&ev=PageView&noscript=l"/>
 "@type": "WebSite",
 
 "name": "Estratégia Concursos",
-"alternateName”: "Estratégia Concursos",
+"alternateName": "Estratégia Concursos",
 
-"uri”: "https://www.estrategiaconcursos.com.br/"
+"uri": "https://www.estrategiaconcursos.com.br/"
 
 }
 
@@ -742,16 +742,16 @@ src="https://www.facebook.com/tr?id=1751780821700636&ev=PageView&noscript=l"/>
 
 <meta charset="UTF-8">
 
-<meta name=”viewport" content="width=device-width, initial-scale=l.0">
+<meta name="viewport" content="width=device-width, initial-scale=l.0">
 
 <meta http-equiv="X-UA-Compatible"
 content="ie=edge"><script
-type=”text/javascript">(window.NREUM||(NREUH={})).init={ajax:{deny_list:["bam.nr-data.net"]J};(windo
+type="text/javascript">(window.NREUM||(NREUH={})).init={ajax:{deny_list:["bam.nr-data.net"]J};(windo
 w.NREUM||(NREUM={
 
 !function(t,e){"object"==typeof exports&&"object"==typeof
-module?module.exports=e():"function”==typeof
-define&&define.amd?define([],e):”object''==typeof
+module?module.exports=e():"function"==typeof
+define&&define.amd?define([],e):"object''==typeof
 exports?exports.NRBA=e():t
 
 <meta name="description" content="Estratégia Concursos é referência na preparação de alunos para
@@ -789,14 +789,14 @@ CDOCTYPE html>
 
 <html lang="pt-br">
 
-► <head itemtype="http://schema.org/WebSite’’>-.</head>
+► <head itemtype="http://schema.org/WebSite''>-.</head>
 
-••►<body id="b_home" data-root=’’https://www.estrategiaconcursos.com.br" class="vsc-initialized"
+**►<body id="b_home" data-root=''https://www.estrategiaconcursos.com.br" class="vsc-initialized"
 style="padding-top: 0px;">-.</body>
 
 == $9
 
-►<iframe id="JSBridgeIframe_l.0" title="jsbridgeJSBridgeIframe_l.0" style=”display:
+►<iframe id="JSBridgeIframe_l.0" title="jsbridgeJSBridgeIframe_l.0" style="display:
 none;">.-</iframe>
 
 *<iframe id="JSBridgeIframe_SetResult_1.0" title="jsbridgeJSBridgeIframe_SetResult_1.0"
@@ -977,13 +977,13 @@ controles padrão do reprodutor de mídia para um elemento de mídia.
 
 O atributo preload tem três valores possíveis:
 
-• "auto": A mídia será carregada automaticamente quando a página da web for
+* "auto": A mídia será carregada automaticamente quando a página da web for
 carregada.
 
-• " metadata ": Somente os metadados (por exemplo, duração, dimensões) da mídia
+* " metadata ": Somente os metadados (por exemplo, duração, dimensões) da mídia
 serão carregados quando a página da web for carregada.
 
-• " none ": a mídia não será carregada quando a página da web for carregada.
+* " none ": a mídia não será carregada quando a página da web for carregada.
 
 O atributo controls é um atributo booleano, o que significa que não possui
 um valor. Se
@@ -1399,10 +1399,10 @@ Text-align Define o alinhamento horizontal do texto para um elemento HTML
 
 <body>
 
-<hl style-"background-color:powderblue;”>Cabeçalho background-color
+<hl style-"background-color:powderblue;">Cabeçalho background-color
 powderblue</hl>
 
-<p style-"background-color:tomato;“>Parágrafo background-color tomato</p>
+<p style-"background-color:tomato;">Parágrafo background-color tomato</p>
 
 <hl style-"color:blue;">Cabeçalho com a fonte blue</hl>
 
@@ -1410,11 +1410,11 @@ powderblue</hl>
 
 <hl style»"font-family:verdana;">Cabeçalho com a fonte verdana</hl>
 
-<p style=”font-family:courier;”>Parágrafo com a fonte courier</p>
+<p style="font-family:courier;">Parágrafo com a fonte courier</p>
 
 <hl style»"font-size:150%;">Cabeçalho tamanho 150%</hl>
 
-<p style«"font-size:160%;“>Parágrafo tamanho 160%</p>
+<p style«"font-size:160%;">Parágrafo tamanho 160%</p>
 
 <hl style-"text-align:center;">Cabecalho centralizado</hl>
 
@@ -1646,7 +1646,7 @@ que mais aprova nos maiores concursos do país.</q>
 Os navegadores geralmente inserem aspas ao redor do elemento q.
 
 Estratégia Concursos: ''Conheça o curso online que mais aprova
-nos maiores concursos do pais.”
+nos maiores concursos do pais."
 
 A tag HTML <abbr> define uma abreviação ou um acrônimo, como "HTML", "CSS",
 "Mr.", "Dr.", "ASAP", "ATM". As abreviações de marcação podem fornecer
@@ -1778,7 +1778,7 @@ mais. Vejamos os exemplos!
 
 <hl style="background-color:MediumSeaGreen;">MediumSeaGreen</hl>
 
-<hl style=”background-color:Gray;">Gray</hl>
+<hl style="background-color:Gray;">Gray</hl>
 
 <hl style="background-color:SlateBlue;">SlateBlue</hl>
 
@@ -1907,12 +1907,12 @@ Hello World
 
 <p>Same as color name "Tomato", but 50% transparent:</p>
 
-<hl style=”background-color:rgba(255, 99, 71, 0.5);">rgba(255, 99,
+<hl style="background-color:rgba(255, 99, 71, 0.5);">rgba(255, 99,
 71, 0.5)
 
 </hl>
 
-<hl style=”background-color:hsla(9, 100%, 64%, 0.5);”>hsla(9, 100%,
+<hl style="background-color:hsla(9, 100%, 64%, 0.5);">hsla(9, 100%,
 64%,
 0.5)</hl>
 
@@ -1970,11 +1970,11 @@ leitor ao endereço de URL especificado. Por padrão, os links aparecerão da
 seguinte
 maneira em todos os navegadores:
 
-• Um link não visitado é sublinhado e azul
+* Um link não visitado é sublinhado e azul
 
-• Um link visitado é sublinhado e roxo
+* Um link visitado é sublinhado e roxo
 
-• Um link ativo é sublinhado e vermelho
+* Um link ativo é sublinhado e vermelho
 
 Por padrão, a página vinculada será exibida na janela atual do navegador. Para alterar
 isso, você deve especificar outro destino para o link.
@@ -1983,13 +1983,13 @@ O atributo target especifica onde abrir o documento vinculado. Ele pode ter
 um dos
 seguintes valores:
 
-• _self- Predefinição. Abre o documento na mesma janela/guia em que foi clicado
+* _self- Predefinição. Abre o documento na mesma janela/guia em que foi clicado
 
-• _blank- Abre o documento em uma nova janela ou guia
+* _blank- Abre o documento em uma nova janela ou guia
 
-• _parent- Abre o documento no quadro pai
+* _parent- Abre o documento no quadro pai
 
-• _top- Abre o documento em todo o corpo da janela
+* _top- Abre o documento em todo o corpo da janela
 
 Para colocar um endereço de e-mail dentro de um link, você pode utilizar mailto:
 dentro
@@ -2037,9 +2037,9 @@ A tag <img> é vazia, ou seja, contém apenas atributos e não possui uma
 tag de
 fechamento. Além disso, ela possui dois atributos obrigatórios:
 
-• src - Especifica o caminho para a imagem;
+* src - Especifica o caminho para a imagem;
 
-• alt - Especifica um texto alternativo para a imagem.
+* alt - Especifica um texto alternativo para a imagem.
 
 A tag <img> também deve conter os atributos width e height, que especificam a largura
 e a altura da imagem (em pixels). Quando uma página web carrega, é o navegador, nesse
@@ -2178,7 +2178,7 @@ navegadores (Chrome, Edge, Firefox, Safari, Opera):
 Abreviação Formato do arquivo
 APNG Animated Portable Network Graphics
 
-•apng
+*apng
 
 Extensão
 
@@ -2205,7 +2205,7 @@ Scalable Vector Graphics
 
 .jpg, .jpeg, .jfif, .pjpeg, .pjp
 
-•png
+*png
 
 ■svg
 
@@ -2417,25 +2417,25 @@ a propriedade border-style, você pode definir a aparência da borda.
 
 Os seguintes valores são permitidos:
 
-• dotted
+* dotted
 
-• dashed
+* dashed
 
-• solid
+* solid
 
-• double
+* double
 
-• groove
+* groove
 
-• ridge
+* ridge
 
-• inset
+* inset
 
-• outset
+* outset
 
-• none
+* none
 
-• hidden
+* hidden
 
 Com a propriedade border-color, você pode definir a cor da borda. As
 tabelas HTML
@@ -2600,11 +2600,11 @@ círculos pretos) por padrão:
 
 Uma lista HTML não ordenada
 
-• Café
+* Café
 
-• Chá
+* Chá
 
-• Leite
+* Leite
 
 Uma lista ordenada começa com a tag <ol>. Cada item da lista começa com
 a tag <li>.
@@ -2865,15 +2865,15 @@ Uma lista aninhada
 
 As listas podem ser aninhadas (lista dentro da lista):
 
-• Café
+* Café
 
-• Chá
+* Chá
 
 o Chá preto
 
 o Chá verde
 
-• Leite
+* Leite
 
 Agora vejamos uma lista horizontal com CSS! As listas HTML podem ser
 estilizadas de
@@ -3384,15 +3384,15 @@ uma página da web. O elemento <video> suporta vários formatos de arquivo de
 vídeo
 diferentes, incluindo:
 
-• MP4: vídeo codificado usando compressão de vídeo H.264 e áudio
+* MP4: vídeo codificado usando compressão de vídeo H.264 e áudio
 codificado usando
 Advanced Audio Coding (AAC).
 
-• WebM: vídeo codificado usando compressão de vídeo VP8 ou VP9 e áudio
+* WebM: vídeo codificado usando compressão de vídeo VP8 ou VP9 e áudio
 codificado
 usando Vorbis ou Opus.
 
-• Ogg: vídeo codificado usando compressão de vídeo Theora3e
+* Ogg: vídeo codificado usando compressão de vídeo Theora3e
 áudio codificado
 usando Vorbis.
 
@@ -3496,7 +3496,7 @@ com CSS, o elemento <div> pode ser usado para estilizar blocos de conteúdo:
 
 <body>
 
-<div style=”background-color:black;color:white;padding:20px;">
+<div style="background-color:black;color:white;padding:20px;">
 
 <h2>Londres</h2>
 
@@ -3706,7 +3706,7 @@ clDOCTYPE html>
 
 <style>
 
-•city {
+*city {
 
 background-color: tomato;
 color: white;
@@ -3736,11 +3736,11 @@ text-align: center;
 <h2>Múltiplas classes</h2>
 
 <p>Aqui, todos os três elementos h2 pertencem à classe "city". Além disso, Londres também
-pertence à classe “main", que centraliza o texto.</p>
+pertence à classe "main", que centraliza o texto.</p>
 
 <h2 class="city main">Londres</h2>
 
-<h2 class-”city”>Paris</h2>
+<h2 class-"city">Paris</h2>
 
 <h2 class="city">Tóquio</h2>
 
@@ -3789,7 +3789,7 @@ Aula 09 (Profs. Paolla Ramos e Raphael Lacerda)
 
 <style>
 
-•city {
+*city {
 
 background-color: tomato;
 color: whitej
@@ -3820,7 +3820,7 @@ eles podem apontar para a mesma classe e obter o mesmo estilo CSS:
 
 <h2 class="city">Paris</h2>
 
-<p class=“city">Paris é a capital da França.</p>
+<p class="city">Paris é a capital da França.</p>
 
 </body>
 
@@ -3846,17 +3846,17 @@ clDOCTYPE html>
 <h2>Uso do atributo class em JavaScript</h2>
 
 <p>Clique no botão para ocultar todos os elementos com o nome de classe "city":</p>
-cbutton onclick=”myFunction()">Ocultar elementos</button>
+cbutton onclick="myFunction()">Ocultar elementos</button>
 
-<h2 class«“city“>Londres</h2>
+<h2 class«"city">Londres</h2>
 
 <p>Londres é a capital da Inglaterra.</p>
 
-<h2 class«“city">Paris</h2>
+<h2 class«"city">Paris</h2>
 
 <p>Paris é a capital da França.</p>
 
-<h2 class=”city“>Tóquio</h2>
+<h2 class="city">Tóquio</h2>
 
 <p>Tõquio é a capital do Japão.</p>
 
@@ -3864,10 +3864,10 @@ cbutton onclick=”myFunction()">Ocultar elementos</button>
 
 function myFunction() {
 
-var x = document.getElementsByClassName("city“);
+var x = document.getElementsByClassName("city");
 for (var i = 0; i < x.length; i++) {
 
-x[i].style.display = "none”;
+x[i].style.display = "none";
 
 Uso do atributo class em JavaScript
 
@@ -3982,7 +3982,7 @@ cinput type=" button" > Exibe um botão clicável
 
 <label for="fname,,>Nome:</labelxbr>
 
-<input type="text" id=”fname" name="fname" value=”John"xbr>
+<input type="text" id="fname" name="fname" value="John"xbr>
 
 <label for="lname">Sobrenome: </labelxbr>
 
@@ -4055,13 +4055,13 @@ um usuário selecione UMA dentre um número limitado de opções.
 
 <forma>
 
-<input type="radio" id="html" name="fav_language" value="HTML”>
+<input type="radio" id="html" name="fav_language" value="HTML">
 
-<label for=”html">HTML</labelxbr>
+<label for="html">HTML</labelxbr>
 
-<input type="radio" id="css" name="fav_language" value=”CSS”>
+<input type="radio" id="css" name="fav_language" value="CSS">
 
-<label for=”css">CSS</labelxbr>
+<label for="css">CSS</labelxbr>
 
 <input type="radio" id="javascript" name="fav_language"
 value="JavaScript">
@@ -4100,22 +4100,22 @@ seleção:</p>
 
 <form action="/action_page.php">
 
-<input type="checkbox" id=”vehiclel" name="vehiclel"
-value=”Bike">
+<input type="checkbox" id="vehiclel" name="vehiclel"
+value="Bike">
 
 <label for="vehiclel"> Eu tenho uma bicicleta</labelxbr>
 
-<input type="checkbox" id=’*vehicle2" name="vehicle2"
+<input type="checkbox" id='*vehicle2" name="vehicle2"
 value="Car">
 
 <label for="vehicle2"> Eu tenho um carro</labelxbr>
 
-<input type="checkbox" id="vehicle3" name="vehicle3”
+<input type="checkbox" id="vehicle3" name="vehicle3"
 value="Boat">
 
 <label for="vehicle3"> Eu tenho um barco</labelxbrxbr>
 
-<input type="enviar" value="Enviar”>
+<input type="enviar" value="Enviar">
 
 </form>
 
@@ -4166,7 +4166,7 @@ especificado no atributo action do formulário.
 
 <label for="fname">Nome: </labelxbr>
 
-<input type="text" id=”fname" name="fname" value="lohn"xbr>
+<input type="text" id="fname" name="fname" value="lohn"xbr>
 
 <label for="lname">Sobrenome: </labelxbr>
 
@@ -4176,7 +4176,7 @@ especificado no atributo action do formulário.
 
 </form>
 
-<p>Se você clicar no botão "Enviar”, os dados do formulário serão
+<p>Se você clicar no botão "Enviar", os dados do formulário serão
 enviados para uma página chamada "/action_page.php".</p>
 
 </body>
@@ -4563,26 +4563,26 @@ que
 permitem aos desenvolvedores da Web criar aplicativos da Web mais poderosos e
 interativos. Aqui estão alguns exemplos:
 
-• A API de geolocalização permite que aplicativos da web acessem as informações de
+* A API de geolocalização permite que aplicativos da web acessem as informações de
 localização do usuário, com a permissão do usuário.
 
-• A API Web Storage fornece uma maneira de armazenar dados localmente em um
+* A API Web Storage fornece uma maneira de armazenar dados localmente em um
 navegador da web, permitindo que os aplicativos da web funcionem offline ou
 armazenem dados para uso futuro.
 
-• A API Web Workers permite que aplicativos da Web executem tarefas em segundo
+* A API Web Workers permite que aplicativos da Web executem tarefas em segundo
 plano, como processamento de dados, sem interromper a experiência do usuário.
 
-• A API WebSockets permite a comunicação full-duplex entre o navegador da web e um
+* A API WebSockets permite a comunicação full-duplex entre o navegador da web e um
 servidor, permitindo a troca de dados em tempo real.
 
-• A API Canvas permite que os desenvolvedores da Web desenhem gráficos e
+* A API Canvas permite que os desenvolvedores da Web desenhem gráficos e
 animações em uma página da Web usando JavaScript.
 
-• A API de áudio da Web permite que os desenvolvedores da Web criem e manipulem
+* A API de áudio da Web permite que os desenvolvedores da Web criem e manipulem
 áudio em uma página da Web, como sintetizar som ou processar entradas de áudio.
 
-• API Server-Sent Events (SSE) é uma tecnologia que permite que um servidor da Web
+* API Server-Sent Events (SSE) é uma tecnologia que permite que um servidor da Web
 envie dados para um navegador da Web em tempo real, sem a necessidade de o
 navegador fazer uma solicitação. Isso facilita a criação de aplicativos em tempo real,
 como salas de bate-papo, feeds de notícias e outros tipos de aplicativos que exigem
@@ -4656,24 +4656,24 @@ x.innerHTML = "Latitude: " + position.coords.latitude +
 
 Não entendeu nada? Vamos lá, o exemplo acima executa as seguintes ações:
 
-• Verifica se a geolocalização é suportada
+* Verifica se a geolocalização é suportada
 
-• Se suportado, executa o método getCurrentPosition().
+* Se suportado, executa o método getCurrentPosition().
 
-• Se não, exibir uma mensagem para o usuário
+* Se não, exibir uma mensagem para o usuário
 
-• Se o método getCurrentPosition() for bem-sucedido, ele retornará um objeto de
+* Se o método getCurrentPosition() for bem-sucedido, ele retornará um objeto de
 coordenadas para a função especificada no parâmetro (showPosition)
 
-• A função showPosition() gera a Latitude e Longitude
+* A função showPosition() gera a Latitude e Longitude
 
 A geolocalização também é muito útil para informações específicas do local, como:
 
-• Informações locais atualizadas;
+* Informações locais atualizadas;
 
-• Mostrar pontos de interesse perto do usuário;
+* Mostrar pontos de interesse perto do usuário;
 
-• Navegação curva a curva (GPS).
+* Navegação curva a curva (GPS).
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 69
@@ -4706,11 +4706,11 @@ e acessar os mesmos dados.
 
 O armazenamento da web HTML fornece dois objetos para armazenar dados no cliente:
 
-• window.localStorage - armazena dados sem data de validade; os dados não serão
+* window.localStorage - armazena dados sem data de validade; os dados não serão
 excluídos quando o navegador for fechado e estarão disponíveis no próximo dia,
 semana ou ano.
 
-• window.sessionStorage - armazena dados para uma sessão. Os dados são excluídos
+* window.sessionStorage - armazena dados para uma sessão. Os dados são excluídos
 quando o usuário fecha a guia específica do navegador.
 
 Antes de usar o armazenamento na web, é necessário verificar o suporte do navegador
@@ -4795,22 +4795,22 @@ da web modernos e é comumente usado no desenvolvimento web.
 
 Existem várias diferenças entre HTML e XHTML:
 
-• Sintaxe: XHTML tem uma sintaxe mais estrita e rígida do que HTML. Ele segue as
+* Sintaxe: XHTML tem uma sintaxe mais estrita e rígida do que HTML. Ele segue as
 regras do XML, o que significa que deve ser bem formado e obedecer a certas
 regras de sintaxe, como fechar todas as tags e usar letras minúsculas. O HTML, por
 outro lado, é mais flexível e tolerante em termos de sintaxe, e não é necessário
 seguir as regras do XML.
 
-• Extensibilidade: XHTML é projetado para ser extensível, o que significa que pode
+* Extensibilidade: XHTML é projetado para ser extensível, o que significa que pode
 ser estendido com novos elementos e atributos. Isso é feito usando os mecanismos
 do XML, como namespaces. O HTML, por outro lado, não é tão extensível e é
 limitado aos elementos e atributos definidos na especificação HTML.
 
-• Compatibilidade: XHTML é compatível com uma ampla gama de ferramentas e
+* Compatibilidade: XHTML é compatível com uma ampla gama de ferramentas e
 aplicativos, pois segue as regras do XML. O HTML é menos compatível, pois não
 segue as regras do XML.
 
-• Tipo de documento: XHTML usa uma declaração de tipo de documento (DTD)
+* Tipo de documento: XHTML usa uma declaração de tipo de documento (DTD)
 diferente do HTML. A DTD especifica as regras para o documento e determina
 como o documento deve ser interpretado por navegadores da Web e outros
 aplicativos.
@@ -4831,7 +4831,7 @@ Paolla Ramos e Silva
 
 Aula 09 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• Tipo MIME: XHTML usa um tipo MIME (Multipurpose Internet Mail Extensions)
+* Tipo MIME: XHTML usa um tipo MIME (Multipurpose Internet Mail Extensions)
 diferente do HTML. O tipo MIME informa aos navegadores da Web e outros
 aplicativos como lidar com o documento.
 
@@ -4857,24 +4857,24 @@ Acessibilidade HTML
 O HTML5 inclui vários recursos que podem melhorar a acessibilidade do conteúdo da
 Web para usuários com deficiências. Alguns desses recursos incluem:
 
-• Elementos semânticos: o HTML5 apresenta novos elementos semânticos, como
+* Elementos semânticos: o HTML5 apresenta novos elementos semânticos, como
 
 <header>, <footer> e <nav>, que podem ajudar a melhorar a estrutura e o significado
 do conteúdo da web. Isso pode tornar mais fácil para as tecnologias assistivas, como
 leitores de tela, interpretar e navegar pelo conteúdo.
 
-• Atributos ARIA: A especificação Accessible Rich Internet Applications (ARIA) define
+* Atributos ARIA: A especificação Accessible Rich Internet Applications (ARIA) define
 um conjunto de atributos que podem ser usados para fornecer informações adicionais
 sobre a finalidade e o comportamento dos elementos em uma página da web. Esses
 atributos podem ser usados para melhorar a acessibilidade de elementos interativos,
 como botões e controles de formulário.
 
-• Legendas e legendas de vídeo: O elemento <track> permite que você especifique
+* Legendas e legendas de vídeo: O elemento <track> permite que você especifique
 uma trilha de texto que pode ser exibida como legendas ou legendas para um
 elemento <video>. Isso pode ajudar a tornar o conteúdo de vídeo mais acessível para
 usuários surdos ou com deficiência auditiva.
 
-• Controles de formulário: o HTML5 apresenta novos controles de formulário, como os
+* Controles de formulário: o HTML5 apresenta novos controles de formulário, como os
 tipos de entrada de data e intervalo, que podem melhorar a usabilidade e a
 acessibilidade dos formulários da web.
 
@@ -4952,17 +4952,17 @@ Meu primeiro parágrafo.
 
 O que é HTML?
 
-• HTML significa Hyper Text Markup Language.
+* HTML significa Hyper Text Markup Language.
 
-• HTML é a linguagem de marcação padrão para criar páginas da Web;
+* HTML é a linguagem de marcação padrão para criar páginas da Web;
 
-• HTML descreve a estrutura de uma página da Web;
+* HTML descreve a estrutura de uma página da Web;
 
-• HTML consiste em uma série de elementos;
+* HTML consiste em uma série de elementos;
 
-• Os elementos HTML informam ao navegador como exibir o conteúdo;
+* Os elementos HTML informam ao navegador como exibir o conteúdo;
 
-• Os elementos HTML rotulam partes do conteúdo como "isto é um título", "isto é
+* Os elementos HTML rotulam partes do conteúdo como "isto é um título", "isto é
 um parágrafo", "isto é um link", etc.
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
@@ -5353,11 +5353,11 @@ leitor ao endereço de URL especificado. Por padrão, os links aparecerão da
 seguinte
 maneira em todos os navegadores:
 
-• Um link não visitado é sublinhado e azul
+* Um link não visitado é sublinhado e azul
 
-• Um link visitado é sublinhado e roxo
+* Um link visitado é sublinhado e roxo
 
-• Um link ativo é sublinhado e vermelho
+* Um link ativo é sublinhado e vermelho
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 82
@@ -5374,13 +5374,13 @@ Aula 09 (Profs. Paolla Ramos e Raphael Lacerda)
 
 O atributo target especifica onde abrir o documento vinculado.
 
-• _self- Predefinição. Abre o documento na mesma janela/guia em que foi clicado
+* _self- Predefinição. Abre o documento na mesma janela/guia em que foi clicado
 
-• _blank- Abre o documento em uma nova janela ou guia
+* _blank- Abre o documento em uma nova janela ou guia
 
-• _parent- Abre o documento no quadro pai
+* _parent- Abre o documento no quadro pai
 
-• _top- Abre o documento em todo o corpo da janela
+* _top- Abre o documento em todo o corpo da janela
 
 Imagens HTML
 
@@ -5389,9 +5389,9 @@ não são tecnicamente inseridas em uma página da web; mas sim vinculadas a pá
 web. A tag <img> cria um espaço de retenção para a imagem referenciada. A tag <img>
 é vazia e possui dois atributos obrigatórios:
 
-• src - Especifica o caminho para a imagem;
+* src - Especifica o caminho para a imagem;
 
-• alt - Especifica um texto alternativo para a imagem.
+* alt - Especifica um texto alternativo para a imagem.
 
 Vejamos os tipos de arquivo de imagem mais comuns, suportados em todos os
 navegadores (Chrome, Edge, Firefox, Safari, Opera):
@@ -5426,7 +5426,7 @@ Scalable Vector Graphics
 
 .jpg, .jpeg, .jfif, .pjpeg, .pjp
 
-•png
+*png
 
 ■svg
 
@@ -6798,16 +6798,16 @@ Considere o código seguinte, em HTML e JavaScript.
 
 <br>
 
-type=1text1 id=1 ar value=’ 5 ’ >
-type=1text1 id='b’ value=r 2 r >
+type=1text1 id=1 ar value=' 5 ' >
+type=1text1 id='b' value=r 2 r >
 
 <input type=1text1 id='cr >
 
 <script>
 
-document.getElementByld(’ c r) .value=(document.
+document.getElementByld(' c r) .value=(document.
 getElementByld(1 a 1) .value+document.getElement
-Byld(’ b ’) .value);
+Byld(' b ') .value);
 
 </script>
 
@@ -6840,7 +6840,7 @@ c.
 
 <html> |5
 
-<input type='text' id='a' value='5’> t
+<input type='text' id='a' value='5'> t
 
 <br> —
 
@@ -6848,7 +6848,7 @@ c.
 
 <br>
 
-<input type='text' id='c’ >
+<input type='text' id='c' >
 
 <script>
 document.getElementById('c').value=
@@ -7101,7 +7101,7 @@ Aula 09 (Profs. Paolla Ramos e Raphael Lacerda)
 
 <html>
 
-<p id=”prova"></p>
+<p id="prova"></p>
 
 <script>
 
@@ -7381,7 +7381,7 @@ e linguagens de programação.
 
 <h2>JavaScript </h2>
 
-<p id=’Tdemo"X/p>
+<p id='Tdemo"X/p>
 
 <script>
 
@@ -8036,7 +8036,7 @@ Youtube, no site do Tribunal.
 
 Para isso, obteve o código personalizado abaixo no site do Youtube.
 
-c...1... width="560” height="315” src="https://www.youtube.com/embed/-u33KrrhlpU"
+c...1... width="560" height="315" src="https://www.youtube.com/embed/-u33KrrhlpU"
 frameborder="0" allow=" accelerometer; autoplay; encrypted-media; gyroscope; picture-in-
 picture" allowfullscreenx/. . .T. . . >
 
@@ -8275,7 +8275,7 @@ utiliza elementos semânticos.
 
 <figure>
 
-<img src="trf.jpg" alt=”TRF3">
+<img src="trf.jpg" alt="TRF3">
 
 </figure>
 
@@ -8558,7 +8558,7 @@ ao cidadão em um site do Governo.
 
 <video controls>
 
-<source src="orienta._cidadao .mp4" type="video/mp4’’>
+<source src="orienta._cidadao .mp4" type="video/mp4''>
 i
 
 </video>
@@ -10186,17 +10186,17 @@ Considere o código seguinte, em HTML e JavaScript.
 
 <br>
 
-type=1text1 id=1 ar value=’ 5 ’ >
+type=1text1 id=1 ar value=' 5 ' >
 
-type=1text1 id='b’ value=r 2 r >
+type=1text1 id='b' value=r 2 r >
 
 <input type=1text1 id='cr >
 
 <script>
 
-document.getElementByld(’ c r) .value=(document.
+document.getElementByld(' c r) .value=(document.
 getElementByld(1 a 1) .value+document.getElement
-Byld(’ b ’) .value);
+Byld(' b ') .value);
 
 </script>
 
@@ -10443,7 +10443,7 @@ e linguagens de programação.
 
 <h2>JavaScript </h2>
 
-<p id=’Tdemo"X/p>
+<p id='Tdemo"X/p>
 
 <script>
 
@@ -10716,7 +10716,7 @@ Aula 09 (Profs. Paolla Ramos e Raphael Lacerda)
 
 Para isso, obteve o código personalizado abaixo no site do Youtube.
 
-c...1... width="560" height="315” src="https://www.youtube.com/embed/-u33KrrhlpU"
+c...1... width="560" height="315" src="https://www.youtube.com/embed/-u33KrrhlpU"
 frameborder="0" allow=" accelerometer; autoplay; encrypted-media; gyroscope; picture-in-
 picture" allowfullscreenx/.. .T... >
 
@@ -11010,7 +11010,7 @@ ao cidadão em um site do Governo.
 
 <video controls>
 
-<source src="orienta._cidadao .mp4" type="video/mp4’’>
+<source src="orienta._cidadao .mp4" type="video/mp4''>
 j
 
 </video>
@@ -11509,7 +11509,7 @@ e) Desenhar a entrada de dados e as caixas de diálogo..
 Item. 70. (FGV -MPE AL - 2018) Observe o código a seguir.
 
 <button onmouseove r="this.innerHTML=r ON'"
-omnouseout=”tliis. innerHTML=l OFF1 ">Aqni</button>
+omnouseout="tliis. innerHTML=l OFF1 ">Aqni</button>
 
 Supondo que o cursor do mouse inicialmente esteja fora da área de botão, assinale o
 texto exibido no botão quando a página que o contém estiver carregada.
@@ -11733,7 +11733,7 @@ Item. 75. (FGV-ALERJ - 2017) Analise a estrutura básica da página HTML a segui
 
 </head>
 
-<body bgcolor="black”
+<body bgcolor="black"
 
 alink="green"
 vlink="yellow"

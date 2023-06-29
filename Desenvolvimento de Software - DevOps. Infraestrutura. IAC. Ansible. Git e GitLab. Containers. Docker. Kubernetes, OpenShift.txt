@@ -618,9 +618,9 @@ desenvolver a sua própria ferramenta baseada em lições aprendidas ao usar o B
 Algumas
 metas do novo sistema era os seguintes:
 
-• Velocidade
+* Velocidade
 
-• Projeto simples
+* Projeto simples
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 12
@@ -635,11 +635,11 @@ Paolla Ramos e Silva
 
 Aula 16 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• Forte suporte para desenvolvimento não-linear (milhares de ramos paralelos)
+* Forte suporte para desenvolvimento não-linear (milhares de ramos paralelos)
 
-• Completamente distribuído
+* Completamente distribuído
 
-• Capacidade de lidar com projetos grandes como o núcleo o Linux com eficiência (velocidade e
+* Capacidade de lidar com projetos grandes como o núcleo o Linux com eficiência (velocidade e
 tamanho dos dados)
 
 Desde seu nascimento em 2005, Git evoluiu e amadureceu para ser fácil de usar e ainda reter essas
@@ -854,13 +854,13 @@ processo de aprendizagem ocorra sem problemas. O Git tem três estados principai
 seus
 arquivos podem estar: committed, modificado (modified) e preparado (staged).
 
-• Committed significa que os dados estão armazenados de forma segura em seu banco de
+* Committed significa que os dados estão armazenados de forma segura em seu banco de
 dados local.
 
-• Modified: significa que você alterou o arquivo, mas ainda não fez o commit no seu banco de
+* Modified: significa que você alterou o arquivo, mas ainda não fez o commit no seu banco de
 dados.
 
-• Staged: significa que você marcou a versão atual de um arquivo modificado para fazer parte
+* Staged: significa que você marcou a versão atual de um arquivo modificado para fazer parte
 de seu próximo commit.
 
 : (VUNESP - FUNDUNESP- 2016) O Git, ao tratar os arquivos que devem sofrer o processo de controle
@@ -2524,7 +2524,7 @@ Paolla Ramos e Silva
 
 Aula 16 (Profs. Paolla Ramos e Raphael Lacerda)
 
-TODAY’S DEVOPS
+TODAY'S DEVOPS
 
 PART DEV PART OPS
 
@@ -2542,7 +2542,7 @@ Application
 Availability
 
 The applications need to be
-up and running and it’s Ops
+up and running and it's Ops
 responsibility to ensure
 uptime and SLAs are in order.
 
@@ -2942,7 +2942,7 @@ Aplicação
 Aplicação
 
 
-Birbáriós ■’
+Birbáriós ■'
 Bibliotecas
 
 Binários t

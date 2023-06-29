@@ -91,7 +91,7 @@ Assim, é possível chamar o método ordenaAluno(menino, bubbleSort) ou ordenaAl
 Template Method
 
 Esse padrão define o esqueleto de um algoritmo dentro de uma operação, deixando alguns passos a serem preenchidos pelas subclasses.
-Esse padrão de projeto deve ser utilizado quando se deseja implementar a parte invariante de um algoritmo e deixar que as subclasses implementem o comportamento variável. Ele também é recomendado quando comportamentos comuns entre subclasses forem fatorados e localizados em uma classe comum, para evitar duplicação de código. Considerem a hipótese de uma franquia de McDonald’s fabricando um sanduíche.
+Esse padrão de projeto deve ser utilizado quando se deseja implementar a parte invariante de um algoritmo e deixar que as subclasses implementem o comportamento variável. Ele também é recomendado quando comportamentos comuns entre subclasses forem fatorados e localizados em uma classe comum, para evitar duplicação de código. Considerem a hipótese de uma franquia de McDonald's fabricando um sanduíche.
 Bem, o cliente pode pedir para colocar mais queijo, tirar os picles, adicionar ketchup, não colocar sal, entre outras opções. No entanto, observem que operações como: abrir o pão, posicionar o hambúrguer no meio e fechar o pão são operações que sempre irão ocorrer. Logo, esse esqueleto de algoritmo jamais irá mudar. Já as opções de condimentos, verduras, etc podem ser modificadas de acordo com o gosto do cliente.
 Sendo assim, a parte invariável será implementada na classe abstrata e a parte variável será implementada pelas classes filhas de acordo com as necessidades do usuário.
 

@@ -50,7 +50,7 @@ sobre a LGPD - Lei Geral de Proteção de Dados.
 Antes de passar ao conteúdo, peço licença para apresentar-me.
 
 
-/•V'
+/*V'
 
 Meu nome é Antonio Daud, sou natural de Uberlândia (MG) e tenho 39
 anos. Sou bacharel em Engenharia Elétrica e em Direito. Sou professor
@@ -282,37 +282,37 @@ www. estrategiaconcursos. com. br
 
 LGPD aplica-se
 
-• tratamento realizado no território nacional
+* tratamento realizado no território nacional
 
-• tratamento com objetivo de fornecimento de bens ou serviços ou o tratamento de dados
+* tratamento com objetivo de fornecimento de bens ou serviços ou o tratamento de dados
 de indivíduos localizados no território nacional
 
-• dados coletados no território nacional
+* dados coletados no território nacional
 
 LGPD não se aplica
 
-• por pessoa natural para fins exclusivamente particulares e não econômicos
+* por pessoa natural para fins exclusivamente particulares e não econômicos
 
-• fins jornalístico
+* fins jornalístico
 
-• artísticos
+* artísticos
 
-• acadêmicos
+* acadêmicos
 
-• de segurança pública
+* de segurança pública
 
-• defesa nacional
+* defesa nacional
 
-• segurança do Estado
+* segurança do Estado
 
-• atividades de investigação e repressão de infrações penais
+* atividades de investigação e repressão de infrações penais
 
-• provenientes de fora do território nacional e
+* provenientes de fora do território nacional e
 
-• não sejam objeto de comunicação, uso compartilhado de dados com agentes de
+* não sejam objeto de comunicação, uso compartilhado de dados com agentes de
 tratamento brasileiros ou
 
-• objeto de transferência internacional de dados com outro país que não o de proveniência
+* objeto de transferência internacional de dados com outro país que não o de proveniência
 (desde que o país de proveniência proporcione proteção adequada a dados pessoais)
 
 Definições
@@ -377,7 +377,7 @@ www. estrategiaconcursos. com. br
 
 á k
 
-D.ado pesso •al
+D.ado pesso *al
 
 k
 
@@ -554,7 +554,7 @@ intimidade
 
 E inviolabilidade da
 
-“O
+"O
 C
 
 =5
@@ -1331,7 +1331,7 @@ Exemplo: Imagine um cadastro contendo o CPF e o Estado em que residem
 todos os
 brasileiros que tomaram vacina da Covid-19 do fabricante Pfizer (dado sensível):
 
-Tabela “Tomaram_vacina_Pfizer” | CPF | Estado de domicílio |
+Tabela "Tomaram_vacina_Pfizer" | CPF | Estado de domicílio |
 
 Se o controlador deste cadastro eliminasse a informação do CPF, o resultado
 seria uma
@@ -1341,7 +1341,7 @@ vacina da Pfizer, de onde poderia se conhecer em quais estados brasileiros
 mais foram
 aplicadas vacinas daquele Fabricante (dado anonimizado):
 
-Tabela “■Tomaram_vacina_Pfizer_Anonimizada” | Estado de domicílio |
+Tabela "■Tomaram_vacina_Pfizer_Anonimizada" | Estado de domicílio |
 
 De forma técnica, a LGPD define dado anonimizado como aquele relativo a
 titular que não possa
@@ -1409,7 +1409,7 @@ Anonimização Pseudonimização
 tratamento por meio do qual um dado perdeuti çao de meios técnicos razoaveis e
 
 . a possibilidade de associaçao, direta ou
-disponíveis no momento do tratamento, por . “7 ’
+disponíveis no momento do tratamento, por . "7 '
 
 . , . , indireta, a um indivíduo,
 senão pelo uso demeio d quais um dad erde a
@@ -2922,20 +2922,20 @@ Administrativa e no Estatuto dos Servidores federal - Lei 8.112/1990):
 
 Sanções - entes da Administração Pública
 
-• advertência
+* advertência
 
-• publicização da infração
+* publicização da infração
 
-• bloqueio dos dados pessoais a que se refere a infração
+* bloqueio dos dados pessoais a que se refere a infração
 
-• eliminação dos dados pessoais a que se refere a infração
+* eliminação dos dados pessoais a que se refere a infração
 
-• suspensão parcial do funcionamento do banco de dados a que se refere a
+* suspensão parcial do funcionamento do banco de dados a que se refere a
 infração
 
-• suspensão do tratamento dos dados a que se refere a infração
+* suspensão do tratamento dos dados a que se refere a infração
 
-• proibição do exercício de atividades relacionadas a tratamento de dados
+* proibição do exercício de atividades relacionadas a tratamento de dados
 total ou parcial
 
 Quanto à sanção de multa simples, aplicável à iniciativa privada, quando a autoridade
@@ -3021,32 +3021,32 @@ considerados os seguintes parâmetros e critérios:
 
 Critérios para aplicação das sanções
 
-• gravidade
+* gravidade
 
-• natureza das infrações
+* natureza das infrações
 
-• direitos pessoais afetados
+* direitos pessoais afetados
 
-• boa-fé do infrator
+* boa-fé do infrator
 
-• vantagem auferida ou pretendida pelo infrator
+* vantagem auferida ou pretendida pelo infrator
 
-• condição econômica do infrator
+* condição econômica do infrator
 
-• reincidência
+* reincidência
 
-• grau do dano
+* grau do dano
 
-• cooperação do infrator
+* cooperação do infrator
 
-• adoção reiterada e demonstrada de mecanismos e procedimentos internos
+* adoção reiterada e demonstrada de mecanismos e procedimentos internos
 capazes de minimizar o dano
 
-• adoção de política de boas práticas e governança
+* adoção de política de boas práticas e governança
 
-• pronta adoção de medidas corretivas
+* pronta adoção de medidas corretivas
 
-• proporcionalidade entre a gravidade da falta e a intensidade da sanção
+* proporcionalidade entre a gravidade da falta e a intensidade da sanção
 
 Se a infração disser respeito apenas a vazamentos individuais ou a acessos não
 autorizados a dados pessoais
@@ -3743,45 +3743,45 @@ Item. 14. RESUMo
 
 LGPD aplica-se
 
-• tratamento realizado no território nacional
+* tratamento realizado no território nacional
 
-• tratamento com objetivo de fornecimento de bens ou serviços ou o tratamento de dados
+* tratamento com objetivo de fornecimento de bens ou serviços ou o tratamento de dados
 de indivíduos localizados no território nacional
 
-• dados coletados no território nacional
+* dados coletados no território nacional
 LGPD não se aplica
 
-• por pessoa natural para fins exclusivamente particulares e não econômicos
+* por pessoa natural para fins exclusivamente particulares e não econômicos
 
-• fins jornalístico
+* fins jornalístico
 
-• artísticos
+* artísticos
 
-• acadêmicos
+* acadêmicos
 
-• de segurança pública
+* de segurança pública
 
-• defesa nacional
+* defesa nacional
 
-• segurança do Estado
+* segurança do Estado
 
-• atividades de investigação e repressão de infrações penais
+* atividades de investigação e repressão de infrações penais
 
-• provenientes de fora do território nacional e
+* provenientes de fora do território nacional e
 
-• não sejam objeto de comunicação, uso compartilhado de dados com agentes de
+* não sejam objeto de comunicação, uso compartilhado de dados com agentes de
 tratamento brasileiros ou
 
-• objeto de transferência internacional de dados com outro país que não o de proveniência
+* objeto de transferência internacional de dados com outro país que não o de proveniência
 (desde que o país de proveniência proporcione proteção adequada a dados pessoais)
 
 
 Objetivos
 
-• proteger direitos
+* proteger direitos
 fundam, de
 
-liberdade e •
+liberdade e *
 
 Fundamentos
 
@@ -3795,12 +3795,12 @@ finalidade
 adequação
 necessidade
 
-•
+*
 
 
 privacidade
 
-• proteger o livre
+* proteger o livre
 desenvolvimento
 da
 personalidade
@@ -6112,7 +6112,7 @@ pessoais a entidades privadas:
 ...................... .. .................................... .. ..................
 ......................................... .................... .........................t
 
-■• LGPD, art. 26, § 1Q É vedado ao Poder Público transferir a entidades privadas
+■* LGPD, art. 26, § 1Q É vedado ao Poder Público transferir a entidades privadas
 dados ■i
 
 : pessoais constantes de bases de dados a que tenha acesso, exceto:
@@ -7395,15 +7395,15 @@ infrações cometidas às normas previstas nesta Lei, ficam sujeitos às seguint
 sanções administrativas
 aplicáveis pela autoridade nacional:
 
-• Advertência.
+* Advertência.
 
-• Multa simples.
+* Multa simples.
 
-• Multa diária.
+* Multa diária.
 
-• Publicização da infração.
+* Publicização da infração.
 
-• Bloqueio dos dados pessoais.
+* Bloqueio dos dados pessoais.
 
 Com relação às sanções administrativas previstas pela LGPD, qual o valor máximo a ser
 aplicado para uma
@@ -7598,20 +7598,20 @@ www. estrategiaconcursos. com. br
 
 Sanções - entes da Administração Pública
 
-• advertência
+* advertência
 
-• publicização da infração
+* publicização da infração
 
-• bloqueio dos dados pessoais a que se refere a infração
+* bloqueio dos dados pessoais a que se refere a infração
 
-• eliminação dos dados pessoais a que se refere a infração
+* eliminação dos dados pessoais a que se refere a infração
 
-• suspensão parcial do funcionamento do banco de dados a que se refere a
+* suspensão parcial do funcionamento do banco de dados a que se refere a
 infração
 
-• suspensão do tratamento dos dados a que se refere a infração
+* suspensão do tratamento dos dados a que se refere a infração
 
-• proibição do exercício de atividades relacionadas a tratamento de dados
+* proibição do exercício de atividades relacionadas a tratamento de dados
 total ou parcial
 
 A letra (E), incorreta, pois a condição econômica é circunstância que poderá ser
@@ -9167,15 +9167,15 @@ infrações cometidas às normas previstas nesta Lei, ficam sujeitos às seguint
 sanções administrativas
 aplicáveis pela autoridade nacional:
 
-• Advertência.
+* Advertência.
 
-• Multa simples.
+* Multa simples.
 
-• Multa diária.
+* Multa diária.
 
-• Publicização da infração.
+* Publicização da infração.
 
-• Bloqueio dos dados pessoais.
+* Bloqueio dos dados pessoais.
 
 Com relação às sanções administrativas previstas pela LGPD, qual o valor máximo a ser
 aplicado para uma

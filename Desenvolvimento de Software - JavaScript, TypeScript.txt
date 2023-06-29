@@ -315,7 +315,7 @@ documento.
 
 function myFunction() {
 
-Document.getElementById("demo”).innerHTML = "Parágrafo modificado.”;
+Document.getElementById("demo").innerHTML = "Parágrafo modificado.";
 
 }
 
@@ -413,7 +413,7 @@ Comentários de linha única:
 
 // Modifica o cabeçalho:
 
-document.getElementByld("meuHeader").innerHTML = ”Minha primeira página”;
+document.getElementByld("meuHeader").innerHTML = "Minha primeira página";
 
 // Modifica o Parágrafo:
 
@@ -493,12 +493,12 @@ ignoram os espaços.
 
 var person = "Diego";
 
-var person-'Diego”;
+var person-'Diego";
 
 Nesse exemplo, quebra-se a linha de código dentro de uma string:
 
-document.getElementByld.("demo”.innerHTML = "Oi \
-Diego! ’’;
+document.getElementByld.("demo".innerHTML = "Oi \
+Diego! '';
 
 Na terminologia Javascript, a palavra literal designa qualquer dado - valor fixo (não
 variável) -
@@ -520,12 +520,12 @@ var nome-array = [iteml, item2, ...]
 
 Um exemplo concreto seria:
 
-var carros = [”Volks”, "Ford",
+var carros = ["Volks", "Ford",
 
 Mas essa não é a única maneira de se criar um vetor, podemos também utilizar o
 operador new.
 
-var carros = new Array("Volks", "Ford", "BMW”);
+var carros = new Array("Volks", "Ford", "BMW");
 
 2 Strings podem vir com aspas simples ou duplas.
 
@@ -563,7 +563,7 @@ tag
 
 <p>Meu primeiro parágrafo</p>
 
-<p id=”demo’’></p>
+<p id="demo''></p>
 
 <script>
 
@@ -635,7 +635,7 @@ funcionar os scripts. Há uma gama imensa de possibilidades de eventos3! Ele per
 execução
 de funções quando eventos são detectados. Vamos ver como ele funciona:
 
-<button onclick='getElementByld("demo")•innerHTML=Date()'>The Time is?</button>
+<button onclick='getElementByld("demo")*innerHTML=Date()'>The Time is?</button>
 
 No exemplo acima, quando o usuário clicar no botão, será informada a data
 e hora atual. O
@@ -829,7 +829,7 @@ e) <p onclick="demo">H</p>
 
 Comentários: para receber a data corrente devemos passar o parâmetro recebido no GET:
 
-document.getElementByld(’demo’).innerHTML = Date()
+document.getElementByld('demo').innerHTML = Date()
 
 então 0 correto é:
 
@@ -1056,7 +1056,7 @@ Item. 7. (FGV / IBGE - 2016) Um website foi programado para exibir o nome do usu
 canto da tela
 através do seguinte código HTML:
 
-<p id=”cliente”>usuário</p>
+<p id="cliente">usuário</p>
 
 Considerando que o nome está armazenado na variável "meuNome", a sintaxe
 correta em
@@ -1415,7 +1415,7 @@ cfonn id-"dados'r action-^script.php"
 
 method=llFaST">
 
-cinput type- ” s ubmi t" name-11S ubrii t"
+cinput type- " s ubmi t" name-11S ubrii t"
 
 value= " ENVI AR11 / >
 cinput type=11 h 1dden" id="tamanho11
@@ -1801,10 +1801,10 @@ Item. 21. (MPE-RS / MPE-RS - 2015) Dado o seguinte código JSON com Javascript:
 
 var text = '{ "employees"' : [' 4-
 
-'{ "firstName’:"Johnn , nlastNamen:"Doe" +
+'{ "firstName':"Johnn , nlastNamen:"Doe" +
 
-'{ "firstNamen:"Arma" , "lastNamé":’SmittT +
-'{ ,,firstNamen:1,Peter'' , " lastNamé" :’Jones" } ]}';
+'{ "firstNamen:"Arma" , "lastNamé":'SmittT +
+'{ ,,firstNamen:1,Peter'' , " lastNamé" :'Jones" } ]}';
 
 É correto afirmar que o código apresentado acima:
 
@@ -1901,7 +1901,7 @@ var a = {};
 
 var b = [1, 2, 3];
 
-a [b] = ‘ oi ’ ;
+a [b] = ' oi ' ;
 
 No exemplo, a[b] retorna 'oi', a[[i, 2, 3]] retorna 'oi' e a[i, 2, 3] retorna 'oi'.
 Isso porque todos os
@@ -2054,13 +2054,13 @@ document.getElementByld('demo').innerHTML = Date()
 
 Então, o correto é:
 
-<p id="demo”>H</p>
+<p id="demo">H</p>
 
 Gabarito: Letra C
 
 Item. 25. (CESPE / PGDF - 2021) Julgue o item a seguir, referente a linguagem de scripts.
 
-<input type='text’ id='a' value=,5l>
+<input type='text' id='a' value=,5l>
 
 <br>
 
@@ -2068,13 +2068,13 @@ Item. 25. (CESPE / PGDF - 2021) Julgue o item a seguir, referente a linguagem de
 
 <br>
 
-<input type-^text1 idstc’ >
+<input type-^text1 idstc' >
 
 <sGript>
 document.getElementByld(1c1).values(document-
 
 getElejnentByld (* a *) * value+document . getElement
-Byld(1b•).value);
+Byld(1b*).value);
 
 </script>
 
@@ -2371,8 +2371,8 @@ var a = eval("x
 
 * y") + "<br>";
 
-var b = eval("2 + 2”) + "<br>";
-var c = eval("x + 17”) + "<br>"
+var b = eval("2 + 2") + "<br>";
+var c = eval("x + 17") + "<br>"
 
 var res = a + b + c;
 
@@ -2701,7 +2701,7 @@ e) D,E
 Item. 7. (FGV / IBGE - 2016) Um website foi programado para exibir o nome do usuário no canto da tela
 através do seguinte código HTML:
 
-<p id=”cliente”>usuário</p>
+<p id="cliente">usuário</p>
 
 Considerando que o nome está armazenado na variável "meuNome", a sintaxe
 correta em
@@ -3038,7 +3038,7 @@ i8.(MPE-RS / MPE-RS -2015) Dado o código Javascript abaixo:
 <script type='rteKt7javascript''>
 var numeros =
 
-[“UnT/Dois"/1 res","Quatro"];
+["UnT/Dois"/1 res","Quatro"];
 
 numeros.pop();
 
@@ -3176,11 +3176,11 @@ e) 0-1-2-3-4
 
 var text = '{ "employees"' : [' 4-
 
-'{ "firstName":Tohn" , "Ia st Name":’Doe" +
+'{ "firstName":Tohn" , "Ia st Name":'Doe" +
 
 '{ "firstN ame": "Anua" , ,rlastName":,,Smith" +
 
-'{ "firstNameVPeter" , "lastName’:’Jonesn } ]}';
+'{ "firstNameVPeter" , "lastName':'Jonesn } ]}';
 
 É correto afirmar que o código apresentado acima:
 
@@ -3261,7 +3261,7 @@ Paolla Ramos e Silva
 
 Aula 05 (Profs. Paolla Ramos e Raphael Lacerda)
 
-document.getElementByld(’demo').innerHTML = Date()
+document.getElementByld('demo').innerHTML = Date()
 
 Numa página web na qual esse código seja aplicado, o elemento que é compatível com a
 estrutura
@@ -3279,7 +3279,7 @@ e) <p onclick=udemo">H</p>
 
 Item. 25. (CESPE / PGDF ■ 2021) Julgue o item a seguir, referente a linguagem de scripts.
 
-<input type='text’ id='a' value=,5l>
+<input type='text' id='a' value=,5l>
 
 <br>
 
@@ -3287,13 +3287,13 @@ Item. 25. (CESPE / PGDF ■ 2021) Julgue o item a seguir, referente a linguagem 
 
 <br>
 
-<input type-^text1 idstc’ >
+<input type-^text1 idstc' >
 
 <script>
 document.getElementByld(1c1).values(document-
 
 getElejnentByld (* a *) * value+document . getElement
-Byld(1b•).value);
+Byld(1b*).value);
 
 </script>
 
@@ -3979,11 +3979,11 @@ Aula 05 (Profs. Paolla Ramos e Raphael Lacerda)
 
 <body>
 
-<p id=”deiuo,,x/p>
+<p id="deiuo,,x/p>
 
 <script>
 
-obj = { na me: ”Joao”, age: 20, city: "Fortaleza” };
+obj = { na me: "Joao", age: 20, city: "Fortaleza" };
 
 A-ar myJSON = JSON.strmgify(obj);
 
@@ -4255,11 +4255,11 @@ suporte à ECMAScript versão ES6 ou superior?
 
 <body>
 
-<p id=”deiuo,,x/p>
+<p id="deiuo,,x/p>
 
 <script>
 
-obj = { na me: ”Joao”, age: 20, city: "Fortaleza” };
+obj = { na me: "Joao", age: 20, city: "Fortaleza" };
 
 A-ar myJSON = JSON.strmgify(obj);
 
@@ -4612,7 +4612,7 @@ Item. 2. (CESGRANRIO / BB - 2021) Considere o código HTML a seguir.
 
 <ldoctype html>
 
-<html lang=“pt-br">
+<html lang="pt-br">
 
 <head>
 
@@ -4624,10 +4624,10 @@ Item. 2. (CESGRANRIO / BB - 2021) Considere o código HTML a seguir.
 
 <f orm>
 
-Texto: <input type='text' name='texto* id='ídTexto' class=’classe-input’
-value=*Texto inicial’xbr>
+Texto: <input type='text' name='texto* id='ídTexto' class='classe-input'
+value=*Texto inicial'xbr>
 
-<input type='submit’ value=‘Envia*>
+<input type='submit' value='Envia*>
 
 </form>
 
@@ -4868,7 +4868,7 @@ Item. 2. (CESGRANRIO / BB - 2021) Considere o código HTML a seguir.
 
 <ldoctype html>
 
-<html lang=“pt-br">
+<html lang="pt-br">
 
 <head>
 
@@ -4880,10 +4880,10 @@ Item. 2. (CESGRANRIO / BB - 2021) Considere o código HTML a seguir.
 
 <f orm>
 
-Texto: <input type='text' name='texto* id='ídTexto' class=’classe-input’
-value=*Texto inicial’xbr>
+Texto: <input type='text' name='texto* id='ídTexto' class='classe-input'
+value=*Texto inicial'xbr>
 
-<input type='submit’ value=‘Envia*>
+<input type='submit' value='Envia*>
 
 </form>
 

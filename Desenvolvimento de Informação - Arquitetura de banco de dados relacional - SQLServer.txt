@@ -660,7 +660,7 @@ Avançado
 
 ; Notas de Versão Online
 
-''•f Exibir as informações mais recentes sobre a versão.
+''*f Exibir as informações mais recentes sobre a versão.
 
 Opções Verificador de
 Configuração do Sistema
@@ -1503,9 +1503,9 @@ réplicas secundárias de base de dados em snapshots locais ou remotos. Esta tec
 difere de
 failover tradicional clustering de duas maneiras:
 
-• Você pode configurar o failover automático sem o uso de um Storage Area Network (SAN).
+* Você pode configurar o failover automático sem o uso de um Storage Area Network (SAN).
 
-• Você pode configurar uma ou mais das réplicas secundárias para apoiar operações
+* Você pode configurar uma ou mais das réplicas secundárias para apoiar operações
 somente
 leitura.
 
@@ -1807,13 +1807,13 @@ No SQL Server 2008, todas as visões do esquema de informações estão no mesmo
 chamado INFORMATION_SCHEMA. As seguintes views ou objetos de esquema de informação estão
 disponíveis:
 
-• CHECK_CONSTRAINTS
+* CHECK_CONSTRAINTS
 
-• COLUMN_DOMAIN_USAGE
+* COLUMN_DOMAIN_USAGE
 
-• COLUMN_PRIVI LEGES
+* COLUMN_PRIVI LEGES
 
-• COLUMNS
+* COLUMNS
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
@@ -1825,37 +1825,37 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 05 (Prof. Thiago Cavalcanti)
 
-• CONSTRAINT_COLUMN_USAGE
+* CONSTRAINT_COLUMN_USAGE
 
-• CONSTRAINT_TABLE_USAGE
+* CONSTRAINT_TABLE_USAGE
 
-• DOMAI N_CONSTRAINTS
+* DOMAI N_CONSTRAINTS
 
-• DOMAINS
+* DOMAINS
 
-• KEY_COLUMN_USAGE
+* KEY_COLUMN_USAGE
 
-• PARAMETERS
+* PARAMETERS
 
-• REFERENTIAL_CONSTRAINTS
+* REFERENTIAL_CONSTRAINTS
 
-• ROUTINES
+* ROUTINES
 
-• ROUTINE_COLUMNS
+* ROUTINE_COLUMNS
 
-• SCHEMATA
+* SCHEMATA
 
-• TABLE_CONSTRAINTS
+* TABLE_CONSTRAINTS
 
-• TABLE_PRIVILEGES
+* TABLE_PRIVILEGES
 
-• TABLES
+* TABLES
 
-• VIEW_COLUMN_USAGE
+* VIEW_COLUMN_USAGE
 
-• VIEW_TABLE_USAGE
+* VIEW_TABLE_USAGE
 
-• VIEWS
+* VIEWS
 
 Ao se referir a uma visão do esquema de informações em uma instrução SQL, você deve
 usar um
@@ -2006,9 +2006,9 @@ Comentário: A automatização de administração em várias instâncias de SQL 
 chamada
 administração multisservidor. Use a administração multisservidor para fazer o seguinte:
 
-• Gerenciar dois ou mais servidores.
+* Gerenciar dois ou mais servidores.
 
-• Programar fluxos de informações entre servidores corporativos para data warehousing.
+* Programar fluxos de informações entre servidores corporativos para data warehousing.
 
 Para aproveitar a administração multisservidores, é necessário ter pelo menos um
 servidor
@@ -2172,26 +2172,26 @@ argumentos que podem ampliar ainda mais os detalhes de um banco de dados quando 
 é criado
 e onde ele é armazenado. O script anterior usa os seguintes argumentos:
 
-• database_name é o nome da base de dados, que deve ser único para qualquer das
+* database_name é o nome da base de dados, que deve ser único para qualquer das
 bases
 de dados que existem na época de criação.
 
-• ON especifica o grupo de arquivos e começa a seção onde o arquivo de dados está definido.
+* ON especifica o grupo de arquivos e começa a seção onde o arquivo de dados está definido.
 
-• LOG ON começa a seção onde o log é definido.
+* LOG ON começa a seção onde o log é definido.
 
-• NAME é o nome do arquivo lógico utilizado pelo SQL Server para referenciar o
+* NAME é o nome do arquivo lógico utilizado pelo SQL Server para referenciar o
 arquivo. Tal
 como acontece com database_name, deve ser único.
 
-• FILENAME é a descrição do caminho no sistema operacional, acompanhado do nome
+* FILENAME é a descrição do caminho no sistema operacional, acompanhado do nome
 arquivo, incluindo a extensão.
 
-• SIZE especifica o tamanho inicial do arquivo em megabytes (MB) por padrão.
+* SIZE especifica o tamanho inicial do arquivo em megabytes (MB) por padrão.
 Kilobytes (KB),
 gigabytes (GB) e terabytes (TB) também podem ser especificados.
 
-• MAXSIZE especifica o tamanho máximo até onde o arquivo pode crescer (mostrado em
+* MAXSIZE especifica o tamanho máximo até onde o arquivo pode crescer (mostrado em
 megabytes por padrão).
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
@@ -2204,7 +2204,7 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 05 (Prof. Thiago Cavalcanti)
 
-• FILEGROWTH especifica o incremento para crescimento do arquivo caso exceda o tamanho
+* FILEGROWTH especifica o incremento para crescimento do arquivo caso exceda o tamanho
 disponível. Também é mostrado em megabytes por padrão, mas pode ser especificado
 como uma percentagem.
 
@@ -2915,31 +2915,31 @@ dados.
 
 A lista a seguir mostra os tipos de dados que não permitidos em uma coluna ou variável sql_variant:
 
-• varchar(max)
+* varchar(max)
 
-• varbinary(max)
+* varbinary(max)
 
-• nvarchar(max)
+* nvarchar(max)
 
-• xml
+* xml
 
-• text
+* text
 
-• ntext
+* ntext
 
-• image
+* image
 
-• rowversion (timestamp)
+* rowversion (timestamp)
 
-• geography
+* geography
 
-• hierarchyid
+* hierarchyid
 
-• geometry
+* geometry
 
-• datetimeoffset
+* datetimeoffset
 
-• User-defined types
+* User-defined types
 
 Gabarito Errado.
 
@@ -3533,7 +3533,7 @@ restrição UNIQUE, o SQL Server irá gerar um erro e rejeitar o registro. Veja 
 exemplo da adição
 de uma restrição UNIQUE:
 
-• *
+* *
 
 ALTER TABLE Employees
 
@@ -3641,7 +3641,7 @@ pnecision [ , scale ]
 
 { ROWGUIDCOL | PERSISTED | NOT FOR REPLICATION | SPARSE | HIDDEN }
 
-| { ADD | DROP } MASKED [ WITH ( FUNCTION = 1 mask_function ’) ]
+| { ADD | DROP } MASKED [ WITH ( FUNCTION = 1 mask_function ') ]
 
 }
 
@@ -4237,9 +4237,9 @@ recuperação do banco de dados. Os parâmetros são os mesmos de ALTER DATABASE
 database_name ADD LOG FILE. Sintaxe:
 
 sp_add_log_file_recover_suspect_db [ @dbName= ] 'database' ,
-[ (Sname = ] ' logical_“File_name' j
+[ (Sname = ] ' logical_"File_name' j
 
-[ @filename= ] 'os_file_name’ ,
+[ @filename= ] 'os_file_name' ,
 [ @size = ] 1size' j
 
 [ |S)maxsize = ] rmax_size' ,
@@ -4272,13 +4272,13 @@ PRINCIPAIS FUNçõES
 
 SQL Server fornece os seguintes grupos de funções do sistema:
 
-• Funções de grupos de disponibilidade Always On
+* Funções de grupos de disponibilidade Always On
 
-• Funções do Change Data Capture
+* Funções do Change Data Capture
 
-• Funções de controle de alterações
+* Funções de controle de alterações
 
-• Funções do coletor de dados
+* Funções do coletor de dados
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
@@ -4290,29 +4290,29 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 05 (Prof. Thiago Cavalcanti)
 
-• Funções FileStream e FileTable
+* Funções FileStream e FileTable
 
-• Funções de Backup gerenciadas
+* Funções de Backup gerenciadas
 
-• sys.fn_get_sql
+* sys.fn_get_sql
 
-• sys.fn_MSxe_read_event_stream
+* sys.fn_MSxe_read_event_stream
 
-• sys.fn_stmt_sql_handle_from_sql_stmt
+* sys.fn_stmt_sql_handle_from_sql_stmt
 
-• sys.fn_validate_plan_guide
+* sys.fn_validate_plan_guide
 
-• sy s .f n_xe_f i I e_ta rget_re a d_f i I e
+* sy s .f n_xe_f i I e_ta rget_re a d_f i I e
 
-• sys.fn_backup_file_snapshots
+* sys.fn_backup_file_snapshots
 
-• Funções de pesquisa semântica de texto completo
+* Funções de pesquisa semântica de texto completo
 
-• Funções de metadados do sistema
+* Funções de metadados do sistema
 
-• Funções de segurança do sistema
+* Funções de segurança do sistema
 
-• Funções de rastreamento do sistema
+* Funções de rastreamento do sistema
 
 Para melhor entendimento desta parte da aula, veremos as funções disponíveis
 relacionadas a
@@ -4383,31 +4383,31 @@ independentemente da interface do usuário do aplicativo. A seguir, apresentamos
 uma lista dos
 tipos de aplicativos que podem gerar Transact-SQL:
 
-• Aplicativos de produtividade para escritórios em geral.
+* Aplicativos de produtividade para escritórios em geral.
 
-• Aplicativos que usam uma interface gráfica do usuário para permitir que os
+* Aplicativos que usam uma interface gráfica do usuário para permitir que os
 usuários
 selecionem as tabelas e colunas que querem visualizar dados.
 
-• Aplicativos que usam sentenças de linguagem comum para determinar quais dados
+* Aplicativos que usam sentenças de linguagem comum para determinar quais dados
 um usuário deseja consultar.
 
-• Linha de aplicativos empresariais que armazenam os dados em bancos de dados SQL
+* Linha de aplicativos empresariais que armazenam os dados em bancos de dados SQL
 Server. Esses aplicativos podem incluir tanto aplicativos escritos por fornecedores
 como aplicativos escritos internamente.
 
-• Scripts Transact-SQL que são executados com utilitários, como sqlcmd.
+* Scripts Transact-SQL que são executados com utilitários, como sqlcmd.
 
-• Aplicativos criados usando sistemas de desenvolvimento como Microsoft Visual C++,
+* Aplicativos criados usando sistemas de desenvolvimento como Microsoft Visual C++,
 Microsoft Visual Basic ou Microsoft Visual J++ que usam APIs de banco de dados
 como ADO, OLE DB e ODBC.
 
-• Páginas da Web que extraem dados de bancos de dados SQL Server.
+* Páginas da Web que extraem dados de bancos de dados SQL Server.
 
-• Sistemas de banco de dados distribuídos dos quais são replicados dados do SQL
+* Sistemas de banco de dados distribuídos dos quais são replicados dados do SQL
 Server para vários bancos de dados ou são executadas consultas distribuídas.
 
-• Data warehouses nos quais dados são extraídos das bases de dados de
+* Data warehouses nos quais dados são extraídos das bases de dados de
 processamento de transações online (OLTP) e são resumidos para análise de suporte
 à decisão.
 
@@ -4447,13 +4447,13 @@ operações do tipo DDL também podem disparar gatilhos DDL.
 
 Use gatilhos DDL quando quiser fazer o seguinte:
 
-• Evitar determinadas alterações em seu esquema de banco de dados.
+* Evitar determinadas alterações em seu esquema de banco de dados.
 
-• Ocorrer algo no banco de dados em resposta a uma alteração em seu esquema de
+* Ocorrer algo no banco de dados em resposta a uma alteração em seu esquema de
 banco
 de dados.
 
-• Registrar alterações ou eventos no esquema de banco de dados.
+* Registrar alterações ou eventos no esquema de banco de dados.
 Assim, temos o gabarito na letra c).
 
 Gabarito: C
@@ -5116,21 +5116,21 @@ off-line, quando você executa i
 
 : operações de índice online, as diretrizes seguintes se aplicam:
 
-: • Os índices clusterizados devem ser criados, recriados ou descartados
+: * Os índices clusterizados devem ser criados, recriados ou descartados
 off-line quando a tabela ;
 subjacente contiver estes tipos de dados LOB (objeto grande): image, ntext e text.
 
-: • índices não clusterizados não exclusivos podem ser criados
+: * índices não clusterizados não exclusivos podem ser criados
 online, quando a tabela contiver ;
 tipos de dados LOB, mas nenhuma dessas colunas são usadas na definição de
 índice seja como j
 colunas-chaves ou colunas não chave.
 
-: • Os índices em tabelas temporárias locais, não podem ser
+: * Os índices em tabelas temporárias locais, não podem ser
 criados, recriados ou soltos
 offline. Esta restrição não se aplica a índices em tabelas temporárias globais.
 
-: • índices podem ser retomados de onde pararam após uma falha inesperada,
+: * índices podem ser retomados de onde pararam após uma falha inesperada,
 failover de banco ;
 de dados ou um comando PAUSE.
 
@@ -5532,13 +5532,13 @@ sem precisar de conhecimentos avançados sobre a estrutura do banco de dados
 ou dos recursos
 internos do SOL Server. Com o DTA, é possível executar as tarefas a seguir.
 
-• Solucionar problemas de desempenho de uma consulta de problema específica
+* Solucionar problemas de desempenho de uma consulta de problema específica
 
-• Ajustar um conjunto grande de consultas por um ou mais bancos de dados
+* Ajustar um conjunto grande de consultas por um ou mais bancos de dados
 
-• Executar uma análise E-Se exploratória de possíveis alterações de design físico
+* Executar uma análise E-Se exploratória de possíveis alterações de design físico
 
-• Gerenciar o espaço de armazenamento
+* Gerenciar o espaço de armazenamento
 Portanto, o gabarito é a letra d).
 
 Gabarito: D
@@ -5927,7 +5927,7 @@ precision [ , scale ]
 
 { ROWGUIDCOL | PERSISTED | NOT FOR REPLICATION | SPARSE | HIDDEN }
 
-| { ADD | DROP } MASKED [ WITH ( FUNCTION = ' mask_function ’) ]
+| { ADD | DROP } MASKED [ WITH ( FUNCTION = ' mask_function ') ]
 
 }
 
@@ -5943,11 +5943,11 @@ para que uma coluna possa ou não ser alterada. A coluna a ser modificada
 não pode ter
 nenhuma das seguintes características:
 
-• Ser uma coluna com um tipo de dados timestamp.
+* Ser uma coluna com um tipo de dados timestamp.
 
-• Ser o ROWGUIDCOL para a tabela.
+* Ser o ROWGUIDCOL para a tabela.
 
-• Ser uma coluna computada ou usada em uma coluna computada.
+* Ser uma coluna computada ou usada em uma coluna computada.
 
 1
 https://docs.microsoft.com/en-us/sql/t-sql/statements/alter-table-transact-sql?view=sql-server-2017
@@ -5962,7 +5962,7 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 05 (Prof. Thiago Cavalcanti)
 
-• Ser usada em estatísticas geradas pela instrução CREATE STATISTICS, a
+* Ser usada em estatísticas geradas pela instrução CREATE STATISTICS, a
 menos que (1) a
 coluna seja do tipo de dados varchar, nvarchar ou varbinary, o tipo de
 dados não seja
@@ -5974,13 +5974,13 @@ STATISTICS. Obs: As estatísticas geradas automaticamente pelo otimizador de
 consulta são
 descartadas automaticamente por ALTER COLUMN.
 
-• Ser usado em uma restrição PRIMARY KEY ou [FOREIGN KEY] REFERENCES.
+* Ser usado em uma restrição PRIMARY KEY ou [FOREIGN KEY] REFERENCES.
 
-• Ser usada em uma restrição CHECK ou UNIQUE. No entanto, a alteração
+* Ser usada em uma restrição CHECK ou UNIQUE. No entanto, a alteração
 do comprimento
 de uma coluna de tamanho variável usada em uma restrição CHECK ou UNIQUE é permitida.
 
-• Ser associada a uma definição padrão. No entanto, o comprimento, a
+* Ser associada a uma definição padrão. No entanto, o comprimento, a
 precisão ou a escala
 de uma coluna podem ser alterados se o tipo de dados não for alterado.
 
@@ -6620,7 +6620,7 @@ ON <object> ( column [ ASC | DESC ] [ ,...n ] )
 
 ]
 
-[ FILESTREAM_ON { filestream_filegroup_name | partition_scheme_name | ”NULL" } ]
+[ FILESTREAM_ON { filestream_filegroup_name | partition_scheme_name | "NULL" } ]
 
 O argumento CLUSTERED cria um índice no qual a ordem lógica dos valores de chave
 determina a ordem física das linhas correspondentes em uma tabela. O nível inferior, ou folha,
@@ -6840,13 +6840,13 @@ de tabela sem precisar de conhecimentos avançados sobre a estrutura do banco de
 ou
 dos recursos internos do SQL Server. Com o DTA, é possível executar as tarefas a seguir.
 
-• Solucionar problemas de desempenho de uma consulta de problema específica
+* Solucionar problemas de desempenho de uma consulta de problema específica
 
-• Ajustar um conjunto grande de consultas por um ou mais bancos de dados
+* Ajustar um conjunto grande de consultas por um ou mais bancos de dados
 
-• Executar uma análise E-Se exploratória de possíveis alterações de design físico
+* Executar uma análise E-Se exploratória de possíveis alterações de design físico
 
-• Gerenciar o espaço de armazenamento
+* Gerenciar o espaço de armazenamento
 Portanto, o gabarito é a letra d).
 
 Gabarito: D
@@ -7450,7 +7450,7 @@ CREATE { PROC | PROCEDURE } [schema_name.] procedure_name [ ; number ]
 
 [ VARYING ] [ = default ] [ OUT | OUTPUT | [READONLY]
 
-] [ >•••" ]
+] [ >***" ]
 
 [ WITH <procedure_option> [ ,...n ] ]
 [ FOR REPLICATION ]

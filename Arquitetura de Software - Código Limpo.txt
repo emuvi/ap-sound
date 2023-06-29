@@ -83,11 +83,11 @@ Testes limpos seguem as regras do acrônimo FIRST (Fast, Indepedent, Repeatable,
 
 Índice
 
-Item. 1 3 R’s da Arquitetura de software
+Item. 1 3 R's da Arquitetura de software
 
-Item. 1.1 Readability (legibilidade) – Nomes Significativos
-Item. 1.2 Reusability (Reuso) – Reutilização de funcionalidades
-Item. 1.3 Refatoring (refatoração) – Otimização da estrutura
+Item. 1.1 Readability (legibilidade) - Nomes Significativos
+Item. 1.2 Reusability (Reuso) - Reutilização de funcionalidades
+Item. 1.3 Refatoring (refatoração) - Otimização da estrutura
 
 Item. 1.3.1 Comentários Compensam um Código Ruim
 Item. 1.3.2 Explique-se no Código
@@ -98,8 +98,8 @@ Item. 1.3.6 O Objetivo da Formatação
 Item. 1.3.7 Objetos e Estruturas de Dados
 
 
-Item. 3 R’s da Arquitetura de software
-O conceito do Clean Code é baseado nos 3 R’s da Arquitetura de software, que são Readability (legibilidade), Reusability (reuso) e Refatoring (refatoração). Os 3 conceitos se complementam para a obtenção de um projeto sustentável à empresa.
+Item. 3 R's da Arquitetura de software
+O conceito do Clean Code é baseado nos 3 R's da Arquitetura de software, que são Readability (legibilidade), Reusability (reuso) e Refatoring (refatoração). Os 3 conceitos se complementam para a obtenção de um projeto sustentável à empresa.
 A legibilidade prioriza a clareza na escolha de nomes, padronização da escrita e formatação da codificação, tendo como principais características:
 
 · Nomes de variáveis;
@@ -136,7 +136,7 @@ O refatoramento diz respeito à capacidade do sistema em permitir a otimização
 
 · Refinamento sucessivo.
 
-Readability (legibilidade) – Nomes Significativos
+Readability (legibilidade) - Nomes Significativos
 
 A partir desta introdução aos conceitos da Arquitetura de Software vamos aprofundar nossos conhecimentos sobre a legibilidade do código. Iniciaremos falando sobre a parte mais importante do seu código, nomes. Os nomes dizem muito sobre o desenvolvedor responsável, eles devem expressar as vontades de seu criador, os propósitos para que foi criado e todo o seu apreço pelo projeto. Dizer que os nomes devem demonstrar seu propósito é fácil. Escolher bons nomes leva tempo, mas economiza mais.
 
@@ -167,7 +167,7 @@ Deve-se evitar passar dicas falsas que confundam o sentido do código. Devemos e
 Faça Distinções Significativas
 
 
-As IDE’s não possibilitam que dois elementos tenham o mesmo nome, isso implica ao desenvolvedor utilizar nomes semelhantes ou em sequência como: a1, a2, a3, esta prática além de dificultar a leitura vai contra a regra anterior. Não há problemas em usar prefixos, porém sempre pensando em distinção significativa, devemos analisar os nomes para retirar trechos desnecessários como ambiguidades. Também devemos evitar palavras muito comuns ou vagas, pois podem passar ao leitor vários significados e permitir que ele entenda da forma que quiser dentro das possibilidades.
+As IDE's não possibilitam que dois elementos tenham o mesmo nome, isso implica ao desenvolvedor utilizar nomes semelhantes ou em sequência como: a1, a2, a3, esta prática além de dificultar a leitura vai contra a regra anterior. Não há problemas em usar prefixos, porém sempre pensando em distinção significativa, devemos analisar os nomes para retirar trechos desnecessários como ambiguidades. Também devemos evitar palavras muito comuns ou vagas, pois podem passar ao leitor vários significados e permitir que ele entenda da forma que quiser dentro das possibilidades.
 
 
 Use Nomes Pronunciáveis
@@ -247,7 +247,7 @@ Para criar nomes que revelem seu propósito devemos seguir os seguintes conceito
 · Faça um bom uso do Naming Convention. Nomes de constantes no padrão SNAKE_CASE e demais nomes no padrão CamelCase.
 
 
-Reusability (Reuso) – Reutilização de funcionalidades
+Reusability (Reuso) - Reutilização de funcionalidades
 
 
 A primeira regra para funções é que elas devem ser pequenas. A segunda é que precisam ser mais espertas do que isso. De acordo com o autor do livro Clean Code, por cerca de quatro décadas criando funções de tamanhos variados. Essa experiência ensinou que, ao longo de muitas tentativas e erros, as funções devem ser muito pequenas.
@@ -344,7 +344,7 @@ Faça uma análise das funcionalidades implementadas e caso note a semelhança e
 A duplicação pode ser a raiz de todo o mal no software, muitos princípios e práticas têm sido criados com a finalidade de controlá-la ou eliminá-la.Considere que a programação orientada a objeto serve para centralizar o código em classes-base que seriam redundantes em outro conceito.
 
 
-Refatoring (refatoração) – Otimização da estrutura
+Refatoring (refatoração) - Otimização da estrutura
 
 
 Nada pode ser tão útil quanto um comentário bem colocado. Porém nada pode ser tão prejudicial quanto comentários desnecessários e supérfluos, no máximo os comentários são um mal necessário.
@@ -574,7 +574,7 @@ Os objetos expõem as ações e ocultam os dados. Isso facilita a adição de no
 As estruturas de dados expõem os dados e não possuem ações significativas. Isso facilita a adição de novas ações às estruturas de dados existentes e dificulta a inclusão de novas estruturas de dados em funções existentes.
 Em um dado sistema, às vezes, desejaremos flexibilidade para adicionar novos tipos de dados, e, portanto, optaremos por objetos. Em outras ocasiões, desejaremos querer flexibilidade para adicionar novas ações, e, portanto, optaremos por tipos de dados e procedimentos.
 Bons desenvolvedores de software entendem essas questões sem preconceito e selecionam a abordagem que melhor se aplica no momento.
-Pessoal, as bancas estão aprofundando cada vez mais na cobrança, veja a questão abaixo e estude com afinco os tópicos seguintes descritos na tabela – pode cair na sua prova, como já caiu em provas anteriores!
+Pessoal, as bancas estão aprofundando cada vez mais na cobrança, veja a questão abaixo e estude com afinco os tópicos seguintes descritos na tabela - pode cair na sua prova, como já caiu em provas anteriores!
 
 
 Objetos e Estruturas de Dados

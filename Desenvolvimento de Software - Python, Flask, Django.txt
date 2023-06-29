@@ -102,33 +102,33 @@ Alguns dos recursos notáveis do Python:
 
 Assembler
 
-• Usa uma sintaxe elegante, tornando os programas que
+* Usa uma sintaxe elegante, tornando os programas que
 você escreve mais fáceis de ler.
 
-• É uma linguagem fácil de usar que simplifica o
+* É uma linguagem fácil de usar que simplifica o
 funcionamento do seu programa. Isso torna o Python ideal
 para desenvolvimento de protótipos e outras tarefas de
 programação ad-hoc, sem comprometer a capacidade de
 manutenção.
 
-• Vem com uma grande biblioteca padrão que suporta
+* Vem com uma grande biblioteca padrão que suporta
 muitas tarefas comuns de programação, como conectar-se
 a servidores da Web, pesquisar texto com expressões
 regulares, lere modificar arquivos.
 
-• O modo interativo do Python facilita o teste de pequenos
+* O modo interativo do Python facilita o teste de pequenos
 trechos de código. Há também um ambiente de
 desenvolvimento empacotado chamado IDLE.
 
-• É facilmente estendido adicionando novos módulos
+* É facilmente estendido adicionando novos módulos
 implementados em uma linguagem compilada como C ou C++.
 
-• Também pode ser incorporado em um aplicativo para fornecer uma interface programável.
+* Também pode ser incorporado em um aplicativo para fornecer uma interface programável.
 
-• Funciona em qualquer lugar, incluindo Mac OS X, Windows, Linux e Unix, com versões não
+* Funciona em qualquer lugar, incluindo Mac OS X, Windows, Linux e Unix, com versões não
 oficiais também disponíveis para Android e iOS.
 
-• É software livre em dois sentidos. Não custa nada baixar ou usar o Python, ou
+* É software livre em dois sentidos. Não custa nada baixar ou usar o Python, ou
 incluí-lo em
 seu aplicativo. O Python também pode ser livremente modificado e redistribuído
 porque,
@@ -150,28 +150,28 @@ www. estrategiaconcursos. com.br
 
 Alguns recursos de linguagem de programação do Python são:
 
-• Uma variedade de tipos de dados básicos está disponível: números (ponto
+* Uma variedade de tipos de dados básicos está disponível: números (ponto
 flutuante, inteiros
 longos complexos e de comprimento ilimitado), strings (ambos ASCII e Unicode), listas e
 dicionários.
 
-• Python suporta programação orientada a objetos com classes e heranças múltiplas.
+* Python suporta programação orientada a objetos com classes e heranças múltiplas.
 
-• O código pode ser agrupado em módulos e pacotes.
+* O código pode ser agrupado em módulos e pacotes.
 
-• A linguagem suporta a geração e captura de exceções, resultando em um tratamento
+* A linguagem suporta a geração e captura de exceções, resultando em um tratamento
 de
 erros mais limpo.
 
-• Os tipos de dados são fortemente e dinamicamente tipados. Misturar tipos
+* Os tipos de dados são fortemente e dinamicamente tipados. Misturar tipos
 incompatíveis
 (por exemplo, tentar adicionar uma string e um número) faz com que uma exceção seja
 lançada, de modo que os erros são detectados mais cedo.
 
-• Python contém recursos avançados de programação, como geradores e compreensões de
+* Python contém recursos avançados de programação, como geradores e compreensões de
 lista.
 
-• O gerenciamento automático de memória do Python libera você de ter que alocar e
+* O gerenciamento automático de memória do Python libera você de ter que alocar e
 liberar
 memória manualmente em seu código.
 
@@ -508,23 +508,23 @@ seja, com menos caracteres especiais, menos sintaxes complexas e mais
 estruturas de código
 simples. Por isso, se destaca
 
-• Afacilidade para aprender, ler e compreender;
+* Afacilidade para aprender, ler e compreender;
 
-• Ser multiplataforma;
+* Ser multiplataforma;
 
-• Possuir modo interativo;
+* Possuir modo interativo;
 
-• Usa indentação para marcação de blocos;
+* Usa indentação para marcação de blocos;
 
-• Quase nenhum uso de palavras-chave associadas com compilação;
+* Quase nenhum uso de palavras-chave associadas com compilação;
 
-• Possuir coletor de lixo para gerenciar automaticamente o uso de memória;
+* Possuir coletor de lixo para gerenciar automaticamente o uso de memória;
 
-• Programação orientada a objetos;
+* Programação orientada a objetos;
 
-• Programação funcional; e
+* Programação funcional; e
 
-• Uma imensidão de módulos de extensão, os quais permitem expandir o poder da linguagem
+* Uma imensidão de módulos de extensão, os quais permitem expandir o poder da linguagem
 Python.
 
 O Python foi projetado para facilitar a leitura e possui algumas semelhanças com o
@@ -650,7 +650,7 @@ y = "3ohn"
 print(type(x))
 print(type(y))
 
-Resultará em: <class 'int'> e <class 'str’>. Variáveis de string podem ser declaradas
+Resultará em: <class 'int'> e <class 'str'>. Variáveis de string podem ser declaradas
 usando aspas
 simples ou duplas:
 
@@ -694,14 +694,14 @@ Uma variável pode ter um nome curto (como x e y) ou um nome mais
 descritivo (idade,
 volume_total, marca_veiculo). Vejamos as regras para nomes de variáveis Python:
 
-• Um nome de variável deve começar com uma letra ou o caractere sublinhado
+* Um nome de variável deve começar com uma letra ou o caractere sublinhado
 
-• Um nome de variável não pode começar com um número
+* Um nome de variável não pode começar com um número
 
-• Um nome de variável pode conter apenas caracteres alfanuméricos e sublinhados (Az, 0-9
+* Um nome de variável pode conter apenas caracteres alfanuméricos e sublinhados (Az, 0-9
 e_)
 
-• Os nomes das variáveis diferenciam maiúsculas de minúsculas (idade, idade e IDADE são três
+* Os nomes das variáveis diferenciam maiúsculas de minúsculas (idade, idade e IDADE são três
 
 variáveis diferentes)
 
@@ -1274,19 +1274,19 @@ Os operadores são usados para realizar operações em variáveis e valores.
 Python divide os
 operadores nos seguintes grupos:
 
-• Operadores aritméticos
+* Operadores aritméticos
 
-• Operadores de atribuição
+* Operadores de atribuição
 
-• Operadores de comparação
+* Operadores de comparação
 
-• Operadores lógicos
+* Operadores lógicos
 
-• Operadores de identidade
+* Operadores de identidade
 
-• Operadores de associação
+* Operadores de associação
 
-• Operadores bit a bit
+* Operadores bit a bit
 Operadores aritméticos Python
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
@@ -1515,13 +1515,13 @@ Coleções Python (matrizes)
 
 Existem quatro tipos de dados de coleção na linguagem de programação Python:
 
-• Lista é uma coleção que é ordenada e mutável. Permite membros duplicados.
+* Lista é uma coleção que é ordenada e mutável. Permite membros duplicados.
 
-• Tupla é uma coleção ordenada e imutável. Permite membros duplicados.
+* Tupla é uma coleção ordenada e imutável. Permite membros duplicados.
 
-• Set é uma coleção não ordenada, imutável1 e não indexada. Nenhum membro duplicado.
+* Set é uma coleção não ordenada, imutável1 e não indexada. Nenhum membro duplicado.
 
-• Dicionário é uma coleção ordenada2 e mutável. Nenhum membro duplicado.
+* Dicionário é uma coleção ordenada2 e mutável. Nenhum membro duplicado.
 
 Ao escolher um tipo de coleção, é útil entender as propriedades desse tipo. Escolher
 o tipo certo
@@ -4325,7 +4325,7 @@ Retorna uma correspondência para qualquer número de dois dígitos de 00 a 59
 Retorna uma correspondência para qualquer caractere em ordem alfabética entre a
 e z, minúsculas OU maiúsculas
 
-Em conjuntos, +, •/ |, (), $,{} não tem significado especial, então [+] significa:
+Em conjuntos, +, */ |, (), $,{} não tem significado especial, então [+] significa:
 
 retornar uma correspondência para qualquer caractere + na string
 
@@ -5769,19 +5769,19 @@ Windows, macOS e Linux e é executado no Python 2 e 3.
 
 PyAutoGUI tem vários recursos:
 
-• Movendo o mouse e clicando nas janelas de outros aplicativos.
+* Movendo o mouse e clicando nas janelas de outros aplicativos.
 
-• Envio de pressionamentos de tecla para aplicativos (por exemplo, para preencher formulários).
+* Envio de pressionamentos de tecla para aplicativos (por exemplo, para preencher formulários).
 
-• Faça capturas de tela e forneça uma imagem (por exemplo, de um botão ou caixa
+* Faça capturas de tela e forneça uma imagem (por exemplo, de um botão ou caixa
 de seleção) e
 encontre-a na tela.
 
-• Localize a janela de um aplicativo e mova, redimensione, maximize,
+* Localize a janela de um aplicativo e mova, redimensione, maximize,
 minimize ou feche
 (somente Windows, atualmente).
 
-• Exibircaixas de alerta e mensagem.
+* Exibircaixas de alerta e mensagem.
 
 pywinauto
 
@@ -5871,9 +5871,9 @@ de aplicativos da web.
 
 Características principais:
 
-• Fácil de aprender: a API foi projetada para ser intuitiva e rápida de aprender.
+* Fácil de aprender: a API foi projetada para ser intuitiva e rápida de aprender.
 
-• Mais rápido para codificar: automatize as interações do navegador de forma rápida
+* Mais rápido para codificar: automatize as interações do navegador de forma rápida
 e confiável
 sem lutar contra a ferramenta.
 
@@ -5890,15 +5890,15 @@ Paolla Ramos e Silva
 
 Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• Poderoso: Projetado para casos de uso do mundo real, protege contra
+* Poderoso: Projetado para casos de uso do mundo real, protege contra
 peculiaridades de
 automação comuns.
 
-• Flexível: o acesso a ferramentas de nível inferior nunca é oculto. Quebre o
+* Flexível: o acesso a ferramentas de nível inferior nunca é oculto. Quebre o
 Selênio bruto a
 qualquer momento.
 
-• Robusto: O suporte está disponível para vários drivers de automação (Selenium,
+* Robusto: O suporte está disponível para vários drivers de automação (Selenium,
 Django, Flask,
 ZopeTestBrowser).
 
@@ -5906,12 +5906,12 @@ Splinter é usado para escrever scripts de automação do navegador da web.O pro
 dois
 objetivos principais:
 
-• Fornecer uma API comum de alto nível sobre as ferramentas de automação de
+* Fornecer uma API comum de alto nível sobre as ferramentas de automação de
 navegador
 existentes, como o Selenium. A API é uma camada de abstração amigável e projetada para
 scripts fáceis e eficientes.
 
-• Fornecer funcionalidade integrada para lidar com pontos problemáticos
+* Fornecer funcionalidade integrada para lidar com pontos problemáticos
 comuns com a
 automação do navegador.
 
@@ -6007,23 +6007,23 @@ PDFMiner
 
 PDFMiner é uma ferramenta de extração de texto para documentos PDF.
 
-• Suporta PDF-1.7. (bem, quase)
+* Suporta PDF-1.7. (bem, quase)
 
-• Obtém a localização exata do texto, bem como outras informações de layout (fontes, etc.).
+* Obtém a localização exata do texto, bem como outras informações de layout (fontes, etc.).
 
-• Executa a análise automática de layout.
+* Executa a análise automática de layout.
 
-• Pode converter PDF em outros formatos (HTML/XML).
+* Pode converter PDF em outros formatos (HTML/XML).
 
-• Pode extrair um esboço (TOC).
+* Pode extrair um esboço (TOC).
 
-• Pode extrair conteúdo marcado.
+* Pode extrair conteúdo marcado.
 
-• Suporta criptografia básica (RC4 e AES).
+* Suporta criptografia básica (RC4 e AES).
 
-• Suporta vários tipos de fonte (Typei, TrueType, Type3 e CID).
+* Suporta vários tipos de fonte (Typei, TrueType, Type3 e CID).
 
-• Suporta linguagens CJK e scripts de escrita vertical.
+* Suporta linguagens CJK e scripts de escrita vertical.
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 90
@@ -6038,7 +6038,7 @@ Paolla Ramos e Silva
 
 Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• Possui um analisador de PDF extensível que pode ser usado para outros fins.
+* Possui um analisador de PDF extensível que pode ser usado para outros fins.
 
 Borb
 
@@ -10850,7 +10850,7 @@ forma completa do MVT é o Model View Template. A estrutura MVT tem três partes
 Modelo 2.
 Visão 3. Template.
 
-• Model: Esta parte da estrutura MVC atua como um meio para armazenar dados do
+* Model: Esta parte da estrutura MVC atua como um meio para armazenar dados do
 usuário no
 banco de dados. Ele é responsável por lidar com a parte lógica da aplicação web, bem como como
 os dados são armazenados no banco de dados.
@@ -10868,13 +10868,13 @@ Paolla Ramos e Silva
 
 Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• Views: Esta é uma interface de usuário. Ele é responsável por exibir os dados dos bancos de
+* Views: Esta é uma interface de usuário. Ele é responsável por exibir os dados dos bancos de
 dados
 e armazenar as informações fornecidas pelo usuário. No Django as visualizações não são
 as
 mesmas que são na estrutura básica do MVC.
 
-• Controlador: Esta parte no MVC é responsável por toda a lógica e funcionamento
+* Controlador: Esta parte no MVC é responsável por toda a lógica e funcionamento
 por trás da
 aplicação web. Quando um usuário levanta uma solicitação HTTP, o controlador
 recebe a
@@ -10980,23 +10980,23 @@ proporcionando ótima integração entre as partes do framework, com maior coer�
 
 Características
 
-• Mapeamento objeto-relacional - é possível definir seus modelos de dados com
+* Mapeamento objeto-relacional - é possível definir seus modelos de dados com
 classes em
 Python e gerar automaticamente o SQL correspondente e executá-lo no banco de dados a
 ser
 utilizado. Mas, se por preciso é possível escrever os comandos SQL também.
 
-• Interface de administração automática - o Django traz uma interface de
+* Interface de administração automática - o Django traz uma interface de
 administração
 automática onde é possível atualizar o conteúdo do seu sistema.
 
-• Uris elegantes - é possível projetar URLs sem nenhuma limitação estrutural.
+* Uris elegantes - é possível projetar URLs sem nenhuma limitação estrutural.
 
-• Sistema de templates - o django contém um sistema de templates que separa o
+* Sistema de templates - o django contém um sistema de templates que separa o
 html do
 codigo em Python.
 
-• Internacionalização - esse framework tem suporte a aplicações multi-linguagem.
+* Internacionalização - esse framework tem suporte a aplicações multi-linguagem.
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 161
@@ -11011,10 +11011,10 @@ Paolla Ramos e Silva
 
 Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• NewForms - é possível gerar e manipular formulários facilmente através dos modelos de
+* NewForms - é possível gerar e manipular formulários facilmente através dos modelos de
 dados definidos.
 
-• Unicode - suporta o unicode, de forma simples
+* Unicode - suporta o unicode, de forma simples
 
 Embora você possa usar o Django sem um banco de dados, ele vem com um mapeador
 objeto-
@@ -11042,15 +11042,15 @@ visualizações na forma de funções python.
 
 O Django suporta oficialmente os seguintes bancos de dados:
 
-• PostgreSQL
+* PostgreSQL
 
-• MariaDB
+* MariaDB
 
-• MySQL
+* MySQL
 
-• Oracle
+* Oracle
 
-• SQLite
+* SQLite
 
 Importante! Bancos de dados NoSQL não são oficialmente suportados pelo próprio Django.
 Existem, no entanto, vários projetos paralelos e bifurcações que permitem a
@@ -11104,7 +11104,7 @@ muitos serviços de banco de dados gerenciados fornecidos pelo Oracle Cloud Infr
 0 Django abre uma conexão com o banco de dados quando faz uma consulta ao banco de dados
 pela primeira vez. Ele mantém essa conexão aberta e a reutiliza em solicitações
 subsequentes.
-0 Django fecha a conexão quando ela excede a "idade máxima” definida por "CONN_MAX_AGE”
+0 Django fecha a conexão quando ela excede a "idade máxima" definida por "CONN_MAX_AGE"
 ou quando não é mais utilizável.
 
 Em detalhes, o Django abre automaticamente uma conexão com o banco de dados sempre que
@@ -11310,26 +11310,26 @@ como um argumento extra ao URLconf.
 
 0 Django vem com views genéricas que fazem o seguinte:
 
-• Efetuam “simples” tarefas comuns: redirecionar para uma página diferente e
+* Efetuam "simples" tarefas comuns: redirecionar para uma página diferente e
 renderizar
 determinado template.
 
-• Mostrar uma lista e página com detalhes de um único objeto. Se estamos criando
+* Mostrar uma lista e página com detalhes de um único objeto. Se estamos criando
 uma
 aplicação para gerenciar conferências, então uma view talkjist e
 uma view
 registered_user_list seriam exemplo de views de listas. Uma única página de conversa
 seria
-o que chamamos de view de “detalhe” .
+o que chamamos de view de "detalhe" .
 
-• Apresentar objetos baseados em data em páginas categorizadas por
+* Apresentar objetos baseados em data em páginas categorizadas por
 ano/mês/dia, os
-detalhes associados, e as “últimas” páginas. Os arquivos por ano, mês e dia do Blog
+detalhes associados, e as "últimas" páginas. Os arquivos por ano, mês e dia do Blog
 da
 Django Brasil [http://www.djangobrasil.org/weblog/] foram construídos com nessas views,
 como exemplo de um típico arquivo de jornal.
 
-• Permitir usuários a criar, atualizar e deletar objetos - com ou sem autorização.
+* Permitir usuários a criar, atualizar e deletar objetos - com ou sem autorização.
 
 Juntas, essas views oferecem uma interface fácil para realizar as tarefas mais comuns
 que os
@@ -11411,15 +11411,15 @@ grupos, permissões e sessões de usuário baseados em cookie. O sistema de
 autenticação
 consiste em:
 
-• Usuários
+* Usuários
 
-• Permissões: Flags binário (yes/no) designando quando um usuário pode
+* Permissões: Flags binário (yes/no) designando quando um usuário pode
 executar uma
 certa tarefa.
 
-• Grupos: Uma forma genérica de aplicar labeis e permissões para mais de um usuário.
+* Grupos: Uma forma genérica de aplicar labeis e permissões para mais de um usuário.
 
-• Mensagens: Uma forma simples de enfileirar mensagens para um dado usuário.
+* Mensagens: Uma forma simples de enfileirar mensagens para um dado usuário.
 
 O framework de cache do Django
 
@@ -11466,7 +11466,7 @@ de views específicas, você pode fazer o cache somente das partes que são dif�
 produzir,
 ou pode fazer o cache do site inteiro.
 
-O Django também trabalha com caches do tipo “upstream” , como o
+O Django também trabalha com caches do tipo "upstream" , como o
 Squid
 [http://www.squid-cache.org/] e cache baseado em navegador. Esses são tipos de cache que
 você não controla diretamente.
@@ -11502,7 +11502,7 @@ sua preferência.
 
 Sinais (Signals)
 
-0 Django incluí um “dispachador de sinal” que ajuda ao permitir que aplicações
+0 Django incluí um "dispachador de sinal" que ajuda ao permitir que aplicações
 dissociadas
 sejam notificadas quando uma ação ocorre em qualquer lugar do framework. Em resumo,
 sinais
@@ -11628,7 +11628,7 @@ Django. As configurações do Django lhe dirão tudo
 sobre como as configurações funcionam.
 
 As declarações de URL para este projeto Django; uma
-“tabela de conteúdo” do seu site com Django.
+"tabela de conteúdo" do seu site com Django.
 
 Um ponto de entrada para servidores web
 compatíveis com ASGI para atender seu projeto.
@@ -11654,7 +11654,7 @@ a] $ django-admin mysite
 b) $ django-admin mysite startnew
 c] $ django-admin startproject mysite
 
-d) $ django-admin startnewproject "mysite”
+d) $ django-admin startnewproject "mysite"
 
 Comentários: Para iniciar seu projeto, o comando para a sua criação é: $
 django-admin
@@ -11756,11 +11756,11 @@ melhor para o seu projeto ou até mesmo escrever as suas próprias, se desejar. 
 uma estrutura maior, em que a maioria das escolhas foram feitas para você e são difíceis ou às vezes
 impossíveis de fazer mudança. Características do Flask:
 
-• Suportes integrados para testes de unidade;
+* Suportes integrados para testes de unidade;
 
-• Usa modelagem Jinja2;
+* Usa modelagem Jinja2;
 
-• Suporte para Cookies seguros;
+* Suporte para Cookies seguros;
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 172
@@ -11775,9 +11775,9 @@ Paolla Ramos e Silva
 
 Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
 
-• Extensa documentação;
+* Extensa documentação;
 
-• Compatibilidade do Google App Engine.
+* Compatibilidade do Google App Engine.
 
 O Flask se destaca de outras estruturas porque permite que os desenvolvedores assumam o controle
 e tenham total controle criativo de seus aplicativos. Talvez você já tenha ouvido a frase "combater

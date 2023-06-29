@@ -198,10 +198,10 @@ mais alto
 comunicação). As
 principais funções da camada de middleware são:
 
-• Ocultar do usuário que a aplicação é executada em diferentes máquinas distribuídas
+* Ocultar do usuário que a aplicação é executada em diferentes máquinas distribuídas
 geograficamente;
 
-• Ocultar a heterogeneidade dos sistemas operacionais (ex.: Windows, Linux etc.) e
+* Ocultar a heterogeneidade dos sistemas operacionais (ex.: Windows, Linux etc.) e
 protocolos de comunicação subjacentes.
 
 Ocultar do usuário que a aplicação é executada em diferentes máquinas
@@ -270,12 +270,12 @@ Aula única (Prof. Evandro)
 
 As principais características de um sistema distribuído são:
 
-• Concorrência: diferentes nós do sistema distribuído executam-se em concorrência;
+* Concorrência: diferentes nós do sistema distribuído executam-se em concorrência;
 
-• Não há relógio global: os relógios locais não estão necessariamente iguais, assim a única
+* Não há relógio global: os relógios locais não estão necessariamente iguais, assim a única
 forma de coordenação é por troca de mensagens;
 
-• Falhas independentes: qualquer componente pode falhar de forma independente de outros
+* Falhas independentes: qualquer componente pode falhar de forma independente de outros
 
 As principais características de um sistema distribuído são
 
@@ -294,27 +294,27 @@ tolerância a falhas e a replicação de processos em unidades de computação d
 
 As principais motivações para a utilização de um sistema distribuído podem ser:
 
-• Distribuição geográfica (organização com instalações em várias localidades diferentes);
+* Distribuição geográfica (organização com instalações em várias localidades diferentes);
 
-• Necessidade de ligação entre organizações independentes;
+* Necessidade de ligação entre organizações independentes;
 
-• Necessidade de extensibilidade, modularidade ou crescimento gradual;
+* Necessidade de extensibilidade, modularidade ou crescimento gradual;
 
-• Partilha de recursos como troca de informação entre departamentos e/ou empresas;
+* Partilha de recursos como troca de informação entre departamentos e/ou empresas;
 
-• Necessidade de maior disponibilidade ou replicação de dados;
+* Necessidade de maior disponibilidade ou replicação de dados;
 
-• Necessidade de maior desempenho ou de distribuição de carga.
+* Necessidade de maior desempenho ou de distribuição de carga.
 
 Parece que tem só coisa boa, heim? Não...vamos a alguns desafios:
 
-• Segurança: intrusões podem acarretar na leitura de mensagens em trânsito e/ou a injeção
+* Segurança: intrusões podem acarretar na leitura de mensagens em trânsito e/ou a injeção
 de novas mensagens;
 
-• Escalabilidade: o sistema deve continuar a funcionar de forma eficaz mesmo que haja um
+* Escalabilidade: o sistema deve continuar a funcionar de forma eficaz mesmo que haja um
 crescimento significativo no número de recursos e no número de clientes;
 
-• Heterogeneidade: Equipamentos com representações de dados diferentes
+* Heterogeneidade: Equipamentos com representações de dados diferentes
 (arquiteturas
 RISC, CISC), sistemas operacionais diferentes (Windows, Linux etc.) devem ser integrados
 no mesmo sistema distribuído.
@@ -349,12 +349,12 @@ Nos sistemas distribuídos podemos observar o paralelismo real,
 típico dos sistemas
 multiprocessados. O ciclo de processamento típico pode ser resumido da seguinte maneira:
 
-• Requisitar: se a requisição não pode ser atendida imediatamente, então o processo
+* Requisitar: se a requisição não pode ser atendida imediatamente, então o processo
 requisitante deve esperar até obter o recurso;
 
-• Usar: O processo pode operar sobre o recurso;
+* Usar: O processo pode operar sobre o recurso;
 
-• Liberar: O processo libera o recurso.
+* Liberar: O processo libera o recurso.
 
 Modelo cliente-servidor: os servidores mantêm recursos e servem pedidos de operações
 sobre
@@ -386,15 +386,15 @@ os atualmente mais conhecidos podem ser citados: BitTorrent, uTorrent, eMule, en
 
 Vamos ver algumas plataformas que dão suporte aos sistemas e aplicações distribuídas:
 
-• Java Messages: gestão de filas de mensagens da plataforma J2EE;
+* Java Messages: gestão de filas de mensagens da plataforma J2EE;
 
-• MSMQ: sistemas de filas de mensagens da Microsoft;
+* MSMQ: sistemas de filas de mensagens da Microsoft;
 
-• MQseries: sistemas de filas de mensagens da IBM;
+* MQseries: sistemas de filas de mensagens da IBM;
 
-• Active Enterprise: plataforma de integração da fabricante Tibco;
+* Active Enterprise: plataforma de integração da fabricante Tibco;
 
-• Biztalk: Enterprise integration broker da Microsoft;
+* Biztalk: Enterprise integration broker da Microsoft;
 
 SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
 Spménte 7
@@ -410,18 +410,18 @@ Aula única (Prof. Evandro)
 
 São inúmeras as soluções tecnológicas para implementar a distribuição:
 
-• Utilização das interfaces de comunicação distribuída com sockets-,
+* Utilização das interfaces de comunicação distribuída com sockets-,
 
-• Plataformas Cliente-Servidor;
+* Plataformas Cliente-Servidor;
 
-• Brokersóe Mensagens ou Message Oriente d Midd/eware',
+* Brokersóe Mensagens ou Message Oriente d Midd/eware',
 
-• Sistemas de Invocação Remota de Objetos (ex.: RMI ou CORBA);
+* Sistemas de Invocação Remota de Objetos (ex.: RMI ou CORBA);
 
-• Sistemas Operacionais Distribuídos que permitam distribuição de todos os serviços do
+* Sistemas Operacionais Distribuídos que permitam distribuição de todos os serviços do
 sistema;
 
-• Web Services.
+* Web Services.
 
 Cluster x Grid
 
@@ -441,26 +441,26 @@ executado em paralelo. Dependendo do objetivo que se pretenda, podemos ter os
 seguintes
 tipos de cluster:
 
-• Cluster de alto desempenho: direcionado a aplicações bastante exigentes no que diz
+* Cluster de alto desempenho: direcionado a aplicações bastante exigentes no que diz
 respeito ao processamento;
 
-• Cluster de alta disponibilidade: tem como objetivo permanecer ativo por um longo período
+* Cluster de alta disponibilidade: tem como objetivo permanecer ativo por um longo período
 e em plena condição de uso. Consegue detectar erros e se proteger de possíveis falhas;
 
-• Cluster de balanceamento de carga: controla a distribuição equilibrada do processamento.
+* Cluster de balanceamento de carga: controla a distribuição equilibrada do processamento.
 As tarefas de processamento são distribuídas o mais uniformemente possível entre os nós.
 
 As principais vantagens da utilização de clusters são:
 
-• custo-benefício: pode-se obter resultados tão bons quanto ou até superiores que um
+* custo-benefício: pode-se obter resultados tão bons quanto ou até superiores que um
 servidor sofisticado a partir de um conjunto de máquinas simples;
 
-• escalabilidade: é possível aumentar a capacidade de um cluster com a adição de nós ou
+* escalabilidade: é possível aumentar a capacidade de um cluster com a adição de nós ou
 remover máquinas para reparos sem interromper a aplicação;
 
-• facilidade de personalização para o atendimento da aplicação;
+* facilidade de personalização para o atendimento da aplicação;
 
-• existência de opções de softwares sem custos de licenciamento para cluster.
+* existência de opções de softwares sem custos de licenciamento para cluster.
 
 SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
 Spmênte 8
@@ -914,7 +914,7 @@ B Subsystem Metrics Server Group
 
 Proflle
 
-Datasources • main-server-group
+Datasources * main-server-group
 full
 
 JPA other-server-group
@@ -982,53 +982,53 @@ Após a instalação, o JBoss/Wildfly cria uma estrutura de diretórios que deve
 conhecida, pois é
 necessária para a administração.
 
-• bin/: contém os scripts de inicialização do JBoss EAP, no Linux e no Windows;
+* bin/: contém os scripts de inicialização do JBoss EAP, no Linux e no Windows;
 
-• appclient/: contém detalhes de configuração do container da aplicação cliente;
+* appclient/: contém detalhes de configuração do container da aplicação cliente;
 
-• modules/: contém módulos dinamicamente carregados pelo JBoss EAP quando requeridos
+* modules/: contém módulos dinamicamente carregados pelo JBoss EAP quando requeridos
 pelos serviços;
 
-• standalone/: arquivos de configuração, conteúdo do deploy, e outras áreas
+* standalone/: arquivos de configuração, conteúdo do deploy, e outras áreas
 utilizáveis
 quando o JBoss/Wildfly executa como um servidor standalone;
 
-• domain/: contém arquivos de configuração, conteúdo do deploy e outras áreas
+* domain/: contém arquivos de configuração, conteúdo do deploy e outras áreas
 utilizáveis
 quando JBoss/Wildfly executa como domínio gerenciado (domain);
 
-• does/: possui diversos tipos de arquivos como exemplos de configuração,
+* does/: possui diversos tipos de arquivos como exemplos de configuração,
 exemplos se
 como executar o Wildfly como serviço, licenças e outros arquivos que ajudam a aprender
 mais sobre o Wildfly;
 
-• welcome-content/: diretório de uso interno do servidor que não deve ser
+* welcome-content/: diretório de uso interno do servidor que não deve ser
 modificado por
 usuários finais, possui páginas de boas vindas e páginas de erros;
 
-• jboss-modules.jar: mecanismo de carga dos módulos.
+* jboss-modules.jar: mecanismo de carga dos módulos.
 
 Além da estrutura de diretórios apresentada, o JBoss/Wildfly cria
 automaticamente alguns
 caminhos (paths) padrão:
 
-• jboss.home: diretório root do JBoss EAP;
+* jboss.home: diretório root do JBoss EAP;
 
-• user.home: diretório de usuário comum;
+* user.home: diretório de usuário comum;
 
-• user.dir: diretório de trabalho do usuário atual;
+* user.dir: diretório de trabalho do usuário atual;
 
-• java.home: diretório de instalação do Java;
+* java.home: diretório de instalação do Java;
 
-• jboss.server.base.dir: diretório root de uma instância de um servidor;
+* jboss.server.base.dir: diretório root de uma instância de um servidor;
 
-• jboss.server.data.dir: diretório que o servidor usa para persistência de dados no storage;
+* jboss.server.data.dir: diretório que o servidor usa para persistência de dados no storage;
 
-• jboss.server.log.dir: diretório que o servidor usa no armazenamento de logs;
+* jboss.server.log.dir: diretório que o servidor usa no armazenamento de logs;
 
-• jboss.server.tmp.dir: diretório de arquivos temporários;
+* jboss.server.tmp.dir: diretório de arquivos temporários;
 
-• jboss.domain.servers.dir: diretório no qual um host controller cria a área de
+* jboss.domain.servers.dir: diretório no qual um host controller cria a área de
 trabalho de uma
 instância em um domínio gerenciado.
 
@@ -1223,10 +1223,10 @@ arquitetura cliente-servidor?
 
 (D) O conceito mostrado é o da transparência de localização, não de acesso! Vejamos:
 
-• Transparência de acesso: oculta diferenças na representação de dados e no modo de
+* Transparência de acesso: oculta diferenças na representação de dados e no modo de
 acesso a um recurso.
 
-• Transparência de localização: oculta o lugar em que um recurso está localizado.
+* Transparência de localização: oculta o lugar em que um recurso está localizado.
 
 (E) É isso aí! Em um sistema de objetos distribuídos é possível invocar métodos de
 um objeto
@@ -1370,10 +1370,10 @@ mais alto
 comunicação). As
 principais funções da camada de middleware são:
 
-• Ocultar do usuário que a aplicação é executada em diferentes máquinas distribuídas
+* Ocultar do usuário que a aplicação é executada em diferentes máquinas distribuídas
 geograficamente;
 
-• Ocultar a heterogeneidade dos sistemas operacionais (ex.: Windows, Linux etc.) e
+* Ocultar a heterogeneidade dos sistemas operacionais (ex.: Windows, Linux etc.) e
 protocolos de comunicação subjacentes.
 
 Portanto, a questão está correta.
@@ -1438,17 +1438,17 @@ executado em paralelo. Dependendo do objetivo que se pretenda, podemos ter os
 seguintes
 tipos de cluster:
 
-• Cluster de alto desempenho: direcionado a aplicações bastante exigentes
+* Cluster de alto desempenho: direcionado a aplicações bastante exigentes
 no que diz
 respeito ao processamento;
 
-• Cluster de alta disponibilidade: tem como objetivo permanecer ativo por um longo
+* Cluster de alta disponibilidade: tem como objetivo permanecer ativo por um longo
 período
 de tempo e em plena condição de uso. Consegue detectar erros e se proteger de
 possíveis
 falhas;
 
-• Cluster de balanceamento de carga: controla a distribuição equilibrada do
+* Cluster de balanceamento de carga: controla a distribuição equilibrada do
 processamento.
 As tarefas de processamento são distribuídas o mais uniformemente possível entre os nós.
 
@@ -1647,13 +1647,13 @@ executado em paralelo. Dependendo do objetivo que se pretenda, podemos ter os
 seguintes
 tipos de cluster:
 
-• Cluster de alto desempenho: direcionado a aplicações bastante exigentes no que diz
+* Cluster de alto desempenho: direcionado a aplicações bastante exigentes no que diz
 respeito ao processamento;
 
-• Cluster de alta disponibilidade: tem como objetivo permanecer ativo por um longo período
+* Cluster de alta disponibilidade: tem como objetivo permanecer ativo por um longo período
 e em plena condição de uso. Consegue detectar erros e se proteger de possíveis falhas;
 
-• Cluster de balanceamento de carga: controla a distribuição equilibrada do processamento.
+* Cluster de balanceamento de carga: controla a distribuição equilibrada do processamento.
 As tarefas de processamento são distribuídas o mais uniformemente possível entre os nós.
 
 Portanto, a alternativa C está correta e é o gabarito da questão.
@@ -1975,31 +1975,31 @@ Após a instalação, o JBoss/Wildfly cria uma estrutura de diretórios que deve
 conhecida, pois é
 necessária para a administração.
 
-• bin/: contém os scripts de inicialização do JBoss EAP, no Linux e no Windows;
+* bin/: contém os scripts de inicialização do JBoss EAP, no Linux e no Windows;
 
-• appclient/: contém detalhes de configuração do container da aplicação cliente;
+* appclient/: contém detalhes de configuração do container da aplicação cliente;
 
-• modules/: contém módulos dinamicamente carregados pelo JBoss EAP quando requeridos
+* modules/: contém módulos dinamicamente carregados pelo JBoss EAP quando requeridos
 pelos serviços;
 
-• standalone/: arquivos de configuração, conteúdo do deploy, e outras áreas
+* standalone/: arquivos de configuração, conteúdo do deploy, e outras áreas
 utilizáveis
 quando o JBoss/Wildfly executa como um servidor standalone;
 
-• domain/: contém arquivos de configuração, conteúdo do deploy e outras áreas
+* domain/: contém arquivos de configuração, conteúdo do deploy e outras áreas
 utilizáveis
 quando JBoss/Wildfly executa como domínio gerenciado (domain);
 
-• does/: possui diversos tipos de arquivos como exemplos de configuração,
+* does/: possui diversos tipos de arquivos como exemplos de configuração,
 exemplos se
 como executar o Wildfly como serviço, licenças e outros arquivos que ajudam a aprender
 mais sobre o Wildfly;
 
-• welcome-content/: diretório de uso interno do servidor que não deve ser
+* welcome-content/: diretório de uso interno do servidor que não deve ser
 modificado por
 usuários finais, possui páginas de boas vindas e páginas de erros;
 
-• jboss-modules.jar: mecanismo de carga dos módulos.
+* jboss-modules.jar: mecanismo de carga dos módulos.
 
 Portanto, a alternativa B está correta e é o gabarito da questão.
 
@@ -2535,12 +2535,12 @@ Apache. É utilizado para ajudar o administrador a controlar o funcionamento do 
 httpd. O
 script apachectl pode operar em dois modos:
 
-Apachectl •trata-se de um front endpara o servidor
+Apachectl *trata-se de um front endpara o servidor
 
-• Front end simples que configura quaisquer variáveis de ambiente necessárias e então
+* Front end simples que configura quaisquer variáveis de ambiente necessárias e então
 chama o httpd, passando argumentos de linha de comando;
 
-• Script de inicialização, recebendo argumentos simples como start, restart, e stop,
+* Script de inicialização, recebendo argumentos simples como start, restart, e stop,
 
 traduzindo-os em sinais apropriados ao httpd.
 
@@ -2548,7 +2548,7 @@ Quando utilizado no modo de script de inicialização, o apachectl aceita como a
 (pode-
 se utilizar "-k" antes do argumento):
 
-• start: inicializa o daemon httpd;
+* start: inicializa o daemon httpd;
 
 SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
 Spménte 43
@@ -2562,29 +2562,29 @@ www.estrategiaconcursos.com.br
 Evandro Dalla Vecchia Pereira
 Aula única (Prof. Evandro)
 
-• stop: finaliza o daemon httpd;
+* stop: finaliza o daemon httpd;
 
-• restart: reinicializa o daemon httpd. Se não estiver rodando, o httpd é inicializado;
+* restart: reinicializa o daemon httpd. Se não estiver rodando, o httpd é inicializado;
 
-• fullstatus: mostra um relatório completo do status do mod_status. Para
+* fullstatus: mostra um relatório completo do status do mod_status. Para
 isso, o módulo
 mod_status deve estar habilitado;
 
-• status: mostra um relatório resumido do status. Similar à opção fullstatus, mas
+* status: mostra um relatório resumido do status. Similar à opção fullstatus, mas
 a lista de
 requisições correntes que estão sendo servidas é omitida;
 
-• graceful: reinicializa o daemon de forma "gentil". Se não estiver
+* graceful: reinicializa o daemon de forma "gentil". Se não estiver
 rodando, o httpd é
 inicializado. A diferença para uma inicialização normal é que as conexões correntes não
 são
 abortadas;
 
-• graceful-stop: finaliza o daemon de forma "gentil". A diferença para uma
+* graceful-stop: finaliza o daemon de forma "gentil". A diferença para uma
 finalização normal
 é que as conexões correntes não são abortadas;
 
-• configtest: executa um teste no arquivo de configuração. Após verificar a
+* configtest: executa um teste no arquivo de configuração. Após verificar a
 sintaxe, informa
 se está ok ou aponta os erros encontrados.
 
@@ -2592,9 +2592,9 @@ Para inicializar o httpd, vimos que um comando possível é apachectl start, mas
 outras formas
 também, dependendo da distribuição utilizada:
 
-• Red Hat: service httpd start;
+* Red Hat: service httpd start;
 
-• Ubuntu: /etc/init.d/apache2 start.
+* Ubuntu: /etc/init.d/apache2 start.
 
 O argumento "start" pode ser trocado por "restart", "stop" etc., para as demais ações.
 
@@ -2873,44 +2873,44 @@ ganhou também a função de gerenciar o ASP.NET. Este é formado basicamente po
 tipos de
 aplicações:
 
-• Páginas Web: tradicionais acessadas por usuários (extensão ASPX);
+* Páginas Web: tradicionais acessadas por usuários (extensão ASPX);
 
-• Web Services: funções disponibilizadas pela rede, chamada por aplicativos ASMX.
+* Web Services: funções disponibilizadas pela rede, chamada por aplicativos ASMX.
 
 O ASP.NET é compilado antes da execução, trazendo vantagens no desempenho em relação às
 opções interpretadas, como o ASP e o PHP.
 
 Algumas características do IIS são:
 
-• Maximiza a segurança da Web através de um consumo de servidor reduzido e do
+* Maximiza a segurança da Web através de um consumo de servidor reduzido e do
 isolamento automático de aplicativo;
 
-• Implanta e executa o ASP.NET, o ASP clássico e os aplicativos Web do PHP no mesmo
+* Implanta e executa o ASP.NET, o ASP clássico e os aplicativos Web do PHP no mesmo
 servidor;
 
-• Faz o isolamento de aplicativo concedendo aos processos de trabalho, por padrão, uma
+* Faz o isolamento de aplicativo concedendo aos processos de trabalho, por padrão, uma
 identidade exclusiva e uma configuração de área restrita (maior segurança);
 
-• Adiciona e remove os componentes internos do IIS, e até mesmo os substitui por módulos
+* Adiciona e remove os componentes internos do IIS, e até mesmo os substitui por módulos
 personalizados;
 
-• Agiliza o site através de um cache dinâmico interno e de uma compactação avançada;
+* Agiliza o site através de um cache dinâmico interno e de uma compactação avançada;
 
-• Usa o Gerenciador do IIS para configurar recursos do IIS e administrar sites;
+* Usa o Gerenciador do IIS para configurar recursos do IIS e administrar sites;
 
-• Usa o protocolo FTP {Fiie Transfer Protocoi} para permitir que proprietários de site
+* Usa o protocolo FTP {Fiie Transfer Protocoi} para permitir que proprietários de site
 carreguem e baixam arquivos;
 
-• Usa o Windows PowerShell para automatizar o gerenciamento da maioria das tarefas de
+* Usa o Windows PowerShell para automatizar o gerenciamento da maioria das tarefas de
 administração do servidor Web;
 
-• Configura vários servidores Web em um farm de servidores que podem ser gerenciados
+* Configura vários servidores Web em um farm de servidores que podem ser gerenciados
 usando o IIS;
 
-• O diretório base do site padrão é "UNIDADE:\lnetpub\wwwroot", geralmente
+* O diretório base do site padrão é "UNIDADE:\lnetpub\wwwroot", geralmente
 "C:\lnetpub\wwwroot";
 
-• O diretório base para o FTP é "UNIDADE:\lnetpub\ftproot", geralmente
+* O diretório base para o FTP é "UNIDADE:\lnetpub\ftproot", geralmente
 "C:\inetpub\ftproot" (note que só muda o "www" por "ftp").
 
 SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
@@ -2967,10 +2967,10 @@ Modo clássico
 
 L À
 
-• permite que o IIS processe requisições no pool de
+* permite que o IIS processe requisições no pool de
 aplicativos utilizando o "Integrated Pipeline"
 
-• utiliza o pipeline de processamento do IIS 6,
+* utiliza o pipeline de processamento do IIS 6,
 inicialmente as requisições são processadas através
 
 dos módulos do IIS7 A
@@ -2999,7 +2999,7 @@ solicitações, há uma tentativa de reduzir o impacto desses tipos de ataques.
 
 Mais duas informações importantes, que valem para os outros servidores Web também:
 
-• A porta padrão para requisições HTTP é a 80;
+* A porta padrão para requisições HTTP é a 80;
 
 SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023 (Pós-Edital)
 Spménte 49
@@ -3182,13 +3182,13 @@ Comentários:
 
 Quando utilizado no modo de script de inicialização, o apachectl aceita como argumentos:
 
-• start: inicializa o daemon httpd;
+* start: inicializa o daemon httpd;
 
-• stop: finaliza o daemon httpd;
+* stop: finaliza o daemon httpd;
 
-• restart: reinicializa o daemon httpd. Se não estiver rodando, o httpd é inicializado;
+* restart: reinicializa o daemon httpd. Se não estiver rodando, o httpd é inicializado;
 
-• etc.
+* etc.
 
 Portanto, a alternativa B está correta e é o gabarito da questão.
 
@@ -3257,9 +3257,9 @@ Para inicializar o httpd, vimos que um comando possível é apachectl start, mas
 outras formas
 também, dependendo da distribuição utilizada:
 
-• Red Hat: service httpd start;
+* Red Hat: service httpd start;
 
-• Ubuntu: /etc/init.d/apache2 start.
+* Ubuntu: /etc/init.d/apache2 start.
 
 O argumento "start" pode ser trocado por "restart", "stop" etc., para as demais ações.
 Portanto,
@@ -3515,23 +3515,23 @@ Quando utilizado no modo de script de inicialização, o apachectl aceita como a
 (pode-
 se utilizar "-k" antes do argumento):
 
-• start: inicializa o daemon httpd;
+* start: inicializa o daemon httpd;
 
-• stop: finaliza o daemon httpd;
+* stop: finaliza o daemon httpd;
 
-• restart: reinicializa o daemon httpd. Se não estiver rodando, o httpd é inicializado;
+* restart: reinicializa o daemon httpd. Se não estiver rodando, o httpd é inicializado;
 
-• graceful: reinicializa o daemon de forma "gentil". Se não estiver
+* graceful: reinicializa o daemon de forma "gentil". Se não estiver
 rodando, o httpd é
 inicializado. A diferença para uma inicialização normal é que as conexões correntes não
 são
 abortadas;
 
-• graceful-stop: finaliza o daemon de forma "gentil". A diferença para uma
+* graceful-stop: finaliza o daemon de forma "gentil". A diferença para uma
 finalização normal
 é que as conexões correntes não são abortadas;
 
-• etc.
+* etc.
 
 Portanto, a alternativa A está correta e é o gabarito da questão.
 

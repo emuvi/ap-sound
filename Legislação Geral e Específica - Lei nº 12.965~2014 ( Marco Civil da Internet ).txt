@@ -119,7 +119,7 @@ A Lei previu 8 definições importantes (Art. 5Q):
 
 internet
 
-• sistema constituído do conjunto de protocolos lógicos, estruturado em
+* sistema constituído do conjunto de protocolos lógicos, estruturado em
 escala
 mundial para uso público e irrestrito, com a finalidade de
 possibilitar a
@@ -127,7 +127,7 @@ comunicação de dados entre terminais por meio de diferentes redes;
 
 administrador de sistema autônomo
 
-• a pessoa física ou jurídica que administra blocos de endereço IP específicos e o
+* a pessoa física ou jurídica que administra blocos de endereço IP específicos e o
 respectivo sistema autônomo de roteamento, devidamente cadastrada
 no
 ente nacional responsável pelo registro e distribuição de endereços
@@ -136,27 +136,27 @@ geograficamente referentes ao País;
 
 conexão à internet
 
-• a habilitação de um terminal para envio e recebimento de pacotes de
+* a habilitação de um terminal para envio e recebimento de pacotes de
 dados
 
 pela internet, mediante a atribuição ou autenticação de um endereço IP;
 
 registro de conexão
 
-• o conjunto de informações referentes à data e hora de início e término de uma
+* o conjunto de informações referentes à data e hora de início e término de uma
 conexão à internet, sua duração e o endereço IP utilizado pelo terminal
 para o
 envio e recebimento de pacotes de dados;
 
 aplicações de internet
 
-• o conjunto de funcionalidades que podem ser acessadas por meio
+* o conjunto de funcionalidades que podem ser acessadas por meio
 de um
 terminal conectado à internet; e
 
 registros de acesso a aplicações de internet
 
-• o conjunto de informações referentes à data e hora de uso de
+* o conjunto de informações referentes à data e hora de uso de
 uma
 determinada aplicação de internet a partir de um determinado endereço IP
 
@@ -1824,7 +1824,7 @@ judicial, na forma da lei;
 ; III - inviolabilidade e sigilo de suas comunicações privadas armazenadas, salvo por ordem ;
 judicial;
 
-= (••) =
+= (**) =
 
 h............................................... .. .................... ..
 ......................................... ..

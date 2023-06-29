@@ -156,12 +156,12 @@ Transforma radicalmente a maneira da empresa executar processos, atividades,
 tarefas,
 políticas e procedimentos.
 
-Outra definição para workflow seria: “automatização de processos ou de fluxos
+Outra definição para workflow seria: "automatização de processos ou de fluxos
 de
 trabalho nos quais são passados documentos, informação ou tarefas,
 segundo
-determinadas regras ou procedimentos, de um participante para outro”. Vejam que o termo
-“passados” quer dizer transferir. Basicamente temos várias pessoas, que fazem partes de
+determinadas regras ou procedimentos, de um participante para outro". Vejam que o termo
+"passados" quer dizer transferir. Basicamente temos várias pessoas, que fazem partes de
 uma tarefa e o fluxo vai transitar pelas etapas de execução de acordo com
 a
 responsabilidade de cada participante.
@@ -213,28 +213,28 @@ definições são importantes para entendermos um fluxo descrito em uma ferramen
 de
 workflow. Vejam o conjunto de conceitos abaixo:
 
-• Participante - Entidade (usuário ou sistema) que interage num dos passos de um
+* Participante - Entidade (usuário ou sistema) que interage num dos passos de um
 processo.
 
-• Tarefa/atividade (work) - Ação que um participante realiza no âmbito do processo.
+* Tarefa/atividade (work) - Ação que um participante realiza no âmbito do processo.
 
-• Função do participante (role) - Conceito que junta participantes que
+* Função do participante (role) - Conceito que junta participantes que
 podem
 realizar uma mesma tarefa. Define o nível de acesso dos participantes para a
 execução das tarefas. Estabelece também a capacidade dos participantes para
 realizarem determinadas tarefas.
 
-• Lista de tarefas (worklist) - Lista das tarefas que um usuário específico/role
+* Lista de tarefas (worklist) - Lista das tarefas que um usuário específico/role
 tem
 que executar no âmbito dos processos em que é interveniente.
 
-• Rendezvous - Espera por informação que permite reativar um processo, ou
+* Rendezvous - Espera por informação que permite reativar um processo, ou
 geração de um evento que indique que a informação não chegou. Exemplo: a
 aprovação de uma cirurgia para um seguro de saúde necessita de um relatório
 médico. O sistema deve correlacionar a chegada do relatório com o processo
 (suspenso) de aprovação.
 
-• Distribuição de trabalho - Distribuição das tarefas entre um conjunto
+* Distribuição de trabalho - Distribuição das tarefas entre um conjunto
 de
 participantes disponíveis.
 
@@ -248,11 +248,11 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 16
 
-• Exceção - Evento que ocorre fora da sequência normal de um processo
+* Exceção - Evento que ocorre fora da sequência normal de um processo
 de
 trabalho.
 
-• Privacidade e Segurança - Trata de quem faz o quê e quando. Deve armazenar
+* Privacidade e Segurança - Trata de quem faz o quê e quando. Deve armazenar
 o histórico da execução processo e não só dos dados presentes nas etapas. Os
 processos sensíveis são atribuídos a um grupo limitado de participantes.
 

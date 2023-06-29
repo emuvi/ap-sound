@@ -149,18 +149,18 @@ Aula 02
 
 Temos agora mais um assunto extremamente bacana. Na verdade, temos aqui uma relação
 de amor e ódio. Tenho percebido isso em meus alunos. Mas meu papel aqui é tornar o
-“relacionamento” de vocês com esse assunto bem agradável.
+"relacionamento" de vocês com esse assunto bem agradável.
 
 Como já vimos nas outras aulas, a informação é um fator crucial para qualquer
 organização
 ou pessoa. O princípio da confidencialidade fala muito nesse contexto.
 
-Frente a esse cenário, historicamente, sempre se buscou criar formas para “esconder” a
+Frente a esse cenário, historicamente, sempre se buscou criar formas para "esconder" a
 informação de terceiros não autorizados. Assim, ainda que estes tivessem acesso
 à
 informação, não conseguiriam interpretá-las.
 
-Um filme muito interessante sobre o assunto é “O JOGO DA IMITAÇÃO”, o
+Um filme muito interessante sobre o assunto é "O JOGO DA IMITAÇÃO", o
 qual eu
 recomendo pelo conteúdo e qualidade de produção. Fica a dica.
 
@@ -176,13 +176,13 @@ interpretá-los.
 Antes de avançarmos, vamos traçar aqui algumas definições e conceitos que aparecem em
 provas constantemente.
 
-A criptografia é uma ciência que tem como objetivo “embaralhar” as informações. Desse
+A criptografia é uma ciência que tem como objetivo "embaralhar" as informações. Desse
 modo, ainda que um atacante obtenha acesso aos dados, este não será capaz de lê-la e
 em alguns casos, alterá-la.
 
-O termo em análise vem do grego Kryptós, que quer dizer “oculto”. E grápho, que quer
+O termo em análise vem do grego Kryptós, que quer dizer "oculto". E grápho, que quer
 dizer
-“grafia”. Assim, temos que a criptografia corresponde a escrita oculta.
+"grafia". Assim, temos que a criptografia corresponde a escrita oculta.
 
 Outros termos gregos que aparecem nesse contexto são:
 
@@ -198,9 +198,9 @@ www. estrategiaconcursos. com. br
 André Castro
 Aula 02
 
-• Análysis = decomposição;
+* Análysis = decomposição;
 
-• Logo = estudo.
+* Logo = estudo.
 
 Com isso, temos outros termos fundamentais e presentes no cenário em estudo, que são:
 
@@ -284,9 +284,9 @@ X Y Z A 6 C
 Desse modo, como exemplo, ao se escrever a mensagem original, teríamos a mensagem
 cifrada:
 
-• Atacar hoje à noite
+* Atacar hoje à noite
 
-• DWDFDU KRMH D QRLWH
+* DWDFDU KRMH D QRLWH
 
 Percebam que é um método muito simples de se interpretar e de descobrir a regra
 utilizada.
@@ -294,7 +294,7 @@ As vezes temos que abrir mão do acento, certo?
 
 Para os que tiveram alguma infância com brincadeiras bobas iguais a minha,
 tínhamos
-aquela brincadeira de “falar em código” em que tínhamos que substituir uma letra sempre
+aquela brincadeira de "falar em código" em que tínhamos que substituir uma letra sempre
 por outra específica em nossas frases.
 
 TRANSPoSIçÃo
@@ -306,12 +306,12 @@ dividindo a mensagem original em blocos de tamanhos iguais. Um exemplo simples s
 transpor cada sílaba de cada palavra (bloco) para esquerda, mantendo a rotação de cada
 bloco. Assim, facilmente lemos:
 
-• Você pode ler facilmente esta mensagem?
+* Você pode ler facilmente esta mensagem?
 
 Já a mensagem transposta abaixo não seria tão simples. Perceba que não há criação de
 letras ou sílabas novas.
 
-• cêVo depo ler cilmentefa taes sagemmen?
+* cêVo depo ler cilmentefa taes sagemmen?
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 6
@@ -367,7 +367,7 @@ FUNDO!
 
 Zl
 
-• Eletronic Code Book - ECB
+* Eletronic Code Book - ECB
 
 É o método mais simples que utiliza como conceito a independência dos
 blocos sendo aplicada a mesma chave. É uma técnica não randômica pela
@@ -448,10 +448,10 @@ Aula 02
 MXJMAtS
 FUNDO!
 
-• Cipher Block Chaining - CBC
+* Cipher Block Chaining - CBC
 
 É o método mais utilizado. Utiliza a operação XOR devidamente
-representada na imagem a seguir pelo círculo em volta do sinal de “+”.
+representada na imagem a seguir pelo círculo em volta do sinal de "+".
 A cifragem de cada bloco depende da cifragem de todos os blocos
 anteriores.
 
@@ -471,7 +471,7 @@ Imagem original
 Imagem com CBC
 ou CRB ou OFB
 
-Percebam que o bloco cifrado é utilizado para “embaralhar” os blocos
+Percebam que o bloco cifrado é utilizado para "embaralhar" os blocos
 subsequentes. Depende que os blocos cheguem de forma sequencial
 para que não haja problema na decifração, perdendo no aspecto de
 desempenho quando comparado ao ECB. Além disso, um erro em
@@ -494,7 +494,7 @@ FUNDO!
 
 /II
 
-• Cipher FeedBack - CFB
+* Cipher FeedBack - CFB
 
 Suporta qualquer tamanho de entrada, independentemente do bloco.
 Por esse motivo, se torna útil para aplicações que dependem de
@@ -542,7 +542,7 @@ Texto claro
 
 iDecifração modo Cipher Feedback - CFB
 
-Percebam que o bloco cifrado é utilizado para “embaralhar” os blocos
+Percebam que o bloco cifrado é utilizado para "embaralhar" os blocos
 subsequentes. Depende que os blocos cheguem de forma sequencial
 para que não haja problema na decifração, perdendo no aspecto de
 desempenho quando comparado ao ECB. Além disso, um erro em
@@ -708,7 +708,7 @@ identificação, possibilitando saber também qual programa foi utilizado.
 
 Importante destacar que os conceitos vistos para discos se aplicam também a
 mídias
-externas, como pendrives ou HD’s externos.
+externas, como pendrives ou HD's externos.
 
 a. CRIPToANÁLISE
 
@@ -800,7 +800,7 @@ Item. 2. Método Pré-Computado
 Neste método, busca-se criar uma lista, bem extensa por sinal (aumentando a chance de
 quebra), que correlaciona, para um determinado algoritmo, os textos em claro
 e os
-resultados gerados. Por isso o termo “pré-computado”.
+resultados gerados. Por isso o termo "pré-computado".
 
 Desse modo, a partir de um determinado resultado, é possível realizar pesquisa na
 tabela
@@ -826,7 +826,7 @@ possibilidades possíveis dadas o tamanho da chave se torna inviável.
 
 Item. 3. Método da Força Bruta
 
-De maneira descontraída, podemos dizer que a “ignorância” é o ponto forte desse método.
+De maneira descontraída, podemos dizer que a "ignorância" é o ponto forte desse método.
 Aqui, busca-se, a partir de um grande poder computacional, processar
 todas as
 possibilidades de senhas para determinado ambiente ou algoritmos.
@@ -862,7 +862,7 @@ ser
 realizado é muito semelhante com o método da Força Bruta. Entretanto, a invés de se
 testar
 todas as possibilidades possíveis dentro de uma quantidade limitada de caracteres, testa-
-se as senhas conforme uma lista pré-definida de “possíveis senhas” para o contexto em
+se as senhas conforme uma lista pré-definida de "possíveis senhas" para o contexto em
 análise.
 
 Desse modo, busca-se construir um dicionário que contemple senhas muito utilizadas por
@@ -870,9 +870,9 @@ usuários como: 123456, 12345seis, senha, password, entre outros...
 
 A grande vantagem do dicionário é que este pode ser construído a partir de diversas
 bases,
-inclusive a partir da integração destas. Uma ferramenta amplamente utilizada é o “John,
+inclusive a partir da integração destas. Uma ferramenta amplamente utilizada é o "John,
 the
-ripper”.
+ripper".
 
 Entretanto, uma forma de se otimizar ainda mais o ataque, é
 utilizar dicionários
@@ -883,8 +883,8 @@ possíveis senhas que contemplem datas específicas, nomes de parentes, combina�
 datas e iniciais de nomes, entre muitos outros.
 
 Para aumentar ainda mais a probabilidade de acerto, é interessante gerar variações dos
-textos criados na base, substituindo letras por números (como é o caso do “S” pelo
-“5”),
+textos criados na base, substituindo letras por números (como é o caso do "S" pelo
+"5"),
 além de inserir caracteres especiais e variações de letras maiúsculas e minúsculas.
 
 Pode-se também se valer da inversão de letras ou sílabas, sempre na perspectiva de
@@ -916,9 +916,9 @@ condicional e gramática especializada.
 
 A primeira contempla gerar vocábulos a partir de um idioma específico. Um
 exemplo
-clássico é o fato de que letras “h” têm a probabilidade de serem antecedidas por “c”
-ou “I”,
-formando “ch” ou “lh” do que qualquer outra letra. Portanto, os algoritmos
+clássico é o fato de que letras "h" têm a probabilidade de serem antecedidas por "c"
+ou "I",
+formando "ch" ou "lh" do que qualquer outra letra. Portanto, os algoritmos
 estatísticos
 buscam correlacionar esses aspectos para obter resultados satisfatórios.
 
@@ -1231,13 +1231,13 @@ V
 
 I $1000
 
-• EDE (Encrypt-Decrypt-Encrypt) Method - 3DES-EDE Method:
+* EDE (Encrypt-Decrypt-Encrypt) Method - 3DES-EDE Method:
 
-• Data is encrypted using K1.
+* Data is encrypted using K1.
 
-• Data is decrypted using K2.
+* Data is decrypted using K2.
 
-• Data is encrypted usmg K3.
+* Data is encrypted usmg K3.
 
 Desse modo, ao se utilizar três chaves distintas, tem-se uma robustez de 56 bits por
 chave,
@@ -1274,11 +1274,11 @@ Encryption
 Decryption
 
 3A5g3=awe
-#’11frOn9
+#'11frOn9
 
 Cipher text
 
-• RC - Rivest Cipher
+* RC - Rivest Cipher
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 23
@@ -1482,7 +1482,7 @@ de Breno
 
 Algoritmo criptográfico
 
-âwfwsi •
+âwfwsi *
 
 Algoritmo criptográfico ==
 
@@ -1629,18 +1629,18 @@ e algumas características dela.
 
 No RSA as chaves são geradas desta maneira:
 
-• Escolha de forma aleatória dois números primos grandes “p” e “q”, da ordem de 10100
+* Escolha de forma aleatória dois números primos grandes "p" e "q", da ordem de 10100
 no mínimo.
 
-• Compute n = p.q
+* Compute n = p.q
 
-• Compute a função totiente em n:phi(n) = (p-1 )(q-1)
+* Compute a função totiente em n:phi(n) = (p-1 )(q-1)
 
-• Escolha um inteiro “e” tal que 1 < e < phi(n), de forma que “e” e phi (n), sejam primos
+* Escolha um inteiro "e" tal que 1 < e < phi(n), de forma que "e" e phi (n), sejam primos
 entre si.
 
-• Compute “d” de forma que d.e = 1 mod {phi(n)} , ou seja, “d” seja o inverso
-multiplicativo de “e” em mod {phi(n)}.
+* Compute "d" de forma que d.e = 1 mod {phi(n)} , ou seja, "d" seja o inverso
+multiplicativo de "e" em mod {phi(n)}.
 
 No passo 1, os números podem ser testados probabilisticamente para primalidade.
 
@@ -1664,14 +1664,14 @@ www. estrategiaconcursos. com. br
 André Castro
 Aula 02
 
-A chave privada: a tripla (p,q,d). De fato, para desencriptar, basta guardar “d” como
+A chave privada: a tripla (p,q,d). De fato, para desencriptar, basta guardar "d" como
 chave
-privada, mas os primos “p” e “q” são usados para acelerar os cálculos.
+privada, mas os primos "p" e "q" são usados para acelerar os cálculos.
 
 Cifragem
 
-Para transformar uma mensagem “m”, onde 0 < m < n, numa mensagem “c” cifrada usando
-a chave pública do destinatário “n” e “e”, basta fazer uma potenciação modular:
+Para transformar uma mensagem "m", onde 0 < m < n, numa mensagem "c" cifrada usando
+a chave pública do destinatário "n" e "e", basta fazer uma potenciação modular:
 
 c = me mod(n)
 
@@ -1681,9 +1681,9 @@ algoritmo para realizar esta potência rapidamente.
 
 Decifragem
 
-Para recuperar a mensagem “m” da mensagem cifrada “c” usando a respectiva
+Para recuperar a mensagem "m" da mensagem cifrada "c" usando a respectiva
 chave
-privada do receptor “n” e “d”, basta fazer outra potenciação modular:
+privada do receptor "n" e "d", basta fazer outra potenciação modular:
 
 m = cd mod(n)
 
@@ -1723,7 +1723,7 @@ FUNDO!
 
 /II
 
-• One-Time Pad - OTP
+* One-Time Pad - OTP
 
 É uma técnica de criptografia que, se utilizada da forma correta, é
 considerada inquebrável, ou incondicionalmente seguro.
@@ -1761,10 +1761,10 @@ há
 algoritmos ou chave que retorne à mensagem original.
 
 Para se ter uma ideia, podemos aplicar um algoritmo HASH (MD5) a uma sequência como
-“123456” e teremos como resultado o texto “e10adc3949ba59abbe56e057f20f883e”.
+"123456" e teremos como resultado o texto "e10adc3949ba59abbe56e057f20f883e".
 
 Mesmo que alguém tenha acesso ao último conteúdo, não há como saber que foi a
-mensagem “123456” que gerou tal resultado.
+mensagem "123456" que gerou tal resultado.
 
 Mas então como poderíamos, por exemplo, tentar descobrir a mensagem original? Bom,
 como a função utilizada pelo algoritmo é conhecida, poderíamos pegar uma sequência de
@@ -1866,9 +1866,9 @@ Para fins de confidencialidade e autenticidade, podemos citar o logins com a uti
 de
 senhas que fazemos em sites. Os servidores de dados que armazenam as informações de
 LOGIN e SENHAS não armazenam os dados diretamente. Eles armazenam o resultado do
-HASH das senhas. Isto é, vamos supor que eu tenha uma senha do tipo “senhapadrão”.
+HASH das senhas. Isto é, vamos supor que eu tenha uma senha do tipo "senhapadrão".
 
-O valor HASH MD5 desse texto é “aa52af9c01caa48a0d2958c961112b5b”. Assim, o valor
+O valor HASH MD5 desse texto é "aa52af9c01caa48a0d2958c961112b5b". Assim, o valor
 que o servidor armazenará é o HASH. Na próxima vez que eu fizer o login, digitarei
 meu
 nome de usuário e senha normalmente. Porém, para verificar se minha senha é válida, o
@@ -1900,7 +1900,7 @@ informações. Além disso, o conceito de difusão diz que deve ser impossível 
 mensagem original sem modificar o resultado do HASH desta mensagem.
 
 O resultado de um cálculo de uma função HASH também é bastante referenciada como
-“message digest”.
+"message digest".
 
 OO SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 33
@@ -1919,7 +1919,7 @@ FUNDO!
 
 /II
 
-• Ataques de Colisão
+* Ataques de Colisão
 
 Uma das formas de se promover ataques em algoritmos HASH é através da obtenção
 de valores de entrada distintos que produzem o mesmo resultado de saída. Por ter um
@@ -1928,10 +1928,10 @@ se
 amenizar esse problema é através do aumento do tamanho em bits das messages
 digests.
 
-• Ataque de Aniversário
+* Ataque de Aniversário
 
 Um outro tipo de ataque baseado em probabilidade, vinculando ao paradoxo do
-aniversário. Assumindo que eu tenha uma mensagem original “TESTE”. Para se
+aniversário. Assumindo que eu tenha uma mensagem original "TESTE". Para se
 entender esse ataque, fica muito claro quando estamos em sala de aula. A ideia é
 simples. O professor pergunta, existe algum aluno que faça aniversário na mesma data
 que eu, que é, por exemplo, 30 de julho? Teremos uma probabilidade de que isso ocorra.
@@ -1951,9 +1951,9 @@ digest.
 Esses dois cenários representam a robustez de um algoritmo em termos de colisão.
 Assim, um algoritmo assegura a colisão simples caso seja
 computacionalmente
-impossível, conhecendo uma mensagem M, achar uma outra mensagem M’ que
+impossível, conhecendo uma mensagem M, achar uma outra mensagem M' que
 produza o mesmo HASH. E o algoritmo será robusto à colisão forte caso seja
-computacionalmente difícil encontrar um par de mensagens (M,M’) que produzam o
+computacionalmente difícil encontrar um par de mensagens (M,M') que produzam o
 mesmo HASH.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
@@ -2039,15 +2039,15 @@ colisões.
 MDOMAIS
 FUNDO!
 
-• SALT
+* SALT
 
 Esse é um recurso que surgiu para amenizar o problema de prefixo. A ideia aqui é
 sempre acrescentar um valor fixo padrão a ser definido pelo sistema ou servidor para
 compor a mensagem original.
 
-Assim, se a mensagem original for “123456”, determinada empresa acrescentaria um
-nome fixo, por exemplo, “nomedaempresa” antes de cada mensagem antes de calcular
-o HASH, gerando-se uma pseudo-mensagem “estratégia 123456”.
+Assim, se a mensagem original for "123456", determinada empresa acrescentaria um
+nome fixo, por exemplo, "nomedaempresa" antes de cada mensagem antes de calcular
+o HASH, gerando-se uma pseudo-mensagem "estratégia 123456".
 
 Esse recurso é utilizado pelos sistemas LINUX.
 
@@ -2057,7 +2057,7 @@ O MD4 produz HASH de tamanho de 128 bits, dependendo de entradas de
 tamanho
 múltiplos de 512 bits. Caso a entrada não tenha esse tamanho, acrescenta-se
 um bit
-adicional de valor “1” e sucessivos “0’s” até completar o múltiplo.
+adicional de valor "1" e sucessivos "0's" até completar o múltiplo.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 36
@@ -2167,7 +2167,7 @@ algoritmo na tentativa de deduzir as chaves
 
 Comentários:
 
-Tivemos uma inversão dos conceitos na alternativa "A”. Já para a "B", temos exatamente
+Tivemos uma inversão dos conceitos na alternativa "A". Já para a "B", temos exatamente
 o que se aplica no contexto de Segurança. Se a informação não faz mais sentido, ou seja,
 se ela não tem mais valor, não há problemas em ela ser violada. Nesse sentido,
 precisamos garantir que o sistema não seja quebrado enquanto a informação produz
@@ -2216,7 +2216,7 @@ matemáticas que, a partir de determinados valores de entrada, geram um par de c
 como resultado (chave privada e pública). Essas chaves só fazem sentido juntas... Não
 há como combinar com outras chaves privadas e públicas de outros algoritmos. Desse
 modo, para se alterar a chave privada, deve-se gerar um novo par de chaves,
-procedimento este descrito na alternativa "D”. Lembrando que das duas chaves, como o
+procedimento este descrito na alternativa "D". Lembrando que das duas chaves, como o
 próprio nome diz, deve-se dar publicidade à chave pública.
 
 Gabarito: D
@@ -3349,7 +3349,7 @@ Comentário:
 
 Questão bem extensa e complicada, não é? Devemos avaliar com calma.
 Entretanto, a
-banca foi "amiga” em nos apresentar a resposta logo no primeiro item. Temos
+banca foi "amiga" em nos apresentar a resposta logo no primeiro item. Temos
 aqui
 pessoal a descrição da Assinatura Digital Simétrica, conforme mencionei em aula.
 
@@ -3858,10 +3858,10 @@ sistema participante opte por alterar sua chave privada, para
 que
 seja mantida a comunicação, será necessário
 
-• gerar uma nova chave privada a partir da chave pública existente e substituir a chave
+* gerar uma nova chave privada a partir da chave pública existente e substituir a chave
 pública pela nova chave.
 
-• gerar uma nova chave privada e publicar essa nova chave privada.
+* gerar uma nova chave privada e publicar essa nova chave privada.
 
 C)gerar um novo par de chaves e publicar as duas novas chaves — pública e privada.
 

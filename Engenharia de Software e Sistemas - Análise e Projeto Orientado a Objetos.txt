@@ -1079,7 +1079,7 @@ E olha o mais legal! Eu não preciso implementar todos os métodos de uma lista 
 cada tipo
 específico, basta fazer (por exemplo, para adição):
 
-listaDeString.add(“Primeira String”);
+listaDeString.add("Primeira String");
 listaDelnteger.add(4.000);
 listaDeTipoMeuQualquer.add(TipoMeuQualquer);
 

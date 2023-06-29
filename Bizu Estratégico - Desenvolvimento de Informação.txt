@@ -174,23 +174,23 @@ Banco de Dados
 
 Item. 1. BANCOS DE DADOS
 
-• Dados: fatos brutos, que não foram organizados, processados, relacionados, avaliados
+* Dados: fatos brutos, que não foram organizados, processados, relacionados, avaliados
 ou interpretados.
 
-• Informação: é um dado acrescido de contexto, relevância e propósito.
+* Informação: é um dado acrescido de contexto, relevância e propósito.
 
-• Conhecimento: é uma informação contextuai, relevante e acionável.
+* Conhecimento: é uma informação contextuai, relevante e acionável.
 
 Tipos de Dados:
 
-• Não estruturados: não possuem uma estrutura definida. Podem ser listados como
+* Não estruturados: não possuem uma estrutura definida. Podem ser listados como
 exemplo documentos, textos, imagens e vídeos.
 
-• Estruturados: são aqueles quem possuem a mesma estrutura de representação rígida e
+* Estruturados: são aqueles quem possuem a mesma estrutura de representação rígida e
 previamente projetada, ou sejam, existe um esquema que descreve as características
 dos dados que serão armazenados .
 
-• Semiestruturados: apresentam uma organização bastante heterogênea , por exemplo
+* Semiestruturados: apresentam uma organização bastante heterogênea , por exemplo
 oXML.
 
 
@@ -274,7 +274,7 @@ todas as definições que podem aparecer na sua prova.:)
 
 Item. 2. Modelo Relacional
 
-• O modelo relacional retrata os dados como sendo armazenados em tabelas retangulares
+* O modelo relacional retrata os dados como sendo armazenados em tabelas retangulares
 bidimensionais, chamadas de relações.
 
 Bruno Braga 305.610.243-51 (17)3783-1616 Rua das
@@ -309,7 +309,7 @@ Aula 10
 
 Álgebra Relacional
 
-• É uma coleção de operações de alto nível sobre relações ou conjuntos cujo resultado é
+* É uma coleção de operações de alto nível sobre relações ou conjuntos cujo resultado é
 uma nova relação ou conjunto.
 
 OPERAÇÃO I SÍMBOLO I I COMUTATIVA 1 I UNÃRIA/BINÃRIA I |
@@ -401,7 +401,7 @@ DIVISÃO Produz uma rd-
 
 > com toda tupla de RdY). or
 
-• tudas flXl em R,(Z) que aparecem em R,
+* tudas flXl em R,(Z) que aparecem em R,
 
 R, (2) R₂(V)
 
@@ -417,27 +417,27 @@ Aula 10
 
 Views
 
-• É um subconjunto de um banco de dados. Permite que se visualize apenas parte dos
+* É um subconjunto de um banco de dados. Permite que se visualize apenas parte dos
 dados de uma tabela. A view não necessariamente existe em forma física, sendo muitas
 vezes uma tabela virtual.
 
 índices
 
-• É um mecanismo utilizado para melhorar a velocidade de acesso aos dados. O excesso
+* É um mecanismo utilizado para melhorar a velocidade de acesso aos dados. O excesso
 de índices pode prejudicar o desempenho.
 
 Chaves
 
-• Superchave: conjunto de um ou mais atributos que permite identificar uma tupla de
+* Superchave: conjunto de um ou mais atributos que permite identificar uma tupla de
 forma exclusiva.
 
-• Chave primária: é uma superchave mínima escolhida para identificar uma linha da
+* Chave primária: é uma superchave mínima escolhida para identificar uma linha da
 tabela.
 
-• Chave candidata: Superchaves de tamanho mínimo, candidatas a serem possíveis chaves
+* Chave candidata: Superchaves de tamanho mínimo, candidatas a serem possíveis chaves
 primárias de uma tabela.
 
-• Chave estrangeira: chave primária de um outra relação.
+* Chave estrangeira: chave primária de um outra relação.
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
 
@@ -519,31 +519,31 @@ Aula 10
 
 Operadores de conjuntos tradicionais
 
-• União, Interseção, Diferença e Produto cartesiano
+* União, Interseção, Diferença e Produto cartesiano
 
-• Todos eles um pouco modificados para levar em conta
+* Todos eles um pouco modificados para levar em conta
 o fato de que seus operandos são, especificamente,
 relações e não conjuntos arbitrários.
 
 Operadores relacionais especiais
 
-• De restrição (também conhecido como seleção),
+* De restrição (também conhecido como seleção),
 projeção, junção e divisão.
 
 Primeira forma normal
 
-• Uma relação R existe na primeira forma normal (1FN) se, e somente se, todos
+* Uma relação R existe na primeira forma normal (1FN) se, e somente se, todos
 os domínios subjacentes contiverem apenas valores atômicos.
 
-• No modelo relacional, um domínio é atômico se os elementos do domínio são
+* No modelo relacional, um domínio é atômico se os elementos do domínio são
 considerados unidades indivisíveis. Um esquema de relação R está na
 primeira forma normal se todos os atributos de R são atômicos.
 
-• A primeira forma normal afirma que o domínio de um atributo deve incluir
+* A primeira forma normal afirma que o domínio de um atributo deve incluir
 apenas valores atômicos (simples e indivisíveis) e que o valor de qualquer
 atributo em uma tupla deve ser um único valor do domínio desse atributo.
 
-• A primeira forma normal evita as chamadas relações aninhadas, essas
+* A primeira forma normal evita as chamadas relações aninhadas, essas
 relações contêm vários atributos em uma única coluna e não são permitidas
 no modelo relacional.
 
@@ -616,7 +616,7 @@ SGBD
 
 Relacional
 
-• Processar
+* Processar
 
 horrc DataDc Nascimento
 
@@ -631,12 +631,12 @@ Hcrbcrt D5/0Q/ji9&T
 
 Figura 1- Um exempía de consulto
 
-• DDL- Data Definition Language - A linguagem de definição de dados
+* DDL- Data Definition Language - A linguagem de definição de dados
 contém comandos que
 criam, modificam e excluem objetos de banco de dados. São exemplos de comando: CREATE,
 ALTER, DROP e TRUNCATE.
 
-• DML - Data Manipulation Language - A linguagem de manipulação
+* DML - Data Manipulation Language - A linguagem de manipulação
 de dados fornece
 instruções para trabalhar com os dados armazenados como SELECT, INSERT, UPDATE, DELETE
 e MERGE.
@@ -644,11 +644,11 @@ e MERGE.
 o DQL - Data Query Language-A linguagem de consulta de dados é um subconjunto da
 DML que possui apenas a instrução de SELECT.
 
-• DTL- Data Transaction Language - Linguagem de transação de dados inclui
+* DTL- Data Transaction Language - Linguagem de transação de dados inclui
 comandos de
 COMMIT, ROLLBACK e SAVEPOINT
 
-• DCL - Data Control Language - A linguagem de controle de dados
+* DCL - Data Control Language - A linguagem de controle de dados
 contém os comandos
 relacionados com as permissões de controle de acesso. Garante os privilégios
 aos usuários
@@ -814,67 +814,67 @@ qualquer dado não contido nos registros com campos pesquisáveis distintos.
 
 Volume
 
-• • •
+* * *
 
-V••«
+V**«
 
 
-•••••• •••
+****** ***
 
-•••••• •••
+****** ***
 
-• • • ••
+* * * **
 
 Dados em repouso
 
-• Terabytes ou exabytes
+* Terabytes ou exabytes
 de dados existentes para
 o processo
 
-•ee -?e-Ee
+*ee -?e-Ee
 
 Dados em
 movimento
 
-• Streammg data (fluxo de
+* Streammg data (fluxo de
 iita
 
-• Requer nulissegundos
+* Requer nulissegundos
 ou segundos para
 resposta.
 
 Dados em diferentes
 formas
 
-• Estruturados
+* Estruturados
 
-• Semiestruturado
+* Semiestruturado
 
-• Não estruturado
+* Não estruturado
 
-• Texto
+* Texto
 
-• Multimídia
+* Multimídia
 
 5Zolumt>
 
 Dados em dúvida
 
-• Incerteza sobre a
+* Incerteza sobre a
 consistência e
 completude.
 
-• Ambiguidade, latência.
+* Ambiguidade, latência.
 modelos de
 aproximação.
 
 Dados em dinheiro
 
-• Os dados devem estar
+* Os dados devem estar
 associados aos modelos
 de negócio.
 
-• Preocupação com a
+* Preocupação com a
 geração de retomo.
 
 
@@ -1000,11 +1000,11 @@ dados, a menos que se conectem explicitamente ao último banco de dados também.
 
 O PostgreSQL divide os usuários em duas categorias principais:
 
-• Usuários normais: esses usuários são aqueles que podem se
+* Usuários normais: esses usuários são aqueles que podem se
 conectar e manipular bancos de dados e objetos, dependendo de seu
 conjunto de privilégios
 
-• Superusuários: Esses usuários podem fazer qualquer coisa com
+* Superusuários: Esses usuários podem fazer qualquer coisa com
 qualquer objeto de banco de dados.
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
@@ -1019,23 +1019,23 @@ Aula 10
 
 Esta é uma rápida recapitulação dos principais termos usados no PostgreSQL:
 
-• Cluster: refere-se a todo o serviço PostgreSQL.
+* Cluster: refere-se a todo o serviço PostgreSQL.
 
-• Postmaster: este é o primeiro processo que o cluster executa, e este processo é
+* Postmaster: este é o primeiro processo que o cluster executa, e este processo é
 responsável por manter o controle das atividades de todo o cluster. O postmaster
 bifurca-se em um processo de back-end toda vez que uma nova conexão é
 estabelecida
 
-• Banco de dados o banco de dados é um contêiner de dados isolado ao qual os
+* Banco de dados o banco de dados é um contêiner de dados isolado ao qual os
 usuários (ou aplicativos) podem se conectar. Um cluster pode lidar com vários bancos
 de dados. Um banco de dados pode ser feito por diferentes objetos, incluindo
 esquemas (namespaces), tabelas, gatilhos e outros objetos.
 
-• PGDATA: é o nome do diretório que, no armazenamento persistente, é totalmente
+* PGDATA: é o nome do diretório que, no armazenamento persistente, é totalmente
 dedicado ao PostgreSQL e seus dados. O PostgreSQL armazena os dados nesse
 diretório.
 
-• WALs: contém o log de intenção de alterações do banco de dados, usado para
+* WALs: contém o log de intenção de alterações do banco de dados, usado para
 recuperar dados de um travamento crítico
 
 /bin - programas de linha de comando do PostgreSQL, como psql.
@@ -1065,24 +1065,24 @@ www. estrategiaconcursos. com.br
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 Aula 10
 
-• ch eckp o: n fer é u m proc esso respo n sá ve I p or e xe cu ta r os p o n tos d e ve r if i
+* ch eckp o: n fer é u m proc esso respo n sá ve I p or e xe cu ta r os p o n tos d e ve r if i
 ca çã o, q u e
 são pontos no tempo em que o banco de dados garante que todos os dados sejam
 
 realmente armazenados de forma persistente no disco.
 
-• background wríter é responsável por ajudar a enviar os dados da memória para o
+* background wríter é responsável por ajudar a enviar os dados da memória para o
 armazenamento permanente.
 
-• walwriter é responsável por gravar os Logs Write-Ahead (WALs), os logs que são
+* walwriter é responsável por gravar os Logs Write-Ahead (WALs), os logs que são
 necessários para garantir a confiabilidade dos dados, mesmo no caso de uma falha
 do banco de dados.
 
-• stats collector é um processo quemonitoraaquantidadededadosqueo PostgreSQL
+* stats collector é um processo quemonitoraaquantidadededadosqueo PostgreSQL
 está manipulando, armazenando-os para uma análise e decisões posteriores, como
 decidir quais índices usar para satisfazer uma consulta.
 
-• logical replication launcher é um processo responsável por lidar com a replicação
+* logical replication launcher é um processo responsável por lidar com a replicação
 lógica.
 
 Descrição
@@ -1159,15 +1159,15 @@ Autentica utilizando o serviço Pluggable Authentication Modules
 
 O PostgreSQL 12 gerencia os seguintes tipos de particionamento de tabela:
 
-• Range partitioning - quando a tabela é dividida em "intervalos". Os intervalos não devem se
+* Range partitioning - quando a tabela é dividida em "intervalos". Os intervalos não devem se
 sobrepor e a faixa é definida por meio do uso de um campo ou conjunto de campos.
 Aqui
 estamos falando de valores numéricos.
 
-• List partitioning - a tabela será particionada usando uma lista de valores. Essa lista tende a
+* List partitioning - a tabela será particionada usando uma lista de valores. Essa lista tende a
 ser um conjunto discreto, por exemplo, cidades ou time de futebol.
 
-• Hash partitioning - a tabela será particionada usando um valor de hash que será usado como
+* Hash partitioning - a tabela será particionada usando um valor de hash que será usado como
 o valor para dividir os dados em tabelas diferentes.
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)

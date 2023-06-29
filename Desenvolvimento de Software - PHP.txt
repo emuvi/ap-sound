@@ -836,7 +836,7 @@ tenham o mesmo nome.
 
 //Array com dois valores textuais e um numérico
 
-$array = array("Flamengo", 3.14, "Matemática”);
+$array = array("Flamengo", 3.14, "Matemática");
 
 //Array com índices e valores textuais
 
@@ -2075,7 +2075,7 @@ PHP para permitir que os usuários façam upload de arquivos:
 
 <label fo r="file"> F ile name:<Jlabel >
 
-<inputtype-üle"name="file" id=“file7><br/>
+<inputtype-üle"name="file" id="file7><br/>
 
 <input type="submit" value="Fazer Upload"/*
 
@@ -2532,7 +2532,7 @@ ArcMtecwre
 Configure
 Comniand
 
-Server AF’I
+Server AF'I
 
 Virtual Diroctory
 Support
@@ -2588,10 +2588,10 @@ Jun 29 2009 Z1 23 30
 MSVCÍ iVteua C** 6 01
 xM
 
-cscntf noioço cocégur* fi eneoie-snapshci-Dwld -drsafcte iaÇ‘ -eeabie
+cscntf noioço cocégur* fi eneoie-snapshci-Dwld -drsafcte iaÇ' -eeabie
 deènjç-peck" php-adkoracte'inslentcl»efli10.»dk ifcâred* ~—wíb-
 
-oUQ^O pbp-sdksorecle^neiantcbent 10>sdk irteved" --wah'C-00*••□•D íjvchsdk •oroci®
+oUQ^O pbp-sdksorecle^neiantcbent 10>sdk irteved" --wah'C-00***□*D íjvchsdk *oroci®
 unstontctoiKl 1 Jdk shared -wflh-ench&nE*share<S
 
 Apache 2 0 rtandler
@@ -2604,7 +2604,7 @@ C u«tmptEmtopeche<Apeche2 2 m
 <r ji ^i
 inonel
 
-j’_ Nd
+j'_ Nd
 AP1220090GSTSVC6
 
 API2W9O626 TS VCS
@@ -3047,7 +3047,7 @@ EXISTIR, TENTA CRIÁ-LO.
 ABRE PARA LEITURA E ESCRITA; COLOCA 0 PONTEIRO DO ARQUIVO NO COMEÇO
 DO
 
-’W+' ARQUIVO E REDUZ 0 COMPRIMENTO 00 ARQUIVO PARA ZERO. SE 0 ARQUIVO NÃO
+'W+' ARQUIVO E REDUZ 0 COMPRIMENTO 00 ARQUIVO PARA ZERO. SE 0 ARQUIVO NÃO
 
 EXISTIR, TENTA CRIÁ-LO.
 ABRE SOMENTE PARA ESCRITA; COLOCA 0 PONTEIRO 00 ARQUIVO NO FINAL 00
@@ -3940,8 +3940,8 @@ Sv2 - 20;
 
 if ( $vl > $v2 ) {
 
-echo variável M.$vl. ” e maior
-que a variável “.Sv2;
+echo variável M.$vl. " e maior
+que a variável ".Sv2;
 
 }
 
@@ -5098,7 +5098,7 @@ Paolla Ramos e Silva
 
 Aula 07 (Profs. Paolla Ramos e Raphael Lacerda)
 
-mail($admi n_emai1₃ "$subject", $comment ₃ ”From:”.
+mail($admi n_emai1₃ "$subject", $comment ₃ "From:".
 
 $email);
 
@@ -5159,14 +5159,14 @@ Aula 07 (Profs. Paolla Ramos e Raphael Lacerda)
 
 <?php
 
-if (isset($_REQUEST[*email’])) {
+if (isset($_REQUEST[*email'])) {
 
 $admin_email - "admin@prova.com";
 
-$email « $_REQUEST(•email'] ;
-Ssubject = $_REQUEST[’subject'];
+$email « $_REQUEST(*email'] ;
+Ssubject = $_REQUEST['subject'];
 
-$comment = $_REQUEST['comment’];
+$comment = $_REQUEST['comment'];
 
 mail($admin_emailf "$subject", $comment, "From:".
 
@@ -5971,12 +5971,12 @@ Item. 140. (FCC / TRE-RR - 2015) Considere o seguinte script encontrado em uma p
 
 $idade » array("Paulo"■>"40" , "Pedro"«>"62"t
 
-•*Ana" = >"43", "Marcos"«>"18") ;
+**Ana" = >"43", "Marcos"«>"18") ;
 
 arsort($idade);
 
 foreach($idade as $x => $x_valor) {
-echo $x . " ■ " . $x_valor . • •;
+echo $x . " ■ " . $x_valor . * *;
 
 }
 
@@ -6547,7 +6547,7 @@ Aula 07 (Profs. Paolla Ramos e Raphael Lacerda)
 
 <?php
 
-£ nomes =array ("Zen ai de"," M a rcelo”," B iu n o");
+£ nomes =array ("Zen ai de"," M a rcelo"," B iu n o");
 
 I
 
@@ -6585,7 +6585,7 @@ PHP para permitir que os usuários façam upload de arquivos:
 
 <label fo r="file"> F ile name:<Jlabel >
 
-<inputtype-üle"name="file" id=“file7><br/>
+<inputtype-üle"name="file" id="file7><br/>
 
 <inputtype="submit" value="Fazer Upload"/*
 
@@ -6943,9 +6943,9 @@ abaixo produzirá o resultado indicado em seguida.
 
 <?php
 
-$arl • array(10, 100, 100, 0) ;
+$arl * array(10, 100, 100, 0) ;
 
-$ar2 • array(l, 3, 2, 4);
+$ar2 * array(l, 3, 2, 4);
 array_multisort ($arl, $ar2);
 va r_dump ($a rl);
 
@@ -7211,8 +7211,8 @@ Sv2 - 20;
 
 if ( $vl > $v2 ) {
 
-echo "A variável M.$vl. ” e maior
-que a variável “.Sv2;
+echo "A variável M.$vl. " e maior
+que a variável ".Sv2;
 
 }
 
@@ -7836,12 +7836,12 @@ Aula 07 (Profs. Paolla Ramos e Raphael Lacerda)
 
 Svl = 40;
 
-Sv2 • 20;
+Sv2 * 20;
 
 if ( $vl > $v2 ) {
 
-echo "A variável *.Svl.” é maior
-que a variável “.$v2;
+echo "A variável *.Svl." é maior
+que a variável ".$v2;
 
 }
 
@@ -7990,14 +7990,14 @@ Aula 07 (Profs. Paolla Ramos e Raphael L
 
 <?php
 
-if (isset($_REQUEST[*email’])) {
+if (isset($_REQUEST[*email'])) {
 
 $admin_email - "admin@prova.com";
 
-$email « $_REQUEST(•email'] ;
-Ssubject = $_REQUEST[’subject'];
+$email « $_REQUEST(*email'] ;
+Ssubject = $_REQUEST['subject'];
 
-$comment = $_REQUEST['comment’];
+$comment = $_REQUEST['comment'];
 
 mail($admin_emailf "$subject", $comment, "From:".
 
@@ -8436,12 +8436,12 @@ Item. 140. (FCC / TRE-RR - 2015) Considere o seguinte scrípt encontrado em uma 
 
 $idade » array("Paulo"■>"40" , "Pedro"«>"62"t
 
-•*Ana" = >"43", "Marcos"«>"18") ;
+**Ana" = >"43", "Marcos"«>"18") ;
 
 arsort($idade);
 
 foreach($idade as $x => $x_valor) {
-echo $x . " ■ " . $x_valor . • •;
+echo $x . " ■ " . $x_valor . * *;
 
 }
 

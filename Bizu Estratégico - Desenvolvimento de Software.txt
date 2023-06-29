@@ -131,7 +131,7 @@ Item. 1. Linguagens de programação. Java
 
 Java
 
-• O Java é a principal linguagem de programação e plataforma de desenvolvimento. Reduz
+* O Java é a principal linguagem de programação e plataforma de desenvolvimento. Reduz
 custos
 e prazos de desenvolvimento, impulsiona a inovação e aprimora os serviços de
 aplicativos. Com
@@ -205,7 +205,7 @@ OPENJDK: IMPLEMENTAÇÃO
 GRATUITA E DE CÓDIGO
 ABERTO DO JAVA SE.
 
-• APLICATIVOS COMJRE
+* APLICATIVOS COMJRE
 INSTALADO PODEM
 EXECUTAR EM VÁRIOS
 SISTEMAS OPERACIONAIS
@@ -226,7 +226,7 @@ DESENVOLVIMENTO DE
 APLICAÇÕES ESCALÁVEIS,
 ROBUSTAS EMULTI CAMADAS.
 
-• SEGURANÇA E CONFIABILIDADE.
+* SEGURANÇA E CONFIABILIDADE.
 
 JAVA ME
 
@@ -251,18 +251,18 @@ Aula 06
 
 PASSAGEM DE PARÂMETROS POR VALOR
 
-• CÓPIA DO VALOR 00 ARGUMENTO É PASSADA PARA 0 MÉTODO.
+* CÓPIA DO VALOR 00 ARGUMENTO É PASSADA PARA 0 MÉTODO.
 
-• APENAS SEU VALOR É PASSADO PARA A VARIÁVEL CORRESPONDENTE AO
+* APENAS SEU VALOR É PASSADO PARA A VARIÁVEL CORRESPONDENTE AO
 PARÂMETRO
 
 rPASSAGEM DE PARÂMETROS POR REFERÊNCIA
 
-• 0 MÉTODO CHAMADO PODE ACESSAR 0 VALOR DO ARGUMENTO
+* 0 MÉTODO CHAMADO PODE ACESSAR 0 VALOR DO ARGUMENTO
 NO CHAMADOR DIRETAMENTE E MODIFICAR ESSES DADOS, SE
 NECESSÁRIO
 
-• APRIMORA DESEMPENHO ELIMINANDO A NECESSIDADE DE
+* APRIMORA DESEMPENHO ELIMINANDO A NECESSIDADE DE
 COPIAR QUANTIDADES DE DADOS POSSIVELMENTE GRANDES
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
@@ -326,13 +326,13 @@ www. estrategiaconcursos. com.br
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 Aula 06
 
-• PHP é uma linguagem de programação de scripts, interpretada, de alto nível,
+* PHP é uma linguagem de programação de scripts, interpretada, de alto nível,
 open-source,
 gratuita, server-side, dinamicamente/fracamente tipada, estruturada e orientada
 a objetos,
 portável, robusta e eficiente utilizada para desenvolvimento web.
 
-• Os Servidores Web mais populares são Apache (Software Livre) e IIS (Software
+* Os Servidores Web mais populares são Apache (Software Livre) e IIS (Software
 Proprietário). Uma
 vez instalado, configura-se o PHP, reinicia-se o servidor e está pronto para usar! O
 PHP fica
@@ -445,17 +445,17 @@ Item. 3. Tecnologias e práticas frontend web: HTML
 
 Tecnologias e práticas frontend web: HTML
 
-• HTML significa Hyper Text Markup Language.
+* HTML significa Hyper Text Markup Language.
 
-• HTML é a linguagem de marcação padrão para criar páginas da Web;
+* HTML é a linguagem de marcação padrão para criar páginas da Web;
 
-• HTML descreve a estrutura de uma página da Web;
+* HTML descreve a estrutura de uma página da Web;
 
-• HTML consiste em uma série de elementos;
+* HTML consiste em uma série de elementos;
 
-• Os elementos HTML informam ao navegador como exibir o conteúdo;
+* Os elementos HTML informam ao navegador como exibir o conteúdo;
 
-■ • Os elementos HTML rotulam partes do conteúdo como "isto é um título", "isto é um parágrafo",
+■ * Os elementos HTML rotulam partes do conteúdo como "isto é um título", "isto é um parágrafo",
 "isto é um link", etc.
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)

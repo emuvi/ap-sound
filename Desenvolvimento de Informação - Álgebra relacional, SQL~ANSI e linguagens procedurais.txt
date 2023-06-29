@@ -259,7 +259,7 @@ SGBD
 
 Relacional
 
-• Processar
+* Processar
 
 
 r
@@ -328,13 +328,13 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 03 (Prof. Thiago Cavalcanti)
 
-• DDL - Data Definition Language - A linguagem de definição de dados
+* DDL - Data Definition Language - A linguagem de definição de dados
 contém comandos que
 criam, modificam e excluem objetos de banco de dados. São exemplos de
 comando: CREATE,
 ALTER, DROP e TRUNCATE.
 
-• DML - Data Manipulation Language - A linguagem de manipulação
+* DML - Data Manipulation Language - A linguagem de manipulação
 de dados fornece
 instruções para trabalhar com os dados armazenados como SELECT, INSERT, UPDATE, DELETE
 e MERGE.
@@ -342,11 +342,11 @@ e MERGE.
 o DQL- Data Query Language-A linguagem de consulta de dados é um subconjunto da
 DML que possui apenas a instrução de SELECT.
 
-• DTL - Data Transaction Language - Linguagem de transação de dados
+* DTL - Data Transaction Language - Linguagem de transação de dados
 inclui comandos de
 COMMIT, ROLLBACK e SAVEPOINT
 
-• DCL - Data Control Language - A linguagem de controle de dados
+* DCL - Data Control Language - A linguagem de controle de dados
 contém os comandos
 relacionados com as permissões de controle de acesso. Garante os privilégios
 aos usuários
@@ -1483,7 +1483,7 @@ máximo de bytes permitidos. Perceba que o tamanho mínimo da string é zero e o
 tamanho máximo
 éx. Vejamos um exemplo:
 
-• • •/
+* * */
 
 nomeDaColunaOl VARBINARY (20),
 
@@ -2171,19 +2171,19 @@ Restrições de integridade SQL, que são geralmente referidas como restrições
 divididos
 em três categorias:
 
-• Restrições em tabelas - Definida dentro de uma definição de tabela. A restrição
+* Restrições em tabelas - Definida dentro de uma definição de tabela. A restrição
 pode
 ser definida como parte da definição de coluna ou como um elemento ao
 final da
 definição. Restrições definidas no nível de tabela podem ser aplicadas a uma ou mais
 colunas.
 
-• Assertions (Afirmações) - Um tipo de restrição que é definida dentro de uma
+* Assertions (Afirmações) - Um tipo de restrição que é definida dentro de uma
 definição
 afirmação (separado da definição da tabela). Uma afirmação pode ser relacionada com
 uma ou mais tabelas.
 
-• Restrições de domínio - Um tipo de restrição que é definida dentro de uma
+* Restrições de domínio - Um tipo de restrição que é definida dentro de uma
 definição
 de domínio (separado da definição da tabela). A restrição de domínio está associada com
 qualquer coluna que é definida baseada no domínio específico. Aqui você pode criar um
@@ -2500,7 +2500,7 @@ Após essa etapa, o SGBD vai avaliar quais colunas são descritas na cláusula S
 fim, é possível ordenar a relação pelos atributos ou colunas listadas no ORDER BY. Resumindo temos:
 
 
-’------------------ ’
+'------------------ '
 
 SELECT
 
@@ -2999,7 +2999,7 @@ FROM employees
 
 WHERE salary =
 
-<•------- 1 2500
+<*------- 1 2500
 
 (SELECT MIN(salary)
 FROM employees);
@@ -3275,7 +3275,7 @@ INTO ALUNO-ESTRATEGIA
 INTO ALUNO-ESTRATEGIA
 ('DIEGO', 44444444444,
 
-‘ALICE@ALICE.COM',
+'ALICE@ALICE.COM',
 
 'BRUNO@BRUNO.COM',
 
@@ -3320,7 +3320,7 @@ EXEMPLOS DO COMANDO II
 
 INSERT INTO ALUNO_ESTRATEGIA (NOME, CPF, EMAIL
 
-VALUES ('FABIO', 66666666666, ‘FABIO@FABIO.COM
+VALUES ('FABIO', 66666666666, 'FABIO@FABIO.COM
 
 INSERT INTO ALUNO_ESTRATEGIA (NOME, CPF, EMAIL
 
@@ -3409,7 +3409,7 @@ SELECT employee_id, lastjiame, salary, commission_pct
 
 FROM employees
 
-WHERE job_id LIKE ’%REP%1;
+WHERE job_id LIKE '%REP%1;
 
 |4 rows insertedl
 
@@ -3440,7 +3440,7 @@ IAIHERE LISTA_DE_CONDICOES
 
 UPDATE ALUNO_ESTRATEGIA
 
-SET NOME = fDIOGO\ EMAIL = ‘DIOGO@DIOGO.COMJ
+SET NOME = fDIOGO\ EMAIL = 'DIOGO@DIOGO.COMJ
 
 IAIHERE CPF = 44444444444
 
@@ -3534,7 +3534,7 @@ PRATICAR!
 
 
 ff aluno
-' ’ V IU
+' ' V IU
 
 nome
 
@@ -3794,7 +3794,7 @@ SELECT pf.primeironome, pf.ultimonome, pf.telefone, pf.email
 FROM professores pf
 
 NATURAL JOIN disciplina d
-WHERE d.nome = 'Informática-’;
+WHERE d.nome = 'Informática-';
 
 Para visualizarmos os dados de uma visão, basta escrevermos um comando SELECT sobre ela, vejam
 o exemplo sobre a view profs_estrategia criada acima.
@@ -4318,12 +4318,12 @@ BEGIN ATOMIC
 
 CASE result
 
-WHEN ’ 1-0’ THEN
+WHEN ' 1-0' THEN
 
-SET winner = 'white’ ;
-WHEN ’ 0-1* THEN
+SET winner = 'white' ;
+WHEN ' 0-1* THEN
 
-SET winner = 'black’ ;
+SET winner = 'black' ;
 ELSE
 
 SET winner = 'draw' ;
@@ -4423,7 +4423,7 @@ DO
 
 IF a <> ''
 
-THEN SET purch = purch | | ’ , ’ ;
+THEN SET purch = purch | | ' , ' ;
 END IF ;
 
 SET purch = purch || t.description ;
@@ -4667,18 +4667,18 @@ Gabarito: B.
 
 Procedimento Armazenado
 
-• Um conjunto de instruções em SQL pré-compiladas, que podem ser reutilizadas e compartilhadas
+* Um conjunto de instruções em SQL pré-compiladas, que podem ser reutilizadas e compartilhadas
 
 por vários programas.
 
 Function
 
-• Uma rotina que aceita parâmetros, executa uma ação, como um cálculo complexo, e retorna o
+* Uma rotina que aceita parâmetros, executa uma ação, como um cálculo complexo, e retorna o
 resultado dessa ação como um valor.
 
 Trigger
 
-• Um conjunto de instruções SQL que são executadas automaticamente sempre que um evento
+* Um conjunto de instruções SQL que são executadas automaticamente sempre que um evento
 especial ocorre no banco de dados (inserir, excluir, atualizar).
 
 Figura 1 - Extensões procedurais
@@ -6688,12 +6688,12 @@ REFERENCES ARBITRO (COD)
 
 Observações:
 
-• A Tabela CAO contém os dados dos cães inscritos na referida associação. A coluna
+* A Tabela CAO contém os dados dos cães inscritos na referida associação. A coluna
 NOME_PAI
 indica o nome do pai de um cão, a coluna RACA indica a raça do mesmo, e a coluna NOME_PROPR
 indica o nome do seu proprietário. As demais colunas são autoexplicativas.
 
-• A Tabela COMPETICAO contém informações sobre as competições patrocinadas pela
+* A Tabela COMPETICAO contém informações sobre as competições patrocinadas pela
 associação.
 Suas colunas são autoexplicativas.
 
@@ -6707,17 +6707,17 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 03 (Prof. Thiago Cavalcanti)
 
-• A Tabela PARTICIPACAO informa as competições das quais participaram os cães
+* A Tabela PARTICIPACAO informa as competições das quais participaram os cães
 registrados na
 associação. Cada linha dessa tabela indica a colocação obtida por um cão em uma
 determinada
 competição. Suas colunas são autoexplicativas.
 
-• A Tabela ARBITRO contém os dados dos árbitros que julgam os cães que
+* A Tabela ARBITRO contém os dados dos árbitros que julgam os cães que
 participam de
 competições. Suas colunas são autoexplicativas.
 
-• Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
+* Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
 determinado
 árbitro em uma determinada competição. Suas colunas são autoexplicativas.
 
@@ -6916,7 +6916,7 @@ a) ALTER RECORD ALUNO SET nome='Jose da Silva1 WHERE cpf='512.859.850-01'
 
 b) INSERT INTO ALUNO nome='Jose da Silva' AND cpf='512.859.850-01'
 
-c) UPDATE ALUNO WHERE nome=’Jose da Silva' AND cpf='512.859.850-01'
+c) UPDATE ALUNO WHERE nome='Jose da Silva' AND cpf='512.859.850-01'
 
 d) UPDATE ALUNO SET nome='Jose da Silva' WHERE cpf='512.859.850-01'
 
@@ -7460,11 +7460,11 @@ REFERENCES ALUNO (MATRIC))
 
 Observações:
 
-• Um aluno pode cursar uma disciplina várias vezes, desde que em diferentes ANO/SEMESTRE.
+* Um aluno pode cursar uma disciplina várias vezes, desde que em diferentes ANO/SEMESTRE.
 
-• Um aluno será reprovado em uma disciplina caso sua nota seja inferior a 5,0.
+* Um aluno será reprovado em uma disciplina caso sua nota seja inferior a 5,0.
 
-• O estado corrente do banco de dados dessa universidade é mostrado a seguir.
+* O estado corrente do banco de dados dessa universidade é mostrado a seguir.
 
 Tabela ALUNO
 
@@ -7622,11 +7622,11 @@ Aula 03 (Prof. Thiago Cavalcanti)
 
 Observações:
 
-• Um aluno pode cursar uma disciplina várias vezes, desde que em diferentes ANO/SEMESTRE.
+* Um aluno pode cursar uma disciplina várias vezes, desde que em diferentes ANO/SEMESTRE.
 
-• Um aluno será reprovado em uma disciplina caso sua nota seja inferior a 5,0.
+* Um aluno será reprovado em uma disciplina caso sua nota seja inferior a 5,0.
 
-• O estado corrente do banco de dados dessa universidade é mostrado a seguir.
+* O estado corrente do banco de dados dessa universidade é mostrado a seguir.
 
 Tabela ALUNO
 
@@ -7814,11 +7814,11 @@ REFERENCES ALUNO (MATRIC))
 
 Observações:
 
-• Um aluno pode cursar uma disciplina várias vezes, desde que em diferentes ANO/SEMESTRE.
+* Um aluno pode cursar uma disciplina várias vezes, desde que em diferentes ANO/SEMESTRE.
 
-• Um aluno será reprovado em uma disciplina caso sua nota seja inferior a 5,0.
+* Um aluno será reprovado em uma disciplina caso sua nota seja inferior a 5,0.
 
-• O estado corrente do banco de dados dessa universidade é mostrado a seguir.
+* O estado corrente do banco de dados dessa universidade é mostrado a seguir.
 
 Tabela ALUNO
 
@@ -8177,23 +8177,23 @@ REFERENCES PRODUTO (COD))
 
 Observações:
 
-• A empresa comercializa produtos controlados por quantidade (por exemplo,
+* A empresa comercializa produtos controlados por quantidade (por exemplo,
 caixa de sabão em
 pó, pacote de biscoito e lata de extrato de tomate) e produtos
 controlados por unidade (por
 exemplo, televisor, máquina de lavar roupa e liquidificador).
 
-• A quantidade em estoque de um produto controlado por
+* A quantidade em estoque de um produto controlado por
 quantidade (TIPO=1) é obtida
 diretamente da coluna QTD_ESTOQUE.
 
-• A quantidade em estoque de um produto controlado por unidade (TIPO=2)
+* A quantidade em estoque de um produto controlado por unidade (TIPO=2)
 NÃO pode ser obtida
 diretamente da coluna QTD_ESTOQUE, pois, para esse tipo de produto, esta
 coluna irá conter o valor
 NULL.
 
-• Cada linha da tabela ITEM contém informações sobre um item existente no
+* Cada linha da tabela ITEM contém informações sobre um item existente no
 estoque da empresa
 relativo a um tipo de produto controlado por unidade.
 
@@ -8364,23 +8364,23 @@ REFERENCES PRODUTO (COD))
 
 Observações:
 
-• A empresa comercializa produtos controlados por quantidade (por exemplo,
+* A empresa comercializa produtos controlados por quantidade (por exemplo,
 caixa de sabão em
 pó, pacote de biscoito e lata de extrato de tomate) e produtos
 controlados por unidade (por
 exemplo, televisor, máquina de lavar roupa e liquidificador).
 
-• A quantidade em estoque de um produto controlado por
+* A quantidade em estoque de um produto controlado por
 quantidade (TIPO=1) é obtida
 diretamente da coluna QTD_ESTOQUE.
 
-• A quantidade em estoque de um produto controlado por unidade (TIPO=2)
+* A quantidade em estoque de um produto controlado por unidade (TIPO=2)
 NÃO pode ser obtida
 diretamente da coluna QTD_ESTOQUE, pois, para esse tipo de produto, esta
 coluna irá conter o valor
 NULL.
 
-• Cada linha da tabela ITEM contém informações sobre um item existente no
+* Cada linha da tabela ITEM contém informações sobre um item existente no
 estoque da empresa
 relativo a um tipo de produto controlado por unidade.
 
@@ -8578,7 +8578,7 @@ CREATE TABLE Inquilino(
 
 nome VARCHAR(20) NULL,
 
-cpf CHAR(ll) NO’T NULL
+cpf CHAR(ll) NO'T NULL
 
 PR0MARY KEY (cpf));
 
@@ -8586,7 +8586,7 @@ CRxÀ-r. E Z Zaga (
 
 andar INTEGER NOT NULL,
 
-numero _ N - “ G “ r*- NOT NULL,
+numero _ N - " G " r*- NOT NULL,
 PR1MÀRY ZTV (andar,numero));
 
 
@@ -8817,22 +8817,22 @@ FOREIGN KEY (COD ARBTR)
 
 Observações:
 
-• A Tabela CAO contém os dados dos cães inscritos na referida associação. A coluna
+* A Tabela CAO contém os dados dos cães inscritos na referida associação. A coluna
 NOME_PAI
 indica o nome do pai de um cão, a coluna RACA indica a raça do mesmo, e a coluna NOME_PROPR
 indica o nome do seu proprietário. As demais colunas são autoexplicativas.
 
-• A Tabela COMPETICAO contém informações sobre as competições patrocinadas pela
+* A Tabela COMPETICAO contém informações sobre as competições patrocinadas pela
 associação.
 Suas colunas são autoexplicativas.
 
-• A Tabela PARTICIPACAO informa as competições das quais participaram os cães
+* A Tabela PARTICIPACAO informa as competições das quais participaram os cães
 registrados na
 associação. Cada linha dessa tabela indica a colocação obtida por um cão em uma
 determinada
 competição. Suas colunas são autoexplicativas.
 
-• A Tabela ARBITRO contém os dados dos árbitros que julgam os cães que
+* A Tabela ARBITRO contém os dados dos árbitros que julgam os cães que
 participam de
 competições. Suas colunas são autoexplicativas.
 
@@ -8851,7 +8851,7 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 03 (Prof. Thiago Cavalcanti)
 
-• Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
+* Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
 determinado
 árbitro em uma determinada competição. Suas colunas são autoexplicativas.
 
@@ -8930,7 +8930,7 @@ SELECT C.NOME,SUM(NOTA_ARBTR)
 
 FROM CAO C,COMPETICAO P,AVALIACAO N
 
-WHERE P.DESCR='ABERTO DO RIO’ AND P.COD=N.COD_COMP AND
+WHERE P.DESCR='ABERTO DO RIO' AND P.COD=N.COD_COMP AND
 N.COD_CAO=C.COD
 
 GROUP BYC.NOME
@@ -9062,22 +9062,22 @@ FOREIGN KEY (COD ARBTR)
 
 Observações:
 
-• A Tabela CAO contém os dados dos cães inscritos na referida associação. A coluna
+* A Tabela CAO contém os dados dos cães inscritos na referida associação. A coluna
 NOME_PAI
 indica o nome do pai de um cão, a coluna RACA indica a raça do mesmo, e a coluna NOME_PROPR
 indica o nome do seu proprietário. As demais colunas são autoexplicativas.
 
-• A Tabela COMPETICAO contém informações sobre as competições patrocinadas pela
+* A Tabela COMPETICAO contém informações sobre as competições patrocinadas pela
 associação.
 Suas colunas são autoexplicativas.
 
-• A Tabela PARTICIPACAO informa as competições das quais participaram os cães
+* A Tabela PARTICIPACAO informa as competições das quais participaram os cães
 registrados na
 associação. Cada linha dessa tabela indica a colocação obtida por um cão em uma
 determinada
 competição. Suas colunas são autoexplicativas.
 
-• A Tabela ARBITRO contém os dados dos árbitros que julgam os cães que
+* A Tabela ARBITRO contém os dados dos árbitros que julgam os cães que
 participam de
 competições. Suas colunas são autoexplicativas.
 
@@ -9096,7 +9096,7 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 03 (Prof. Thiago Cavalcanti)
 
-• Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
+* Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
 determinado
 árbitro em uma determinada competição. Suas colunas são autoexplicativas.
 
@@ -9299,26 +9299,26 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 03 (Prof. Thiago Cavalcanti)
 
-• A Tabela CAO contém os dados dos cães inscritos na referida associação. A coluna
+* A Tabela CAO contém os dados dos cães inscritos na referida associação. A coluna
 NOME_PAI
 indica o nome do pai de um cão, a coluna RACA indica a raça do mesmo, e a coluna NOME_PROPR
 indica o nome do seu proprietário. As demais colunas são autoexplicativas.
 
-• A Tabela COMPETICAO contém informações sobre as competições patrocinadas pela
+* A Tabela COMPETICAO contém informações sobre as competições patrocinadas pela
 associação.
 Suas colunas são autoexplicativas.
 
-• A Tabela PARTICIPACAO informa as competições das quais participaram os cães
+* A Tabela PARTICIPACAO informa as competições das quais participaram os cães
 registrados na
 associação. Cada linha dessa tabela indica a colocação obtida por um cão em uma
 determinada
 competição. Suas colunas são autoexplicativas.
 
-• A Tabela ARBITRO contém os dados dos árbitros que julgam os cães que
+* A Tabela ARBITRO contém os dados dos árbitros que julgam os cães que
 participam de
 competições. Suas colunas são autoexplicativas.
 
-• Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
+* Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
 determinado
 árbitro em uma determinada competição. Suas colunas são autoexplicativas.
 
@@ -10043,7 +10043,7 @@ A CREATE TABLE encontro (
 'idpessoa_atende' INT(5) NULL,
 'data_encontro' DATE NULL,
 
-FOREIGN KEY ('idPessoa') REFERENCES 'pessoa’ ('idPessoa'),
+FOREIGN KEY ('idPessoa') REFERENCES 'pessoa' ('idPessoa'),
 FOREIGN KEY ('idlocal') REFERENCES 'local' ('idlocal'));
 
 B CREATE TABLE encontro (
@@ -10489,8 +10489,8 @@ REFERENCES COMPETICAO (COD)
 CREATE TABLE AVALIACAO (
 
 COD CAO NUMBER(5) NOT NULL,
-cod”‘COMP NUMBER(5) NOT NULL,
-cod“'arbtr NUMBER(5) NOT NULL,
+cod"'COMP NUMBER(5) NOT NULL,
+cod"'arbtr NUMBER(5) NOT NULL,
 NOTA ARBTR NUMBER(3, 1) NOT NÜLL,
 
 CONSTRAINT AVALIACAO PK PRIMARY KEY
@@ -10533,27 +10533,27 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 03 (Prof. Thiago Cavalcanti)
 
-• A Tabela CAO contém os dados dos cães inscritos na referida associação.
+* A Tabela CAO contém os dados dos cães inscritos na referida associação.
 A coluna NOME_PAI
 indica o nome do pai de um cão, a coluna RACA indica a raça do mesmo, e a coluna
 NOME_PROPR
 indica o nome do seu proprietário. As demais colunas são autoexplicativas.
 
-• A Tabela COMPETICAO contém informações sobre as competições patrocinadas
+* A Tabela COMPETICAO contém informações sobre as competições patrocinadas
 pela associação.
 Suas colunas são autoexplicativas.
 
-• A Tabela PARTICIPACAO informa as competições das quais participaram os
+* A Tabela PARTICIPACAO informa as competições das quais participaram os
 cães registrados na
 associação. Cada linha dessa tabela indica a colocação obtida por um cão em
 uma determinada
 competição. Suas colunas são autoexplicativas.
 
-• A Tabela ARBITRO contém os dados dos árbitros que julgam os
+* A Tabela ARBITRO contém os dados dos árbitros que julgam os
 cães que participam de
 competições. Suas colunas são autoexplicativas.
 
-• Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão,
+* Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão,
 por um determinado
 árbitro em uma determinada competição. Suas colunas são autoexplicativas.
 
@@ -10694,7 +10694,7 @@ b) INSERT INTO ALUNO nome='Jose da Silva' AND cpf='512.859.850-01'
 
 c) UPDATE ALUNO WHERE nome='Jose da Silva' AND cpf='512.859.850-01'
 
-d) UPDATE ALUNO SET nome='Jose da Silva' WHERE cpf='512.859.850-01’
+d) UPDATE ALUNO SET nome='Jose da Silva' WHERE cpf='512.859.850-01'
 
 e) INSERT INTO ALUNO nome='Jose da Silva' WHERE cpf='512.859.850-01'
 
@@ -11144,11 +11144,11 @@ REFERENCES ALUNO (MATRIC))
 
 Observações:
 
-• Um aluno pode cursar uma disciplina várias vezes, desde que em diferentes ANO/SEMESTRE.
+* Um aluno pode cursar uma disciplina várias vezes, desde que em diferentes ANO/SEMESTRE.
 
-• Um aluno será reprovado em uma disciplina caso sua nota seja inferior a 5,0.
+* Um aluno será reprovado em uma disciplina caso sua nota seja inferior a 5,0.
 
-• O estado corrente do banco de dados dessa universidade é mostrado a seguir.
+* O estado corrente do banco de dados dessa universidade é mostrado a seguir.
 
 Tabela ALUNO
 
@@ -11280,11 +11280,11 @@ Aula 03 (Prof. Thiago Cavalcanti)
 
 Observações:
 
-• Um aluno pode cursar uma disciplina várias vezes, desde que em diferentes ANO/SEMESTRE.
+* Um aluno pode cursar uma disciplina várias vezes, desde que em diferentes ANO/SEMESTRE.
 
-• Um aluno será reprovado em uma disciplina caso sua nota seja inferior a 5,0.
+* Um aluno será reprovado em uma disciplina caso sua nota seja inferior a 5,0.
 
-• O estado corrente do banco de dados dessa universidade é mostrado a seguir.
+* O estado corrente do banco de dados dessa universidade é mostrado a seguir.
 
 Tabela ALUNO
 
@@ -11459,11 +11459,11 @@ REFERENCES ALUNO (MATRIC))
 
 Observações:
 
-• Um aluno pode cursar uma disciplina várias vezes, desde que em diferentes ANO/SEMESTRE.
+* Um aluno pode cursar uma disciplina várias vezes, desde que em diferentes ANO/SEMESTRE.
 
-• Um aluno será reprovado em uma disciplina caso sua nota seja inferior a 5,0.
+* Um aluno será reprovado em uma disciplina caso sua nota seja inferior a 5,0.
 
-• O estado corrente do banco de dados dessa universidade é mostrado a seguir.
+* O estado corrente do banco de dados dessa universidade é mostrado a seguir.
 
 Tabela ALUNO
 
@@ -11519,7 +11519,7 @@ MATRIC COD-DISC NOME-DISC ANO SEMESTRE NOTA
 7
 
 * * ■
-• * * > Qualconsulta
+* * * > Qualconsulta
 
 exibe os nomes dos alunos que nunca foram reprovados?
 
@@ -11770,23 +11770,23 @@ REFERENCES PRODUTO (COD))
 
 Observações:
 
-• A empresa comercializa produtos controlados por quantidade (por exemplo,
+* A empresa comercializa produtos controlados por quantidade (por exemplo,
 caixa de sabão em
 pó, pacote de biscoito e lata de extrato de tomate) e produtos
 controlados por unidade (por
 exemplo, televisor, máquina de lavar roupa e liquidificador).
 
-• A quantidade em estoque de um produto controlado por
+* A quantidade em estoque de um produto controlado por
 quantidade (TIPO=1) é obtida
 diretamente da coluna QTD_ESTOQUE.
 
-• A quantidade em estoque de um produto controlado por unidade (TIPO=2)
+* A quantidade em estoque de um produto controlado por unidade (TIPO=2)
 NÃO pode ser obtida
 diretamente da coluna QTD_ESTOQUE, pois, para esse tipo de produto, esta
 coluna irá conter o valor
 NULL.
 
-• Cada linha da tabela ITEM contém informações sobre um item existente no
+* Cada linha da tabela ITEM contém informações sobre um item existente no
 estoque da empresa
 relativo a um tipo de produto controlado por unidade.
 
@@ -11911,23 +11911,23 @@ REFERENCES PRODUTO (COD))
 
 Observações:
 
-• A empresa comercializa produtos controlados por quantidade (por exemplo,
+* A empresa comercializa produtos controlados por quantidade (por exemplo,
 caixa de sabão em
 pó, pacote de biscoito e lata de extrato de tomate) e produtos
 controlados por unidade (por
 exemplo, televisor, máquina de lavar roupa e liquidificador).
 
-• A quantidade em estoque de um produto controlado por
+* A quantidade em estoque de um produto controlado por
 quantidade (TIPO=1) é obtida
 diretamente da coluna QTD_ESTOQUE.
 
-• A quantidade em estoque de um produto controlado por unidade (TIPO=2)
+* A quantidade em estoque de um produto controlado por unidade (TIPO=2)
 NÃO pode ser obtida
 diretamente da coluna QTD_ESTOQUE, pois, para esse tipo de produto, esta
 coluna irá conter o valor
 NULL.
 
-• Cada linha da tabela ITEM contém informações sobre um item existente no
+* Cada linha da tabela ITEM contém informações sobre um item existente no
 estoque da empresa
 relativo a um tipo de produto controlado por unidade.
 
@@ -12286,23 +12286,23 @@ FOREIGN KEY (COD ARBTR)
 
 Observações:
 
-• A Tabela CAO contém os dados dos cães inscritos na referida associação.
+* A Tabela CAO contém os dados dos cães inscritos na referida associação.
 A coluna NOME_PAI
 indica o nome do pai de um cão, a coluna RACA indica a raça do mesmo, e a coluna
 NOME_PROPR
 indica o nome do seu proprietário. As demais colunas são autoexplicativas.
 
-• A Tabela COMPETICAO contém informações sobre as competições patrocinadas
+* A Tabela COMPETICAO contém informações sobre as competições patrocinadas
 pela associação.
 Suas colunas são autoexplicativas.
 
-• A Tabela PARTICIPACAO informa as competições das quais participaram os
+* A Tabela PARTICIPACAO informa as competições das quais participaram os
 cães registrados na
 associação. Cada linha dessa tabela indica a colocação obtida por um cão em
 uma determinada
 competição. Suas colunas são autoexplicativas.
 
-• A Tabela ARBITRO contém os dados dos árbitros que julgam os
+* A Tabela ARBITRO contém os dados dos árbitros que julgam os
 cães que participam de
 competições. Suas colunas são autoexplicativas.
 
@@ -12321,7 +12321,7 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 03 (Prof. Thiago Cavalcanti)
 
-• Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão,
+* Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão,
 por um determinado
 árbitro em uma determinada competição. Suas colunas são autoexplicativas.
 
@@ -12521,27 +12521,27 @@ www. estrategiaconcursos. com.br
 Thiago Rodrigues Cavalcanti
 Aula 03 (Prof. Thiago Cavalcanti)
 
-• A Tabela CAO contém os dados dos cães inscritos na referida associação.
+* A Tabela CAO contém os dados dos cães inscritos na referida associação.
 A coluna NOME_PAI
 indica o nome do pai de um cão, a coluna RACA indica a raça do mesmo, e a coluna
 NOME_PROPR
 indica o nome do seu proprietário. As demais colunas são autoexplicativas.
 
-• A Tabela COMPETICAO contém informações sobre as competições patrocinadas
+* A Tabela COMPETICAO contém informações sobre as competições patrocinadas
 pela associação.
 Suas colunas são autoexplicativas.
 
-• A Tabela PARTICIPACAO informa as competições das quais participaram os
+* A Tabela PARTICIPACAO informa as competições das quais participaram os
 cães registrados na
 associação. Cada linha dessa tabela indica a colocação obtida por um cão em
 uma determinada
 competição. Suas colunas são autoexplicativas.
 
-• A Tabela ARBITRO contém os dados dos árbitros que julgam os
+* A Tabela ARBITRO contém os dados dos árbitros que julgam os
 cães que participam de
 competições. Suas colunas são autoexplicativas.
 
-• Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão,
+* Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão,
 por um determinado
 árbitro em uma determinada competição. Suas colunas são autoexplicativas.
 
@@ -12734,27 +12734,27 @@ Aula 03 (Prof. Thiago Cavalcanti)
 
 Observações:
 
-• A Tabela CAO contém os dados dos cães inscritos na referida associação.
+* A Tabela CAO contém os dados dos cães inscritos na referida associação.
 A coluna NOME_PAI
 indica o nome do pai de um cão, a coluna RACA indica a raça do mesmo, e a coluna
 NOME_PROPR
 indica o nome do seu proprietário. As demais colunas são autoexplicativas.
 
-• A Tabela COMPETICAO contém informações sobre as competições patrocinadas
+* A Tabela COMPETICAO contém informações sobre as competições patrocinadas
 pela associação.
 Suas colunas são autoexplicativas.
 
-• A Tabela PARTICIPACAO informa as competições das quais participaram os
+* A Tabela PARTICIPACAO informa as competições das quais participaram os
 cães registrados na
 associação. Cada linha dessa tabela indica a colocação obtida por um cão em
 uma determinada
 competição. Suas colunas são autoexplicativas.
 
-• A Tabela ARBITRO contém os dados dos árbitros que julgam os
+* A Tabela ARBITRO contém os dados dos árbitros que julgam os
 cães que participam de
 competições. Suas colunas são autoexplicativas.
 
-• Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão,
+* Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão,
 por um determinado
 árbitro em uma determinada competição. Suas colunas são autoexplicativas.
 

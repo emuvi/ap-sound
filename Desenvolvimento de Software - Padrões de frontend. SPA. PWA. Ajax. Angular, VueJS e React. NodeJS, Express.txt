@@ -909,7 +909,7 @@ Aula 11 (Profs. Paolla Ramos e Raphael Lacerda)
 
 <head>
 
-<script language=”3avaScri pt”>
+<script language="3avaScri pt">
 function submi tForm()
 
 {
@@ -924,23 +924,23 @@ xhr.onreadystatechange = function()
 
 {
 
-document.ajax.dyn.value=”Wait server..
+document.ajax.dyn.value="Wait server..
 if(xhr.readyState == 4)
 
 {
 
 if(xhr.status == 200)
 
-{ document.ajax.dyn.value=”Recebido:” + xhr.responseText; }
+{ document.ajax.dyn.value="Recebido:" + xhr.responseText; }
 else
 
-{ document.ajax.dyn.value=”Erro: “ + xhr.status + “ “ + xhr.statusText; }
+{ document.ajax.dyn.value="Erro: " + xhr.status + " " + xhr.statusText; }
 
 }
 
 };
 
-xhr.open(“GET”, “data.xml”, true);
+xhr.open("GET", "data.xml", true);
 xhr.send(null);
 
 }
@@ -951,10 +951,10 @@ xhr.send(null);
 
 <body>
 
-<FORM method=”POST” name=”ajax” action=””>
+<FORM method="POST" name="ajax" action="">
 
-CINPUT type = ”submi t” value=”Submi t” ONCLICK=”subrrri tForm() ”>
-CINPUT type=”text” name=”dyn” value=””>
+CINPUT type = "submi t" value="Submi t" ONCLICK="subrrri tForm() ">
+CINPUT type="text" name="dyn" value="">
 
 </FORM>
 
@@ -1156,7 +1156,7 @@ ajax.open ("POST", "PUT.PHP", true) ;
 ajax. setReques tHeader ("Content-type" f
 
 ,rapplication/x-www-f onn-urlencoded1') ;
-ajax. setReques tHeader ("Content-length” r
+ajax. setReques tHeader ("Content-length" r
 
 message.length);
 
@@ -1935,7 +1935,7 @@ de AJAX.
 
 <head>
 
-<scri pt language=”0avaScri pt”>
+<scri pt language="0avaScri pt">
 function submitForm()
 
 {
@@ -1950,24 +1950,24 @@ xhr.onreadystatechange = function()
 
 {
 
-document.ajax.dyn.value=”Wait server..
+document.ajax.dyn.value="Wait server..
 if(xhr.readyState == 4)
 
 {
 
 if(xhr.status == 200)
 
-{ document.ajax.dyn.value=”Recebido: ” + xhr.responseText; }
+{ document.ajax.dyn.value="Recebido: " + xhr.responseText; }
 else
 
-{ document.ajax.dyn.value=”Erro: “ + xhr.status + “ “
+{ document.ajax.dyn.value="Erro: " + xhr.status + " "
 + xhr.statusText; }
 
 }
 
 };
 
-xhr.open(“GET”, “data.xml”, true);
+xhr.open("GET", "data.xml", true);
 xhr.send(null);
 
 }
@@ -1991,10 +1991,10 @@ Aula 11 (Profs. Paolla Ramos e Raphael Lacerda)
 
 <body>
 
-<FORM method=”POST” name=”ajax” action=””>
+<FORM method="POST" name="ajax" action="">
 
-CINPUT type=”submit” value=”Submit” ONCLICK=”submitForm()”>
-CINPUT type=”text” name=”dyn” value=””>
+CINPUT type="submit" value="Submit" ONCLICK="submitForm()">
+CINPUT type="text" name="dyn" value="">
 
 </FORM>
 
@@ -2137,7 +2137,7 @@ ajax.open ("POST", "PUT.PHF1', true) ;
 ajax. setReques tHeader ("Content-type" f
 
 ,rapplication/x-www-f onn-urlencoded1') ;
-ajax. setReques tHeader ("Content-length” r
+ajax. setReques tHeader ("Content-length" r
 
 message.length);
 
@@ -2649,7 +2649,7 @@ count: 0
 
 }
 
-}).mount(’#app‘)
+}).mount('#app')
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
@@ -2701,17 +2701,17 @@ e adotável de forma incremental. Dependendo de cada caso de uso, o Vue pode ser
 usado de
 diferentes maneiras, dentre elas:
 
-• Aprimorando HTML estático sem uma etapa de compilação
+* Aprimorando HTML estático sem uma etapa de compilação
 
-• Incorporando como Web Components em qualquer página
+* Incorporando como Web Components em qualquer página
 
-• Aplicativos de página única (SPA)
+* Aplicativos de página única (SPA)
 
-• Renderização do lado do servidor (SSR)
+* Renderização do lado do servidor (SSR)
 
-• Geração de Site Estático (SSG)
+* Geração de Site Estático (SSG)
 
-• Segmentação de desktop, celular e WebGL
+* Segmentação de desktop, celular e WebGL
 
 Se você achou intimidante esses conceitos, fique tranquilo! Dificilmente VueJS vai cair
 na sua prova,
@@ -2777,18 +2777,18 @@ src="https://cdn.jsdelivr.net/npm/vue/dist/vue. js"x/script>
 
 <div id="app">
 
-<input type=”radio" id="A” value="A” v-model="escolhida" >
+<input type="radio" id="A" value="A" v-model="escolhida" >
 
 <label for="one">A</label>
 
 <br>
 
 <input type="radio" id="B" value="B" v-model="escolhida">
-clabel for=”B’’>B</label>
+clabel for="B''>B</label>
 
 <br>
 
-<lnput type="radio" id=*C* value="C" v-model=’’escolhida">
+<lnput type="radio" id=*C* value="C" v-model=''escolhida">
 
 <label for="C">C</label>
 
@@ -2803,7 +2803,7 @@ clabel for=”B’’>B</label>
 <script>
 
 var app ■ new Vue({
-el: ’#app’,
+el: '#app',
 
 data: {
 
@@ -4389,7 +4389,7 @@ Código HTML (versão ng-bind)
 
 <p ng-bind="firstname"x/p>
 
-Código HTML (versão "bigodes” - interpolação de strings)
+Código HTML (versão "bigodes" - interpolação de strings)
 
 <p>First name: {{firstname}}</p>
 
@@ -4405,16 +4405,16 @@ runccxon var q = \ vercicax; rtx; sv
 nitCallback: null, setupCallback: null, reloadCallt
 temLastOutCallback: null, itemVisiblelnCallback: ni
 iv>", buttonNextEvent: "click", buttonPrevEvent: "
-"load.jcarousel”, function () { m = !0 }); g.jcarot
+"load.jcarousel", function () { m = !0 }); g.jcarot
 his.buttonPrevState = this.buttonNextState = this.L
 his.options.rtl = (g(a).attr("dir") || g("html").a
 his.options.vertical ? this.options.rtl ? "right"
 
 kin") != -1) { g(a).removeClass(d[f]); b = d[f); b
 his.list.parents(".jcarousel-clip"), this.containe
-his.clip = this.container.find(".jcarousel-clip”))
+his.clip = this.container.find(".jcarousel-clip"))
 his.container = this.clip.wrap("<div></div>").parer
-lass=" ’ + b + *"></div>*); this.buttonPrev « g(".
+lass=" ' + b + *"></div>*); this.buttonPrev « g(".
 his.buttonPrev = g(this.options.buttonPrevHTML).apf
 ext", this.container); if (this.buttonNext.size()
 
@@ -4546,7 +4546,7 @@ Aula 11 (Profs. Paolla Ramos e Raphael Lacerda)
 
 selector: 'app-component',
 
-template: ’<hl>App Component</hl>' })
+template: '<hl>App Component</hl>' })
 class AppComponent {}
 
 Para aplicações web, o template contém código HTML. Podemos utilizar outras
@@ -4841,7 +4841,7 @@ Aula 11 (Profs. Paolla Ramos e Raphael Lacerda)
 
 < forno
 
-<p>Nome: <input type=”text" ng-model="nome"></p>
+<p>Nome: <input type="text" ng-model="nome"></p>
 c/fom>
 
 I
@@ -5415,7 +5415,7 @@ Item. 7. (COPERV/ UFSC ■ 2018) Considere a página web abaixo que utiliza Angu
 
 < fortn>
 
-<p>Nome: <input type=’text" ng*módel="nome"></p>
+<p>Nome: <input type='text" ng*módel="nome"></p>
 
 I
 
@@ -5836,7 +5836,7 @@ em pacotes, que são ativos estáticos que visam servir de conteúdo. Vamos dar 
 olhada na figura
 abaixo para entender melhor:
 
-T •js
+T *js
 
 
 .hbs
@@ -5845,13 +5845,13 @@ T .sass
 
 .cjs
 
-•png
+*png
 
-•jpg
+*jpg
 
-•js .css
+*js .css
 
-•jpg •png
+*jpg *png
 
 
 .sass
@@ -6310,15 +6310,15 @@ sobre TLS
 
 As principais funcionalidades do objeto WebSocket são:
 
-• new WebSocket(url) Abre o WebSocket
+* new WebSocket(url) Abre o WebSocket
 
-• ws.closeO Fecha o WebSocket
+* ws.closeO Fecha o WebSocket
 
-• ws.onmessage -> Callback de Mensagem Recebida
+* ws.onmessage -> Callback de Mensagem Recebida
 
-• ws.onopen -> Callback de canal aberto
+* ws.onopen -> Callback de canal aberto
 
-• ws.onerror Callback para quando houver erro
+* ws.onerror Callback para quando houver erro
 
 Alguns exemplos de casos de uso do WebSocket: jogos on-line de vários jogadores;
 aplicativos de
