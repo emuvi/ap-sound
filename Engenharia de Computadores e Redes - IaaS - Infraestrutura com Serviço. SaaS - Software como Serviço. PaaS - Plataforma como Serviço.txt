@@ -1,5 +1,5 @@
 Capítulo. Engenharia de Computadores e Redes - IaaS - Infraestrutura com Serviço. SaaS - Software como Serviço. PaaS - Plataforma como Serviço.
-Aula 04
+
 
 índice
 
@@ -8,12 +8,8 @@ Aula 04
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-I
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 Sumário
 
@@ -156,12 +152,11 @@ Gabarito.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
- 1
+1
 
 
 André Castro
-Aula 04
+
 
 Gabarito - Questões CESPE
 
@@ -182,12 +177,8 @@ Considerações Finais
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 CLUSTER, GRID E BALANCEAMENTo DE CARCA
 
@@ -252,12 +243,8 @@ dispositivos pessoais dos usuários que participam do Grid, mas sim os próprios
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 * As capacidades de processamento sâo diversificadas e heterogêneas. Pode-se ter
 computadores
@@ -312,10 +299,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 * Balanceamento de carga por software: Consiste na instalação e configuração
 de um Software,
@@ -348,10 +333,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 Podemos verificar a utilização do IP virtual, algo semelhante ao VRRP. No caso em
 questão, não há a
@@ -367,11 +350,11 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 www.estrategiaconcursos.com.br
 ,s"'
 
- /
+/
 
 
 André Castro
-Aula 04
+
 
 (CESPE - BACEN - Analista de Sistemas/2013) O usuário pode acessar, seus dados
 armazenados
@@ -435,7 +418,7 @@ muitas outras coisas.
 
 
 André Castro
-Aula 04
+
 
 HoSTING
 
@@ -502,12 +485,8 @@ forma objetiva:
 Item. 0.0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 FIQUE
 
@@ -560,12 +539,8 @@ cada uma delas:
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 NUVEM PRIVADA
 
@@ -638,7 +613,7 @@ T ATENÇÃO!
 
 
 André Castro
-Aula 04
+
 
 Vamos ver novamente, a definição do NIST:
 
@@ -724,12 +699,7 @@ e :
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
 
 
 Pessoal, é salutar conhecer o nome comercial
@@ -785,10 +755,8 @@ Reparem que todos os serviços acima podem ser utilizados de forma gratuita ou
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 pago. Neste último caso, são fornecidos alguns recursos adicionais que permitem
 inclusive a utilização desses
@@ -848,12 +816,8 @@ nuvem. E disponibilizado um ambiente completo de desenvolvimento para o usuário
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 operacional, linguagens de programação e bancos de dados. Toda a estrutura para
 controle de versões e
@@ -912,10 +876,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 FUNCTIoN AS A SERVICE (FAAS)
 
@@ -982,12 +944,8 @@ mercado e às necessidades dos clientes.
 0-0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 que fornece uma infraestrutura de integração para implementar e testar aplicações elaboradas
 para a nuvem, é denominado
@@ -1041,12 +999,8 @@ trabalhado ou
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 suportado pela nuvem. Na prática, será uma base de dados que precisará
 funcionar em backup, uma
@@ -1078,14 +1032,11 @@ Vamos comentar um pouco sobre cada um deles e seus desdobramentos.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 dos
 
 
 André Castro
-Aula 04
+
 
 Item. 1. Static Workload
 
@@ -1137,10 +1088,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 ww. estrategiaconcursos. com.br
 
 
-
-
 André Castro
-Aula 04
+
 
 Ou seja, percebemos, claramente, uma dinâmica periódica nesse exemplo. Podemos
 ainda pensar em
@@ -1198,12 +1147,8 @@ original.
 0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 Item. 4. Unpredictable Workload
 
@@ -1235,12 +1180,8 @@ também em dois pontos básicos:
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 TOME
 
@@ -1293,10 +1234,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 Nas seções a seguir, cada tipo de migração é definido com exemplos de quando usar cada tipo.
 
@@ -1383,10 +1322,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 Uma migração improve-and-move também exige que as equipes dominem os
 conhecimentos dos novos
@@ -1466,10 +1403,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 modernização durante a migração de modo a aprimorar o desempenho. Ou seja, temos aí um
 improve-and-move.
@@ -1522,12 +1457,8 @@ dificuldade na tradução, em português para entender as características bási
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 Item. 1. AWS
 
@@ -1582,12 +1513,8 @@ apresentados.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 QUESTõES CoMENTADAS
 
@@ -1637,10 +1564,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 Falou em GRID, temos uma gerência descentralizada. Além disso, o recurso não é
 unificado. É distribuído
@@ -1694,10 +1619,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 CoMPUTAçÃo EM NUVEM
 
@@ -1772,10 +1695,8 @@ MENSURADOS transparência ao cliente
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 Gabarito: C
 
@@ -1834,12 +1755,8 @@ recursos de forma compartilhada sob a ótica de uma arquitetura SaaS".
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 Logo, o item está incorreto por dizer que é exclusiva!
 
@@ -1897,10 +1814,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 Item. 15. (CESPE- SUFRAMA - Analista de Sistemas/2014) O modelo de implantação de
 computação em
@@ -1948,12 +1863,8 @@ Gabarito: E
 0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 Item. 18. (CESPE - ANATEL - Analista de Sistemas/2013) A DaaS (Database as a Service), uma
 das formas
@@ -2007,12 +1918,8 @@ danos aos computadores.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 Comentários;
 
@@ -2066,12 +1973,8 @@ Comentários:
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 Essas características estão presentes no laaS e não no PaaS. O PaaS já assume uma configuração de
 rede e
@@ -2136,10 +2039,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 a) Temos aqui a descrição do laaS. INCORRETO
 
@@ -2193,12 +2094,8 @@ Comentários:
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 Temos uma questão extremamente nova, com um alto grau de dificuldade que com certeza
 pegou a maioria
@@ -2231,10 +2128,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 QUESTõES CoMENTADAS CoMPLEMENTARES
 
@@ -2291,10 +2186,8 @@ pelo tempo de utilização dos recursos.
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 IV. A Computação em nuvem é uma tendência integrante da Web 2.0 de se levar todo tipo de dados de
 usuários a servidores online, tornando desnecessário o uso de dispositivos de armazenamento.
@@ -2351,12 +2244,8 @@ Gabarito: D
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 Item. 4. (FCC - CNMP/Analista de Suporte/2015) A computação em nuvem distribui os recursos
 na forma
@@ -2405,10 +2294,8 @@ O. SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação -
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 Item. 5. (FCC - INFRAERO - Analista de redes e comunicação de dados/2011) Em cloud
 computing, trata-
@@ -2469,12 +2356,8 @@ hardware, rede, entre outros elementos característicos de uma infraestrutura de
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 Alguns conceitos mais modernos trazem o PaaS restrito a uma plataforma específica,
 enquanto o DevaaS
@@ -2540,10 +2423,8 @@ Gabarito: C
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 Item. 8. (FCC - TJ TRT15/Apoio Especializado/Tecnologia da lnformação/2015) Os serviços de
 edição de
@@ -2572,12 +2453,8 @@ Gabarito: E
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 Item. 1. (CESPE - ANTT/Analista Administrativo/2013) A computação em grade difere da
 computação em
@@ -2616,12 +2493,8 @@ execução de sistemas operacionais diferentes.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 CoMPUTAçÃo EM NUVEM
 
@@ -2676,12 +2549,8 @@ ferramentas de desenvolvimento, o único modelo funcional é o de software como 
 0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 Item. 15. (CESPE- SUFRAMA - Analista de Sistemas/2014) O modelo de implantação de computação
 em
@@ -2732,12 +2601,8 @@ facilidade obtida com a instalação dessas aplicações em computadores pessoai
 0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 Item. 23. (CESPE - Policia Federal/Perito Criminal Federal/2013) O GAE (Google App Engine)
 pertence à
@@ -2797,12 +2662,8 @@ utilizado pela nuvem.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 28.(CESPE - TJDFT/Analista Judiciário - Suporte em TI/2015) A possibilidade de
 monitorar e
@@ -2821,12 +2682,8 @@ de maneira distribuída em máquinas com diferentes arquiteturas físicas.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 LISTA DE QUESTõES CoMPLEMENTARES
 
@@ -2879,10 +2736,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 a) I, II e III, apenas.
 
@@ -2932,12 +2787,8 @@ I são usados para
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 a construção de umII, que, por sua vez, é utilizado para a implementação de duas aplicações
 (III)*
@@ -3001,10 +2852,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 Item. 7. (FCC - AJ TRT15/Apoio Especializado/Tecnologia da lnformaçâo/2013)
 Luiza trabalha no
@@ -3066,12 +2915,8 @@ e) SaaS - Software as a Service.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 GABARITO
 
@@ -3137,12 +2982,8 @@ GABARITo - QUESTõES FCC
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 04
+
 
 RESUMo
 
@@ -3178,10 +3019,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 58
 
 
-
-
 André Castro
-Aula 04
+
 
 r
 
@@ -3228,10 +3067,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 ww. estrategiaconcursos. com.br
 
 
-
-
 André Castro
-Aula 04
+
 
 o Serverless - Trata-se de um conceito atualmente utilizado e muito explorado por
 startups e pequenas
@@ -3261,10 +3098,6 @@ Prof. André Castro.
 @ProfAndreCastro t.me/ProfessorAndreCastro
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-
-
-
-
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

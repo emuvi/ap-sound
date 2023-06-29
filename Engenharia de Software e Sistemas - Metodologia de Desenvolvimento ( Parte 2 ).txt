@@ -2,7 +2,7 @@ Capítulo. Engenharia de Software e Sistemas - Metodologia de Desenvolvimento ( 
 
 Concursos
 
-Aula 01 (Profs. Diego
+(Profs. Diego
 Carvalho e Fernando
 
 Pedrosa)
@@ -19,7 +19,7 @@ Diego Carvalho
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 índice
 
@@ -57,10 +57,6 @@ Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
 82
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 PRoCESSoS DE DESENVoLVIMENTo
@@ -144,10 +140,6 @@ uma funcionalidade operacional ou um produto de trabalho a cada iteração.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Já o modelo evolucionário, durante as primeiras iterações, pode gerar versões compostas
 apenas
@@ -178,10 +170,6 @@ d) Espiral e Prototipação.
 Comentários: modelos evolucionários se dividem em espiral e prototipação (Letra D).
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Item. 1.1 - Modelos em Prototipagem
@@ -233,10 +221,6 @@ para
 ajudar a antecipar as mudanças que podem ser requisitadas:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 a) No processo de engenharia de requisitos, um protótipo pode ajudar na elicitação e
@@ -312,10 +296,6 @@ sistema de protótipo.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Para reduzir os custos de prototipação e acelerar o cronograma de entrega, pode-se
 deixar alguma
@@ -385,10 +365,6 @@ passo que
 os desenvolvedores passam a desenvolver algo imediatamente.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Em outras palavras, protótipos são inviáveis de serem utilizados na maioria dos casos,
@@ -460,10 +436,6 @@ final, sendo que serão descartados
 posteriormente - trata-se de um erro comum (Correto).
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Item. 1.2 - Modelo em Espiral
@@ -603,10 +575,6 @@ restrições. Frequentemente, esse processo identifica áreas de incerteza
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 (custos excessivos, falta de recursos) e resolve ou reduz os riscos
 identificados - um protótipo pode ser construído.
@@ -661,10 +629,6 @@ original e adapta, criando sua versão, portanto vocês verão muitos nomes dife
 setor.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Cada loop é uma fase e a fase é escolhida de acordo com as necessidades do negócio!
@@ -744,10 +708,6 @@ Apresenta estimativas realistas.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Pessoal, é importante ver como esse modelo é tratado por Roger Pressman. De acordo
 com o autor,
@@ -807,10 +767,6 @@ riscos a cada loop (Errado).
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Cada loop é uma fase do processo de sofWare
 
@@ -865,10 +821,6 @@ Engenharia, Execução ou Desenvolvimento de Software
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Modelos Específicos
 
@@ -915,10 +867,6 @@ alguns detalhes
 importante...
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Métodos Formais são métodos utilizados para elaboração de sistemas computacionais
@@ -996,10 +944,6 @@ experiência necessárias para aplicação dos métodos formais, é necessário 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 (3) É difícil usar os modelos como um meio de comunicação com clientes
 tecnicamente
@@ -1068,10 +1012,6 @@ linguagens formais
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Modelo Baseado Em Componentes
 
@@ -1116,10 +1056,8 @@ especializada em produzir componentes reusáveis.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 17
 
-www. estrategiaconcursos. com. br
+
 92
-
-
 
 
 Engenheiros raramente fabricam um componente a partirdo nada. Eles baseiam seus projetos
@@ -1201,10 +1139,6 @@ são modificados para refletir os componentes disponíveis. Quando as modificaç
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 impossíveis, a atividade de análise de componentes pode ser novamente realizada para
 procurar alternativas.
@@ -1266,10 +1200,6 @@ Comentários: de fato, criam-se componentes de alta qualidade e baixo custo de p
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Modelo Orientado a Aspectos
 
@@ -1319,14 +1249,10 @@ se confusa e seu código encontra-se espalhado através do código da aplicaçã
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 separação da funcionalidade básica do sistema dessas propriedades. A Programação Orientada
 a Aspectos (POA) é uma abordagem que permite a separação dessas propriedades ortogonais2
@@ -1396,10 +1322,8 @@ entre si.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 21
 
-www. estrategiaconcursos. com. br
+
 92
-
-
 
 
 Aspectos, em geral, não são unidades de decomposição funcional do sistema, mas
@@ -1474,10 +1398,8 @@ programas mais fáceis de manter e reusar.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 22
 
-www. estrategiaconcursos. com. br
+
 92
-
-
 
 
 Ela é baseada em abstrações chamadas aspectos, que implementam funcionalidade de sistema
@@ -1512,14 +1434,10 @@ no banco de dados - isso pode ser um aspecto.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 RESUMo
 
@@ -1611,15 +1529,13 @@ cronograma, entre outros).
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 24
 
-www. estrategiaconcursos. com. br
+
 92
-
-
 
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 AVALIAR ALTERNATIVAS, IDENTIFICAR E
@@ -1691,10 +1607,8 @@ confiabilidade diante da possibilidade de perda de vidas ou sério prejuízo, ca
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 25
 
-www. estrategiaconcursos. com. br
+
 92
-
-
 
 
 ETAPAS | DESCRIÇÃO
@@ -1792,14 +1706,10 @@ procurar alternativas.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 PROJETO DE SISTEMA
@@ -1846,14 +1756,10 @@ PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - CESPE
 
@@ -1918,14 +1824,10 @@ anulada porque o conteúdo extrapolava o edital.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Anulado
 
@@ -1995,10 +1897,6 @@ Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Observem que o analista busca reduzir o risco em todas as fases do projeto, logo
 podemos eliminar
@@ -2066,10 +1964,6 @@ Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Opa... as fases e a característica de ser orientado a risco tratam do modelo em
 espiral e, não, do
@@ -2132,15 +2026,13 @@ desenvolvimento evolucionário e engenharia de software embasada em computador.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 31
 
-www. estrategiaconcursos. com. br
+
 92
-
-
 
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -2201,10 +2093,6 @@ podem ser propriedades que envolvem várias unidades funcionais, tais como: sinc
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 restrições de tempo, concorrência, distribuição de objetos, persistência, etc.
 Galera, vocês Já
@@ -2264,15 +2152,13 @@ modelagem do produto.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 33
 
-www. estrategiaconcursos. com. br
+
 92
-
-
 
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -2332,10 +2218,6 @@ se na utilização de prototipagem visual ou modelos do sistema final. Logo, pod
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 apresentado ao usuário funcionalidades por meio de protótipos visuais conforme o
 andamento do
@@ -2394,14 +2276,10 @@ planejamento diversas vezes durante o desenrolar do projeto.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -2460,10 +2338,6 @@ esforços mais na integração de partes existentes do que no seu desenvolviment
 Gabarito: Correto
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 2g.(CESPE / UNIPAMPA - 2009) No modelo de desenvolvimento prototipagem, um
@@ -2527,10 +2401,6 @@ desenvolvimento, suportando ainda a execução paralela de fases.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Comentários:
 
@@ -2584,14 +2454,10 @@ para abranger as melhores características do ciclo de vida clássico.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -2646,10 +2512,6 @@ interativa porque o teste do sistema só ocorre na versão final.
 Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 A Prototipagem é utilizada quando não se conhece bem os requisitos. É uma forma de
@@ -2709,10 +2571,6 @@ em cascata com a prototipação.
 Gabarito: Correto
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 43-(CESPE / TJDFT - 2008) Empregando o modelo de desenvolvimento em espiral, o
@@ -2776,15 +2634,13 @@ Na verdade, a alternativa mais adequada é a utilização de métodos formais.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 41
 
-www. estrategiaconcursos. com. br
+
 92
-
-
 
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Errado
 
@@ -2852,14 +2708,10 @@ evoluído ou descartado.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Correto
 
@@ -2914,10 +2766,6 @@ definição, projeto, implementação, integração e testes, operação e manut
 Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 As atividades (chamadas de fases na questão) são: Comunicação, Planejamento,
@@ -2978,15 +2826,13 @@ independentemente do projeto em consideração.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 44
 
-www. estrategiaconcursos. com. br
+
 92
-
-
 
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -3024,14 +2870,10 @@ Gabarito: Errado
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - FCC
 
@@ -3081,13 +2923,9 @@ e) Evolutivo.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -3150,10 +2988,6 @@ chamados
 modelos evolucionários, cujo objetivo é lidar com produtos que possam evoluir ao longo do
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 tempo. Assinale a alternativa que contém APENAS modelos evolucionários de desenvolvimento
@@ -3225,11 +3059,9 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 92
 
 
-
-
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 b) definição de objetivos.
 
@@ -3295,13 +3127,9 @@ e) não contemplar o projeto do produto.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -3335,13 +3163,9 @@ Gabarito: Letra D
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - FCV
 
@@ -3412,13 +3236,9 @@ a) cascata e modelo V;
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 b) prototipação e modelo espiral;
 
@@ -3483,10 +3303,6 @@ Gabarito: Letra A
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 5- (FGV / Senado Federal - 2008) Considere as seguintes assertivas sobre modelos de processos
 de software:
 
@@ -3529,8 +3345,6 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 
 92
-
-
 
 
 QUESTõES CoMENTADAS - DIVERSAS
@@ -3581,14 +3395,10 @@ sistema.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 a) Ágil.
 
@@ -3655,14 +3465,10 @@ b) incremental
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 c) cascata
 
@@ -3731,14 +3537,10 @@ um sistema inicial seja desenvolvido de maneira muito rápida baseado em especif
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra E
 
@@ -3805,10 +3607,6 @@ Gabarito: Letra D
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 7- (FADESP / IF-PA - 2019) O princípio fundamental é que, a cada ciclo, uma versão
 operacional
@@ -3871,14 +3669,10 @@ incremental (depende da versão do livro) e, não, do modelo em cascata.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra A
 
@@ -3942,10 +3736,6 @@ assinale a
 alternativa correta:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 a) O modelo em cascata é inconsistente com outros modelos de processos de engenharia,
@@ -4017,10 +3807,6 @@ haver entrega ao cliente
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 d) Modelo em Cascata: componente do sistema é entregue por fases, podendo
 acontecer
@@ -4083,10 +3869,6 @@ Gabarito: Letra A
 WAZLAWICK, R. S. Engenharia de Software: Conceitos e práticas. São Paulo: Elsevier, 2013.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Considerando o exposto e o Modelo Espiral de ciclo de vida de software, assinale a
@@ -4153,14 +3935,10 @@ a) espiral, prototipação.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 b) cascata, prototipação.
 
@@ -4226,10 +4004,6 @@ Gabarito: Letra B
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 i8.(IFB / IFB - 2017) O modelo de processo de software evolucionário que
 acopla a natureza
@@ -4290,10 +4064,8 @@ Gabarito: Letra C
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 64
 
-www. estrategiaconcursos. com. br
+
 92
-
-
 
 
 2O.(IFB / IFB - 2017) Um framework de processo de software dirigido a riscos foi
@@ -4362,14 +4134,10 @@ a) a prototipagem.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 b) um desenvolvimento sequencial.
 
@@ -4432,14 +4200,10 @@ trata do Modelo em Espiral.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra A
 
@@ -4486,10 +4250,6 @@ e publicá-las como parte da interface".
 Gabarito: Errado
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 LISTA DE QUESTõES - CESPE
@@ -4559,10 +4319,6 @@ análise e
 validação dos requisitos.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 7- (CESPE / SERPRO - 2021) No modelo formal, as etapas do desenvolvimento
@@ -4636,10 +4392,8 @@ implementada nas linguagens Java, C++, Smalltalk e Prolog.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 69
 
-www. estrategiaconcursos. com. br
+
 92
-
-
 
 
 Item. 16. (CESPE / TRT17 - 2013) O modelo espiral de modelagem de processos para
@@ -4706,10 +4460,6 @@ são
 considerados, pois podem impactar o projeto.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Item. 27. (CESPE / TRE-MT - 2010) O modelo de desenvolvimento em espiral, que tem a
@@ -4779,10 +4529,6 @@ importância, pois o software é continuamente adaptado em função dos desejos 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Item. 39. (CESPE/TJDFT-2oo8) A prototipação de um software é uma técnica de desenvolvimento
 não-
@@ -4846,10 +4592,6 @@ e o Rational Unified Process pregam o desenvolvimento iterativo.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 51.(CESPE/ BASA-2004) O modelo em espiral evolui à medida que o processo avança,
 permitindo
@@ -4898,15 +4640,13 @@ como software livre.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 73
 
-www. estrategiaconcursos. com. br
+
 92
-
-
 
 
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -4968,10 +4708,6 @@ Item. 56. CORRETO
 57- ERRADO
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 LISTA DE QUESTõES - FCC
@@ -5044,8 +4780,6 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 
 92
-
-
 
 
 a) em Espiral - Baseado em Componentes - RAD
@@ -5122,10 +4856,6 @@ está provida das atividades determinadas pelos quadrantes planejamento, avalia�
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 alternativas e riscos, desenvolvimento do software e avaliação do cliente. No ciclo de
 vida de
 desenvolvimento de software, trata-se da propriedade do modelo:
@@ -5173,11 +4903,9 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 92
 
 
-
-
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -5191,10 +4919,6 @@ Item. 8. LETRA B
 9- LETRA D
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 LISTA DE QUESTõES - FCV
@@ -5268,10 +4992,6 @@ características do Ciclo de Vida Clássico e da Prototipação e acrescenta o s
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 a) análise dos riscos.
 
 b) análise de projetos.
@@ -5310,13 +5030,9 @@ e) I, lie III.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -5332,10 +5048,6 @@ Item. 4. LETRA A
 Item. 5. LETRA E
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 LISTA DE QUESTõES - DIVERSAS
@@ -5397,10 +5109,6 @@ gerando, a
 partir da experiência do uso, versões sucessivas e cada vez mais completas.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 Diretor-Acho isso ótimo, assim já teremos uma noção do impacto que o sistema poderá
@@ -5476,8 +5184,6 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 92
 
 
-
-
 a) preditivo.
 
 b) iterativo e incremental.
@@ -5546,10 +5252,6 @@ cliente para
 explorar os requisitos e entregar o sistema final.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 d) No processo de engenharia de requisitos, a etapa de elicitação e análise dos
@@ -5622,8 +5324,6 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 
 92
-
-
 
 
 devem ser analisados na busca por iterações capazes de comprometer a proteção
@@ -5699,10 +5399,8 @@ e) V, V e V.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 86
 
-1 
+1
 92
-
-
 
 
 WAZLAWICK, R. S. Engenharia de Software: Conceitos e práticas. São Paulo: Elsevier, 2013.
@@ -5764,10 +5462,6 @@ pontos diferentes ao modelo em cascata e usa uma base da transformação matemá
 de uma especificação de sistemas em um programa executável.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 (CS-UFG / UFG -2017) É um modelo de processo geral de software que tem como
@@ -5841,10 +5535,8 @@ c) Gerenciar a qualidade e o custo do desenvolvimento.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 88
 
-1 
+1
 92
-
-
 
 
 d) Determinar objetivos, alternativas e restrições.
@@ -5918,13 +5610,9 @@ atividades de especificação, desenvolvimento e validação, denomina-se:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 a) modelo de workflow.
 
@@ -5946,11 +5634,9 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 92
 
 
-
-
 Diego Carvalho
 
-Aula 01 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -5981,10 +5667,6 @@ Item. 26. ERRADO
 9- LETRA D i8. LETRA E
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

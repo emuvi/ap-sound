@@ -2,7 +2,7 @@ Capítulo. Engenharia de Software e Sistemas - Análise e Projeto Orientado a Ob
 
 Concursos
 
-Aula 06 (Profs. Diego
+(Profs. Diego
 Carvalho e Fernando
 
 Pedrosa)
@@ -19,7 +19,7 @@ Diego Carvalho
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 índice
 
@@ -48,13 +48,9 @@ Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 PARADIGMA ORIENTADo A OBJEToS
@@ -125,9 +121,6 @@ resolver seus problemas?
 
 
 0 0 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 3
@@ -203,9 +196,6 @@ despencam em prova. Fechado?
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 4
 
 193
@@ -213,7 +203,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Classes e Objetos
@@ -248,10 +238,6 @@ mesmo que sejam instâncias de uma mesma classe e que tenham os mesmos valores d
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 O estado reflete os valores correntes dos atributos do objeto em um
 determinado momento.
 
@@ -280,9 +266,6 @@ linguagens orientada a objeto.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 6
 
 193
@@ -290,7 +273,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Atributos
@@ -336,9 +319,6 @@ instância; para ser de classe, deve vir precedida de static).
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 7
 
 193
@@ -346,7 +326,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Métodos
@@ -421,9 +401,6 @@ Late Binding
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 8
 
 193
@@ -431,7 +408,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 TIPO DE LIGAÇÃO | DESCRIÇÃO
 
@@ -451,9 +428,6 @@ de ligação é o mais comum quando utilizamos polimorfismo? Late Binding!
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 9
@@ -508,9 +482,6 @@ são executadas dentro desse objeto e uma mensagem contendo o resultado da opera
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 10
 
 193
@@ -518,7 +489,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 ao objeto solicitante. Em nosso paradigma, objetos vivem dando ordens para outros
 objetos
@@ -539,9 +510,6 @@ seus respectivos donos. Relaxem, nós veremos isso mais à frente com o conceito
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 11
 
 193
@@ -549,7 +517,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Abstração
@@ -610,9 +578,6 @@ cn
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 12
 
 193
@@ -653,9 +618,6 @@ ser declarada como abstrata!
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 13
 
 193
@@ -663,7 +625,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Interface
@@ -751,9 +713,6 @@ Contém construtores.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 14
 
 193
@@ -761,7 +720,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Em geral, são mais lentas que
@@ -807,13 +766,9 @@ especifica o que um objeto pode fazer.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Encapsulamento
@@ -884,9 +839,6 @@ UML —
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 16
 
 193
@@ -894,7 +846,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 PACOTE X X
 
@@ -918,12 +870,12 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 www.estrategiaconcursos.com.br
 / 193
 
- /
+/
 
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Polimorfismo
@@ -994,10 +946,6 @@ diferença na quantidade, tipo ou ordem dos parâmetros. O segundo é também co
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 polimorfismo por sobrescrita, polimorfismo por inclusão, polimorfismo por herança,
 polimorfismo
 porsubtipo, redefinição ou overriding.
@@ -1041,10 +989,6 @@ método, etc)
 pode ser escrito genericamente para que possa suportar valores idênticos sem depender do tipo.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 Como assim, professor? Vamos imaginar que você tenha listas de diversos tipos: você
@@ -1105,9 +1049,6 @@ evitando assim um erro de tipo. Imaginem uma variável do tipo inteiro e uma var
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 20
 
 193
@@ -1152,9 +1093,6 @@ unique to the subclasse.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 21
 
 193
@@ -1162,7 +1100,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Herança (Generalização/Especialização)
@@ -1217,9 +1155,6 @@ Quando superclasses possuem membros homônimos e a subclasse não redefine esses
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 22
@@ -1277,9 +1212,6 @@ mesmo nome pode representar muitos comportamentos diferentes.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 23
 
 193
@@ -1287,7 +1219,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Conceitos Básicos
@@ -1387,9 +1319,6 @@ A soLur
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 24
 
@@ -1477,10 +1406,6 @@ Empresa
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 MODELO DE CLASSES DE
 
@@ -1555,10 +1480,6 @@ o Design. Pessoal, a Análise apresenta quatro atividades principais:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Em 1992, Ivar Jacobson (aquele da UML) propôs uma técnica
 chamada Análise de Robustez, que propunha a categorização
@@ -1632,10 +1553,6 @@ cenários, é possível até dizer que os objetos de controle "executam" as real
 uso.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 No entanto, se as tarefas de caso de uso estiverem intrinsecamente relacionadas, alguns
@@ -1712,10 +1629,6 @@ responsabilidades.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Essa identificação e categorização implica que cada classe seja especialista em realizar
 uma tarefa
@@ -1791,10 +1704,6 @@ um novo serviço em uma camada mais baixa, não afetarão camadas inferiores.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 A arquitetura em camadas permite melhor separação de responsabilidades;
 decomposição de
@@ -1860,9 +1769,6 @@ validação de dados do usuário.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 30
 
@@ -1871,7 +1777,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 RESUMo
 
@@ -1927,9 +1833,6 @@ instância; para ser de classe, deve vir precedida de static).
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 31
 
@@ -1938,7 +1841,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 TIPO DE MÉTODO | DESCRIÇÃO
 
@@ -2007,9 +1910,6 @@ métodos.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 32
 
@@ -2053,10 +1953,6 @@ assinatura, mas comportamentos distintos.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 HERANÇA
 
@@ -2069,10 +1965,6 @@ HERANÇA SIMPLES HERANÇA MÚLTIPLA
 ENTE CtR CRIAR
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 NA ANÃLIS&, PÊ5&NHA-5É O PRO0L&MA/ NO PROJfTO, P&5fNHA-5f A SOLUÇÃO/
@@ -2167,8 +2059,6 @@ agindo como coordenador para a realização de casos de uso.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-www. estrategiaconcursos. com. br
-
 
 
 35
@@ -2178,7 +2068,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 CLASSE
@@ -2239,9 +2129,6 @@ D PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 36
 
@@ -2250,7 +2137,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - CESPE
 
@@ -2309,9 +2196,6 @@ Gabarito: Errado
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 37
 
@@ -2320,7 +2204,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Item. 4. (CESPE / Petrobrás - 2022) A POO é embasada nos conceitos de
 classe, objeto,
@@ -2379,9 +2263,6 @@ Comentários:
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 38
@@ -2448,9 +2329,6 @@ Gabarito: Letra A
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 39
 
@@ -2516,9 +2394,6 @@ acesso não sejam definidos como público.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 40
 
@@ -2527,7 +2402,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Correto
 
@@ -2589,9 +2464,6 @@ Comentários:
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 41
@@ -2659,14 +2531,11 @@ Gabarito: Letra A
 métodos que tenham a mesma assinatura, mas comportamentos distintos, ou seja, em que haja
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-www. estrategiaconcursos. com. br
-
-
 
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 alteração do funcionamento interno de um método herdado de um objeto pai. Na
 orientação a
@@ -2720,9 +2589,6 @@ Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 43
 
@@ -2768,14 +2634,10 @@ herda características de uma classe, a herança é do tipo simples.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -2840,9 +2702,6 @@ Gabarito: Errado
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 45
@@ -2909,10 +2768,6 @@ Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 'Transmitir' foi um verbo pouco adequado utilizado pelo examinador. Na verdade,
 dizer que o
@@ -2978,10 +2833,6 @@ Gabarito: Errado
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 33-(CESPE / INPI - 2013) Em uma operação de sobrecarga, uma classe derivada pode
 redefinir
@@ -3040,9 +2891,6 @@ redefinição de métodos, assim como o conceito de ligação tardia.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 48
 
@@ -3051,7 +2899,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -3105,9 +2953,6 @@ Gabarito: Correto
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 49
@@ -3167,9 +3012,6 @@ Gabarito: Correto
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 50
@@ -3239,9 +3081,6 @@ Gabarito: Errado
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 51
 
@@ -3275,10 +3114,6 @@ e) atributos, métodos, instâncias e mensagens.
 Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Os pilares derivados da abstração são: herança, polimorfismo e encapsulamento.
@@ -3335,10 +3170,6 @@ coleção de objetos semelhantes.
 Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Perfeito! Essa é a definição de uma classe: descrição generalizada de uma coleção de
@@ -3399,9 +3230,6 @@ Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 54
 
@@ -3410,7 +3238,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Perfeito! Um exemplo é a linguagem Java...
 
@@ -3464,9 +3292,6 @@ Gabarito: Correto
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 55
@@ -3530,14 +3355,10 @@ múltipla - quando há somente uma, é uma herança simples.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Correto
 
@@ -3593,9 +3414,6 @@ Comentários:
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 57
@@ -3667,10 +3485,6 @@ fronteiras, controladoras ou entidades. Uma fronteira modela interações entre 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 atores, uma entidade modela apenas objetos persistentes e uma controladora só pode
 controlar
@@ -3728,14 +3542,10 @@ Valores? Não, os valores podem ser diferentes.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Errado
 
@@ -3794,9 +3604,6 @@ Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 60
 
@@ -3822,9 +3629,6 @@ Gabarito: Errado
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 61
 
@@ -3833,7 +3637,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - FCC
 
@@ -3894,10 +3698,6 @@ seja feita por
 meio dos métodos get e set.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 c) permite que um mesmo método possa ter vários comportamentos e a definição de
@@ -3963,9 +3763,6 @@ Item. 4. (FCC / SANASA Campinas - 2019) Considere:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 63
 
 193
@@ -3973,7 +3770,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Os hidrômetros, relógios registradores de consumo de água, têm determinadas
 características. Em
@@ -4044,9 +3841,6 @@ Gabarito: Letra D
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 64
 
 193
@@ -4114,9 +3908,6 @@ b) polimorfismo, funções, métodos, Herança, cópias.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 65
@@ -4190,9 +3981,6 @@ que a subclasse é uma especialização de superclasse.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 66
 
 193
@@ -4260,9 +4048,6 @@ Item. 12. (FCC / TJ-PE - 2012) Sobre orientação a objetos, considere:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 67
 
 193
@@ -4270,7 +4055,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 I. A relação de herança permite modelar as similaridades inerentes a uma classe e
 também as
@@ -4334,9 +4119,6 @@ ele é capaz de manter através de seus atributos.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 68
 
 193
@@ -4344,7 +4126,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -4406,10 +4188,6 @@ elas podem possuir diferenças, caso contrário não faria sentido.
 Gabarito: Letra C
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 15- (FCC / TST - 2012) Considere que a classe Pessoa possui 3 métodos que podem ser
@@ -4476,9 +4254,6 @@ Gabarito: Letra C
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 70
 
 193
@@ -4486,7 +4261,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Item. 17. (FCC / TST - 2012) Na orientação a objetos:
 
@@ -4563,13 +4338,9 @@ sobrescritos e, não, sobrecarregados; (e) Errado. Não vejo relação disso com
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra A
 
@@ -4629,13 +4400,9 @@ e fornecer métodos de captura e configuração privados.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -4704,10 +4471,6 @@ Gabarito: Letra C
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 2i.(FCC / TRT-RS - 2011) O aumento da produtividade de desenvolvimento e a capacidade
 de
 compartilhar o conhecimento adquirido, representa uma vantagem no uso de
@@ -4772,9 +4535,6 @@ Comentários:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 74
 
 193
@@ -4782,7 +4542,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 (I) Correto. Comportamento por meio de métodos e Estados por meio de atributos; (II)
 Correto.
@@ -4850,9 +4610,6 @@ Comentários:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 75
 
 193
@@ -4916,9 +4673,6 @@ Comentários:
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 76
@@ -4990,9 +4744,6 @@ a) público, pacote, privado e protegido.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 77
 
 193
@@ -5000,7 +4751,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 b) público, protegido, privado e pacote.
 
@@ -5066,10 +4817,6 @@ elemento turbinado. Logo, discordo do gabarito...
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Gabarito: Letra B
 
 32.(FCC / TRT-RS - 2011) Na taxonomia utilizada para as formas de polimorfismo são,
@@ -5104,10 +4851,6 @@ acessados por outros objetos, protegendo o acesso direto aos mesmos através de 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 III. Na restrição de multiplicidade é possível determinar o número de atributos e operações
 que
 uma classe pode herdar de uma superclasse.
@@ -5140,10 +4883,6 @@ Gabarito: Letra B
 objetos. Com relação a estes conceitos, é correto afirmar que:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 a) uma classe é uma descrição de um ou mais objetos por meio de um conjunto
@@ -5207,9 +4946,6 @@ habitantes, teve um aumento de mais 2.000.000 de novos habitantes. Na associaç�
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 81
 
 193
@@ -5217,7 +4953,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 acima aos conceitos da modelagem orientada a objeto, é correto afirmar que
 São Paulo,
@@ -5276,9 +5012,6 @@ Gabarito: Letra C
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 82
@@ -5356,9 +5089,6 @@ d) o comportamento de um objeto.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 83
 
 193
@@ -5366,7 +5096,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 e) as operações de uma classe.
 
@@ -5427,13 +5157,9 @@ este é o conceito que embasa:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 a) a multiplicidade.
 
@@ -5498,13 +5224,9 @@ comportamentos (métodos ou operações).
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra B
 
@@ -5569,13 +5291,9 @@ a) void.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 b) interface.
 
@@ -5642,13 +5360,9 @@ e) I e III, apenas.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -5707,10 +5421,6 @@ Item. 52. (FCC / SEFAZ-SP - 2009) Sobre a visibilidade dos métodos na orientaç
 I. Os métodos públicos de uma classe definem a interface da classe.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 II. Os métodos privativos de uma classe não fazem parte da interface da classe.
@@ -5779,9 +5489,6 @@ a) polimorfismo.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 89
 
 193
@@ -5789,7 +5496,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 b) encapsulamento.
 
@@ -5854,13 +5561,9 @@ característica típica do polimorfismo.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra A
 
@@ -5928,9 +5631,6 @@ d) agregação.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 91
 
 193
@@ -5938,7 +5638,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 e) multiplicidade.
 
@@ -5996,13 +5696,9 @@ Gabarito: Letra E
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 a) agregação e composição.
 
@@ -6061,24 +5757,16 @@ Gabarito: Letra B
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - FCV
 
@@ -6144,9 +5832,6 @@ objetos. O SisAut possui a classe Veículo, que compartilha seu código-fonte co
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 95
@@ -6218,14 +5903,10 @@ Para representar a relação entre alunos e turma, Pedro deve utilizar:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 a) composição.
 
@@ -6291,9 +5972,6 @@ e) A implementa B.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 97
 
@@ -6302,7 +5980,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -6364,9 +6042,6 @@ simultaneamente.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 98
@@ -6435,14 +6110,10 @@ alternativa que atende ao paradigma de Orientação a Objetos.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 a) Herança; isomorfismo; multilateralidade.
 
@@ -6507,9 +6178,6 @@ derivadas de uma mesma superclasse podem invocar métodos que têm a mesma ident
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 100
 
@@ -6541,9 +6209,6 @@ Gabarito: Letra D
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 101
 
@@ -6552,7 +6217,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
@@ -6613,10 +6278,6 @@ d) subprogramação
 Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 Desses conceitos apresentados, apenas o de subprogramação não está relacionado a
@@ -6685,9 +6346,6 @@ Gabarito: Letra D
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 103
@@ -6763,9 +6421,6 @@ múltipla, julgue os itens subsequentes.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 104
 
 193
@@ -6836,9 +6491,6 @@ sua implementação.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 105
 
 193
@@ -6903,9 +6555,6 @@ classes abstratas.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 106
@@ -6977,9 +6626,6 @@ d) Representação do quanto uma classe depende de outra classe do sistema.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 107
@@ -7054,9 +6700,6 @@ Comentários:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 108
 
 193
@@ -7124,9 +6767,6 @@ Gabarito: Letra C
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 109
@@ -7201,9 +6841,6 @@ Gabarito: Letra C
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 110
 
 193
@@ -7272,9 +6909,6 @@ não é utilizada por muitas das linguagens de programação; (b) Errado, não e
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 111
 
 193
@@ -7282,7 +6916,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Errado, não há essa dependência; (d) Errado, o polimorfismo também pode ocorrer por
 overriding
@@ -7351,9 +6985,6 @@ o polimorfismo consiste em alterar alguma ação herdada de uma superclasse.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 112
 
 193
@@ -7361,7 +6992,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra A
 
@@ -7426,9 +7057,6 @@ classes, permitindo que classes compartilhem atributos e métodos.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 113
 
 193
@@ -7436,7 +7064,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Correto
 
@@ -7494,13 +7122,9 @@ possuirtodos os métodos. A palavra "devem" acabou deixando o item errado.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Errado
 
@@ -7567,13 +7191,9 @@ ser feito.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra B
 
@@ -7639,13 +7259,9 @@ tipos de uma associação, EXCETO:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 a) acoplamento.
 
@@ -7702,10 +7318,6 @@ Gabarito: Correto
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 37- (QUADRIX/CRM-PR-2oI8) Uma classe especifica a estrutura de um objeto, informando
 quais
 serão seus valores.
@@ -7760,9 +7372,6 @@ Comentários:
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 118
@@ -7832,9 +7441,6 @@ sobrescrita
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 119
 
 193
@@ -7900,9 +7506,6 @@ um software passível de erros e difícil de manter.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 120
 
 193
@@ -7910,7 +7513,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Quais estão corretas?
 
@@ -7977,13 +7580,9 @@ b) polimorfismo
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 c) classe
 
@@ -8043,10 +7642,6 @@ verdade, ela pode - sim - incorporar atributos e operações adicionais.
 Gabarito: Letra B
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 49-(IF-TO / IF-TO - 2018) Considere o cenário onde uma Classe B lega suas
@@ -8112,9 +7707,6 @@ objetos herdam todos os componentes da classe pai.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 123
 
 193
@@ -8122,7 +7714,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra A
 
@@ -8188,9 +7780,6 @@ d) minimiza o consumo de memória e CPU.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 124
 
 193
@@ -8198,7 +7787,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -8261,13 +7850,9 @@ Gabarito: Letra B
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 56.(PR-4 UFRJ / UFRJ - 2018) Com relação aos conceitos de orientação
 objeto, existe uma
@@ -8335,9 +7920,6 @@ Gabarito: Letra A
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 126
@@ -8412,9 +7994,6 @@ Comentários:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 127
 
 193
@@ -8483,9 +8062,6 @@ do... polimorfismo.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 128
 
 193
@@ -8493,7 +8069,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra E
 
@@ -8558,10 +8134,6 @@ classes
 respondem a uma mensagem chamada "calcularPotencia", sem argumentos, que calcula e
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 retorna um número real que indica potência do objeto, em watts, de acordo com os
@@ -8634,9 +8206,6 @@ Esses conceitos correspondem, respectivamente, ao que se conhece pelos nomes de:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 130
 
 193
@@ -8644,7 +8213,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 a) I - Tipo; II - Classe
 
@@ -8709,13 +8278,9 @@ podem ser visíveis ou invisíveis... agora só pode ser encapsulamento mesmo.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra D
 
@@ -8776,13 +8341,9 @@ b) Overflow é a redefinição do fluxo de uma classe, em uma de suas subclasses
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 c) Overriding é a redefinição de um método, definido em uma classe, em
 uma de suas
@@ -8843,9 +8404,6 @@ requisitada por B.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 133
@@ -8919,9 +8477,6 @@ apenas uma subclasse.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 134
 
 193
@@ -8929,7 +8484,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -8990,10 +8545,6 @@ métodos que os manipulam.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 c) Um método de um tipo de objeto referência somente as estruturas de dados desse
 tipo de
 objeto. Comparativamente, é similar às funções e procedures do universo da programação.
@@ -9027,9 +8578,6 @@ Gabarito: Letra A
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 136
 
 193
@@ -9037,7 +8585,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 LISTA DE QUESTõES - CESPE
 
@@ -9102,9 +8650,6 @@ b) polimorfismo.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 137
 
@@ -9113,7 +8658,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 c) generalização.
 
@@ -9181,9 +8726,6 @@ b) a identificação da assinatura do método corresponde ao seu nome.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 138
@@ -9253,9 +8795,6 @@ herda características de uma classe, a herança é do tipo simples.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 139
@@ -9327,9 +8866,6 @@ mesmo nome.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 140
@@ -9403,10 +8939,6 @@ métodos, envia a este uma mensagem. Algumas vezes, o objeto receptor precisa de
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 informação para que saiba exatamente o que deve fazer, de modo que essa informação
 seja
@@ -9474,9 +9006,6 @@ exemplo, mediante o agrupamento de objetos e classes.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 142
 
@@ -9543,9 +9072,6 @@ comportamentos e atributos, respectivamente.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 143
@@ -9618,10 +9144,6 @@ superiores.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Item. 78. (CESPE / TRE-AL - 2004) O polimorfismo ocorre quando uma subclasse herda
 atributos e
@@ -9641,14 +9163,10 @@ tem igual importância e impacto no projeto e na análise orientados a objetos.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -9734,10 +9252,6 @@ Item. 80. ERRADO
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 LISTA DE QUESTõES - FCC
 
@@ -9798,9 +9312,6 @@ e que o CPF é um atributo específico para a Pessoa Física e o CNPJ é um atri
 Pessoa Jurídica. Então o Analista criou uma outra classe com o atributo nome e seu objetivo é
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 que haja herança deste e, eventualmente, outros métodos e atributos, para as classes
@@ -9871,8 +9382,7 @@ c) precisam possuir corpo em interfaces e classes abstratas.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 148
@@ -9951,10 +9461,6 @@ e) II, IV eV.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Item. 10. (FCC / TRF2 - 2012) Sobre orientação a objetos é correto afirmar:
 
 a) Na hierarquia de classes, se superclasse é uma generalização de subclasses, pode-se
@@ -10017,10 +9523,6 @@ e) II, apenas.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Item. 13. (FCC / TRE-CE - 2012) Sobre orientação a objetos, é INCORRETO afirmar:
 
 a) os conceitos de generalização e especialização da orientação a objetos estão
@@ -10081,10 +9583,6 @@ distintas,
 em função dos dados associados a cada um deles. O exemplo ilustra o conceito de:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 a) hereditariedade.
@@ -10155,10 +9653,6 @@ pai. O acesso aos atributos da classe-pai independe do modificador utilizado.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 d) o conceito de herança estabelece que uma classe possa aproveitar a
 implementação,
 definições dos atributos e métodos de uma classe-base. A classe-filha pode ter
@@ -10227,8 +9721,7 @@ e fornecer métodos de captura e configuração privados.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 153
@@ -10302,9 +9795,6 @@ Na orientação a objetos é correto o que se afirma em:
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 154
@@ -10382,10 +9872,6 @@ encapsuladas nos próprios objetos e passam a designar-se:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 a) atributo.
 
 b) herança.
@@ -10450,10 +9936,6 @@ superclasse podem invocar métodos que têm a mesma assinatura mas comportamento
 distintos. Trata-se de:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 a) polimorfismo.
@@ -10524,10 +10006,6 @@ e) I e II, apenas.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 34-(FCC / DPE-SP-2010) Classes e objetos são dois conceitos-chave da programação
 orientada a
 objetos. Com relação a estes conceitos, é correto afirmar que:
@@ -10590,10 +10068,6 @@ e) classe, objeto, associação pelo método de agregação.
 Item. 37. (FCC /TRE-RS - 2010) Um objeto é, na orientação a objetos,
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 a) uma rotina de programação contida em uma classe que pode ser chamada diversas
@@ -10660,8 +10134,7 @@ c) o estado de um objeto.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 159
@@ -10740,10 +10213,6 @@ a) As classes, os métodos e as mensagens.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 b) A identidade, os atributos e as operações.
 
 c) O encapsulamento, a herança e o polimorfismo.
@@ -10815,10 +10284,6 @@ Item. 49. (FCC / PGE-RJ - 2009) Sobre orientação a objetos, considere:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 I. Os valores dos atributos são definidos no nível de classe.
 
 II. Os métodos são definidos no nível de objeto.
@@ -10886,10 +10351,6 @@ a) herança múltipla.
 b) herança polimórfica.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 c) prototipação.
@@ -10965,10 +10426,6 @@ d) visa ao aumento da coesão entre os atributos da superclasse.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 e) não é recomendada na orientação a objetos.
 
 Item. 58. (FCC / PGE-RJ - 2009) Um comando "abrir" ao provocar diferentes ações em objetos
@@ -11039,10 +10496,6 @@ c) generalização e especialização.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 d) composição e dependência.
 
 e) especialização e agregação.
@@ -11076,13 +10529,9 @@ e) especialização.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -11153,13 +10602,9 @@ Item. 22. CORRETO 44- LETRA B
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 LISTA DE QUESTõES - FCV
 
@@ -11229,9 +10674,6 @@ padronizados. Assim, os cabeçalhos devem ter cor de fundo, paleta de cores e ti
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 167
@@ -11310,9 +10752,6 @@ geral do sistema com todas as suas funcionalidades, sem entrar em detalhes espec
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 168
 
@@ -11383,14 +10822,10 @@ a) não-funcionais.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 b) de domínio.
 
@@ -11433,9 +10868,6 @@ e) gerenciamento.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 170
 
@@ -11444,7 +10876,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 06 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -11462,10 +10894,6 @@ Item. 12. LETRAC
 5- LETRA C 10. LETRA E
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
@@ -11530,9 +10958,6 @@ d) Abstração
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 172
@@ -11616,9 +11041,6 @@ múltiplas classes-base (pais) para a classe derivada (filha).
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 173
 
 193
@@ -11687,9 +11109,6 @@ Item. 11. (IF-PE / IF-PE - 2019) Sobre o uso de interfaces em orientação a obj
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 174
@@ -11770,8 +11189,7 @@ c) Uma solução reusável para um problema comum.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 175
@@ -11852,8 +11270,7 @@ verdadeiro ou "F" caso falso as assertivas a seguir.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 176
@@ -11926,9 +11343,6 @@ São eles:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 177
 
 193
@@ -11996,10 +11410,6 @@ definir
 seus próprios atributos.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 25- (QUADRIX / CRQ 4a Região-SP - 2018) Com o princípio da "herança", um objeto faz
@@ -12073,8 +11483,7 @@ e) Programação 00 e Projeto 00.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 179
@@ -12148,9 +11557,6 @@ permitindo o compartilhamento de atributos e operações idênticas.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 180
 
 193
@@ -12219,10 +11625,6 @@ acoplamento entre objetos?
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 a) Encapsulamento
 
 b) Especialização
@@ -12289,10 +11691,6 @@ comportamento de alguma entidade do mundo real.
 a) herança
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 b) polimorfismo
@@ -12365,10 +11763,6 @@ forneça algum resultado por meio da execução de uma operação.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 c) classe define as características de um conjunto de atributos que podem herdar
 dados de
 outras classes.
@@ -12435,9 +11829,6 @@ d) requer que classes sejam estendidas para a reutilização de código.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 184
@@ -12515,9 +11906,6 @@ e) a classe X é derivada de Y
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 185
 
 193
@@ -12593,8 +11981,7 @@ d) mensagem
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 186
@@ -12673,10 +12060,6 @@ fundamentais:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 l-a definição de uma estrutura, a partir da qual é possível especificar todas as
 características da
 implementação, operações e armazenamento de informações para instâncias que serão criadas
@@ -12744,10 +12127,6 @@ implicitamente definida:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 a) em atributos e análises da classe C.
 
 b) em cada um dos modelos e concepções da classe C.
@@ -12811,10 +12190,6 @@ subclasse de ClasseA.
 É correto APENAS o que se afirma em:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 a) l.
@@ -12883,10 +12258,6 @@ criados a partir dela).
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 b) Um objeto é qualquer coisa, real ou abstrata, a respeito do qual armazenamos
 dados e os
 métodos que os manipulam.
@@ -12902,10 +12273,6 @@ implementar os
 conhecimentos ou ações de uma classe não são informadas.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 GABARITo
@@ -12987,10 +12354,6 @@ Item. 76. LETRA A
 Item. 26. CORRETO 52. LETRA D
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

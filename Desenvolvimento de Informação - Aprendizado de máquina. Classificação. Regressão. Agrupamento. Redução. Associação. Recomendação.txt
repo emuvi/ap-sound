@@ -2,7 +2,7 @@ Capítulo. Desenvolvimento de Informação - Aprendizado de máquina. Classifica
 
 Concursos
 
-Aula 10 (Prof. Thiago
+(Prof. Thiago
 
 Cavalcanti)
 
@@ -17,7 +17,7 @@ Thiago Rodrigues Cavalcanti
 
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 índice
 
@@ -29,10 +29,8 @@ SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edi
 w ww. estrategiaconcursos. com.br
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Conteúdo da Aula
 2
@@ -71,14 +69,12 @@ PROFESSOR
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 3
 
-www. estrategiaconcursos. com. br
+
 40
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CoNTEÚDo DA AULA
 
@@ -151,13 +147,9 @@ conhece a média e o desvio padrão, e que a distribuição é normal, você con
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 probabilidade de qualquer observação futura. O Aprendizado Paramétrico
 Não
@@ -225,13 +217,9 @@ menos um elipsoide de 200 dimensões dobrado em um espaço de 1.000 dimensões.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 *-- *
 
@@ -306,13 +294,9 @@ número de dimensões.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Antes de apresentarmos alguns algoritmos específicos de redução de
 dimensionalidade,
@@ -374,40 +358,36 @@ coordenadas das projeções no plano).
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
-■H- ♦
+■H- *
 
-♦
+*
 
 ►
 
-♦
+*
 
-♦
+*
 
-♦
+*
 
-♦
+*
 
-♦
+*
 
 +
 
-♦ ♦
+* *
 
 á Fb
 
 ►
 
-♦ ♦
+* *
 
 —
 
@@ -437,13 +417,9 @@ da figura a seguir.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Xi Zi
 
@@ -497,13 +473,9 @@ decisão parece muito simples no espaço 3D original (um plano vertical), mas pa
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 complexo no manifold desenrolado (uma coleção de quatro segmentos
 de linha
@@ -533,13 +505,9 @@ PCA - Principal component analysis
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Análise de Componentes Principais (PCA)é de longe o algoritmo
 de redução de
@@ -602,13 +570,9 @@ dimensão superior, o PCA também encontraria um terceiro eixo, ortogonal aos do
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 anteriores, e um quarto, um quinto e assim por diante - tantos eixos
 quanto forem o número
@@ -674,13 +638,9 @@ conjunto de dados 3D é projetado no plano 2D definido pelos dois primeiros comp
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 principais, preservando grande parte da variação do conjunto de dados.
 Como resultado,
@@ -745,13 +705,9 @@ do conjunto de dados 3D representados na Figura 16:
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 >>> pca.explained_variance_ratio_
 array([0.84248607, 0.14631839])
@@ -809,13 +765,9 @@ variância explicada.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Figura 7 -Variação explicada em função do número de dimensões
 
@@ -846,13 +798,9 @@ uma representação dimensional inferior dos dados.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * Autoencoders: usa uma rede neural para compactar dados de forma não linear
 com perda mínima de informações
@@ -911,13 +859,9 @@ dos objetos pertencentes a outros clusters.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Agrupamento baseado em distância .
 
@@ -948,14 +892,12 @@ Na imagem acima, como sabemos qual é a melhor solução de clustering?
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 17
 
-www. estrategiaconcursos. com. br
+
 40
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Para encontrar uma solução de clusterização específica, precisamos definir as
 medidas de
@@ -1001,13 +943,9 @@ aconselhável normalizar os dados extraídos de várias distribuições.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Algoritmos de agrupamento
 
@@ -1043,13 +981,9 @@ Vamos falar sobre quatro dos algoritmos de clustering mais usados:
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * K-médias
 
@@ -1121,13 +1055,9 @@ centros.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * Atribua o ponto de dados ao centro do cluster cuja distância do centro do clusterseja a mínima
 de todos os centros do cluster.
@@ -1183,13 +1113,9 @@ médias?
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Infelizmente, não existe uma solução teórica geral para encontrar o número ótimo de
 clusters para
@@ -1236,13 +1162,9 @@ usuário seja alcançado (a iteração pode ficar presa em alguns máximos ou m�
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Para uma melhor compreensão, podemos considerar este simples exemplo monodimensional. Dado
 um determinado conjunto de dados, suponha que o represente como distribuído em um
@@ -1275,13 +1197,9 @@ dados.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 AGRUPAMENTo HIERÁRQUICo.
 
@@ -1324,13 +1242,9 @@ distribuições.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Um modelo de mistura com alta probabilidade tende a ter as seguintes características:
 
@@ -1383,13 +1297,9 @@ pontos
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 de dados. Os últimos são então rotulados como parte do cluster que é identificado
 pelo centróide
@@ -1440,13 +1350,9 @@ fc=l
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Agora, como determinamos os valores ideais para esses parâmetros? Para conseguir isso,
 devemos
@@ -1505,13 +1411,9 @@ Da mesma forma, podemos afirmar o seguinte:
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O que significa que a probabilidade geral de se observar um ponto que vem da
 Gaussiana k é na
@@ -1574,13 +1476,9 @@ fc=l k=l
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Esta é a equação que define uma Mistura Gaussiana, e você pode ver claramente que
 ela depende
@@ -1641,13 +1539,9 @@ fl~fc-A/~(xn|pfc, Sfc)
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 E é isso que estamos procurando! Resumindo um modelo de mistura é uma
 mistura de k
@@ -1720,13 +1614,9 @@ nova estimativa dos parâmetros do seu modelo.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 PRoBLEMAS ASSoCIADoS E APLICAçõES PoSSÍVEIS Ao AGRUPAMENTo
 
@@ -1793,13 +1683,9 @@ do tempo para identificar relacionamentos. Ao invés disto, uma lista de itens c
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 exclusivos (de todos os usuários) são estudadas como um grupo. Isso é útil na colocação
 de produtos
@@ -1871,13 +1757,9 @@ Item. 2. Confiança
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Esta medida define a probabilidade de ocorrência de consequentes no carrinho dado que
 o carrinho
@@ -1944,13 +1826,9 @@ condicional de ocorrência de {Y} dado {X}. Lift é um termo muito literal dado 
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 nisso como o *elevador* que {X} fornece à nossa confiança por termos {Y}
 no carrinho. Para
@@ -2030,13 +1908,9 @@ itens frequentes e não todos para verificar o número total de conjuntos de ite
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Os conjuntos de itens frequentes são aqueles que ocorrem pelo menos um número mínimo
 de vezes
@@ -2089,13 +1963,9 @@ Essa metodologia é chamada de algoritmo a priori. As etapas envolvidas são:
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Gere todos os conjuntos de itens frequentes (suporte > minsup) com apenas um item. Em
 seguida,
@@ -2145,13 +2015,9 @@ antimonótona do suporte, a confiança das regras geradas a partir do mesmo conj
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 também segue uma propriedade antimonótona. É antimonótono em relação ao número
 de
@@ -2201,13 +2067,9 @@ consequente. Remova as regras que não satisfazem a condição minconf. Agora, c
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 regras usando uma combinação de consequentes das restantes. Continue repetindo até que
 reste
@@ -2283,13 +2145,9 @@ itens frequentes máximos. No entanto, as informações sobre o suporte dos subc
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 10 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 perdidas. Se esse valor for necessário, o conjunto de itens frequentes fechado é outra
 maneira de
@@ -2328,10 +2186,8 @@ PROFESSOR
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 39
 
-www. estrategiaconcursos. com. br
+
 40
-
-
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

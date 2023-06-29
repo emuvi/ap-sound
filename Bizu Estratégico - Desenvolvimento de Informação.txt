@@ -1,176 +1,52 @@
 Capítulo. Bizu Estratégico - Desenvolvimento de Informação.
 
-SERPRO (Analista - Especialização:
-Tecnologia) Bizu Estratégico - 2023
-
-(Pós-Edital)
-
-Autor:
-Elizabeth Menezes de Pinho Alves,
-Leonardo Mathias, Paulo Júnior,
-Aline Calado Fernandes
-
-
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
-
-Bizu ESTRATÉGICo DE BANCo DE DADoS
-
-SERPRO
+Bizu Estratégico De Banco De Dados
 
 Olá, prezado aluno. Tudo certo?
 
-Neste material, traremos uma seleção de bizus da disciplina de Banco de Dados para o
-concurso do SERPRO.
+Neste material, traremos uma seleção de bizus da disciplina de Banco de Dados para o concurso do SERPRO.
 
-O objetivo é proporcionar uma revisão rápida e de alta qualidade aos alunos por meio
-de tópicos que possuem as maiores chances de incidência em prova.
+O objetivo é proporcionar uma revisão rápida e de alta qualidade aos alunos por meio de tópicos que possuem as maiores chances de incidência em prova.
 
-Todos os bizus destinam-se a alunos que já estejam na fase bem final de revisão (que já
-estudaram bastante o conteúdo teórico da disciplina e, nos últimos dias, precisam revisar por
-algum material bem curto e objetivo).
+Todos os bizus destinam-se a alunos que já estejam na fase bem final de revisão (que já estudaram bastante o conteúdo teórico da disciplina e, nos últimos dias, precisam revisar por algum material bem curto e objetivo).
 
-@prof!eomathias
-
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
-
-
-
-
-
-
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
 
 ANÁLISE ESTATÍSTICA
 
-Pessoal, segue abaixo uma análise estatística dos assuntos mais exigidos pela banca
-CEBRASPE no âmbito da disciplina de Banco de Dados, além de cadernos com questões
-focadas na banca:
+Pessoal, segue abaixo uma análise estatística dos assuntos mais exigidos pela banca CEBRASPE no âmbito da disciplina de Banco de Dados, além de cadernos com questões focadas na banca:
 
+Assunto. Banco de dados. (Introdução). Incidência. 7,50%
 
-Banco de Dados
+Assunto. Modelagem de banco de dados: físico, lógico e conceitual. (Modelo Conceitual). Incidência. 1,25%
 
-Aula Assuntos
+Assunto. Modelagem de banco de dados: físico, lógico e conceitual. (Modelo Relacional). Incidência. 32,50%
 
-0 1 Banco de dados. (Introdução)
+Assunto. Álgebra relacional, SQL/ANSI e linguagens procedurais embarcadas. Incidência. 22,50%
 
-1 1.2 Modelagem de banco de dados: físico, lógico e conceituai.
+Assunto. Arquitetura de banco de dados: relacional ( Oracle ). Incidência. 5,00%
 
-(Modelo Conceituai)
+Assunto. Arquitetura de banco de dados: relacional ( SqlServer). Incidência. 0,00%
 
-2 1.2 Modelagem de banco de dados: físico, lógico e conceituai.
+Assunto. Arquitetura de banco de dados: relacional ( PostgreSQL ). Incidência. 7,50%
 
-(Modelo Relacional)
+Assunto. Ciência de dados. Big Data. Incidência. 16,25%
 
-3 1.3 Álgebra relacional, SQL/ANSI e linguagens procedurais
+Assunto. Processamento de Dados. Conceitos de processamento massivo e paralelo. Processamento em lote (batch). Processamento em tempo real (real time). Processamento MapReduce. Incidência. 3,75%
 
-embarcadas.
+Assunto. Aprendizado de máquina. (Aprendizado Supervisionado). Incidência. 3,75%
 
-4 1.11 Arquitetura de banco de dados: relacional ( Oracle)
+Assunto. Aprendizado de máquina. (Aprendizado NÃO Supervisionado). Incidência. 0,00%
 
-5 1.1 Arquitetura de banco de dados: relacional ( SqlServer)
+Assunto. Visão computacional. Deep learning. Incidência. 0,00%
 
-6 1.1 Arquitetura de banco de dados: relacional (PostgreSQL)
+Assunto. Processamento de linguagem natural (PLN). Incidência. 0,00%
 
-7 2 Ciência de dados. 2.1 Big Data.
+Assunto. Linguagem R. Incidência. 0,00%
 
-Item. 2.3 Processamento de Dados. 2.3.1 Conceitos de processamento
+Assunto. Análise de dados (Pandas, NumPy). Incidência. 0,00%
 
-8 massivo e paralelo. 2.3.2 Processamento em lote (batch). 2.3.3
-Processamento em tempo real (real time). 2.3.4 Processamento
 
-MapReduce.
-
-9 1.2 Aprendizado de máquina. (Aprendizado Supervisionado)
-
-10 1.2 Aprendizado de máquina. (Aprendizado NÃO Supervisionado)
-
-11 1.4 Visão computacional. 1.5 Deep learning.
-
-12 1.3 Processamento de linguagem natural (PLN).
-
-13 Linguagem R
-
-14 1.1 Análise de dados (Pandas, NumPy).
-
-Incidência
-Analista
-7,50%
-
-1,25%
-
-32,50%
-
-22,50%
-
-5,00%
-
-0,00%
-
-7,50%
-
-16,25%
-
-3,75%
-
-3,75%
-
-0,00%
-
-0,00%
-
-0,00%
-
-0,00%
-
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
-
-
-
-
-
-
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
-
-Banco de Dados - SERPRO
-
-Assunto Bizu Caderno de Questões
-
-Banco de Dados 1 http://questo.es/ilw90x
-
-
-Modelagem de Banco de Dados: Físico, Lógico e
-Conceituai (Modelo Relacional)
-
-2 http://questo.es/kmz49n
-
-
-Álgebra Relacional, SQL/ANSI e linguagens
-procedurais embarcadas
-
-3 http://questo.es/1 acnpx
-
-Ciência de Dados. Big Data. 4 http://questo.es/0h9395
-
-
-Arquitetura de Banco de Dados: Relacional
-(PostgreSQL)
-
-5 http://questo.es/esvq71
-
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
-
-
-
-
-
-
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
-
-Banco de Dados
+Tópico. Banco de Dados.
 
 Item. 1. BANCOS DE DADOS
 
@@ -190,8 +66,7 @@ exemplo documentos, textos, imagens e vídeos.
 previamente projetada, ou sejam, existe um esquema que descreve as características
 dos dados que serão armazenados .
 
-* Semiestruturados: apresentam uma organização bastante heterogênea , por exemplo
-oXML.
+* Semiestruturados: apresentam uma organização bastante heterogênea , por exemplo o XML.
 
 
 ESCLARECENDO!
@@ -204,318 +79,91 @@ garante a sincronização entre as diversas representações.
 
 Redundância não controlada: Acontece quando a responsabilidade
 pela manutenção da sincronia entre as diversas representações de uma informação
-está
-com o usuário e não com o software.
+está com o usuário e não com o software.
 
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
-
-
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-Aula 10
 
 Sistema de Gerenciamento de Banco de Dados (SGBD) para atuar como um guardião do
-banco de
-dados, que substituiu a abordagem de arquivos. Vejamos uma figura para
-esclarecer esses
-contextos:
+banco de dados, que substituiu a abordagem de arquivos. Vejamos uma figura para
+esclarecer esses contextos:
 
-Sistema de arquivos Sistema de Banco de Dados
+Sistema de arquivos.
 
-Figuro 1 - Sistemas de arquivos e sistema de banco de dados
-
-Banco tem diversas definições possíveis no dicionário da língua portuguesa.
-Dentre elas a que
-melhor se encaixa no nosso contexto é um conjunto organizado e categorizado
-de objetos, por
-exemplo, podemos ter um banco de fotografias ou um banco de leite.
-
-Dados são fatos conhecidos que podem ser registrados e possuem um significado
-implícito. Esse
-conceito, porém, é um pouco amplo e abstrato para nosso intuito. Quando
-reduzimos o escopo à
-tecnologia da informação, temos um conceito mais adequado para dado. Ele é a
-representação física
-de um evento no tempo e espaço que não agrega fundamento ou significado para quem o
-sente ou
-recebe. É, basicamente, um registro!
-
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
+Sistema de Banco de Dados.
 
 
+Banco tem diversas definições possíveis no dicionário da língua portuguesa. Dentre elas a que melhor se encaixa no nosso contexto é um conjunto organizado e categorizado de objetos, por exemplo, podemos ter um banco de fotografias ou um banco de leite.
+
+Dados são fatos conhecidos que podem ser registrados e possuem um significado implícito. Esse conceito, porém, é um pouco amplo e abstrato para nosso intuito. Quando reduzimos o escopo à tecnologia da informação, temos um conceito mais adequado para dado. Ele é a representação física de um evento no tempo e espaço que não agrega fundamento ou significado para quem o sente ou recebe. É, basicamente, um registro!
 
 
-
-
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-Aula 10
-
-MINTO! O banco de dados, por si só, pode ser considerado
-como o equivalente
+MINTO! O banco de dados, por si só, pode ser considerado como o equivalente
 eletrônico de um armário de arquivamento; ou seja, ele é um repositório ou
-recipiente para uma coleção de arquivos de dados computadorizados. - C J
-Date
+recipiente para uma coleção de arquivos de dados computadorizados.
 
 Banco de dados é um conjunto de dados integrados que tem por objetivo
-atender a uma
-comunidade de usuários - Carlos Heuser.
+atender a uma comunidade de usuários - Carlos Heuser.
 
 Banco de dados é um conjunto de dados estruturados que são confiáveis,
-coerentes e
-compartilhados por usuários que têm necessidades de informações
-diferentes. -
-Sílberchatz
+coerentes e compartilhados por usuários que têm necessidades de informações
+diferentes. - Sílberchatz
 
-Acho que você já entendeu o conceito de banco de dados! Na lista acima, você conheceu
-todas as definições que podem aparecer na sua prova.:)
+Acho que você já entendeu o conceito de banco de dados! Na lista acima, você conheceu todas as definições que podem aparecer na sua prova.:)
 
-Item. 2. Modelo Relacional
+Item. 2. Modelo Relacional.
 
-* O modelo relacional retrata os dados como sendo armazenados em tabelas retangulares
-bidimensionais, chamadas de relações.
-
-Bruno Braga 305.610.243-51 (17)3783-1616 Rua das
-Paineiras. 2918 NULL 19 3,21
-
-Carlos Kim 381.620.124-45 (17)3785-4409 Rua das
-Goiabeiras. 125 NULL 18 2,89
-
-Tuplas^H ► Daniel Davidson 422.111.232-70 NULL
-Avenida da Paz, 3452 (17)4749-1253 25
-3,53
-
-Roberta Passos 489.220.110-08 (17)3476-9821 Rua da
-Consolação, 265 (17)3749-6492 28 3,93
-
-* Barbara Benson 533.690.123-80 (17)3239-8461 Rua
-Jardim, 7384 NULL 19 3,25
+* O modelo relacional retrata os dados como sendo armazenados em tabelas retangulares bidimensionais, chamadas de relações.
 
 Cada linha de uma tabela é conhecida como uma tupla, ou uma coleção de valores
 relacionados. Cada coluna é vista como um atributo, cujo valor pertence um
 determinado conjunto de valores possíveis: o domínio.
 
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
+
+Álgebra Relacional.
+
+* É uma coleção de operações de alto nível sobre relações ou conjuntos cujo resultado é uma nova relação ou conjunto.
 
 
+OPERAÇÃO. SELEÇÃO. É COMUTATIVA. RELAÇÃO UNÁRIA. FINALIDADE. Seleciona todas as linhas que satisfazem a condição de seleção de uma Tabela T 1.
 
 
+OPERAÇÃO. PROJEÇÃO. NÃO É COMUTATIVA. RELAÇÃO UNÁRIA. FINALIDADE. Produz uma nova tabela com apenas algumas das colunas de uma tabela T 1 e remove linhas duplicadas.
 
 
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
-
-Álgebra Relacional
-
-* É uma coleção de operações de alto nível sobre relações ou conjuntos cujo resultado é
-uma nova relação ou conjunto.
-
-OPERAÇÃO I SÍMBOLO I I COMUTATIVA 1 I UNÃRIA/BINÃRIA I |
-FINALIDADE 1
-
-SELEÇÃO a(Ti) SIM UNÃRIA Seleciona todas as linhas
-que satisfazem a condição de seleção de uma
-
-Tabela Ti.
-
-PROJEÇÃO n(Ti) NÃO UNÁRIA Produz uma nova tabela com
-apenas algumas das colunas de uma tabela
-
-Ti e remove linhas duplicadas.
+OPERAÇÃO. PRODUTO CARTESIANO. É COMUTATIVA. RELAÇÃO BINÁRIA. FINALIDADE. Produz uma nova tabela com todas as combinações possíveis de linhas de duas tabelas T 1 e T 2.
 
 
-PRODUTO
-CARTESIANO
-
-TIXT2
-
-SIM BINÁRIA Produz uma nova tabela com todas as combinações possíveis
-de linhas
-de duas tabelas Ti e T₂.
+OPERAÇÃO. JUNÇÃO. É COMUTATIVA. RELAÇÃO BINÁRIA. FINALIDADE. Produz uma nova tabela com todas as combinações possíveis de linhas de duas tabelas T 1 e T 2 que satisfazem uma condição de seleção.
 
 
-JUNÇÃO W
-
-SIM BINÁRIA Produz uma nova tabela com todas as combinações possíveis
-de linhas
-
-; de duas tabelas T1 e T que satisfazem uma
-condição de seleção.
-
-UNIÃO TiUTj SIM BINÁRIA Produz uma nova tabela que
-inclui todas as linhas das Tabela Ti e T2,
-
-eliminando as duplicatas - as tabelas devem ser união-compatíveis.
+OPERAÇÃO. UNIÃO. É COMUTATIVA. RELAÇÃO BINÁRIA. FINALIDADE. Produz uma nova tabela que inclui todas as linhas das Tabela T 1 e T 2, eliminando as duplicatas - as tabelas devem ser união-compatíveis.
 
 
-INTERSECÇÃO T,nT₂
+OPERAÇÃO. INTERSECÇÃO. É COMUTATIVA. RELAÇÃO BINÁRIA. FINALIDADE. Produz uma tabela aue inclui todas as linhas em comum das Tabela T 1 e T 2 - as tabelas devem ser união-compatíveis.
 
-SIM BINARIA Produz uma tabela aue inclui todas as linhas em comum das Tabela
-T1 e
-T₂- as tabelas devem ser união-compatíveis.
+OPERAÇÃO. DIFERENÇA. NÃO É COMUTATIVA. RELAÇÃO BINÁRIA. FINALIDADE. Produz uma tabela que inclui todas as linhas de uma Tabela T 1 que não estão na Tabela T 2 - as tabelas devem ser união compatíveis.
 
-DIFERENÇA T1-T2 NÃO BINÁRIA Produz uma tabela que inclui
-todas as linhas de uma Tabela Ti que não
-
-estão na Tabela T₂ - as tabelas devem ser união compatíveis.
-
-TABELA COM O RESUMO DAS OPERAÇÕES DA ÁLGEBRA RELACIONAL
-
-OPERAÇÃO FINALIDADE
-NOTAÇÃO
-
-i sequer R.*
-
-Produz uma reliiçâo que inclui todas as tupi; as em R, ou R2 ou tanto R. quanto R2; R1 e R2
-R.UR,
-
-
-INTERSECÇÃO
-
-içâo que ndui todas as tupi; R, e R, precisam ser
-compatíveis na <
-
-R. nfl.
-
-
-DIFERENçA Produz uma releição que inclui todas as tupi;
-
-impativeis ria ixiião.
-
-ie não estão em R2; R, e R2 R, -R
-
-
-PRODUTO CARTESIANO
-
-Produz uma reliiçáo que tem os atributos d«jR.eR^ei idui como tuplas todas as
-inações de t uplas de R, e R.
-
-Rt XR2
-
-
-DIVISÃO Produz uma rd-
-
-> com toda tupla de RdY). or
-
-* tudas flXl em R,(Z) que aparecem em R,
-
-R, (2) R₂(V)
-
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
-
-
-
-
-
-
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
 
 Views
 
-* É um subconjunto de um banco de dados. Permite que se visualize apenas parte dos
-dados de uma tabela. A view não necessariamente existe em forma física, sendo muitas
-vezes uma tabela virtual.
+* É um subconjunto de um banco de dados. Permite que se visualize apenas parte dos dados de uma tabela. A view não necessariamente existe em forma física, sendo muitas vezes uma tabela virtual.
 
 índices
 
-* É um mecanismo utilizado para melhorar a velocidade de acesso aos dados. O excesso
-de índices pode prejudicar o desempenho.
+* É um mecanismo utilizado para melhorar a velocidade de acesso aos dados. O excesso de índices pode prejudicar o desempenho.
 
 Chaves
 
-* Superchave: conjunto de um ou mais atributos que permite identificar uma tupla de
-forma exclusiva.
+* Superchave: conjunto de um ou mais atributos que permite identificar uma tupla de forma exclusiva.
 
-* Chave primária: é uma superchave mínima escolhida para identificar uma linha da
-tabela.
+* Chave primária: é uma superchave mínima escolhida para identificar uma linha da tabela.
 
-* Chave candidata: Superchaves de tamanho mínimo, candidatas a serem possíveis chaves
-primárias de uma tabela.
+* Chave candidata: Superchaves de tamanho mínimo, candidatas a serem possíveis chaves primárias de uma tabela.
 
 * Chave estrangeira: chave primária de um outra relação.
 
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
+Operadores de conjuntos tradicionais.
 
-
-
-
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
-
-
-e®/
-
-RESUMINDO
-
-Figura 3 - Metadados, catalogo de dados ou dicionários de dados
-
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
-
-
-
-
-
-
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
-
-Visão
-
-Definição Pode ser atualizável.
-
-
-* * * * -—k
-
-Facilitara Sumarizar
-
-*
-
-Visões
-
-
-Uma tabela
-virtual
-
-visualização
-dos dados
-dispersos
-
-Segurança
-dos dados
-
-dados de
-diferentes
-tabelas
-
-Se for
-simples
-
-complexas
-não são
-atualizavéis.
-
-L J L J
-
-F/garo I - Cance/toí de ^isõo.
-
-Figura 2 - Conceitos de índices
-
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
-
-
-
-
-
-
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
-
-Operadores de conjuntos tradicionais
 
 * União, Interseção, Diferença e Produto cartesiano
 
@@ -523,12 +171,14 @@ Operadores de conjuntos tradicionais
 o fato de que seus operandos são, especificamente,
 relações e não conjuntos arbitrários.
 
-Operadores relacionais especiais
+Operadores relacionais especiais.
 
 * De restrição (também conhecido como seleção),
 projeção, junção e divisão.
 
-Primeira forma normal
+
+Primeira forma normal.
+
 
 * Uma relação R existe na primeira forma normal (1FN) se, e somente se, todos
 os domínios subjacentes contiverem apenas valores atômicos.
@@ -545,304 +195,146 @@ atributo em uma tupla deve ser um único valor do domínio desse atributo.
 relações contêm vários atributos em uma única coluna e não são permitidas
 no modelo relacional.
 
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
+
+Resumindo as Formas Normais.
 
 
+O que é necessário na primeira forma normal dos bancos de dados?
+Eliminar atributos não atómicos.
 
+O que é necessário na segunda forma normal dos bancos de dados?
+Eliminar dependências funcionais não plenas.
 
+O que é necessário na terceira forma normal dos bancos de dados?
+Eliminar dependências transitivas.
 
+O que é necessário na forma normal FNBC dos bancos de dados?
+Eliminar dependência funcional cujo determinante não é chave candidata.
 
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
+O que é necessário na quarta forma normal dos bancos de dados?
+Eliminar dependência multi valorada.
 
-Eliminar atributos não atómicos
+O que é necessário na quinta forma normal dos bancos de dados?
+Encontrar e eliminar a dependência de junção.
 
-1- Forma Normal
-
-Eliminar dependências funcionais não plenas
-
-2- Forma Normal
-
-Eliminar dependências transitivas
-
-3- Forma Normal
-
-Eliminar dependência mui ti valorada
-
-4- Forma Normal
-
-Encontrar e eliminara dependência de junção
-
-5a Forma Normal
-
-Figura 1 - Resumo das formas normais
 
 Item. 3. Álgebra Relacional, SQL/ANSI e linguagens procedurais embarcadas
 
 Pontos Importantes
 
-Primeiramente, SQL é uma linguagem de programação reconhecida internacionalmente
-e usada
-para definição e manutenção de bancos de dados relacionais. A
-principal característica da
-linguagem é ser declarativa1, ou seja, os detalhes de implementação dos
-comandos são deixados
-para os SGBDs relacionais. Não esqueça disso! Já caiu várias vezes em provas
-anteriores. No SQL
-você declara o que você quer e o SGBD vai achar os dados para você no banco, caso
-existam é
-claro.
+Primeiramente, SQL é uma linguagem de programação reconhecida internacionalmente e usada para definição e manutenção de bancos de dados relacionais. A principal característica da linguagem é ser declarativa1, ou seja, os detalhes de implementação dos comandos são deixados para os SGBDs relacionais. Não esqueça disso! Já caiu várias vezes em provas anteriores. No SQL você declara o que você quer e o SGBD vai achar os dados para você no banco, caso existam é claro.
 
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
 
+* DDL- Data Definition Language - A linguagem de definição de dados contém comandos que criam, modificam e excluem objetos de banco de dados. São exemplos de comando: CREATE, ALTER, DROP e TRUNCATE.
 
+* DML - Data Manipulation Language - A linguagem de manipulação de dados fornece instruções para trabalhar com os dados armazenados como SELECT, INSERT, UPDATE, DELETE e MERGE.
 
+* DQL - Data Query Language-A linguagem de consulta de dados é um subconjunto da DML que possui apenas a instrução de SELECT.
 
+* DTL- Data Transaction Language - Linguagem de transação de dados inclui comandos de COMMIT, ROLLBACK e SAVEPOINT
 
+* DCL - Data Control Language - A linguagem de controle de dados contém os comandos relacionados com as permissões de controle de acesso. Garante os privilégios aos usuários para acessar os objetos do banco. Os mais conhecidos comandos são o GRANT e o REVOKE.
 
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
 
-ri
+Linguagens de Banco de Dados.
 
-Comando
 
+PL/SQL - Encontrado em SGBDs Orade. PL/SQ.L, que é a sigla para Procedural Language/SQL, contém muitas semelhanças com a linguagem de programação geral.
 
-L á
+Transact-SQL - Usado pelo Microsoft SQ.L Server e Sybase Adaptive Server. Como Microsoft e Sybase se afastaram, a plataforma comum que compartilhavam no início na década de 1990 foi dividida, suas implementações de agora também divergem, produzindo dois dialetos distintos de Transact-SQL.
 
-SGBD
+SQL PL - extensão processual do IBM DB2 para SQL, introduzido na versão Item. 7.0 do SGBD, fornece construções necessárias para a execução de controle de fluxo em torno de consultas SQL tradicionais e operações.
 
-Relacional
+PL/pgSQL - O nome do dialeto SQjLe das extensões implementadas no PostgreSQL A sigla significa Procedural Language/PostgreSQL
 
-* Processar
+MySQL — O MySQL introduziu uma linguagem procedural em seu banco de dados na versão 5, mas não há nenhum nome oficial para ela. Ela segue o padrão definido pela ANSI (SQL/PSM).
 
-horrc DataDc Nascimento
+Principais pontos do PL/SQL.
 
+Item. 1. Os blocos de códigos podem ser usados para escrever programas inteiros.
 
-Resultado
+Item. 2. Por ser procedural, devemos descrever COMO as coisas devem ser feitas.
 
-Thlagn lZ/DQ/lSaa
+Item. 3. São executados em blocos inteiros.
 
-□lego 15/ua/isM
+Item. 4. Usados para criar aplicações.
 
-Hcrbcrt D5/0Q/ji9&T
+Item. 5. Uma extensão de SQL, é permitido o uso de código SQL dentro do código PL/SQL.
 
-Figura 1- Um exempía de consulto
 
-* DDL- Data Definition Language - A linguagem de definição de dados
-contém comandos que
-criam, modificam e excluem objetos de banco de dados. São exemplos de comando: CREATE,
-ALTER, DROP e TRUNCATE.
+Principais pontos do SQL.
 
-* DML - Data Manipulation Language - A linguagem de manipulação
-de dados fornece
-instruções para trabalhar com os dados armazenados como SELECT, INSERT, UPDATE, DELETE
-e MERGE.
 
-o DQL - Data Query Language-A linguagem de consulta de dados é um subconjunto da
-DML que possui apenas a instrução de SELECT.
+Item. 1. Os comandos são usados para executar operações .de DMLe DDL
 
-* DTL- Data Transaction Language - Linguagem de transação de dados inclui
-comandos de
-COMMIT, ROLLBACK e SAVEPOINT
+Item. 2. Por ser declarativa, devemos definir apenas O QUE deve ser feito.
 
-* DCL - Data Control Language - A linguagem de controle de dados
-contém os comandos
-relacionados com as permissões de controle de acesso. Garante os privilégios
-aos usuários
-para acessar os objetos do banco. Os mais conhecidos comandos são o GRANT e o REVOKE.
+Item. 3. São executados em declarações únicas, (statements).
 
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
+Item. 4. Usados para manutenção dos dados.
 
-www. estrategiaconcursos. com. br
+Item. 5. Não pode conter código PL/SQL.
 
 
+Resumindo os principais comandos usadas para definição de objetos em SQL, conhecidos como DDL (Data Definition Language) são:
 
 
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
+COMANDO. CREATE. DESCRIÇÃO. Comando utilizado para criar bancos de dados, tabelas, índices, entre outros.
+COMANDO. DROP. DESCRIÇÃO. Comando utilizado para deletar uma tabela do banco de dados.
 
-PL/SQL - Encontrado em SGBDs Orade. PL/SQ.L, que é a sigla para
-Procedural
-Language/SQL, contém muitas semelhanças com a linguagem de programação geral.
+COMANDO. TRUNCATE. DESCRIÇÃO. Comando utilizado para apagar os dados de uma tabela do banco de dados.
 
-Transact-SQL - Usado pelo Microsoft SQ.L Server e Sybase Adaptive
-Server. Como
-Microsoft e Sybase se afastaram, a plataforma comum que compartilhavam
-no início na
-década de 1990 foi dividida, suas implementações de agora
-também divergem,
-produzindo dois dialetos distintos de Transact-SQL.
+COMANDO. ALTER. DESCRIÇÃO. Comando utilizado para adicionar, deletar ou modificar colunas do banco de dados.
 
-SQL PL - extensão processual do IBM DB2 para SQL, introduzido na versão
-Item. 7.0 do SGBD,
-fornece construções necessárias para a execução de controle de fluxo
-em torno de
-consultas SQL tradicionais e operações.
+COMANDO. RENAME. DESCRIÇÃO. Comando utilizado para renomear uma tabela do banco de dados.
 
-PL/pgSQL- O nome do dialeto SQjLe das extensões implementadas no PostgreSQL A
-sigla
-significa Procedural Language/PostgreSQL
 
-MySQL — O MySQL introduziu uma linguagem procedural em seu banco de
-dados na
-versão 5, mas não há nenhum nome oficial para ela. Ela segue o padrão
-definido pela
-ANSI (SQL/PSM).
+* Restrições em tabelas - Definida dentro de uma definição de tabela. A restrição pode ser definida como parte da definição de coluna ou como um elemento ao final da definição. Restrições definidas no nível de tabela podem ser aplicadas a uma ou mais colunas.
 
-PL/SQL SQL
+* Assertions (Afirmações) - Um tipo de restrição que é definida dentro de uma definição afirmação (separado da definição da tabela). Uma afirmação pode ser relacionada com uma ou mais tabelas.
 
+* Restrições de domínio - Um tipo de restrição que é definida dentro de uma definição de domínio (separado da definição da tabela). A restrição de domínio está associada com qualquer coluna que é definida baseada no domínio específico. Aqui você pode criar um domínio para atribuí-lo a uma coluna de uma tabela.
 
-Os blocos de códigos podem ser usados para
-escrever programas inteiros.
 
-Por ser procedural, devemos descrever COMO as
-coisas devem ser feitas.
+CLÁUSULA. SELECT. DESCRIÇÃO. Comando utilizado para selecionar dados de uma tabela.
 
-São executados em blocos inteiros
-Usados para criar aplicações.
+CLÁUSULA. FROM. DESCRIÇÃO. Comando utilizado para indiicar de onde os dados devem ser selecionados.
 
-Uma extensão de SQL, é permitido o uso de código
-SQL dentro do código PL/SQL
+CLÁUSULA. WHERE. DESCRIÇÃO. Comando utilizado para filtrar os dados.
 
-Os comandos são usados para executar operações
-de DMLe DDL
+CLÁUSULA. GROUP BY. DESCRIÇÃO. Comando utilizado para agregar um conjunto de dados.
 
-Por ser declarativa, devemos definir apenas O QUE
-deve ser feito.
+CLÁUSULA. HAVING. DESCRIÇÃO. Comando utilizado para filtrar dados agregados.
 
-São executados em declarações únicas,
-(srtjfemenrs).
+CLÁUSULA. ORDER BY. DESCRIÇÃO. Comando utilizado para ordenar os dados recuperadas.
 
-Usados para manutenção dos dados.
-Não pode conter código PL/SQL.
 
-Resumindo os principais comandos usadas para definição de objetos em SQL, conhecidos
-como DDL
-(Data Definition Language) são:
+Tópico. Ciência de Dados. Big Data.
 
-COMANDO DESCRIÇÃO
 
-Comando utilizado para criar bancos de dados, tabelas, índices, entre outros.
-Comando utilizado para deletar uma tabela do banco de dados.
+Big Data pode ser entendido como a captura, gerenciamento e análise de dados que vão além de dados estruturados típicos, que podem ser consultados por sistemas de gerenciamento de banco de dados relacional — frequentemente em arquivos não estruturados, vídeo digital, imagens, dados de sensores, arquivos de log e, na verdade, qualquer dado não contido nos registros com campos pesquisáveis distintos.
 
-Comando utilizado para apagar os dados de uma tabela do banco de dados.
 
-Comando utilizado para adicionar, deletar ou modificar colunas do banco de dados.
-Comando utilizado para renomear uma tabela do banco de dados.
+OS V'S DO BIG DATA.
 
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
 
+Item. Volume.
 
+Dados em repouso.
 
+* Terabytes ou exabytes de dados existentes para o processo.
 
+Item. Velocidade.
 
+Dados em movimento.
 
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-Aula 10
+* Streammg data (fluxo de dados)
 
-♦ Restrições em tabelas - Definida dentro de uma definição de tabela. A
-restrição pode
-ser definida como parte da definição de coluna ou como um elemento
-ao final da
-definição. Restrições definidas no nível de tabela podem ser aplicadas a uma
-ou mais
-colunas.
+* Requer milissegundos ou segundos para resposta.
 
-♦ Assertions (Afirmações) - Um tipo de restrição que é definida dentro de
-uma definição
-afirmação (separado da definição da tabela). Uma afirmação pode ser
-relacionada com
-uma ou mais tabelas.
+Item. Variedade.
 
-♦ Restrições de domínio - Um tipo de restrição que é definida dentro de
-uma definição
-de domínio (separado da definição da tabela). A restrição de domínio está
-associada com
-qualquer coluna que é definida baseada no domínio específico. Aqui você pode
-criar um
-domínio para atribuí-lo a uma coluna de uma tabela.
-
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
-
-
-
-
-
-
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
-
-CLÁSULAS | DESCRIÇÃO
-
-SELECT Comando utilizado para selecionar dados de uma tabela.
-
-FROM Comando utilizado para indiicar de onde os dados devem ser selecionados.
-
-WHERE Comando utilizado para filtrar os dados.
-
-GROUP B¥ Comando utilizado para agregar um conjunto de dados.
-
-HAVING Comando utilizado para filtrar dados agregados.
-
-ORDER BY Comando utilizado para ordenar os dados recuperadas.
-
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
-
-
-
-
-
-
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-Aula 10
-
-Item. 4. Ciência de Dados. Big Data.
-
-Big Data pode ser entendido como a captura, gerenciamento e análise de
-dados que vão
-além de dados estruturados típicos, que podem ser consultados
-por sistemas de
-gerenciamento de banco de dados relacional — frequentemente em
-arquivos não
-estruturados, vídeo digital, imagens, dados de sensores, arquivos de log e,
-na verdade,
-qualquer dado não contido nos registros com campos pesquisáveis distintos.
-
-
-Volume
-
-* * *
-
-V**«
-
-
-****** ***
-
-****** ***
-
-* * * **
-
-Dados em repouso
-
-* Terabytes ou exabytes
-de dados existentes para
-o processo
-
-*ee -?e-Ee
-
-Dados em
-movimento
-
-* Streammg data (fluxo de
-iita
-
-* Requer nulissegundos
-ou segundos para
-resposta.
-
-Dados em diferentes
-formas
+Dados em diferentes formas.
 
 * Estruturados
 
@@ -854,147 +346,28 @@ formas
 
 * Multimídia
 
-5Zolumt>
+Item. Veracidade.
 
-Dados em dúvida
+Dados em dúvida.
 
-* Incerteza sobre a
-consistência e
-completude.
+* Incerteza sobre a consistência e completude.
 
-* Ambiguidade, latência.
-modelos de
-aproximação.
+* Ambiguidade, latência. modelos de aproximação.
 
-Dados em dinheiro
+Item. Valor.
 
-* Os dados devem estar
-associados aos modelos
-de negócio.
+Dados em dinheiro.
 
-* Preocupação com a
-geração de retomo.
+* Os dados devem estar associados aos modelos de negócio.
+
+* Preocupação com a geração de retorno.
 
 
-1
+Tópico. Arquitetura de Banco de Dados: Relacional (PostgreSQL)
 
-G<ovemanç ;a *
+O PostgreSQL é um descendente de código aberto do programa original desenvolvido em Berkeley. Ele suporta grande parte dos comandos da linguagem SQL/ANSI padrão e oferece muitas características modernas, entre elas: consultas complexas, chaves estrangeiras, triggers, visões atualizáveis, integridade transacional e controle de concorrência multiversão.
 
-á k
-
-Variedad e
-
-
-F
-
-á k
-
-I^essoaj s
-
-F
-
-* F
-
-á k
-
-Velociadade
-
-F
-
-
-Valor
-
-á k
-
-Veracidad le
-
-F
-
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
-
-
-
-
-
-
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
-
-Padrô es Atômicos
-
-Conceitos de Big Data
-
-
-Volume (tamanho)
-Petabytes da dados X
-
-Custo de armazenamento
-
-Variedade (tipo)
-Texto estruturado e não
-estruturado, multimídia,...
-
-Velocidade (speed)
-Offline para Online
-Performance x Custo
-
-r NoSQL/SQL Avançado MapReduce/MPP a
-
-
-k Armazenamento distribuído
-
-Processamento distribuído j
-
-à
-
-Ferramentas de Big Data /
-Tecnologias
-
-(Hadoop, Mongo, HPCC,...)
-
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
-
-
-
-
-
-
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
-
-
-Nào ReLadonal
-Relacional
-
-Semi-estrturado
-Estrtuturado
-
-Emergente
-Maduro
-
-Escalável
-Sólido
-
-Flexível
-Rigido
-
-Consístêncial Eventual
-Consistente
-
-Item. 4. Arquitetura de Banco de Dados: Relacional (PostgreSQL)
-
-O PostgreSQL é um descendente de código aberto do programa original desenvolvido em
-Berkeley. Ele suporta grande parte dos comandos da linguagem SQUANSI padrão e
-oferece muitas características modernas, entre elas: consultas complexas, chaves
-estrangeiras, triggers, visões atualizáveis, integridade transacional e controle de
-concorrência multiversão.
-
-Uma instância do PostgreSQL é chamada de cluster porque uma única instância pode
-servir e lidar com vários bancos de dados Cada banco de dados é um espaço isolado
-onde usuários e aplicativos podem armazenar dados. Um banco de dados é acessado
-por usuários autorizados, mas os usuários conectados a um banco de dados não podem
-cruzar os limites do banco de dados e interagir com os dados contidos em outro banco de
-dados, a menos que se conectem explicitamente ao último banco de dados também.
+Uma instância do PostgreSQL é chamada de cluster porque uma única instância pode servir e lidar com vários bancos de dados Cada banco de dados é um espaço isolado onde usuários e aplicativos podem armazenar dados. Um banco de dados é acessado por usuários autorizados, mas os usuários conectados a um banco de dados não podem cruzar os limites do banco de dados e interagir com os dados contidos em outro banco de dados, a menos que se conectem explicitamente ao último banco de dados também.
 
 O PostgreSQL divide os usuários em duas categorias principais:
 
@@ -1005,300 +378,111 @@ conjunto de privilégios
 * Superusuários: Esses usuários podem fazer qualquer coisa com
 qualquer objeto de banco de dados.
 
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
-
-
-
-
-
-
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
 
 Esta é uma rápida recapitulação dos principais termos usados no PostgreSQL:
 
 * Cluster: refere-se a todo o serviço PostgreSQL.
 
-* Postmaster: este é o primeiro processo que o cluster executa, e este processo é
-responsável por manter o controle das atividades de todo o cluster. O postmaster
-bifurca-se em um processo de back-end toda vez que uma nova conexão é
-estabelecida
+* Postmaster: este é o primeiro processo que o cluster executa, e este processo é responsável por manter o controle das atividades de todo o cluster. O postmaster bifurca-se em um processo de back-end toda vez que uma nova conexão é estabelecida.
 
-* Banco de dados o banco de dados é um contêiner de dados isolado ao qual os
-usuários (ou aplicativos) podem se conectar. Um cluster pode lidar com vários bancos
-de dados. Um banco de dados pode ser feito por diferentes objetos, incluindo
-esquemas (namespaces), tabelas, gatilhos e outros objetos.
+* Banco de dados o banco de dados é um contêiner de dados isolado ao qual os usuários (ou aplicativos) podem se conectar. Um cluster pode lidar com vários bancos de dados. Um banco de dados pode ser feito por diferentes objetos, incluindo esquemas (namespaces), tabelas, gatilhos e outros objetos.
 
-* PGDATA: é o nome do diretório que, no armazenamento persistente, é totalmente
-dedicado ao PostgreSQL e seus dados. O PostgreSQL armazena os dados nesse
-diretório.
+* PGDATA: é o nome do diretório que, no armazenamento persistente, é totalmente dedicado ao PostgreSQL e seus dados. O PostgreSQL armazena os dados nesse diretório.
 
-* WALs: contém o log de intenção de alterações do banco de dados, usado para
-recuperar dados de um travamento crítico
+* WALs: contém o log de intenção de alterações do banco de dados, usado para recuperar dados de um travamento crítico
 
 /bin - programas de linha de comando do PostgreSQL, como psql.
 
-/data - arquivos de configuração e tabelas compartilhadas por todos os bancos de
-dados. Por exemplo, uma tabela pg_shadow compartilhada por todos os bancos de dados,
+/data - arquivos de configuração e tabelas compartilhadas por todos os bancos de dados. Por exemplo, uma tabela pg_shadow compartilhada por todos os bancos de dados,
 
-/data/base - um subdiretório é criado para cada banco de dados Usando os comandos
-du e Is, os administradores podem exibir a quantidade de espaço em disco usado por cada
-banco de dados, tabela ou índice.
+/data/base - um subdiretório é criado para cada banco de dados Usando os comandos du e Is, os administradores podem exibir a quantidade de espaço em disco usado por cada banco de dados, tabela ou índice.
 
 /doc - documentação do PostgreSQL.
 
 /include - inclui os arquivos usados por várias linguagens de programação.
 
-/lib - bibliotecas usadas por várias linguagens de programação. Este subdiretório
-também contém os arquivos usados durante a inicialização, e exemplos e templates de
-arquivos de configuração, que podem ser copiados para /data e modificados.
-
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
+/lib - bibliotecas usadas por várias linguagens de programação. Este subdiretório também contém os arquivos usados durante a inicialização, e exemplos e templates de arquivos de configuração, que podem ser copiados para /data e modificados.
 
 
+* checkpoint: é um processo responsável por executar os pontos de verificação, quesão pontos no tempo em que o banco de dados garante que todos os dados sejam realmente armazenados de forma persistente no disco.
+
+* background writer: é responsável por ajudar a enviar os dados da memória para o armazenamento permanente.
+
+* walwriter: é responsável por gravar os Logs Write-Ahead (WALs), os logs que são necessários para garantir a confiabilidade dos dados, mesmo no caso de uma falha do banco de dados.
+
+* stats collector: é um processo que monitora a quantidade de dados que o PostgreSQL está manipulando, armazenando-os para uma análise e decisões posteriores, como decidir quais índices usar para satisfazer uma consulta.
+
+* logical replication launcher: é um processo responsável por lidar com a replicação lógica.
 
 
+Descrição das Autenticações.
 
 
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-Aula 10
-
-* ch eckp o: n fer é u m proc esso respo n sá ve I p or e xe cu ta r os p o n tos d e ve r if i
-ca çã o, q u e
-são pontos no tempo em que o banco de dados garante que todos os dados sejam
-
-realmente armazenados de forma persistente no disco.
-
-* background wríter é responsável por ajudar a enviar os dados da memória para o
-armazenamento permanente.
-
-* walwriter é responsável por gravar os Logs Write-Ahead (WALs), os logs que são
-necessários para garantir a confiabilidade dos dados, mesmo no caso de uma falha
-do banco de dados.
-
-* stats collector é um processo quemonitoraaquantidadededadosqueo PostgreSQL
-está manipulando, armazenando-os para uma análise e decisões posteriores, como
-decidir quais índices usar para satisfazer uma consulta.
-
-* logical replication launcher é um processo responsável por lidar com a replicação
-lógica.
-
-Descrição
-
-teust Permite a conexão incondicionalmente. Este método permite a
-qualquer pessoa se conectar ao servidor de banco de dados
-
-PostgreSQL e se autenticar com o usuário que desejarem, sem a
-necessidade de senha ou qualquer outra autenticação.
+Item. 1. Trust. Permite a conexão incondicionalmente. Este método permite a qualquer pessoa se conectar ao servidor de banco de dados PostgreSQL e se autenticar com o usuário que desejarem, sem a necessidade de senha ou qualquer outra autenticação.
 
 
-reject
+Item. 2. Reject. Rejeita qualquer conexão incondicionalmente. Isso é útil para "filtragem" de certos hospedeiros de um grupo, por exemplo, uma linha de reject poderia bloquear um host específico para conexão, enquanto uma linha mais tarde permite que os hosts restantes possam se conectar.
 
-Rejeita qualquer conexão incondicionalmente. Isso é útil para
-"filtragem" de certos hospedeiros de um grupo, por exemplo, uma
-linha de reject poderia bloquear um host específico para conexão,
-enquanto uma linha mais tarde permite que os hosts restantes
-possam se conectar.
+Item. 3. scram-sha-256. Executa a autenticação SCRAM-SHA-256 para verificar a senha do usuário.
 
-scram-sha-256 Executa a autenticação SCRAM-SHA-256 para verificar a senha do
-usuário
+Item. 4. md5. Exige que o cliente forneça uma senha MD5 para autenticação.
 
-md5 Exige que o cliente forneça uma senha MD5 para autenticação.
-
-0 0 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
-www. estrategiaconcursos. com. br
-
-
-
-
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 10
-
-
-password
-
-gss
-
-sspi
-
-ident
-
-Exige que o cliente forneça uma senha não criptografada para
+Item. 5. password. Exige que o cliente forneça uma senha não criptografada para
 autenticação. Uma vez que a senha é enviada em texto simples
 através da rede, não deve ser usado em redes não confiáveis.
 
-Usa GSSAPI para autenticar o usuário. Este método só está
+Item. 6. gss. Usa GSSAPI para autenticar o usuário. Este método só está
 disponível para conexões TCP/IP.
 
-Usa SSPI para autenticar o usuário. O método só está disponível
+Item. 7. sspi. Usa SSPI para autenticar o usuário. O método só está disponível
 no Windows.
 
-Obtém o nome do usuário do sistema operacional do cliente
+Item. 8. ident. Obtém o nome do usuário do sistema operacional do cliente
 entrando em contato com o servidor e verifica se ele corresponde
 ao nome do usuário do banco de dados. A autenticação ident só
 pode ser utilizada em conexões TCP/IP. Quando especificado para
 conexões locais, peer authentication será utilizado em seu lugar.
 
-
-peer
-
-Obtém o nome de usuário do sistema operacional do cliente e
+Item. 9. peer. Obtém o nome de usuário do sistema operacional do cliente e
 verifica se ele corresponde ao nome do usuário solicitado do banco
 de dados. Isto só está disponível para conexões locais.
 
-Idap Autentica o cliente usando um servidor LDAP.
+Item. 10. ldap. Autentica o cliente usando um servidor LDAP.
 
-raclius Autentica usando um servidor RADIUS.
+Item. 11. radius. Autentica usando um servidor RADIUS.
 
-cert Autentica usando certificados de cliente SSL.
+Item. 12. cert. Autentica usando certificados de cliente SSL.
 
-Autentica utilizando o serviço Pluggable Authentication Modules
+Item. 13. PAM. Autentica utilizando o serviço Pluggable Authentication Modules
 (PAM) fornecido pelo sistema operacional.
 
 O PostgreSQL 12 gerencia os seguintes tipos de particionamento de tabela:
 
-* Range partitioning - quando a tabela é dividida em "intervalos". Os intervalos não devem se
-sobrepor e a faixa é definida por meio do uso de um campo ou conjunto de campos.
-Aqui
-estamos falando de valores numéricos.
+* Range partitioning - quando a tabela é dividida em "intervalos". Os intervalos não devem se sobrepor e a faixa é definida por meio do uso de um campo ou conjunto de campos. Aqui estamos falando de valores numéricos.
 
-* List partitioning - a tabela será particionada usando uma lista de valores. Essa lista tende a
-ser um conjunto discreto, por exemplo, cidades ou time de futebol.
+* List partitioning - a tabela será particionada usando uma lista de valores. Essa lista tende a ser um conjunto discreto, por exemplo, cidades ou time de futebol.
 
-* Hash partitioning - a tabela será particionada usando um valor de hash que será usado como
-o valor para dividir os dados em tabelas diferentes.
-
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
+* Hash partitioning - a tabela será particionada usando um valor de hash que será usado como o valor para dividir os dados em tabelas diferentes.
 
 
+O PostgreSQL possui um mecanismo de transação muito rico e compatível com os padrões que permite aos usuários definir exatamente as propriedades da transação, incluindo transações aninhadas.
+
+O PostgreSQL depende muito de transações para manter os dados consistentes em conexões simultâneas e atividades paralelas e, graças aos registros Write-Ahead (WALs), o PostgreSQL faz o possível para manter os dados seguros e confiáveis. Além disso, o PostgreSQL implementa o Multi-Version Concurrency Control (MVCC), uma forma de manter a alta simultaneidade entre as transações.
+
+Como não temos muitas transações simultâneas de conexões diferentes não temos como visualizar o que acontece com essa variáveis em um grande banco de dados corporativo. Mas vou apresentar abaixo uma tabela que descreve as colunas do sistemas que influenciam nas transações.
 
 
-Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-Aula 10
+Item. 1. xmin. A identidade (ID da transação) da transação de inserção para esta versão de linha. Aqui você começa a entender o MVCC. Toda vez que uma modificação é feita, uma nova linha é inserida. A versão anterior da linha vai ver excluída do banco de dados em um momento posterior por um processo conhecido como VACCUM.
 
-O PostgreSQL possui um mecanismo de transação muito rico e compatível com os padrões
-que
-permite aos usuários definir exatamente as propriedades da transação, incluindo transações
-aninhadas.
+Item. 2. xmax. Armazena o ID da transação ("xid") da transação que excluiu a tupla. Lembre-se de que UPDATE também exclui uma tupla no PostgreSQL. Então você passa a ter um intervalo entre o xmin e xmax no qual a tupla é válida. O xmax também pode armazenar a transação que está bloqueando a tupla.
 
-O PostgreSQL depende muito de transações para manter os dados consistentes em conexões
-simultâneas e atividades paralelas e, graças aos registros Write-Ahead (WALs), o PostgreSQL faz o
-possível para manter os dados seguros e confiáveis. Além disso, o PostgreSQL implementa o Multi-
-Version Concurrency Control (MVCC), uma forma de manter a alta simultaneidade entre as
-transações.
+Item. 3. cmin. O identificador de comando (começando em zero) dentro da transação de inserção.
 
-Como não temos muitas transações simultâneas de conexões diferentes não temos como visualizar
-o que acontece com essa variáveis em um grande banco de dados corporativo. Mas vou apresentar
-abaixo uma tabela que descreve as colunas do sistemas que influenciam nas transações.
+Item. 4. cmax. O identificador de comando dentro da transação de exclusão ou zero.
 
-Coluna Descrição
-
-
-xmin
-
-xmax
-
-cmin
-cmax
-
-A identidade (ID da transação) da transação de inserção para esta versão de linha.
-Aqui você começa a entender o MVCC. Toda vez que uma modificação é feita, uma
-nova linha é inserida. A versão anterior da linha vai ver excluída do banco de dados
-em um momento posterior por um processo conhecido como VACCUM.
-
-Armazena o ID da transação ("xid") da transação que excluiu a tupla. Lembre-se de
-que UPDATE também exclui uma tupla no PostgreSQL. Então você passa a ter um
-intervalo entre o xmin e xmax no qual a tupla é válida. O xmax também pode
-armazenar a transação que está bloqueando a tupla.
-
-O identificador de comando (começando em zero) dentro da transação de inserção.
-O identificador de comando dentro da transação de exclusão ou zero.
 
 Vamos ficando por aqui.
 
+
 Esperamos que tenha gostado do nosso Bizu!
 Bons estudos!
-
-@profleoma th ias
-
-SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
-

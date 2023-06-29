@@ -59,6 +59,7 @@ def adjust_chars(text):
         line = line.replace('‘', "'")
         line = line.replace('–', '-')
         line = line.replace('•', '*')
+        line = line.replace('♦', '*')
         line = line.replace('…', '...')
         result.append(line)
     return result

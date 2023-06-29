@@ -2,7 +2,7 @@ Capítulo. Desenvolvimento de Software - C# e Go.
 
 Concursos
 
-Aula 08 (Profs. Paolla
+(Profs. Paolla
 Ramos e Raphael
 
 Lacerda)
@@ -18,7 +18,7 @@ Paolla Ramos e Silva
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 índice
 
@@ -37,12 +37,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 X 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 DESENVoLVIMENTo BACK-END - C#
 
@@ -80,12 +80,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 NAMESPACE
@@ -151,12 +151,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 }
 
@@ -199,11 +199,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 57
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 O valorjnicial está entre colchetes pois é opcional. Simples não é? Essa é a
 estrutura básica de
@@ -247,12 +245,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Console.Writel_ine("Oi! Eu sou o " + Nomes[6]);
 
@@ -282,15 +280,13 @@ nem todos fazem tudo igual, não é mesmo?
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 7
 
-www. estrategiaconcursos. com. br
+
 , 57
-
-
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Agora, se fossemos criar as classes Hipopótamo e Cachorro quais métodos seriam
 diferentes? De
@@ -332,12 +328,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Console.Writel_ine(" Grunhido");
 
@@ -370,12 +366,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 /** Cachorro será nossa primeira subclasse que extende Animal. Repare
 que o símbolo utilizado para indicar a herança é o sinal de dois
@@ -412,12 +408,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 /** O método FazerBarulhoO na classe Hipopótamo também foi
 sobrescrito, mas digamos que você não saiba o que o método
@@ -455,12 +451,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 X 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Mas nem tudo deverá ser público não é mesmo? Para isso o C# possui modificadores de
 acesso,
@@ -504,12 +500,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 que possa ser percorrido pelo foreach obrigatoriamente sua coleção implementará
 a interface
@@ -550,12 +546,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 X 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 IEnumerator<Pessoa> enumerator = pessoas.GetEnumeratorQ;
 
@@ -605,12 +601,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 {
 
@@ -660,11 +656,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 57
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Dessa forma há um ganho de desempenho, imagine se o loop não fosse só até 100, mas
 fossem
@@ -710,12 +704,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 yield return "Outro valor 11 + i;
 
@@ -749,12 +743,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 INDO
 
@@ -811,12 +805,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 if (entrada >
@@ -848,11 +842,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 57
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - DESENVoLVIMENTo BACK-END
 
@@ -918,12 +910,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 1o passo) i = -5, i <= 7, saída: -5, i = -5 + 3
 
@@ -992,12 +984,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 X 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 from e to. Eles são os valores de início (from) e fim (to) do for que está dentro
 do método. Então,
@@ -1064,12 +1056,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) identificação e utilização de Web Services.
 
@@ -1145,7 +1137,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Essa é uma questão simples, mas que pode assustar. Mas não você! Nós já sabemos como
@@ -1214,13 +1206,9 @@ int[] vetor = new int[3] {1, 2, 3 };
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Sem alterar o resultado, essa mesma declaração poderia ser escrita como:
 
@@ -1284,12 +1272,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 X 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) public, private, published e protected.
 
@@ -1351,12 +1339,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 X 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) 12 e 19.
 
@@ -1421,12 +1409,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 X 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Uma classe pode ser dividida em vários arquivos, quando o compilador vê a
 palavra-chave partial
@@ -1489,12 +1477,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 X 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) Garbage Collection.
 
@@ -1562,12 +1550,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) multiplica o valor da variável int por x e atribui o valor calculado para a variável y.
 
@@ -1628,12 +1616,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 (a) É uma linguagem fortemente tipada; (b) Não suporta herança múltipla; (c)
 Ponteiros são
@@ -1651,12 +1639,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 X 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Utilize o programa C# abaixo para responder as questões de números 43 e 44.
 
@@ -1770,13 +1758,9 @@ System.Text;
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 O programa C# apresentado é executado apenas uma vez e finaliza. Para que o programa possa ser
 executado diversas vezes, até que o usuário digite 0 para finalizá-lo é
@@ -1853,12 +1837,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) Na linha [11 ]: double celsius = Double.Parse(tempCelsius); significa que double é
 uma classe
@@ -1928,12 +1912,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -1993,12 +1977,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -2062,15 +2046,13 @@ d) Sobrecarga de operadores
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 36
 
-www. estrategiaconcursos. com. br
+
 , 57
-
-
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) Sobrecarga de métodos
 
@@ -2134,12 +2116,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 namespaces servem para organizar as classes de uma biblioteca, e não associá-las. E
 também
@@ -2203,11 +2185,9 @@ www.estrategiaconcursos.com.br
 57
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 O resultado produzido no console é:
 
@@ -2267,11 +2247,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 57
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 {
 
@@ -2325,15 +2303,13 @@ Item. 25. Ao final ele apenas escreve o valor de j, transformado em string. Ou s
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 40
 
-www. estrategiaconcursos. com. br
+
 , 57
-
-
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - DESENVoLVIMENTo BACK-END - C#
 
@@ -2372,12 +2348,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 X 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 namespace ConsoleApplicationl
 
@@ -2438,13 +2414,9 @@ class Program
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 static void Main(string[] args)
 
@@ -2519,11 +2491,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 57
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) Movendo.
 
@@ -2587,12 +2557,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 X 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) obj = CarroQ;
 
@@ -2655,11 +2625,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 57
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) 12e20.
 
@@ -2723,12 +2691,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 X 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) Destruidores.
 
@@ -2794,11 +2762,9 @@ www.estrategiaconcursos.com.br
 57
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) É a única linguagem de programação que suporta herança múltipla pura, ou
 seja, cada classe
@@ -2822,12 +2788,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Utilize o programa C# abaixo para responder as questões de números 43 e 44.
 
@@ -2941,13 +2907,9 @@ System.Text;
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 O programa C# apresentado é executado apenas uma vez e finaliza. Para que o programa
 possa ser
@@ -3017,12 +2979,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 X 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 int num = 1;
 
@@ -3065,14 +3027,10 @@ apresentado abaixo, quando é compilado e posteriormente executado?
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 using System;
 publlc cla.33 Prova
@@ -3138,11 +3096,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 57
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) DateTime.Now.ToString( HH:mm );
 
@@ -3208,11 +3164,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 57
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Console.WriteLine("PP");
 
@@ -3262,12 +3216,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 57
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 {
 
@@ -3326,13 +3280,9 @@ Item. 15. B
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Paolla Ramos e Silva
 
-Aula 08 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Item. 16. A
@@ -3362,8 +3312,6 @@ Item. 27. B
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
 www.estrategiaconcursos.com.br
-
-
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

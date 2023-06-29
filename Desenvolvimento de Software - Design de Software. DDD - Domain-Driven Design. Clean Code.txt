@@ -2,7 +2,7 @@ Capítulo. Desenvolvimento de Software - Design de Software. DDD - Domain-Driven
 
 Concursos
 
-Aula 15 (Profs. Paolla
+(Profs. Paolla
 Ramos e Raphael
 
 Lacerda)
@@ -18,7 +18,7 @@ Paolla Ramos e Silva
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 índice
 
@@ -37,13 +37,9 @@ Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 DoMAIN-DRIvEN DESIGN - DDD
 
@@ -115,7 +111,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 necessários. O desenvolvedor? Esqueça. Quem então? Os banqueiros, claro. O sistema
@@ -193,11 +189,9 @@ www.estrategiaconcursos.com.br
 / 60
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Quando se fala em Orientação a Objetos pensa-se logo em classes, heranças,
 polimorfismo,
@@ -272,12 +266,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 i desenvolvimento. Todos devem usar os mesmos termos tanto na linguagem
 falada quanto no i
@@ -355,12 +349,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 aplicativo Java escrevendo apenas as classes de domínio principais, deixando que ele
 cuide do
@@ -381,12 +375,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - DDD
 
@@ -446,12 +440,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 4. (CESPE - Telebras - 2022 - Adaptada) Acerca de aspectos diversos pertinentes a objetos de
 avaliação associados à análise de sistemas, julgue o item que se segue.
@@ -514,12 +508,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Pessoal, na verdade, a modelagem e a implementação atuam de forma dependente ou
 conjunta.
@@ -592,12 +586,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Language é considerada uma linguagem do projeto de desenvolvimento de software utilizada
 para
@@ -660,12 +654,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Perfeita definição! De fato, 0 foco principal do DDD deve ser o domínio e domínios
 complexos devem
@@ -737,12 +731,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para ter um software que atenda perfeitamente a um determinado domínio, é necessário
 que se
@@ -818,12 +812,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) interface com usuário, aplicação, domínio e infraestrutura.
 
@@ -885,12 +879,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -911,11 +905,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 60
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - DDD
 
@@ -973,12 +965,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) service-oriented architecture
 
@@ -1047,7 +1039,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 a) ecológica
@@ -1124,7 +1116,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Item. 16. (CESPE - STJ- 2015) Julgue o próximo item, relativo a Domain-Driven Design e design patterns.
@@ -1158,12 +1150,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -1209,12 +1201,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -1282,12 +1274,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 ,.Z 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 permitem que as outras janelas se quebrem também. No final das contas, as próprias
 pessoas as
@@ -1356,12 +1348,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 ,.Z 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Dessas quatro, Jeffries foca mais na de duplicação. Quando a mesma coisa é feita repetidas vezes, é
 sinal de que uma ideia em sua cabeça não está bem representada no código. Tento
@@ -1431,11 +1423,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 60
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 consistência de expressão? Nomes significativos? Não né? Portanto essa questão
 está errada.
@@ -1521,12 +1511,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 3 R's da Arquitetura de software
 
@@ -1617,11 +1607,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 60
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Readability (legibilidade) - Nomes Significativos
 
@@ -1691,12 +1679,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Use Nomes Pronunciáveis
@@ -1767,11 +1755,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 60
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Classes e objetos devem ter nomes com substantivo(s),
 como Cliente, PaginaWiki, Conta e AnaliseEndereco. Evite
@@ -1826,11 +1812,9 @@ www.estrategiaconcursos.com.br
 / 60
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Nomes curtos geralmente são melhores, apenas precisam
 ser claros. Sempre revize seu código e melhore os nomes
@@ -1855,12 +1839,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Reusability (Reuso) - Reutilização de funcionalidades
 
@@ -1925,12 +1909,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 o nível de importância sobre aquele trecho separando
 meros detalhes de conceitos extremamente importantes.
@@ -1993,11 +1977,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 60
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 terá um comportamento, caso contrário será outro
 comportamento diferente. O ideal é que sejam divididas em
@@ -2054,11 +2036,9 @@ www.estrategiaconcursos.com.br
 ,.Z 60
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 i Independentemente da linguagem de programação, uma função deve
 executar todos os i
@@ -2077,12 +2057,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 ,.Z 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Refatoring (refatoração) - Otimização da estrutura
 
@@ -2136,14 +2116,12 @@ if (employee. is EligibleFor FullBenefitsQ)
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
-1 
-
-
+1
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Passe algum tempo pensando em como ter expressividade no seu código, com certeza não
 será um
@@ -2199,12 +2177,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 sobre uma alteração que deve ser feita, um pedido para a
 verificação de outro membro.
@@ -2272,12 +2250,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 chamativos no código, use-os esporadicamente para não se
 tornarem ruídos.
@@ -2338,12 +2316,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 * TODO Comments: não é uma desculpa para deixar código ruim no sistema. Serve como
 um
@@ -2410,12 +2388,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 function eraseDatabase() {}
 function restore_database() {}
@@ -2476,12 +2454,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Continuidade Vertical
@@ -2538,12 +2516,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 É aceitável que o tamanho de uma linha seja de 100 a 120
 caracteres, porém é totalmente desnecessário ter de rolar a
@@ -2594,12 +2572,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 ,.Z 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Use exceções ao invés de retornar
@@ -2679,12 +2657,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 ,.Z 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 i Comentários: Pessoal, de acordo com o que vimos no conteúdo, algumas das
 recomendações são:
@@ -2755,12 +2733,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Note a natureza complementar das duas definições. Elas são
 praticamente opostas. Essa diferença pode parecer trivial,
@@ -2821,11 +2799,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 60
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Estruturas Ocultas
@@ -2878,12 +2854,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - CLEAN CoDE
 
@@ -2956,11 +2932,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 60
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra C
 
@@ -3016,12 +2990,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questão errada! Vocês se lembram do conceito de Encapsulamento? Aquela técnica que faz
 com
@@ -3098,12 +3072,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 var a = (b + c)/d -10; // coloca o resultado em a
 
@@ -3172,12 +3146,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 10. (CESPE -TCE-PA- 2016) Acerca de análise estática de código-fonte, uma das práticas que verifica
 a qualidade do código e pode ser realizada antes da execução do software, julgue o
@@ -3247,12 +3221,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -3318,12 +3292,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 15. (CESPE - STJ- 2015) Julgue o próximo item, referente a criptografia, clean code e refatoração.
 
@@ -3391,12 +3365,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Devem-se nomear métodos de acesso, alteração e autenticação segundo seus valores e
 adicionar os
@@ -3430,12 +3404,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - CLEAN CoDE
 
@@ -3499,7 +3473,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Item. 6. (CESPE - TJ AM- 2019) De acordo com Clean Code, julgue o item subsecutivo.
@@ -3571,12 +3545,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 ,.Z 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 textoContrato = textoContrato.FTC(".", 11,11 ii ii ii_n)
 11 11 11
@@ -3641,12 +3615,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 15. (CESPE - STJ- 2015) Julgue o próximo item, referente a criptografia, clean code e refatoração.
 
@@ -3691,19 +3665,15 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Paolla Ramos e Silva
 
-Aula 15 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo - CLEAN CoDE
 
@@ -3749,7 +3719,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 60
 
- /
+/
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

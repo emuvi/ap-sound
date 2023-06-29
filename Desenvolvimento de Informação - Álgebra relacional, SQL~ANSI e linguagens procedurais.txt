@@ -2,7 +2,7 @@ Capítulo. Desenvolvimento de Informação - Álgebra relacional, SQL~ANSI e lin
 
 Concursos
 
-Aula 03 (Prof. Thiago
+(Prof. Thiago
 
 Cavalcanti)
 
@@ -17,7 +17,7 @@ Thiago Rodrigues Cavalcanti
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 índice
 
@@ -52,12 +52,8 @@ Aula 03 (Prof. Thiago Cavalcanti)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 INTRoDUçÃo A SQL
 
@@ -103,12 +99,8 @@ conceituai usada para especificar a gramática de SQL e o resultado das instruç
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 nessa linguagem. A norma também define os termos e a notação utilizados nos
 demais documentos
@@ -172,13 +164,9 @@ o passo a passo para execução de uma determinada tarefa.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Imagine que eu te faça a seguinte pergunta: Estou ao lado do supermercado
 Pão de
@@ -241,12 +229,8 @@ Colunas da tabela
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 r
 
@@ -321,12 +305,8 @@ PROVA!
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * DDL - Data Definition Language - A linguagem de definição de dados
 contém comandos que
@@ -402,12 +382,8 @@ Gabarito: B.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Figura 2 - Sublinguagem de SQL
 
@@ -439,12 +415,8 @@ fornecedor requer
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 funcionalidades para a utilização do banco de dados antes do comitê da ANSI/ISO criar
 uma versão
@@ -519,12 +491,8 @@ produzindo dois dialetos distintos de Transact-SQL.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SQL PL - extensão processual do IBM DB2 para SQL, introduzido na versão 7.0 do SGBD,
 fornece construções necessárias para a execução de controle de fluxo
@@ -608,12 +576,8 @@ dos dados.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Uma extensão de SQL, é permitido o uso de código
 
@@ -694,16 +658,13 @@ e alteração das estruturas, em especial das tabelas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 11
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 LINGUAGEM DE DEFINIçÃo DE DADoS (DDL)
 
@@ -779,16 +740,13 @@ das colunas e respectivos tipos de dados.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 12
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Os demais esquemas estão relacionados aos seus modelos de dados e podem ser
 vistos como um
@@ -856,12 +814,8 @@ instância do tipo descrito pela tabela. Todas as linhas de uma tabela possuem o
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O grau de uma tabela é o número de colunas existentes nessa tabela. Já
 o número de linhas é
@@ -931,12 +885,8 @@ integridade. Cada atributo possui um tipo de dado associado. Vejamos:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 CREATE TABLE N0ME_DA_
@@ -1019,16 +969,13 @@ nome e especificando seus atributos e restrições iniciais. Vejam que os atribu
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 15
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 primeiro e a cada atributo é dado um nome, um tipo para especificar o
 domínio de seus valores e
@@ -1103,12 +1050,8 @@ constraint fk_matricula_aluno foreign key (aluno) references aluno,
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 constraint fkjnatricula_disciplina foreign key (disciplina) references disciplina);
 
@@ -1177,12 +1120,8 @@ ALUNO
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 NOME |I ÇPf I| EMAIL || DATANASCIMENTO | |
 CIDADE || VALOR—PAGO |
@@ -1249,20 +1188,13 @@ SQL Server da Microsoft, o DB2 da IBM e MySQL.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Figura 3 - Resumo dos comandos DDL.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-
-
-
 
 
 19
@@ -1271,7 +1203,7 @@ SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edi
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 TIPoS DE DADoS
 
@@ -1333,16 +1265,13 @@ Um exemplo da sintaxe do comando seria:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 20
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CONCURSO_NOME CHAR (100).
 
@@ -1415,12 +1344,8 @@ caracteres associados às colunas. Vejamos:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 BINARY STRINC
@@ -1458,12 +1383,8 @@ conhecido como BLOB. O BLOB armazena grandes grupos de bytes, até o valor espec
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Se você definir o tipo de dados de uma coluna como BINARY, poderá especificar o
 número de bytes
@@ -1514,12 +1435,8 @@ números exatos (exact numbers] e números aproximados (approximate).
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 Thiago Cavalcanti)
+Thiago Cavalcanti)
 
 Os números exatos podem ser números inteiros (lápis, pessoas ou planetas) ou ter casas
 decimais
@@ -1590,12 +1507,8 @@ decimal é equivalente a 10111 em binário, não temos espaço para armazenar es
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SGBD vai arredondar o número 0,23 para 0,2, truncando a segunda casa decimal. Neste
 caso o
@@ -1677,12 +1590,8 @@ na tabela acima.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 HORA DE
 
@@ -1753,16 +1662,13 @@ Tipo de dado Tamanho em Bytes Range
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 26
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 SMALLINT
@@ -1857,12 +1763,8 @@ col3 TIMESTAMP(9), -- armazena um selo de tempo.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 col4 TIMESTAMP WITH TIME ZONE -- exemplo de timestamp com timezone
 
@@ -1929,12 +1831,8 @@ possível ter vários conteúdos em formato XML. Estes, por sua vez, podem ser
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Por fim, é importante lembrar que o valor nulo é membro de todos os tipos de
 domínios. Se você
@@ -1984,12 +1882,8 @@ CEP CHARACTER VARYING (9)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Depois que ele é definido, um novo tipo de linha pode ser usado em uma definição de tabela:
 CREATETABLE CLIENTE (
@@ -2070,16 +1964,13 @@ podemos especificá-los como públicos, privados ou protegidos. Vejamos um exemp
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 30
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 CREATE TYPE livro_udt AS
@@ -2092,12 +1983,8 @@ ISBN varchar(40);
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e.e.'.
 
@@ -2158,12 +2045,8 @@ integridade que compõem o padrão SQL e vão fazer parte dos comandos de criaç
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 RESTRIçõES DE INTEGRIDADE
 
@@ -2201,16 +2084,13 @@ Figura 1 - Tipos de restrições de integridade
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 33
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Falaremos um pouco sobre cada uma delas. A primeira seria a restrição de chave
 primária que pode
@@ -2272,14 +2152,12 @@ conjunto de valores especificados.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 34
 
-www. estrategiaconcursos. com. br
+
 174
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O CHECK é a restrição mais flexível de todas. Sua sintaxe básica é relativamente
 simples. Para criar
@@ -2370,28 +2248,21 @@ respectivas sintaxes.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 35
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Figura 2 - Exemplos de restrições de integridade em SQL
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 DATA MANIPULATIoN LANGUAGE (DML)
 
@@ -2454,16 +2325,13 @@ FROM <table reference> [ {, ctable reference> }.. . ]
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 37
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Sobre o comando acima, a primeira informação importante é que o * (asterisco) é
 utilizado quando
@@ -2539,12 +2407,8 @@ uma string de caracteres onde devem ser usadas as aspas simples.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SELECT employeeid, lastname, salary, departmentid
 F ROM emp1oye e s
@@ -2595,12 +2459,8 @@ Atenção: Tabelas R e S referentes a um banco de dados relacional.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 F s
 
@@ -2688,16 +2548,13 @@ como variáveis de tuplas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 40
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Existem diversos modificadores de consulta que nos ajudam a adequar o retorno da nossa
 consulta.
@@ -2761,12 +2618,8 @@ Gabarito: CERTO.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Quando construímos um predicado com vários operadores, precisamos entender que existe uma
 precedência na avaliação dos operadores. Você pode usar parênteses para sobrescrever as
@@ -2824,12 +2677,8 @@ Vejamos um exemplo de questão de provas anteriores.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 HORA DE
 
@@ -2907,12 +2756,8 @@ banco.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 ATENÇÃO
 
@@ -2982,12 +2827,8 @@ predicados que são aplicados após a formação dos grupos.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Outra opção de subconsultas que retornam uma única linha é quando usamos funções de
 agregação
@@ -3056,16 +2897,13 @@ ESQUEMATIZANDO
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 45
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 É interessante perceber que a união é feita sobre o resultado de duas relações, ou
 seja, é possível
@@ -3106,16 +2944,13 @@ Tipos de junção Condição de Junção
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 46
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 LEFT OUTER JOIN
@@ -3186,12 +3021,8 @@ a) INNER JOIN, UNION e LIKE.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 b) INNER JOIN, JOIN e DISTINCT.
 
@@ -3306,12 +3137,8 @@ INSERT INTO ALUNO ESTRATÉGIA
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 VALUES (fELIS\ 55555555555, cELIS@ELIS.C0M? , 05-05-2005, fBRASÍLIAJ, 50.00);
 
@@ -3424,12 +3251,8 @@ serem executas são definidas na cláusula SET. Vejam a sintaxe do comando abaix
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 UPDATE NOME_DA_TABELA
@@ -3515,16 +3338,13 @@ SET department_id = 110;
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 50
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 HORA DE
 
@@ -3584,16 +3404,13 @@ linhas serão removidas da tabela. A sintaxe do comando é apresentada a seguir:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 51
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 DELETE FROM NOME_DA_TABELA WHERE LISTA_DE_CONDICOES
@@ -3666,12 +3483,8 @@ possível remover um conjunto de tabelas ao mesmo tempo. O primeiro parâmetro p
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 ou não, as sequências associadas às colunas das tabelas cujos dados serão removidos,
 usando,
@@ -3748,16 +3561,13 @@ Gabarito: E.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 53
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 DDL CoMPLEMENToS: VIEW
 
@@ -3823,16 +3633,13 @@ Primeiramente, a visão deve ser construída com base em apenas uma tabela. As c
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 54
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 BY, HAVING e SELECT DISTINCT não podem estar presentes. Não podem existir nenhuma função de
 agregação ou colunas calculadas (atributos derivados).
@@ -3896,16 +3703,13 @@ Gabarito: C E.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 55
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SQL EMBUTIDo
 
@@ -3962,16 +3766,13 @@ EXEC SQL close c END-EXEC
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 56
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 TRANSAçõES EM SQL
 
@@ -4040,12 +3841,8 @@ para a próxima transação.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 SAVEPOINT
@@ -4127,12 +3924,8 @@ de dados ou tuplas de uma relação que satisfação a uma condição descrita n
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Suponha que entre a primeira e a segunda leitura seja inserido um registro que também
 satisfaz a
@@ -4190,16 +3983,13 @@ X
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 59
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 INDEX (DDL)
 
@@ -4262,12 +4052,8 @@ foi descontinuada na maioria dos SGBDs, agora, usamos a restrição de UNIQUE pa
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 EXTENSõES PRoCEDURAIS
 
@@ -4341,16 +4127,13 @@ CALL MatchScore ('1-0', winner);
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 61
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O primeiro argumento é um parâmetro de entrada que alimenta o procedimento MatchScore.
 O
@@ -4437,16 +4220,13 @@ END ;
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 62
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Esta definição de função cria uma lista de compras feitas por um cliente, baseada em
 um número de
@@ -4519,12 +4299,8 @@ referencial.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Na terceira linha da sintaxe, você especifica se o gatilho é de inserção, exclusão ou
 atualização. Se
@@ -4602,12 +4378,8 @@ são afetadas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Finalmente, o último componente que seu CREATE TRIGGER deve incluir é uma ou mais
 instruções
@@ -4686,12 +4458,8 @@ Figura 1 - Extensões procedurais
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SEGURANçA (UTILIZANDo A DCL)
 
@@ -4744,16 +4512,13 @@ o PUBLIC no menor.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 66
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Autorizados Autorizados
 Autorizados
@@ -4801,12 +4566,8 @@ anteriormente, são eles:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SELECT
 
@@ -4887,16 +4648,13 @@ forma:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 68
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 GRANT balconista TO Jose;
 
@@ -4966,14 +4724,13 @@ ajuda o DBA ou o proprietário da tabela a manter o controle sobre o objeto. Ape
 www. estratégia concursos. com.br
 
 
-
 69
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 o DBA ou o proprietário do objeto atribui competência para executar a operação em
 questão pode
@@ -5041,12 +4798,8 @@ FROM user-list [RESTRICT| CASCADE];
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Você pode usar essa estrutura para revogar os privilégios especificados. A principal
 diferença entre
@@ -5118,12 +4871,8 @@ respectivamente:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 a) INSERT PRIVILEGES e DELETE PRIVILEGES.
 
@@ -5148,12 +4897,8 @@ Gabarito: D.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 QUESTõES CoMENTADAS CESPE
 
@@ -5207,12 +4952,8 @@ na prova!
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 2. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário -
 Suporte Técnico
@@ -5267,12 +5008,8 @@ ORDER BY Funcionários.Nome;
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentário: Veja que a junção utilizada na questão é um INNER JOIN, logo os
 funcionários que não tiverem um departamento associado não aparecerão no
@@ -5333,12 +5070,8 @@ Tendo como referência o código SQL precedente, julgue os itens a seguir.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 144 Na cláusula WHERE, a condição de seleção area = 'INTELIGÊNCIA' escolhe
 a tupla de interesse em particular na tabela funcionário, pois area é um atributo
@@ -5397,16 +5130,13 @@ armazenado como 34567.23.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 76
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentários: Vamos comentar cada uma das alternativas acima.
 
@@ -5464,12 +5194,8 @@ departamento e função. Esses podem ter suas descrições e outros atributos
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 descritos em suas tabelas. Desta forma, na tabela empregados teríamos apenas
 o identificador. Alternativa errada.
@@ -5527,16 +5253,13 @@ na prova!
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 78
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 9. BANCA: CESPE ANO: 2016 ÓRGÃO: TRT-08 CARGO: ANALISTA DE TI -
 QUESTÃO 13
@@ -5592,16 +5315,13 @@ incorreta.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 79
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 D A normalização é uma atividade que reduza a redundância dos dados dentro
 do banco de dados e as anomalias de atualização. Não existe um compromisso
@@ -5657,12 +5377,8 @@ REFERENCES prédio (mnemonico)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Considerando os algoritmos acima, em que são criadas as tabelas prédio e salas,
 assinale a opção cuja expressão SQL apresenta informações do registro da maior
@@ -5717,12 +5433,8 @@ ou outra variável, por exemplo max(c2.area) > 200;
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 B Veja que na alternativa B existe um erro lógico na comparação
 "c2.local=cl.id", ela não faz sentido. Não traz para o resultado as tuplas
@@ -5777,12 +5489,8 @@ processamento da consulta.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O item 92 trata da função agregada max() que de fato retorna o valor máximo
 de uma determinada coluna de uma tabela. Vamos aproveitar para falarmos um
@@ -5836,16 +5544,13 @@ Gabarito: E C
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 83
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CAIU
 
@@ -5904,12 +5609,8 @@ todos os elementos de um conjunto aos elementos de outro conjunto. Quando
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 pensamos no modelo relacional, o relacionamento é feito entre as tuplas das
 tabelas ou relações participantes da operação. Não existe a necessidade de
@@ -5968,16 +5669,13 @@ apenas com DML. Alternativa incorreta, portanto.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 85
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 A alternativa "B" é a resposta. Essa ideia de que os banco de dados objetos
 relacionais foi a união dos bancos 00 com os relacionais é bem difundida na
@@ -6047,12 +5745,8 @@ SQL que gera o conteúdo da tabela resultado.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 A select tl.codigo, tl.descricao, sum(t2.valor) as soma
 from tl join t2 on tl.codigo=t2.codigo
@@ -6097,12 +5791,8 @@ atributos.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 pessoa
@@ -6164,16 +5854,13 @@ tenham sido mapeados, assinale a opção que apresenta comando em linguagem
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 88
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SQL capaz de criar fisicamente a tabela encontro, incluindo-se as chaves
 estrangeiras necessárias.
@@ -6227,12 +5914,8 @@ D CREATE TABLE encontro (
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 'idpessoa_atende' INT(5) NULL, 'data_encontro' DATE NULL,
 'idlocal' INT(3) NULL,
@@ -6288,16 +5971,13 @@ na prova!
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 90
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 17.Ano: 2016 Banca: CESPE Órgão: TRE-PE - Cargo 2 TÉCNICO
 JUDICIÁRIO - ÁREA APOIO ESPECIALIZADO - ESPECIALIDADE
@@ -6353,12 +6033,8 @@ Questão: 38.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Na linguagem SQL, o comando create table é usado para criar uma tabela no
 banco de dados; enquanto o relacionamento entre duas tabelas pode ser criado
@@ -6415,16 +6091,13 @@ cláusula having.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 92
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Mais uma vez a resposta está na alternativa C.
 
@@ -6479,16 +6152,13 @@ na prova!
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 93
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O modelo lógico apresentado dá origem às tabelas ALUNO, INSCRICAO e
 DISCIPLINA. Considerando esse modelo e sabendo que não há nenhum
@@ -6537,12 +6207,8 @@ GROUP BY aluno.matricula, aluno.nome
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentários: Para resolver essa questão basta perceber que vamos precisar
 agrupar os alunos de acordo com a quantidade de disciplinas que eles cursam.
@@ -6583,12 +6249,8 @@ Gabarito: E
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 QUESTõES CoMENTADAS CESGRANRIo
 
@@ -6700,12 +6362,8 @@ Suas colunas são autoexplicativas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * A Tabela PARTICIPACAO informa as competições das quais participaram os cães
 registrados na
@@ -6807,16 +6465,13 @@ o tamanho do campo DESCR da tabela competição é de no máximo 20 caracteres (
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 97
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 o valor passado como parâmetro possui 30 caracteres. Já a alterativa b) comete um
 equívoco na
@@ -6891,12 +6546,8 @@ Gabarito: C
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CAIU
 
@@ -6963,12 +6614,8 @@ e) LIST nome FROM ALUNO
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentário: Essa questão também é relativamente tranquila. Veja que ela pede o nome de
 todos
@@ -7080,12 +6727,8 @@ na prova!
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 6. Ano: 2014 Banca: CESGRANRIO Órgão: CEFET-RJ Prova: Técnico de Tecnologia da Informação
 
@@ -7128,12 +6771,8 @@ apresentado abaixo, que representa parte do modelo de dados de uma instituição
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 Tipo Conta
@@ -7253,16 +6892,13 @@ Tal comando está presente na alternativa a) que é a nossa resposta.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 102
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Gabarito: A
 
@@ -7337,12 +6973,8 @@ WHERE "condição";
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Gabarito: B
 
@@ -7413,12 +7045,8 @@ na prova!
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 10. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico -
 Analise
@@ -7526,12 +7154,8 @@ a) INSERT INTO ALUNO (MATRIC, CPF, NOME) VALUES (66666,'TIAGO MENEZES')
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 b) DELETE FROM ALUNO WHERE CPF IS NULL
 
@@ -7613,12 +7237,8 @@ REFERENCES ALUNO (MATRIC))
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Observações:
 
@@ -7711,12 +7331,8 @@ b) SELECT A.NOME, AVG(H.NOTA)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 FROM ALUNO A
 INNERJOIN HISTORICO H
@@ -7765,12 +7381,8 @@ de Sistemas
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 As Tabelas pertencem ao esquema de um banco de dados acadêmico de uma universidade.
 
@@ -7882,16 +7494,13 @@ FROM ALUNO A, HISTORICO H
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 109
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 WHERE A.MATRIC=H.MATRIC AND H.NOTA >= 5.0
 
@@ -7945,12 +7554,8 @@ As informações presentes abaixo devem ser usadas para responder às questões 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Pessoa
 
@@ -8034,16 +7639,13 @@ Isso nos leva resposta na alternativa B.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 111
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Gabarito: B
 
@@ -8133,12 +7735,8 @@ Veja que isso
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 está invertido. Logo não pode ser nossa resposta. Veja que o ID de Ana
 não aparece nenhuma vez
@@ -8200,12 +7798,8 @@ relativo a um tipo de produto controlado por unidade.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Qual consulta SQL irá exibir o código, a descrição e a quantidade em
 estoque relativos a cada um
@@ -8263,16 +7857,13 @@ WHERETIPO = 1
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 114
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 UNION
 
@@ -8337,12 +7928,8 @@ DESCRICAO VARCHAR2(100) NOT NULL,
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 PRECO NUMBER(8,2) NOT NULL,
 QTD_ESTOQUE NUMBER(5),
@@ -8408,10 +7995,8 @@ www. estra tegiaconcursos. com. br
 174
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentário: Veja que a nossa resposta se encontra na alternativa A. A letra B está
 errada pois existe
@@ -8486,12 +8071,8 @@ no banco de dados relacional da empresa qualquer representação da entidade PRO
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 aparecia em seu modelo de dados. Para corrigir essa falha, preparou um
 comando SQL que alteraria
@@ -8555,12 +8136,8 @@ ADD column_name datatype;
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Veja que o nome e o tipo são informações passadas pelo enunciado, desta
 forma, podemos marcar
@@ -8632,12 +8209,8 @@ Item. 21. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de I
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CREATE TABLE Inquilino(
 
@@ -8706,16 +8279,13 @@ criadores de cães para organizar informações sobre os torneios que ela promov
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 120
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CREATE TABLE CAO (
 
@@ -8840,16 +8410,13 @@ competições. Suas colunas são autoexplicativas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 121
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
 determinado
@@ -8910,13 +8477,9 @@ ORDER BY SUM(N.NOTA_ARBTR)
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentário: Vejam que nesta questão precisamos apresentar os nomes dos cães
 participantes e o
@@ -8955,12 +8518,8 @@ criadores de cães para organizar informações sobre os torneios que ela promov
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CREATE TABLE CAO (
 
@@ -9085,16 +8644,13 @@ competições. Suas colunas são autoexplicativas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 124
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
 determinado
@@ -9160,16 +8716,13 @@ Desta forma, temos nossa resposta na alternativa E.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 125
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Gabarito: E
 
@@ -9288,16 +8841,13 @@ KEY
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 126
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * A Tabela CAO contém os dados dos cães inscritos na referida associação. A coluna
 NOME_PAI
@@ -9360,16 +8910,13 @@ e) SELECT C.NOME
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 127
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 FROM CAO QPARTICIPACAO P
 
@@ -9421,16 +8968,13 @@ Gabarito: A
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 128
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 LISTA DE QUESTõES - CEBRASPE (CESPE)
 
@@ -9485,16 +9029,13 @@ funcionários de uma empresa. Para aqueles em que seja verdadeira a condição
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 129
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Funcionários.CodigoDep = Departamentos. CodigoDep, será apresentado
 também o nome do departamento.
@@ -9549,12 +9090,8 @@ atributo, area, o qual tem o tipo de dados definido como caractere.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 147 Em LIKE '%BRASILIA,DF%', o recurso LIKE foi definido de forma incorreta,
 uma vez que a utilização da vírgula (,), sem a inclusão da palavra-chave ESCAPE,
@@ -9610,12 +9147,8 @@ ORDER BY sobrenome
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CAIU
 
@@ -9671,12 +9204,8 @@ estrutura de loop para contar as linhas resultantes.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CAIU
 
@@ -9732,12 +9261,8 @@ from prédio as cl, salas as c2
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 where c2.local=cl.id
 
@@ -9795,16 +9320,13 @@ JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 134
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Quanto a bancos de dados, sistemas gerenciadores de bancos de dados e
 técnicas correlacionadas de modelagem de dados, julgue os próximos itens.
@@ -9864,16 +9386,13 @@ entrada de um CPF com formatação incorreta.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 135
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 D) Uma view representa uma tabela em forma física consolidada a partir de
 outras tabelas previamente definidas.
@@ -9940,12 +9459,8 @@ C select tl.codigo, tl.descricao, sum(t2.valor) as soma
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 from tl right join t2 on tl.codigo=t2.codigo
 group by tl.codigo, tl.descricao;
@@ -9968,12 +9483,8 @@ atributos.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 pessoa
@@ -10057,16 +9568,13 @@ B CREATE TABLE encontro (
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 138
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 'idpessoa_atende' INT(5) NULL,
 'data_encontro' DATE NULL,
@@ -10121,12 +9629,8 @@ REFERENCES 'pessoa' ('idPessoa'),
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 'idpessoa_atende' INT(5) NULL FOREIGN KEY ('idpessoa_atende')
 REFERENCES 'pessoa' ('idPessoa'),
@@ -10185,16 +9689,13 @@ Questão: 38.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 140
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Na linguagem SQL, o comando create table é usado para criar uma tabela no
 banco de dados; enquanto o relacionamento entre duas tabelas pode ser criado
@@ -10247,12 +9748,8 @@ E insert.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CAIU
 
@@ -10300,16 +9797,13 @@ AND quantidade > 2
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 142
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 GROUP BY inscricao, aluno, disciplina
 
@@ -10343,16 +9837,13 @@ E DELETE FROM pessoa WHERE sexo='M'
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 143
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 GABARITo
 
@@ -10403,12 +9894,8 @@ Item. 22. E
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 LISTA DE QUESTõES - CESCRANRIO
 
@@ -10522,16 +10009,13 @@ Observações:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 145
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * A Tabela CAO contém os dados dos cães inscritos na referida associação.
 A coluna NOME_PAI
@@ -10636,16 +10120,13 @@ d) INSERT INTO CAO (COD, NOME, RACA, NOME_PAI)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 146
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 VALUES (1130,'TUTU','BULDOG FRANCÊS','PEPEU')
 
@@ -10708,12 +10189,8 @@ Júnior - Informática
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 ALUNO (cpf : string , nome : string , endereço : string, telefone : string)
 MATRICULA (cpf : string , cod-cad : string)
@@ -10839,12 +10316,8 @@ na prova!
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 6. Ano: 2014 Banca: CESGRANRIO Órgão: CEFET-RJ Prova: Técnico de Tecnologia da Informação
 
@@ -10925,12 +10398,8 @@ VARCHAR(256))
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 b) CREATE TABLE TipoJZonta (
 codigo_tipo_conta:NUMERIC PRIMARY KEY,
@@ -11014,12 +10483,8 @@ d) UPDATE credito_bloqueado_sn="S" From Conta WHERE id_conta=123456
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e) UPDATE INTO Conta VALUES (123456,"S")
 
@@ -11078,12 +10543,8 @@ de Sistemas
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 As Tabelas pertencem ao esquema de um banco de dados acadêmico de uma universidade.
 
@@ -11212,12 +10673,8 @@ b) DELETE FROM ALUNO WHERE CPF IS NULL
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 c) UPDATE ALUNO SET CPF=23565677789 WHERE NOME ='GABRIEL LOPES'
 
@@ -11271,12 +10728,8 @@ REFERENCES ALUNO (MATRIC))
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Observações:
 
@@ -11368,16 +10821,13 @@ GROUP BY A.NOME
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 154
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 b) SELECT A.NOME, AVG(H.NOTA)
 FROM ALUNO A
@@ -11416,12 +10866,8 @@ de Sistemas
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 As Tabelas pertencem ao esquema de um banco de dados acadêmico de uma universidade.
 
@@ -11529,12 +10975,8 @@ FROM ALUNO A, HISTORICO H
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 WHERE A.MATRIC=H.MATRIC AND H.NOTA >= 5.0
 
@@ -11580,12 +11022,8 @@ As informações presentes abaixo devem ser usadas para responder às questões 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Pessoa
 
@@ -11660,12 +11098,8 @@ As informações presentes abaixo devem ser usadas para responder às questões 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Pessoa
 
@@ -11748,12 +11182,8 @@ TIPO NUMBER(l) NOT NULL,
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CONSTRAINT PRODUTO_PK PRIMARY KEY (COD))
 CREATE TABLE ITEM (
@@ -11816,16 +11246,13 @@ UNION
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 160
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SELECT P.COD, P.DESCRICAO, COUNT(I.COD_PROD)
 FROM PRODUTO P
@@ -11884,12 +11311,8 @@ DESCRICAO VARCHAR2(100) NOT NULL,
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 PRECO NUMBER(8,2) NOT NULL,
 QTD_ESTOQUE NUMBER(5),
@@ -11951,12 +11374,8 @@ VALUES(7777,'COMPUTADOR BLUEX',1000.00,2)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CAIU
 
@@ -12025,12 +11444,8 @@ e) CREATE TABLE PRODUTO
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CAIU
 
@@ -12104,12 +11519,8 @@ b) alter table Inquilino add column telefone varchar(12);
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 c) alter table Inquilino insert column telefone varchar(12);
 
@@ -12179,12 +11590,8 @@ criadores de cães para organizar informações sobre os torneios que ela promov
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CREATE TABLE CAO (
 
@@ -12310,16 +11717,13 @@ competições. Suas colunas são autoexplicativas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 166
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão,
 por um determinado
@@ -12381,16 +11785,13 @@ GROUP BYC.NOME
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 167
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 ORDER BYSUM(N.NOTA ARBTR)
 
@@ -12510,16 +11911,13 @@ KEY
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 168
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * A Tabela CAO contém os dados dos cães inscritos na referida associação.
 A coluna NOME_PAI
@@ -12587,16 +11985,13 @@ e) SELECT A.NOME, SUM(N.NOTA_ARBTR) / COUNT(*)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 169
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 FROM CAO C,AVALIACAO N,ARBITRO A
 
@@ -12721,16 +12116,13 @@ KEY
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 170
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Observações:
 
@@ -12794,16 +12186,13 @@ HAVING COUNT(*) >0
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 171
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e) SELECT C.NOME
 
@@ -12838,16 +12227,13 @@ e) DELETE FUNCTION DELETE FROM RH5678 ON RH05 FUNCIONARIO
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 172
 
 174
 
 
 Thiago Rodrigues Cavalcanti
-Aula 03 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 GABARITo
 
@@ -12902,10 +12288,6 @@ Item. 24. D
 Item. 25. A
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-
-
-
-
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

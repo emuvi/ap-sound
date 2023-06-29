@@ -1,5 +1,5 @@
 Capítulo. Garantia da Segurança de Sistemas - ISO 27000. Gerência de riscos. Ameaças. MFA. OAuth 2, JWT, SSO, Open ID e SAML.
-Aula 00
+
 
 índice
 
@@ -8,12 +8,8 @@ Aula 00
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-I
 
 
-
-
-
-
 André Castro
-Aula 00
+
 
 Sumário
 
@@ -55,13 +51,9 @@ Princípios de Segurança
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 00
+
 
 Diretrizes para Software Seguro
 Questões Comentadas Complementares
@@ -88,10 +80,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 ww. estrategiaconcursos. com. br
 
 
-
-
 André Castro
-Aula 00
+
 
 Considerando a era da Informação em que nos encontramos atualmente, aspectos
 de Segurança da
@@ -154,14 +144,13 @@ Item. 0.0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informa
 www. estra tegiaconcursos. com. br
 
 
-
 5
 
 108
 
 
 André Castro
-Aula 00
+
 
 A) integridade.
 
@@ -230,9 +219,6 @@ por diversos usuários da violação do princípio da disponibilidade caso estes
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 6
 
@@ -240,7 +226,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 site ou enviar suas requisições por falha no sistema ou volume de acesso que consomem
 todos os
@@ -289,12 +275,8 @@ cartões físicos ou digitais de acesso, entre muitos outros.
 0-0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 00
+
 
 r.................................................... 7........................
 ............................. ................\
@@ -361,7 +343,7 @@ PRATICAR!
 
 
 André Castro
-Aula 00
+
 
 (Ano: 2022 Banca: FGV Órgão: TJDFT Prova: Suporte em TI) Lucas é um trader
 profissional que trabalha
@@ -422,8 +404,7 @@ B) Completude.
 0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-* 
+*
 
 9
 
@@ -431,7 +412,7 @@ B) Completude.
 
 
 André Castro
-Aula 00
+
 
 C) Confidencialidade.
 
@@ -494,13 +475,9 @@ recuperar a intervenção realizada.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 00
+
 
 o Como vimos, neste caso, não há capacidade de recuperação, mas tão somente de detecção.
 
@@ -559,9 +536,6 @@ do atacante;
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 11
 
@@ -569,7 +543,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 * Varredura: um atacante pode fazer varreduras na rede, a fim de
 descobrir outros
@@ -612,13 +586,9 @@ captura de senhas de acesso e informações que por ele passem a trafegar.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 00
+
 
 Furto de dados: dados
 podem ser obtidos pela
@@ -724,13 +694,9 @@ de se comunicar F
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 00
+
 
 SEGURANçA FÍSICA, LóGICA E CoNTRoLE DE ACESSo
 
@@ -775,9 +741,6 @@ fonte de energia.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 14
 
@@ -785,7 +748,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 Item. 3. Site físico redundante - Busca-se criar outro ambiente que seja capaz de assumir
 a operação em
@@ -812,9 +775,6 @@ chaves kensington, que, literalmente, "prendem" o equipamento em uma localidade.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 15
 
@@ -822,7 +782,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 Item. 6. Alarmes - Temos aqui um sistema de aviso que pode ser considerando no seu
 aspecto físico, como
@@ -842,9 +802,6 @@ catástrofes, entre outros.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 16
 
@@ -852,7 +809,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 Segurança Lógica
 
@@ -886,7 +843,7 @@ segurança lógica.
 
 
 André Castro
-Aula 00
+
 
 [ Ano: 2021 Banca: CESPE / CEBRASPE Órgão: PG-DF
 
@@ -969,9 +926,6 @@ mais atualizadas.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 18
 
@@ -979,7 +933,6 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
 
 
 Segurança Lógica
@@ -1036,16 +989,13 @@ C lógica, física, lógica e física.
 0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 19
 
 108
 
 
 André Castro
-Aula 00
+
 
 D lógica, física, física e lógica.
 E física, lógica, física e lógica.
@@ -1101,7 +1051,7 @@ rodando.
 
 
 André Castro
-Aula 00
+
 
 ........................................ .................... ....................
 .................... .................... .................... ....................
@@ -1176,13 +1126,9 @@ e considerando o usuário que necessita compartilhar o recurso com outros usuár
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 00
+
 
 o usuário tem o controle de garantir privilégios de acesso a recursos aos que estão
 sob seu domínio.
@@ -1233,12 +1179,8 @@ RBAC, que é, embasado em papéis.
 0-0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 00
+
 
 r
 
@@ -1307,9 +1249,6 @@ Gabarito: B
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 23
 
@@ -1317,7 +1256,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 AUTENTICAçÃo E SEUS MECANISMoS
 
@@ -1388,7 +1327,7 @@ i authorization e accounting).
 
 
 André Castro
-Aula 00
+
 
 INDO MAIS
 
@@ -1436,16 +1375,13 @@ CESPE / CEBRASPE - 2022 - TCE-SC - Auditor Fiscal de Controle Externo - Ciência
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 25
 
 108
 
 
 André Castro
-Aula 00
+
 
 No controle de acesso, somente os usuários que tenham sido especificamente autorizados
 podem
@@ -1502,16 +1438,13 @@ com ALGO QUE VOCÊ POSSUI (celular). Logo, temos aí o 2FA.
 0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 26
 
 108
 
 
 André Castro
-Aula 00
+
 
 Gabarito: D
 
@@ -1561,9 +1494,6 @@ Gabarito: C
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 27
 
@@ -1571,7 +1501,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 SAML - Security Assertion Markup Language
 
@@ -1640,9 +1570,6 @@ caso haja esse reconhecimento em alguma medida, o usuário terá sua credencial 
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 28
 
@@ -1650,7 +1577,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 Por fim, o nível Ouro, que envolve reconhecimento biométrico. Basicamente, o principal
 provedor dessa
@@ -1726,16 +1653,13 @@ ser realizado, ou, no
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 29
 
 108
 
 
 André Castro
-Aula 00
+
 
 mínimo, a confirmação da segunda camada de segurança. Ainda, a título de
 exemplo, pode-se utilizar
@@ -1801,9 +1725,6 @@ mencionamos.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 30
 
@@ -1811,7 +1732,6 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
 
 
 Client
@@ -1887,9 +1807,6 @@ Governo. =
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 31
 
@@ -1897,7 +1814,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 i O que importa é que, nesse processo, é necessário que o serviço que realiza
 chamada a essa API tenha um ;
@@ -1977,7 +1894,7 @@ L....................... ■■■■■■■..................................
 
 
 André Castro
-Aula 00
+
 
 ....................................................................................................
 .............................................................................................. i
@@ -2062,9 +1979,6 @@ Item. 5. Reconhecimento de voz;
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 33
 
@@ -2072,7 +1986,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 Desse modo, os filmes futuristas, bem como aqueles que retratam assaltos a
 cofres muito seguros
@@ -2103,9 +2017,6 @@ comparação seja positiva, tem-se um "match", dando o resultado como positivo.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 34
 
@@ -2113,7 +2024,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 Ano: 2021 Banca: CESPE / CEBRASPE Órgão: SEFAZ-AL
 
@@ -2165,16 +2076,13 @@ retina e =
 Item. 0.0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 35
 
 108
 
 
 André Castro
-Aula 00
+
 
 ....................................................................................................
 .............................................................................................. i
@@ -2223,9 +2131,6 @@ mundial, a Mcafee, que extrapola ainda mais o conceito de Endpoints:
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 36
 
@@ -2233,7 +2138,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 Q
 
@@ -2319,9 +2224,6 @@ Entretanto, mesmo essas medidas não são suficientes no processo.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 37
 
@@ -2329,7 +2231,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 Assim, surgem as técnicas de análise de comportamento por meio de inteligência
 artificial e aprendizado
@@ -2403,16 +2305,13 @@ da ofuscação do código ou trecho dele que procederá exatamente com as funcio
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 38
 
 108
 
 
 André Castro
-Aula 00
+
 
 Nesse contexto, portanto, dentro de uma sandbox, pode-se executar o
 código e avaliar o
@@ -2492,16 +2391,13 @@ A redução de custos e facilidade de atualização;
 0-0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 39
 
 108
 
 
 André Castro
-Aula 00
+
 
 B configuração simplificada e fácil instalação de API;
 C monitoramento completo e antivírus atualizado;
@@ -2563,7 +2459,7 @@ e conformidade.
 
 
 André Castro
-Aula 00
+
 
 Já mencionamos na aula de hoje alguns instrumentos e mecanismos utilizados para fins de auditoria.
 Em um conceito básico, temos que
@@ -2658,16 +2554,13 @@ Assim, espera-se que os órgãos estejam em conformidade com essas questões que
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 41
 
 108
 
 
 André Castro
-Aula 00
+
 
 r*"""""*........................... ..
 ................................................■■■■■■■■■■■■■......................
@@ -2733,9 +2626,6 @@ de 11 de setembro.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 42
 
@@ -2743,7 +2633,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 Sem entrar no mérito da causa e, obviamente, ciente de que as vidas eram os bens
 mais precioso nesse
@@ -2780,9 +2670,6 @@ alternativas, mas sofreram para voltarem ao seu funcionamento.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 43
 
@@ -2790,7 +2677,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 Aqui cabe mais um caso clássico que é o uso de nobreaks e geradores em soluções de
 redundância e backup.
@@ -2900,7 +2787,7 @@ Informação.
 
 
 André Castro
-Aula 00
+
 
 ** ACORDE!
 
@@ -2958,13 +2845,9 @@ Esta norma trata dos requisitos para criação de um sistema de gestão de conti
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 00
+
 
 * NBR 31000
 
@@ -3033,16 +2916,13 @@ Resumindo, portanto, temos:
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 46
 
 108
 
 
 André Castro
-Aula 00
+
 
 r
 
@@ -3113,13 +2993,9 @@ que os dados ou informação em análise. Desse modo, aceita-se o risco em caso 
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 00
+
 
 r ■■■■■■■................................. .........................................
 ....................................................................................................
@@ -3163,9 +3039,6 @@ Gabarito: E
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 48
 
@@ -3173,7 +3046,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 DIRETRIZES PARA o DESENVoLVIMENTo DE SoFTwARE SEGURo
 
@@ -3241,16 +3114,13 @@ extremamente fortes para os usuários.
 Item. 0.0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 49
 
 108
 
 
 André Castro
-Aula 00
+
 
 Temos aqui mais um ponto amplamente difundido, entretanto, mais uma vez, negligenciado
 pelos usuários.
@@ -3320,9 +3190,6 @@ por medida de segurança, é importante que haja um padrão de mensagem de erro 
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 50
 
@@ -3330,7 +3197,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 usuário que não vaze informações a respeito da aplicação, evitando assim que um
 atacante
@@ -3419,7 +3286,7 @@ manutenção
 
 
 André Castro
-Aula 00
+
 
 O SDL tem relação direta com as fases do ciclo de vida para desenvolvimento de
 software. Esse processo
@@ -3477,16 +3344,13 @@ Vamos explorar um pouco mais os aspectos de segurança considerados em cada uma 
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 52
 
 108
 
 
 André Castro
-Aula 00
+
 
 Item. 1. FASE DE REQUISITOS
 
@@ -3540,16 +3404,13 @@ I
 oo SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 53
 
 108
 
 
 André Castro
-Aula 00
+
 
 r
 
@@ -3622,16 +3483,13 @@ fornecido aos clientes.
 0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 54
 
 108
 
 
 André Castro
-Aula 00
+
 
 PRESTE MAIS
 
@@ -3694,8 +3552,6 @@ consideradas no desenvolvimento do software.
 
 
 0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-www. estrategiaconcursos. com. br
-
 
 
 55
@@ -3704,7 +3560,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 A Visão Conceituai apresenta uma visão geral de como funciona o processo CLASP e como seus
 componentes
@@ -3767,9 +3623,6 @@ Vulnerabilidades
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 56
 
@@ -3777,7 +3630,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 SAST (Static Application Security Testing)
 
@@ -3856,7 +3709,7 @@ compartilhamento contínuo.
 
 
 André Castro
-Aula 00
+
 
 Um ponto de observação a ser considerado diz respeito aos critérios a serem
 considerados na escolha de
@@ -3896,9 +3749,6 @@ resultados das diversas ferramentas:
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 58
 
@@ -3906,7 +3756,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 DAST (Dynamic Application Security Testing)
 
@@ -3933,9 +3783,6 @@ evitar o devido comportamento.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 59
 
@@ -3943,7 +3790,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 Um outro viés que se constrói com esse tipo de ferramenta é o teste de penetração.
 Assim, utiliza-se de
@@ -3976,9 +3823,6 @@ recursos.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 60
 
@@ -3986,7 +3830,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 OWASP Secure Coding Practices
 
@@ -4032,9 +3876,6 @@ https://www.owasp.org/índex.php/Testing Guide lntroduction#Principles of Testin
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 61
 
@@ -4042,7 +3883,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 HORA DE
 
@@ -4087,7 +3928,7 @@ Comentários:
 
 
 André Castro
-Aula 00
+
 
 Pessoal, os únicos itens que tratam da integridade são as letras "A" e "D". As
 letras "B" e "C" tratam do
@@ -4135,16 +3976,13 @@ Gabarito: E
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 63
 
 108
 
 
 André Castro
-Aula 00
+
 
 5.(CESPE - TJDFT/Analista Judiciário - Análise de Sistemas/2015) Se um colaborador
 conseguiu visualizar
@@ -4198,8 +4036,7 @@ Gabarito: E
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 64
@@ -4208,7 +4045,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 8.(CESPE - TCE-RO/Analista de lnformática/2013) Se um sítio da web sofrer
 comprometimento devido a
@@ -4253,7 +4090,7 @@ Gabarito: E
 
 
 André Castro
-Aula 00
+
 
 ll.(CESPE - TRE-RJ/Analista Judiciário - Análise de Sistemas/2012)Na atualidade, os
 ativos físicos de uma
@@ -4298,8 +4135,7 @@ comunicado ao setor competente e tratado rapidamente.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 66
@@ -4308,7 +4144,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 Comentários:
 
@@ -4363,8 +4199,7 @@ atribuídas aos sistemas
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 67
@@ -4373,7 +4208,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 corporativos e aos bancos de dados, formas de proteção ao código-fonte, preservação de
 arquivos de log
@@ -4423,16 +4258,13 @@ Gabarito: C
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 68
 
 108
 
 
 André Castro
-Aula 00
+
 
 2O.(CESPE - TJ-SE/Analista Judiciário - Segurança da lnformação/2014) Separação
 de tarefas, privilégio
@@ -4481,16 +4313,13 @@ Gabarito: C
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 69
 
 108
 
 
 André Castro
-Aula 00
+
 
 23.(CESPE - SUFRAMA/Analista de Sistemas - Desenvolvimento/2014) O controle de
 acesso refere-se à
@@ -4546,8 +4375,7 @@ proteção.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 70
@@ -4556,7 +4384,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 e) Entre as características básicas da segurança da informação estão a
 confidencialidade, a disponibilidade
@@ -4623,8 +4451,7 @@ firewalls, detectores de intrusões, antivírus, filtros anti-spam e controle de
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 71
@@ -4633,7 +4460,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 Comentários:
 
@@ -4695,8 +4522,7 @@ estarão mais disponíveis.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 72
@@ -4705,7 +4531,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 Gabarito: E
 
@@ -4757,16 +4583,13 @@ alteração no conteúdo da planilha, ou seja, não houve prejuízo à integrida
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 73
 
 108
 
 
 André Castro
-Aula 00
+
 
 Gabarito: D
 
@@ -4815,8 +4638,7 @@ Gabarito: E
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 74
@@ -4825,7 +4647,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 34.(CESPE - DEPEN/Área 07/2015) O principal objetivo da segurança da informação
 é preservar a
@@ -4875,7 +4697,7 @@ Comentários:
 
 
 André Castro
-Aula 00
+
 
 Como mencionamos, a auditoria pode atuar em qualquer etapa, fase ou tipo de processo,
 recurso (inclusive
@@ -4929,8 +4751,7 @@ desastres;
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 76
@@ -4939,7 +4760,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 além disso, é de responsabilidade dessa gerência a constante atualização com
 respeito a problemas e
@@ -4990,8 +4811,7 @@ Gabarito: C
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 77
@@ -5000,7 +4820,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 42.(CESPE - 2014 - TJ-SE - Analista Judiciário - Segurança da Informação) Atividades
 de usuários, exceções
@@ -5021,16 +4841,13 @@ Gabarito: E
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 78
 
 108
 
 
 André Castro
-Aula 00
+
 
 Diretrizes para Software Seguro
 
@@ -5083,7 +4900,7 @@ Gabarito: E
 
 
 André Castro
-Aula 00
+
 
 45.(CESPE - CNJ/Analista Judiciário - Análise de Sistemas/2013) O SDL é um processo de
 desenvolvimento
@@ -5117,16 +4934,13 @@ Gabarito: C
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 80
 
 108
 
 
 André Castro
-Aula 00
+
 
 HORA DE
 
@@ -5170,7 +4984,7 @@ e) confidencialidade -integridade -disponibilidade - autenticidade -legalidade.
 
 
 André Castro
-Aula 00
+
 
 Comentário;
 
@@ -5220,16 +5034,13 @@ Gabarito: A
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 82
 
 108
 
 
 André Castro
-Aula 00
+
 
 3.(FCC - TRE-CE/Técnico Judiciário - Programação de Sistemas/2012) A propriedade que
 garante que nem
@@ -5279,8 +5090,7 @@ de identificação está relacionado à autenticaçõo.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 83
@@ -5289,7 +5099,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 Gabarito: A
 
@@ -5350,16 +5160,13 @@ desejado conferem. O usuário só conseguirá o acesso se essa verificação for
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 84
 
 108
 
 
 André Castro
-Aula 00
+
 
 E) limitar o número de tentativas de logon sem sucesso e limitar o horário de uso
 dos recursos computacionais
@@ -5414,8 +5221,7 @@ mecanismo de controle de acesso lógico é
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 85
@@ -5424,7 +5230,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 a) a função hash.
 
@@ -5481,8 +5287,7 @@ Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 86
@@ -5491,7 +5296,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 Como vimos em nossa teoria:
 
@@ -5532,16 +5337,13 @@ Gabarito: B
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 87
 
 108
 
 
 André Castro
-Aula 00
+
 
 HORA DE
 
@@ -5583,16 +5385,13 @@ violação da autenticidade das informações.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 88
 
 108
 
 
 André Castro
-Aula 00
+
 
 4.(CESPE - TJDFT/Analista Judiciário - Análise de Sistemas/2015) Se, para
 cometer o incidente, o
@@ -5641,7 +5440,7 @@ organização são mais importantes para ela do que os ativos de informação.
 
 
 André Castro
-Aula 00
+
 
 12.(CESPE - TRE-RJ/Analista Judiciário - Análise de Sistemas/2012) O termo de
 confidencialidade, de
@@ -5695,7 +5494,7 @@ eletrônicos, mas também daqueles pertinentes ao controle de acesso físico.
 
 
 André Castro
-Aula 00
+
 
 19.(CESPE - TJ-SE/Analista Judiciário - Segurança da lnformação/2014) Considere que uma
 empresa tenha
@@ -5749,8 +5548,7 @@ repúdio.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 91
@@ -5759,7 +5557,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 b) No contexto atual do governo e das empresas brasileiras, a segurança da informação
 tem sido tratada de
@@ -5820,8 +5618,7 @@ disponibilidade e a autenticidade de informações em ambientes de tecnologia da
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 92
@@ -5830,7 +5627,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 29.(CESPE - SUFRAMA/Analista de Sistemas/2014) A lentidão e a paralisação do
 funcionamento de um
@@ -5879,9 +5676,6 @@ confidencialidade, a autenticidade, a integridade e a disponibilidade da informa
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 93
 
@@ -5889,7 +5683,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 35.(CESPE - TCU/Auditor Federal de Controle Externo - TI/2015)Confidencialidade é
 a garantia de que
@@ -5939,7 +5733,7 @@ organizacionais de segurança da informação.
 
 
 André Castro
-Aula 00
+
 
 A execução correta dos procedimentos de segurança da informação, em conformidade com
 normas e com a política
@@ -5987,9 +5781,6 @@ código.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 95
 
@@ -5997,7 +5788,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 HORA DE
 
@@ -6045,7 +5836,7 @@ considere:
 
 
 André Castro
-Aula 00
+
 
 I. Capacidade do sistema de permitir que alguns usuários acessem determinadas
 informações, enquanto
@@ -6100,8 +5891,7 @@ b) auditoria.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 97
@@ -6110,7 +5900,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 c) autorização.
 
@@ -6170,8 +5960,7 @@ nos fins de semana ou à noite.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 98
@@ -6180,7 +5969,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 7.(FCC - TCE-GO/Analista de Controle Externo/2014) Pedro trabalha na área que cuida da
 Segurança da
@@ -6240,16 +6029,13 @@ c) da retina.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 99
 
 108
 
 
 André Castro
-Aula 00
+
 
 d) cognitiva.
 
@@ -6307,16 +6093,13 @@ Gabarito - Questões CESPE
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 100
 
 108
 
 
 André Castro
-Aula 00
+
 
 r....................
 
@@ -6398,7 +6181,7 @@ Gabarito - Questões FCC
 
 
 André Castro
-Aula 00
+
 
 -----------
 
@@ -6461,9 +6244,6 @@ identidade do atacante;
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 102
 
@@ -6471,7 +6251,7 @@ www. estrategiaconcursos. com. br
 
 
 André Castro
-Aula 00
+
 
 o Varredura: um atacante pode fazer varreduras na rede, a fim de descobrir
 outros
@@ -6522,13 +6302,9 @@ de equipamentos, alarmes, catracas, sala cofre.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 00
+
 
 * Controle de Acesso: método aplicado tanto no contexto físico e lógico, com vistas a
 estabelecer
@@ -6568,7 +6344,7 @@ processar informação e trafegar dados, poderá ser classificado como um ENDPOI
 
 
 André Castro
-Aula 00
+
 
 * Dentre alguns recursos e contextos de aplicação das soluções voltadas para
 segurança em
@@ -6632,8 +6408,7 @@ a seguradora.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 105
@@ -6642,7 +6417,7 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 
 
 André Castro
-Aula 00
+
 
 o Mitigar - Objetiva-se atuar em prol da minimização dos riscos. Como
 exemplo, pode-se
@@ -6702,7 +6477,7 @@ Um grande abraço.
 
 
 André Castro
-Aula 00
+
 
 Prof. André Castro.
 
@@ -6710,9 +6485,6 @@ Instagram: @ProfAndreCastro Telegram: t.me/ProfessorAndreCastro
 
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-
-
-
 
 
 107

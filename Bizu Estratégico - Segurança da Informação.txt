@@ -12,7 +12,7 @@ Aline Calado Fernandes
 
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 Bizu ESTRATÉGICo DE SEGURANçA DA INFoRMAçÃo -
 
@@ -40,12 +40,8 @@ Segurança da Informação do professor André Castro.
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
 
 
-
-
-
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 ANÁLISE ESTATÍSTICA
 
@@ -58,12 +54,8 @@ focar nos pontos mais importantes para revisar e detonar na prova!
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
 
 
-
-
-
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 MAPA DO BIZU
 
@@ -107,13 +99,9 @@ http://questo.es/0lz3hq
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 Apresentação
 
@@ -139,13 +127,9 @@ Um grande abraço e bons estudos!
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 Item. 1. Mecanismos de segurança (Criptografia, Assinatura Digital,
 Garantia de Integridade, Controle de Acesso, Certificação
@@ -207,12 +191,8 @@ Em regra, temos que todos os modos buscam garantir aspectos de confidencialidade
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
 
 
-
-
-
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 Alguns deles são capazes de tratar aspectos de autenticidade e integridade, ou seja, não podemos
 generalizar e afirmar que a cifragem por bloco garante os princípios de segurança de forma geral.
@@ -287,12 +267,8 @@ armazenar o dado criptografado.
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
 
 
-
-
-
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 Item. 2. Método Pré-Computado: Neste método, busca-se criar uma lista, bem extensa
 por sinal
@@ -346,13 +322,9 @@ Vamos conhecer agora os principais algoritmos de criptografia simétrica:
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 DES
 
@@ -407,12 +379,8 @@ totalizando 168 bits de tamanho de chave.
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
 
 
-
-
-
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 AES-Advanced Encryption Standard
 
@@ -543,12 +511,7 @@ garantida
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
 
 
-
-
-
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
 
 
 Criptografia
@@ -624,13 +587,9 @@ MD4
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 O MD4 produz HASH de tamanho de 128 bits, dependendo de entradas de tamanho múltiplos
 de 512
@@ -666,13 +625,9 @@ dados.
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 Principais algoritmos: SHA-1 (Hash de 160 bits), MD5 (Hash de 128 bits), etc
 
@@ -758,13 +713,9 @@ Além disso, por seguir o padrão X.509 do ITU-t, consta ainda:
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 * Informações sobre o algoritmo assimétrico da chave pública do usuário;
 
@@ -834,13 +785,9 @@ o Certificado do Tipo A3 e S3
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 ■ É o certificado em que a geração e o armazenamento das chaves criptográficas são
 feitos em cartão
@@ -915,13 +862,9 @@ Lista de Certificados Revogados (CRL- Certification Revocation List)
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 Item. 3. Políticas de segurança (NBR ISO/IEC 27002:2005, NBR ISO/IEC
 27001:2013, Políticas de senhas).
@@ -997,13 +940,9 @@ ii. Termos e Condições de Contratação;
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 b. Durante a Contratação
 
@@ -1097,13 +1036,9 @@ b. Gerenciamento de acesso do usuário
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 i. Registro e cancelamento de usuário
 
@@ -1195,13 +1130,9 @@ i. Controles contra malware
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 c. Cópias de Segurança
 
@@ -1291,13 +1222,9 @@ a. Segurança da informação na cadeia de suprimento
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-Aula 07
+
 
 i. Política de segurança da informação no relacionamento com os fornecedores
 
@@ -1368,13 +1295,9 @@ iii. Análise crítica da conformidade técnica
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico -2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-Aula 07
+
 
 Então é isso pessoal, vamos ficando por aqui.
 Esperamos que tenha gostado do nosso Bizu!
@@ -1384,10 +1307,6 @@ Bons estudos!
 @prof!eoma th ias
 
 SERPRO (Analista - Especialização: Tecnologia) Bizu Estratégico - 2023 (Pós-Edital)
-
-
-
-
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

@@ -2,7 +2,7 @@ Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relac
 
 Concursos
 
-Aula 04 (Prof. Thiago
+(Prof. Thiago
 
 Cavalcanti)
 
@@ -17,7 +17,7 @@ Thiago Rodrigues Cavalcanti
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 índice
 
@@ -42,12 +42,8 @@ Aula 04 (Prof. Thiago Cavalcanti)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SISTEMAS GERENCIADoRES DE BANCo DE DADoS: ORACLE
 
@@ -108,12 +104,8 @@ retornam os resultados para o usuário ou aplicação.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Oracle Net, que é uma camada de software que permite os aplicativos do cliente e o
 banco de
@@ -174,12 +166,8 @@ transações e data warehousing.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O Autonomous Data Warehouse é um serviço de banco de dados em nuvem
 otimizado para
@@ -251,12 +239,8 @@ para guiá-lo através do processo de criação e configuração de um banco de 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Antes de iniciar o processo de instalação, é importante obter informações
 sobre os pré-
@@ -324,12 +308,8 @@ Os métodos de instalação são divididos em Desktop Class e Server Class:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Desktop Class - Esta classe de instalação é mais apropriada para computadores laptop ou
 desktop. Ela inclui um banco de dados inicial e requer uma configuração mínima.
@@ -396,16 +376,13 @@ Diretórios de instalação
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 7
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 É preciso informar alguns endereços onde serão armazenados os arquivos. Primeiro você
 deve
@@ -473,16 +450,13 @@ entender o contexto de cada uma delas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 8
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 1) Product Languages você escolhe o idioma usado após a instalação (English).
 
@@ -549,12 +523,8 @@ configurações avançadas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 6. Nesta tela, você deve informar os seguintes detalhes de configuração: (1)
 Localização ou
@@ -598,16 +568,13 @@ da criação do banco de dados, aparecerá um resumo das informações.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 10
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 11. Este passo é opcional. Você pode clicar em Password Management para desbloquear as
 contas de usuário, fazendo com que elas estejam acessíveis aos usuários. As contas SYS e SYSTEM
@@ -626,12 +593,8 @@ a seguir, a criação e gerenciamento de um banco de dados.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CRIANDo UM BANCo DE DADoS CoM DBCA
 
@@ -697,16 +660,13 @@ nosso fluxo visa tratar dos exemplos de esquema e script, geralmente, não é mu
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 12
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O passo nove vai permitir ajustes nos parâmetros de inicialização. São quatro
 grupos de
@@ -768,16 +728,13 @@ afetar o acesso
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 13
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Visão geral da estrutura física
 
@@ -829,16 +786,13 @@ comando, podemos observar esse fato:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 14
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 ALTER TABLESPACE tablespace_name
 
@@ -911,16 +865,13 @@ como outros parâmetros importantes para a incorporação e expansão dele. Veja
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 15
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 { [ 'filename' | 'ASM_filename' ]
 
@@ -993,16 +944,13 @@ MAXSIZE 250M;
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 16
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 1. Ano: 2017 Banca: FGV Órgão: Alerj Cargo: Analista de Tecnologia da Informação Q. 44
 
@@ -1065,16 +1013,13 @@ banco de dados.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 17
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 HORA DE
 
@@ -1144,16 +1089,13 @@ registros do redo log.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 18
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Archive Log Files
 
@@ -1218,16 +1160,13 @@ da estrutura lógica do SGBD.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 19
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Visão geral da estrutura lógica
 
@@ -1277,12 +1216,8 @@ tablespaces SYSTEM e SYSAUX são criados como espaços de tabela smallfile.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 A Oracle também permite criar espaços de tabela bigfile. Isso permite que o Oracle
 Database
@@ -1352,16 +1287,13 @@ Podemos, portanto, marcar nossa reposta na alternativa B.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 21
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Gabarito B
 
@@ -1421,16 +1353,13 @@ recomenda que você use o gerenciamento de undo automático.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 22
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 As versões anteriores da Oracle usam segmentos de rollbalk para armazenar informações de
 undo. A informação em um segmento de reversão era usada durante a recuperação de
@@ -1485,16 +1414,13 @@ Gabarito: B
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 23
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 OBJEToS Do SCHEMA
 
@@ -1560,12 +1486,8 @@ conhecidas como as tabelas de base da visão.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Como tabelas, os dados de uma view podem ser consultados, atualizados, inseridos e
 excluídos,
@@ -1625,16 +1547,13 @@ o status do banco de dados em todos os momentos, o dicionário de dados
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 25
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 automaticamente pelo Oracle em resposta a ações específicas, como quando a estrutura do
 banco
@@ -1703,16 +1622,13 @@ dados da
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 26
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 coluna e armazena os dados da coluna no tipo de dados Oracle com base nas conversões
 mostradas
@@ -1793,16 +1709,13 @@ padrão para a escala é zero (0). O tipo de dado FLOAT é um tipo de ponto flut
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 27
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 binária b. O valor default para a precisão neste tipo de dados é de 126 casa
 binárias ou 38 casas
@@ -1866,12 +1779,8 @@ minuto
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 decimal com uma escala mínima de cinco e precisão mínima de três, que pode conter valores de
 Item. 00.000 a 59.999.
@@ -1950,16 +1859,13 @@ B 1000 e 4000 bytes.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 29
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 C 2000 e 4000 bytes.
 
@@ -1999,16 +1905,13 @@ um dos tipos de dados que apresentamos nesta seção:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 30
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Oracle Data Type Descrição
 
@@ -2150,12 +2053,8 @@ devem ser acessíveis a partir do servidor que executa a instância Oracle. O ta
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 ESTRUTURA DE MEMóRIA
 
@@ -2223,16 +2122,13 @@ Na alternativa A, temos uma troca entre os conceitos de SGA e PGA. Lembrem-se qu
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 32
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 GLOBAL AREA) trata da área de memória não compartilhada, ou seja, um PGA é alocado
 para
@@ -2303,16 +2199,13 @@ program global
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 33
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 area). Abaixo explicaremos cada uma delas em detalhes. Antes vejam as estruturas
 descritas na
@@ -2343,16 +2236,13 @@ tempo de execução, sem a necessidade de baixar ou indisponibilizar o ambiente 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 34
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 A memória para a SGA é alocada em unidades granulares, onde um grão pode ter 4MB ou
 16MB. Se a SGA for menor ou igual a 128MB, o crescimento será de 4MB. Do contrário,
@@ -2411,16 +2301,13 @@ blocos de dados sejam gravados com êxito no disco.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 35
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Buffers livres são buffers que não possuem dados armazenados ou que guardam blocos de
 dados que são idênticos aos blocos correspondentes no disco. Áreas de buffers livres
@@ -2487,16 +2374,13 @@ CREATE TABLE table_name (coll number) STORAGE (BUFFER_POOL KEEP;
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 36
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 ALTER INDEX index_name STORAGE (BUFFER_POOL RECYCLE;
 
@@ -2561,16 +2445,13 @@ instrução correspondente. Uma única área de SQL compartilhada é usada por v
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 37
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 emitem a mesma declaração, deixando livre uma quantidade maior de memória compartilhada
 para
@@ -2637,16 +2518,13 @@ A figura que descreve a UGA pode ser vista abaixo:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 38
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 UGA
 
@@ -2677,16 +2555,13 @@ Gabarito: C
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 39
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Um servidor de banco de dados Oracle consiste em um banco de dados Oracle e uma
 instância
@@ -2753,12 +2628,8 @@ Na alternativa A, temos uma troca entre os conceitos de SGA e PGA. Lembrem-se qu
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 GLOBAL AREA) trata da área de memória não compartilhada, ou seja, um PGA é alocado
 para
@@ -2829,16 +2700,13 @@ program global
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 41
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 area). Abaixo explicaremos cada uma delas em detalhes. Antes vejam as estruturas
 descritas na
@@ -2869,16 +2737,13 @@ tempo de execução, sem a necessidade de baixar ou indisponibilizar o ambiente 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
 42
 
 134
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 A memória para a SGA é alocada em unidades granulares, onde um grão pode ter 4MB ou
 16MB. Se a SGA for menor ou igual a 128MB, o crescimento será de 4MB. Do contrário,
@@ -2937,16 +2802,13 @@ blocos de dados sejam gravados com êxito no disco.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
 43
 
 134
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Buffers livres são buffers que não possuem dados armazenados ou que guardam blocos de
 dados que são idênticos aos blocos correspondentes no disco. Áreas de buffers livres
@@ -3013,16 +2875,13 @@ CREATE TABLE table_name (coll number) STORAGE (BUFFER_POOL KEEP;
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 44
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 ALTER INDEX index_name STORAGE (BUFFER_POOL RECYCLE;
 
@@ -3087,16 +2946,13 @@ instrução correspondente. Uma única área de SQL compartilhada é usada por v
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
 45
 
 134
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 emitem a mesma declaração, deixando livre uma quantidade maior de memória compartilhada
 para
@@ -3163,16 +3019,13 @@ A figura que descreve a UGA pode ser vista abaixo:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
 46
 
 134
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 UGA
 
@@ -3203,16 +3056,13 @@ Gabarito: C
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 47
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 ESTRUTURA DE PRoCESSoS
 
@@ -3275,16 +3125,13 @@ para
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 48
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 usuários conectados pode ser configurado como um servidor dedicado ou
 um servidor
@@ -3368,16 +3215,13 @@ Database ligadas nele, que fornecem as APIs necessárias para se comunicar com o
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 49
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Processos do cliente diferem em vários aspectos dos processos do Oracle. Eles interagem
 diretamente com a instância. Os processos do Oracle servem ao processo cliente, pois
@@ -3441,16 +3285,13 @@ Gabarito Certo.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 50
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Uma conexão é um canal de comunicação entre um processo de usuário e uma instância de
 banco de dados Oracle. É estabelecida utilizando os mecanismos de comunicação entre
@@ -3486,12 +3327,8 @@ exemplo de conexão e sessão:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Esta seção descreve os dois tipos de processos que executam o código do servidor de
 banco
@@ -3549,12 +3386,11 @@ de banco de dados é inicializada. Uma instância pode ter muitos processos em s
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
 0515200190-0E-vEevrteorntoMn uMriulorilVoieViireaira
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 dos quais nem sempre existem em cada configuração do banco de dados. A consulta a
 seguir lista
@@ -3609,12 +3445,8 @@ Gabarito: D
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 RECO PMON SMON
 
@@ -3714,12 +3546,8 @@ oracle 17011 0.0 0.0 60292 696 pts/O D+ 12:14 0:00 grep pmon
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 System Monitor Process (SMON)
 
@@ -3781,16 +3609,13 @@ propriamente ditos.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
 55
 
 134
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 A gravação dos blocos de dados nos arquivos de dados é realizada de forma assíncrona
 e
@@ -3859,16 +3684,13 @@ Oracle pode garantir que as alterações não serão perdidas mesmo que haja uma
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 56
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Sempre que uma transação é submetida para commit, o servidor Oracle atribui
 um SCN
@@ -3930,16 +3752,13 @@ figura abaixo com detalhes sobre o CKPT:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
 57
 
 134
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 System Global Area
 (SGA)
@@ -3994,16 +3813,13 @@ linhas excluídas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 58
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Certo
 Errado
@@ -4066,16 +3882,13 @@ arquivamento automático está habilitado.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 59
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Job Queue Processes (CJQO and Jnnn)
 
@@ -4139,16 +3952,13 @@ monitoradas em Arquivos de Dados de Flashback. Quando uma transação contendo D
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
 60
 
 134
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 tabela controlada sofre commit, este processo armazena a pré-imagem das linhas para o
 Flashback
@@ -4217,16 +4027,13 @@ AJob Queue (CJQ) e Space Management Coordinator (SMCO).
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 61
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 B Recoverer (RECO) e Archiver (ARC).
 
@@ -4254,16 +4061,13 @@ observar como cada um dos processos está relacionado com a SGA. Vejam a figura 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 62
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 MoDo DE INICIALIZAçÃo E DE ENCERRAMENTo DE
 
@@ -4327,12 +4131,8 @@ está sendo executado pode perdurar, por exemplo, após um encerramento e reinic
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 VISÃo GERAL DA INICIALIZAçÃo DA INSTÂNCIA E Do BANCo DE DADoS
 
@@ -4398,16 +4198,13 @@ para as operações normais de usuários.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 64
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Se o Oracle Database permite que várias instâncias montem o mesmo banco de
 dados
@@ -4474,16 +4271,13 @@ arquivos de log de redo. (Quaisquer arquivos de dados off-line de todos os espa�
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 65
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 line já foram fechados. Se posteriormente você reabrir o banco de dados, qualquer
 espaço de tabela
@@ -4548,16 +4342,13 @@ dados físicos. Você pode fazer backups físicos com utilitários RMAN ou do si
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 66
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Em contraste, os backups lógicos contêm dados lógicos, tais como tabelas e procedimentos
 armazenados. Você pode extrair os dados lógicos com um utilitário de banco de dados
@@ -4627,16 +4418,13 @@ redo é necessário para tornar o espaço de tabela restaurado consistente.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 67
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Um backup de arquivo de dados é um backup de um único arquivo de dados. Backups de
 arquivo de dados, que não são tão comuns como backups de tabela, são válidos em bancos de dados
@@ -4704,16 +4492,13 @@ enquanto os backups estão sendo feitos.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 68
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Se você fizer um backup de banco de dados quando ele está aberto ou montado após um
 desligamento inconsistente, então o backup é inconsistente. Um backup de arquivos de
@@ -4789,16 +4574,13 @@ as transações confirmadas no caso de um sistema operacional ou falha de disco.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 69
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * Se você mantiver um log arquivado, poderá usar um backup feito enquanto o banco de dados
 está aberto e em uso normal
@@ -4861,12 +4643,8 @@ Gabarito: E
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 RMAN
 
@@ -4925,16 +4703,13 @@ recuperação RMAN
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 71
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 preserva os metadados do repositório se o arquivo de controle for perdido, tornando
 muito mais
@@ -4998,16 +4773,13 @@ Gabarito: D
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 72
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 QUESTõES CoMENTADAS CoMPLEMENTARES
 
@@ -5069,12 +4841,8 @@ Gabarito: E
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 2. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
 
@@ -5140,12 +4908,8 @@ respectivamente,
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentários: Vejamos alguns dos tipos de dados do Oracle.
 
@@ -5205,12 +4969,8 @@ criar uma instância de sincronização distante.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Uma instância de sincronização remota do Oracle Data Guard é um destino remoto do
 Oracle
@@ -5273,13 +5033,9 @@ XXXX-XXXX-XXXX-5100
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O mascaramento ou reescrita de dados suporta os seguintes tipos de função:
 
@@ -5362,12 +5118,8 @@ Item. 6. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Com respeito ao Automatic SQL Tuning no Oracle Database 12c, quando o SQL Tuning
 Advisor é
@@ -5427,16 +5179,13 @@ execute a seguinte consulta:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 78
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 7. BANCA: FCC/2018 - analista em gestão (DPE AM)/ especializado em tecnologia da informação
 de defensoria/ analista de banco de dados
@@ -5469,16 +5218,13 @@ extensão quando você cria o objeto de esquema.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 79
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 NEXT: Especifica em bytes o tamanho da próxima extensão a ser alocada ao objeto
 
@@ -5535,12 +5281,8 @@ papel importante na reconstrução do banco de dados a partir de um backup,
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 a) o banco de dados consiste em uma ou mais unidades de armazenamento lógico chamadas
 tablespaces, que consistem em um ou mais arquivos chamados datafiles.
@@ -5618,16 +5360,13 @@ os arquivos
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 81
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 (control files, datafiles, online redo log files etc.), porém, o disco no qual estava
 a flash recovery
@@ -5700,16 +5439,13 @@ b) Disk Recovery Area - Device Backup Manager - target client.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 82
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 c) Fast Recovery Area - Media Manager - RMAN client.
 
@@ -5776,16 +5512,13 @@ de banco de dados chamada tablespace. Um tablespace em um banco de dados Oracle 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 83
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 em um ou mais arquivos de dados físicos. Um arquivo de dados pode ser associado a
 apenas
@@ -5858,16 +5591,13 @@ uma classe especial de arquivos de dados associados apenas a tablespaces tempor�
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 84
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Arquivos de dados podem ser divididos nos seguintes componentes:
 
@@ -5935,12 +5665,8 @@ instruções SQL juntamente com os benefícios de desempenho esperados. A recome
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 conselho fornecido refere-se à coleção de dados estatísticos sobre os objetos. A
 criação de
@@ -6006,16 +5732,13 @@ D UNDO.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 86
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 ETEMP.
@@ -6084,9 +5807,6 @@ D Neutral.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 I
 
 87
@@ -6095,7 +5815,7 @@ I
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 E Forecast.
 
@@ -6167,16 +5887,13 @@ sofisticada e
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 88
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 gerenciamento de sistemas simplificados se combinam para tornar o Oracle BI 12c uma
 solução
@@ -6246,16 +5963,13 @@ também se
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 89
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 beneficiam dos recursos sofisticados de compressão do RMAN. No momento de transmissão de
 backups em redes mais lentas, como a Internet pública, qualquer redução no tamanho do
@@ -6320,16 +6034,13 @@ Sobre arquitetura do SGBD Oracle, considere:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 90
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 I. Os componentes principais de um servidor corporativo típico são uma ou mais CPUs,
 espaço em
@@ -6397,16 +6108,13 @@ SYSAUX. O Oracle cria automaticamente cada tablespace quando o banco de dados é
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 91
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 padrão do sistema é criar uma smallfile tablespace, que é o tipo tradicional de
 tablespace
@@ -6471,12 +6179,8 @@ de recursos do sistema (por exemplo, o tempo de processamento da CPU) para o usu
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Analisando as alternativas, observamos que o texto acima descreve exatamente o que está
 exposto na alternativa A. As demais letras possuem erros. A letra B diz que só
@@ -6545,12 +6249,8 @@ modifica os valores.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 23. BANCA: FCC ANO: 2012 ÓRGÃO: TRE-CE PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE
 SISTEMAS
@@ -6593,16 +6293,13 @@ seguimentos (segments) no banco de dados.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 94
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Vejam, portanto, que confirmamos a resposta na alternativa C.
 
@@ -6645,12 +6342,8 @@ ou mais segments.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Data Blocks
 
@@ -6697,16 +6390,13 @@ Gabarito: D
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 96
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 25. BANCA: FCC - Analista Judiciário (TRE CE)/ Apoio Especializado/ Análise de Sistemas/2012
 
@@ -6772,16 +6462,13 @@ tablespaces, se eles forem gerenciados pelo dicionário.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 97
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Gabarito: C
 
@@ -6843,12 +6530,8 @@ d) Archive log file.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e) Redo log file.
 
@@ -6915,16 +6598,13 @@ bloco
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 99
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 de dados corresponde a um número específico de bytes do espaço físico do banco de
 dados
@@ -6985,16 +6665,13 @@ Gabarito: A
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 100
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 31. BANCA: FCC Analista do Ministério Público de Sergipe/ Informática l/Gestão e Análise de
 Projeto de lnfraestrutura/2010
@@ -7061,16 +6738,13 @@ Fazer backup do banco de dados enquanto ele estiver aberto e sendo acessado pelo
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 101
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Recuperar o banco de dados para qualquer ponto desejado no tempo.
 
@@ -7131,12 +6805,8 @@ nome do usuário. Cada usuário possui um único esquema. Objetos de esquema pod
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 criados e manipulados com SQL e incluem os seguintes tipos de objetos: Clusters,
 Database
@@ -7198,12 +6868,8 @@ Gabarito: A
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 36. BANCA: FCC ANO: 2008 ÓRGÃO: TRT - 2? REGIÃO (SP) PROVA: ANALISTA JUDICIÁRIO -
 TECNOLOGIA DA INFORMAÇÃO
@@ -7265,12 +6931,8 @@ modo a permitir os seguintes requisitos:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 I no máximo, 1000 conexões simultâneas;
 
@@ -7337,16 +6999,13 @@ conjunto de processos em background. A memória é dividida em duas áreas disti
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 105
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Global Area (SGA) e Program Global Area (PGA). O Oracle cria processos servidores para
 lidar
@@ -7403,12 +7062,8 @@ warehouse tendem a se beneficiar de valores de tamanho de bloco maiores.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 85. Afigura abaixo descreve um bloco de arquivos no Oracle. Veja que existe um
 cabeçalho de
@@ -7481,16 +7136,13 @@ Gabarito: C
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 107
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 40. BANCA: Cespe - Analista Judiciário (TRT 8- Região)/Apoio Especializado/Tecnologia da
 lnformação/2016
@@ -7550,16 +7202,13 @@ DE SISTEMAS
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 108
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Assinale a opção correta acerca das ferramentas, dos recursos e das características do
 SGBD
@@ -7629,12 +7278,8 @@ colunas da tabela.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O objetivo principal do Database Resource Manager é fornecer ao servidor do Oracle
 Database
@@ -7703,16 +7348,13 @@ total. A classificação é uma medida da importância das consultas que a recom
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 110
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O benefício é a melhoria total no custo de execução (em termos de custo do
 otimizador) de
@@ -7782,12 +7424,8 @@ segmentos temporários quando estes não estão mais sendo utilizados é o
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 a) DBW (database writer).
 
@@ -7861,12 +7499,8 @@ Item. 46. BANCA: FGV ANO: 2015 ÓRGÃO: TJ-SC PROVA: ANALISTA JUDICIÁRIO - ANAL
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Dois utilitários frequentemente usados nas instalações ORACLE no auxílio à manutenção dos
 dados são:
@@ -7911,12 +7545,8 @@ Confirmamos, portando, a resposta na alternativa D.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Gabarito: D
 
@@ -7962,16 +7592,13 @@ Gabarito: B
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 114
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 LISTA DE QUESTõES - MULTIBANCAS
 
@@ -8039,16 +7666,13 @@ respectivamente,
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 115
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 (C) 16.256, 16.256 e 8.156.
 
@@ -8118,12 +7742,8 @@ escopo global, ele verifica e analisa o comportamento dessas instruções nesses
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 avaliar se podem ter seu desempenho melhorado aceitando ou não o sql profile
 estabelecido. A
@@ -8187,16 +7807,13 @@ d) CREATE FILE 40MB TYPE BIGFILE TABLESPACE bl
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 117
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 DATA 'dl.dbf' EXTENSION ON;
 
@@ -8261,12 +7878,8 @@ na flash recovery area.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e) não será possível restaurar o banco de dados, pois o software Oracle foi
 corrompido e o disco
@@ -8331,16 +7944,13 @@ lnformação/2014
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 119
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 No Oracle, uma base de dados física consiste de arquivos armazenados no disco e uma
 instância
@@ -8408,16 +8018,13 @@ D UNDO.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 120
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 ETEMP.
 
@@ -8476,16 +8083,13 @@ a) Log Analiser.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 121
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 b) Graphical Configurator Addon.
 
@@ -8546,12 +8150,8 @@ instância Oracle existe na memória do servidor.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 II. Os arquivos de dados em um BD Oracle são agrupados em uma ou mais tablespaces. Dentro de
 cada tablespace as estruturas lógicas do banco de dados, como tabelas e índices, são
@@ -8618,16 +8218,13 @@ entretanto, não permitem definir cotas de tablespaces e limite de recursos da C
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 123
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 23. BANCA: FCC ANO: 2012 ÓRGÃO: TRE-CE PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE
 SISTEMAS
@@ -8680,16 +8277,13 @@ Item. 26. BANCA: FCC - Analista Judiciário (TRE PE)/Apoio Especializado/Anális
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 124
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O processo de background Oracle que executa a recuperação, se necessário, na
 inicialização da
@@ -8753,16 +8347,13 @@ d) data block, segment e extent.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 125
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 30. BANCA: FCC - Analista do Ministério Público de Sergipe/lnformática l/Gestão e Análise de
 Projeto de lnfraestrutura/2010
@@ -8819,12 +8410,8 @@ NÃO se trata de um componente da estrutura lógica de um banco de dados ORACLE:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 a) tablespaces.
 
@@ -8876,16 +8463,13 @@ TECNOLOGIA DA INFORMAÇÃO
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 127
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O Oracle copiará os arquivos online redo logs cheios para o disco se a base de
 dados estiver em
@@ -8946,16 +8530,13 @@ lnformação/2016
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 128
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Julgue o item seguinte, relativo ao banco de dados Oracle.
 
@@ -9014,12 +8595,8 @@ alocação de memória no processamento de consultas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 B lOTs (index organized tables) são estruturas de dados que permitem armazená-los de
 forma
@@ -9087,16 +8664,13 @@ Errado
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 130
 
 134
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 45. BANCA: Cespe Analista (FINEP)/ Informática/ Desenvolvimento de Sistemas/2009
 
@@ -9154,12 +8728,8 @@ E3.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 GABARITo
 
@@ -9248,9 +8818,6 @@ Item. 41. C
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 132
 
@@ -9258,7 +8825,7 @@ www. estrategiaconcursos. com. br
 
 
 Thiago Rodrigues Cavalcanti
-Aula 04 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 42. B
 
@@ -9275,8 +8842,6 @@ Item. 47. B
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 www.estrategiaconcursos.com.br
-
-
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

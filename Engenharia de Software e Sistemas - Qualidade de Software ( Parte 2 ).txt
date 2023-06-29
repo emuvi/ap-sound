@@ -2,7 +2,7 @@ Capítulo. Engenharia de Software e Sistemas - Qualidade de Software ( Parte 2 )
 
 Concursos
 
-Aula 08 (Profs. Diego
+(Profs. Diego
 Carvalho e Fernando
 
 Pedrosa)
@@ -19,7 +19,7 @@ Diego Carvalho
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 índice
 
@@ -74,10 +74,6 @@ Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Conceitos Básicos
 
 INCIDÊNCIA EM PROVA: MÉDIA
@@ -123,9 +119,6 @@ como o sistema
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 3
@@ -204,10 +197,6 @@ detecção de defeitos.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Interessante! No entanto, o que define um bom teste? Bem, existem quatro
 características que nos
@@ -284,9 +273,6 @@ alguns princípios que guiam os Testes de Software. Ao todo, são sete princípi
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 5
 
@@ -295,7 +281,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 PRINCÍPIOS FUNDAMENTAIS | DESCRIÇÃO
 
@@ -382,9 +368,6 @@ casos de testes necessitam ser frequentemente revisados e atualizados. Um conjun
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 6
 
@@ -453,9 +436,6 @@ tendo em mente a testabilidade. O que seria isso, Diego?
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 7
 
@@ -521,9 +501,6 @@ ser testado" (Letra C).
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 8
 
@@ -532,7 +509,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Processo de Teste
@@ -577,9 +554,6 @@ execução dos testes.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 9
 
@@ -588,7 +562,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Nesta etapa, testes são executados conforme roteiros estabelecidos para os testes.
 Executa-se sempre que ocorrem mudanças na aplicação e analisam-se os testes
@@ -636,9 +610,6 @@ ferramentas e massa de testes adequadas) justamente na etapa de preparação de 
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 10
@@ -722,10 +693,6 @@ Comentários: todos esses realmente são atributos que podem ser contemplados em
 (Correto).
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Casos de Testes
@@ -816,10 +783,6 @@ RESULTADO ESPERADO
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 (INFRAERO - 2011) A especificação de um caso de teste (test case spec/fication') deve
 conter, entre outros, identificador, itens constantes no teste, especificação de entrada,
@@ -857,10 +820,6 @@ a função
 de cada uma delas: como, quando e 0 que testar?
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Estratégia/Níveis de Testes
@@ -925,10 +884,6 @@ independente de teste.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 ■ O teste e a depuração são atividades diferentes, mas a depuração deve ser associada com
 alguma estratégia de teste.
@@ -979,10 +934,6 @@ sistema e o domínio de informação) e terminamos com o código em si.
 Os testes de sistema estão para a Engenharia de Sistemas, assim como:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 a) os testes de integração e de validação estão, respectivamente, para o código e o
@@ -1050,10 +1001,6 @@ critérios de validação - estabelecidos durante a análise de requisitos - dev
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 O teste de validação proporciona a garantia final de que o software
 satisfaz a todos os
@@ -1103,14 +1050,10 @@ b) Teste de integração, Teste de estresse, Teste de sistema.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 c) Teste de aceitação, Teste Chinês, Teste de caixa branca.
 
@@ -1126,9 +1069,6 @@ não são níveis de teste (Letra D).
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 18
@@ -1202,14 +1142,10 @@ PISTÃO
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 DEFINIÇÕES DE PROVA - TESTES DE UNIDADE
 
@@ -1279,9 +1215,6 @@ instruções de um algoritmo) e de dados estão cobertos e conforme 0 esperado (
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 20
@@ -1354,14 +1287,10 @@ de unidade se integram.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 DEFINIÇÕES DE PROVA - TESTES DE INTEGRAÇÃO
 
@@ -1428,9 +1357,6 @@ Comentários: testes de integração ocorrem ainda no ambiente de desenvolviment
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 22
 
@@ -1493,10 +1419,6 @@ realizado em relação ao que estava especificado nos critérios de validação.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Galera, nós sabemos que a verificação ocorre em relação à
 especificação de requisitos e a validação ocorre em relação às
@@ -1558,14 +1480,10 @@ principal a validação do software quanto aos requisitos.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários: ele faz a validação quanto aos requisitos e seus critérios de validação
 descritos no documento de requisitos
@@ -1587,9 +1505,6 @@ defeitos e inconsistências no programa em relação a sua especificação é 0 
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 25
@@ -1655,10 +1570,6 @@ integração verifica
 interfaces entre componentes do mesmo software, já o teste de sistema verifica interfaces
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 entre componentes diferentes de um mesmo sistema - incluindo softwares, hardwares,
@@ -1728,9 +1639,6 @@ e) Teste de operação
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 27
 
@@ -1739,7 +1647,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários: a questão trata dos testes de sistema - eles buscam erros resultantes das
 interações e integrações do sistema
@@ -1749,9 +1657,6 @@ teríamos duas respostas (Letra A).
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 28
@@ -1824,9 +1729,6 @@ de caminhos independentes.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 29
 
@@ -1892,9 +1794,6 @@ Comentários: a questão está perfeita - definição pura e simples de teste ca
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 30
 
@@ -1941,9 +1840,6 @@ branca (Letra B).
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 31
@@ -2008,10 +1904,6 @@ devem ser
 gerados como resultado - além disso, dada uma entrada, temos uma saída específica.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Vamos voltar novamente ao nosso motor de carro? Fazendo uma comparação, o teste
@@ -2081,10 +1973,6 @@ e) fluxo de dados.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Comentários: teste comportamental é um teste caixa-preta (Letra A).
 
@@ -2148,9 +2036,6 @@ e) Não estrutural.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 34
 
@@ -2159,15 +2044,11 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários: trata-se do teste caixa-preta ou orientado à entrada/saída (Letra B).
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Teste Caixa-Cinza
@@ -2227,10 +2108,6 @@ sistema se o testador empregar a técnica de caixa-branca, em vez das técnicas 
 caixa-preta (Errado).
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Tipos de Testes
@@ -2296,9 +2173,6 @@ ESTRATÉGIA CAST ASSINATURA VITALÍCIA
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 37
@@ -2369,9 +2243,6 @@ ferramenta com suporte à medição de teste de cobertura.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 38
@@ -2447,9 +2318,6 @@ anormais. Essencialmente, o testador que executa teste por esforço pergunta: at
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 39
 
@@ -2515,10 +2383,6 @@ c) teste de desempenho.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 d) latência da falha.
 
@@ -2579,9 +2443,6 @@ sob condições especificadas ou acordadas. A carga pode ser, por exemplo, o nú
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 41
 
@@ -2629,9 +2490,6 @@ desempenho-logo, questão perfeita (Correto).
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 42
 
@@ -2664,14 +2522,10 @@ ser fácil de usar e de entender.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Em suma, trata-se de um teste focado na experiência do usuário que avalia a
 facilidade de uso
@@ -2724,9 +2578,6 @@ registrados no sistema (Letra D).
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 44
 
@@ -2735,7 +2586,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Teste de Regressão
@@ -2812,9 +2663,6 @@ funcionalidade e lanço a versão 1.1!
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 45
 
@@ -2823,7 +2671,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Maaaaaaaaaaaaas... antes de lançar essa nova versão, eu faço um teste de regressão.
 Por que,
@@ -2880,9 +2728,6 @@ funcionar. Esse item é coisa linda! (Correto).
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 46
@@ -2961,14 +2806,10 @@ provê suas funcionalidades e características básicas, de forma a estar habili
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 recebertestes mais detalhados, ou se ele possui algum problema estrutural básico (ex. o
 software não roda) que deve ser corrigido antes de realizar outros tipos de testes:
@@ -2989,9 +2830,6 @@ ele ocorre sempre que há uma nova integração, isto é, uma nova funcionalidad
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 48
@@ -3041,10 +2879,6 @@ casos deteste de entrada em
 sistemas diferentes a fim de gerar um relatório de diferenças (Correto).
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Testes Alfa e Beta
@@ -3122,10 +2956,6 @@ mesmos...).
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Nightly
 
@@ -3184,10 +3014,6 @@ operação do sistema pelos usuários é denominado:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 a) Teste Alfa.
 
@@ -3237,9 +3063,6 @@ ambiente do usuário (Letra B).
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 52
@@ -3307,14 +3130,10 @@ a) fazer com que o software falhe e verificar se ocorre, corretamente, sua recup
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 b) rodar um teste de grande tempo de duração, esperando que não haja
 falhas
@@ -3354,9 +3173,6 @@ manual (Correto).
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 54
@@ -3405,10 +3221,6 @@ software, sistema
 operacional, redes, entre outros (Correto).
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Testes de Segurança
@@ -3461,14 +3273,10 @@ Comentários: a questão está perfeita - essa é a função de um teste de segu
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Testes Automatizados
 
@@ -3543,9 +3351,6 @@ automação de teste perfeita Devem ser considerados critérios, tais como facil
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 57
@@ -3637,9 +3442,6 @@ mais eficiente e simplificado.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
 
 
 58
@@ -3756,9 +3558,6 @@ vagam ou nos distraímos. Qualquer teste que envolva fazer repetidamente a mesma
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 59
 
@@ -3850,10 +3649,6 @@ correta. As práticas recomendadas a seguir se aplicam ao teste de nível do sis
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 ■ Planeje seus testes cuidadosamente. Certifique-se de que seus casos de
 teste estejam
@@ -3890,10 +3685,6 @@ seu aplicativo se desenvolve e muda. Não adianta testar recursos herdados que n
 mais parte dos aplicativos.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Doubles
@@ -3973,10 +3764,6 @@ como definir expectativas e verificar se elas foram atendidas durante o teste. O
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 usados para verificar interações específicas e garantir que o código em teste
 esteja se
@@ -4053,14 +3840,10 @@ sob teste pode ter dependências sobre outros objetos complexos.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Os mocks devem ter a mesma interface que os objetos reais, caso contrário não conseguirão se
 comunicar. Eles são utilizados quando temos objetos que geram resultados variáveis;
@@ -4088,9 +3871,6 @@ Mockito
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 64
 
@@ -4099,7 +3879,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 RESUMo
 
@@ -4200,9 +3980,6 @@ Assim como testes de aplicação web têm foco diferente do desktop.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 65
 
@@ -4211,7 +3988,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Identificar e corrigir os problemas de um software não garantem que ele está p
 Os testes foram elaborados para identificar todas as possíveis falhas? O si:
@@ -4244,9 +4021,6 @@ inteligente vamos testar".
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 66
 
@@ -4255,7 +4029,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 ETAPAS DO PROCESSO | DESCRIÇÃO
 
@@ -4325,9 +4099,6 @@ montado como um pacote e os erros de interface já foram descobertos e corrigido
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 67
 
@@ -4336,7 +4107,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 TESTE DE SISTEMA O Teste de Sistema é na realidade uma série de diferentes testes cuja finali<
 primária é exercitar o sistema como um todo.
@@ -4431,9 +4202,6 @@ possível de defeitos precisa ser encontrado antes do lançamento do produto.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 68
 
@@ -4442,7 +4210,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 TESTE DE RECUPERAÇÃO
@@ -4467,9 +4235,6 @@ H PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 69
 
@@ -4478,7 +4243,7 @@ www. estrategiaconcursos. com. br
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - CESPE
 
@@ -4534,10 +4299,6 @@ modalidades do teste de desempenho.
 Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 O teste de desempenho (ou performance) é projetado para testar o desempenho em tempo
@@ -4600,9 +4361,6 @@ Comentários:
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 71
@@ -4674,9 +4432,6 @@ c) da caixa branca.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 72
 
 229
@@ -4684,7 +4439,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 d) da caixa cinza.
 
@@ -4744,13 +4499,9 @@ software funciona conforme foi proposto em seus requisitos.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Correto
 
@@ -4806,10 +4557,6 @@ ser entregue ao cliente.
 Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 De acordo com Sommerville: "Em um processo de desenvolvimento iterativo, o teste de
@@ -4872,9 +4619,6 @@ do menor para o maior (no sentido de tamanho). A abordagem top-down é o contrá
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 75
@@ -4948,9 +4692,6 @@ a equipe de TI do órgão, ao preparar o ambiente de acesso eletrônico, deverá
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 76
 
 229
@@ -4958,7 +4699,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 a) de estresse.
 
@@ -5022,10 +4763,6 @@ como correto, mas depois o anulou sob a justificativa de que "a redação do ite
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 julgamento objetivo". Galera, na minha opinião, não há nada de errado com a redação -
 o item está
 completamente errado.
@@ -5082,9 +4819,6 @@ Testes Caixa-Branca e Testes Caixa-Preta não são níveis de testes, mas técni
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 78
 
 229
@@ -5092,7 +4826,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Errado
 
@@ -5158,10 +4892,6 @@ Gabarito: Errado
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 33- (CESPE / INPI - 2013) De modo geral, o teste de release é um processo de teste
 do tipo caixa-
 branca em que as funcionalidades são verificadas e validadas mediante a avaliação
@@ -5224,9 +4954,6 @@ da mesma maneira. Galera, aqui estou sendo bem simplista por conta do exemplo, m
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 80
@@ -5294,9 +5021,6 @@ do software são atendidos, sem verificar o código ou a lógica do componente t
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 81
 
 229
@@ -5304,7 +5028,7 @@ Q-Q SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 20
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -5361,10 +5085,6 @@ processo de
 planejamento de testes de software, assinale a opção correta.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 a) O processo de planejamento de testes é usualmente descrito em um plano de testes.
@@ -5429,9 +5149,6 @@ estruturas de dados incorretas ou simples erros de programação.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 83
 
 229
@@ -5439,7 +5156,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -5498,13 +5215,9 @@ Comentários:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Pelo contrário, a questão trata dos testes caixa-preta.
 
@@ -5563,10 +5276,6 @@ Comentários:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Quem concentra esforços de validação na menor unidade de projeto do software é o
 teste de
 unidade e, não, teste de integração.
@@ -5623,9 +5332,6 @@ Comentários:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 86
 
 229
@@ -5633,7 +5339,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Perfeito! O teste de regressão testará tudo...
 
@@ -5686,10 +5392,6 @@ Gabarito: Errado
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 62.(CESPE / TRE-BA - 2009) A figura a seguir ilustra esquematicamente a técnica
 estrutural de
 teste de software (ou teste caixa-branca), que avalia o comportamento interno do
@@ -5738,9 +5440,6 @@ Gabarito: Correto
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 88
@@ -5808,9 +5507,6 @@ Comentários:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 89
 
 229
@@ -5871,9 +5567,6 @@ Gabarito: Correto
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 90
@@ -5941,8 +5634,6 @@ específicas.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
 91
 
 229
@@ -5950,7 +5641,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Correto
 
@@ -5984,9 +5675,6 @@ Gabarito: Correto
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 92
 
 229
@@ -5994,7 +5682,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - FCC
 
@@ -6059,13 +5747,9 @@ técnico de TI deve atentar que:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 a) um módulo pseudocontrolador é um módulo que contém apenas o número da versão do
 módulo sob teste.
@@ -6135,9 +5819,6 @@ a) de regressão.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 94
 
 229
@@ -6145,7 +5826,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 b) ascendente.
 
@@ -6215,13 +5896,9 @@ destacariam as áreas de aplicação que poderiam ser afetadas pelas recentes al
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 código e selecionariam os casos de testes relevantes para o conjunto de testes.
 Procedendo
@@ -6265,10 +5942,6 @@ b) Log de Teste e II corresponde ao Relatório de Incidentes de Teste.
 c) Gap de Teste e II corresponde à Refatoração de Testes.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 d) Registro de Testes Funcionais e Não Funcionais e II corresponde ao Relatório de
@@ -6336,9 +6009,6 @@ um projeto com prazo crítico, sendo necessário que os desenvolvedores avaliem 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 97
 
 229
@@ -6346,7 +6016,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 frequentemente. A equipe envolvida decidiu utilizar uma abordagem de teste de integração
 que
@@ -6411,9 +6081,6 @@ os testes sejam conduzidos à medida que cada componente é inserido.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 98
@@ -6484,9 +6151,6 @@ e) testes de desempenho para os 2 primeiros e de carga para os demais.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 99
 
 229
@@ -6494,7 +6158,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -6561,13 +6225,9 @@ específicos de condições e/ou ciclos.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 O teste ...II... faz referência a testes realizados na interface do software. Esse
 tipo de teste
@@ -6628,9 +6288,6 @@ que encontra erros - se ele não encontrar erros, é mais provável que o teste 
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 101
@@ -6702,9 +6359,6 @@ objetivos alcançados.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 102
 
 229
@@ -6757,9 +6411,6 @@ Comentários:
 
 0 0 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023
 (Pós-Edital)
-
-
-
 
 
 103
@@ -6831,9 +6482,6 @@ Gabarito: Letra C
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 104
 
 229
@@ -6841,7 +6489,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 21.(FCC / SEFAZ-SP - 2009) Garantir que um ou mais componentes de um sistema combinados
 funcionam corretamente é o objetivo do tipo de teste:
@@ -6908,9 +6556,6 @@ e) carga
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 105
 
 229
@@ -6918,7 +6563,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -6977,10 +6622,6 @@ Gabarito: Letra C
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 26.(FCC /TRT-GO-2008) Uma sistemática para construção da arquitetura do software
 enquanto,
 ao mesmo tempo, conduz ao descobrimento de erros associados às interfaces é a
@@ -7035,9 +6676,6 @@ Gabarito: Letra B
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 107
 
 229
@@ -7045,7 +6683,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - FCV
 
@@ -7110,10 +6748,6 @@ tribunal de
 contas está trabalhando na construção de componentes de um novo sistema de software.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 Para verificar o funcionamento do software no nível de componente, a EDS deverá
@@ -7182,9 +6816,6 @@ Gabarito: Letra D
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 109
@@ -7260,9 +6891,6 @@ O sistema entrou em produção e, já na primeira semana de uso, ficou muito len
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 110
 
 229
@@ -7270,7 +6898,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 vezes indisponível para os operadores das lojas. Diante deste cenário, assinale a opção
 que
@@ -7338,9 +6966,6 @@ e) são realizados por usuários externos, em condições de uso semelhantes às
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 111
 
 229
@@ -7348,7 +6973,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -7412,10 +7037,6 @@ para os seus usuários finais. Analise as afirmativas a seguir sobre tipos de te
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 I. Teste de caixa preta é uma técnica de teste onde o código-fonte e a estrutura
 interna do
 sistema são considerados para modelar os casos de teste.
@@ -7476,9 +7097,6 @@ Comentários:
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 113
@@ -7548,9 +7166,6 @@ teste o componente testado é tratado como uma caixa preta: são fornecidos dado
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 114
@@ -7624,9 +7239,6 @@ a) unitário.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 115
 
 229
@@ -7634,7 +7246,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 b) de integração.
 
@@ -7682,9 +7294,6 @@ Comentários:
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 116
@@ -7764,9 +7373,6 @@ d) de caminho básico.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 117
 
 229
@@ -7774,7 +7380,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 e) de lógica composta.
 
@@ -7809,10 +7415,6 @@ software é o famoso teste caixa-branca ou teste caixa-clara.
 Gabarito: Letra B
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
@@ -7864,10 +7466,6 @@ de algoritmos,
 linguagem de programação ou quaisquer outras estruturas de dados, dessa funcionalidade".
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 Essa é a dica para matar a questão: se não se avalia o funcionamento interno do
@@ -7932,9 +7530,6 @@ Gabarito: Letra E
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 120
 
 229
@@ -7942,7 +7537,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Item. 3. (IDHTEC / PREFEITURA DE MARAGOGI-AL - 2019) Quanto à Automação de Testes, julgue os
 itens a seguir:
@@ -8004,9 +7599,6 @@ planejar os casos de teste com maior facilidade.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 121
@@ -8079,9 +7671,6 @@ Comentários:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 122
 
 229
@@ -8139,9 +7728,6 @@ A com as definições ou caracterizações da TABELA B.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 123
@@ -8302,9 +7888,6 @@ teste de verificação de software ou, mais genericamente, verificação e valid
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 124
 
 229
@@ -8370,9 +7953,6 @@ teste da caixa preta e teste da caixa branca respectivamente da seguinte maneira
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 125
@@ -8449,9 +8029,6 @@ não,
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 126
 
 229
@@ -8525,9 +8102,6 @@ d) Apenas I e II.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 127
 
 229
@@ -8535,7 +8109,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 e) Apenas II e III.
 
@@ -8599,13 +8173,9 @@ antecedência e executadas sistematicamente. Deverá ser definido, para o proces
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 um conjunto de etapas nas quais podem-se empregartécnicas específicas de projeto de
 caso de
@@ -8660,10 +8230,6 @@ são fáceis de
 automatizar quando pensadas no início do projeto.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 c) Se muitos erros já foram encontrados em uma seção do programa, a
@@ -8734,9 +8300,6 @@ teste de partição; (e) Errado, a suposição de erros é um teste de caixa-pre
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 130
 
 229
@@ -8744,7 +8307,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra D
 
@@ -8803,10 +8366,6 @@ resultado
 pré-definido.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 c) executa-se o sistema inteiro com foco na especificação das funcionalidades para
@@ -8877,9 +8436,6 @@ sistema.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 132
 
 229
@@ -8887,7 +8443,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Software
 executável
@@ -8929,9 +8485,6 @@ Q-Q SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 20
 (Pós-Edital)
 
 
-
-
-
 133
 
 229
@@ -8939,7 +8492,7 @@ Q-Q SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 20
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 execução do software dentro do contexto de um sistema integrado; (e) Errado, esses
 testes não são
@@ -9002,9 +8555,6 @@ As lacunas das sentenças podem ser preenchidas CORRETAMENTE com a opção:
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 134
@@ -9074,9 +8624,6 @@ Gabarito: Letra A
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 135
 
 229
@@ -9084,7 +8631,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 26.(VUNESP / PREFEITURA DE ITAPEVI-SP - 2019) Um programador, após desenvolver
 um
@@ -9151,9 +8698,6 @@ b) o teste beta é realizado nas instalações do desenvolvedor do software.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 136
@@ -9227,9 +8771,6 @@ e) teste fumaça é uma abordagem de testes unitários.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 137
 
 229
@@ -9237,7 +8778,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -9301,13 +8842,9 @@ alternativa correta:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 a) É realizado no ambiente de desenvolvimento, onde somente os desenvolvedores envolvidos
 na escrita do código realizarão os testes.
@@ -9370,9 +8907,6 @@ e) Apenas as afirmações II e III são verdadeiras.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 139
 
 229
@@ -9380,7 +8914,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -9441,10 +8975,6 @@ Item. 35. (FAUGRS/ UFCSPA-RS-2018) No teste de, os módulos são combinados e te
 em grupo. Ele sucede o teste de, em que os módulos são testados individualmente,
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 e antecede o teste de, em que o sistema completo é testado em um
@@ -9512,9 +9042,6 @@ Gabarito: Letra C
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 141
@@ -9593,9 +9120,6 @@ implementado, o que importa é que o software é funcional.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 142
 
 229
@@ -9603,7 +9127,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra B
 
@@ -9662,13 +9186,9 @@ descobrir erros associados com as interfaces.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Errado
 
@@ -9732,13 +9252,9 @@ funcionamento correto destes.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 b) Um teste operacional tem como objetivo testar a aplicação em funcionamento no
 sistema
@@ -9810,9 +9326,6 @@ d) Teste de unidade.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 145
 
 229
@@ -9820,7 +9333,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 e) Teste de projeto.
 
@@ -9884,10 +9397,6 @@ e) 5-4-6-8.
 Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 (2) O teste que verifica o software da forma como ele deve funcionar, ou seja se
@@ -9957,9 +9466,6 @@ de código) com base nas definições e usos de cada variável.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 147
 
 229
@@ -9967,7 +9473,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra B
 
@@ -10029,13 +9535,9 @@ e) Cronograma.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -10108,13 +9610,9 @@ pelo grupo de desenvolvimento de testes, tendo também um papel importante para 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 o produto pode ser liberado para os consumidores, o que é diferente do seu papel de
 expor
@@ -10180,9 +9678,6 @@ de software.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 150
 
 229
@@ -10231,9 +9726,6 @@ stakeholders
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 151
 
 229
@@ -10276,9 +9768,6 @@ e) I, II, III.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 152
 
 229
@@ -10286,7 +9775,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -10351,13 +9840,9 @@ b) Usabilidade.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 c) Localização geográfica do dispositivo.
 
@@ -10420,10 +9905,6 @@ e) i-3-4-2.
 Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 (2) O Teste que detecta falhas nas interfaces é o teste de integração; (4) O teste
@@ -10489,9 +9970,6 @@ d) II e III, apenas.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 155
 
 229
@@ -10499,7 +9977,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -10562,10 +10040,6 @@ programadorfica olhando o usuário utilizar o software e registra os erros que o
 Gabarito: Letra A
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 65-(IADES / CFM - 2018) A respeito dos processos de verificação, de validação e de teste de
@@ -10633,9 +10107,6 @@ Gabarito: Letra B
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 157
 
 229
@@ -10643,7 +10114,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 67.(COPEREVE / UFSC - 2018) Considere as seguintes afirmativas a respeito de teste de
 software
@@ -10711,9 +10182,6 @@ Comentários:
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 158
@@ -10787,9 +10255,6 @@ componentes já foram testados a nível de unidade, agora eles devem ser testado
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 159
 
 229
@@ -10797,7 +10262,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra A
 
@@ -10862,10 +10327,6 @@ e) Teste de integração
 Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 Quem verifica novamente os casos de teste aprovados em versões prévias do software e
@@ -10940,9 +10401,6 @@ b) volume
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 161
 
 229
@@ -10950,7 +10408,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 c) usabiIidade
 
@@ -11013,10 +10471,6 @@ subverter as
 verificações de segurança do programa.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 III - O teste de caixa branca trabalha diretamente sobre o código fonte do
@@ -11084,9 +10538,6 @@ características:
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 163
 
 229
@@ -11094,7 +10545,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 ■ Realizado na instalação dos desenvolvedores.
 
@@ -11159,13 +10610,9 @@ seu planejamento e realização sejam divididos em fases. Em uma dessas fases, o
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 realizados por um grupo restrito de usuários finais do sistema, que simulam operações
 de rotina
@@ -11235,9 +10682,6 @@ c) testes de usabilidade.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 165
 
 229
@@ -11245,7 +10689,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 d) testes de regressão.
 
@@ -11310,10 +10754,6 @@ Gabarito: Letra B
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 85-(CESGRANRIO / EPE - 2012) Em uma discussão sobre testes, um grupo de programadores
 emitiu as afirmativas a seguir.
 
@@ -11371,9 +10811,6 @@ d) É uma técnica que tem por objetivo primário ampliar o número de casos de 
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 167
@@ -11442,9 +10879,6 @@ e) I, lie III
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 168
 
 229
@@ -11452,7 +10886,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -11468,9 +10902,6 @@ Gabarito: Letra E
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 169
@@ -11544,10 +10975,6 @@ sugeridos os testes de release e de cenário. Nessa situação, será correto ap
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 cenários, que são incompatíveis com os de release, devendo a aplicação desses últimos
 ser
 descartada.
@@ -11613,9 +11040,6 @@ equivalência, a partir das quais casos de teste são derivados.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 171
@@ -11696,9 +11120,6 @@ esteja apto a retomar o processamento em um prazo preestabelecido.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 172
 
 229
@@ -11770,9 +11191,6 @@ funcionando de acordo com as especificações.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 173
 
 229
@@ -11842,9 +11260,6 @@ d) A produção de scripts de teste deve preceder a eventual construção de cas
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 174
@@ -11922,8 +11337,7 @@ esforço de validação na menor unidade de projeto do software e, com o uso de 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 175
@@ -11987,9 +11401,6 @@ condição, de fluxo de dados, de ciclos e de caminhos lógicos.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 176
@@ -12066,8 +11477,7 @@ beta empregam apenas desenvolvedores.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 177
@@ -12100,10 +11510,6 @@ de beta
 testes.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 GABARITo
@@ -12188,10 +11594,6 @@ Item. 26. CORRETO 52. CORRETO
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 LISTA DE QUESTõES - FCC
 
 í. (FCC / SANASA CAMPINAS - 2019) Considere que está em desenvolvimento um projeto de
@@ -12259,10 +11661,6 @@ c) detectar falhas ou defeitos no software, de acordo com o estabelecido em sua 
 d) demonstrar que o software sob análise não é cópia de outro software.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 e) verificar se o software sob análise não contém dados sigilosos.
@@ -12341,10 +11739,6 @@ e) de Caixa-preta.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Item. 8. (FCC/SEFAZ-BA-2019) Considere o procedimento apresentado na figura a seguir, no
 qual são
 utilizados documentos consistentes e adequados capazes de definir,
@@ -12395,10 +11789,6 @@ b) I, II e III, apenas.
 c) I, II e IV, apenas.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 d) II, III e IV, apenas.
@@ -12461,10 +11851,6 @@ O Auditor indicou em I e II, respectivamente, os testes de:
 a) caixa branca e de caixa preta, que são suficientes para validar todo o sistema.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 b) unidade e de integração; na sequência, indicou os testes de validação e de sistema
@@ -12535,9 +11921,6 @@ e) apenas componentes ou módulos de software cujo código fonte tenha mais de 1
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 184
 
 229
@@ -12602,9 +11985,6 @@ b) Testes sempre podem mostrar a ausência de erros.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 185
@@ -12678,8 +12058,7 @@ e) de unidade, de carga e de integridade.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 186
@@ -12755,10 +12134,6 @@ e) de estresse.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 25-(FCC / AFR-SP - 2009) Garantir que um ou mais componentes de um sistema combinados
 funcionam corretamente é o objetivo do tipo de teste:
 
@@ -12805,13 +12180,9 @@ e) na intuição e experiência do engenheiro.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -12843,10 +12214,6 @@ Item. 26. LETRA E
 27- LETRA B
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 LISTA DE QUESTõES - FC V
@@ -12913,10 +12280,6 @@ empresa.
 Conclui-se que está sendo realizado o teste de:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 a) unidade;
@@ -12992,10 +12355,6 @@ b) são equivalentes aos testes conhecidos pelo termo "Alfa teste";
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 c) focam em pontos críticos, cujas correções são providenciadas de
 imediato pelos
 desenvolvedores;
@@ -13062,10 +12421,6 @@ funcionalidades.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Está correto o que se afirma em:
 
 a) somente I.
@@ -13129,10 +12484,6 @@ durante o teste
 do sistema, para procurar novos problemas;
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 d) o teste beta é focado na busca de defeitos e seu progresso é facilmente medido;
@@ -13203,10 +12554,6 @@ desenvolvimento de
 software. Sua função principal é:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 a) testar o desempenho do software e de seus componentes.
@@ -13285,13 +12632,9 @@ d) teste de aceitação.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 e) teste de integração.
 
@@ -13300,11 +12643,9 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 www.estrategiaconcursos.com.br
 
 
-
-
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -13330,9 +12671,6 @@ Item. 20. LETRA B
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 197
@@ -13387,10 +12725,6 @@ programação
 do código fonte para desenvolver o software (JALOTE, 2005).
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 () Design do software - Pelo design do software é o momento que o engenheiro de
@@ -13453,9 +12787,6 @@ seguir:
 
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
 
 
 199
@@ -13528,10 +12859,6 @@ d) Apenas as afirmativas I e II.
 e) As afirmativas I, II e III.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 Item. 6. (AVANÇA SP / CÂMARA MUNICIPAL DE TABOÃO DA SERRA-SP - 2019) No que se refere às
@@ -13668,10 +12995,6 @@ E
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 TABELA A
 1
 
@@ -13744,10 +13067,6 @@ segundo
 há apenas a necessidade de saber o resultado esperado para cada entrada de dados.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 e) enquanto que no primeiro teste não se conhece a entrada de dados, mas se
@@ -13824,9 +13143,6 @@ c) Apenas III.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 203
 
 229
@@ -13887,10 +13203,6 @@ na figura
 como 1, 2, 3 e 4 é:
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 a) Recuperação - Esforço - Segurança - Desempenho.
@@ -13961,10 +13273,6 @@ são testadas. O foco é testar a funcionalidade de objetos ou métodos.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 b) Teste de componente é onde várias unidades individuais são integradas
 para criar
 componentes compostos. O foco é testar as interfaces de componentes.
@@ -14029,10 +13337,6 @@ c) unitário/de integração; de sistema; de aceitação.
 d) unitário/de integração; de aceitação; de sistema.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 e) de sistema; de aceitação; unitário/de integração.
@@ -14106,10 +13410,6 @@ a) Integração, Unidade, Fumaça, Integração, Regressão.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 b) Unidade, Integração, Regressão, Usabilidade, Regressão.
 
 c) Interação, Configuração, Regressão, Unidade, Utilidade.
@@ -14176,10 +13476,6 @@ d) fluxo de dados é um método de teste de caixa preta.
 e) particionamento de equivalência é um método de teste de caixa preta.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 Item. 28. (VUNESP / PREFEITURA DE VALINHOS-SP - 2019) Há dois tipos de testes de validação
@@ -14252,9 +13548,6 @@ funcionalidades e alterações demandadas foram desenvolvidas.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 209
 
 229
@@ -14320,10 +13613,6 @@ d) Apenas as afirmações I e III são verdadeiras.
 e) Apenas as afirmações II e III são verdadeiras.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 34-(FUMARC / CÂMARA DE CARMO DO CAJURU-MG - 2018) Em relação aos tipos de testes de
@@ -14394,10 +13683,6 @@ Apesar
 disso, essa equipe irá realizar mais um ciclo de teste com o objetivo de verificar se a nova versão
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 do software, ajustada pelos desenvolvedores, não introduziu novos defeitos, em outros
@@ -14478,9 +13763,6 @@ resultados.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 212
 
 229
@@ -14556,10 +13838,6 @@ Item. 46. (INSTITUTO AOCP / PRODEB - 2018) Qual é o objetivo da realização de
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 a) Visualizar o sistema como caixa branca.
 
 b) Convencer de que o sistema é bom o suficiente para uso.
@@ -14628,10 +13906,6 @@ b) 2-4-6-1.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 c) 4-6-9-i.
 
 d) 2-3-5-g.
@@ -14691,10 +13965,6 @@ d) F-V-V-F.
 e) V-V-V-V.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 Item. 52. (FAURGS / BANRISUL - 2018) No desenvolvimento de software, o processo de teste
@@ -14773,8 +14043,6 @@ e) Teste de integração
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
 216
 
 229
@@ -14849,10 +14117,6 @@ acordados entre o cliente e o desenvolvedor.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 II - O processo de teste deve demonstrar ao desenvolvedor e ao cliente que o
 software atende
 aos requisitos propostos.
@@ -14916,10 +14180,6 @@ c) Localização geográfica do dispositivo.
 d) Volume de dados.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 e) Variedade de dispositivos e sistemas operacionais.
@@ -14986,8 +14246,7 @@ de fato protegê-lo de invasão imprópria.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
-1 
-
+1
 
 
 219
@@ -15066,10 +14325,6 @@ e) Os testes devem ser executados antes das atividades de verificação.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Item. 66. (CS / SANEAGO-GO - 2018) No âmbito da Engenharia de Software, testes de unidade
 são
 aqueles realizados:
@@ -15138,10 +14393,6 @@ c) Testes de Aceitação.
 d) Testes de Integração.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 Item. 69. (PR4 / UFRJ - 2018) Com relação a teste de software, quando questionado sobre
@@ -15219,10 +14470,6 @@ c) Inspeção
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 d) Refatoração
 
 e) Teste de integração
@@ -15295,10 +14542,6 @@ e) Teste funcional.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 76.(FCM / IF Farroupilha-RS - 2016) O teste de software pode ser realizado de
 diversas formas.
 Mesmo assim, existem técnicas que podem ser utilizadas para encontrar falhas no
@@ -15364,10 +14607,6 @@ Esse tipo de teste é chamado de:
 a) Teste alfa
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 b) Teste beta
@@ -15441,10 +14680,6 @@ e) Teste de caixa preta —> Desenho das estruturas de dados
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Item. 82. (IBFC / TRE-AM - 2014) Assinale o nome do teste de software que consiste
 tipicamente na
 aplicação de versões mais recentes do software, para garantir que não surgiram novos
@@ -15513,9 +14748,6 @@ e) I, lie III.
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 226
 
 229
@@ -15577,9 +14809,6 @@ e) I, lie III
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
 
 
-
-
-
 227
 
 229
@@ -15587,7 +14816,7 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (
 
 Diego Carvalho
 
-Aula 08 (Profs. Diego Carvalho e Fernando Pedrosa)
+(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -15680,10 +14909,6 @@ Item. 88. LETRA E
 Item. 30. LETRA E 60. LETRA A
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023 (Pós-Edital)
-
-
-
-
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

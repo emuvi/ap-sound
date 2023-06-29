@@ -2,7 +2,7 @@ Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relac
 
 Concursos
 
-Aula 05 (Prof. Thiago
+(Prof. Thiago
 
 Cavalcanti)
 
@@ -17,7 +17,7 @@ Thiago Rodrigues Cavalcanti
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 índice
 
@@ -38,12 +38,8 @@ Aula 05 (Prof. Thiago Cavalcanti)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 MICRoSoFTSQLSERVER2012 ou SUPERIoR
 
@@ -114,12 +110,8 @@ o DBCC INPUTBUFFER (Função de
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Gerenciamento Dinâmico);
 Aprimoramento de XEvents para falha
@@ -203,12 +195,8 @@ informações de VLF; Informações do
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 MAXDOP para criar / atualizar
@@ -271,16 +259,13 @@ COMPATIBILITY_LEVEL 140 é adicionado.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 5
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 SQL Server 2019
@@ -339,16 +324,13 @@ rede interno.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 6
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 Disco rígido
@@ -417,16 +399,13 @@ vamos partir para a instalação do SQL Server propriamente dito.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 7
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Center 1807 blog.
 
@@ -507,12 +486,8 @@ a opção por um tipo de instalação.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 SQL Server 2017
@@ -602,16 +577,13 @@ Na próxima etapa, você deverá especificar o local de destino do download:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 9
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SQL Server 2017 © - x
 
@@ -706,16 +678,13 @@ de produto apropriadas durante uma nova instalação ou a uma instalação exist
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 10
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 No menu disponível na Central de Instalação do SQL Server, é possível visualizar:
 
@@ -790,16 +759,13 @@ OK Cancelar
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 11
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Caso exista, corrija as falhas. Se não houver, o SQL Server exibe a próxima tela:
 
@@ -875,12 +841,8 @@ td»«nr> Vervon
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O SQL Server dá suporte a até 50 instâncias do Mecanismo de Banco de Dados em um
 único
@@ -915,12 +877,8 @@ Antes de iniciar a instalação, o setup do SQL Server te dá um relatório de t
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O processo de instalação, então, começa. Aguarde alguns minutos e a instalação será
 concluída.
@@ -979,16 +937,13 @@ Clique em SQL Server Management Studio, aparecerá a figura abaixo (aguarde até
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 14
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Vamos fazer a primeira questão, a qual aborda a instalação.
 
@@ -1017,16 +972,13 @@ Gabarito: C
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 15
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CoNCEIToS SoBRE o DATABASE ENGINE
 
@@ -1101,16 +1053,13 @@ e Python.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 16
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 Servidor do
@@ -1184,12 +1133,8 @@ As seções a seguir fornecem uma breve explicação sobre cada componente.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 INTERFACE PARA PRoGRAMAçÃo T-SQL
 
@@ -1264,16 +1209,13 @@ T-SQL ou SQL Server Management Studio, você pode controlar o acesso a uma deter
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 18
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 instância do SQL Server a uma base de dados específica, para objetos dentro desses
 bancos de
@@ -1350,16 +1292,13 @@ o Integration Services. Desenvolvedores terão uma experiência familiar e os ad
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 19
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 de banco de dados terão um único utilitário abrangente que combina ferramentas gráficas
 fáceis de usar com sofisticadas capacidades de script.
@@ -1397,12 +1336,8 @@ real.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 Se o tempo necessário para o usuário acessar os dados
@@ -1449,12 +1384,8 @@ alta disponibilidade (HA) ou de recuperação de desastres (DR). Poderia ser usa
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Existe uma possibilidade; no entanto, a replicação única move apenas as mudanças nos
 esquemas e
@@ -1529,12 +1460,8 @@ disponibilidade no nível do banco de dados. Ele mantém duas cópias do banco d
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 instâncias do SQL Server rodando em servidores separados. Normalmente, os
 servidores estão
@@ -1612,12 +1539,8 @@ desenvolver em um ambiente SQL Server. O primeiro é o SQL Server Management Stu
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 que permite executar praticamente qualquer ação que você pode pensar contra uma
 instância do
@@ -1679,16 +1602,13 @@ qualquer momento.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 24
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Gabarito: C
 
@@ -1713,12 +1633,8 @@ que inclui descrições de cada coluna.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Object Explorer
 ▼ g >
@@ -1818,12 +1734,8 @@ disponíveis:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * CONSTRAINT_COLUMN_USAGE
 
@@ -1900,12 +1812,8 @@ necessário para executar o SQL Server:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 master - O banco de dados mestre, como seu nome sugere, é o banco de dados primário do
 sistema. Sem ele, o SQL Server não pode iniciar. O banco de dados mestre contém as
@@ -1974,16 +1882,13 @@ Item. 3. Técnico Judiciário (TRT 9^ Região)/Apoio Especializado/Tecnologia da
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 28
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 A automatização de administração em várias instâncias do banco de dados SQL Server é
 chamada administração multisservidor. A administração multisservidor é utilizada
@@ -2046,12 +1951,8 @@ diferentes, por exemplo T-SQL e SSMS.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Por padrão, todos os bancos de dados SQL Server consistem de dois tipos de arquivos. O arquivo de
 dados contém os dados e objetos do banco de dados como tabelas, visões e
@@ -2122,16 +2023,13 @@ disco diferente. Um arquivo de log de transações é suficiente, a menos que o 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 30
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 esteja se esgotando e o espaço em disco também esteja se esgotando no volume que contém
 o arquivo de log.
@@ -2197,12 +2095,8 @@ megabytes por padrão).
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * FILEGROWTH especifica o incremento para crescimento do arquivo caso exceda o tamanho
 disponível. Também é mostrado em megabytes por padrão, mas pode ser especificado
@@ -2262,12 +2156,8 @@ backup até o fim; você não pode restaurar em algum ponto no tempo.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 MECANISMo DE BACKUP
 
@@ -2352,12 +2242,8 @@ backup e à restauração no serviço de armazenamento de Blob do Windows Azure.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O SQL Server dá suporte ao armazenamento de backups no serviço de armazenamento de
 Blobs do
@@ -2413,12 +2299,8 @@ transações.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 c) completo de banco de dados agrega todos os dados de todos os bancos de dados no
 momento em que o becape é concluído, com exceção dos logs de transação.
@@ -2482,12 +2364,8 @@ Gabarito: C
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CoNSTRUINDo UM BANCo DE DADoS
 
@@ -2545,12 +2423,8 @@ ESQUEMATIZANDO
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 Data Type
@@ -2660,12 +2534,8 @@ Storage size
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 TIPoS DE DADoS DE STRINC
 
@@ -2737,12 +2607,8 @@ seis tipos de dados nesta categoria.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 time(n) Este tipo de dados armazena a hora do dia sem a consciência de fuso horário
 com base em
@@ -2818,16 +2684,13 @@ horas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 39
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Formatos de literal de cadeia de caracteres padrão (usados para cliente de nível inferior): YYYY-
 MM-DD hh:mm:ss[.nnnnnnn] [{+|-}hh:mm]
@@ -2894,16 +2757,13 @@ gerenciadores de banco de dados, julgue o item subsequente.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 40
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O SQL Server tem um tipo de dado denominado sql_variant, que armazena dados de
 imagem e texto de tamanho grande, maior que 10 kMbytes.
@@ -2979,12 +2839,8 @@ O tipo geometria representa dados em um sistema de coordenadas euclidiano (plano
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O tipo geografia representa dados em um sistema de coordenadas esféricas.
 Assim, o gabarito da questão está na letra d).
@@ -3054,12 +2910,8 @@ ESQUEMATIZANDO
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 A definição acima está incompleta do ponto de vista de possibilidades sintáticas do
 comando. Caso
@@ -3139,16 +2991,13 @@ coluna em vez do nível de banco de dados.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 43
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Quando você define uma coluna como NULL ou NOT NULL você restringe ou não o uso do valor nulo,
 presente em todos os tipos de dados, para a coluna especificada. O padrão,
@@ -3253,16 +3102,13 @@ LastRaise AS Salary - PriorSalary,
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 44
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 HireDate date NOT NULL,
 
@@ -3339,12 +3185,8 @@ ALTER TABLE table_name
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 [[DEFAULT <constant_expression>]
 
@@ -3427,12 +3269,8 @@ TO [ schema_name. ] target_table
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Vamos agora tratar das alterações de tabele que definem restrições de integridade.
 Antes, porém,
@@ -3510,13 +3348,9 @@ valor único para toda a coluna (ou combinação de colunas) na tabela. Muitas v
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 restrições UNIQUE referidas chaves como alternativas. As principais diferenças são que
 eles não são
@@ -3579,12 +3413,8 @@ AnoProcesso - inteiro (PK)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 NumeroOABAdvogadoProcesso - cadeia de caracteres
 NomeAdvogadoProcesso - cadeia de caracteres
@@ -3665,13 +3495,9 @@ pnecision [ , scale ]
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 [ CONSTRAINT constraint_name ]
 
@@ -3743,12 +3569,8 @@ DROP TABLE Clientes, Colaboradores
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 DATA MANIPULATIoN LANGUACE (DML)
 
@@ -3822,16 +3644,13 @@ WITH <common_table_expression>
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 51
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Especifica o conjunto de resultados nomeados temporário, também conhecido como expressão
 de
@@ -3872,16 +3691,13 @@ Adiciona uma ou mais linhas a uma tabela ou exibição no SQL Server. Sintaxe:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 52
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 [ WITH <common_table_expression> [ ,...n ] ]
 INSERT
@@ -3969,16 +3785,13 @@ e parênteses são necessários.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 53
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 É uma lista de uma ou mais colunas onde os dados devem ser inseridos, columnjist
 deve ser
@@ -4059,16 +3872,13 @@ SET
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 54
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 [ > ]
@@ -4140,12 +3950,8 @@ exclusões de linha individual. TRUNCATE TABLE é semelhante à instrução DELE
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 cláusula WHERE; entretanto, TRUNCATE TABLE é mais rápida e utiliza menos recursos de
 sistema e
@@ -4218,12 +4024,8 @@ SQL Server.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 sp_add_log_file_recover_suspect_db (Transact-SQL)
 
@@ -4283,12 +4085,8 @@ SQL Server fornece os seguintes grupos de funções do sistema:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * Funções FileStream e FileTable
 
@@ -4352,12 +4150,8 @@ tipo uniqueidentifier.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 sys.fn_hadr_distributed_ag_database_replica
 
@@ -4421,12 +4215,8 @@ palavras-chave como
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 a) INSERTe DELETE.
 
@@ -4485,12 +4275,8 @@ GRANT { ALL [ PRIVILEGES ] }
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O argumento ALL vai garantir todas as permissões que podem variar dependo
 do objeto sobre o qual
@@ -4556,12 +4342,8 @@ um determinado usuário ou grupo. Veja a sintaxe do comando abaixo.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Simplified syntax for REVOKE
 REVOKE [ GRANT OPTION FOR ]
@@ -4584,12 +4366,8 @@ permission [ ( column [ ,...n ] ) ] [ ,...n ]
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 QUESTõES CoMENTADAS - CESPE (CEBRASPE)
 
@@ -4661,16 +4439,13 @@ A ferramenta é instalada em conjunto com o SQL Server.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 63
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Durante a instalação, o SQL Server normalmente é configurado para
 iniciar automaticamente. Se
@@ -4759,12 +4534,8 @@ No que se refere a tecnologia e arquitetura de banco de dados, julgue o próximo
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 No MSSQL Server 2014, o recurso AlwaysOn é uma solução de alta disponibilidade e de
 
@@ -4865,16 +4636,13 @@ Gabarito: C
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 65
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 8. CEBRASPE (CESPE) - Analista Judiciário (TJDFT)/Apoio Especializado/Suporte em
 Tecnologia da
@@ -4980,16 +4748,13 @@ A respeito de banco de dados, julgue os itens que se seguem.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 66
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 [1] É válida para o PostgreSQL 9.3, mas não para o SQL Server 2012, a criação da
 SEQUENCE seqa
@@ -5089,16 +4854,13 @@ SISTEMAS DE TECNOLOGIA DA INFORMAÇÃO
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 67
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Julgue os seguintes itens, acerca de sistemas de gerenciamento de bancos de
 dados (SGBD) e de
@@ -5193,16 +4955,13 @@ grupos de arquivos ou arquivos. Além disso, contém log suficiente para permiti
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 68
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 d) Errado. Backup diferencial se baseia no backup completo mais recente de
 um banco de dados
@@ -5301,16 +5060,13 @@ e definir listas não ;
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 69
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 outros recursos, como hierarquias, segurança granular, transações, controle
 de versão de dados e
@@ -5404,16 +5160,13 @@ ser preenchida com dados, ;
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 70
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 porcentagem de 1 a 100 e o padrão para todo o servidor é zero (0), o
 que significa que as páginas
@@ -5507,16 +5260,13 @@ d) Orientador de Otimização do Mecanismo de Banco de Dados.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 71
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e) SQL Server Profiler.
 
@@ -5605,12 +5355,8 @@ TECNOLOGIA DA INFORMAÇÃO
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Julgue os itens subsecutivos, com relação ao tuning de banco de dados.
 
@@ -5695,12 +5441,8 @@ Gabarito: C.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 25.ANO: 2013 BANCA: CESPE ÓRGÃO: BACEN PROVA: ANALISTA DO BACEN - ANÁLISE E
 DESENVOLVIMENTO DE SISTEMAS
@@ -5787,12 +5529,8 @@ A respeito do banco de dados SQL Server e da linguagem SQL, julgue os itens segu
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 [1] O comando SELECT GETDATE() recebe como retorno a data e a hora atual do sistema
 operacional.
@@ -5860,12 +5598,8 @@ Gabarito: C.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 QUESTõES CoMENTADAS - MULTIBANCAS
 
@@ -5955,12 +5689,8 @@ https://docs.microsoft.com/en-us/sql/t-sql/statements/alter-table-transact-sql?v
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * Ser usada em estatísticas geradas pela instrução CREATE STATISTICS, a
 menos que (1) a
@@ -6008,10 +5738,8 @@ SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edi
 1
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentário: O comando CREATE VIEW (Transact-SQL) cria uma tabela virtual cujo
 conteúdo
@@ -6086,12 +5814,8 @@ subseleção.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentário: O gabarito da questão é letra a), pois o comando DELETE remove
 uma ou mais
@@ -6171,16 +5895,13 @@ Database completo:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 79
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 --Backing Up a Whole Database
 
@@ -6252,16 +5973,13 @@ baseada em SQL Server Reporting Services.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 80
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 É correto afirmar sobre os elementos do diagrama:
 
@@ -6317,12 +6035,8 @@ resumidos, relatórios de gráficos para dados geográficos e relatórios de for
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 qualquer outra finalidade. Os relatórios podem ser inseridos em outros relatórios e
 gráficos,
@@ -6384,12 +6098,8 @@ d) DESCRIBE SYNONYM teste FOR EACH primeiro_db.primeiros_programas
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e) MAKE SYNONYM teste OF primeiro_db.primeiros_programas
 
@@ -6442,16 +6152,13 @@ exibição no SQL Server 2017. Veja a sintaxe:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 83
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 [ WITH <common_table_expression> [...n] ]
 UPDATE
@@ -6533,12 +6240,8 @@ e) o nível de fragmentação de índices do banco de dados.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentário: A função sys.dm_db_fts_index_physical_stats (Transact-SQL) retorna uma
 linha
@@ -6594,12 +6297,8 @@ clusterizado ou não clusterizado. Veja a sintaxe:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CREATE [ UNIQUE ] [ CLUSTERED | NONCLUSTERED ] INDEX index_name
 
@@ -6674,16 +6373,13 @@ c) SQL Server Utility.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 86
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 d) SQL Query Administrator.
 
@@ -6753,12 +6449,8 @@ Gabarito: B
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 25.CESPE - Analista do Banco Central do Brasil/Área 5 - Infraestrutura e Logística/2013
 
@@ -6825,16 +6517,13 @@ partições
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 88
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 de tabela sem precisar de conhecimentos avançados sobre a estrutura do banco de dados
 ou
@@ -6888,9 +6577,6 @@ A figura abaixo representa o conteúdo das tabelas Tabl, Tab2 e Tab3 de MeuBanco
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
 
 89
 
@@ -6898,7 +6584,7 @@ www. estrategiaconcursos. com. br
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Tabl
 
@@ -6978,16 +6664,13 @@ resposta na alternativa D.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 90
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 No primeiro TRUNCATE, as linhas da Tabl não serão removidas, pois existe uma referência
 para ela na Tab2. Como a cláusula ON DELETE não foi definida, devemos considerar por
@@ -7061,12 +6744,8 @@ Gabarito: A
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 29. BANCA: VUNESP ANO: 2013 ÓRGÃO: IMESC PROVA: ANALISTA DE TECNOLOGIA -
 INFORMÁTICA
@@ -7133,12 +6812,8 @@ Gabarito: D
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 30. BANCA: VUNESP ANO: 2012 ÓRGÃO: TJ-SP PROVA: ANALISTA JUDICIÁRIO - COMUNICAÇÃO E
 PROCESSAMENTO DE DADOS
@@ -7211,12 +6886,8 @@ Você pode conhecer um pouco mais sobre sinônimos aqui.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Gabarito: C
 
@@ -7280,16 +6951,13 @@ Sobre os Sistemas Gerenciadores de Bancos de Dados (considerando o Microsoft SQL
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 94
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 A devem ser desligados por, pelo menos, 2 horas diariamente.
 
@@ -7357,16 +7025,13 @@ AVG. Disk Sec/Write é o tempo médio, em segundos, de uma gravação de dados n
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 95
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Disco físico: % Disk Time é a porcentagem de tempo decorrido que a unidade de
 disco
@@ -7425,12 +7090,8 @@ GO
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 E MAKE PROCEDURE <nome do procedimento>
 OF TYPE
@@ -7492,12 +7153,8 @@ objetos. Contudo, nenhuma das respostas possui essas alternativas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Temos, portanto, que voltar nosso foco para outra opção que seria remover o acesso de
 um
@@ -7562,12 +7219,8 @@ Gabarito: B
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 37. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
@@ -7600,7 +7253,7 @@ USE AdventureWorks2012;
 GO
 
 -- Choose all columns and all rows from the Address table.
-SELECT ♦
+SELECT *
 
 FROM Person.Address
 
@@ -7622,7 +7275,7 @@ get a list of all the employees in the AdventureWorks2012 database
 
 and their contact information.
 
-♦/
+*/
 
 SELECT p.FirstName, p.LastName, a.AddressLinel, a.AddressLine2,
 a.City, a.PostalCode
@@ -7639,12 +7292,8 @@ Gabarito: C
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 38. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
@@ -7707,16 +7356,13 @@ Gabarito: B
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 100
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 40. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
@@ -7775,16 +7421,13 @@ C SELECT @@DBTS
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 101
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 DSELECT @@IDLE
 E SELECT @@SPID
@@ -7841,16 +7484,13 @@ Gabarito: A
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 102
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 LISTA DE QUESTõES - CESPE (CEBRASPE)
 
@@ -7909,12 +7549,8 @@ arquivos NTFS.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 6. Ano: 2015 Banca: CESPE Órgão: MEC Prova: TÉCNICO DE NÍVEL SUPERIOR - ANALISTA DE
 SISTEMAS
@@ -7973,16 +7609,13 @@ INFRAESTRUTURA
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 104
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Acerca do Microsoft SQL Server 2008, julgue os seguintes itens.
 
@@ -8041,12 +7674,8 @@ consultas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 17. ANO: 2013 BANCA: CESPE ÓRGÃO: CRPM PROVA: ANALISTA EM GEOCIÊNCIAS - SISTEMAS DE
 INFORMAÇÃO
@@ -8104,16 +7733,13 @@ DESENVOLVIMENTO DE SISTEMAS
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 106
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Considerando os sistemas de gerenciamento de bancos de dados, julgue o próximo item.
 
@@ -8168,12 +7794,8 @@ SELECT SYSTEM_ADMIN.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 27.ANO: 2012 BANCA: CESPE ÓRGÃO: TJ-AC PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE
 SUPORTE
@@ -8210,16 +7832,13 @@ otimizar as consultas e analisar o desempenho de transações SQL executadas pel
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 108
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 GABARITo
 
@@ -8284,12 +7903,8 @@ Item. 29. C
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 12. Ano: 2018 Banca: FCC Órgão: DPE-AM Cargo: Analista Área: Banco de Sistemas Questão: 47.
 
@@ -8343,12 +7958,8 @@ primeira linha da tabela será excluída.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 c) Diferentemente da instrução DELETE, uma tabela esvaziada usando a instrução TRUNCATE
 TABLE é removida do banco de dados, junto com seus índices e outros objetos associados.
@@ -8410,16 +8021,13 @@ baseada em SQL Server Reporting Services.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 111
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 É correto afirmar sobre os elementos do diagrama:
 
@@ -8466,16 +8074,13 @@ a) SYNONYM teste EQUAL primeiro_db.primeiros_programas
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 112
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 b) CREATE SYNONYM teste FOR primeiro_db.primeiros_programas
 
@@ -8531,12 +8136,8 @@ valores da chave determina a ordem física das linhas correspondentes em uma tab
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Certo
 Errado
@@ -8598,12 +8199,8 @@ e) da velocidade de conexão do usuário corrente ao Microsoft SQL Server.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 25.CESPE - Analista do Banco Central do Brasil/Área 5 - Infraestrutura e Logística/2013
 
@@ -8647,12 +8244,8 @@ tabelas no banco de dados MeuBanco.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CREATE TABLE Tabl
 
@@ -8734,16 +8327,13 @@ TRUNCATE TABLE Tabl;
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 116
 
 124
 
 
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 DELETE TOP (2) FROM Tab2 WHERE Cod < 4000;
 TRUNCATE TABLE Tab3;
@@ -8788,12 +8378,8 @@ Server 2008 que permite habilitar ou desabilitar esse recurso é
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 A
 B
@@ -8840,12 +8426,8 @@ A devem ser desligados por, pelo menos, 2 horas diariamente.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 B devem tratar comandos emitidos pelo usuário, permitindo, por exemplo, a busca de dados.
 C não podem ser utilizados em ambiente de rede.
@@ -8893,12 +8475,8 @@ GO
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 C CREATE PROCEDURE cnome do procedimento>
 
@@ -8948,12 +8526,8 @@ B definir um ponto de salvamento de transações.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 C encerrar todas as conexões com o banco de dados.
 D fazer o backup de um banco de dados.
@@ -9005,12 +8579,8 @@ E médio de registros por tabela.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 40. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
@@ -9041,12 +8611,8 @@ E SELECT @@SPID
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 05 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 GABARITo
 
@@ -9111,10 +8677,6 @@ Item. 40. E
 Item. 41. A
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-
-
-
-
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

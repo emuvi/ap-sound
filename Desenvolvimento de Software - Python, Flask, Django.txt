@@ -2,7 +2,7 @@ Capítulo. Desenvolvimento de Software - Python, Flask, Django.
 
 Concursos
 
-Aula 06 (Profs. Paolla
+(Profs. Paolla
 Ramos e Raphael
 
 Lacerda)
@@ -18,7 +18,7 @@ Paolla Ramos e Silva
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 índice
 
@@ -31,13 +31,9 @@ Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 APRESENTAçÃo DA AUUX
 
@@ -71,12 +67,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -140,9 +136,6 @@ de código aberto.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 4
 
 174
@@ -181,12 +174,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Python é uma linguagem com uma filosofia de simplicidade no seu design, é uma
 linguagem de
@@ -239,12 +232,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 (CEBRASPE - PC PB- 2022) Na linguagem Python, o tipo de uma variável em tempo de
 execução é definido pelo interpretador pelo recurso denominado
@@ -322,7 +315,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 7
 
 174
@@ -330,7 +322,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 EXCEPT
@@ -431,9 +423,6 @@ Sai de uma função e retornar um valor.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 8
 
 174
@@ -441,7 +430,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael L
+(Profs. Paolla Ramos e Raphael L
 
 Valor booleano e resultado de uma operação de comparação. A palavra-chave True é
 igual a 1 ( False é igual a o).
@@ -488,7 +477,6 @@ QQ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software 
 www.estrategiaconcursos.com.br
 
 
-
 9
 
 174
@@ -496,7 +484,7 @@ www.estrategiaconcursos.com.br
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Principais Características
 
@@ -543,9 +531,6 @@ para essa finalidade.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 10
 
 174
@@ -553,7 +538,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Python é uma linguagem de programação interpretada, isso significa que, como
 desenvolvedor,
@@ -572,12 +557,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Sintaxe do Python
 
@@ -617,7 +602,7 @@ fornecerá um erro: IndentationError: unexpected indent
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Variáveis em Python
 
@@ -673,12 +658,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 x = y = z = "Laranja"
 
@@ -729,12 +714,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Se você criar uma variável com o mesmo nome dentro de uma função, essa variável será local e só
 poderá ser usada dentro da função. A variável global com o mesmo nome permanecerá como
@@ -776,9 +761,6 @@ x = "fantastic"
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 15
 
 174
@@ -786,7 +768,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Tipos de dados Python
 
@@ -871,12 +853,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 a = """Estratégia Concursos é referência na preparação de
 alunos para Concursos
@@ -939,7 +921,7 @@ seja, cortar uma
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 parte da string. É necessário especificar o índice inicial e o índice final, separados por dois
 pontos,
@@ -1001,12 +983,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários: Pessoal, as bancas gostam muito de índices negativos, para dificultar um
 pouco. No caso da questão, é gerada
@@ -1073,7 +1055,7 @@ ois."
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 CARACTER DE ESCAPE DESCRIÇÃO
 
@@ -1161,7 +1143,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 20
 
 174
@@ -1169,7 +1150,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 ISPRINTABLEÍl Retorna True se todos os caracteres da string forem imprimíveis
 ISSPACEU Retorna True se todos os caracteres na string forem espaços em branco
@@ -1233,12 +1214,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 print(10 == 9)#Retorna False
 print(10 < 9) #Retorna False
@@ -1295,12 +1276,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Exponenciação
@@ -1338,7 +1319,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 23
 
 174
@@ -1346,7 +1326,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 OR
@@ -1419,7 +1399,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 24
 
 174
@@ -1427,7 +1406,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Coleções em Python
 
@@ -1491,12 +1470,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 listai = ["maçã", "banana", "cereja"]
 lista2 = [1, 5, 7, 9, 3]
@@ -1554,12 +1533,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Você pode especificar um intervalo de índices especificando onde começar e
 onde terminar o
@@ -1633,12 +1612,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Remove o primeiro item com o valor especificado
 Inverte a ordem da lista
@@ -1704,12 +1683,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Outra forma de percorrer a lista é usando um loop while. Use a função len() para
 determinar o
@@ -1731,12 +1710,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 List Comprehension
 
@@ -1793,12 +1772,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 minhalista = list(frutas)
 print(minhalista)
@@ -1840,12 +1819,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Os itens de tupla são indexados, o primeiro item possui índice [o], o segundo item
 possui índice
@@ -1898,9 +1877,6 @@ que o -1 pega o último item, -2refere-se ao penúltimo item, etc.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 32
 
 174
@@ -1908,7 +1884,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 tuplal = ("maça", "banana", "laranja")
 print(tuplal[-1]) #imprime laranja
@@ -1972,12 +1948,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 print(tupla3)
 
@@ -2051,12 +2027,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 thisset = {"maça", "banana", "cereja"}
 for x in thisset:
@@ -2110,7 +2086,7 @@ Vejamos agora as várias maneiras de unir dois ou mais conjuntos em Python.
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Você pode usar o método union() que retorna um novo conjunto contendo todos os itens
 de
@@ -2190,12 +2166,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 ADD[] Adiciona um elemento ao conjunto
 CLEARO Remove todos os elementos do conjunto
@@ -2235,7 +2211,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 37
 
 174
@@ -2243,7 +2218,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Dicionários Python
 
@@ -2310,7 +2285,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 LISTA E UMA COLEÇÃO ORDENADA E MUTÁVEL. PERMITE MEMBROS DUPLICADOS.
@@ -2382,9 +2357,6 @@ respeito desses tipos de dados, julgue os itens a seguir.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 39
 
 174
@@ -2392,7 +2364,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 I O conjunto permite o armazenamento de uma tupla, mas não o de uma lista.
 
@@ -2432,7 +2404,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 40
 
 174
@@ -2440,7 +2411,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Condições do Python
 
@@ -2507,12 +2478,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Pessoal, o if é muito utilizado na prática, além disso cai muito em provas! Além
 dele, temos o else,
@@ -2583,12 +2554,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 A palavra-chave and é um operador lógico e é usada para combinar instruções
 condicionais:
@@ -2647,7 +2618,7 @@ not(x > i and x < 5)
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Python While Loops
 
@@ -2710,12 +2681,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 if a > b:
 
@@ -2749,9 +2720,6 @@ nosso gabarito é a letra B.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 45
 
 174
@@ -2759,7 +2727,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Loop for em Python
 
@@ -2819,9 +2787,6 @@ pulando de três em três unidades. Agora vejamos a quantidade de questões sobr
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 46
 
 174
@@ -2829,7 +2794,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 (FGV - TCU - 2022) A execução desse código na IDLE Shell produz, na
 ordem e
@@ -2891,7 +2856,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 47
 
 174
@@ -2899,7 +2863,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários: Pessoal, as bancas gostam muito de índices negativos, para dificultar um
 pouco. No caso da questão, é gerada
@@ -2965,7 +2929,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 48
 
 174
@@ -2973,7 +2936,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Funções do Python
 
@@ -3033,9 +2996,6 @@ minhafuncao("Diego Carvalho", "Raphael Lacerda")
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 49
 
 174
@@ -3043,7 +3003,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 No exemplo anterior, será impresso Raphael Lacerda é professor de TI do
 Estratégia. A tupla
@@ -3117,12 +3077,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 processador. No entanto, quando escrita corretamente, a recursão pode ser uma abordagem
 de
@@ -3151,7 +3111,7 @@ valor = valor - 1
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Python Lambda
 
@@ -3190,9 +3150,8 @@ print(dobravalor(10)) #imprime 20
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-,
 
+,
 
 
 52
@@ -3202,7 +3161,7 @@ www. estrategiaconcursos. com. br
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Matrizes ou Arrays Python
 
@@ -3256,7 +3215,7 @@ MÉTODO DESCRIÇÃO
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 APPENDÍJ
@@ -3331,7 +3290,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 54
 
 174
@@ -3339,7 +3297,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 de arrays, mas são lentas para processar. O NumPy visa fornecer um objeto array até
 50X mais
@@ -3359,12 +3317,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Classes/objetos Python
 
@@ -3423,9 +3381,6 @@ objeto.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 56
 
 174
@@ -3433,7 +3388,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 class Person:
 
@@ -3496,12 +3451,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Herança Python
 
@@ -3562,9 +3517,6 @@ def init(self, fname, lname):
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 58
 
 174
@@ -3572,7 +3524,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 super().init(fname., lname)
 
@@ -3582,7 +3534,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 59
 
 174
@@ -3590,7 +3541,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Iteradores Python
 
@@ -3636,9 +3587,6 @@ iteração for feita um número especificado de vezes:
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 60
 
 174
@@ -3646,7 +3594,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Escopo do Python
 
@@ -3703,9 +3651,6 @@ disponível no escopo local (dentro da função):
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 61
 
 174
@@ -3713,7 +3658,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 x = 300
 
@@ -3742,12 +3687,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Módulos Python
 
@@ -3786,9 +3731,6 @@ print(x)
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 63
 
 174
@@ -3796,7 +3738,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Datas em Python
 
@@ -3864,12 +3806,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 December
 12
@@ -3929,7 +3871,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 65
 
 174
@@ -3937,7 +3878,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Matemática Python
 
@@ -4015,12 +3956,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 MATH.FABSO
@@ -4125,7 +4066,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 67
 
 174
@@ -4133,7 +4073,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Python RegEx
 
@@ -4207,12 +4147,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Uma sequência especial é \seguida por um dos caracteres na lista abaixo e tem um
 significado
@@ -4307,7 +4247,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 69
 
 174
@@ -4315,7 +4254,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 [0-5H0-9]
@@ -4335,7 +4274,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 70
 
 174
@@ -4343,7 +4281,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 RESUMO
 
@@ -4371,12 +4309,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 BREAK
@@ -4480,9 +4418,6 @@ variável não é local.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 72
 
 174
@@ -4490,7 +4425,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 RAISE
@@ -4554,7 +4489,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www. estra tegiaconcursos. com. br
 
 
-
 73
 
 174
@@ -4562,7 +4496,7 @@ www. estra tegiaconcursos. com. br
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 TIPO DE DADO DESCRIÇÃO
 EXEMPLO
@@ -4644,7 +4578,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 74
 
 174
@@ -4652,7 +4585,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Barra invertida
 Nova linha
@@ -4747,7 +4680,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 75
 
 174
@@ -4755,7 +4687,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 JOINÜ
@@ -4841,9 +4773,6 @@ IGUALA
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 76
 
 174
@@ -4851,7 +4780,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 x = 5
 
@@ -4916,7 +4845,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 77
 
 174
@@ -4924,7 +4852,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Retorna True se uma sequência com o valor especificado não
@@ -4986,7 +4914,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 78
 
 174
@@ -4994,7 +4921,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 GO
 
@@ -5066,12 +4993,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 DISCARDO Remove o item especificado
 
@@ -5129,7 +5056,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 80
 
 174
@@ -5137,7 +5063,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA E UMA COLEÇÃO ORDENADA E MUTÁVEL. PERMITE MEMBROS DUPLICADOS.
 
@@ -5234,12 +5160,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 NOT Inverte o resultado: se o resultado da expressão for True,
@@ -5335,7 +5261,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 82
 
 174
@@ -5343,7 +5268,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Número do dia do ano 001-366
@@ -5456,7 +5381,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 83
 
 174
@@ -5464,7 +5388,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 MATH.FABSO
@@ -5573,7 +5497,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 84
 
 174
@@ -5581,7 +5504,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Retorna uma lista contendo todas as correspondências
 
@@ -5675,7 +5598,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 85
 
 174
@@ -5683,7 +5605,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 \w Retorna uma correspondência em que a string contém qualquer
@@ -5735,7 +5657,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 86
 
 174
@@ -5743,7 +5664,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Automação de Scripts
 
@@ -5806,9 +5727,6 @@ tutorial simples de como conseguir a sua primeira automação na web com essa bi
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 87
 
 174
@@ -5816,7 +5734,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 O Selenium Python é uma biblioteca com diversos métodos que ajudam na automação web.
 Em suma, as funções permitem controlar o funcionamento de uma página e a interação
@@ -5883,12 +5801,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Poderoso: Projetado para casos de uso do mundo real, protege contra
 peculiaridades de
@@ -5956,12 +5874,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 regravação de assert, parametrização, marcadores, plug-ins, execução de teste paralelo e
 relatórios
@@ -6031,12 +5949,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Possui um analisador de PDF extensível que pode ser usado para outros fins.
 
@@ -6096,19 +6014,15 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 REFERÊNCIAS
 
@@ -6135,9 +6049,6 @@ https://blog.dsacademy.com.br/15-pacotes-python-para_automacao/
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 93
 
 174
@@ -6145,7 +6056,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Questões Cespe
@@ -6210,9 +6121,6 @@ II A tupla é idêntica à lista, exceto pela forma mais simples com que sua dec
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 94
 
 174
@@ -6220,7 +6128,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 III A lista é um tipo de dados variável que permite a alteração de seus
 elementos após a sua
@@ -6293,12 +6201,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Quando utilizamos a clase bool para conversões temos uma "regra". Essa regra nos diz
 que quando
@@ -6370,12 +6278,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Correta
 
@@ -6442,9 +6350,6 @@ Gabarito: Letra B
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 97
 
 174
@@ -6452,7 +6357,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 n.(CEBRASPE - SEED PR- 2021) Na linguagem de programação Python, existem 3
 estruturas
@@ -6529,12 +6434,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 letras == ["P", "F"]
 forx in letras
@@ -6598,9 +6503,6 @@ construtor
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 99
 
 174
@@ -6608,7 +6510,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Correta
 
@@ -6669,13 +6571,9 @@ Gabarito: Correta
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 ig.(CESPE - 2008 - SERPRO - Analista de Sistemas) Python é uma linguagem livre de
 alto nível,
@@ -6717,12 +6615,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões FGV
 
@@ -6787,12 +6685,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) o, í, 3, 8, 21, í, 2, 5,13, 21
 
@@ -6870,7 +6768,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 defX(n):
@@ -6947,9 +6845,6 @@ questão, é gerada uma sequência de números negativos iniciando em -1 e paran
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 104
 
 174
@@ -6957,7 +6852,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 seja, o for para no -9). O For é incrementado de -1 em -1 formando a sequência -1 -2 -3 -4 -5 -6 -7
 -8
@@ -7029,12 +6924,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) ['AA', 'BB', 'CC, 'BB', {'C, 'A', 'B'}]
 
@@ -7108,9 +7003,6 @@ print("Deu erro!")
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 106
 
 174
@@ -7118,7 +7010,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 else:
 
@@ -7186,9 +7078,6 @@ d) [i, 2, 3]
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 107
 
 174
@@ -7196,7 +7085,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) [3, 2,1]
 
@@ -7257,12 +7146,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 x= [1,23,4,5]
 
@@ -7334,12 +7223,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 A execução desse código:
 
@@ -7409,12 +7298,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Pessoal, o while irá executar até que m != n2, ou seja, m diferente de n2. Dessa
 forma, ele vai
@@ -7474,12 +7363,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 while a != b:
 if a > b:
@@ -7541,9 +7430,6 @@ e) 4, 2, 2.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 112
 
 174
@@ -7551,7 +7437,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -7619,9 +7505,6 @@ e) U O I E A
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 113
 
 174
@@ -7629,7 +7512,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -7698,7 +7581,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 e) banana, laranja, manga;
@@ -7766,9 +7649,6 @@ no Python 2.7:
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 115
 
 174
@@ -7776,7 +7656,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) Produz uma mensagem de erro, porque tenta executar uma operação inválida.
 
@@ -7842,13 +7722,9 @@ Stop - última posição a ser acessada:
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Pode ser: (1) valor positivo - posição de acesso (por exemplo, o é a primeira, 1 é a segunda); (2)
 valor
@@ -7909,12 +7785,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões FCC
 
@@ -7981,8 +7857,6 @@ def oper(l, item):
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
 118
 
 174
@@ -7990,7 +7864,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 pos = O
 x = False
@@ -8062,9 +7936,6 @@ linguagem Python; aiml: biblioteca para inteligência artificial com aprendizado
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 119
 
 174
@@ -8134,7 +8005,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 a) private exibir_processos(pro):
@@ -8199,9 +8070,6 @@ import ..I.. as b
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 121
 
 174
@@ -8209,7 +8077,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 import matplotlib.pyplot as a
 x = b.linspace(o, 3, 20)
@@ -8276,9 +8144,6 @@ Pessoal, vejamos o que cada operação gera na lista a:
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 122
 
 174
@@ -8286,7 +8151,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 a.insert(2, -5) # [99.15, 323, -5, 323, 2,12.5]
 
@@ -8351,12 +8216,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 resultado, append(a)
 a, b = b, a+b
@@ -8418,9 +8283,6 @@ b) no Fragmento 2, a instrução for está incorreta, pois ela não pode iterar 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 124
 
 174
@@ -8428,7 +8290,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) o Fragmento 1 está in Correta, pois não é possível iterar sobre
 sequências numéricas
@@ -8496,8 +8358,6 @@ b = 1
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
 125
 
 174
@@ -8505,7 +8365,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Depois, temos que:
 
@@ -8586,7 +8446,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 126
 
 174
@@ -8633,12 +8492,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael L
+(Profs. Paolla Ramos e Raphael L
 
 62.(IESES - 2015 - IFC-SC - Programação Web e Dispositivos Móveis) Sobre listas em Python
 3-1-5:
@@ -8701,7 +8560,6 @@ www.estrategiaconcursos.com.br
 y
 
 
-
 128
 
 174
@@ -8709,7 +8567,7 @@ y
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 dobra(x)
 printx
@@ -8772,9 +8630,6 @@ a) Python suporta a maioria das técnicas da programação orientada a objetos.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 129
 
 174
@@ -8782,7 +8637,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) Python suporta e faz uso constante de tratamento de exceções como uma forma de
 testar
@@ -8850,12 +8705,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) range(5,i) gera a lista [5].
 
@@ -8923,9 +8778,6 @@ Gabarito: Letra E
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 131
 
 174
@@ -8976,13 +8828,9 @@ Gabarito: Letra C
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Questões Cespe
@@ -9047,9 +8895,6 @@ de objetos, com exceção das próprias listas, e seus elementos são alterávei
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 133
 
 174
@@ -9057,7 +8902,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 5. (CEBRASPE-PF-2021) O código Python a seguir apresenta como resultado "True".
 x = bool(-3)
@@ -9115,12 +8960,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) i
 
@@ -9178,9 +9023,6 @@ do tipo int, que recebe 1 como parâmetro no seu construtor.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 135
 
 174
@@ -9188,7 +9030,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 15. (CESPE - 2013 - MPOG - Analista de Sistemas) Em Python, o comando int("i") cria
 um objeto
@@ -9244,12 +9086,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões FGV
 
@@ -9306,12 +9148,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael L
+(Profs. Paolla Ramos e Raphael L
 
 1 def rotina(array):
 
@@ -9387,11 +9229,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 174
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 25. (FGV-MPE GO-2022) Assinale a lista de números produzida pela execução, na IDLE Shell 3.9.9,
 do código Python a seguir.
@@ -9462,12 +9302,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) ['AA', 'BB', 'CC, 'BB', {'C, 'A', 'B'}]
 
@@ -9535,7 +9375,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 
 
-
 140
 
 174
@@ -9543,7 +9382,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) Ok
 The end
@@ -9600,12 +9439,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) [o, 1,1, 2, 2, 3]
 
@@ -9668,9 +9507,6 @@ A execução desse código:
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 142
 
 174
@@ -9678,7 +9514,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) não tem efeito, pois nenhum comando print é acionado;
 
@@ -9735,13 +9571,9 @@ print ABC([2o],Io)
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 O resultado da execução desse código é:
 
@@ -9793,9 +9625,6 @@ Dado que uma execução da função F exibiu os números
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 144
 
 174
@@ -9803,7 +9632,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 é Correta afirmar que os valores dos parâmetros a, b, c empregados foram, respectivamente:
 a) -4, í, 2;
@@ -9869,12 +9698,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Assinale a opção que indica a saída produzida pela execução desse código.
 
@@ -9937,9 +9766,6 @@ seguir.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 146
 
 174
@@ -9947,7 +9773,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Li=[io,20,30]
 I_2=[4O,5O]
@@ -10013,9 +9839,6 @@ e) a exibição do valor 16, somente.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 147
 
 174
@@ -10023,7 +9846,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões FCC
 
@@ -10088,8 +9911,6 @@ print(oper(v, 8))
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
 148
 
 174
@@ -10097,7 +9918,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para que o código exiba na tela o valorTrue se o item buscado no vetor por meio da
 função oper
@@ -10162,12 +9983,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 52. (FCC - TJ MA- 2019) Considere o programa Python abaixo:
 I..
@@ -10233,12 +10054,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 y = b.linspace(o, 9, 20)
 a.plot(x, y)
@@ -10298,9 +10119,6 @@ Considere a saída gerada pelo programa:
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 151
 
 174
@@ -10308,7 +10126,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 iPRODATER
 2 SEMEST
@@ -10369,12 +10187,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 break
 else:
@@ -10439,9 +10257,6 @@ e) resultado.append(a)
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 153
 
 174
@@ -10449,7 +10264,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 a, b = a+b, b
 
@@ -10497,9 +10312,6 @@ tamanho.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 154
 
 174
@@ -10507,7 +10319,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões Comentadas - Diversas Bancas
 
@@ -10564,12 +10376,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) é uma linguagem compilada.
 
@@ -10633,9 +10445,6 @@ assinale a alternativa correta.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 156
 
 174
@@ -10643,7 +10452,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) A Python é uma linguagem de alto nível e robusta. Ela possui seu próprio
 framework e é
@@ -10702,12 +10511,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -10785,9 +10594,6 @@ Item. 25. Letra A 50.Letra D
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
 158
 
 174
@@ -10795,7 +10601,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 FRAMEWoRkS PYTHoN: DJANGo
 
@@ -10861,12 +10667,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Views: Esta é uma interface de usuário. Ele é responsável por exibir os dados dos bancos de
 dados
@@ -10923,12 +10729,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Além disso, é sensato separar o conteúdo da apresentação - que é onde os templates
 entram. No
@@ -11004,12 +10810,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 * NewForms - é possível gerar e manipular formulários facilmente através dos modelos de
 dados definidos.
@@ -11079,7 +10885,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 A conectividade do banco de dados requer todos os detalhes da conexão, como nome do
@@ -11149,12 +10955,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Um modelo é a fonte única e definitiva de dados sobre seus dados. Ele contém os
 campos e
@@ -11228,12 +11034,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Form
@@ -11293,7 +11099,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 As views genéricas do Django foram criadas para diminuir esse sofrimento. Elas pegam
@@ -11364,12 +11170,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 O sistema de armazenamento padrão do Django é dado pela
 configuração
@@ -11443,12 +11249,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 pequenos a médio com tráfico equivalente. Mas para aplicações de porte médio para
 grande, é
@@ -11518,12 +11324,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 O Django fornece um conjunto de sinais embutidos que deixam o código do usuário ser
 notificado pelo próprio Django sobre certas ações. Estas incluem algumas notificações úteis:
@@ -11598,12 +11404,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 manage.py
@@ -11666,7 +11472,7 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Memcached
@@ -11702,12 +11508,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 FRAMEWoRkS PYTHoN: FLASk
 
@@ -11768,12 +11574,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 174
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 06 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Extensa documentação;
 
@@ -11818,9 +11624,6 @@ neurais, árvore de decisão e algoritmos de maximização.
 
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
-
-
-
 
 
 173

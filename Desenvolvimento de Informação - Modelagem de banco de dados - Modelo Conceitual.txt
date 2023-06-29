@@ -2,7 +2,7 @@ Capítulo. Desenvolvimento de Informação - Modelagem de banco de dados - Model
 
 Concursos
 
-Aula 01 (Prof. Thiago
+(Prof. Thiago
 
 Cavalcanti)
 
@@ -17,7 +17,7 @@ Thiago Rodrigues Cavalcanti
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 índice
 
@@ -55,16 +55,13 @@ CEBR 142
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 2
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 MoDELAGEM CoNCEITUAL DE DADoS (MoDELo DE
 
@@ -109,12 +106,8 @@ relacionamentos e atributos que serão armazenados em um banco de dados. Esse ti
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 de construção consegue estabelecer uma semântica para os dados. Partindo dessa
 representação do modelo de dados podemos refinar o diagrama, diminuído a abstração do
@@ -167,12 +160,8 @@ projeto lógico e projeto físico. A figura a seguir apresenta um fluxo simplifi
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 construção de um projeto de banco de dados. Peço que preste atenção nos elementos ao
 lado direito da figura. Tente observar as etapas que acabamos de descrever.
@@ -189,12 +178,8 @@ Figura 1 - Projeto de banco de dados
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Perceba que cada projeto gera como resultado um esquema. Nesta aula nosso foco será
 entender as possíveis estruturas notacionais para definição de um esquema conceituai. O
@@ -242,12 +227,8 @@ conceitos de análise funcional.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 ANÁLISE FUNCIoNAL
 
@@ -322,12 +303,8 @@ formato do sistema de banco de dados.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 5. Conversão de aplicação. Quais quer aplicação de software de um sistema
 anterior são convertidas para o novo sistema.
@@ -412,12 +389,8 @@ Figura 3 - Fases do projeto e implementação de banco de dados
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 A fase de escolha de um SGBD deve considerar alguns aspectos relacionados ao custo de
 aquisição do software, manutenção, aquisição de hardware, criação ou conversão
@@ -475,16 +448,13 @@ os métodos. Vejamos uma figura que ajude a entender melhor esses conceitos:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 9
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Concurseiro
 
@@ -524,12 +494,8 @@ acesso a diferentes macrofuncionalidades do sistema, ou seja, os casos de uso.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Figura 4 - Diagrama de caso de uso
 
@@ -574,16 +540,13 @@ de um modelo de dados corporativos pode ser abordado em função de seis princí
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 11
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 1. Desenvolver o modelo "top-down".
 
@@ -647,16 +610,13 @@ administrador de dados (AD) e dos dicionários de dados, julgue os itens a segui
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 12
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Enquanto o AD se preocupa com o gerenciamento dos dados como patrimônio da
 empresa, o administrador de banco de dados (ABD) é responsável pelo gerenciamento
@@ -681,16 +641,13 @@ dados. Vamos em frente!
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 13
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 MoDELo ENTIDADE RELACIoNAMENTo - ER
 
@@ -754,16 +711,13 @@ literatura
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 14
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 especializada afirma que o modelo tem como embasamento a formalização do óbvio. O
 esquema a seguir descreve as características básicas do modelo ER.
@@ -800,16 +754,13 @@ acento gráfico.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 15
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 HORA DE
 
@@ -868,16 +819,13 @@ Entidade, neste caso, FUNCIONÁRIO.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 16
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O termo conjunto tentar expor o conceito de que a entidade FUNCIONÁRIO, por exemplo,
 deve ser uma descrição de um conjunto de funcionários de uma empresa em um
@@ -946,16 +894,13 @@ representados para não sobrecarregar o diagrama.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 17
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Até aqui tratamos apenas dos elementos gráficos básicos do modelo, vamos,
 então,
@@ -1009,16 +954,13 @@ Figura 5 - Identificador de entidade.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 18
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Existem algumas entidades que não possuem atributos suficientes para que cada uma
 das suas instâncias seja identificada de forma unívoca. Falaremos sobre esse
@@ -1080,16 +1022,13 @@ Obrigatórios ou Opcionais
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 19
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Atributos cujo valor seja exigido em todas as instâncias da entidade são
 denominados
@@ -1146,16 +1085,13 @@ até aqui:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 20
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Figura 8 - Atributos no modelo entidade relacionamento.
 
@@ -1168,16 +1104,13 @@ complexos.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 21
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Atributos nulos
 
@@ -1237,16 +1170,13 @@ PRATICAR!
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 22
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Com relação às informações contidas no modelo conceituai precedente, julgue o próximo
 item.
@@ -1278,16 +1208,13 @@ Gabarito: CERTO
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 23
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Agora vamos tratar dos relacionamentos que são usados para associações entre as
 entidades. No diagrama ER, os relacionamentos são representados por losangos. Observe
@@ -1324,12 +1251,8 @@ Vamos agora fazer mais uma questão sobre o assunto:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 HORA DE
 
@@ -1374,16 +1297,13 @@ diagrama de entidades e relacionamentos no modelo relacional.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 25
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 a) dependência
 
@@ -1436,12 +1356,8 @@ b) relacionamento binário.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 c) autorrelacionamento.
 
@@ -1467,16 +1383,13 @@ Figura 3 - Resumo dos relacionamentos
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 27
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 ENTIDADE FoRTE X ENTIDADE FRACA
 
@@ -1523,16 +1436,13 @@ relacionamentos. Os atributos podem ser classificados em obrigatórios, opcionai
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 28
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 monovalorados, multivalorados, simples ou compostos. Nesse contexto, uma entidade
 chamada Empregado possui os atributos ID, Nome, TelefonesContato, CNH e Endereço.
@@ -1601,12 +1511,8 @@ Por exemplo, o tipo de entidade TEXTBOOK pode ter o atributo adicional Assunto (
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 exemplo, Computação, Matemática, Ciências, etc.), LANGUAGE_BOOK pode ter o atributo
 Idioma (por exemplo, francês, alemão, japonês, etc.), e a entidade do tipo NOVEL
@@ -1675,16 +1581,13 @@ disjunção) ou
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 30
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Antes de falarmos mais detalhes sobre disjunção e sobreposição vamos definir o que vem
 a ser atributo de herança. Como discutido anteriormente, os tipos de entidade de nível
@@ -1718,16 +1621,13 @@ símbolo "d" escrito em um círculo num diagrama ERE como mostrado na figura.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 31
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Restrição de sobreposição: Esta restrição estabelece que a mesma instância
 de
@@ -1747,16 +1647,13 @@ que o livro sobre idioma também possa ser um livro prescrito em uma disciplina.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 32
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 (Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Técnico Judiciário - Operação de
 Computadores)
@@ -1819,10 +1716,8 @@ SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edi
 154
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 ACREGAçÃo/ENTIDADE ASSoCIATIvA
 
@@ -1855,12 +1750,8 @@ muitos livros escritos por diferentes autores.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 HORA DE
 
@@ -1883,12 +1774,8 @@ DE TI)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Considerando a figura acima, que ilustra um modelo conceituai, assinale a opção correta.
 A As entidades pessoa física e pessoa jurídica são
@@ -1947,12 +1834,8 @@ Gabarito: A.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 OUTRAS REPRESENTAçõES CoNCEITUAIS
 
@@ -2018,12 +1901,8 @@ tracejadas, com um nome que representa o papel da entidade no relacionamento. Es
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 colocação de nome supera o problema de ambiguidade na descrição do relacionamento.
 Assim, ambas as leituras da direita para a esquerda ou em sentido inverso podem ser
@@ -2062,16 +1941,13 @@ Cada PEDIDO deve ser feito por um e apenas um COSUMIDOR
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 38
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Talvez não tenha ficado tão claro ainda. Vamos ver um exemplo com um relacionamento
 de cardinalidade máxima N (muitos). O que eu quero que você perceba, é
@@ -2107,16 +1983,13 @@ Apresentamos a seguir uma explicação gráfica dos principais elementos desta n
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 39
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Uma entidade
 
@@ -2171,16 +2044,13 @@ modelagem de dados e é uma das notações mais populares para o projeto de banc
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 40
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 A notação de El é semelhante à notação de Barker, ela apresenta a frequência máxima de um papel
 através da marcação na
@@ -2257,16 +2127,13 @@ na notação IDEF1X. Observem que as entidades podem ser segmentadas em
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 41
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 independentes e dependentes. Esse conceito se baseia no fato da existência de uma
 entidade depender da existência de outra (s) entidade (s). Uma entidade
@@ -2290,16 +2157,13 @@ ela, obrigatoriamente, uma ocorrência de entidade pai.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 42
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Veja que existe uma sutileza aqui. Para resolver essa diferença vamos observar algumas
 
@@ -2373,18 +2237,15 @@ i
 
 Entity-B
 
-♦Parent Entity
+*Parent Entity
 
 Mandatory Non-Identifying
 Relationship
 
-♦♦Child Entity
+**Child Entity
 
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-
-
-
 
 
 43
@@ -2393,7 +2254,7 @@ SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edi
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 Entity-A
@@ -2473,16 +2334,13 @@ possibilidades.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 44
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Exclusiva
 
@@ -2497,16 +2355,13 @@ de dados. Veremos os aspectos do projeto lógico quando tratarmos do modelo rela
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 45
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 QUESTõES CoMENTADAS CESPE
 
@@ -2536,16 +2391,13 @@ da entidade, devendo ser encontrada da seguinte forma:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 46
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Daí tiramos que uma instância da entidade Ambiente deve relacionar-se com um e
 somente um elemento na entidade Setor. Agora, vamos analisar partindo
@@ -2580,16 +2432,13 @@ transporte.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 47
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentário: Essa questão reforça a importância de entender as notações
 complementares à notação ER. Neste caso, temos que lembrar que relembrar da
@@ -2608,12 +2457,8 @@ Gabarito: Errado
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 « PRATICAR!
 
@@ -2641,16 +2486,13 @@ Otransportad
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 49
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Um distribuidor é autorizado obrigatoriamente por um fabricante, enquanto um
 
@@ -2686,16 +2528,13 @@ Gabarito: Certo
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 50
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 . . HORA DE
 
@@ -2740,12 +2579,8 @@ opções de aeronaves para o trecho reservado.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 í d) Errado. Temos um relacionamento um para muitos. Um trecho de voo está
 relacionado a muitas reservas.
@@ -2797,16 +2632,13 @@ não ter nenhuma correspondência;
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 52
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Uma ocorrência de Hospital está associada a apenas uma ocorrência de Universidade
 
@@ -2853,16 +2685,13 @@ assertiva seria:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 53
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 "No sistema implementado, o cliente não terá de cadastrar cada produto nos módulos
 de vendas e compras, pois a redundância será tratada na fase da modelagem do
@@ -2924,16 +2753,13 @@ Item. 9. CEBRASPE (CESPE) - Tec (FUB)/FUB/Tecnologia da lnformação/2018
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 54
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Julgue o item seguinte, a respeito dos conceitos de modelagem de dados e níveis de
 abstração.
@@ -2992,16 +2818,13 @@ acima como incorreta.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 55
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Gabarito: Errado
 
@@ -3062,16 +2885,13 @@ uma alternativa incorreta.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 56
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 B) A chave primária de uma relação pode ser classificada em simples, quando possuir
 apenas um atributo, ou composta, quando tiver dois ou mais atributos. Sendo assim,
@@ -3130,16 +2950,13 @@ ADMINISTRATIVO - DESENVOLVIMENTO DE SISTEMAS DE INFORMAÇÃO
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 57
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Com base nos modelos de banco de dados, julgue os itens subsequentes.
 
@@ -3195,16 +3012,13 @@ um atributo seja sublinhado a chave é dita composta.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 58
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 3. As elipses concêntricas representam um atributo multivalorado. Neste contexto
 você pode ter várias instâncias de atributos associadas a uma única instância
@@ -3272,16 +3086,13 @@ CASAMENTO que pode associar diversas ocorrências na mesma entidade PESSOA.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 59
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 De acordo com as propriedades do diagrama entidade-relacionamento, o conceito
 desse relacionamento (CASAMENTO) pode ser definido como
@@ -3345,10 +3156,8 @@ SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edi
 154
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Uma propriedade importante de um relacionamento é de quantas ocorrências de uma
 entidade podem estar associadas a uma determinada ocorrência através do
@@ -3386,16 +3195,13 @@ não possui mais de um atributo na tabela.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 61
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentário. Analisando a alternativa 65 podemos observar que trata de uma narrativa
 consistente e, portanto, correta.
@@ -3456,16 +3262,13 @@ Gabarito: [84] Errado [86] Certo.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 62
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 22. Ano: 2016 Banca: CESPE Órgão: TCE-PA Prova: Auditor de Controle Externo -
 Área Informática - Analista de Suporte
@@ -3515,16 +3318,13 @@ e) repetição
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 63
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentário: Observe que, pelas definições que acabamos de explicar a alternativa
 que se adequa melhor a nossa questão está na letra D.
@@ -3557,16 +3357,13 @@ Gabarito: C.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 64
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 25. Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Técnico Judiciário - Operação
 de Computadores
@@ -3620,16 +3417,13 @@ especializada possui, além de suas propriedades (atributos, relacionamentos e
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 65
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 generalizações ou especializações), também as propriedades de ocorrência da
 entidade genérica correspondente.
@@ -3685,16 +3479,13 @@ Gabarito: A.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 66
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 QUESTõES CoMENTADAS CESCRANRIO.
 
@@ -3741,18 +3532,11 @@ negócio descrito acima e as relações entre esses conceitos?
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-
-
-
 
 
 68
@@ -3761,7 +3545,7 @@ SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edi
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentário:
 
@@ -3806,12 +3590,8 @@ E a relação R possui muitas instâncias de L.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentário. A questão demonstra um relacionamento com 3 entidades (ternário).
 Neste caso,
@@ -3861,12 +3641,8 @@ M={}
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 S={(tl,kl),(t2,kl),(t3,kl),(t4,kl)}
 B K={kl,k2,k3,k4,k5,k6}
@@ -3928,12 +3704,8 @@ em L ou M, mas nunca nos dois ao mesmo tempo. Se observarmos a letra A, todos os
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 K pertencem a pertencem L, e nenhuma M. Isso é perfeitamente possível. Logo, a nossa
 resposta já
@@ -3966,12 +3738,8 @@ X2, podemos enxergar isso como:
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Então, para encontrarmos o diagrama, temos que achar uma relação onde que todo
 elemento de E
@@ -4016,26 +3784,19 @@ modelo E-R acima?
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 73
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentário. O relacionamento R apresentado na questão tem cardinalidade 1:N.
 Analisando a
@@ -4068,16 +3829,13 @@ Item. 6. CESGRANRIO - Escriturário (BB)/"Sem Área"/2018
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 75
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Um banco de dados possui um modelo conceituai cuja descrição é feita pelo diagrama E-R a seguir.
 
@@ -4126,16 +3884,13 @@ pelo menos 1
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 76
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 relacionamento para as instâncias cl e c2. Isso anula as alternativas A e B. A letra
 A não apresenta
@@ -4175,16 +3930,13 @@ Qual modelo E-R define regras de cardinalidade compatíveis com esse banco de da
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 77
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentário. Vamos analisar cada alternativa e identificar inconsistências no modelo E-R
 que não
@@ -4197,16 +3949,13 @@ TI existe entre as entidades P e Q. Temos a instância pl se relacionando com tr
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 78
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 (ql, q2, q3). Podemos concluir, com certeza, que a entidade P se relaciona no máximo
 com N
@@ -4277,12 +4026,8 @@ Comentário.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Sabemos que a existência de atributos no relacionamento independe da cardinalidade.
 Logo, temos
@@ -4343,16 +4088,13 @@ empresa. Quando o novo sistema estiver em funcionamento, todas elas serão devid
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 80
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 cadastradas, tendo em vista melhorar a gestão de entregas pelo setor responsável. O
 custo de
@@ -4393,16 +4135,13 @@ b)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 81
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e)
 
@@ -4417,16 +4156,13 @@ pedido e
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 82
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 transportadora. Essa entidade associativa "entregue" vai agora poder se relacionar com a
 entidade
@@ -4475,16 +4211,13 @@ criadores de cães para organizar informações sobre os torneios que ela promov
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 83
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CREATE TABLE CAO (
 
@@ -4608,16 +4341,13 @@ competições. Suas colunas são autoexplicativas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 84
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
 determinado
@@ -4635,26 +4365,19 @@ b)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 85
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e)
 
@@ -4704,16 +4427,13 @@ e as dimensões do objeto a ser entregue, o endereço de entrega e o custo da op
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 87
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * Uma entrega pode ser paga através de cartão de crédito, cartão de débito ou
 boleto bancário.
@@ -4749,28 +4469,21 @@ observar as boas práticas de modelagem conceituai de dados?
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 88
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 c)
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e)
 
@@ -4798,16 +4511,13 @@ Dito isto, podemos marcar nossa resposta na alternativa C.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 90
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Gabarito: C
 
@@ -4875,16 +4585,13 @@ errada.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 91
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Dois conjuntos de entidades, ou de valores armazenados em uma entidade específica,
 podem ser
@@ -4986,16 +4693,13 @@ existente entre Conta e Cliente?
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 92
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentário: Temos que observar que a questão trata especificamente da ligação entre as
 duas
@@ -5041,16 +4745,13 @@ Dados
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 93
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Para responder à questão, tenha como referência o diagrama de entidades e
 relacionamentos,
@@ -5133,16 +4834,13 @@ Movimento (id_movimento, id_conta, id_agencia, codigo_tipo_conta)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 94
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Agora vamos analisar as demais entidades:
 
@@ -5194,24 +4892,16 @@ observar os preceitos de um bom modelo conceituai de dados?
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 c)
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e)
 
@@ -5238,16 +4928,13 @@ associado
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 97
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 ou não a um torcedor. Assim, temos uma restrição de participação parcial,
 que nos leva uma
@@ -5315,16 +5002,13 @@ Qual diagrama E-R atende a todos os requisitos descritos acima?
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 98
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 a)
 
@@ -5335,12 +5019,8 @@ c)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Comentário: Observem que o ponto crucial para responder a essa questão é o fato de
 uma empresa
@@ -5360,16 +5040,13 @@ Gabarito: C
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 100
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 LISTA DE QUESTõES - CEBRASPE
 
@@ -5388,12 +5065,8 @@ Item. 1. CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Ciências da Computação/20
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Considerando o diagrama entidade- relacionamento precedente e os múltiplos
 aspectos que a modelagem de dados oferece ao analista para examinar os dados no
@@ -5424,16 +5097,13 @@ relacionamento no contexto de um banco de dados relacional.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 102
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 De acordo com as informações do texto 9A1-I, assinale a opção correta, com relação
 à leitura das regras do negócio representadas no modelo apresentado.
@@ -5464,16 +5134,13 @@ várias universidades, pois a tabela Hospital apresenta cardinalidade (0, n).
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 103
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 5. CEBRASPE (CESPE) - APF/PF/2018
 
@@ -5514,16 +5181,13 @@ e) instâncias.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 104
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 8. CEBRASPE (CESPE) - Tec (FUB)/FUB/Tecnologia da lnformação/2018
 
@@ -5568,16 +5232,13 @@ e ônibus podem ser generalizadas na superclasse veículo.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 105
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 12. Ano: 2018 Banca: CESPE Órgão: TCM-BA Cargo: Auditor de Contas Questão:
 10
@@ -5625,12 +5286,8 @@ somente os sistemas gerenciadores de banco de dados conseguem interpretá-lo.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 15. Ano: 2015 Banca: CESPE Órgão: TRE-PI Cargo: Operação de computadores -
 Questão 40
@@ -5675,16 +5332,13 @@ Item. 17. Ano: 2015 Banca: CESPE Órgão: TRE-PI - Questão 57
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 107
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Considere que existe uma entidade PESSOA com um relacionamento denominado
 CASAMENTO que pode associar diversas ocorrências na mesma entidade PESSOA.
@@ -5735,16 +5389,13 @@ chave primária é definido como um conjunto de entidades fortes.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 108
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 [68] Uma chave primária identifica um único valor de uma tupla no banco de dados e
 não possui mais de um atributo na tabela.
@@ -5784,12 +5435,8 @@ a) dependência
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 b) enumeração
 
@@ -5842,12 +5489,8 @@ não havendo novas representações.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 25. BANCA: CESPE ANO: 2010 ÓRGÃO: INMETRO PROVA: PESQUISADOR -
 GOVERNANÇA DE TI
@@ -5881,16 +5524,13 @@ relacionamento ternário.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 111
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 GABARITo
 
@@ -5951,12 +5591,8 @@ Item. 26. A
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 LISTA DE QUESTõES - CESCRANRIO.
 
@@ -6003,18 +5639,11 @@ negócio descrito acima e as relações entre esses conceitos?
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-
-
-
 
 
 114
@@ -6023,7 +5652,7 @@ SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edi
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 2. CESGRANRIO - Técnico (UNIRIO)/Tecnologia da lnformação/2019
 
@@ -6049,16 +5678,13 @@ O diagrama E-R, exibido pela Figura abaixo, representa o modelo conceituai de um
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 115
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Suponha que os elementos do conjunto T a seguir sejam instâncias da entidade de mesmo
 nome,
@@ -6105,16 +5731,13 @@ M={k4,k5,k6}
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 116
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 4. CESGRANRIO - Analista (UNIRIO)/Tecnologia da lnformação/2019
 
@@ -6132,26 +5755,19 @@ modelo E-R acima?
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 117
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 6. CESGRANRIO - Escriturário (BB)/"Sem Área"/2018
 
@@ -6166,16 +5782,13 @@ Al={a2,a3,a₄}
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 119
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 A2={ai,a₅,a₆}
 
@@ -6228,26 +5841,19 @@ Qual modelo E-R define regras de cardinalidade compatíveis com esse banco de da
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 120
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 8. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/EditaI 02
 
@@ -6291,16 +5897,13 @@ A notação equivalente em IDEF1X é
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 122
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 HORA DE
 
@@ -6354,28 +5957,21 @@ Qual diagrama E-R descreve adequadamente os elementos envolvidos no negócio da 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 123
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 c)
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 HORA DE
 
@@ -6392,16 +5988,13 @@ criadores de cães para organizar informações sobre os torneios que ela promov
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 125
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CREATE TABLE CAO (
 
@@ -6525,16 +6118,13 @@ competições. Suas colunas são autoexplicativas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 126
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
 determinado
@@ -6552,26 +6142,19 @@ b)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 127
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e)
 
@@ -6620,16 +6203,13 @@ o valor pago e o número do código de barras do boleto;
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 129
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Qual diagrama E-R representa corretamente os elementos e as regras presentes na
 descrição dos
@@ -6643,26 +6223,19 @@ b)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 130
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e)
 
@@ -6704,16 +6277,13 @@ d) todos os atributos em determinado conjunto de atributos têm o mesmo conjunto
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 132
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e) um conjunto de relacionamentos pode ser considerado um conjunto de n-tuplas.
 
@@ -6792,16 +6362,13 @@ existente entre Conta e Cliente?
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 133
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 3 PRATICAR!
 
@@ -6865,16 +6432,13 @@ c) 9
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 134
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 d) 11
 
@@ -6916,24 +6480,16 @@ a)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 c)
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e)
 
@@ -6955,16 +6511,13 @@ cadastrados no sistema. Um consórcio é formado por uma ou mais empresas.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 137
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O objeto de cada leilão é um bloco de exploração. Os consórcios poderão registrar
 vários lances para
@@ -6994,16 +6547,13 @@ Qual diagrama E-R atende a todos os requisitos descritos acima?
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 138
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 c)
 
@@ -7012,16 +6562,11 @@ SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edi
 www.estrategiaconcursos.com.br
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-
-
-
 
 
 140
@@ -7030,7 +6575,7 @@ SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edi
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 GABARITo
 
@@ -7071,12 +6616,8 @@ Item. 18. C
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 LISTA DE QUESTõES - CEBRASPE
 
@@ -7095,12 +6636,8 @@ Item. 1. CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Ciências da Computação/20
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Considerando o diagrama entidade- relacionamento precedente e os múltiplos
 aspectos que a modelagem de dados oferece ao analista para examinar os dados no
@@ -7131,16 +6668,13 @@ relacionamento no contexto de um banco de dados relacional.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 143
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 De acordo com as informações do texto 9A1-I, assinale a opção correta, com relação
 à leitura das regras do negócio representadas no modelo apresentado.
@@ -7171,16 +6705,13 @@ várias universidades, pois a tabela Hospital apresenta cardinalidade (0, n).
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 144
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 5. CEBRASPE (CESPE) - APF/PF/2018
 
@@ -7221,16 +6752,13 @@ e) instâncias.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 145
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 8. CEBRASPE (CESPE) - Tec (FUB)/FUB/Tecnologia da lnformação/2018
 
@@ -7275,16 +6803,13 @@ e ônibus podem ser generalizadas na superclasse veículo.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 146
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 12. Ano: 2018 Banca: CESPE Órgão: TCM-BA Cargo: Auditor de Contas Questão:
 10
@@ -7332,12 +6857,8 @@ somente os sistemas gerenciadores de banco de dados conseguem interpretá-lo.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 15. Ano: 2015 Banca: CESPE Órgão: TRE-PI Cargo: Operação de computadores -
 Questão 40
@@ -7382,16 +6903,13 @@ Item. 17. Ano: 2015 Banca: CESPE Órgão: TRE-PI - Questão 57
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 148
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Considere que existe uma entidade PESSOA com um relacionamento denominado
 CASAMENTO que pode associar diversas ocorrências na mesma entidade PESSOA.
@@ -7442,16 +6960,13 @@ chave primária é definido como um conjunto de entidades fortes.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 149
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 [68] Uma chave primária identifica um único valor de uma tupla no banco de dados e
 não possui mais de um atributo na tabela.
@@ -7491,12 +7006,8 @@ a) dependência
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 b) enumeração
 
@@ -7549,12 +7060,8 @@ não havendo novas representações.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 25. BANCA: CESPE ANO: 2010 ÓRGÃO: INMETRO PROVA: PESQUISADOR -
 GOVERNANÇA DE TI
@@ -7588,16 +7095,13 @@ relacionamento ternário.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
 152
 
 154
 
 
 Thiago Rodrigues Cavalcanti
-Aula 01 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 GABARITo
 
@@ -7656,10 +7160,6 @@ Item. 25. A
 Item. 26. A
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-
-
-
-
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

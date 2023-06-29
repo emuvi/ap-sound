@@ -2,7 +2,7 @@ Capítulo. Desenvolvimento de Software - Orientação a Objetos (2).
 
 Concursos
 
-Aula 03 (Profs. Paolla
+(Profs. Paolla
 Ramos e Raphael
 
 Lacerda)
@@ -18,7 +18,7 @@ Paolla Ramos e Silva
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 índice
 
@@ -39,13 +39,9 @@ Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 PRoGRAMAçÃo ORIENTADA A OBJEToS
 
@@ -94,12 +90,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Classes
 
@@ -150,12 +146,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 construído, o objeto deve ser atribuído a uma variável, para que possa ser utilizado
 e referenciado
@@ -208,12 +204,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 transient Sexo; //Indica que Sexo não pode ser serializável;
 
@@ -265,12 +261,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 //Indica que esse método não pode ser sobrescrito
 final int soma (int a, int b) {//...//}
@@ -317,12 +313,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Outro método muito importante é o Método Main! Pois é, ele é sempre definido como um
 método
@@ -382,12 +378,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Encapsulamento
 
@@ -461,12 +457,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 ■ <default>: também chamado friendly, não há palavra para esse modificador porque ele
 é, na
@@ -527,12 +523,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 //Método público para recuperar dados
 public String getAlgo() {
@@ -590,12 +586,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 //Assinatura Igual: quantidade, tipo e ordem
 
@@ -641,15 +637,13 @@ classes filhas da superclasse Animal. Observem abaixo que ambas implementam o m�
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 12
 
-www. estrategiaconcursos. com. br
+
 , 44
-
-
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 abstract void som( ), porém cada uma a sua maneira, visto que gatos e cachorros
 emitem sons
@@ -692,12 +686,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 gato. Depois fazemos outra atribuição e ele apresentará "AUAU", porque animal naquele
 instante
@@ -739,7 +733,7 @@ x.soma(20,20); //Mesmo nome, mas assinatura diferente (2 valores)
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Java: Herança
 
@@ -776,12 +770,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 que uma entidade herde diretamente comportamentos e estados de duas ou mais categorias
 ao
@@ -832,11 +826,9 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 44
 
 
-
-
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 class NomeClasseFilha extends NomeClassePai {
 
@@ -895,12 +887,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - PRoGRAMAçÃo ORIENTADA A
 
@@ -964,12 +956,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 3. (ESAF - 2008 - CGU - Tecnologia da Informação) Com relação a essa característica, é
 correto afirmar que:
@@ -1041,12 +1033,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) não pode ser instanciada;
 
@@ -1102,12 +1094,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 final class Carro {...}
 
@@ -1138,12 +1130,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - PRoGRAMAçÃo ORIENTADA A
 
@@ -1193,15 +1185,13 @@ c) nome_Classe nomejnstancia = new nome_Objeto();
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 22
 
-www. estrategiaconcursos. com. br
+
 , 44
-
-
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) nomejnstancia nome_Objeto = new nome_lnstancia();
 
@@ -1271,12 +1261,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) volatile.
 
@@ -1333,12 +1323,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 return x * y;
 
@@ -1410,12 +1400,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) Quando se instancia um objeto da subclasse, podem ser passados valores para os
 atributos
@@ -1490,12 +1480,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -1615,12 +1605,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 1 www.estrategiaconcursos.com.br
 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) sobrescrita de construtores.
 
@@ -1715,12 +1705,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 recomendo não brigar com a banca e marcar a opção que não gera dúvidas.
 Agora... se for
@@ -1788,12 +1778,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - PRoGRAMAçÃo ORIENTADA A
 
@@ -1838,12 +1828,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 //Indica que esse método só é executável por uma thread por vez
 synchronized soma (int a, int b) {//...//}
@@ -1898,12 +1888,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Perfeito, perfeito, perfeito! Gabarito: C
 
@@ -1951,12 +1941,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - PRoGRAMAçÃo ORIENTADA A
 
@@ -2027,12 +2017,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 4. (FGV - 2015 - PGE/RO - Analista de Sistemas) Na linguagem de programação Java, para
 indicar que uma classe A é derivada de B, utiliza-se, na declaração de A, o modificador:
@@ -2092,12 +2082,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -2120,15 +2110,13 @@ Item. 7. B
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
+
 ,
-
-
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - PRoGRAMAçÃo ORIENTADA A
 
@@ -2192,12 +2180,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 5. (FCC - 2005 - TRE-MG - Técnico Judiciário - Programação de Sistemas) Os métodos Java
 que não retornam valores devem possuir no parâmetro tipo-de-retorno a palavra:
@@ -2251,12 +2239,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) Se for digitada a instrução NewClassB c = new NewClassA(); no método main da
 classe Start
@@ -2328,12 +2316,12 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 www.estrategiaconcursos.com.br
 / 44
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) encapsulamento.
 
@@ -2434,13 +2422,9 @@ System.out.println(s);
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
-
-
-
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 As linhas que contêm a instrução s = f.calcularSalario( ); demonstram um conceito da
 orientação a objetos conhecido como:
@@ -2486,15 +2470,13 @@ e) nomejnstancia nome_Classe = new nomejnstancia();
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 40
 
-www. estrategiaconcursos. com. br
+
 , 44
-
-
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -2527,15 +2509,15 @@ Item. 12. B
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
+
 ,■
 
- /
+/
 
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - PRoGRAMAçÃo ORIENTADA A
 
@@ -2583,22 +2565,17 @@ manipular dados armazenados em objetos dessa classe.
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Paolla Ramos e Silva
 
-Aula 03 (Profs. Paolla Ramos e Raphael Lacerda)
+(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-Edital)
 
 
-
- /
+/
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

@@ -1,5 +1,5 @@
 Capítulo. Garantia da Segurança de Sistemas - Mecanismos de segurança. Criptografia.
-Aula 02
+
 
 índice
 
@@ -8,12 +8,8 @@ Aula 02
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-I
 
 
-
-
-
-
 André Castro
-Aula 02
+
 
 Criptografia
 
@@ -142,10 +138,8 @@ Gabarito FCC
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Temos agora mais um assunto extremamente bacana. Na verdade, temos aqui uma relação
 de amor e ódio. Tenho percebido isso em meus alunos. Mas meu papel aqui é tornar o
@@ -189,14 +183,12 @@ Outros termos gregos que aparecem nesse contexto são:
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 " 4
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 * Análysis = decomposição;
 
@@ -236,14 +228,11 @@ Assim, temos o exemplo abaixo da utilização dessa codificação:
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 5
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
 
 
 Texto
@@ -316,14 +305,12 @@ letras ou sílabas novas.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 6
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 ESTEGANoGRAFIA
 
@@ -353,14 +340,12 @@ de forma geral.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 7
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 MDOMA1S
 FUNDO!
@@ -437,13 +422,9 @@ apenas no bloco o qual ele pertence, devido à independência dos blocos.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 02
+
 
 MXJMAtS
 FUNDO!
@@ -480,14 +461,12 @@ qualquer bit ou bloco, gera prejuízo em todos os blocos subsequentes.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 9
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 MXJMAtS
 FUNDO!
@@ -557,11 +536,11 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 www.estrategiaconcursos.com.br
 X 86
 
- /
+/
 
 
 André Castro
-Aula 02
+
 
 Destaco ainda a existência do modo OFB (Output Feedback), que segue o mesmo princípio
 do CFB, com a diferença de que a realimentação é feita pela saída do algoritmo e
@@ -611,14 +590,12 @@ dados criptografados, como é o caso de peritos em forense computacional.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 11
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Podemos observar três contextos básicos para dados criptografados, quais sejam: arquivos
 criptografados, discos virtuais criptografados e discos complemente criptografados.
@@ -670,14 +647,12 @@ e com conteúdo ininteligível por causa da criptografia.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 12
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Item. 3. Discos Completamente Criptografados
 
@@ -727,14 +702,12 @@ apenas do algoritmo de criptografia utilizado e do próprio texto cifrado;
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 13
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Item. 2. Texto Claro Conhecido - Known-plaintext: Além dos itens acima, o atacante
 tem a informação dos pares de texto claro de entrada e seu respectivo texto
@@ -786,14 +759,12 @@ em texto claro. Ou seja, se for possível acessar o repositório, é possível o
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 14
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Item. 2. Método Pré-Computado
 
@@ -843,14 +814,12 @@ processamento disponível para realizar a quebra.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 15
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Por esse motivo, a relação (tamanho da chave e tempo) para quebra é um fator crítico.
 Assim, o método em questão se torna extremamente eficiente para senhas curtas.
@@ -902,14 +871,12 @@ probabilidade de ocorrência dado um contexto.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 16
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Este método pode ser derivado em duas subespécies, quais sejam: probabilidade
 condicional e gramática especializada.
@@ -959,14 +926,12 @@ aplicar um algoritmo de criptografia simétrica sobre ele. Esse algoritmo depend
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 17
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 de uma chave que será utilizada nos cálculos matemáticos para gerar uma mensagem que
 não seja interpretada facilmente.
@@ -1009,14 +974,12 @@ maioria da bibliografia. Vejamos:
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 18
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 PROVA!
 
@@ -1067,13 +1030,9 @@ Vamos conhecer agora os principais algoritmos de criptografia simétrica.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 02
+
 
 DES
 
@@ -1141,14 +1100,12 @@ Lefc circular shifc
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 20
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Por utilizar cifra de bloco, o DES pode utilizar quaisquer das técnicas
 anteriormente
@@ -1192,14 +1149,12 @@ A figura abaixo representa essas etapas:
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 21
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 A substituição ocorrida nos S-boxes, a permutação de bits nos P-boxes e a expansão
 fornecem a chamada "confusão e difusão", respectivamente, um conceito identificado
@@ -1215,13 +1170,9 @@ decriptação.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 02
+
 
 Key K1 Key K2 Key K3
 
@@ -1283,14 +1234,12 @@ Cipher text
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 23
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 O RC possui três versões que usualmente aparecem em provas, quais sejam: 4, 5 e 6.
 
@@ -1343,14 +1292,12 @@ ShiftRows - Permutação Simples;
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 24
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 MixColumns - Uma combinação linear que utiliza aritmética sobre corpo finito.
 AddRoundKey - Um XOR bit a bit simples do bloco atual com uma parte da
@@ -1368,13 +1315,9 @@ o Blowfish, Twofish e IDEA.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 02
+
 
 A criptografia Assimétrica, também conhecida como criptografia de chaves públicas
 é
@@ -1422,14 +1365,11 @@ Conseguiram entender? Bom, vamos explicar agora. Vamos usar a figura abaixo:
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 26
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
 
 
 Íí ir «I^-J -
@@ -1529,14 +1469,12 @@ assimétricas, que a pessoa que cifrou o texto é o Brenno.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 27
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Tranquilo pessoal? Busquem entender esses conceitos e não decorar. Eles
 são
@@ -1595,14 +1533,12 @@ A sua estrutura e robustez reside na complexidade e problema do logaritmo discre
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 28
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 RSA - RIvEST, SHAMIR AND ADELMAN
 
@@ -1655,14 +1591,12 @@ A chave pública: o par (n,e).
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 29
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 A chave privada: a tripla (p,q,d). De fato, para desencriptar, basta guardar "d" como
 chave
@@ -1709,14 +1643,12 @@ criptografia simétrica.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 30
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 MXJMAtS
 FUNDO!
@@ -1741,13 +1673,9 @@ superior ao tempo de vida útil da informação.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 02
+
 
 Funções HASH
 
@@ -1849,14 +1777,12 @@ eu não consigo saber o valor original, para que serve o HASH?
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 32
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Pessoal, as principais aplicações das funções HASH são para garantir os
 princípios de
@@ -1909,10 +1835,8 @@ OO SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação -
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 KX) MAtS
 FUNDO!
@@ -1959,14 +1883,12 @@ mesmo HASH.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 34
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Ano: 2021 Banca: FGV Órgão: TJ-RO Prova: FGV - 2021 - TJ-RO - Analista Judiciário -
 Analista de Sistema - Desenvolvimento de Sistema
@@ -2022,14 +1944,12 @@ Possui um tamanho de entrada de múltiplos de 128 bits.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 35
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Um dos problemas que existe no MD5 está relacionado à colisão de prefixos
 de uma
@@ -2062,14 +1982,12 @@ adicional de valor "1" e sucessivos "0's" até completar o múltiplo.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 36
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 SHA
 
@@ -2092,14 +2010,12 @@ se o SHA3 nas mesmas proporções da análise acima.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 37
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 HORA IX
 
@@ -2142,14 +2058,12 @@ técnicas de transposição e os segundos em técnicas de substituição.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 38
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 B Um esquema de criptografia será considerado computacionalmente seguro se o tempo
 para se quebrar sua cifra for superior ao tempo de vida útil da informação por ele
@@ -2202,14 +2116,12 @@ Comentários:
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 39
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Os algoritmos de criptografia de chaves públicas são baseados em fórmulas
 matemáticas que, a partir de determinados valores de entrada, geram um par de chaves
@@ -2262,14 +2174,12 @@ Item. 5. CESPE-TCE-SC/AFCE-Área TI/2016
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 40
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Os algoritmos de criptografia de chave pública devem ser computacionalmente fáceis, a fim
 de que o receptor de uma mensagem cifrada com uma chave pública a decriptografe
@@ -2312,13 +2222,9 @@ Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 02
+
 
 Pessoal, comentei lá na nossa teoria a respeito do fato de que não podemos restringir a
 criptografia assimétrica no quesito de que a privada necessariamente será utilizada
@@ -2362,14 +2268,12 @@ Gabarito: E
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 42
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Um aplicativo que utiliza recursos biométricos para a criptografia de arquivos, como a
 impressão digital de um indivíduo tanto para encriptar quanto decriptar, assemelha-se a
@@ -2413,14 +2317,12 @@ Gabarito: E
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 43
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 13.CESPE - AA (TCE-ES)/lnformática/2013
 
@@ -2476,14 +2378,12 @@ criptografada.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 44
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Comentários:
 
@@ -2527,14 +2427,12 @@ Comentários:
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 45
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Lembrando que também poderia ser utilizado a criptografia assimétrica sem problema
 algum.
@@ -2579,14 +2477,12 @@ Comentários:
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 46
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 0 primeiro trecho da assertiva está tudo certo. Entretanto, o segundo gerou ambiguidade.
 O AES, como vimos, suporta esses três tamanhos de chaves. Já o RC4, suporta esses três
@@ -2632,14 +2528,12 @@ chave.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 47
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Gabarito: E
 
@@ -2685,14 +2579,12 @@ devem ser de conhecimento exclusivo do remetente da mensagem.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 48
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Comentários:
 
@@ -2741,14 +2633,12 @@ Somente uma chave precisa ser mantida em segredo, que é a privada, certo pessoa
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 49
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Gabarito: E
 
@@ -2793,14 +2683,12 @@ SHA-1 para tratar a integridade dos dados, porém, de uma maneira diferente. Par
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 50
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 arquivo armazenado no sistema, cria-se um registro, denominado REVLOG. Isso permite
 tratar as revisões de cada arquivo e o SHA-1 é capaz de tratar a integridade de cada
@@ -2844,14 +2732,12 @@ Gabarito: C
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 51
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 33.CESPE - AJ (STF)/Apoio Especializado/Análise de Sistemas de Informação /2013
 
@@ -2896,14 +2782,12 @@ reversíveis.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 52
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Comentários:
 
@@ -2953,14 +2837,12 @@ uso de uma mesma chave.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 53
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 C) Um código gerado por uma função hash para um conjunto de dados pode garantir a
 sua integridade porque, ao ser calculado novamente sobre o mesmo conjunto de dados, a
@@ -3011,14 +2893,12 @@ mensagem enviada.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 54
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 B) Na criptografia de chave pública, ou assimétrica, a chave utilizada para encriptar
 mensagens é distribuída livremente, ao passo que a chave privada decripta a mensagem.
@@ -3064,13 +2944,9 @@ Comentários:
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 02
+
 
 Uma bagunça, certo pessoal? Primeiro, que o 3DES não necessariamente utiliza 3 chaves,
 uma vez que podem ser utilizadas apenas duas chaves. Além disso, as mesmas chaves
@@ -3122,10 +2998,8 @@ vetor de inicialização - VI em uma operação com o primeiro bloco e, em segui
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 bloco cifrado para realimentar a entrada do segundo bloco. Ou seja, realiza-se uma
 operação entre o primeiro bloco cifrado com o segundo bloco em claro, para posterior
@@ -3142,14 +3016,12 @@ Gabarito: C
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 57
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 HORA IX
 
@@ -3190,14 +3062,12 @@ Item. 4. O receptor decifra o HASH CIFRADO utilizando a chave pública do emisso
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 58
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Item. 5. 0 receptor gera um novo HASH a partir da mensagem em claro recebida.
 
@@ -3247,14 +3117,12 @@ e) isolada.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 59
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Comentário:
 
@@ -3307,14 +3175,12 @@ MACr - Código de Autenticação de Mensagem gerado pelo remetente
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 60
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 KPr = Chave pública do remetente
 
@@ -3369,14 +3235,12 @@ um MACd (Assim que o destinatário recebe o conjunto, ele separa o HASH da
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 61
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Mensagem. Pegando apenas a mensagem e sabendo da chave secreta, ele
 gerará um novo HASH para comparação com o HASH recebido)
@@ -3429,14 +3293,12 @@ comparar os resumos
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 62
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Gabarito: C
 
@@ -3494,14 +3356,12 @@ chaves, enquanto a
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 63
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 simétrica é utilizada para a criptografia dos dados de fato por
 apresentar melhor
@@ -3558,14 +3418,12 @@ implementar um esquema de criptografia de Chave Pública para a troca de informa
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 64
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 entre as duas comarcas de Macapá. Dentre os diferentes algoritmos existentes, ele deve
 escolher o
@@ -3621,14 +3479,12 @@ receptor e texto codificado.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 65
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 c) algoritmo de criptografia, chave secreta do emissor, chave pública do receptor, texto
 codificado e algoritmo de decriptografia.
@@ -3684,14 +3540,12 @@ retornar à mensagem de entrada;
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 66
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Mensagens de entrada distintas devem produzir mensagens de saída distintas;
 
@@ -3744,14 +3598,12 @@ c) assimétrico RSA - Rivest, Shamir and Adleman.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 67
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 d) assimétrico AES -Advanced Encryption Standard.
 
@@ -3771,14 +3623,12 @@ Gabarito: C
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 68
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Chegamos ao término de mais uma aula!
 
@@ -3794,13 +3644,9 @@ Q /p^®^eM<nanz£^ecaAU^
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 02
+
 
 HORA IX
 
@@ -3843,14 +3689,12 @@ Item. 3. CESPE - TCE-PR/Analista de Controle - Área TI/2016
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 70
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Em um esquema de criptografia de chaves públicas, caso
 um
@@ -3905,14 +3749,12 @@ Item. 7. CESPE - AJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 71
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Na criptografia de chave pública assimétrica, são utilizadas duas chaves diferentes: uma
 chave privada confidencial, para criptografar os dados, e outra chave pública, para
@@ -3959,14 +3801,12 @@ informações, assinale a opção correta.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 72
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 a) A técnica criptográfica garante os atributos de autenticidade, integridade,
 confidencialidade, disponibilidade e não repúdio da informação.
@@ -4018,14 +3858,12 @@ simples e colisão forte.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 73
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Se, em um esquema de criptografia de chave pública, o emissor E criptografar uma
 mensagem M utilizando a chave pública do receptor R, então, nesse esquema, é oferecida
@@ -4078,14 +3916,12 @@ devem ser de conhecimento exclusivo do remetente da mensagem.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 74
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 26.CESPE - Tec MPU/Técnico Administrativo/Tecnologia da Informação e
 Comunicação/2013
@@ -4135,14 +3971,12 @@ duas strings diferentes produzam o mesmo hash.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 75
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 34.CESPE - AJ (STF)/Apoio Especializado/Suporte em Tecnologia da lnformação/2013
 
@@ -4195,13 +4029,9 @@ até que se obtenha uma tradução inteligível para texto claro.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 02
+
 
 Item. 39. CESPE - TRE/RS / Técnico Judiciário/2015
 
@@ -4244,13 +4074,9 @@ utilizar a mesma chave.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 02
+
 
 HORA IX
 
@@ -4298,14 +4124,12 @@ e) isolada.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 78
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Item. 3. FCC - TRT - 32 Região(MG)/Técnico Judiciário - Área de TI/2015
 
@@ -4366,14 +4190,12 @@ Item. 5. FCC - TRE-RR/Analista Judiciário - Análise de Sistemas/2015
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 79
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 Um sistema de computador envia uma mensagem para um receptor, acompanhada de um
 resumo dessa mensagem cifrado com chave privada. 0 objetivo égarantir que o sistema
@@ -4434,14 +4256,12 @@ a} RC4 que permite chaves de 256 ou 512 bits
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 80
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 b) RC4 que permite chaves de 256 bits.
 
@@ -4505,14 +4325,12 @@ chave secreta do receptor e texto decodificado.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 81
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 12.FCC - TRT - 32 Região(MG)/Técnico Judiciário - Área de TI/2015
 
@@ -4560,14 +4378,12 @@ e) simétrico RSA - Rivest, Shamir and Adleman.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 82
 
-www. estrategiaconcursos. com. br
+
 86
 
 
-
-
 André Castro
-Aula 02
+
 
 GABARITO
 
@@ -4613,13 +4429,9 @@ GABARITo CESPE
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 02
+
 
 19 C
 
@@ -4673,13 +4485,9 @@ Aula 02
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 André Castro
-Aula 02
+
 
 GABARITo FCC
 
@@ -4712,10 +4520,6 @@ GABARITo FCC
 14
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

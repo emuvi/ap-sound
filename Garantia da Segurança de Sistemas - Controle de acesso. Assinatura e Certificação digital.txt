@@ -1,5 +1,5 @@
 Capítulo. Garantia da Segurança de Sistemas - Controle de acesso. Assinatura e Certificação digital.
-Aula 03
+
 
 índice
 
@@ -18,12 +18,8 @@ Aula 03
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 03
+
 
 ASSINATURA DIGITAL
 
@@ -66,11 +62,11 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 www.estrategiaconcursos.com.br
 / 25
 
- /
+/
 
 
 André Castro
-Aula 03
+
 
 No lado do destinatário, este deverá primeiramente utilizar a chave pública do EMISSOR.
 Ao realizar
@@ -124,10 +120,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 25
 
 
-
-
 André Castro
-Aula 03
+
 
 CERTIFICAçÃo DIGITAL
 
@@ -195,10 +189,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 25
 
 
-
-
 André Castro
-Aula 03
+
 
 Desse modo, vamos analisar a figura a seguir para entendermos bem o seu funcionamento:
 
@@ -250,10 +242,8 @@ Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação 
 25
 
 
-
-
 André Castro
-Aula 03
+
 
 Caso ambas sejam iguais, tem-se a garantia dos três princípios.
 
@@ -272,10 +262,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 25
 
 
-
-
 André Castro
-Aula 03
+
 
 ICP - INFRAESTRUTURA DE CHAVES PÚBLICAS - PKI
 (PUBLIC KEY INFRASTRUCTURE)
@@ -324,12 +312,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 03
+
 
 Outra função presente na AC é responder às requisições de consultas de verificação de
 certificados
@@ -367,10 +351,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 25
 
 
-
-
 André Castro
-Aula 03
+
 
 AUToRIDADE REGISTRADoRA - AR
 
@@ -406,12 +388,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 03
+
 
 Para os alunos que estão estudando em frente a um computador, recomendo darem uma
 olhada
@@ -440,10 +418,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 25
 
 
-
-
 André Castro
-Aula 03
+
 
 Certificado
 
@@ -486,10 +462,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 25
 
 
-
-
 André Castro
-Aula 03
+
 
 Entretanto, ao acessarmos esses serviços com certificados digitais e que não
 façam parte da
@@ -540,10 +514,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 25
 
 
-
-
 André Castro
-Aula 03
+
 
 Item. 3. Caso haja violação da chave privada, ou seja, algum terceiro obtenha a informação da chave
 privada de um usuário ou sistema.
@@ -593,10 +565,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 25
 
 
-
-
 André Castro
-Aula 03
+
 
 além de desempenhar o papel de Autoridade Certificadora Raiz (AC-Raiz), também tem o
 papel de
@@ -658,10 +628,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 25
 
 
-
-
 André Castro
-Aula 03
+
 
 senha, cifrado por software. Sua validade máxima é de um ano, sendo a
 frequência de publicação da LCR no máximo de 48 horas e o prazo máximo
@@ -720,10 +688,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 25
 
 
-
-
 André Castro
-Aula 03
+
 
 já mencionamos, os certificados possuem validade jurídica e fiscal... Então é possível
 realizar atos
@@ -772,10 +738,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 25
 
 
-
-
 André Castro
-Aula 03
+
 
 EV SSL (Validação Avançada)
 
@@ -813,12 +777,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 (Pós-Edital)
 
 
-
-
-
-
 André Castro
-Aula 03
+
 
 Percebam que se trata de uma mesma URL, havendo distinção apenas dos
 objetos que são
@@ -878,10 +838,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 25
 
 
-
-
 André Castro
-Aula 03
+
 
 A figura abaixo nos dá um exemplo do site da geotrust, considerando esse contexto:
 
@@ -969,11 +927,8 @@ Hide Certificate 0K
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
 
 
-
-
-
 André Castro
-Aula 03
+
 
 APLICAçõES DE CRIPToGRAFIA
 
@@ -1029,7 +984,7 @@ como forma de gerar fluxos financeiros de maneira ilícita e, portanto, não ras
 
 
 André Castro
-Aula 03
+
 
 Em relação ao seu funcionamento, tem-se a criação de blocos transacionais, onde cada
 bloco possui
@@ -1085,10 +1040,8 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 25
 
 
-
-
 André Castro
-Aula 03
+
 
 que chegue ao limite do modelo, que é de 21 milhões de bitcoins. Nesse momento, não
 serão
@@ -1149,20 +1102,14 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 25
 
 
-
-
 André Castro
-Aula 03
+
 
 específicas. Com pesquisas simples na Internet é possível identificar uma infinidade de
 ALTCOINS já
 disponíveis no mercado.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-Edital)
-
-
-
-
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.

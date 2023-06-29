@@ -2,7 +2,7 @@ Capítulo. Desenvolvimento de Informação - Processamento de linguagem natural.
 
 Concursos
 
-Aula 12 (Prof. Thiago
+(Prof. Thiago
 
 Cavalcanti)
 SERPRO (Analista - Especialização:
@@ -16,7 +16,7 @@ Thiago Rodrigues Cavalcanti
 
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 índice
 
@@ -25,12 +25,8 @@ Aula 12 (Prof. Thiago Cavalcanti)
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
 
-
-
-
-
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Conteúdo da aula
 2
@@ -83,14 +79,12 @@ PROFESSOR
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 3
 
-www. estrategiaconcursos. com. br
+
 78
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CoNTEÚDo DA AULA
 
@@ -100,13 +94,9 @@ IDF. 1.8 Modelagem de tópicos (LDA, NMF). 1.9 Word embeddings: CBOW e Skip Gram
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 PRoCESSAMENTo DE LINGUAGEM NATURAL (PLN)
 
@@ -163,13 +153,9 @@ saída (ligações telefônicas que você fez) e dados de registro de SMS no seg
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Campo 01 Campo 02 Campo 03 Campo 04
 Campo 05
@@ -225,13 +211,9 @@ tipos: compreensão da linguagem natural (NLU - Natural Language Understanding) 
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 linguagem natural (NLG - Natural Language Generation). Uma explicação adequada desses
 termos
@@ -295,13 +277,9 @@ adequada para a Carol. Perceba que o PLN é uma abordagem baseada em princípios
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 a linguagem humana. Trata-se de um subcampo da inteligência artificial (IA)
 que se refere a
@@ -368,13 +346,9 @@ Summary
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 para extrair as sentenças principais de um texto. As pesquisas continuaram nas décadas
 seguintes.
@@ -481,13 +455,9 @@ Item. 1. Sobre o processamento de linguagem natural (PLN) assinale a alternativa
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 a) O processamento é sempre feito sobre uma linguagem formal, como o português.
 
@@ -559,13 +529,9 @@ um formato canônico. Isso é feito na etapa de pré-processamento. Isso é segu
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 de recursos, onde localizamos indicadores que são mais adequados para a tarefa em
 questão. Esses
@@ -650,13 +616,9 @@ transliteração ajuda as pessoas a pronunciar palavras e nomes em línguas estr
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 (tokenização de palavras). Superficialmente, essas tarefas parecem simples e você
 pode se
@@ -733,14 +695,12 @@ minúsculas (lowercasing). Isso tem a vantagem de acelerar comparações no proc
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 12
 
-www. estrategiaconcursos. com. br
+
 78
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Remover pontuação e/ou números também é uma etapa comum para muitos problemas de PLN,
 como classificação de texto, recuperação de informações e análise de mídia social.
@@ -803,13 +763,9 @@ uma falha na conflação de palavras relacionadas
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Lemmatização é o processo de mapear todas as diferentes formas de uma palavra em sua
 palavra
@@ -884,13 +840,9 @@ morfologia ou do significado dos termos, de modo a agrupar suas contribuições.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Uso do Thesaurus (ou dicionário)
 
@@ -942,13 +894,9 @@ total de documentos relevantes existentes.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 SEMÂNTICA vEToRIAL
 
@@ -1013,13 +961,9 @@ s.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Nesta seção, daremos uma olhada nos diferentes métodos de representação de texto como
 um
@@ -1052,7 +996,7 @@ abaixo. Esta
 representação de matriz mostra com precisão a imagem completa.
 
 « JJ ÍT « is oo io oo n oi os n so « os
-1S 10 ♦* 10 1T 01 10 SI «0 BT 1? 10 10 11 «» 10 01 S4 <2 OO
+1S 10 ** 10 1T 01 10 SI «0 BT 1? 10 10 11 «» 10 01 S4 <2 OO
 
 01 11 11 M SS « 11 01 11 11 10 0? M 04 M OS 11 11 1* «1
 
@@ -1111,13 +1055,9 @@ vec("pizza") = [0.1, 0.2, 0.8]
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Como cada array/lista contém três elementos, você pode plotá-los como pontos em um
 espaço 3-D
@@ -1180,13 +1120,9 @@ i * Conjunto de métodos de PLN que objetivam aprender as
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Como já falamos, embeddings de palavras não são apenas importantes, mas essenciais para
 usar
@@ -1250,14 +1186,12 @@ separadas por espaços ou sinais de pontuação. Em alguns idiomas, como chinês
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 19
 
-www. estrategiaconcursos. com. br
+
 78
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 no entanto, as palavras não são explicitamente delimitadas por espaços e exigem uma
 etapa de pré-
@@ -1327,13 +1261,9 @@ N-grams
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Finalmente, você pode encontrar o conceito de n-gramas na PLN. Um n-grama é uma
 sequência
@@ -1411,13 +1341,9 @@ ou inversa). No caso, quando o cosseno aumenta, de 0 a 180, o valor reduz de 1 a
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 onde A, e 8/ são os componentes dos vectores A e B, respectivamente.
 
@@ -1486,13 +1412,9 @@ semelhante. Vamos organizar isso em uma tabela.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Palavra = Wid Vetor binário Doc Representação dos documentos (One
 Hot)
@@ -1548,13 +1470,9 @@ da palavra em relação a outras palavras.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * Digamos que treinamos um modelo usando nosso corpus de exemplo. Em tempo
 de
@@ -1622,13 +1540,9 @@ Comida = 5 [000010]
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Come = 6 [00000 1]
 
@@ -1675,13 +1589,9 @@ esquema.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 No entanto, apesar dessas deficiências, devido à sua simplicidade e facilidade de
 implementação,
@@ -1747,13 +1657,9 @@ euclidiano em comparação com documentos com n-gramas completamente diferentes.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 TF-IDF
 
@@ -1825,13 +1731,9 @@ para os termos do documento Di são mostrados na Tabela abaixo.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Palavra TF Score (Di) IDF Score
 TF * IDF
@@ -1892,13 +1794,9 @@ treinados mais rapidamente e tivessem melhor acurácia em tarefas de processamen
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 natural. Essa pesquisa enfatizou que word embeddings são capazes de extrair
 conhecimento
@@ -1975,14 +1873,12 @@ como uma sentença. A rede neural proposta considera um conjunto de palavras e p
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 29
 
-www. estrategiaconcursos. com. br
+
 78
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 a probabilidade de uma próxima palavra ocorrer em determinada sentença. O resultado
 calculado
@@ -2041,13 +1937,9 @@ abaixo. Perceba que o Skip-Gram quando comparado a CBOW é mais custoso:
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Q = C * (D + D * log2(V))
 
@@ -2091,13 +1983,9 @@ algumas delas:
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * Dados mais compactos são mais fáceis de transferir e armazenar.
 
@@ -2143,13 +2031,9 @@ componente principal (PCA), decomposição de valor singular e projeção aleat�
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 O segundo ramo é conhecido como aprendizado múltiplo (manifold learning), que
 também é
@@ -2202,13 +2086,9 @@ execução do algoritmo de PCA:
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Cálculo da
 
@@ -2289,13 +2169,9 @@ avaliações de clientes. No entanto, essa categorização nem sempre resulta em
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e pode haver qualquer número de categorias disponíveis. Vamos dar uma olhada
 rápida na
@@ -2365,13 +2241,9 @@ seguida, atribuir um conjunto de tags ou categorias predefinidas com base em seu
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 A classificação de texto está se tornando uma parte cada vez mais importante dos
 negócios, pois
@@ -2441,13 +2313,9 @@ manualmente não é uma opção. Uma forma de abordar o problema é trazer à to
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 que melhor descrevem o corpus, como as palavras mais comuns no corpus. Isso é chamado
 de
@@ -2505,13 +2373,9 @@ ciências humanas.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Perfo<m«ng Azt»
 
@@ -2559,13 +2423,9 @@ documentos, Dl a D5, e cada documento consiste em uma única frase:
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * Dl: Gosto de comer brócolis e banana.
 
@@ -2625,13 +2485,9 @@ matriz de termo de documento (M) que mantém a contagem de palavras em todos os 
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Essa matriz possui todos os m documentos Di, D 2, D 3... Dm dispostos ao longo das
 linhas e todas
@@ -2754,14 +2610,12 @@ Figura 11 - Matrizes Fato radas
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 40
 
-www. estrategiaconcursos. com. br
+
 78
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Essas submatrizes podem então ser usadas para entender a estrutura de tópicos de um
 documento
@@ -2817,13 +2671,9 @@ coluna de V.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 ANÁLISE DE SENTIMENToS
 
@@ -2890,13 +2740,9 @@ ei("iPhone"), S1245 - neg é o sentimento sobre o aspecto auC vida útil da bate
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 iPhone "). E $1345 = neg é o sentimento sobre o aspecto 013 ("questões de
 segurança") da entidade
@@ -2968,13 +2814,9 @@ subjetiva é "O iPhone é incrível A classificação de polaridade é a tarefa 
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 que expressam polaridades positivas, negativas ou neutras. Observe que uma frase
 subjetiva pode
@@ -3016,13 +2858,9 @@ suposição é que a mensagem inteira expressa apenas uma opinião sobre uma ún
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * Nível da frase: o objetivo é determinar a polaridade de cada frase contida em uma mensagem
 de texto. O pressuposto é que cada frase, em uma determinada mensagem, denota uma
@@ -3073,13 +2911,9 @@ e implícitas:
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 * Opinião explícita: Uma opinião explícita é uma declaração subjetiva que dá uma
 opinião
@@ -3140,13 +2974,9 @@ decepcionados.)
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 - Mareia: Realmente!
 
@@ -3215,13 +3045,9 @@ colchão.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Vejamos outro exemplo ... A vida útil da bateria dos telefones Nokia é mais longa do
 que a dos
@@ -3235,13 +3061,9 @@ Forte abraço e bons estudos!
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 CoNCEIToS CoMPLEMENTARES
 
@@ -3306,13 +3128,9 @@ correspondentes.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Manhattan Distance
 
@@ -3342,13 +3160,9 @@ quadradas entre os elementos correspondentes dos dois vetores.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 @dataaspirant.com
 
@@ -3379,14 +3193,12 @@ Jaccard Similarity J (A,B) = I Intersection (A,B) I / I Union (A,B) I
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 51
 
-www. estrategiaconcursos. com. br
+
 78
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 APLICAçõES DE PLN
 
@@ -3454,13 +3266,9 @@ do texto de entrada para o texto de saída associado.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Modelo codificador-decodificador - Modelos de rede neural Perceptron multicamadas podem
 ser
@@ -3539,14 +3347,12 @@ escalar para vocabulários de palavras maiores e a velocidade lenta de treinamen
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 53
 
-www. estrategiaconcursos. com. br
+
 78
 
 
-
-
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Existem atualmente as áreas de foco para grandes sistemas de tradução neural de
 produção, como
@@ -3615,13 +3421,9 @@ de aprendizado profundo no projeto e implantação de sistemas de reconhecimento
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 QUESTõES CoMENTADAS
 
@@ -3686,13 +3488,9 @@ Desta forma, podemos marcar nossa resposta na alternativa D
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Gabarito: Letra D
 
@@ -3762,13 +3560,9 @@ documentos
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 A análise de sentimento, tokenização;
 
@@ -3812,13 +3606,9 @@ A submatriz da matriz de TF-IDF desses dois documentos correspondente aos termos
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 0
 
@@ -3898,13 +3688,9 @@ Essa submatriz é encontrada, apenas, na letra C, sendo esse o nosso gabarito.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Gabarito: C
 
@@ -3964,13 +3750,9 @@ geralmente é discreto.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 b) (Certo) Exatamente, alguns algortimos, em especial os de redes neurais só trabalham
 com
@@ -4036,13 +3818,9 @@ vista na figura a seguir:
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Assim, temos nosso gabarito na alternativa A.
 
@@ -4090,13 +3868,9 @@ associada.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Corpus é uma coleção de documentos de texto sobre os quais aplicaríamos
 rotinas de
@@ -4161,13 +3935,9 @@ Gabarito: C
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 10. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
@@ -4238,13 +4008,9 @@ d) Baseado em regras - uma abordagem clerical
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e) Baseado em correlação - uma abordagem matricial
 
@@ -4312,13 +4078,9 @@ redução de dimensionalidade. Excluir uma coluna com vários valores ausentes p
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 considerado uma redução, mas simplesmente encontrar essa coluna não pode. Assim, temos
 a nossa resposta na alternativa E.
@@ -4383,13 +4145,9 @@ distribucional e o espaço vetorial proveniente da representação distribuída.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Já a semântica vetorial refere-se ao conjunto de métodos de PLN que objetivam aprender
 as
@@ -4462,13 +4220,9 @@ Item. 16. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Não é considerado um caso de uso de modelagem de tópicos:
 
@@ -4538,13 +4292,9 @@ Logo, temos a nossa resposta na alternativa E.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Gabarito: E
 
@@ -4611,13 +4361,9 @@ d) TF-IDF ajuda a estabelecer uma. palavra que ocorre com mais frequência no do
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 e) as palavras representadas como vetores são chamadas de data frames de palavras neurais
 Comentário: Vamos analisar cada uma das alternativas:
@@ -4670,13 +4416,9 @@ Gabarito: E.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Exercícios
 
@@ -4741,13 +4483,9 @@ processamento de linguagem natural, o que pode levar a dúvidas quanto a sua apl
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 A alternativa que contém apenas tarefas que sejam exemplos de classificação de documentos
 é:
@@ -4832,13 +4570,9 @@ Item. .11 11 .
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 5. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
@@ -4900,13 +4634,9 @@ contexto específico:
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 a) Tokens
 
@@ -4967,13 +4697,9 @@ processada mudou. Anteriormente, um sistema tradicional era
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 usado para cálculos. Hoje, cálculos em linguagem natural são
 feitos usando
@@ -5044,13 +4770,9 @@ distribucional e o espaço vetorial proveniente da representação distribuída.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 d) No contexto de PLN, a conversão de texto bruto em uma forma numérica adequada é
 chamada de representação de texto.
@@ -5117,13 +4839,9 @@ e) semântica distributiva
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 Item. 18. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
@@ -5183,13 +4901,9 @@ e) Análise de sentimento
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
 
-www. estrategiaconcursos. com. br
-
-
-
 
 Thiago Rodrigues Cavalcanti
-Aula 12 (Prof. Thiago Cavalcanti)
+(Prof. Thiago Cavalcanti)
 
 GABArito
 
@@ -5238,10 +4952,6 @@ THIAGO CAVALCANTI
 PROFESSOR
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023 (Pós-Edital)
-
-www. estrategiaconcursos. com. br
-
-
 
 
 Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
