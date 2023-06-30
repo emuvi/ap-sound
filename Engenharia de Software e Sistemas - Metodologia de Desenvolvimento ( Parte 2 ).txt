@@ -401,7 +401,6 @@ INCIDÊNCIA EM PROVA: MÉDIA
 O Modelo em Espiral foi proposto
 originalmente, em 1988, por Boehm. Sua
 ideia era representar um processo de
-
 software orientado a riscos. Em vez de
 
 Determinar objetivos,
@@ -417,10 +416,7 @@ de riscos
 
 Avaliar alternativas,
 identificar, resolver riscos
-
-
 representar o processo como uma
-
 de riscos „ . . ,
 
 Protótipo 3
@@ -429,14 +425,11 @@ f^XProtótipo 2
 
 Protótipo
 operacional
-
-
 sequência de atividades com algum
 
 REVISÃO
 
 Análise
-
 de riscos Protó-
 
 
@@ -445,8 +438,6 @@ retorno entre uma atividade e outra, o
 EEL1
 
 Simulações, modelos, benchmarks
-
-
 processo é representado como uma
 
 Plano de requisitos
@@ -454,12 +445,8 @@ Plano de ciclo de vida
 
 Conceito de
 operação
-
 de S"*' Projeto de
-
 produto Projeto
-
-
 espiral. Ele combina atividades de
 desenvolvimento com aspectos gerenciais
 
@@ -472,7 +459,6 @@ Validação
 de requisitos
 
 Projeto
-
 detalhado
 Código
 
@@ -484,7 +470,6 @@ Teste de
 (Planejamento, Tomada de Decisão,
 
 Planejar próxima fase
-
 e testes
 
 V&V
@@ -496,7 +481,6 @@ Teste de
 Análise de Riscos, etc).
 
 Operação aceitai*ao Desenvolver e verificar próximo
-
 nível do produto
 
 O modelo em espiral é também conhecido como prototipagem-em-etapas, por combinar, em
@@ -542,14 +526,11 @@ espiral. Se a decisão for pelo prosseguimento, são elaborados planos para a
 próxima fase do projeto, e terminamos um loop.
 
 Planejamento
-
 estimativa de custos
 cronograma
-
 análise de riscos
 
 Modelagem
-
 análise
 projeto
 
@@ -640,7 +621,6 @@ experientes.
 
 Obtêm-se versões do sistema a cada iteração. Exige uma equipe de
 desenvolvimento extremamente
-
 qualificada.
 
 
@@ -651,7 +631,6 @@ Exige um gerenciamento de processo mais complexo.
 
 Reflete as práticas reais de engenharia atual. Não é recomendado resolver
 problemas mais simples e
-
 pequenos.
 
 Apresenta uma abordagem sistemática.
@@ -1069,8 +1048,6 @@ funcionalidade necessária.
 
 Os requisitos são analisados usando as informações sobre os componentes encontrados, que
 são modificados para refletir os componentes disponíveis. Quando as modificações são
-
-
 impossíveis, a atividade de análise de componentes pode ser novamente realizada para
 procurar alternativas.
 
@@ -1175,8 +1152,6 @@ visualizadas e analisadas relativamente em separado.
 No entanto, sua implementação utilizando linguagens orientadas a objeto ou
 estruturadas torna-
 se confusa e seu código encontra-se espalhado através do código da aplicação, dificultando a
-
-
 separação da funcionalidade básica do sistema dessas propriedades. A Programação Orientada
 a Aspectos (POA) é uma abordagem que permite a separação dessas propriedades ortogonais2
 dos componentes funcionais de uma forma natural e concisa.
@@ -1457,7 +1432,6 @@ próxima fase do projeto, e terminamos um loop.
 Planejamento
 estimativa de custos
 cronograma
-
 análise de riscos
 
 
@@ -1841,7 +1815,6 @@ Development) são
 classificados, respectivamente, como modelos de processo de
 desenvolvimento
 de software dos tipos
-
 a) incremental e sequencial.
 
 b) evolutivo e incremental.
@@ -1907,7 +1880,6 @@ existe
 é "engenharia de software baseada em componentes".
 
 Gabarito: Errado
-
 i2.(CESPE / TRT-io - 2013) No modelo prototipação, a construção de software
 tem várias
 atividades que são executadas de forma sistemática e sequencial.
@@ -1964,7 +1936,6 @@ orientada a
 objetos!
 
 Gabarito: Errado
-
 i5.(CESPE / SERPRO - 2013) A POA, uma evolução da programação orientada a
 objetos, é
 implementada nas linguagens Java, C++, Smalltalk e Prolog.
@@ -2058,8 +2029,6 @@ concepções do
 sistema conforme o andamento do projeto até chegar ao resultado final. Esta metodologia
 baseia-
 se na utilização de prototipagem visual ou modelos do sistema final. Logo, pode-se afirmar que é
-
-
 apresentado ao usuário funcionalidades por meio de protótipos visuais conforme o
 andamento do
 projeto.
@@ -2265,7 +2234,6 @@ Comentários:
 Planejamento
 estimativa de custos
 cronograma
-
 análise de riscos
 
 Modelagem
@@ -2747,11 +2715,8 @@ associados a:
 a) em Espiral - Baseado em Componentes - RAD
 
 b) Evolucionário - em Cascata - Baseado em Componentes
-
 c) Baseado em Componentes - Sequencial - Refactoring
-
 d) Ágil - Sequencial - Unified Process
-
 e) em Cascata - Ágil - Refactoring
 
 Comentários:
@@ -2767,8 +2732,6 @@ Gabarito: Letra B
 Item. 4. (FCC / DPE-SP - 2013) No desenvolvimento de software, podem ser utilizados os
 chamados
 modelos evolucionários, cujo objetivo é lidar com produtos que possam evoluir ao longo do
-
-
 tempo. Assinale a alternativa que contém APENAS modelos evolucionários de desenvolvimento
 de software.
 
@@ -2835,7 +2798,6 @@ a) levantamento.
 b) definição de objetivos.
 
 c) avaliação e redução de riscos
-
 d) desenvolvimento e validação.
 
 e) planejamento.
@@ -3115,7 +3077,6 @@ Comentários:
 Planejamento
 estimativa de custos
 cronograma
-
 análise de riscos
 
 Modelagem
@@ -3199,12 +3160,8 @@ pelo modelo de processo de software:
 a) RAD
 
 b) incremental
-
-
 c) cascata
-
 d) espiral
-
 e) baseado em componentes
 
 Comentários:
@@ -3243,7 +3200,6 @@ processo
 de desenvolvimento que enfoca a integração desses componentes, em vez de desenvolvê-los
 a
 partir do zero
-
 c) considera como atividades fundamentais do processo a especificação, o desenvolvimento,
 a
 validação e a evolução, representado-as como fases de processo separadas, sendo que
@@ -3513,14 +3469,10 @@ a
 alternativa incorreta.
 
 a) Modelo Espiral: produto final é entregue rapidamente
-
 b) Modelo Incremental: produzem o sistema de forma incremental até a sua versão final
-
 c) Metodologias Ágeis: dura de i(uma) a ^(quatro) semanas e ao final de cada
 iteração deve
 haver entrega ao cliente
-
-
 d) Modelo em Cascata: componente do sistema é entregue por fases, podendo
 acontecer
 paralelamente
@@ -3536,7 +3488,6 @@ ao final e as fases não podem ocorrer paralelamente.
 Gabarito: Letra D
 i3.(COSEAC / UFF - 2019) Em relação aos modelos de processos de software, avalie
 se são
-
 verdadeiras (V) ou falsas (F) as afirmativas a seguir:
 
 I. O modelo de desenvolvimento orientado a reúso tem a vantagem da redução de riscos
@@ -3686,7 +3637,6 @@ formal e, não,
 modal.
 
 Gabarito: Errado
-
 i7.(CS-UFG/UFG-20i7) É um modelo de processo geral de software que tem como característica
 a existência de duas fases distintas relacionadas à engenharia de requisitos. Qual é esse modelo?
 
@@ -3807,11 +3757,8 @@ atividades de especificação, desenvolvimento e validação são intercaladas.
 a) Relational Unified Process (RUP)
 
 b) Desenvolvimento Evolucionário
-
 c) Método Ágil de Desenvolvimento
-
 d) Modelo de Desenvolvimento em Cascata
-
 e) Modelo de Engenharia de Software Baseado em Componentes
 
 Comentários:
@@ -4018,7 +3965,6 @@ Development) são
 classificados, respectivamente, como modelos de processo de
 desenvolvimento
 de software dos tipos
-
 a) incremental e sequencial.
 
 b) evolutivo e incremental.
@@ -4435,11 +4381,8 @@ associados a:
 a) em Espiral - Baseado em Componentes - RAD
 
 b) Evolucionário - em Cascata - Baseado em Componentes
-
 c) Baseado em Componentes - Sequencial - Refactoring
-
 d) Ágil - Sequencial - Unified Process
-
 e) em Cascata - Ágil - Refactoring
 
 Item. 4. (FCC / DPE-SP - 2013) No desenvolvimento de software, podem ser utilizados os
@@ -4492,7 +4435,6 @@ a) levantamento.
 b) definição de objetivos.
 
 c) avaliação e redução de riscos
-
 d) desenvolvimento e validação.
 
 e) planejamento.
@@ -4502,8 +4444,6 @@ o software
 evolui para estágios superiores, normalmente com aumento da complexidade. Cada
 iteração
 está provida das atividades determinadas pelos quadrantes planejamento, avaliação de
-
-
 alternativas e riscos, desenvolvimento do software e avaliação do cliente. No ciclo de
 vida de
 desenvolvimento de software, trata-se da propriedade do modelo:
@@ -4754,11 +4694,8 @@ pelo modelo de processo de software:
 a) RAD
 
 b) incremental
-
 c) cascata
-
 d) espiral
-
 e) baseado em componentes
 
 Item. 4. (CESGRANRIO / PETROBRÁS - 2014) Um técnico de informática, com o objetivo de
@@ -4776,7 +4713,6 @@ processo
 de desenvolvimento que enfoca a integração desses componentes, em vez de desenvolvê-los
 a
 partir do zero
-
 c) considera como atividades fundamentais do processo a especificação, o desenvolvimento,
 a
 validação e a evolução, representado-as como fases de processo separadas, sendo que
@@ -4934,8 +4870,6 @@ devido a problemas ligados ao gerenciamento de riscos de projeto.
 c) Existem alguns tipos de sistema para os quais o desenvolvimento e a entrega
 incrementais
 não são a melhor abordagem. Por exemplo, alguns sistemas críticos, em que todos os requisitos
-
-
 devem ser analisados na busca por iterações capazes de comprometer a proteção
 ou a
 segurança do sistema.
@@ -4963,13 +4897,10 @@ a
 alternativa incorreta.
 
 a) Modelo Espiral: produto final é entregue rapidamente
-
 b) Modelo Incremental: produzem o sistema de forma incremental até a sua versão final
-
 c) Metodologias Ágeis: dura de i(uma) a ^(quatro) semanas e ao final de cada
 iteração deve
 haver entrega ao cliente
-
 d) Modelo em Cascata: componente do sistema é entregue por fases, podendo
 acontecer
 paralelamente
@@ -5150,11 +5081,8 @@ atividades de especificação, desenvolvimento e validação são intercaladas.
 a) Relational Unified Process (RUP)
 
 b) Desenvolvimento Evolucionário
-
 c) Método Ágil de Desenvolvimento
-
 d) Modelo de Desenvolvimento em Cascata
-
 e) Modelo de Engenharia de Software Baseado em Componentes
 
 Item. 22. (IBFC / EBSERH -2013) No modelo Cascata os requisitos são declarados pelos usuários

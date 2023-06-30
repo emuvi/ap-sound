@@ -23,7 +23,6 @@ Capítulo. Desenvolvimento de Software - Algoritmos.
 
 
 MÉToDoS DE ORDENAçÃo
-
 ewveviSTA
 
 WWW.VIDADEHIPSTEP.COM.8P
@@ -469,7 +468,6 @@ SAÍDA: O VETOR L EM ORDEM CRESCENTE DA POSIÇÃO INICIO ATÉ
 A POSIÇÃO FIM
 
 SE inicio < fim
-
 meio = (inicio + fim)/2 // divisão inteira
 SE inicio < meio
 
@@ -965,11 +963,8 @@ Informática) São
 exemplos de algoritmos de ordenação, exceto:
 
 a) Bubble Sort
-
 b) Select Sort
-
 c) Shell Sort
-
 d) Busca Sequencial;
 
 e) Quick Sort;
@@ -1450,13 +1445,9 @@ algoritmos que
 possuem complexidade assintótica quando f(n) = O(n log n).
 
 a) HeapSort e BubbleSort
-
 b) QuickSort e InsertionSort
-
 c) MergeSort e BubbleSort
-
 d) InsertionSort
-
 e) HeapSort, QuickSort e MergeSort
 
 Comentários:
@@ -1544,9 +1535,7 @@ a) Selectionsort (seleção)
 b) Insertionsort (inserção)
 
 c) Merge sort
-
 d) Quicksort
-
 e) Heapsort
 
 Comentários:
@@ -1630,13 +1619,9 @@ de tempo (Big O notation) no pior caso?
 
 
 a) Merge sort
-
 b) Insertion sort
-
 c) Bubble sort
-
 d) Quick sort
-
 e) Selection sort
 
 Comentários:
@@ -2532,11 +2517,8 @@ Informática) São
 exemplos de algoritmos de ordenação, exceto:
 
 a) Bubble Sort
-
 b) Select Sort
-
 c) Shell Sort
-
 d) Busca Sequencial;
 
 e) Quick Sort;
@@ -2634,13 +2616,9 @@ somente
 algoritmos que possuem complexidade assintótica quando f(n) = O(n log n).
 
 a) HeapSort e BubbleSort
-
 b) QuickSort e InsertionSort
-
 c) MergeSort e BubbleSort
-
 d) InsertionSort
-
 e) HeapSort, QuickSort e MergeSort
 
 13.(FGV - 2013 - MPE/MS - Analista de Sistemas) Assinale a alternativa que indica o
@@ -2658,9 +2636,7 @@ b) Insertionsort (inserção)
 
 
 c) Merge sort
-
 d) Quicksort
-
 e) Heapsort
 
 14.(CESGRANRIO - 2010 - BACEN - Analista de Sistemas) Uma fábrica de
@@ -2674,13 +2650,9 @@ complexidade
 de tempo (Big O notation) no pior caso?
 
 a) Merge sort
-
 b) Insertion sort
-
 c) Bubble sort
-
 d) Quick sort
-
 e) Selection sort
 
 15.(CESPE - 2011 - FUB - Analista de Sistemas) Os métodos de ordenação

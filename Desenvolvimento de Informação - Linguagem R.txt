@@ -95,8 +95,6 @@ resultado. ©
 O R é uma linguagem funcional/orientada a objetos criada em 1996 por Ross lhaka e
 Robert
 Gentleman que aliada a um ambiente integrado permite a manipulação de dados, realização de
-
-
 cálculos e geração de gráficos. Uma curiosidade é que o nome R é a letra inicial do
 primeiro nome
 de cada um dos seus criadores. Mas não foi apenas por isso que a linguagem recebeu
@@ -178,12 +176,9 @@ lendo algumas linhas, ora realizando computações.
 
 
 Código fonte
-
 independente do
 sistema operacional
-
 atua cada vez que se
-
 executa o programa'
 
 resultado
@@ -224,7 +219,6 @@ A instalação padrão do R vem com uma interface gráfica para o usuário
 Interface - GUI). I«RGui(64R.bRGjtu)i (64-bit)
 
 File Edrt ViewNMoisWc iPnadcokawgses"Wl,einEddiot w"sicwHeelapcka9tt ^indows Help
-
 z □ 7X"
 
 
@@ -767,12 +761,9 @@ C"J
 
 
 circumference
-
 o
 o
-
 o
-
 iTj
 
 3) Certa. Perceba que a variável Nome possui uma letra maiúscula. Logo, se você
@@ -815,7 +806,6 @@ sempre do mesmo tipo. Os vetores no R podem ser, entre outros, de tipos:
 * logical (lógicos, booleanos) ex.: TRUE, FALSE.
 
 b) matrizes: coleção de vetores em linhas e colunas, todos os vetores dever ser do
-
 mesmo tipo (numérico ou de caracteres).
 
 c) dataframe: O mesmo que uma matriz, mas aceita vetores de tipos
@@ -890,26 +880,18 @@ denominado homogêneo.
 Objeto Tipos
 Suporta tipos
 diferentes
-
 vetor numérico, caractere, complexo ou lógico
 Não
-
 fator numérico ou caractere
 Não
-
 matriz numérico, caractere, complexo ou lógico
 Não
-
 array numérico, caractere, complexo ou lógico
 Não
-
 dataframc numérico, caractere, complexo ou lógico
 Sim
-
 ts numérico, caractere, complexo ou lógico
 Sim
-
-
 lista numérico, caractere, complexo, lógico, função,
 expressão, etc
 
@@ -1076,7 +1058,6 @@ o R-base. Já vimos acima como resolver esse problema! ©
 Agora queria apresentar para os senhores e as senhoras algumas funções que são
 bastante usadas
 quando estamos desenvolvendo. Vamos a elas
-
 is.xxx()
 
 Já vimos que a função class() é útil para identificar a classe de um objeto. Mas,
@@ -1320,10 +1301,8 @@ in -
 
 o
 o
-
 o
 m
-
 o
 
 Rural Male Rural Female Urban Male Urban Female
@@ -1668,20 +1647,12 @@ levam em consideração todos os elementos da matriz. Há uma série de funçõe
 trabalharmos com matrizes, seguem algumas:
 
 Função Descrição
-
 t() Retorna a matriz transposta
-
 diag(k) Cria uma matriz identidade kxk
-
 det() Calcula o determinante da matriz
-
 diag() Retorna os elementos da diagonal principal
-
 dim() Retorna a dimensão da matriz
-
-
 ncol Retorna o número de colunas da matriz
-
 nrow() Retorna o número de linhas da matriz
 rowSumsO Retorna a soma das linhas da matriz
 rowMeans() Retorna a média das linhas da matriz
@@ -1867,7 +1838,6 @@ primeiros
 bimestres estão armazenadas na matriz notas_transf. Vamos aos dados:
 
 > notas_transf
-
 bim-1 bim-2 bim-3 bim-4
 Dimas 6 8 NA NA
 
@@ -1974,8 +1944,6 @@ aplicadas. Isto é, se
 você passa um valor x para uma função que eleva x ao quadrado, o valor original de
 x não muda.
 Funções tomam objetos como argumentos e criam outro objeto, modificado, como resultado. Na
-
-
 maior parte dos casos, a ideia é que uma função no R não tenha efeitos colaterais,
 isto é, que ela
 não modifique objetos fora de seu ambiente.
@@ -2046,7 +2014,6 @@ somente se - a condição dos parênteses for FALSE.
 
 Os comandos if() e if() else não são vetorizados. Uma alternativa para casos como
 esses é utilizar a
-
 função ifelse(). A função ifelse() tem a seguinte estrutura básica:
 
 ifelse(vetor_de_condicoes, valor_se_TRUE, valor_se_FALSE)
@@ -2311,8 +2278,6 @@ sintaxe. Abaixo vamos fazer um resumo destes comandos separados por categoria:
 PEDINDO AJUDA e COMPREENDENDO OBJETOS
 
 Comando I Descrição
-
-
 help(tópico)
 str("tópico")
 
@@ -2334,11 +2299,8 @@ IMPORTANDO E EXPORTANDO
 
 
 Comando Descrição
-
 load(): carrega datasets(dados) escritos com save
-
 data(x) carrega dados específicos
-
 library(x) carrega um pacote de dados.
 
 
@@ -2354,8 +2316,6 @@ printfa,...) mostra a saída no console do objeto 'a'.
 CRIANDO DADO
 
 Comando Descrição
-
-
 c(-)
 
 pode se entender c de combinar. É uma função genérica que combina os
@@ -2363,7 +2323,6 @@ argumentos em um vetor.
 
 
 frormto
-
 gera uma sequência. Os dois pontos (:) tem a prioridade na operação.
 Exemplo: 1:4+1, a saída no console é "2,3,4,5".
 
@@ -2392,8 +2351,6 @@ data.frameO cria um data frame com os argumentos, nomeados ou não.
 
 
 listo cria uma lista com os argumentos
-
-
 matrix(x,nrow=,ncol=)
 
 cria uma matrix; com nrow=número de linhas e ncol=número de colunas.
@@ -2417,14 +2374,9 @@ FRAGMENTANDO E EXTRAINDO DADOS
 Em vetores podemos ter acesso elementos específicos, vejamos algumas opções
 
 Comando Descrição
-
 x[n] Seleciona o elemento presente no n índice do vetorx
-
 x[-n] Seleciona todos os elementos do vetorx, exceto o elemento n
-
 x[i:n] Seleciona os primeiros n elementos do vetorx
-
-
 x[c(i,3,5)l
 
 Seleciona os elementos do vetor x nas posições especificadas, neste
@@ -2445,8 +2397,6 @@ x[x>3] x[x>l]
 PLOTANDO GRÁFICOS
 
 Comando Descrição
-
-
 plot(a)
 
 Cria um gráfico com os valores de a no eixo y e no eixo x a sua respectiva
@@ -2461,19 +2411,15 @@ b no eixo y.
 cria um histograma de frequência de x.
 
 Histogramas
-
 hist(x)
 
 cria um histograma com os valores de x; use horiz=TRUE para criar barras
 horizontais.
 
 Maximum Temperatures in a Week
-
 barplot(x)
 
 Degree Celsius
-
-
 pie(x)
 
 cria um gráfico de setores (o famoso gráfico de pizza).
@@ -2482,7 +2428,6 @@ cria um gráfico de setores (o famoso gráfico de pizza).
 Pie Chart of Countries
 
 Australia
-
 cria um gráfico do tipo box-plot.
 
 n = 8
@@ -2595,7 +2540,6 @@ Comentário: A função do R usada na questão denominada sample possui os segui
 parâmetros:
 
 sample (x, size, replace) em que
-
 x é o conjunto de dados da amostra. Ele também pode aparecer com limite inferior e superior,
 por exemplo x:y.lsso significa que temos uma sequência de número que vai de x até y.
 
@@ -2711,7 +2655,6 @@ altura <- c<l. 6,1.7,1.5,1.8,1-7,1.7)
 
 dadoa <- data.frame(1dade r altura J
 dados
-
 idade alrura
 
 1 20 1.6
@@ -2777,9 +2720,7 @@ linha. Veja abaixo os resultados, porém com a numeração das linhas.
 
 > dados
 1 dade
-
 altura
-
 na.omit
 
 1 20 1. 5
@@ -2997,11 +2938,9 @@ E 19
 Comentário: Ao executar o código acima, temos o seguinte resultado.
 
 R R Console
-
 xpto - array(c(1:24), dim=c (4,3,2) )
 
 > xpto
-
 r , 1
 
 LU [z2] L3]
@@ -3651,7 +3590,6 @@ R R Console : 11 a
 > dadoa < — data.freme(1dade r altura)
 
 > dados
-
 idade altura
 
 1 20 1.6
@@ -3807,7 +3745,6 @@ C grafhic
 
 D dispersion
 E mean
-
 n.CEBRASPE (CESPE) - Agente de Polícia Federal/2021 (e mais 2 concursos)
 
 Com relação a conceitos de programação Python e R, julgue o item que se seguem.
@@ -4059,18 +3996,15 @@ Item. 29. C
 4) CÓDIGO DA VIDEOAULA
 
 #Criando objeto textual
-
 y <- "José íris DS Junior"
 y
 
 #Criando objeto numérico
-
 z <- 10
 
 z
 
 #Criando vetores
-
 x <- c(l,2,4)
 
 q <- c(x, x, 5)
@@ -4078,15 +4012,12 @@ q <- c(x, x, 5)
 t <- c(z,y)
 
 #Acessando o sexto elemento do vetor t
-
 t [6]
 
 #Acessando do segundo ao sexto elemento do vetort
-
 t[2 :6]
 
 #Calculando a média do vetor q
-
 mean(q) #calcula a média de q
 
 #Conhecendo o dataset Nile
@@ -4094,20 +4025,16 @@ mean(q) #calcula a média de q
 Ni 1 e
 
 #Calculando o desvio padrão
-
 sd(Ni1e)
 
 #Usando o help
-
 heip(Ni1e)
 
 #criando um histograma com o serie temporal de fluxo de água no rio Nilo
-
 hi st (Ni 1 e)
 
 
 #Usando o for para descobrir o conjunto de números pares e ímpares de um vetor
-
 k <- 0
 
 o <- 0
@@ -4130,7 +4057,6 @@ o <- o + 1
 }
 
 k
-
 o
 
 #Questão PF 2018
@@ -4139,14 +4065,12 @@ helloStr <- "Hello world!"
 pri nt(hel 1 oStr)
 
 #Criando variáveis
-
 aprovado <- "Cachoeirense Concurseiro"
 aprovado2 <- 'Hugo'
 
 aprovado2
 
 #Variável do tipo lógico
-
 convocado <- T
 
 
@@ -4161,7 +4085,6 @@ Convi dadosDoChurrasco <- c("Prof. Thi ago", "Mai nha",
 "Painho", "Hugo", "dosé íris")
 
 #Usando operados aritméticos
-
 xl <- 10
 
 x2 <- 20
@@ -4193,7 +4116,6 @@ print (xy) #gera um erro
 opi ni ão?
 
 #Exemplo de cbind
-
 xl <- read.csv("data01.csv",header=T,sep=",")
 x2 <- read.csv("data02.csv",header=T,sep=",")
 
@@ -4201,7 +4123,6 @@ x3 <- cbind(xl,x2)
 x3
 
 #Exemplo de rbind
-
 x4 <- read.csv("data01.csv",header=T,sep=",")
 x5 <- read.csv("data03.csv",header=T,sep=",")
 
@@ -4212,13 +4133,11 @@ x6 <- rbind(x4,x5)
 x6
 
 #Criando uma função
-
 elizabethFunction <- function(x = 5){
 factori al(x)+5
 
 
 #data frame
-
 mat <- matrix(c("a","b",1,2) , ncol= 2)
 
 df <- data.frame(x = c("a","b"), y = c(l,2))

@@ -91,8 +91,6 @@ distribuída. Alguns autores referem-se a esta disciplina como processamento
 paralelo. A
 comunicação entre processadores é realizada por meio de memória compartilhada ou por
 meio de
-
-
 passagem de mensagens. Um sistema computacional capaz de executar a computação paralela
 é
 comumente conhecido como computador paralelo. Os programas executados em um
@@ -243,8 +241,6 @@ para
 alcançar um resultado desejado. Na analogia do supermercado, o processo de
 check-out é o
 algoritmo. Nesse caso, inclui descarregar itens de uma cesta, escanear os itens para obter um preço
-
-
 e pagar pelos itens. Este algoritmo é sequencial (ou serial); deve seguir esta ordem.
 Se houver
 centenas de clientes que precisam executar essa tarefa, o algoritmo para verificar
@@ -295,8 +291,6 @@ importantes
 sobre como incorporar o paralelismo geralmente são tomadas no início de um projeto. Um
 design
 racional é um passo importante para o sucesso. Evitar a etapa de design pode levar a problemas
-
-
 muito mais tarde. É igualmente importante manter as expectativas realistas e conhecer
 os recursos
 disponíveis e a natureza do projeto.
@@ -349,8 +343,6 @@ central (CPU) só está disponível por meio de computação paralela.
 O hardware de computação moderno vem equipado com várias unidades de processamento
 central
 (CPUs) e/ou unidades de processamento gráfico (GPUs) que processam vários conjuntos de
-
-
 instruções simultaneamente. Esses sistemas menores geralmente rivalizam com o
 poder de
 computação dos supercomputadores de duas décadas atrás. Fazer uso total dos
@@ -394,7 +386,6 @@ processador! O cálculo é
 16 núcleos x 2 hyperthreads x (unidade de vetor de 256 bits de largura)/(double de 64 bits) =
 
 paralelismo de 128 vias
-
 onde 1 caminho serial dividido pelos 128 caminhos paralelos = 0,008 ou 0,8%. A figura
 a seguir
 mostra que esta é uma pequena fração do poder total de processamento da CPU.
@@ -413,8 +404,6 @@ ferramentas de
 desenvolvimento de software ajudaram a adicionar paralelismo aos nossos kits de
 ferramentas e,
 atualmente, a comunidade de pesquisa está fazendo mais, mas ainda está longe de resolver a lacuna
-
-
 de desempenho. Isso coloca muito peso sobre nós, os desenvolvedores de software, para
 obter o
 máximo de uma nova geração de processadores.
@@ -493,8 +482,6 @@ com vários
 caminhos para escolher. Isso cria um problema na exploração dos possíveis paradigmas
 paralelos-
 mais oportunidades do a mão de obra disponível. Mas, um conhecimento profundo do seu aplicativo
-
-
 e uma consciência das oportunidades de paralelismo podem levá-lo a um caminho mais
 claro para
 reduzir o tempo de execução dos seus aplicativos.
@@ -644,8 +631,6 @@ hardware de vários núcleos e vários núcleos (GPU) requer um esforço dedicad
 desviar
 temporariamente a atenção da pesquisa direta ou dos objetivos do produto. O
 investimento de
-
-
 tempo e esforço deve primeiro ser considerado valioso. É sempre mais importante que o
 aplicativo
 seja executado e gere o resultado desejado antes de torná-lo rápido e dimensioná-lo
@@ -977,13 +962,10 @@ Item. 2. Definir um kernel computacional (operação) para conduzir em cada elem
 Item. 3. Adicionar as seguintes camadas de paralelização em CPUs e GPUs para realizar o cálculo:
 
 o Vetorização — Trabalhe em mais de uma unidade de dados por vez
-
 o Tópicos—Implante mais de um caminho de computação para envolver mais núcleos
 de processamento
-
 o Processos — Instâncias de programa separadas para distribuir o cálculo em espaços de
 memória separados
-
 o Descarregando o cálculo para GPUs — Envie os dados para o processador gráfico para
 calcular
 
@@ -1154,7 +1136,6 @@ ETAPA 6: DESCARREGAR O CÁLCULO PARA GPUS
 
 A GPU é outro recurso de hardware para paralelização. Com GPUs, podemos aproveitar
 muitos
-
 multiprocessadores de streaming para trabalho. Por exemplo, a figura a seguir mostra como o
 trabalho pode ser dividido separadamente em blocos de 8x8. Usando as especificações de
 hardware
@@ -1173,8 +1154,6 @@ ui i □ □□ i ii ii i
 ui i □□□□□□
 
 □ □□ nnn
-
-
 ii □ □□
 
 n«n
@@ -1183,7 +1162,6 @@ n«n
 □□□□□□□□
 
 □ □□ n
-
 s
 
 ' >
@@ -1218,7 +1196,6 @@ real. Vamos
 começar apresentando uma tabela que resume as:
 
 Processamento em lote Processamento em tempo
-
 real
 
 
@@ -1235,7 +1212,6 @@ chegando como um fluxo e são
 ilimitados
 
 Acesso a dados inteiros Acesso aos dados na transação
-
 atual/janela deslizante
 
 
@@ -1279,8 +1255,6 @@ Aqui estão algumas das principais ferramentas de streaming de dados em tempo re
 O Flume é conhecido por ter conectividade bem estabelecida, é compatível com o Hadoop
 e requer
 um alvo predefinido chamado sink. O Flume é uma das ferramentas mais amplamente suportadas
-
-
 entre todas as distribuições comerciais do Hadoop. Além de ser uma
 característica atraente e
 essencial, Kafka e Flume se complementam muito bem.

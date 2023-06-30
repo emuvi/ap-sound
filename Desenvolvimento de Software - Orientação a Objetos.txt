@@ -57,15 +57,12 @@ A classe é a planta ou esquema que indica como os objetos são criados, quais o
 Portanto para declarar uma classe, deve-se colocar a palavra class seguida de um identificador que irá servir de nome para a classe. O identificador pode ser qualquer palavra, exceto palavras reservadas. Por exemplo: class Conta introduz a declaração de uma nova classe chamada Conta. Note que, por convenção, o nome de uma classe inicia sempre com uma letra maiúscula. A Palavra- Chave é opcional, podendo ser:
 
 // Essa classe pode ser acessada por todos
-
 public class Carro { ... }
 
 // Essa classe não pode gerar instâncias
-
 abstract class Carro { ... }
 
 // Essa classe não pode ser estendida
-
 final class Carro {...}
 
 Objetos
@@ -103,11 +100,8 @@ Modificadores de Acesso:
 class Empregado {
 
 public String nome ; // Nome: público
-
 private int Salario ; // Salário: privado
-
 protected short Idade ; // Idade: protegido
-
 char Sexo ; // Sexo: default
 
 }
@@ -125,23 +119,18 @@ Java utiliza métodos para se referir a trechos de código que são associados a
 A sintaxe de declaração de um método é apresentada acima. A Palavra-Chave é opcional, podendo ser: Abstract, Final, Static, Native e Synchronized.
 
 // Indica que esse método não possui corpo
-
 abstract int soma ( int a , int b ) { ... }
 
 // Indica que esse método não pode ser sobrescrito
-
 final int soma ( int a , int b ) { ... }
 
 // Indica que esse método só pode acessar atributos de classe e não pode ser sobrescrito
-
 static int soma ( int a , int b ) { ... }
 
 // Indica que esse método foi escrito outra linguagem
-
 native int soma ( int a , int b ) { ... }
 
 // Indica que esse método só é executável por uma thread por vez
-
 synchronized soma ( int a , int b ) { ... }
 
 Modificadores de Acesso:
@@ -309,28 +298,24 @@ Professor, o que você quer dizer com mesma assinatura e assinatura diferente? �
 
 
 // Assinatura Igual: quantidade, tipo e ordem
-
 public String EntendendoAssinatura ( int A , char B ) ;
 
 public String EntendendoAssinatura ( int C , char D ) ;
 
 
 // Assinatura Diferente: quantidade diferente
-
 public String EntendendoAssinatura ( long A , long B , long C ) ;
 
 public String EntendendoAssinatura ( long A , long B ) ;
 
 
 // Assinatura Diferente: tipo diferente
-
 public String EntendendoAssinatura ( long A , long B ) ;
 
 public String EntendendoAssinatura ( char A , long B ) ;
 
 
 // Assinatura Diferente: ordem diferente
-
 public String EntendendoAssinatura ( int A , char B ) ;
 
 public String EntendendoAssinatura ( char B , int A ) ;

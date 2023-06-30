@@ -313,8 +313,6 @@ Tipo de dados JSONB, instrução ALTER SYSTEM para alterar
 valores de configuração, atualização de visões materializadas sem
 bloqueio de leitura, registro dinâmico para registro/start/ stop de
 processos em segundo plano, Logical API Decoding, melhorias de
-
-
 índice GiN, suporte a Linux huge page e cache de recarga de banco
 de dados via pg_prewarm.
 
@@ -463,8 +461,6 @@ instalação.
 
 PostgreSQL é executado em praticamente todos os sistemas operacionais existentes,
 incluindo Linux, Unix, Mac OS X e Microsoft Windows, e pode até mesmo ser executado em
-
-
 hardware comum, como placas Raspberry Pi. Existem também vários provedores de
 computação em nuvem que listam PostgreSQL em seu catálogo de software.
 
@@ -620,24 +616,18 @@ Tipo Tamanho
 17/02/2021 17:04 Pasta de arquivos
 debug_symbols 17/02/2021 17:01
 Pasta de arquivos
-
 doc 17/02/2021 17:00
 Pasta de arquivos
-
 include 17/02/2021 17:01
 Pasta de arquivos
-
 ger installer
 17/02/2021 17:00 Pasta de arquivos
 lib 17/02/2021 17:04
 Pasta de arquivos
-
 pgAdmin 4 17/02/2021 17:01
 Pasta de arquivos
-
 scripts 17/02/2021 17:01
 Pasta de arquivos
-
 share 17/02/2021 17:04
 Pasta de arquivos
 
@@ -805,8 +795,6 @@ agora, será suficiente para você lembrar que o diretório é onde o
 PostgreSQL espera
 encontrar os dados e os arquivos de configuração. Em particular, o diretório possui os
 write-ahead logs (WALs) e um espaço para armazenamento dos dados. Sem qualquer
-
-
 uma dessas duas partes, o cluster é incapaz de garantir a consistência dos dados e,
 em
 algumas circunstâncias críticas, até mesmo iniciar.
@@ -977,8 +965,6 @@ comando muda: o psql relata o banco de dados ao qual o usuário foi conectado
 (estratégia)
 e, se for o caso, apresenta um sinal para indicar que ele é um superusuário
 (#). Caso o
-
-
 usuário não seja um administrador de banco de dados, um sinal de (>) é colocado no
 final
 do prompt.
@@ -1028,13 +1014,11 @@ SELECT current_user; - Mostra o ID do usuário atual.
 
 estrategia=# select current_user;
 current_user
-
 postgres
 (1 row)
 
 estrategia=# select current_database();
 current_database
-
 estratégia
 (1 row)
 
@@ -1152,8 +1136,6 @@ o listen_addresses =
 o O parâmetro listen_addresses especifica qual o range de endereços IP é
 possível escutar. Isso permite que você tenha mais de uma placa de rede
 (NICs) por sistema. Na maioria dos casos, nós queremos aceitar conexões
-
-
 em todas as NICs. Por isso, usamos que significa "todos os endereços
 IP".
 
@@ -1200,7 +1182,6 @@ METHOD
 
 host all all
 192.168.54.1/32 reject
-
 host all all
 0.0.0.0/0 gss
 
@@ -1293,7 +1274,6 @@ serve
 basicamente para criação de uma nova base de dados. Observe a figura a seguir:
 
 SQL Shell (psql) " u
-
 postgres=# \help CREATE DATABASE
 Command: CREATE DATABASE
 
@@ -1422,31 +1402,22 @@ subdiretórios:
 
 bin 17/02/2021 17:04
 Pasta de arquivos
-
 data 21/02/2021 00:00
 Pasta de arquivos
-
 debug_symbols 17/02/2021 17:01
 Pasta de arquivos
-
 doc 17/02/2021 17:00
 Pasta de arquivos
-
 include 17/02/2021 17:01
 Pasta de arquivos
-
 installer 17/02/2021 17:00
 Pasta de arquivos
-
 lib 17/02/2021 17:04
 Pasta de arquivos
-
 pgAdmin 4 17/02/2021 17:01
 Pasta de arquivos
-
 scripts 17/02/2021 17:01
 Pasta de arquivos
-
 share 17/02/2021 17:04
 Pasta de arquivos
 
@@ -1472,8 +1443,6 @@ arquivos de configuração, que podem ser copiados para /data e modificados.
 data, também
 conhecido como PGDATA. Lembrando que este diretório atua como o contêiner de disco
 que armazena todos os dados do cluster, incluindo os dados dos usuários e a configuração
-
-
 do cluster. O diretório PGDATA está estruturado em vários arquivos e subdiretórios. Os
 arquivos principais são os seguintes:
 
@@ -1522,8 +1491,6 @@ PostgreSQL,
 ou seja, iniciar, parar ou reiniciar o servidor back-end do PostgreSQL, ou ainda,
 exibir o
 status de um servidor em execução. Embora o servidor possa ser iniciado manualmente, o
-
-
 pg_ctl encapsula tarefas como redirecionar a saída do log. Ele também fornece opções
 convenientes para uma parada controlada.
 
@@ -1609,14 +1576,12 @@ datname
 
 Select
 pid
-
 datname,pid, wait_event, backend_type from pg_stat_activity order by pid; 1
 wait_event backend_type
 
 ~~í 2344 | WalWriterMain walwriter
 
 6924 | AutoVacuumMain autovacuum launcher
-
 estratégia | 11420 client backend
 
 I 13096 | LogicalLauncherMain | logical replication launcher
@@ -1701,15 +1666,11 @@ Outros exemplos de visões presentes no catálogo de sistemas são:
 Nome Propósito
 
 Armazena os valores default das colunas. Apenas as colunas que
-
 pg_attrdef explicitamente especificam o valor default (quando a tabela é
 criada ou
 a coluna é adicionada) terão uma entrada aqui. A principal informação
-
 sobre colunas é armazenada em pg_attribute (ou tabela do catálogo).
 pg_attribute Descrição das colunas das tabelas
-
-
 pg_cast
 
 Grava o caminho de conversão entre os dados, tanto as possibilidades
@@ -1719,12 +1680,10 @@ pelo usuário.
 Armazena informações sobre as restrições de integridade: check
 pg_constraint constraints, unique constraints, primary key constraints, foreign
 key
-
 constraints.
 
 Armazena os relacionamentos de dependência entre os objetos do
 banco de dados. Esta informação permite ao comando DROP descobrir
-
 pg_depend quais outros objetos devem ser removidos pelo DROP CASCADE.
 Também permite impedir a remoção deles no caso de DROP
 RESTRICT.
@@ -1733,7 +1692,6 @@ pg_namespace Lista os schemas de um determinado banco de dados.
 
 
 pg_proc
-
 pg.type
 
 Registra as informações sobre as funções e as procedures. A tabela
@@ -1795,20 +1753,13 @@ tabela com os parâmetros, os tipos e a descrição das informações contidas n
 
 Nome Tipo
 Descrição
-
 name text Nome do parâmetro de configuração
-
 setting text O valor atual do parâmetro
-
 unit text Unidade implícita do parâmetro
-
 category text Grupo lógico do parâmetro
-
 short_desc text Uma breve descrição do parâmetro
-
 extra desc text Descrição adicional, mais detalhada
 do parâmetro
-
 context text Contexto necessário para definir
 o valor do parâmetro.
 
@@ -1818,18 +1769,12 @@ integer, real, ou string)
 source text Fonte do valor do parâmetro atual
 
 Valor mínimo permitido do parâmetro (null para valores
-
-
 min_val text
-
 max_val text
-
 enumvals text[]
 
 boot_val text
-
 reset val text
-
 não-numéricos)
 
 Valor máximo permitido do parâmetro (null para
@@ -1912,13 +1857,10 @@ Item. 3. md5
 Item. 4. SCRAM
 
 Item. 5. cert
-
 macOS
 
 Autenticação Descrição
-
 trusf Permite a conexão incondicionalmente. Este método permite a
-
 qualquer pessoa se conectar ao servidor de banco de dados
 
 
@@ -1927,7 +1869,6 @@ necessidade de senha ou qualquer outra autenticação.
 
 Rejeita qualquer conexão incondicionalmente. Isso é útil para
 "filtragem" de certos hospedeiros de um grupo, por exemplo, uma
-
 reject linha de reject poderia bloquear um host específico para conexão,
 enquanto uma linha mais tarde permite que os hosts restantes
 possam se conectar.
@@ -1938,7 +1879,6 @@ usuário.
 md5 Exige que o cliente forneça uma senha MD5 para autenticação.
 
 Exige que o cliente forneça uma senha não criptografada para
-
 password autenticação. Uma vez que a senha é enviada em texto simples
 através da rede, não deve ser usado em redes não confiáveis.
 
@@ -1953,13 +1893,11 @@ no Windows.
 
 Obtém o nome do usuário do sistema operacional do cliente
 entrando em contato com o servidor e verifica se ele corresponde
-
 ident ao nome do usuário do banco de dados. A autenticação ident só
 pode ser utilizada em conexões TCP/IP. Quando especificado para
 conexões locais, peer authentication será utilizado em seu lugar.
 
 Obtém o nome de usuário do sistema operacional do cliente e
-
 peer verifica se ele corresponde ao nome do usuário solicitado do banco
 de dados. Isto só está disponível para conexões locais.
 
@@ -2030,10 +1968,8 @@ v í^Login/Group Roles (10)
 
 A pg_ex ecute_server_p rog ra m
 jAipg_monitor
-
 zêx pg_re a d_a IL s ett i n g s
 zêx pg_re a d_a ILstat s
-
 zêx pg_re a d_s e rver_fi I es
 
 /êxpg_siqnal_backend
@@ -2044,8 +1980,6 @@ A postgres
 A rcthi
 
 Figura 1 - Grupos de Usuários no Postgres
-
-
 descreveremos como criar e gerenciar papéis, e introduziremos o sistema de privilégios
 do
 SGBD.
@@ -2426,26 +2360,19 @@ QUERY BUFFER:
 \w FILE
 
 connect to new database
-
 change the current working directory
 show or set client encoding
-
 help on syntax of SQL cornmands, * for all coimands
 set internai variable, or list all if no parameters
 toggle timing of cornmands (currently off)
 
 unset (delete) internai variable
 pronpt user to set internai variable
-
 execute command in shell or start interactive shell
-
 edit the query buffer (or file) with externai editor
-
 send query buffer to server (and results to file or Ipipe)
 show the contents of the query buffer
-
 reset (clear) the query buffer
-
 write query buffer to file
 
 
@@ -2461,7 +2388,6 @@ INPUT/OUTPUT:
 
 write string to standard output
 execute cornmands from file
-
 send all query results to file or Ipipe
 write string to query output stream (see \o)
 
@@ -2713,8 +2639,6 @@ tabela que contém ambas as ordens faturadas e não faturadas, em que os pedidos
 faturados ocupam uma pequena fração da tabela. Se esta é uma seção usada
 com
 frequência, pode melhorar o desempenho criando um índice apenas para esta parte. Outra
-
-
 aplicação possível é a utilização da cláusula WHERE junto com UNIQUE para exigir a
 unicidade de um subconjunto de uma tabela.
 
@@ -2832,8 +2756,6 @@ necessariamente, um gatilho.
 Por fim, a nossa resposta, a alternativa E. Veja que o comando da questão
 não faz
 referência a nenhuma tabela para que sejam extraídos o tipo e o nome dos atributos, sendo
-
-
 necessário dar-lhe um nome e um tipo. Veja abaixo como ficaria a sintaxe
 correta do
 comando:
@@ -3166,7 +3088,6 @@ partir
 do décimo primeiro elemento.
 
 Se FOR UPDATE, FOR NO KEY UPDATE, FOR SHARE ou FOR KEY SHARE for
-
 especificado, a instrução SELECT bloqueia as linhas selecionadas contra
 atualizações
 simultâneas.
@@ -3194,8 +3115,6 @@ explícita ou implícita da esquerda para a direita.
 Cada coluna que não estiver presente na lista de colunas explícita ou
 implícita será
 preenchida com um valor padrão. O valor padrão será o declarado ou nulo, se não houver
-
-
 nenhum. Se a expressão de qualquer coluna não é do tipo de dados correto, a conversão
 automática de tipo será tentada.
 
@@ -3442,7 +3361,6 @@ Observem abaixo uma tabela com os tipos numéricos presentes no PostgreSQL:
 
 
 Name Storage Size Range
-
 smallint 2 bytes -32768 to +32767
 
 integer 4 bytes -2147483648 to +2147483647
@@ -3454,9 +3372,7 @@ decimal variable up to 131072 digits before the decimal point; up to
 numeric variable up to 131072 digits before the decimal point; up to
 16383 digits after the decimal point
 real 4 bytes 6 decimal digits precision
-
 double precision 8 bytes 15 decimal digits precision
-
 smallserial 2 bytes 1 to 32767
 
 serial 4 bytes 1 to 2147483647
@@ -3476,7 +3392,6 @@ Item. 1. BANCA: FCC - Analista Judiciário (TRT 23a Região)/Apoio
 Especializado/Tecnologia da lnformação/2016
 
 São vários os tipos de dados numéricos no PostgreSQL. O tipo
-
 a) smallint tem tamanho de armazenamento de 1 byte, que permite armazenar a faixa
 de valores inteiros de -128 a 127.
 
@@ -3497,7 +3412,6 @@ abaixo uma tabela que vimos com os tipos numéricos presentes no PostgreSQL:
 
 
 Name Storage Size Range
-
 smallint 2 bytes -32768 to +32767
 
 integer 4 bytes -2147483648 to +2147483647
@@ -3509,9 +3423,7 @@ digits afterthe decimal point
 numeric variable up to 131072 digits before the decimal point; up to 16383
 digits after the decimal point
 real 4 bytes 6 dedmal digits predsion
-
 double precision 8 bytes 15 decimal digits predsion
-
 smallserial 2 bytes 1 to 32767
 
 serial 4 bytes 1 to 2147483647
@@ -3551,7 +3463,6 @@ Sistemas/2015
 No PostgreSQL, o tipo de dados numérico considerado meramente uma notação
 conveniente para definir colunas identificadoras únicas, semelhante à propriedade auto
 incremento em alguns Sistemas Gerenciadores de Banco de Dados, é o tipo
-
 a) serial.
 
 b) smallint.
@@ -3659,7 +3570,6 @@ CREATE TABLE sal_emp (
 name
 pay_by_quarter
 schedule
-
 text,
 integerf],
 text[][]
@@ -3752,14 +3662,12 @@ test=> CREATE TABLE fruit (name CHAR(30), image OID);
 CREATE
 
 test=> INSERT INTO fruit
-
 test-> VALUES ('peach', lo_import('/usr/images/peach.jpg'));
 
 INSERT 27111 1
 
 test=> SELECT lo_export(fruit.image, '/tmp/outimage.jpg')
 test-> FROM fruit
-
 test-> WHERE name = 'peach';
 
 lo_export
@@ -3858,7 +3766,6 @@ figura abaixo:
 nr?AdmÍn File'*' Object* Tools* Helpv
 
 Browser Depen< < ' gg TÉ Q. Properties SQL Statistics Dependents
-
 v gServers(1)
 
 * t$PostgreSQL13
@@ -3871,7 +3778,6 @@ v *estratégia
 > ®Casts
 
 > "^Catalogs
-
 v General
 
 Database estratégia
@@ -3912,9 +3818,7 @@ Dq_read_all_settinqs
 
 A pg_read_a ILstats
 pq_read_server_files
-
 jg* Dq_siqnal_backend
-
 xêhDq_stat_scan_tables
 pq_write_server_files
 
@@ -3940,7 +3844,6 @@ Default TABLE privileges
 Default SEQUENCE privileges
 Default FUNCTION privileges
 Default TYPE privileges
-
 v Definition
 Encoding
 Tablespace
@@ -4010,7 +3913,6 @@ Comentários:
 
 O comando acima começa com o log_connections esse parâmetro faz com que cada tentativa de
 conexão com o servidor seja
-
 registrada, bem como a conclusão bem-sucedida da autenticação do cliente. Este parâmetro não pode
 ser alterado após o início
 da sessão. O padrão é desligado.
@@ -4050,8 +3952,6 @@ objetos de banco de dados de uma só vez, gerando uma enorme economia de tempo.
 precisam
 completar suas operações como uma transação. Com isso, você pode executar loops que
 façam commit de cada atualização SQL, ao contrário de funções armazenadas, as quais
-
-
 requerem que todas as etapas sejam concluídas antes do trabalho ser efetivado de fato.
 Infelizmente, você não pode usá-lo fora da interface do pgAdmin.
 
@@ -4115,11 +4015,9 @@ iype
 Character
 
 Function
-
 lengthO
 
 Example
-
 lengthUo/)
 
 length of col
@@ -4132,7 +4030,6 @@ String
 Type
 
 Number
-
 character lengthO
 octetlengthO
 trim()
@@ -4207,7 +4104,6 @@ substr(co/, pos)
 substringfco/ FROM pos)
 substrfco/, pos, len)
 substringfco/ from pos
-
 for len)
 translatefco/Jrom, to)
 to numberfco/ mask)
@@ -4238,60 +4134,41 @@ col with leading and trailing spaces removed
 same as trimO
 
 col with leading spaces removed
-
 col with trailing spaces removed
-
 col with leading and trailing str removed
 col padded on the right to len characters
 col padded on the right using str
-
 col padded on the left to len characters
-
 col padded on the left using str
-
 col uppercased
-
 col lowercased
-
 col with the first letter capitalized
 position of str in col
-
 same as strposf)
 
 col starting at position pos
-
 same as substrO
 
 col starting at position pos for length len
-
 same as substrO
 
 col with from changed to to
-
 convert col to numericO based on mask
-
 convert col to DAte based on mask
-
 convert col to TIMESTAMP based on mask
 
 Retums
-
 round to an integer
-
 numericO col rounded to len decimal places
 truncate to an integer
-
 numericO col truncated to len decimal places
 absolute value
-
 factorial
 square root
 cube root
 exponential
-
 natural logarithm
 base-10 logarithm
-
 convert col to a string based on mask
 
 
@@ -4300,13 +4177,11 @@ TVpe
 Temporal
 
 Function
-
 date_part()
 extract(...FROM...)
 date_trunc()
 
 Example
-
 date_part(«„ífc, col)
 extractfwmfc FROM col)
 date_trunc(«Mífc, col)
@@ -4359,18 +4234,14 @@ string showing date/time in Unix format
 
 BOOLEAN indicating whether col 's overlap in time
 convert col to string based on mask
-
 see psql 's W/ for a list of geometric functions
 broadcast addressof co/
 
 host addressof col
 netmask of col
 mask length of col
-
 network addressof col
-
 return nULL if coll equals col2, else return coll
-
 return first non-NULL argument
 
 HORA DE
@@ -4381,18 +4252,13 @@ PRATICAR!
 
 
 ff aluno
-
 nome
-
 r matricula
-
 aluno
 disciplina a
-
 ano
 
 12 nota
-
 ff disciplina
 12^ id
 
@@ -4425,10 +4291,8 @@ insert into matricula (aluno, disciplina, ano, nota) values (3, 5, 2020, 7.7);
 
 SELECT* * FROM crosstab($$
 select a.nome, d.descricao, m.nota
-
 from matricula m left join aluno a on a.id=m.aluno
 left join disciplina d on d.id=m.disciplina
-
 order by 1,2
 
 $$)
@@ -4438,7 +4302,6 @@ nome varchar,
 geografia numeric,
 historia numeric,
 matematica numeric
-
 nome geografia história matemática
 
 Beltrano 7.7 8.5 5.6
@@ -4537,14 +4400,11 @@ col!' pattern
 col '* pattern
 col pattern
 col~' pattern
-
 col LIKE pattern
 col!" pattern
-
 col NOT LIKE pattern
 
 Icol
-
 coll + col2
 coll - col2
 coll * col2
@@ -4568,7 +4428,6 @@ append co!2 on to the end of coll
 BooLeAn, col matches regular expression pattern
 BooLeAn, col does not match regular expression pattern
 same as ", but case-insensitive
-
 same as!', but case-insensitive
 BooLeAn, col matches Like pattern
 same as "
@@ -4581,15 +4440,12 @@ addition
 subtraction
 rnultiplication
 division
-
 remainder/modulo
-
 coll raised to the power of col2
 addition of temporal values
 subtraction of temporal values
 
 BooLeAn indicating cols overlap in time
-
 see psqVs \do for a list of geometric operators
 BooLeAn indicating if coll is a subnet of col2
 BooLeAn indicating if coll is equal or a subnet of col2
@@ -4732,7 +4588,6 @@ BEGIN
 END;
 
 LANGUAGE nome_da linguagem
-
 pn tipo)
 
 
@@ -5012,7 +4867,6 @@ CREATE TABLE emp (
 
 empname
 salary
-
 text NOT NULL,
 integer
 
@@ -5038,7 +4892,6 @@ BEGIN
 — Create a row in
 
 -- make use of the
-
 emp_audit to reflect the operation performed on emp,
 special variable TG_OP to work out the operation.
 
@@ -5177,8 +5030,6 @@ o valor para dividir os dados em tabelas diferentes.
 
 Para não deixar o conceitos de herança de tabelas em aberto. Vejamos a sua definição. O PostgreSQL
 adota o conceito de herança de bancos de dados para objetos. O conceito é muito simples e pode
-
-
 ser resumido da seguinte forma: suponha que temos duas tabelas, a tabela A e a
 tabela B. Se
 definirmos a tabela A como uma tabela-mãe e a tabela B como uma tabela-filha, isso
@@ -5369,8 +5220,6 @@ current_time | txid_current
 Como você pode ver no exemplo anterior, o sistema atribuiu dois
 identificadores de transação
 diferentes, respectivamente 707 e 708, a cada instrução, confirmando que essas instruções foram
-
-
 executadas em diferentes transações implícitas. Você provavelmente obterá números
 diferentes
 em seu sistema.
@@ -5383,26 +5232,18 @@ colunas ocultas. Veja um exemplo de uma consulta que retorna as respectivas colu
 
 16 SELECT xmin, xmax, * from city2 where city_id ín (6,7,8);
 Data Output Explain Messages Notifications
-
-
 xmin
 xid
-
 xmax
 xid
-
 crty_»d
 integer
-
 city
-
 character varying (50)
 
 countryjd
 smallint
-
 last_update
-
 timestamp without time zone
 
 1 749 0 6 Addis Abeba
@@ -5430,27 +5271,19 @@ acima.
 Vejamos o que acontece ...
 
 Data Output Explain Messages Notifications
-
-
 xmin
 xid
-
 xmax
-
 xid "
 
 crty.id
 integer
-
 city
-
 character varying (50)
 
 countryjd
 smallint
-
 lasCupdate
-
 timestamp without time zone A
 
 
@@ -5485,28 +5318,18 @@ Vejamos como ficou a tabela depois dessas ações ...
 
 3 |SELECT xmin, xmax, * FROM city2 where city_id ín (6,7,8);
 Data Output Explain Messages Notifications
-
-
 xmin
-
 xid
-
 xmax
-
 xid
-
 cfty_»d
 integer
-
 city
-
 character varying (50)
 
 countryjd
 smallint
-
 last_update
-
 timestamp without time zone
 
 1 749 0 8 Adoni
@@ -5530,12 +5353,8 @@ apresentar
 abaixo uma tabela que descreve as colunas do sistemas que influenciam nas transações.
 
 Coluna I Descrição
-
-
 xmin
-
 xmax
-
 cmin
 cmax
 
@@ -5636,7 +5455,6 @@ EXECUTOR
 
 otimizador para encontrar a melhor forma de executar uma determinada consulta. Às
 vezes, é
-
 necessário a criação de índices para agilizar o acesso aos dados. O PostgreSQL fornece
 recursos
 muito ricos para a criação e gerenciamento de índices, tanto com base em coluna única
@@ -5706,9 +5524,7 @@ algumas modificações, até em outros bancos de dados SQL. Vejamos alguns exemp
 comandos pg_dump:
 
 Backup Restore
-
 pg_dump dbname>dumpfile psql dbname < dumpfile
-
 pg_dump -U postgres -Fc myDB > myDB.dump pg_restore -j 8 -U postgres -d myDB myDB.dump
 
 A primeira linha mostra a forma mais simples de backup usando pg_dump, o arquivos
@@ -5804,7 +5620,6 @@ Informação de Defensoria/Analista de Sistema/2018
 
 No PostgreSQL 9.0, para efetuar o backup e a restauração de um banco de dados
 utilizam-se, respectivamente, os comandos
-
 a) bman e rman.
 
 b) backup e restore.
@@ -5827,7 +5642,6 @@ JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 
 https://pt.wikibooks.org/wiki/PostgreSQL Pr%C3%Altico/Administra%C3%A7%C3%A3o/Backup e Restor
-
 e - Obs.: Apesar de usar a versão 8.1, a maioria dos exemplos são válidos e consistentes com a
 versão
 mais recente do SGBD.
@@ -5982,7 +5796,6 @@ Computador/2020
 No sistema de gerenciamento de banco de dados PostgreSQL, para criar uma tabela
 contendo uma coluna com um tipo de dados inteiro e com a propriedade de
 autoincremento, é correto o uso de dados dos tipos
-
 a) boolean e bigint.
 
 b) character varying e cidr.
@@ -6026,7 +5839,6 @@ Comentário: Vamos comentar cada um dos itens acima.
 
 I. VERDADEIRO. O PostgreSQL utiliza a técnica TOAST (The Oversized-Attribute
 Storage Technique), que permite que campos grandes sejam armazenados mesmo se
-
 í for necessário que parte do dado seja armazenada em um bloco diferente da memória.
 Isso faz com que não exista uma limitação de tamanho por parte do SGBD, mas sim
 uma limitação do hardware existente na máquina na qual o banco de dados esteja
@@ -6095,7 +5907,6 @@ de âncora. (2) Uma consulta recursiva que referencia a expressão de tabela com
 portanto, é chamada de membro recursivo. O membro recursivo é unido ao membro
 âncora usando o operador UNION ALL. (3) Uma condição
 de
-
 finalização especificada no membro recursivo que finaliza a execução.
 Deste modo, a ordem de execução, na nossa questão, será a seguinte:
 A consulta inicial (SELECT 1) retorna 1
@@ -6167,7 +5978,6 @@ Suporte a vários idiomas
 
 Pesquisa Fuzzy para erros de ortografia
 Apoio a acentuação
-
 d) ERRADA. O operador @@ é usado na FTS. @@ é um operador de
 correspondência que retorna TRUE (verdadeiro) se um tsvector (documento)
 corresponder a um tsquery (consulta).
@@ -6188,10 +5998,7 @@ PostgreSQL é equivalente ao operador RLIKE do MySQL."
 
 e) ERRADA. TSQUERY é um formato do tipo consulta para o FTS e é criado pela
 í função to_tsquery. TSVECTOR é um formato do tipo documento para o FTS e é criado
-
 pela função to_tsvector. Não são conjuntos de "TRIGAMS", mas usam o conceito dela
-
-
 no motor de busca. Para uso nas buscas, são comparadas com o operador @@ e não
 necessariamente há a comparação em ordem alfabética
 
@@ -6204,7 +6011,6 @@ que exibe o plano que o gerenciador irá utilizar para realizar uma determinada
 consulta.
 
 O comando descrito é o
-
 a) EXPLAIN.
 
 b) OFFSET.
@@ -6255,7 +6061,6 @@ tipos de dados disponíveis: JSON e JSONB.
 A diferença entre eles é que os dados do tipo JSON são armazenados da mesma
 I forma como são inseridos, em texto, o que causa lentidão nas consultas. Mas, com
 JSONB, o texto é processado no momento da inserção e armazenado em formato
-
 binário, com isso as consultas ficam mais rápidas.
 
 Gabarito: C.
@@ -6590,21 +6395,13 @@ tabela com os parâmetros, os tipos e a descrição das informações contidas n
 
 
 Nome Tipo Descrição
-
 name text Nome do parâmetro de configuração
-
-
 setting text O valor atual do parâmetro
-
 lunit text Unidade implícita do parâmetro
-
 category text Grupo lógico do parâmetro
-
 shortdesc text Uma breve descrição do parâmetro
-
 extradesc text Descrição adicional, mais detalhada do
 parâmetro
-
 context text Contexto necessário para definir o valor
 do parâmetro.
 
@@ -6614,18 +6411,12 @@ real, ou string)
 source text Fonte do valor do parâmetro atual
 
 Valor mínimo permitido do parâmetro (null para valores
-
-
 min_val text
-
 max_val text
-
 enumvals text[]
 
 boot_val text
-
 reset val text
-
 não-numéricos)
 
 Valor máximo permitido do parâmetro (null para
@@ -6670,8 +6461,6 @@ E, portanto, só está disponível para conexões SSL. Ao usar esse método de a
 o servidor irá requerer que o cliente forneça um certificado válido. Nenhum
 aviso ou
 requisição de senha será enviado para o cliente. O atributo CN (COMMON NAME) do
-
-
 certificado será comparado com o nome do usuário do banco de dados solicitado e, se
 eles
 combinam, o login será permitido. O mapeamento de nome de usuário pode ser usado para
@@ -6711,7 +6500,6 @@ Informação de Defensoria/Analista de Sistema/2018
 
 No PostgreSQL 9.0, para efetuar o backup e a restauração de um banco de dados
 utilizam-se, respectivamente, os comandos
-
 a) bman e rman.
 
 b) backup e restore.
@@ -6772,10 +6560,7 @@ Quando usado com um dos formatos de ficheiros de arquivo e combinado com o pg_re
 o pg_dump fornece um mecanismo de arquivamento e transferência flexível. O pg_dump
 pode ser usado para fazer backup de um banco de dados inteiro. Em seguida, o
 pg_restore
-
-
 https://pt.wikibooks.org/wiki/PostgreSQL Pr%C3%Altico/Administra%C3%A7%C3%A3o/Backup e Restor
-
 e - Obs.: Apesar de usar a versão 8.1, a maioria dos exemplos são válidos e
 consistentes com a versão
 mais recente do SGBD.
@@ -6843,8 +6628,6 @@ para
 especificar que os dados a serem transferidos sejam inseridos ou exibidos na linha de
 comando. Podemos ainda usar o modificar DELIMITERS para especificar o caractere que
 separa as colunas dentro de cada linha do arquivo. O padrão é um caractere de tabulação
-
-
 para arquivos em formato de texto ou uma vírgula no formato CSV. Este delimitador deve
 ser um único caractere de um byte. Esta opção não é permitida quando usando o formato
 binário. Vejam que já achamos nossa resposta.
@@ -7009,7 +6792,6 @@ Região)/Apoio
 Especializado/Tecnologia da lnformação/2016
 
 São vários os tipos de dados numéricos no PostgreSQL. O tipo
-
 a) smallint tem tamanho de armazenamento de 1 byte, que permite armazenar a faixa
 de valores inteiros de -128 a 127.
 
@@ -7030,7 +6812,6 @@ abaixo uma tabela que vimos com os tipos numéricos presentes no PostgreSQL:
 
 
 Name Storage Size Range
-
 smallint 2 bytes -32768 to +32767
 
 integer 4 bytes -2147483648 to +2147483647
@@ -7042,9 +6823,7 @@ digits afterthe decimal point
 numeric variable up to 131072 digits before the decimal point; up to 16383
 digits after the decimal point
 real 4 bytes 6 dedmal digits predsion
-
 double precision 8 bytes 15 decimal digits predsion
-
 smallserial 2 bytes 1 to 32767
 
 serial 4 bytes 1 to 2147483647
@@ -7081,7 +6860,6 @@ de Sistemas/2015
 No PostgreSQL, o tipo de dados numérico considerado meramente uma notação
 conveniente para definir colunas identificadoras únicas, semelhante à propriedade auto
 incremento em alguns Sistemas Gerenciadores de Banco de Dados, é o tipo
-
 a) serial.
 
 b) smallint.
@@ -7269,8 +7047,6 @@ Comentário: Vamos comentar cada uma das alternativas acima:
 Item. 71. O parâmetro max_connections determina o número máximo de conexões simultâneas
 para o servidor de banco de dados. O padrão geralmente é 100 conexões, mas pode ser
 menor se as configurações do kernel não o suportarem. Este parâmetro só pode ser
-
-
 configurado no início do servidor. Ou seja, para alterar esse valor, precisamos
 reiniciar o
 SGBD. Contudo, a afirmação apresenta o nome do arquivo de configuração incorreto.
@@ -7298,7 +7074,6 @@ pg_hba.conf:
 #TYPE DATABASE USER ADDRESS METHOD
 
 local all all trust
-
 host all all 127.0.0.1/32 trust
 host all all ::1/128 trust
 
@@ -7491,7 +7266,6 @@ Exemplo 02:
 TYPE DATABASE USER CIDR-ADDRESS METHOD
 
 local all all trust
-
 local all all md5
 
 Já este acima aceitará todas as conexões locais incondicionalmente (sem senha, trust).
@@ -7532,7 +7306,6 @@ I
 
 Para que codDep na tabela funcionário seja definido como chave estrangeira com
 relação à tabela departamento, a lacuna I deve ser preenchida com
-
 a) foreign key departamento(codDep)
 
 b) constraint foreign key REF departamento(codDep)
@@ -7573,7 +7346,6 @@ Especializado/Tecnologia da lnformação/2017
 
 No sistema gerenciador de banco de dados PostgreSQL, a restrição de acesso pelo
 endereço IP do cliente é feita mediante alteração do arquivo de configuração
-
 a) pg_subtrans.
 
 b) pg_hba.conf.
@@ -7595,7 +7367,6 @@ temos um exemplo do arquivo:
 # TYPE DATABASE
 
 host all
-
 host all
 
 Gabarito: I
@@ -7621,7 +7392,6 @@ Sistemas/2016
 Uma das recomendações na prática do tuning no PostgreSQL como forma de melhorar
 o desempenho das tabelas com grandes quantidades de registros e especialmente
 com muitos acessos é a inserção de
-
 a) índices em todos os campos das tabelas.
 
 b) valores nulos em campos que compõem a cláusula WHERE ou que fazem parte de
@@ -7644,8 +7414,6 @@ transformação dos dados básicos.
 
 Quando a cláusula WHERE está presente, um índice parcial é criado. Um índice parcial
 é um índice que contém entradas para apenas uma parte de uma tabela, geralmente
-
-
 uma porção mais útil para a indexação do que o resto do quadro. Da mesma forma, os
 índices também são recomendados para utilização nas cláusulas ORDER BY e
 GROUP BY.
@@ -7661,7 +7429,6 @@ banco de dados PostgreSQL, mesmo que ele esteja sendo utilizado por outros
 usuários, gerando um arquivo texto contendo comandos SQL. Estes comandos, ao
 serem processados pelo servidor, recriam o banco de dados no mesmo estado em que
 este se encontrava quando o arquivo foi gerado. O Analista deve usar o utilitário
-
 a) pg_dump.
 
 b) psql.
@@ -7707,7 +7474,6 @@ This PC ► Windows (G) ► postgres
 >
 
 Name
-
 ó
 
 Date modified
@@ -7718,19 +7484,14 @@ Type Size
 
 |Jjbase 10/8/2015 5:30
 PM Filefolder
-
 global 10/8/2015 5:35 PM
 Filefolder
-
 pg_clog 10/8/2015 5:29 PM
 Filefolder
-
 pgjnultixact 10/8/2015 5:29 PM
 Filefolder
-
 pg_notify 10/8/2015 5:35 PM
 Filefolder
-
 pg_serial 10/8/2015 5:29 PM
 Filefolder
 J . pg_snapshots 10/8/2015 5:29 PM
@@ -7759,12 +7520,10 @@ j:zy HM
 Filefolder
 Filefolder
 Filefolder
-
 po p/ophase 10/8/2015 5:29 PM
 Filefolder
 
 || 10/8/2015 5:29 PM Filefolder
-
 p£j6ã"" 10/8/2015 5:29 PM
 CONF File 5 KB
 
@@ -7936,8 +7695,6 @@ fornecida nenhuma lista de nomes de colunas, o padrão é usar todas as colunas 
 tabela
 na ordem em que foram declaradas; ou os primeiros N nomes de colunas, se existirem
 apenas N colunas fornecidas na cláusula VALUES ou na consulta. Os valores fornecidos
-
-
 pela cláusula VALUES ou pela consulta são associados à lista de colunas explícita ou
 implícita da esquerda para a direita.
 
@@ -8051,7 +7808,6 @@ DADOS
 
 8 permitem a definição de parâmetros de armazenamento de tabelas e de índices. Um
 desses parâmetros é o FILLFACTOR, sendo que no caso de
-
 a) índices B-Tree, seu valor padrão é 50.
 
 
@@ -8085,7 +7841,6 @@ PROVA: ANALISTA JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 [34] Para conceder, a todos os usuários de um banco de dados PostgreSQL, o
 privilégio de inserção na tabela Clientes utiliza-se a instrução
-
 a) SET GRANT INSERT ON Clientes ALL;
 
 b) SET ROLE ALL PRIVILEGES TO INSERT ON Clientes;
@@ -8277,8 +8032,6 @@ Comentário. Sabemos que uma função de gatilho executa comandos SQL, então es
 comandos podem disparar outros gatilhos. Isto é conhecido como gatilhos em cascata ou
 cascading triggers. Não há nenhuma limitação para o número de níveis desta cascata. É
 possível que as cascatas provoquem uma invocação recursiva do mesmo gatilho; por
-
-
 exemplo, um INSERT pode executar um comando que insere uma linha adicional na mesma
 tabela, fazendo com que o gatilho INSERT possa ser disparado mais uma vez.
 É
@@ -8508,8 +8261,6 @@ cursor. São três os principais comandos:
 Item. 1. FETCH - recupera a próxima linha do cursor no target, que pode ser uma linha, um
 registro, ou uma lista de variáveis simples, separadas por vírgulas, da mesma forma
 que o
-
-
 comando SELECT INTO. Se não houver nenhuma linha seguinte, o alvo é definido como
 NULL(s), tal como acontece com SELECT INTO. A variável especial FOUND pode verificar
 se uma linha foi obtida ou não.
@@ -8736,7 +8487,6 @@ Computador/2020
 No sistema de gerenciamento de banco de dados PostgreSQL, para criar uma tabela
 contendo uma coluna com um tipo de dados inteiro e com a propriedade de
 autoincremento, é correto o uso de dados dos tipos
-
 a) boolean e bigint.
 
 b) character varying e cidr.
@@ -8824,7 +8574,6 @@ que exibe o plano que o gerenciador irá utilizar para realizar uma determinada
 consulta.
 
 O comando descrito é o
-
 a) EXPLAIN.
 
 b) OFFSET.
@@ -9024,7 +8773,6 @@ Informação de Defensoria/Analista de Sistema/2018
 
 No PostgreSQL 9.0, para efetuar o backup e a restauração de um banco de dados
 utilizam-se, respectivamente, os comandos
-
 a) bman e rman.
 
 b) backup e restore.
@@ -9134,7 +8882,6 @@ Item. 23. BANCA: FCC - Analista Judiciário (TRT 23a Região)/Apoio
 Especializado/Tecnologia da lnformação/2016
 
 São vários os tipos de dados numéricos no PostgreSQL. O tipo
-
 a) smallint tem tamanho de armazenamento de 1 byte, que permite armazenar a faixa
 de valores inteiros de -128 a 127.
 
@@ -9156,7 +8903,6 @@ de Sistemas/2015
 No PostgreSQL, o tipo de dados numérico considerado meramente uma notação
 conveniente para definir colunas identificadoras únicas, semelhante à propriedade auto
 incremento em alguns Sistemas Gerenciadores de Banco de Dados, é o tipo
-
 a) serial.
 
 b) smallint.
@@ -9215,7 +8961,6 @@ linguagens.
 
 
 C é uma declaração SELECT arbitrária, ou uma subconsulta. A subconsulta é
-
 processada para determinar se retorna alguma linha.
 
 D retorna o primeiro de seus argumentos que não for nulo. Só retorna nulo quando
@@ -9322,7 +9067,6 @@ PostgreSQL 8 aberto e em condições ideais.
 CREATE TABLE departamento (
 
 c odDep varchar (10) p r ima ry k ey t
-
 local point
 
 ) ;
@@ -9340,7 +9084,6 @@ I í
 
 Para que codDep na tabela funcionário seja definido como chave estrangeira com
 relação à tabela departamento, a lacuna I deve ser preenchida com
-
 a) foreign key departamento(codDep)
 
 b) constraint foreign key REF departamento(codDep)
@@ -9357,7 +9100,6 @@ Especializado/Tecnologia da lnformação/2017
 
 No sistema gerenciador de banco de dados PostgreSQL, a restrição de acesso pelo
 endereço IP do cliente é feita mediante alteração do arquivo de configuração
-
 a) pg_subtrans.
 
 b) pg_hba.conf.
@@ -9372,7 +9114,6 @@ Sistemas/2016
 Uma das recomendações na prática do tuning no PostgreSQL como forma de melhorar
 o desempenho das tabelas com grandes quantidades de registros e especialmente
 com muitos acessos é a inserção de
-
 a) índices em todos os campos das tabelas.
 
 b) valores nulos em campos que compõem a cláusula WHERE ou que fazem parte de
@@ -9394,7 +9135,6 @@ banco de dados PostgreSQL, mesmo que ele esteja sendo utilizado por outros
 usuários, gerando um arquivo texto contendo comandos SQL. Estes comandos, ao
 serem processados pelo servidor, recriam o banco de dados no mesmo estado em que
 este se encontrava quando o arquivo foi gerado. O Analista deve usar o utilitário
-
 a) pg_dump.
 
 b) psql.
@@ -9517,8 +9257,6 @@ DADOS
 
 [49] No sistema gerenciador de banco de dados PostgreSQL 8 (versão 8.3) há duas
 bases de dados padrão utilizadas quando se cria uma nova base de dados. Se o
-
-
 objetivo for utilizar a base de dados padrão denominada templateO, o comando a ser
 empregado na criação da base de dados teste, é CREATE DATABASE
 
@@ -9538,7 +9276,6 @@ DADOS
 [53] Alguns sistemas gerenciadores de bancos de dados, como o PostgreSQL versão
 8 permitem a definição de parâmetros de armazenamento de tabelas e de índices. Um
 desses parâmetros é o FILLFACTOR, sendo que no caso de
-
 a) índices B-Tree, seu valor padrão é 50.
 
 b) tabelas, pode variar entre os valores 50 e 100.
@@ -9555,7 +9292,6 @@ PROVA: ANALISTA JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 [34] Para conceder, a todos os usuários de um banco de dados PostgreSQL, o
 privilégio de inserção na tabela Clientes utiliza-se a instrução
-
 a) SET GRANT INSERT ON Clientes ALL;
 
 b) SET ROLE ALL PRIVILEGES TO INSERT ON Clientes;
@@ -9607,7 +9343,6 @@ JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 Em PostgreSQL, se uma função de um gatilho (trigger) executar comandos SQL, existe
 a possibilidade destes comandos também executarem outros gatilhos. Este processo
-
 é conhecido como
 
 A cascading triggers.

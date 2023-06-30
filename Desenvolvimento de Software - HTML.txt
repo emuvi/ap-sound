@@ -196,8 +196,6 @@ independente de outros padrões de processamento de texto em geral.
 
 
 r
-
-
 i
 
 (TCE RJ- 2022) HTML5 é uma linguagem de programação que permite estruturar páginas web e
@@ -252,10 +250,7 @@ etc.
 * O elemento <p> define um parágrafo.
 
 r
-
-
 i
-
 i (FGV -IBGE - 2016) A declaração <!DOCTYPE> permite ao navegador apresentar uma página i
 
 = web corretamente. A declaração correta para uma página em HTML5 é:
@@ -726,7 +721,6 @@ linha e é um elemento vazio sem uma tag de fechamento. Veja o exemplo a seguir.
 <body>
 
 Este é um parágrafo
-
 com uma quebra de linha.
 
 <p>Este é um parágrafo <br> com uma quebra de linha.
@@ -918,7 +912,6 @@ Isto é um parágrafo.
 <p>Isto é
 
 <p>Isto é
-
 um parágrafo.</p>
 
 um parágrafo.</p>
@@ -1014,7 +1007,6 @@ Qual sua meta de aproveitamento na próxima prova?
 exibir um texto com fonte Courier de largura fixa, preservando os espaços e as quebras de linha.
 
 O texto deverá ser colocado entre as tags
-
 a) <mark> e </mark>
 
 b) <dl> e </dl>
@@ -1202,7 +1194,6 @@ O HTML contém vários elementos para definir o texto com um significado especia
 
 
 Elementos
-
 de
 Formatação
 
@@ -1305,11 +1296,9 @@ platinum/">
 
 lá estudava há um tempo, porém não conseguia ver a minha evolução. Tinha medo
 de não estar fazendo a coisa certa. Assim que foi lançada a Platinum me
-
 inscrevi e fui acompanhada por pessoas incríveis que me ajudaram imensamente do
 início ao fim! Foi o diferencial para minha aprovação no primeiro concurso para
 Auditor Fiscal de TI que fiz! Eu aprendi o que fazer, como melhorar meus
-
 estudos e consequentemente meu rendimento. Para mim foi essencial poder contar
 com o apoio dos coaches!
 
@@ -1527,7 +1516,6 @@ tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
 
 <p style="color:MediumSeaGreen;">Ut wisi enim ad minim veniam,
 quis nostrud exerci tation ullamcorper suscipit lobortis nisl
-
 ut aliquip ex ea commodo consequat.</p>
 
 <!-- Cor da borda -->
@@ -1818,7 +1806,6 @@ Scalable Vector Graphics
 .jpg, .jpeg, .jfif, .pjpeg, .pjp
 
 *png
-
 svg
 
 Tag Descrição
@@ -2235,12 +2222,8 @@ Café
 Leite
 
 - bebida gelada branca
-
 r
-
-
 i
-
 i (FCC -DPE AM - 2018) Um Técnico Programador deseja fazer um glossário de termos em
 um i
 
@@ -2371,9 +2354,7 @@ As listas podem ser aninhadas (lista dentro da lista):
 * Café
 
 * Chá
-
 o Chá preto
-
 o Chá verde
 
 * Leite
@@ -2564,11 +2545,8 @@ B. Chá
 C. Leite
 
 Lista Ordenada com Letras Minúsculas
-
 a. Café
-
 b. Chá
-
 c. Leite
 
 Lista Ordenada com Números Romanos
@@ -2580,11 +2558,8 @@ II. Chá
 III. Leite
 
 Lista Ordenada com Números Romanos Minúsculos
-
 i. Café
-
 ii. Chá
-
 iii. Leite
 
 Por padrão, uma lista ordenada começará a contar a partir de 1. Se você
@@ -3172,7 +3147,6 @@ Murilo Vieira
 
 background-color: tomato;
 color: whitej
-
 padding: 10px;
 
 Diferentes elementos podem compartilhar a mesma
@@ -3310,11 +3284,9 @@ Type Descrição
 <input type="text"> Exibe um campo de entrada de texto de linha única
 
 <input type=" radio" > Exibe um botão de opção (para selecionar uma das muitas
-
 opções)
 
 <input type=" checkbox" > Exibe uma caixa de seleção (para selecionar zero ou mais
-
 opções)
 
 cinput type="submit"> Exibe um botão de envio (para enviar o formulário)
@@ -3603,31 +3575,23 @@ Vejamos um compilado dos atributos dos formulários HTML.
 
 Atributo de
 Formulários
-
 accept-
 charset
 
 Descrição
 
 Especifica as codificações de caracteres usadas para envio de formulário
-
 action Especifica para onde enviar os dados do formulário quando um formulário é
 enviado
-
 autocomplete Especifica se um formulário deve ter o preenchimento automático ativado ou
 desativado
-
 enctype Especifica como os dados do formulário devem ser codificados ao enviá-los
 ao servidor (somente para method="post")
 
 method Especifica o método HTTP a ser usado ao enviar dados de formulário
-
 name Especifica o nome do formulário
-
 novalidate Especifica que o formulário não deve ser validado quando enviado
-
 rei Especifica a relação entre um recurso vinculado e o documento atual
-
 target Especifica onde exibir a resposta recebida após o envio do formulário
 
 Os elementos HTML <form>
@@ -3683,8 +3647,6 @@ type=" button" >
 Define um botão
 
 Descrição
-
-
 cinput
 type=11 checkbox" >
 
@@ -3877,11 +3839,7 @@ API de geolocalização HTML
 A API de geolocalização HTML é usada para localizar a posição de um usuário. Como
 isso
 pode comprometer a privacidade, a posição não está disponível a menos que o usuário
-
-
 www. estra tegiaconcursos. com. br
-
-
 aprove, a API de geolocalização permite que aplicativos da web acessem as informações
 de localização do usuário, com a permissão do usuário. Isso pode ser útil para uma
 ampla
@@ -4200,7 +4158,6 @@ Meu primeiro parágrafo.
 <!DOCTYPE html>
 
 Os cabeçalhos HTML são definidos com as tags <h1 >to .<hó>. <h1 >define o cabeçalho
-
 mais importante. Enquanto <hó>define o título menos importante:
 
 
@@ -4332,7 +4289,6 @@ Isto é um parágrafo.
 <p>Isto é
 
 <p>Isto é
-
 um parágrafo.</p>
 
 um parágrafo.</p>
@@ -4562,7 +4518,6 @@ Scalable Vector Graphics
 .jpg, .jpeg, .jfif, .pjpeg, .pjp
 
 *png
-
 svg
 
 
@@ -4740,8 +4695,6 @@ de várias maneiras, dependendo do atributo type.
 Type Descrição
 
 <input type="text"> Exibe um campo de entrada de texto de linha única
-
-
 cinput type=" radio" >
 
 Exibe um botão de opção (para selecionar uma das muitas
@@ -4801,20 +4754,16 @@ Vejamos um compilado dos atributos dos formulários HTML.
 
 Atributo de
 Formulários
-
 accept-
 charset
 
 Descrição
 
 Especifica as codificações de caracteres usadas para envio de formulário
-
 action Especifica para onde enviar os dados do formulário quando um formulário é
 enviado
-
 autocomplete Especifica se um formulário deve ter o preenchimento automático ativado ou
 desativado
-
 enctype Especifica como os dados do formulário devem ser codificados ao enviá-los
 ao servidor (somente para method="post")
 
@@ -4826,7 +4775,6 @@ name Especifica o nome do formulário
 
 
 novalidate
-
 rei
 target
 
@@ -4876,15 +4824,12 @@ Vejamos agora os diferentes tipos de entrada que você pode usar em HTML
 
 Tipos de entrada
 de Formulários
-
 cinput
 type="button">
 
 Define um botão
 
 Descrição
-
-
 cinput
 type=" checkbox" >
 
@@ -5356,7 +5301,6 @@ normal
 <video> Define o conteúdo de vídeo incorporado
 
 <wbr> Define uma possível quebra de linha
-
 x
 
 
@@ -5437,7 +5381,6 @@ Número Entidade Descrição
 
 Coração negro
 Diamante negro
-
 getElementByld
 
 Em HTML, a função getElementByld é um método do objeto de documento que pode
@@ -5473,9 +5416,7 @@ as palavras-chave, o autor do documento e as configurações da viewport. Vejamo
 atributos, os valores e suas respectivas descrições.
 
 Atributo Valor Descrição
-
 charset character_set Especifica a codificação de caracteres para o
-
 documento HTML
 
 
@@ -5483,7 +5424,6 @@ documento HTML
 
 
 content text
-
 content-security-
 policy
 
@@ -5491,23 +5431,17 @@ Especifica o valor associado ao atributo http-equiv
 ou name
 
 Fornece um cabeçalho HTTP para as
-
-
 http-equiv
-
 name
-
 content-type
 default-style
 refresh
-
 application-name
 author
 description
 generator
 keywords
 viewport
-
 informações/valor do atributo de conteúdo
 
 Especifica um nome para os metadados
@@ -5634,7 +5568,6 @@ de sistemas.
 
 No HTML 5, sessionStorage pode ser utilizado para armazenamento local de dados,
 tendo como característica o armazenamento de dados restritos à aba em
-
 funcionamento.
 
 Comentários:
@@ -5657,7 +5590,6 @@ Gabarito: Errado
 Item. 4. (CESPE - APEX - 2021) E m HTML5, considerando-se o contexto de geolocalização e
 acesso ao dispositivo, para se obter retorno mais rápido e de baixa precisão sobre a
 localização de um dispositivo, deve-se
-
 a) invocar um método para o objeto PositionOptions da API com o parâmetro "0".
 
 b) configurar a função watchPosition() da API de geolocalização.
@@ -5940,15 +5872,11 @@ document.getElementByld("orova").innerHTML += x;
 
 O código html precedente, ao ser executado em um navegador de Internet, produzirá
 o seguinte resultado
-
 a) Caca52null
-
 b) nomeldadecarro
-
 c) [object Object][object Object][object Object]
 
 d) Caca+52+null
-
 e) nome+ldade+carro.
 
 Comentários:
@@ -6004,7 +5932,6 @@ pode ser, por exemplo, um post.
 
 Esse elemento, que representa um conteúdo independente e altamente relevante, é
 o
-
 a) aside.
 
 b) canvas.
@@ -6036,8 +5963,6 @@ independente de outras partes do sítio e altamente relevante. É autocontido. E
 
 
 www. estra tegiaconcursos. com. br
-
-
 comentário enviado por usuário, post de um blog, artigo de uma revista. A tag <figure>
 especifica o conteúdo independente, como ilustrações, diagramas, fotos, listagens
 de
@@ -6097,8 +6022,6 @@ inserir
 um valor antes de enviar o formulário. O atributo name é usado para dar um nome ao
 campo de entrada, que pode ser usado posteriormente para acessar o valor inserido pelo
 usuário. O botão de envio é criado usando o elemento <input type="submit">. Quando
-
-
 o usuário clica no botão, o formulário é enviado para o arquivo teste.html,
 que é
 especificado no atributo action do elemento <form>.
@@ -6483,7 +6406,6 @@ uma seção de uma página da web. Neste caso, deve ser usado dentro de um eleme
 
 <section>. Portanto a questão erra ao dizer que ele é usado exclusivamente no início
 de
-
 uma página.
 
 Gabarito: Letra D
@@ -6512,11 +6434,7 @@ os usuários entender a finalidade do controle de formulário, especialmente
 quando o
 controle de formulário tem uma finalidade não óbvia (por exemplo, uma caixa de seleção
 usada para aceitar um boletim informativo). Ajudar a melhorar a usabilidade de seus
-
-
 www. estra tegiaconcursos. com. br
-
-
 formulários, pois os usuários podem clicar no texto do rótulo para focar o controle do
 formulário. O elemento <label> é um elemento importante para a criação de formulários
 amigáveis e acessíveis, e é amplamente utilizado no desenvolvimento web moderno. A
@@ -6618,7 +6536,6 @@ Item. 35. (FCC - PGE AM - 2022) No cabeçalho de uma página HTML deseja-se indi
 navegador o conjunto de caracteres recomendado pela linguagem HTML5, que
 abrange a maioria dos caracteres e símbolos utilizados na maior parte dos idiomas,
 inclusive acentos existentes no Português. Para isso deve-se utilizar a instrução
-
 a) <meta charset="UTF-8">
 
 b) <meta charset="ISO-8959-111 >
@@ -6648,7 +6565,6 @@ Gabarito: Letra A
 Item. 36. (FCC - TRT 23 - 2022) Para criar sites responsivos usando HTML5 é aconselhável
 fornecer ao navegador instruções sobre como controlar as dimensões e a escala da
 página por meio da definição da viewport da página, utilizando o comando
-
 a) <viewport initial-scale=" 1.0" max-width=" 100%" />
 
 b) <meta name= "viewport" content="width=device-width, initial-scale=1.0">
@@ -6745,7 +6661,6 @@ Item. 37. (FCC - TRT22 - 2022) Uma Analista deseja escrever no rodapé da págin
 HTML5 "Copyright ©", sem aspas, indicando que a página possui direitos autorais.
 
 Uma das maneiras corretas de fazer isso é por meio da instrução
-
 a) <p>Copyright &copy;</p>
 
 b) <p>Copyright &szlig;</p>
@@ -6775,26 +6690,17 @@ picture" allowfullscreenx/. . .T. . . >
 
 Tal fragmento de código permite concluir que o comando HTML5 que deve ser
 utilizado na lacuna I é
-
 a) video
-
 b) movie
-
 c) media
-
 d) frame
-
 e) iframe
 
 Comentários:
 
 The <iframe> element is an HTML element that is used to embed a document within
 another document. It provides a way to display content from another webpage within the
-
-
 www. estra tegiaconcursos. com. br
-
-
 current webpage, and is commonly used to embed videos, maps, and other interactive
 content.
 
@@ -6809,13 +6715,9 @@ página. Nesse contêiner, para permitir a abertura das páginas, deve-se utiliz
 tag:
 
 a) aside
-
 b) main
-
 c) dialog
-
 d) iframe
-
 e) article
 
 Comentários:
@@ -6854,13 +6756,11 @@ Gabarito: Letra D
 
 
 Item. 40. (FCC-AFAP-2019) E m uma página HTML 5 de abertura de um site, um Analista
-
 de Informática deseja definir uma área no centro onde outras páginas HTML poderão
 ser carregadas a partir de cliques nos links do menu principal. Ao abrir a página de
 abertura, um arquivo HTML já poderá ser exibido nessa área, cujo conteúdo poderá
 mudar na medida que se clica nos links do menu. Para que seja possível o
 comportamento descrito, essa área deverá ser definida por meio da tag
-
 a) div.
 
 b) section.
@@ -6885,7 +6785,6 @@ com HTML5, um programador está usando palavras longas e está com medo do
 navegador quebrar as palavras ou linhas em locais incorretos. Para indicar os locais
 desejados para possíveis quebras de linha, quando a largura da janela do navegador
 mudar, o programador deverá usar a tag
-
 a) </br>.
 
 b) <break>.
@@ -6974,7 +6873,6 @@ utiliza elementos semânticos.
 Para inserir a legenda "Figura 1 - Foto das dependências do TRF3" na imagem, após
 
 <img src="trf.jpg" alt="TRF3"> deve-se colocar a instrução
-
 a) <label>Figura 1 - Foto das dependências do TRF3</label>
 
 b) <title>Figura 1 - Foto das dependências do TRF3</title>
@@ -7013,11 +6911,7 @@ O examinador vai dando dicas: definir algum conteúdo adicional; colocado normal
 à direita; mas relacionado com um conteúdo que o circunda colocado
 normalmente à
 esquerda. Quando o examinador diz: " mas relacionado com um conteúdo que o
-
-
 www. estra tegiaconcursos. com. br
-
-
 circunda" já se infere a tag <aside> que é o nosso gabarito. Para complementar,
 vejamos
 as demais alternativas. A tag <article> define um conteúdo independente de
@@ -7044,7 +6938,6 @@ abertura de um site, que conterá o bloco principal de links de
 navegação.
 Considerando os elementos semânticos da linguagem HTML5, estes links devem ficar
 imediatamente no interior da tag
-
 a) <mark>
 
 b) <progress>
@@ -7112,7 +7005,6 @@ HTML5 e deseja exibir um texto com fonte Courier de largura fixa, preservando os
 espaços e as quebras de linha.
 
 O texto deverá ser colocado entre as tags
-
 a) <mark> e </mark>
 
 b) <dl> e </dl>
@@ -7139,7 +7031,6 @@ Item. 49. (FCC-DPE AM - 2018) Um Técnico Programador deseja fazer um glossário
 de
 termos em um site utilizando listas de definições do HTML5. Nestas listas, o termo a
 ser descrito e a descrição propriamente dita são criados, respectivamente, pelas tags
-
 a) <dt> e <dd>
 
 b) <dd> e <tt>
@@ -7175,13 +7066,9 @@ oource src=" [nonie arquivo.extensão] " type="video/..1. .
 Considere que [nome_arquivo.extensão] representa o nome de um arquivo de vídeo
 válido. Nas últimas versões dos principais navegadores, os tipos de arquivos de vídeo
 válidos para preencher a lacuna I são
-
 a) avi, mpeg e mov
-
 b) mkv, ogg e flv
-
 c) mp4, webm e ogg
-
 d) wmv, rmvb e mp4
 
 e) mp4, avi e mov.
@@ -7215,7 +7102,6 @@ i
 
 Para fornecer um arquivo de legenda em português chamado legendajar.vtt para o vídeo
 utiliza-se, na lacuna I, o comando
-
 a) <embed src="legenda_br.vtt" lcind="tracl<" srclang="pt" label="Português">
 
 b) <subtitle src="legenda_br.vtt" kind= "text/media" srclang="pt" label = "Português">
@@ -7242,11 +7128,7 @@ Gabarito: Letra E
 Item. 52. (FCC -TRT 24 - 2017) Preocupado com a acessibilidade de um site que está
 sendo
 desenvolvido para o Tribunal Regional do Trabalho da 24a Região, um Técnico
-
-
 www. estra tegiaconcursos. com. br
-
-
 recomendou o uso de recursos da linguagem HTML, versão 5, para identificar o idioma
 principal da página. Para isso deve-se utilizar:
 
@@ -7276,7 +7158,6 @@ Item. 53. (FCC - ALMS - 2016) A viewport é a área visível do usuário de uma 
 web e
 pode variar de acordo com o dispositivo. HTML5 introduziu um método para deixar
 os web designers terem controle sobre a viewport através da tag
-
 a) <viewport>
 
 b) <meta>
@@ -7309,7 +7190,6 @@ Item. 54. (FCC - ELETROSUL - 2016) A uma página HTML5 deseja-se vincular um arq
 chamado arql.css e um arquivo chamado arq2.js.
 
 Para isso devem-se utilizar as instruções
-
 a) <link rel="stylesheet" type="file/css" src="arq1 ,css"> e <script src="arq2.js">
 
 </script> no corpo da página.
@@ -7371,7 +7251,6 @@ www. estra tegiaconcursos. com. br
 
 Para disponibilizar na página o áudio chamado beethoven.mp3 a lacuna I deve ser
 corretamente preenchida por
-
 a) <sound src="beethoven.mp3" type="mpeg/ogg/wav" play="on">
 
 b) <source target="beethoven.mp3" media_type= "sound/mpeg">
@@ -7398,7 +7277,6 @@ Item. 56. (FCC - SEMF Teresina - 2016) Em uma página HTML há um parágrafo vaz
 pela tag <p id="local"x/p>. Em um bloco JavaScript da mesma página, para
 inserir
 neste parágrafo a palavra Teresina, utiliza-se o comando
-
 a) document.getElementByld("local").innerHTML = "Teresina";
 
 b) document.getElement("p#demo").innerHTML = "Teresina";
@@ -7426,7 +7304,6 @@ Gabarito: Letra A
 
 Item. 57. (FCC-TRT 23-2016) De acordo com as recomendações da W3C para a linguagem
 HTML5, a instrução
-
 a) <meta charset="utf-8" /> está incorreta, pois tem uma barra no final.
 
 b) <!doctype html> está incorreta, pois deveria estar em letra maiúscula.
@@ -7461,7 +7338,6 @@ Item. 58. (FCC-TRF3 - 2016) Em um site que utiliza HTML5 Application Cache há u
 chamado dados.appcache que define que uma página poderá ter o conteúdo
 acessado mesmo estando offline. Nessa página, para apontar para esse arquivo deve-
 se utilizar a instrução
-
 a) <html manifest="dados.appcache">
 
 b) <cache manifest="dados.appcache">
@@ -7551,8 +7427,6 @@ d) I e III;
 
 
 www. estra tegiaconcursos. com. br
-
-
 e) II e III..
 
 Comentários:
@@ -7624,13 +7498,10 @@ document.getElementByld("TejotaT,).innerHTML
 Após a execução do código, o resultado exibido será:
 
 a) Maria
-
 b) João
-
 c) 2022.1
 
 d) Tejota
-
 e) tjProcesso
 
 Comentários:
@@ -7647,7 +7518,6 @@ na construção de páginas da Internet.
 
 O elemento HTML, que permite reproduzir um arquivo de vídeo no formato MP4 em
 uma página da web, é
-
 a) <clip>
 
 b) <embedded>
@@ -7789,7 +7659,6 @@ Item. 66. (FGV- IMBEL- 2021) Analise o trecho HTML a seguir.
 </table>
 
 Na exibição da página Web, esse script produz uma tabela
-
 a) com duas linhas e duas colunas.
 
 b) com quatro linhas e uma coluna.
@@ -7835,8 +7704,6 @@ O HTML5 apresenta novos elementos com significados específicos, como <header>,
 <footer> e <article>. Além desses, temos o <section> que representa uma seção
 da
 página da web, como um capítulo ou um tema. Dentre os novos elementos semânticos
-
-
 www. estra tegiaconcursos. com. br
 
 
@@ -7857,7 +7724,6 @@ do
 atributo depth, para uso em gráficos tridimensionais.
 
 Está correto o que se afirma em
-
 a) I, somente.
 
 b) II, somente.
@@ -7947,11 +7813,7 @@ o mouse seja movimentado sobre o botão.
 
 d) "Abrir" inicialmente, "on" quando o cursor do mouse entra na área do botão, e
 "Abrir" quando o cursor do mouse sai da área do botão, assim mudando a cada
-
-
 www. estra tegiaconcursos. com. br
-
-
 movimentação para dentro ou para fora.
 
 e) "Abrir" inicialmente, "on" quando o cursor do mouse entra na área do botão, e
@@ -7979,7 +7841,6 @@ dDoertPE html>
 <head>
 
 <script
-
 src=" https://ajax.googleapis.eom/ajax/libs/jquery/3.3.l/jq uery.minjs"
 
 ></script>
@@ -8017,8 +7878,6 @@ Assinale o valor exibido no botão após esses cliques.
 
 
 www. estra tegiaconcursos. com. br
-
-
 a) 0
 
 b) 1
@@ -8199,8 +8058,6 @@ que estão disponíveis apenas para a sessão atual da página. O botão conta o
 cliques e exibe a contagem total na página. Se você acessou a página pela primeira
 vez
 e clicou no botão três vezes, o valor da variável localStorage.clickcount seria definido
-
-
 como 4, pois começa em 1 e é incrementado em 1 toda vez que o botão é clicado. O
 valor da variável sessionStorage.clickcount também seria definido como 4, pois começa
 em 1 e é incrementado em 1 toda vez que o botão é clicado. sessionStorage -> os
@@ -8256,11 +8113,7 @@ O elemento <body> é usado para definir o conteúdo principal de um documento HT
 O atributo "bgcolor" especifica a cor de fundo da página da web. Nesse caso, o valor
 do
 atributo "bgcolor" é "black", o que tornaria a cor de fundo da página da Web preta. Os
-
-
 www. estra tegiaconcursos. com. br
-
-
 atributos "alink", "vlink" e "link" especificam as cores dos links na página
 da web. O
 atributo "alink" especifica a cor de um link quando ele é clicado. O
@@ -8530,7 +8383,6 @@ funcionamento.
 Item. 4. (CESPE-APEX-2021) Em HTML5, considerando-se o contexto de geolocalização e
 acesso ao dispositivo, para se obter retorno mais rápido e de baixa precisão sobre a
 localização de um dispositivo, deve-se
-
 a) invocar um método para o objeto PositionOptions da API com o parâmetro "0".
 
 b) configurar a função watchPosition() da API de geolocalização.
@@ -8606,8 +8458,6 @@ c) É necessário que os arquivos PHP estejam listados na sessão cache.
 
 
 www. estra tegiaconcursos. com. br
-
-
 d) Na sessão network do arquivo manifesto, devem estar relacionados os arquivos que
 precisam ser substituídos por outros no retorno da conexão.
 
@@ -8670,15 +8520,11 @@ document.getElementByld("orova").innerHTML += x;
 
 O código html precedente, ao ser executado em um navegador de Internet, produzirá
 o seguinte resultado
-
 a) Caca52null
-
 b) nomeldadecarro
-
 c) [object Object][object Object][object Object]
 
 d) Caca+52+null
-
 e) nome+ldade+carro.
 
 Item. 14. (CESPE - TJ PA - 2020) Na linguagem HTML 5, geralmente considera-se
@@ -8687,7 +8533,6 @@ pode ser, por exemplo, um post.
 
 Esse elemento, que representa um conteúdo independente e altamente relevante, é
 o
-
 a) aside.
 
 b) canvas.
@@ -8707,8 +8552,6 @@ e time são válidos como atributos de elementos de formulário, e apenas o camp
 
 
 www. estra tegiaconcursos. com. br
-
-
 ílDOCTYPE html>
 
 <html lang="pt-br">
@@ -8830,8 +8673,6 @@ d) <figcaption> captura figuras.
 
 
 www. estra tegiaconcursos. com. br
-
-
 e) <main> define a estrutura principal da linguagem C dentro da página HTML
 
 Item. 24. (CESPE - TCE-PA - 2016) Acerca dos conceitos e das técnicas
@@ -8926,8 +8767,6 @@ Portanto,
 como a questão está dizendo o oposto, nosso gabarito é: Errado.
 
 Gabarito: Errado
-
-
 www. estra tegiaconcursos. com. br
 
 
@@ -8953,7 +8792,6 @@ Item. 35. (FCC - PGE AM - 2022) No cabeçalho de uma página HTML deseja-se indi
 navegador o conjunto de caracteres recomendado pela linguagem HTML5, que
 abrange a maioria dos caracteres e símbolos utilizados na maior parte dos idiomas,
 inclusive acentos existentes no Português. Para isso deve-se utilizar a instrução
-
 a) <meta charset="UTF-8">
 
 b) cmeta charset="ISO-8959-111 >
@@ -8968,7 +8806,6 @@ Item. 36. (FCC - TRT 23 - 2022) Para criar sites responsivos usando HTML5 é
 aconselhável
 fornecer ao navegador instruções sobre como controlar as dimensões e a escala da
 página por meio da definição da viewport da página, utilizando o comando
-
 a) cviewport initial-scale=" 1.0" max-width=" 100%" />
 
 b) cmeta name= "viewport" content="width=device-width, initial-scale=1.0">
@@ -8982,7 +8819,6 @@ Item. 37. (FCC - TRT22 - 2022) Uma Analista deseja escrever no rodapé da págin
 HTML5 "Copyright ©", sem aspas, indicando que a página possui direitos autorais.
 
 Uma das maneiras corretas de fazer isso é por meio da instrução
-
 a) cp>Copyright &copy;c/p>
 
 b) cp>Copyright &szlig;c/p>
@@ -9010,15 +8846,10 @@ picture" allowfullscreenx/.. .T... >
 
 Tal fragmento de código permite concluir que o comando HTML5 que deve ser
 utilizado na lacuna I é
-
 a) video
-
 b) movie
-
 c) media
-
 d) frame
-
 e) iframe
 
 Item. 39. (FCC-TJ MA-2019) Um Analista que está desenvolvendo a página de
@@ -9030,13 +8861,9 @@ página. Nesse contêiner, para permitir a abertura das páginas, deve-se utiliz
 tag:
 
 a) aside
-
 b) main
-
 c) dialog
-
 d) iframe
-
 e) article
 
 Item. 40. (FCC - AFAP - 2019) Em uma página HTML 5 de abertura de um site, um Analista
@@ -9045,7 +8872,6 @@ ser carregadas a partir de cliques nos links do menu principal. Ao abrir a pági
 abertura, um arquivo HTML já poderá ser exibido nessa área, cujo conteúdo poderá
 mudar na medida que se clica nos links do menu. Para que seja possível o
 comportamento descrito, essa área deverá ser definida por meio da tag
-
 a) div.
 
 b) section.
@@ -9065,7 +8891,6 @@ com HTML5, um programador está usando palavras longas e está com medo do
 navegador quebrar as palavras ou linhas em locais incorretos. Para indicar os locais
 desejados para possíveis quebras de linha, quando a largura da janela do navegador
 mudar, o programador deverá usar a tag
-
 a) </br>.
 
 b) <break>.
@@ -9124,7 +8949,6 @@ utiliza elementos semânticos.
 Para inserir a legenda "Figura 1 - Foto das dependências do TRF3" na imagem, após
 
 <img src="trf.jpg" alt="TRF3"> deve-se colocar a instrução
-
 a) <label>Figura 1 - Foto das dependências do TRF3</label>
 
 b) <title>Figura 1 - Foto das dependências do TRF3</title>
@@ -9156,7 +8980,6 @@ abertura de um site, que conterá o bloco principal de links de
 navegação.
 Considerando os elementos semânticos da linguagem HTML5, estes links devem ficar
 imediatamente no interior da tag
-
 a) <mark>
 
 b) <progress>
@@ -9172,11 +8995,7 @@ uma
 instrução no cabeçalho de uma página HTML que fará referência a um arquivo
 chamado aOOI.css a ser aplicado apenas quando a página for aberta em dispositivos
 com tela de até 600 pixels. A instrução correta que deverá ser inserida é
-
-
 www. estra tegiaconcursos. com. br
-
-
 a) <@import URL(a001 .css) only screen and (max-width: 600px)>
 
 b) <link rel="media" device="only screen with (max-width: 600px)" href="aOO1 ,css">
@@ -9192,7 +9011,6 @@ HTML5 e deseja exibir um texto com fonte Courier de largura fixa, preservando os
 espaços e as quebras de linha.
 
 O texto deverá ser colocado entre as tags
-
 a) <mark> e </mark>
 
 b) <dl> e </dl>
@@ -9207,7 +9025,6 @@ Item. 49. (FCC-DPE AM - 2018) Um Técnico Programador deseja fazer um glossário
 de
 termos em um site utilizando listas de definições do HTML5. Nestas listas, o termo a
 ser descrito e a descrição propriamente dita são criados, respectivamente, pelas tags
-
 a) <dt> e <dd>
 
 b) <dd> e <tt>
@@ -9231,17 +9048,10 @@ local da página HTML5 onde deseja colocar o vídeo, utilizou o bloco de código
 Considere que [nome_arquivo.extensão] representa o nome de um arquivo de vídeo
 válido. Nas últimas versões dos principais navegadores, os tipos de arquivos de vídeo
 válidos para preencher a lacuna I são
-
 a) avi, mpeg e mov
-
-
 www. estra tegiaconcursos. com. br
-
-
 b) mkv, ogg e flv
-
 c) mp4, webm e ogg
-
 d) wmv, rmvb e mp4
 
 e) mp4, avi e mov.
@@ -9263,7 +9073,6 @@ j
 
 Para fornecer um arquivo de legenda em português chamado legenda_br.vtt para o vídeo
 utiliza-se, na lacuna I, o comando
-
 a) <embed src="legenda_br.vtt" lcind="tracl<" srclang="pt" label="Português">
 
 b) <subtitle src="legenda_br.vtt" kind= "text/media" srclang="pt" label = "Português">
@@ -9300,7 +9109,6 @@ Item. 53. (FCC - ALMS - 2016) A viewport é a área visível do usuário de uma 
 web e
 pode variar de acordo com o dispositivo. HTML5 introduziu um método para deixar
 os web designers terem controle sobre a viewport através da tag
-
 a) <viewport>
 
 b) <meta>
@@ -9315,7 +9123,6 @@ Item. 54. (FCC - ELETROSUL - 2016) A uma página HTML5 deseja-se vincular um arq
 chamado arql.css e um arquivo chamado arq2.js.
 
 Para isso devem-se utilizar as instruções
-
 a) <link rel="stylesheet" type="file/css" src="arq1 ,css"> e <script src="arq2.js">
 
 </script> no corpo da página.
@@ -9348,7 +9155,6 @@ Item. 55. (FCC - ALMS - 2016) Considere o fragmento de código HTML5 a seguir.
 
 Para disponibilizar na página o áudio chamado beethoven.mp3 a lacuna I deve ser
 corretamente preenchida por
-
 a) <sound src="beethoven.mp3" type="mpeg/ogg/wav" play="on">
 
 b) <source target="beethoven.mp3" media_type= "sound/mpeg">
@@ -9359,15 +9165,12 @@ d) <sound source="beethoven.mp3" media="audio/mp3">
 
 
 www. estra tegiaconcursos. com. br
-
-
 e) <source src="beethoven.mp3" media = "sound/mpeg" play="on">
 
 Item. 56. (FCC - SEMF Teresina - 2016) E m uma página HTML há um parágrafo vazio criado
 pela tag <p id="local"x/p>. Em um bloco JavaScript da mesma página, para
 inserir
 neste parágrafo a palavra Teresina, utiliza-se o comando
-
 a) document.getElementByld("local").innerHTML = "Teresina";
 
 b) document.getElement("p#demo").innerHTML = "Teresina";
@@ -9380,7 +9183,6 @@ e) document.getElementByName("local").innerHTML = "Teresina";
 
 Item. 57. (FCC-TRT 23-2016) De acordo com as recomendações da W3C para a linguagem
 HTML5, a instrução
-
 a) <meta charset= "utf-8" /> está incorreta, pois tem uma barra no final.
 
 b) <!doctype html> está incorreta, pois deveria estar em letra maiúscula.
@@ -9397,7 +9199,6 @@ Item. 58. (FCC-TRF3 - 2016) Em um site que utiliza HTML5 Application Cache há u
 chamado dados.appcache que define que uma página poderá ter o conteúdo
 acessado mesmo estando offline. Nessa página, para apontar para esse arquivo deve-
 se utilizar a instrução
-
 a) <html manifest="dados.appcache">
 
 b) <cache manifest="dados.appcache">
@@ -9492,13 +9293,10 @@ document.getElementByld("TejotaT,).innerHTML
 Após a execução do código, o resultado exibido será:
 
 a) Maria
-
 b) João
-
 c) 2022.1
 
 d) Tejota
-
 e) tjProcesso
 
 Item. 63. (FGV -Sefaz AM - 2022) A linguagem de marcação HTML é amplamente utilizada
@@ -9506,7 +9304,6 @@ na construção de páginas da Internet.
 
 O elemento HTML, que permite reproduzir um arquivo de vídeo no formato MP4 em
 uma página da web, é
-
 a) <clip>
 
 b) <embedded>
@@ -9521,8 +9318,6 @@ Item. 64. (FGV-IMBEL-2021) Analise a imagem a seguir, produzida numa página Web
 
 
 www. estra tegiaconcursos. com. br
-
-
 lilJLJ
 
 3 tllÇ
@@ -9605,7 +9400,6 @@ Item. 66. (FGV- IMBEL- 2021) Analise o trecho HTML a seguir.
 </table>
 
 Na exibição da página Web, esse script produz uma tabela
-
 a) com duas linhas e duas colunas.
 
 b) com quatro linhas e uma coluna.
@@ -9643,11 +9437,7 @@ do
 atributo depth, para uso em gráficos tridimensionais.
 
 Está correto o que se afirma em
-
-
 www. estra tegiaconcursos. com. br
-
-
 a) I, somente.
 
 b) II, somente.
@@ -9757,8 +9547,6 @@ um determinado texto deve ser apresentado sublinhado é:
 
 
 www. estra tegiaconcursos. com. br
-
-
 a) <bx/b>
 
 b) <sx/s>
@@ -9887,8 +9675,6 @@ d) azul e verde;
 
 
 www. estra tegiaconcursos. com. br
-
-
 e) preta e amarela.
 
 Item. 76. (FGV -MPE BA - 2017) A HTML é uma linguagem de marcação utilizada na
@@ -9940,8 +9726,6 @@ em meio eletrônico;
 
 
 www. estra tegiaconcursos. com. br
-
-
 d) definir as ligações entre diferentes documentos a partir de
 palavras-chave
 específicas;
@@ -10018,8 +9802,6 @@ e) <!DOCTYPE XML PUBLIC "-//W3C//DTD HTML 5.0">
 
 
 GABARITo
-
-
 í. Errado
 
 Item. 2. Correto

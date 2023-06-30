@@ -104,6 +104,28 @@ def adjust_only_dots(text):
     return result
 
 
+def adjust_broken(text):
+    i = 0
+    result = []
+    while i < len(text):
+        line = text[i]
+        test = line.strip()
+        if test != "":
+            if test[-1].islower():
+                j = i + 1
+                while j < len(text):
+                    test_next = text[j].strip()
+                    if test_next != "":
+                        if test_next[0].islower():
+                            diff = (j - 1) - i
+                            i += diff
+                        break
+                    j += 1
+        result.append(line)
+        i += 1
+    return result
+
+
 def list_paths():
     return [p for p in os.listdir('.') if p[-4:] == '.txt']
 
@@ -121,6 +143,7 @@ def adjust_text(text, path):
     text = adjust_chars(text)
     text = adjust_items(text)
     text = adjust_lost_numbers(text)
+    text = adjust_broken(text)
     return text
 
 

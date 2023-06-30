@@ -185,13 +185,11 @@ aplicando o algoritmo
 de forma contínua.
 
 Identificação de Dados Criptografados
-
 a. Criptoanálise
 
 A criptoanálise tem foco no entendimento de como funciona o algoritmo de
 criptografia. Desse
 modo, a realização da criptoanálise depende da quantidade
-
 de informações que se tem à disposição e quão possível é manipulá-las.
 
 A partir daí, podemos elencar cincos tipos de ataques, que recorrentemente caem em
@@ -414,9 +412,7 @@ Confidencialidade
 
 
 Regina
-
 com chave pública
-
 com chave privada
 Brenno
 
@@ -431,7 +427,6 @@ Documento
 
 Chave
 Jirivada
-
 e Breno
 
 Algoritmo criptográfico
@@ -458,7 +453,6 @@ Autenticidade
 
 
 Brenno
-
 com chave privada com chave pública
 Regina
 
@@ -476,7 +470,6 @@ Criptografia
 Assimétrica
 
 Substituição
-
 k J
 
 r i
@@ -669,8 +662,6 @@ Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 * Informações sobre o algoritmo assimétrico da chave pública do usuário;
 
 Chave simétrica Chave simétrica
-
-
 pública de B
 
 Chave pnv
@@ -849,16 +840,12 @@ Item. 10. MELHORIA;
 Estrutura da Norma:
 
 Item. 1. Políticas de segurança da informação
-
 a. Orientação da Direção para segurança da informação
 1.Políticas para segurança da Informação
-
 ii. Análise crítica das políticas para Segurança da Informação;
 
 Item. 2. Organização da Segurança da Informação
-
 a. Organização Interna
-
 i. Responsabilidades e papéis pela Segurança da Informação;
 
 ii. Segregação de Funções;
@@ -870,37 +857,26 @@ iv. Contato com grupos Especiais;
 v. Segurança da Informação no gerenciamento de projetos;
 
 b. Dispositivos móveis e trabalho remoto
-
 i. Política para uso de dispositivo móvel
-
 ii. Trabalho Remoto
 
 Item. 3. Segurança em Recursos Humanos
-
 a. Antes da Contratação
-
 i. Seleção
-
 ii. Termos e Condições de Contratação;
 
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
-
 b. Durante a Contratação
-
 i. Responsabilidades da Direção
-
 ii. Conscientização, educação e treinamento em segurança da informação;
 
 iii. Processo disciplinar;
 
 c. Encerramento e mudança da contratação
-
 i. Responsabilidades pelo encerramento ou mudança da contratação;
 
 Item. 4. Gestão de Ativos
-
 a. Responsabilidade pelos ativos (OBJETIVO: Identificar os ativos da organização e
 definir as devidas
 responsabilidades pela proteção dos ativos.)
@@ -968,266 +944,151 @@ informações sejam
 protegidas contra acesso não autorizado, uso impróprio ou corrupção, durante o transporte.)
 
 Item. 5. Controle de Acesso
-
 a. Requisitos do negócio para controle de acesso
-
 i. Política de controle de acesso
-
 ii. Acesso às redes e aos serviços de rede
-
 b. Gerenciamento de acesso do usuário
 
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
-
 i. Registro e cancelamento de usuário
-
 ii. Provisionamento para acesso de usuário
-
 iii. Gerenciamento de direitos de acesso privilegiados
-
 iv. Gerenciamento da informação de autenticação secreta de usuários
-
 v. Análise crítica dos direitos de acesso de usuário
-
 vi. Retirada ou ajuste dos direitos de acesso
-
 c. Responsabilidades dos usuários
-
 i. Uso da informação de autenticação secreta
-
 d. Controle de acesso ao sistema e à aplicação
-
 i. Restrição de acesso à informação
-
 ii. Procedimentos seguros de entrada no sistema (log-on)
 
 iii. Sistema de Gerenciamento de senha
-
 iv. Uso de programas utilitários privilegiados
-
 v. Controle de acesso ao código-fonte de programas
 
 Item. 6. Criptografia
-
 a. Controles criptográficos
-
 i. Política para o uso de controles criptográficos
-
 ii. Gerenciamento de chaves
 
 Item. 7. Segurança física e do ambiente
-
 a. Áreas Seguras
-
 i. Perímetro de segurança física
-
 ii. Controles de entrada física
-
 iii. Segurança em escritórios, salas e instalações
-
 iv. Proteção contra ameaças externas e do meio ambiente
-
 v. Trabalhando em áreas seguras
-
 vi. Áreas de entrega e de carregamento
-
 b. Equipamento
-
 i. Localização e proteção do equipamento
-
 ii. Utilidades
-
 iii. Segurança do cabeamento
-
 iv. Manutenção dos equipamentos
-
 v. Remoção de ativos
-
 vi. Segurança de equipamentos e ativos fora das dependências da organização
-
 vii. Reutilização ou descarte seguro de equipamentos
-
 viii. Equipamento de usuário sem monitoração
-
 ix. Política de mesa limpa e tela limpa
 
 Item. 8. Segurança nas operações
-
 a. Responsabilidades e procedimentos operacionais
-
 i. Documentação dos procedimentos de operação
-
 ii. Gestão de mudanças
-
 iii. Gestão de capacidade
-
 iv. Separação dos ambientes de desenvolvimento, teste e produção
-
 b. Proteção contra malware
-
 i. Controles contra malware
 
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
-
 c. Cópias de Segurança
-
 i. Cópias de segurança das informações
-
 d. Registros e monitoramento
-
 i. Registros de eventos
-
 ii. Proteção das informações dos registros de eventos (logs)
 
 iii. Registros de eventos (log) de administrador e operador
-
 iv. Sincronização dos relógios
-
 e. Controle de software operacional
-
 i. Instalação de software nos sistemas operacionais
-
 f. Gestão de vulnerabilidades técnicas
-
 i. Gestão de vulnerabilidades técnicas
-
 ii. Restrições quanto à instalação de software
-
 g. Considerações quanto à auditoria de sistemas da informação
-
 i. Controles de auditoria de sistemas de informação
 
 Item. 9. Segurança das comunicações
-
 a. Gerenciamento da segurança em redes
-
 i. Controles de redes
-
 ii. Segurança dos serviços de rede
-
 iii. Segregação de redes
-
 b. Transferência de informação
-
 i. Políticas e procedimentos para transferência de informações
-
 ii. Acordos para transferência de informações
-
 iii. Mensagens eletrônicas
-
 iv. Acordos de confidencialidade e não divulgação
 
 Item. 10. Aquisição, Desenvolvimento e Manutenção de Sistemas
-
 a. Requisitos de Segurança de sistemas de informação
-
 i. Análise e especificação dos requisitos de segurança da informação
 11.Serviços de aplicação seguros em redes públicas
-
 iii. Protegendo as transações nos aplicativos de serviços
-
 b. Segurança em processos de desenvolvimento e de suporte
-
 i. Política de desenvolvimento seguro
-
 ii. Procedimentos para controle de mudanças de sistemas
-
 iii. Análise crítica técnica das aplicações após mudanças nas plataformas
 operacionais
-
 iv. Restrições sobre mudanças em pacotes de software
-
 v. Princípios para projetar sistemas seguros
-
 vi. Ambiente seguro para desenvolvimento
-
 vii. Desenvolvimento terceirizado
-
 viii. Teste de segurança do sistema
-
 ix. Teste de aceitação de sistemas
-
 c. Dados para teste
-
 i. Proteção dos dados para teste
 
 Item. 11. Relacionamento na Cadeia de Suprimento
-
 a. Segurança da informação na cadeia de suprimento
 
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
-
 i. Política de segurança da informação no relacionamento com os fornecedores
-
 ii. Identificando segurança da informação nos acordos com fornecedores
-
 iii. Cadeia de suprimento na tecnologia da informação e comunicação
-
 b. Gerenciamento da entrega do serviço do fornecedor
-
 i. Monitoramento e análise crítica de serviços com fornecedores
-
 ii. Gerenciamento de mudanças para serviços com fornecedores
 
 Item. 12. Gestão de Incidentes de Segurança da Informação
-
 a. Gestão de incidentes de segurança da informação e melhorias
-
 i. Responsabilidades e procedimentos
-
 ii. Notificação de eventos de segurança da informação
-
 iii. Notificando fragilidades de segurança da informação
-
 iv. Avaliação e decisão dos eventos de segurança da informação
-
 v. Resposta aos incidentes de segurança da informação
-
 vi. Aprendendo com os incidentes de segurança da informação
-
 vii. Coleta de evidências
 
 Item. 13. Aspectos da Segurança da Informação na Gestão da Continuidade do Negócio
-
 a. Continuidade da Segurança da Informação
-
 i. Planejando a continuidade da segurança da informação
-
 ii. Implementando a continuidade da segurança da informação
-
 iii. Verificação, análise crítica e avaliação da continuidade da segurança da
 informação
-
 b. Redundâncias
-
 i. Disponibilidade dos recursos de processamento da informação
 
 Item. 14. Conformidade
-
 a. Conformidade com requisitos legais e contratuais
-
 i. Identificação da legislação aplicável e de requisitos contratuais
-
 ii. Direitos de propriedade intelectual
-
 iii. Proteção de registros
-
 iv. Proteção e privacidade de informações de identificação pessoal
-
 v. Regulamentação de controles de criptografia
-
 b. Análise crítica da segurança da informação
-
 i. Análise crítica independente da segurança da informação
-
 ii. Conformidade com as políticas e procedimentos de segurança da informação
-
 iii. Análise crítica da conformidade técnica
 
 

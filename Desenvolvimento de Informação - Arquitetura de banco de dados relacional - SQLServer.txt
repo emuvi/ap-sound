@@ -171,7 +171,6 @@ estatísticas; Atualização de
 Estatísticas Automáticas
 Melhoradapara Estatísticas
 Incrementais
-
 processador em sys.dm_os_sys_info;
 nformações modificadas de extensão
 em sys.dm_db_file_space_usage;
@@ -205,7 +204,6 @@ SQL Server 2017
 Assemblies CLR podem ser adicionados a uma lista de desbloqueio;
 Recriação de índice online recuperável; Opção IDENTITY_CACHE para
 ALTER DATABASE SCOPED CONFIGURATION; nova geração de
-
 processamento de consultas; Ajuste automático de banco de dados; Novo
 gráfico de recursos de banco de dados; opção sp_configure para aprimorar
 a segurança de assemblies CLR; instalação agora permite especificar o
@@ -579,7 +577,6 @@ Baixar o Assistente de Migração do SQL Server (SSMA)
 MySQL, DB2 e Access para o SQL Server, Banco de dados SQL
 do Microsoft Azure ou SQL Data Warehouse do Microsoft Azure. O SSMA automatiza todos os aspectos da
 migração, incluindo a análise de avaliação de
-
 migração, o esquema e a conversão de instrução SQL, a migração de dados e o teste da migração.
 
 Como aplicar atualizações de SQL Server
@@ -694,7 +691,6 @@ t***> Spoce ítequremenK
 Swvr CMnjuatixi
 
 Detobece tngne Cor/t^Lrebon
-
 tnstance ID
 
 Untance root «Uectory
@@ -1046,8 +1042,6 @@ dois modos de autenticação, SQL e Windows.
 
 Como administrador, você é capaz de configurar a segurança do SQL Server em vários níveis. Usando
 T-SQL ou SQL Server Management Studio, você pode controlar o acesso a uma determinada
-
-
 instância do SQL Server a uma base de dados específica, para objetos dentro desses
 bancos de
 dados, e até mesmo para colunas dentro de uma tabela particular.
@@ -1090,7 +1084,6 @@ lnfraestrutura/2010
 
 Um ambiente integrado para acessar, configurar, gerenciar, administrar e desenvolver todos
 os componentes do SQL Server 2005 é o
-
 a) Microsoft Office System.
 
 b) Tools and Utilities Documentation.
@@ -1116,10 +1109,7 @@ Manager, incluídos em versões anteriores do SQL Server, em um único ambiente.
 disso,
 o SSMS funciona com todos os componentes do SQL Server, tais como o Reporting
 Services e
-
 o Integration Services. Desenvolvedores terão uma experiência familiar e os administradores
-
-
 de banco de dados terão um único utilitário abrangente que combina ferramentas gráficas
 fáceis de usar com sofisticadas capacidades de script.
 
@@ -1176,9 +1166,7 @@ Ambos os tipos de replicação de dados movimentam
 as informações em um único sentido. Mas, e se você
 precisa de uma movimentação bidirecional? Por
 exemplo, suponha que você tem usuários móveis que
-
 trabalham offline. Enquanto eles estiverem off-line, eles
-
 entram informações em um banco de dados locais que residem em uma réplica da
 instância do SQL
 Server em execução em seus laptops. O que acontece quando eles retornam para o
@@ -1265,8 +1253,6 @@ deve criar e configurar um cluster de failover do Windows Server.
 Database Mirroring - Antecessor do AlwaysOn, o espelhamento de banco de dados fornece
 alta
 disponibilidade no nível do banco de dados. Ele mantém duas cópias do banco de dados em
-
-
 instâncias do SQL Server rodando em servidores separados. Normalmente, os
 servidores estão
 hospedados em locais geográficos distintos, não só assegurando HA, mas também fornecendo
@@ -1430,7 +1416,6 @@ B J Databases
 I±I System Databases
 ffi Database Snapshots
 S IJ AdventureWorks
-
 ffi LJ Database Diagrams
 GB Tables
 
@@ -1556,7 +1541,6 @@ informações:
 
 select t.TABLE_NAME, c.COLUMNNAME
 from INFORMATION-SCHEMA.TABLES t
-
 join INFORMATION-SCHEMA.COLUMNS C on t.TABLE_NAME - c.TABLE_NAME
 order by t.TABLENAME, 0RDINAL_P0SITI0N
 
@@ -1594,7 +1578,6 @@ informações mais importantes sobre objetos dentro da instância do SQL Server,
 seguinte: Databases, AlwaysON, Database mirroring, Configurations, Logins,
 Resource
 Governor e Endpoints
-
 tempdb - O banco de dados tempdb é um playground global para objetos temporários
 criados pelos processos internos que executam no SQL Server e objetos temporários que
 são criados por usuários ou aplicativos. Esses objetos incluem tabelas
@@ -1654,7 +1637,6 @@ Item. 3. Técnico Judiciário (TRT 9^ Região)/Apoio Especializado/Tecnologia da
 
 A automatização de administração em várias instâncias do banco de dados SQL Server é
 chamada administração multisservidor. A administração multisservidor é utilizada
-
 a) exclusivamente para gerenciar dois ou mais servidores.
 
 b) como o único recurso oferecido pelo SQL Server para gerenciamento de servidores.
@@ -1775,8 +1757,6 @@ i Comentário: É possível obter mais espaço aumentando o arquivo de log exist
 houver
 espaço em disco) ou adicionando um arquivo de log ao banco de dados, geralmente em um
 disco diferente. Um arquivo de log de transações é suficiente, a menos que o espaço de log
-
-
 esteja se esgotando e o espaço em disco também esteja se esgotando no volume que contém
 o arquivo de log.
 
@@ -2021,7 +2001,6 @@ dados ou baixar e anexar o VHD.
 Item. 5. Analista Judiciário (TRE MS)/Apoio Especializado/Análise de Sistemas/2013
 
 No Sql Server, um becape
-
 a) de arquivo agrega um ou mais arquivos ou grupos de arquivos de banco de dados.
 
 b) parcial agrega dados que ainda não foram afetados por COMMIT, tanto de dados quanto de
@@ -2143,13 +2122,11 @@ ESQUEMATIZANDO
 
 
 Data Type
-
 bigint
 int
 smallint
 tinyint
 money
-
 smallmoney
 
 Range
@@ -2335,7 +2312,6 @@ smalldatetime é 4/1/2015 21:15:04 em portanto, pode ser armazenados usando este
 dados.
 
 Vejam que esse assunto já foi questão de prova
-
 datetime Este tipo de dados é semelhante ao smalldatetime, mas oferece um intervalo de
 datas
 maior e uma maior precisão com relação ao tempo. Ele oferece a mesma gama data que o parâmetro
@@ -2369,7 +2345,6 @@ Um novo tipo de dado introduzido no MS-SQL SERVER 2008 possibilita o controle de
 horários e deve ser preenchido com um dos padrões estabelecidos pela ISO 8601. Este
 novo
 campo é o
-
 a) jetleg.
 
 b) isodate.
@@ -2738,7 +2713,6 @@ Title
 SSN
 
 Salary
-
 varchar(25)
 varchar(25)
 varchar(ll)
@@ -2753,7 +2727,6 @@ NOT NULL,
 
 
 PriorSalary
-
 money
 
 NOT NULL,
@@ -2949,7 +2922,6 @@ Vamos agora observar a criação de algumas restrições utilizando o comando
 ALTER TABLE.
 Começando pela restrição de chave primária, observem que o comando solicita que você
 defina um
-
 nome para a constraint, neste caso denominada PK_Employees.
 
 f "S
@@ -2986,8 +2958,6 @@ ADD CONSTRAINT FK_EmployeeCreatesOrder
 Restrições UNIQUE é, essencialmente, o irmão mais novo de chaves primárias que eles
 exigem um
 valor único para toda a coluna (ou combinação de colunas) na tabela. Muitas vezes você vai ouvir
-
-
 restrições UNIQUE referidas chaves como alternativas. As principais diferenças são que
 eles não são
 considerados para ser o identificador original de um registro em uma tabela (embora
@@ -3056,7 +3026,6 @@ NumerolInidadeOrigemProcesso - inteiro (FK)
 Após criar a tabela Processo no Sistema Gerenciador de Banco de Dados SQL Server, para
 definir uma restrição que especifica que o campo AnoProcesso só poderá receber números
 inteiros maiores do que 2014, o Técnico deve utilizar a instrução
-
 a) ADD CONSTRAINT Processo CHECK (AnoProcesso>2014);
 
 b) ALTER TABLE Processo ADD CHECK (AnoProcesso>2014);
@@ -3521,8 +3490,6 @@ O CoMANDo TRUNCATE TABLE
 Remove todas as linhas de uma tabela ou partições especificadas de uma tabela sem
 registrar as
 exclusões de linha individual. TRUNCATE TABLE é semelhante à instrução DELETE sem nenhuma
-
-
 cláusula WHERE; entretanto, TRUNCATE TABLE é mais rápida e utiliza menos recursos de
 sistema e
 log de transações. Sintaxe:
@@ -3766,8 +3733,6 @@ Dados/2014
 No SQL Server 2012, os gatilhos DDL são disparados em resposta a diversos eventos DDL. Esses
 eventos correspondem principalmente as instruções Transact-SQL que começam com algumas
 palavras-chave como
-
-
 a) INSERTe DELETE.
 
 b) UPDATE e INSERT.
@@ -4057,7 +4022,6 @@ No que se refere a tecnologia e arquitetura de banco de dados, julgue o próximo
 
 
 No MSSQL Server 2014, o recurso AlwaysOn é uma solução de alta disponibilidade e de
-
 recuperação de desastres que fornece uma alternativa, em nível corporativo, para o
 espelhamento de bancos de dados, a partir do gerenciamento de réplicas de bancos de dados.
 
@@ -4112,12 +4076,10 @@ Oracle, julgue os itens a seguir.
 Uma das principais novidades do Microsoft SQL Server 2014 é o recurso OLTP na memória (ln-
 memory OLTP), o qual permite melhorar significativamente o desempenho de sistemas com
 processamento de transações on-line e data warehousing. A única maneira de remover um grupo
-
 de arquivos com otimização de memória é descartar o banco de dados.
 
 **
 * i
-
 j Comentário: O OLTP in-memory é a principal tecnologia disponível no SQL Server e Banco de i
 
 : Dados SQL para otimizar o desempenho do processamento de transações, ingestão de dados, :
@@ -4327,8 +4289,6 @@ ordem lógica dos
 valores da chave determina a ordem física das linhas correspondentes em uma tabela.
 
 r
-
-
 j
 
 Comentário: O argumento CLUSTERED cria um índice no qual a ordem lógica dos valores de
@@ -4385,7 +4345,6 @@ Especializado/Análise de
 Sistemas/2013
 
 No Sql Server, um becape
-
 a) de arquivo agrega um ou mais arquivos ou grupos de arquivos de banco de dados.
 
 b) parcial agrega dados que ainda não foram afetados por COMMIT, tanto de
@@ -4694,7 +4653,6 @@ trabalho, pode
 recomendar a adição, remoção ou modificação de estruturas de design físicas em bancos
 de
 dados é denominada
-
 a) SQL Server Studio.
 
 b) SQL Server Admin.
@@ -4767,7 +4725,6 @@ A respeito de configuração e administração de bancos de dados, julgue os ite
 apenas uma cópia das
 ferramentas de gerenciamento, independentemente da quantidade de instâncias
 do SQL Server
-
 instaladas na máquina.
 
 
@@ -4887,7 +4844,6 @@ i para o MySQL MariaDB é construído por alguns dos autores originais do
 MySQL, com a ajuda da
 grande comunidade de desenvolvedores de software livre e software de
 código aberto. Além das
-
 i funcionalidades básicas do MySQL, MariaDB oferece um rico conjunto
 de aprimoramentos de
 
@@ -5255,7 +5211,6 @@ chamado vendas para um disco cujo caminho é definido por
 formatando a mídia e comprimindo o banco de dados, utilizando Transact-SQL.
 Para isso, terá
 que utilizar o comando
-
 a) RMAN DATABASE vendas to 'Z:\servidor_backup\vendas.bak'
 WITH FORMAT,
 COMPRESSION;
@@ -5404,8 +5359,6 @@ relatórios
 de matriz (como relatórios de tabela de referência cruzada ou de Tabela Dinâmica) para
 dados
 resumidos, relatórios de gráficos para dados geográficos e relatórios de formato livre para
-
-
 qualquer outra finalidade. Os relatórios podem ser inseridos em outros relatórios e
 gráficos,
 junto com listas, gráficos e controles para aplicativos dinâmicos baseados na Web.
@@ -5454,16 +5407,10 @@ Item. 19. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de
 O comando do Transact SQL do Microsoft SQL Server 2008 para criar um sinônimo,
 atribuindo
 a denominação 'teste' à tabela 'primeiros_programas', do banco de dados 'primeiro_db' é
-
 a) SYNONYM teste EQUAL primeiro_db.primeiros_programas
-
 b) CREATE SYNONYM teste FOR primeiro_db.primeiros_programas
-
 c) SYNONYM teste <- primeiro_db.primeiros_programas
-
 d) DESCRIBE SYNONYM teste FOR EACH primeiro_db.primeiros_programas
-
-
 e) MAKE SYNONYM teste OF primeiro_db.primeiros_programas
 
 Comentário: A instrução CREATE SYNONYM (Transact-SQL) cria um novo sinônimo. Veja a
@@ -5492,7 +5439,6 @@ Item. 20. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de
 
 O comando do Transact SQL do Microsoft SQL Server 2008 para atualizar o valor de 20
 registros, da coluna 'taxa', da tabela 'Blue', dividindo por 2 o valor dessa coluna 'taxa' é
-
 a) UPDATE MOST(20) Blue
 MAKE taxa = taxa/2
 
@@ -5578,7 +5524,6 @@ Item. 21. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de
 
 No sistema gerenciador de banco de dados Microsoft SQL Server 2008, por meio da função
 sys.dm_index_physical_stats é possível verificar
-
 a) o número total de tabelas do banco de dados.
 
 b) a quantidade máxima de usuários simultâneos no banco de dados.
@@ -5597,7 +5542,6 @@ de texto
 completo ou semântico associado.
 
 Nome da coluna Descrição
-
 objectjd INT ID do objeto da
 tabela que contém o
 índice.
@@ -5608,12 +5552,10 @@ número de páginas de índice.
 
 keyphrase index page count bigint Tamanho lógico da extração
 em
-
 número de páginas de índice.
 
 
 similarityjndex page count
-
 bigint
 
 Tamanho lógico da extração em
@@ -5704,7 +5646,6 @@ ser exibidas no SQL Server UCP incluem:
 - Volumes de armazenamento.
 
 Este recurso do SQL Server é chamado de
-
 a) SQL Entity Manager.
 
 b) UCP Manager.
@@ -5749,7 +5690,6 @@ Item. 24. FCC - Agente de Defensoria Pública (DPE SP)/Analista de Sistemas/2013
 Uma das funções disponíveis no sistema gerenciador de bancos de dados Microsoft SQL
 Server
 2008 é @@CONNECTIONS. O resultado da aplicação dessa função é a obtenção
-
 a) do número de acessos autorizados, desde quando o SQL Server foi iniciado pela última vez.
 
 b) do número de tentativas de conexão bem ou mal sucedidas, desde quando o SQL
@@ -5821,7 +5761,6 @@ trabalho, pode
 recomendar a adição, remoção ou modificação de estruturas de design físicas em bancos
 de
 dados é denominada
-
 a) SQL Server Studio.
 
 b) SQL Server Admin.
@@ -5838,8 +5777,6 @@ Microsoft analisa bancos de dados e faz recomendações que você pode usar para
 desempenho de consulta. Você pode usar o Orientador de Otimização do Mecanismo de Banco
 de Dados para selecionar e criar um conjunto ideal de índices, exibições indexadas e
 partições
-
-
 de tabela sem precisar de conhecimentos avançados sobre a estrutura do banco de dados
 ou
 dos recursos internos do SQL Server. Com o DTA, é possível executar as tarefas a seguir.
@@ -6080,7 +6017,6 @@ ConnectT
 □ IjJ (loa!) (SQL S
 
 Query J Project Debug SQL Prompt 5 Tools Window Cor
-
 í
 
 
@@ -6513,7 +6449,6 @@ Address table,
 by using the Employee and BusinessEntityAddress tables in the
 middle to
 get a list of all the employees in the AdventureWorks2012 database
-
 and their contact information.
 
 */
@@ -7129,7 +7064,6 @@ chamado vendas para um disco cujo caminho é definido por 'Z:\servidor_backup\ve
 formatando a mídia e comprimindo o banco de dados, utilizando Transact-SQL. Para isso,
 terá
 que utilizar o comando
-
 a) RMAN DATABASE vendas to 'Z:\servidor_backup\vendas.bak' WITH
 FORMAT,
 COMPRESSION;
@@ -7201,23 +7135,16 @@ Item. 19. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de
 O comando do Transact SQL do Microsoft SQL Server 2008 para criar um sinônimo,
 atribuindo
 a denominação 'teste' à tabela 'primeiros_programas', do banco de dados 'primeiro_db' é
-
 a) SYNONYM teste EQUAL primeiro_db.primeiros_programas
-
-
 b) CREATE SYNONYM teste FOR primeiro_db.primeiros_programas
-
 c) SYNONYM teste <- primeiro_db.primeiros_programas
-
 d) DESCRIBE SYNONYM teste FOR EACH primeiro_db.primeiros_prograrnas
-
 e) MAKE SYNONYM teste OF primeiro_db.primeiros_programas
 
 Item. 20. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2015
 
 O comando do Transact SQL do Microsoft SQL Server 2008 para atualizar o valor de 20
 registros, da coluna 'taxa', da tabela 'Blue', dividindo por 2 o valor dessa coluna 'taxa' é
-
 a) UPDATE MOST(20) Blue
 MAKE taxa = taxa/2
 
@@ -7237,7 +7164,6 @@ Item. 21. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de
 
 No sistema gerenciador de banco de dados Microsoft SQL Server 2008, por meio da função
 sys.dm_index_physical_stats é possível verificar
-
 a) o número total de tabelas do banco de dados.
 
 b) a quantidade máxima de usuários simultâneos no banco de dados.
@@ -7282,7 +7208,6 @@ ser exibidas no SQL Server UCP incluem:
 - Volumes de armazenamento.
 
 Este recurso do SQL Server é chamado de
-
 a) SQL Entity Manager.
 
 b) UCP Manager.
@@ -7298,7 +7223,6 @@ Item. 24. FCC - Agente de Defensoria Pública (DPE SP)/Analista de Sistemas/2013
 Uma das funções disponíveis no sistema gerenciador de bancos de dados Microsoft SQL
 Server
 2008 é @@CONNECTIONS. O resultado da aplicação dessa função é a obtenção
-
 a) do número de acessos autorizados, desde quando o SQL Server foi iniciado pela última vez.
 
 b) do número de tentativas de conexão bem ou mal sucedidas, desde quando o SQL
@@ -7338,7 +7262,6 @@ trabalho, pode
 recomendar a adição, remoção ou modificação de estruturas de design físicas em bancos
 de
 dados é denominada
-
 a) SQL Server Studio.
 
 b) SQL Server Admin.

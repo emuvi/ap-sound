@@ -71,7 +71,6 @@ Existe ainda o conceito de temporalidade na Assinatura Digital.
 
 Na assinatura atemporal, realiza-se o processo visto anteriormente sem nenhum
 registro de
-
 timestamp, ou seja, de data e hora dos procedimentos realizados.
 
 Já a assinatura temporal envolve o registro de data e hora de quando foi realizada a assinatura.
@@ -521,8 +520,6 @@ o Certificado do Tipo Al e Sl
 
 É o certificado em que a geração das chaves criptográficas é feita por software
 e seu armazenamento pode ser feito em hardware ou repositório protegido por
-
-
 senha, cifrado por software. Sua validade máxima é de um ano, sendo a
 frequência de publicação da LCR no máximo de 48 horas e o prazo máximo
 admitido para conclusão do processo de revogação de 72 horas.
@@ -572,8 +569,6 @@ fazer algumas considerações de cunho prático sobre os certificados, tendo em 
 que é um
 assunto novo em provas, porém, já tem aparecido nos editais. Apenas destacar que no
 Brasil, como
-
-
 já mencionamos, os certificados possuem validade jurídica e fiscal... Então é possível
 realizar atos
 legais a partir do certificado digital.
@@ -885,8 +880,6 @@ gera-se uma
 quantidade de bitcoins para ser distribuída entre os mineradores. O regime decrescente
 apresenta
 um cenário em que a quantidade de bitcoins geradas a cada 10 minutos então vai reduzindo, até
-
-
 que chegue ao limite do modelo, que é de 21 milhões de bitcoins. Nesse momento, não
 serão
 geradas mais comissões.
@@ -938,8 +931,6 @@ Então basicamente, tem-se uma rede para registrar e garantir os documentos envo
 Nessa mesma linha de raciocínio é que surge o conceito de ALTCOINS. Simplesmente são
 outras
 criptomoedas ou soluções baseadas em blockchain com seus modelos próprios e aplicações
-
-
 específicas. Com pesquisas simples na Internet é possível identificar uma infinidade de
 ALTCOINS já
 disponíveis no mercado.

@@ -35,7 +35,6 @@ internalizar o
 conteúdo de forma mais simples. Aproveitem o material, além dos esquemas,
 resumos e
 mnemónicos. Vamos ao que importa! lí
-
 x
 
 
@@ -56,8 +55,6 @@ RELEVÂNCIA EM PROVA: ALTA
 Pessoal, vamos falar sobre Python! Python é uma linguagem de
 código aberto, de propósito geral. É uma linguagem de
 programação de alto nível, ou seja, com sintaxe mais simplificada e
-
-
 próxima da linguagem humana.
 
 Python é uma linguagem de programação orientada a objetos
@@ -190,7 +187,6 @@ programa.
 
 (CEBRASPE - PC PB- 2022) Na linguagem Python, o tipo de uma variável em tempo de
 execução é definido pelo interpretador pelo recurso denominado
-
 a) tipagem dinâmica.
 
 b) modo interativo.
@@ -369,7 +365,6 @@ prontas (veja que é necessário declarar e atribuir o valor da variável j no e
 abaixo).
 
 j = o
-
 while j < 3:
 
 print(j)
@@ -386,13 +381,9 @@ do W3Tutorials
 excelentes; (2)
 essa é uma das fontes de inspiração
 das bancas. Caso você tenha alguma dúvida ou vontade de se
-
-
 aprofundar e testar os programas, você pode
 usar o
-
 https://www.w3schools.com/python/trypython Msp?filename=demo_default
-
 o link
 
 
@@ -505,7 +496,6 @@ y = "HellOj World!"
 
 Python não tem comando para declarar uma variável. As variáveis não precisam ser
 declaradas
-
 com nenhum tipo específico e podem até mudar de tipo depois de terem sido definidas. V
 
 AS VARIÁVEIS NÃO PRECISAM SER DECLARADAS
@@ -569,7 +559,6 @@ volume_total, marca_veiculo). Vejamos as regras para nomes de variáveis Python:
 e_)
 
 * Os nomes das variáveis diferenciam maiúsculas de minúsculas (idade, idade e IDADE são três
-
 variáveis diferentes)
 
 Variáveis criadas fora de uma função (como em todos os exemplos acima) são conhecidas
@@ -629,7 +618,6 @@ função.
 
 def myfunc():
 global x
-
 x = "fantastic"
 
 
@@ -721,7 +709,6 @@ alunos para Concursos
 Públicos. Para ser aprovado em um concurso público, você
 precisa estudar com
 estratégia
-
 print(a)
 
 Strings em Python
@@ -863,7 +850,6 @@ o método
 format()! lí O método format() pega os argumentos passados, os formata e os coloca na
 string
 onde estão os espaços reservados
-
 posicao = 01
 
 txt = "0 Estratégia Concursos é uma fabrica de {}"
@@ -1098,7 +1084,6 @@ Exponenciação
 
 Floor Division: arredonda o resultado para
 número inteiro mais próximo
-
 x**y
 O X // y
 
@@ -1130,7 +1115,6 @@ NÕT
 Retorna True se uma das declarações for verdadeira
 
 Inverte o resultado, retorna False se o resultado for verdadeiro
-
 x < 5 orx < 4
 
 not(x < 5 and x < io)
@@ -1222,13 +1206,9 @@ ela ter sido criada. Como as listas são indexadas, as listas podem ter itens co
 as:
 
 a) strings
-
 b) cadeias
-
 c) tuplas
-
 d) listas
-
 e) ranges.
 
 Comentários: A lista é mutável, o que significa que podemos alterar, adicionar e remover itens em
@@ -1429,7 +1409,6 @@ print(x)
 
 Além disso, é possível percorrer os itens da lista consultando seu número de índice.
 Use as funções
-
 range() e len() para criar um iterável adequado.
 
 listai = ["maçã", "banana", "laranja"]
@@ -1489,7 +1468,6 @@ novalista = [x for x in frutas if "a" in x]
 
 vejamos agora como Classificar lista alfanumérica. Objetos de lista possuem um método
 sort() que
-
 ordenará a lista de forma alfanumérica, em ordem crescente, por padrão:
 frutas.sort()
 
@@ -1585,9 +1563,7 @@ Os itens de tupla podem ser de qualquertipo de dados:
 
 tuplal = ("maça", "banana", "laranja") #tupla de strings
 tupla2 = (1, 5, 7, 9, 3) #tupla de inteiros
-
 tupla3 = (True, False, False) #tupla de booleanos
-
 tupla4 = ("abc", 34, True, 40, "masculino") #tupla de diversos tipos
 
 Na prática, é muito usado, além de necessário, tuplas de diferentes tipos de dados. A
@@ -1633,7 +1609,6 @@ cobram o loop for, portanto, atenção! Vamos ver mais detalhes quando falarmos 
 
 Ademais, é possível percorrer os itens da tupla consultando seu número de índice. Use
 as funções
-
 range()e len() para criar um iterável adequado.
 
 tuplal = ("maçã", "banana", "laranja")
@@ -1843,13 +1818,10 @@ Manterá apenas os itens presentes em . ,
 ambos os conjuntos.
 
 Novo conjunto, que contém apenas os
-
 elementos que NÃO estão presentes em z = x.symmetric_difference(y)
 ambos os conjuntos
 
 Manterá apenas os elementos que NÃO . z x
-
-
 estão presentes em ambos os conjuntos.
 
 x.symmetric difference update(y)
@@ -1916,9 +1888,7 @@ carros = {
 }
 
 Para referenciar um item do dicionário usa-se o
-
 nome da chave. Por exemplo, caso você queira
-
 referenciar esse magnífico carro, você pode digitar o seguinte comando:
 print(carros["modelo"]).
 Quando dizemos que os dicionários estão ordenados, significa que os itens têm
@@ -1984,7 +1954,6 @@ Mutável Mutável
 
 
 DUPLICATAS Permite duplicatas Permite duplicatas Não permite
-
 duplicatas
 
 Não permite
@@ -2045,7 +2014,6 @@ a) Apenas o item I está certo.
 b) Todos os itens estão certos.
 
 c) Apenas o item II está certo
-
 d) Apenas os itens I e III estão certos.
 
 e) Apenas os itens II e III estão certos.
@@ -2135,7 +2103,6 @@ o else, captura
 o resultado do que não "entrar" na instrução if. Um ótimo exemplo para isso é testar
 se uma pessoa
 é maior ou menor de idade. Vejamos um exemplo
-
 idade = 18
 
 if idade >= 18:
@@ -2182,7 +2149,6 @@ print("A") if a > b else print("B")
 
 O exemplo acima, irá imprimir na tela B, já que b = 330. Você também pode ter
 várias instruções
-
 else na mesma linha:
 
 a = 330
@@ -2215,7 +2181,6 @@ para combinar
 instruções condicionais. Ele retorna True se uma das condições for verdadeiras, caso
 contrário
 retorna False
-
 a = 200
 
 b = 33
@@ -2242,7 +2207,6 @@ retorna False
 
 Inverte o resultado: se o resultado da expressão for True, o
 operador retorna false
-
 x> íand x< 5
 x> i orx < 5
 
@@ -2323,7 +2287,6 @@ return a
 Assinale o valor retornado para F (48,36).
 
 a) i
-
 b) 12
 
 c) 24
@@ -2487,7 +2450,6 @@ L=[o,i,i,2,3,5,8,13,21]. Se for necessário, desenhe as listas (uma em cima da o
 
 (FGV- MPE SC- 2022) Analise o código Python a seguir.
 s=o
-
 for k in range(i6,io, -2):
 
 s -= k
@@ -2605,11 +2567,8 @@ Ramos")
 minhafuncao(listadeprofessores)
 
 Para permitir que uma função retorne um valor, use a instrução return
-
 def funcao(x):
 return 5 * x
-
-
 print(funcao(3))
 print(funcao(5))
 print(funcao(9))
@@ -2691,7 +2650,6 @@ que você envia:
 
 def minhafuncao (n):
 return lambda a : a * n
-
 dobravalor = minhafuncao (2)
 print(dobravalor(10)) #imprime 20
 
@@ -2741,7 +2699,6 @@ carros.pop(l) #remove 0 carro da posição 1
 
 É possível usar o método remove() para remover um elemento da matriz. A diferença
 entre o
-
 removeO e o pop() é que o primeiro remove apenas a primeira ocorrência do valor especificado.
 
 MÉTODO DESCRIÇÃO
@@ -2814,8 +2771,6 @@ matrizes.
 O NumPy foi criado em 2005 por Travis Oliphant. É um projeto de código aberto e
 você pode usá-
 lo livremente. NumPy significa Python Numérico. Em Python temos listas que servem ao propósito
-
-
 de arrays, mas são lentas para processar. O NumPy visa fornecer um objeto array até
 50X mais
 rápido que as listas tradicionais do Python.
@@ -2860,7 +2815,6 @@ class Person:
 def init(self, name, age):
 self.name = name
 self.age = age
-
 pl = Person("3ohn", 36)
 
 print(pl.name)
@@ -2877,7 +2831,6 @@ class Person:
 def init(self, name, age):
 self.name = name
 self.age = age
-
 def str(self):
 
 return f"{self.name}({self.age})"
@@ -2895,7 +2848,6 @@ class Person:
 def init(selfj name, age):
 self.name = name
 self.age = age
-
 def myfunc(self):
 
 print("Hello my name is " + self.name)
@@ -2912,7 +2864,6 @@ deve ser o primeiro parâmetro de qualquer função da classe:
 class Teste:
 
 def
-
 self.altura = xaltura
 self.largura - xlargura
 def dimensoes(self):
@@ -2973,7 +2924,6 @@ pass
 Use a palavra-chave pass quando não desejar adicionar outras propriedades ou métodos à classe.
 Agora a classe Student têm as mesmas propriedades e métodos que a classe Person. Use a classe
 Student para criar um objeto e execute o método printname
-
 x = Student("Mike", "Olsen")
 x.printname()
 
@@ -3029,7 +2979,6 @@ usado para
 obter um iterador. Como sabemos, strings consistem em uma contendo uma
 sequência de
 caracteres, assim, strings são objetos iteráveis e podem retornar um iterador
-
 minhatupla = ("maça", "banana", "cereja")
 meuiterador = iter(minhatupla)
 
@@ -3123,7 +3072,6 @@ quiser fazer uma alteração em uma variável global dentro de uma função.
 
 def myfunc():
 global x
-
 x = 300
 
 
@@ -3152,7 +3100,6 @@ O módulo pode conter funções, e variáveis de todos os tipos (arrays, dicion�
 
 Existem vários módulos integrados no Python, que você pode importar sempre que quiser.
 import platform
-
 x = platform.system()
 print(x)
 
@@ -3161,7 +3108,6 @@ variáveis) em um
 módulo. A função dir():
 
 import platform
-
 x = dir(platform)
 print(x)
 
@@ -3170,11 +3116,9 @@ Datas em Python
 
 Uma data em Python não é um tipo de dado próprio, mas podemos importar um módulo
 chamado
-
 datetime para trabalhar com datas como objetos de data.
 
 import datetime
-
 x = datetime.datetime.now()
 
 Quando executamos o código do exemplo acima o resultado será a data do momento atual.
@@ -3194,7 +3138,6 @@ segundo, microssegundo, tzone), mas eles são opcionais e têm um valor padrão 
 fuso horário).
 
 import datetime
-
 x = datetime.datetime(2022, 1, 20)
 
 print(x) #imprime 2022-01-20 00:00:00
@@ -3205,7 +3148,6 @@ método
 retornada:
 
 import datetime
-
 x = datetime.datetime(2018, 6, 1)
 print(x.strftime("%B"))
 
@@ -3452,7 +3394,6 @@ termina com
 "Spain"
 
 import re
-
 txt = "The rain in Spain"
 
 x = re.search("AThe.*Spain$"j txt)
@@ -3628,7 +3569,6 @@ Usada para criar um alias.
 Usada ao depurar o código. Permite testar se uma condição em seu código retorna
 Truez caso contrário, o programa gerará um AssertionError. Você pode escrever uma
 mensagem a ser escrita caso o código retorne false
-
 x
 
 
@@ -3770,7 +3710,6 @@ prontas (veja que é necessário declarar e atribuir o valor da variável j no e
 abaixo).
 
 j = o
-
 while j < 3:
 
 print(j)
@@ -4028,7 +3967,6 @@ Módulo x % y
 
 77 Floor Division: arredonda o resultado para o
 número inteiro mais próximo
-
 x//y
 
 FUNÇÃO DESCRIÇÃO
@@ -4089,13 +4027,11 @@ IS NOT Retorna True se ambas as variáveis não forem o mesmo objeto x is not y
 
 Retorna True se uma sequência com o valor especificado
 presente no objeto
-
 x in y
 
 
 Retorna True se uma sequência com o valor especificado não
 estiver presente no objeto
-
 x not in y
 
 DESCRIÇÃO
@@ -4178,7 +4114,6 @@ Manterá apenas os itens presentes em . .
 ambos os conjuntos.
 
 Novo conjunto, que contém apenas os
-
 elementos que NÃO estão presentes em z = x.symmetric_difference(y)
 ambos os conjuntos
 
@@ -4286,7 +4221,6 @@ Mutável Mutável
 
 
 DUPLICATAS Permite duplicatas Permite duplicatas Não permite
-
 duplicatas
 
 Não permite
@@ -4305,19 +4239,14 @@ EXEMPLO
 bool
 int
 float
-
 complex
 str
 list
-
 tuple
 set
-
 dictionary
-
 x = True
 x = False
-
 x = 10
 
 x = -5
@@ -4328,7 +4257,6 @@ x = -2.8
 
 x = 345 j
 x = 2-9j
-
 x = 'texto'
 x = "texto"
 
@@ -4363,7 +4291,6 @@ retorna False
 
 NOT Inverte o resultado: se o resultado da expressão for True,
 operador retorna false
-
 o not(x > i and x < 5)
 
 MÉTODO DESCRIÇÃO
@@ -4806,7 +4733,6 @@ minimize ou feche
 * Exibircaixas de alerta e mensagem.
 
 pywinauto
-
 pywinauto é um conjunto de módulos Python para automatizar a GUI do Microsoft Windows.
 Na
 sua forma mais simples, permite enviar ações de mouse e teclado para diálogos e
@@ -5091,11 +5017,9 @@ https://www.treinaweb.com.br/blog/principais-estruturas-de-dados-no-python
 https://pythonhelp.wordpress.com/2o13/o6/18/conjuntos-em-python/
 https://numpy.org/doc/stable/reference/generated/numpy.std.html
 https://www.hashtagtreinamentos.com/automacao-web-no-python
-
 https://splinter.readthedocs.io/en/latest/why.html
 https://scrapy.org/
 https://d0cs.pytest.0rg/en/7.1.x/c0ntents.html
-
 https://pragprog.com/titles/bopytest2/python-testing-with-pytest-second-edition/
 https://docs.reportlab.com/rmlfornewbies/
 
@@ -5109,15 +5033,10 @@ Questões Cespe
 QUESTõES CoMENTADAS
 
 í. (CESPE - DPE RO - 2022) Na linguagem Python, são consideradas sequências mutáveis as
-
 a) strings
-
 b) cadeias
-
 c) tuplas
-
 d) listas
-
 e) ranges
 
 Comentários:
@@ -5131,7 +5050,6 @@ Gabarito: Letra D
 Item. 2. (CEBRASPE - PC PB- 2022) Na linguagem Python, o tipo de uma variável
 em tempo de
 execução é definido pelo interpretador pelo recurso denominado
-
 a) tipagem dinâmica.
 
 b) modo interativo.
@@ -5174,7 +5092,6 @@ a) Apenas o item I está certo.
 b) Todos os itens estão certos.
 
 c) Apenas o item II está certo
-
 d) Apenas os itens I e III estão certos.
 
 e) Apenas os itens II e III estão certos.
@@ -5314,7 +5231,6 @@ de dados
 {1,2,2,3,51
 
 import numpy
-
 x= numpy.array([i,2,2,3,5])
 numpy.std(x,ddof=i)
 
@@ -5343,7 +5259,6 @@ para os
 comandos em questão.
 
 a) i
-
 b) 3
 
 c) 7
@@ -5371,15 +5286,10 @@ estruturas
 para armazenar dados indexados. A estrutura cujos valores são imutáveis depois de sua
 criação
 é conhecida como
-
 a) lista
-
 b) operador
-
 c) tupla
-
 d) classe
-
 e) dicionário
 
 Comentários:
@@ -5401,7 +5311,6 @@ Mutável Mutável
 
 
 DUPLICATAS Permite duplicatas Permite duplicatas Não permite
-
 duplicatas
 
 Não permite
@@ -5443,9 +5352,7 @@ Item. 13. (CEBRASPE - PF- 2018) Considere o programa a seguir, na linguagem Pyth
 
 letras == ["P", "F"]
 forx in letras
-
 l
-
 print(x)
 
 A sintaxe do programa está correta e, quando executado, ele apresentará o seguinte
@@ -5458,7 +5365,6 @@ Pessoal, na verdade há três erros na questão. Vamos imediatamente corrigi-los
 primeira linha
 o comando deveria ser letras = ["P", "F"] (com apenas um operador = ). Ademais,
 deveria ser usado
-
 o dois pontos no for, e não deve-se usar colchetes para indentação da função for.
 Portanto, o
 correto seria:
@@ -5468,7 +5374,6 @@ forx in letras:
 print(x)
 
 Gabarito: Errada
-
 í^.fCESPE - 2013 - MPOG - Analista de Sistemas) Em Python, o comando int("i") cria
 um objeto
 do tipo int, que recebe 1 como parâmetro no seu construtor.
@@ -5501,7 +5406,6 @@ construtor
 
 
 Gabarito: Correta
-
 i6.(CESPE - 2011 - ECT - Analista de Sistemas) A linguagem Python e seu interpretador
 estão
 disponíveis para as mais diversas plataformas. Para que seja usado em determinado
@@ -5555,8 +5459,6 @@ linguagem com uma biblioteca padrão sejam executadas da mesma forma em diversos
 operacionais que possuam um software interpretador de Python.
 
 Gabarito: Correta
-
-
 ig.(CESPE - 2008 - SERPRO - Analista de Sistemas) Python é uma linguagem livre de
 alto nível,
 orientada a objetos e de difícil leitura, pois não permite identação de linhas de código.
@@ -5616,9 +5518,7 @@ print (x)
 A execução desse código na IDLE Shell produz, na ordem e exclusivamente, os números:
 
 a) 6,i
-
 b) 5, 3/ i
-
 c) 6, 4, 2
 
 d) i, 3, 5
@@ -5801,8 +5701,6 @@ Comentários:
 Pessoal, as bancas gostam muito de índices negativos, para dificultar um
 pouco. No caso da
 questão, é gerada uma sequência de números negativos iniciando em -1 e parando antes do -10 (ou
-
-
 seja, o for para no -9). O For é incrementado de -1 em -1 formando a sequência -1 -2 -3 -4 -5 -6 -7
 -8
 
@@ -5815,7 +5713,6 @@ Gabarito: Letra A
 class Teste:
 
 def
-
 self.altura = xaltura
 self.largura = xlargura
 def dimensoes(self):
@@ -5904,7 +5801,6 @@ Gabarito: Letra A
 
 28.(FGV-MPE SC-2022) Analise o código Python a seguir.
 s=o
-
 for k in range(i6,io, -2):
 
 s-=k
@@ -5913,7 +5809,6 @@ print (s)
 O valor exibido pela execução desse trecho é:
 
 a) o
-
 b) -28
 
 c) -30
@@ -5932,7 +5827,6 @@ Gabarito: Letra D
 
 2g.(FGV-MPE SC-2022) Analise o código Python a seguir,
 x = o
-
 y - 20
 
 try:
@@ -5953,18 +5847,14 @@ A saída produzida pela execução desse trecho é:
 
 a) a) None
 The end
-
 b) Deu erro!
 
 The end
-
 c) Deu erro!
 
 Ok
-
 d) Ok
 The end
-
 e) None
 Ok
 
@@ -6020,7 +5910,6 @@ class xptoClass:
 def iter(self):
 self.a = [0]
 return self
-
 def next(self):
 self.a.append( \
 
@@ -6028,7 +5917,6 @@ self.a[-l] \
 
 + self.a[-2] if len(self.a) > 1 else 1)
 return self.a
-
 xpto = xptoClass()
 xptolter = iter(xpto)
 
@@ -6073,7 +5961,6 @@ Assinale a opção que indica a saída produzida pela execução desse código.
 a) [1,2,3,4,51
 
 b) i
-
 c) [5,1]
 
 d) 5
@@ -6173,8 +6060,6 @@ while nl != n2:
 if (nl < n2):
 
 n2 = n2 - nl
-
-
 else:
 
 return nl
@@ -6185,7 +6070,6 @@ nl = nl - n2
 O valor exibido pelo comando print é:
 
 a) o
-
 b) 1
 
 c) 5
@@ -6275,7 +6159,6 @@ return a
 Assinale o valor retornado para F (48,36).
 
 a) i
-
 b) 12
 
 c) 24
@@ -6475,7 +6358,6 @@ forx in L:
 print x
 
 Esse programa causa
-
 a) erro de sintaxe.
 
 b) erro de execução.
@@ -6672,7 +6554,6 @@ há um
 array criado pelo comando nomes - ["Maria", "Pedro", "João"], para exibir os valores
 contidos
 nesse array utiliza-se
-
 a) for x in nomes: out.print(x)
 
 b) while x in nomes: print(x)
@@ -6707,7 +6588,6 @@ else:
 
 pos = pos+i
 return x
-
 v = [i, 2, 32, 8,17,19, 42,13, 0]
 
 print(oper(v, 8))
@@ -6715,7 +6595,6 @@ print(oper(v, 8))
 Para que o código exiba na tela o valorTrue se o item buscado no vetor por meio da
 função oper
 for encontrado, a lacuna I deve ser corretamente preenchida por
-
 a) while pos < I and not x:
 
 b) while pos < len(l) && x:
@@ -6742,7 +6621,6 @@ Gabarito: Letra E
 e, para importar um recurso referente para manipulação de pacotes de rede,
 utilizou no
 programa a linha
-
 a) import pyTTS *
 
 b) from Tkinter import *
@@ -6851,7 +6729,6 @@ I
 
 self.nome = nome
 self.renda = renda
-
 pi = Cliente("Maria", 5678.98)
 print(pi.nome)
 
@@ -6860,7 +6737,6 @@ print(pi.renda)
 Para que o código seja compilado e executado corretamente, a lacuna I deverá ser
 preenchida
 com
-
 a) init(self, nome, renda):
 
 b) functioninit(self, nome, renda):
@@ -6883,8 +6759,6 @@ Gabarito: Letra D
 
 54.(FCC -TRE SP- 2017) Considere o programa Python, abaixo,
 import ..I.. as b
-
-
 import matplotlib.pyplot as a
 x = b.linspace(o, 3, 20)
 
@@ -6895,15 +6769,10 @@ a.plot(x, y, 'o')
 a.show()
 
 A lacuna I deve ser preenchida corretamente com
-
 a) numpy
-
 b) matrix
-
 c) mathlab
-
 d) numberplot
-
 e) array
 
 Comentários:
@@ -7012,14 +6881,12 @@ while a < n:
 
 resultado, append(a)
 a, b = b, a+b
-
 return resultado
 op = dados(ioo)
 print op
 
 O valorfinal contido na posição de índice 6 de op é
 a) i
-
 b) 8
 
 c) 5
@@ -7049,7 +6916,6 @@ if n % x == o:
 
 print n, x, '*', n/x
 break
-
 else:
 
 print n, 'é um número primo'
@@ -7061,7 +6927,6 @@ forx in a:
 print x, len(x)
 
 É Correta afirmar que
-
 a) o Fragmento 1 está in Correta, pois laços não podem ter uma cláusula else.
 
 b) no Fragmento 2, a instrução for está incorreta, pois ela não pode iterar sobre a.
@@ -7093,7 +6958,6 @@ while a < n:
 I
 
 return resultado
-
 res = calcular(100)
 print res
 
@@ -7103,16 +6967,12 @@ corretamente com:
 
 a) resultado.add(a)
 a, b = b, a+b
-
 b) resultado.insert(a)
 a, b = b, a+b
-
 c) resultado.append(a)
 a, b = b, a+b
-
 d) resultado.add(a)
 a, b - a, a+b
-
 e) resultado.append(a)
 a, b = a+b, b
 
@@ -7296,7 +7156,6 @@ def dobra (y):
 
 x = y+ y
 return x
-
 x = 5
 dobra(x)
 
@@ -7306,8 +7165,6 @@ dobra(x)
 
 
 y
-
-
 dobra(x)
 printx
 
@@ -7316,7 +7173,6 @@ O valor impresso ao executarmos o programa é:
 a) 5
 
 b) io
-
 c) 15
 
 d) 25
@@ -7543,20 +7399,14 @@ Questões Cespe
 LISTA DE QUESTõES
 
 í. (CESPE - DPE RO - 2022) Na linguagem Python, são consideradas sequências mutáveis as
-
 a) strings
-
 b) cadeias
-
 c) tuplas
-
 d) listas
-
 e) ranges
 
 Item. 2. (CEBRASPE - PC PB- 2022) Na linguagem Python, o tipo de uma variável em tempo de
 execução é definido pelo interpretador pelo recurso denominado
-
 a) tipagem dinâmica.
 
 b) modo interativo.
@@ -7588,7 +7438,6 @@ a) Apenas o item I está certo.
 b) Todos os itens estão certos.
 
 c) Apenas o item II está certo
-
 d) Apenas os itens I e III estão certos.
 
 e) Apenas os itens II e III estão certos.
@@ -7629,7 +7478,6 @@ de dados
 U, 2,2,3,5}
 
 import numpy
-
 x= numpy.array([i,2,2,3,5])
 numpy.std(x,ddof=i)
 
@@ -7654,7 +7502,6 @@ comandos em questão.
 
 
 a) i
-
 b) 3
 
 c) 7
@@ -7668,14 +7515,10 @@ estruturas
 para armazenar dados indexados. A estrutura cujos valores são imutáveis depois de sua
 criação
 é conhecida como
-
 a) lista
-
 b) operador
 cjtupla
-
 d) classe
-
 e) dicionário
 
 Item. 12. (CEBRASPE - PF- 2018) Considere os seguintes comandos na programação em Python.
@@ -7692,9 +7535,7 @@ Item. 13. (CEBRASPE - PF- 2018) Considere o programa a seguir, na linguagem Pyth
 letras == ["P", "F"]
 
 forx in letras
-
 l
-
 print(x)
 
 A sintaxe do programa está correta e, quando executado, ele apresentará o seguinte
@@ -7779,9 +7620,7 @@ print (x)
 A execução desse código na IDLE Shell produz, na ordem e exclusivamente, os números:
 
 a) 6,i
-
 b) 5, 3, i
-
 c) 6, 4, 2
 
 d) i, 3, 5
@@ -7902,7 +7741,6 @@ e) -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
 class Teste:
 
 def
-
 self.altura = xaltura
 self.largura = xlargura
 def dimensoes(self):
@@ -7962,7 +7800,6 @@ e) {'AA','BB', 'CC,'BB','C, 'A', 'B'}
 
 28.(FGV-MPE SC-2022) Analise o código Python a seguir.
 s=o
-
 for k in range(i6,io, -2):
 
 s-=k
@@ -7971,7 +7808,6 @@ print (s)
 O valor exibido pela execução desse trecho é:
 
 a) o
-
 b) -28
 
 c) -30
@@ -7982,7 +7818,6 @@ e) -52
 
 2g.(FGV-MPE SC-2022) Analise o código Python a seguir,
 x = o
-
 y = 20
 
 try:
@@ -8002,18 +7837,13 @@ A saída produzida pela execução desse trecho é:
 
 a) a) None
 The end
-
 b) Deu erro!
 
 The end
-
 c) Deu erro!
 Ok
-
-
 d) Ok
 The end
-
 e) None
 Ok
 
@@ -8042,7 +7872,6 @@ class xptoClass:
 def iter(self):
 self.a = [0]
 return self
-
 def next(self):
 self.a.append( \
 
@@ -8050,7 +7879,6 @@ self.a[-l] \
 
 + self.a[-2] if len(self.a) > 1 else 1)
 return self.a
-
 xpto = xptoClass()
 xptolter = iter(xpto)
 
@@ -8073,7 +7901,6 @@ b) [o, í, í, 2, 3, 5]
 c) [0, í, 2, 3, 4, 5]
 
 d) [o, 1, 3, 5, 7, 9l
-
 e) [1, 2, 3, 4, 5, 6]
 
 Item. 32. (FGV- IMBEL- 2021) Analise o código Python a seguir.
@@ -8142,8 +7969,6 @@ while nl != n2:
 if (nl < n2):
 
 n2 = n2 - nl
-
-
 else:
 
 return nl
@@ -8154,7 +7979,6 @@ nl = nl - n2
 O valor exibido pelo comando print é:
 
 a) o
-
 b) 1
 
 c) 5
@@ -8204,7 +8028,6 @@ return a
 Assinale o valor retornado para F (48,36).
 
 a) i
-
 b) 12
 
 c) 24
@@ -8331,7 +8154,6 @@ forx in L:
 print x
 
 Esse programa causa
-
 a) erro de sintaxe.
 
 b) erro de execução.
@@ -8434,7 +8256,6 @@ há um
 array criado pelo comando nomes = ["Maria", "Pedro", "João"], para exibir os valores
 contidos
 nesse array utiliza-se
-
 a) for x in nomes: out.print(x)
 
 b) while x in nomes: print(x)
@@ -8461,7 +8282,6 @@ else:
 
 pos = pos+i
 return x
-
 v = [1, 2, 32, 8,17,19, 42,13, o]
 
 print(oper(v, 8))
@@ -8470,7 +8290,6 @@ print(oper(v, 8))
 Para que o código exiba na tela o valorTrue se o item buscado no vetor por meio da
 função oper
 for encontrado, a lacuna I deve ser corretamente preenchida por
-
 a) while pos < I and not x:
 
 b) while pos < len(l) && x:
@@ -8486,7 +8305,6 @@ Python
 e, para importar um recurso referente para manipulação de pacotes de rede,
 utilizou no
 programa a linha
-
 a) import pyTTS *
 
 b) from Tkinter import *
@@ -8562,7 +8380,6 @@ I
 
 self.nome = nome
 self.renda = renda
-
 pi = Cliente("Maria", 5678.98)
 print(pi.nome)
 
@@ -8571,7 +8388,6 @@ print(pi.renda)
 Para que o código seja compilado e executado corretamente, a lacuna I deverá ser
 preenchida
 com
-
 a) init(self, nome, renda):
 
 b) functioninit(self, nome, renda):
@@ -8584,7 +8400,6 @@ e) Cliente(self, nome, renda):
 
 54.(FCC -TRE SP- 2017) Considere o programa Python, abaixo.
 import ..I.. as b
-
 import matplotlib.pyplot as a
 x - b.linspace(o, 3, 20)
 
@@ -8601,15 +8416,10 @@ a.plot(x, y, 'o')
 a.show()
 
 A lacuna I deve ser preenchida corretamente com
-
 a) numpy
-
 b) matrix
-
 c) mathlab
-
 d) numberplot
-
 e) array
 
 55-(FCC - PRODATER- 2016) Em Python existe um conjunto de métodos disponíveis
@@ -8677,14 +8487,12 @@ while a < n:
 
 resultado.append(a)
 a, b = b, a+b
-
 return resultado
 op = dados(ioo)
 print op
 
 O valorfinal contido na posição de índice 6 de op é
 a) i
-
 b) 8
 
 c) 5
@@ -8720,7 +8528,6 @@ forx in a:
 print x, len(x)
 
 É Correta afirmar que
-
 a) o Fragmento 1 está in Correta, pois laços não podem ter uma cláusula else.
 
 b) no Fragmento 2, a instrução for está incorreta, pois ela não pode iterar sobre a.
@@ -8745,7 +8552,6 @@ while a < n:
 I
 
 return resultado
-
 res = calcular(100)
 print res
 
@@ -8755,16 +8561,12 @@ corretamente com:
 
 a) resultado.add(a)
 a, b = b, a+b
-
 b) resultado.insert(a)
 a, b = b, a+b
-
 c) resultado.append(a)
 a, b = b, a+b
-
 d) resultado.add(a)
 a, b = a, a+b
-
 e) resultado.append(a)
 
 
@@ -8842,7 +8644,6 @@ def dobra (y):
 
 x = y + y
 return x
-
 x = 5
 dobra(x)
 dobra(x)
@@ -8983,7 +8784,6 @@ identificadores. O identificador_quantidade é Correta em Python.
 
 
 GABARITo
-
 í. Letra D 26.Letra A
 Item. 51. Letra E
 
@@ -9189,7 +8989,6 @@ i item a seguir.
 
 i O framework Django utiliza a estrutura MTV (model-template-view), sendo template a
 camada i
-
 i de apresentação, em que as informações são visualizadas pelos usuários.
 
 i Comentários: Vamos relembrar? 0 modelo ajuda a lidar com banco de dados. É uma camada de i
@@ -9414,7 +9213,6 @@ elemento
 necessário para o template.
 
 Trabalhando com formulários
-
 django.forms é a biblioteca de manipulação de formulários. Embora seja possível processar
 submissões de formulário somente usando a classe HttpRequest do Django, usando a
 biblioteca
@@ -9722,11 +9520,8 @@ O Django fornece um conjunto de sinais embutidos que deixam o código do usuári
 notificado pelo próprio Django sobre certas ações. Estas incluem algumas notificações úteis:
 
 Sinal | Descrição
-
-
 django.db.models.signals.pre_save &
 django.db.models.signals.post_save
-
 django.db.models.signals.pre_delete
 &
 
@@ -9778,8 +9573,6 @@ wsgi.py
 Arquivo | Descrição
 
 0 diretório raiz externo é um contêiner para seu
-
-
 mysite/
 
 projeto. Seu nome não importa para o Django; você
@@ -9792,9 +9585,7 @@ pode renomeá-lo para o que quiser.
 
 
 manage.py
-
 mysite/_init_.py
-
 mysite/settings.py
 
 Um utilitário de linha de comando que permite
@@ -9835,10 +9626,8 @@ dentro do
 diretório onde deseja iniciar seu projeto, o comando para a sua criação é:
 
 a] $ django-admin mysite
-
 b) $ django-admin mysite startnew
 c] $ django-admin startproject mysite
-
 d) $ django-admin startnewproject "mysite"
 
 Comentários: Para iniciar seu projeto, o comando para a sua criação é: $
@@ -9887,8 +9676,6 @@ no projeto.
 FRAMEWoRkS PYTHoN: FLASk
 
 Conceitos Básicos
-
-
 web development,
 one drop at a time
 
@@ -9901,7 +9688,6 @@ web pode ser páginas da web, um
 blog, um wiki ou um aplicativo de
 calendário baseado na web ou um
 site comercial. Flask é um framework
-
 web leve escrita em Python e baseado no kit de ferramentas WSGI e no mecanismo de
 modelo
 Jinja2. Flask faz parte das categorias do micro-framework. Micro-frameworks são normalmente

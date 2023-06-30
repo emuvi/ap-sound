@@ -98,8 +98,6 @@ meio de uma interface.
 O RUP afirma que se trata da criação de sistemas melhores através da compreensão de
 quem
 são usuários finais e do envolvimento de usuários nos requisitos, no design de interface do
-
-
 usuário e nos esforços de testes, incluindo subcategorias: fatores humanos, estética,
 consistência
 na interface do usuário, ajuda online e contextuai, assistentes e agentes,
@@ -266,8 +264,6 @@ algum trabalho
 de engenharia de usabilidade realizado no sistema, em vez de se concentrar demais nos
 métodos
 de usabilidade para alcançar o - talvez inalcançável - "ótimo" em questão. Lembrem-se que
-
-
 frequentemente projetos mais bem desenhados também são mais caros. Essa introdução toda
 foi para falar que os engenheiros de usabilidade foram espertos e também tiveram essa sacada!
 
@@ -424,8 +420,6 @@ testes
 e avaliações. Deve-se observar usuários interagindo com o sistema e responder
 uma série de
 questões, entre elas: O sistema é usável sem ajuda ou instrução contínua? As regras de interação
-
-
 ajudam um usuário bem informado sobre como o sistema funciona eficientemente? A
 interação é
 simples?
@@ -656,8 +650,6 @@ melhor é a interação e a experiência.
 
 Por exemplo: o botão de volume mostra barras mais longas conforme o volume aumenta, e
 barras mais curtas conforme o volume diminui. Apesar de parecer óbvio, o mapeamento
-
-
 requer bastante atenção e testes com usuários reais. Uma maneira interessante de saber
 se
 o mapeamento está correto é observar o design de um controle e pensar na expectativa
@@ -817,8 +809,6 @@ implica dizer
 que, mais uma vez, o design do sistema deve estar organizado da melhor forma possível
 para que
 o usuário não seja obrigado a dedicar muito esforço em cada tarefa, considerando as limitações já
-
-
 citadas. Já a satisfação do usuário deve ser conseguida bem mais rapidamente em um
 sistema
 mobile. Porque, Diego?
@@ -1012,8 +1002,6 @@ técnico
 utilizado em usabilidade para referir-se a cada pessoa que utiliza o objeto em questão
 por meio de
 uma interface. No caso, temos o cidadão como usuário e o objeto são as páginas, informações
-
-
 e serviços disponibilizados eletronicamente pelo governo federal. A interface é o meio
 pelo qual
 a pessoa intervém, dialoga, modifica o objeto da interação (no caso, um sítio).
@@ -1086,8 +1074,6 @@ têm como
 foco de atenção o usuário (cidadão) e, muitas vezes, se sobrepõe como áreas de saber.
 No
 entanto, acessibilidade trata do acesso a locais, produtos, serviços ou informações efetivamente
-
-
 disponíveis ao maior número e variedade possível de pessoas independente de suas
 capacidades
 físico-motoras e perceptivas, culturais e sociais, já a usabilidade trata da facilidade de uso.
@@ -1458,8 +1444,6 @@ sobre métodos de
 investigação; sobre os tipos de testes possíveis no ciclo de desenvolvimento;
 o processo de teste de
 usabiIidade; protótipos; custos de avaliação de usabilidade; entre outros, recomendo ler a cartilha
-
-
 de usabilidade do governo eletrônico com maior profundidade. Vamos falar um
 pouquinho agora
 sobre Métodos de Avaliação.
@@ -1866,8 +1850,6 @@ DOCUMENTAÇÃO
 
 Mesmo que seja melhor que um sistema possa ser usado sem documentação,
 pode ser necessário fornecer uma ajuda e documentação. Qualquer informação
-
-
 deve serfácil de ser pesquisada, com foco na atividade do usuário, lista de
 concretos a serem realizados, e não ser muito grande.
 
@@ -2485,8 +2467,6 @@ de usabilidade durante
 a fase de desenvolvimento.
 
 Gabarito: Correto
-
-
 io.(CESPE / CNJ - 2013) A usabilidade consiste em extrair informações a
 respeito de quando o
 sistema não suporta a carga aplicada, sendo importante para estruturar
@@ -2553,7 +2533,6 @@ lucro (ROI) e menos
 custos de manutenção
 
 Gabarito: Correto
-
 iZf.(CESPE / HEMOBRÁS - 2008) Entre os princípios de usabilidade descritos
 por Nielsen está o
 uso de uma linguagem familiar ao usuário.
@@ -2575,7 +2554,6 @@ e conceitos familiares
 ao usuário, ao invés de termos orientados ao sistema.
 
 Gabarito: Correto
-
 i5.(CESPE / HEMOBRÁS - 2008) De acordo com Jakob Nielsen, para melhorar a
 usabilidade de
 um sistema, o designer deve avaliar outras interfaces existentes.
@@ -2612,8 +2590,6 @@ se uma interface está de
 acordo com princípios reconhecidos de usabilidade.
 
 Gabarito: Correto
-
-
 i6.(CESPE/ SERPRO-2008) De acordo com Jakob Nielsen, um dos cinco atributos da usabilidade
 é a facilidade com que o sistema é lembrado.
 
@@ -2645,7 +2621,6 @@ lembrar, para que o
 usuário seja capaz de retornar depois de um tempo sem ter que aprendertudo novamente.
 
 Gabarito: Correto
-
 i7.(CESPE / SERPRO - 2008) O grau de usabilidade de um sistema de informação
 independe do
 grau de integração do usuário no processo de design do sistema.
@@ -2657,7 +2632,6 @@ do sistema -
 isso não faz nenhum sentido!
 
 Gabarito: Errado
-
 i8.(CESPE / TCU - 2005) Segundo a norma ISO 9241, um produto
 pode ter níveis
 significativamente diferentes de usabilidade quando usado em diferentes contextos.
@@ -2672,7 +2646,6 @@ satisfação em um
 contexto específico de uso. Logo, o nível de usabilidade dependerá do contexto!
 
 Gabarito: Correto
-
 ig.(CESPE / TCU - 2005) Os atributos eficácia, eficiência e satisfação dos usuários
 definidos na
 norma ISO 9241 são atributos diretamente mensuráveis e verificáveis.
@@ -3264,13 +3237,9 @@ ano sem
 utilizá-lo, é:
 
 a) memorização
-
 b) satisfação
-
 c) erro
-
 d) criatividade
-
 e) eficiência
 
 Comentários:
@@ -3783,8 +3752,6 @@ norma ISO 9241 são atributos diretamente mensuráveis e verificáveis.
 empíricas
 contam com a participação direta dos usuários e compreendem, basicamente, os testes com
 usuários por meio do monitoramento de sessões de uso do produto, ou protótipo, em
-
-
 consideração. Em geral, ostestes de usabilidade com a participação dos usuários são
 avaliações
 confiáveis.
@@ -4045,13 +4012,9 @@ ano sem
 utilizá-lo, é:
 
 a) memorização
-
 b) satisfação
-
 c) erro
-
 d) criatividade
-
 e) eficiência
 
 Item. 3. (FGV / IBGE - 2016) Atualmente, existem vários métodos de avaliação de

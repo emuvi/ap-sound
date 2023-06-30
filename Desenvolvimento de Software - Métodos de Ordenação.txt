@@ -20,7 +20,6 @@ Item. 6. Heap Sort: Utiliza uma estrutura de dados chamada heap para organizar o
 Esses são apenas alguns exemplos de métodos de ordenação. Existem outros algoritmos, como o Shell Sort, o Radix Sort, o Counting Sort, entre outros, que podem ser mais adequados dependendo do contexto e dos requisitos do sistema.
 
 A escolha do método de ordenação a ser utilizado depende de diversos fatores, como o tamanho da lista, a distribuição dos elementos, os recursos disponíveis (memória, processamento), entre outros. É importante considerar a eficiência e a estabilidade do algoritmo, bem como as restrições e as necessidades específicas do problema em
-
 questão.
 
 

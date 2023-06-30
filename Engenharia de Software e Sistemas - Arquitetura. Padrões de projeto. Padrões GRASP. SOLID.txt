@@ -200,7 +200,6 @@ State
 Strategy
 Visitor
 Interpreter
-
 lemplate Method
 
 Os 23 Padrões de Projeto podem ser classificados quanto aos seus propósitos em três
@@ -334,8 +333,6 @@ O Builder é capaz de coordenar a construção da interface gráfica do tablete 
 instanciar partes
 dessas interfaces. Logo, ele pode criar diferentes representações de suas interfaces
 gráficas ao
-
-
 instanciar, por exemplo, um botão da interface do smartphone, a barra de rolagem da
 interface do
 desktop, caixas de seleção da interface do smartphone e ícones da interface do
@@ -490,8 +487,6 @@ No entanto, há dezenas de tipos de janelas gráficas (Diálogo, Aviso, Erro, et
 tornando a utilização
 inviável para grandes quantidades. Uma ideia melhor seria criar uma interface para
 plataformas
-
-
 e outra para janelas. A primeira conteria os elementos comuns das plataformas e teria
 classes
 concretas específicas para implementarjanelas em Linux, Mac, etc; e a segunda conteria
@@ -885,8 +880,6 @@ Heapsort, etc). Uma maneira de realizar essa operação é por meio de operadore
 condicionais (if-
 else), mas isso pode sertrabalhoso em grandes quantidades. Uma boa estratégia seria
 encapsular
-
-
 os algoritmos de ordenação, de modo que se possa trocar de algoritmo sempre que
 quiser. Basta
 chamar o método OrdenaAluno com os parâmetros sexoAluno e algoritmoOrdenacao.
@@ -1386,8 +1379,6 @@ Comentários:
 
 Os padrões de projetos são descrições de objetos que se comunicam e classes que são customizadas
 para resolver um problema genérico em um contexto específico. Desse modo, de fato, os padrões
-
-
 de projeto são um conjunto de soluções generalistas para problemas recorrentes
 durante o
 desenvolvimento de um software. Entretanto, eles não são um framework, e - sim - eles
@@ -1503,7 +1494,6 @@ que é um ponto
 de acesso local'. Opa... não, é um ponto de acesso global!
 
 Gabarito: Errado
-
 io.(CESPE / TCE-RO - 2013) Uma das aplicabilidades do padrão Iterator é a
 representação de
 hierarquias do tipo todo-parte de objetos, de modo que a aplicação seja capaz de
@@ -1528,7 +1518,6 @@ sequencialmente sem expor sua representação interna.
 Representação de hierarquias do tipo todo-parte? Comportamento uniforme? Opa, isso é Composite!
 
 Gabarito: Errado
-
 n.(CESPE / TCO-RO - 2013) O padrão Adapter será mais apropriado que o Façade quando for
 necessário fornecer uma interface unificada para um conjunto de interfaces em um subsistema.
 
@@ -1546,8 +1535,6 @@ logo ele é
 mais indicado!
 
 Gabarito: Errado
-
-
 i2.(CESPE / TCE-RO - 2013) O uso do padrão Builder tem a vantagem de
 permitir acesso
 controlado à instância de uma classe, uma vez que ele encapsula a classe, criando um
@@ -1566,7 +1553,6 @@ global a ela.
 Ponto global único de acesso? Opa, isso é Singleton!
 
 Gabarito: Errado
-
 i3.(CESPE / TCE-RO - 2013) Os padrões estruturais, tais como o Bridge e o Proxy,
 abstraem o
 processo de instanciação, ajudando a tornar um sistema independente de como os seus
@@ -1592,7 +1578,6 @@ formar estruturas
 maiores e os padrões criacionais abstraem o processo de instanciação.
 
 Gabarito: Errado
-
 i4.(CESPE/ MPOG-2013) O padrão de comportamento e encadeamento de atendentes
 (chain of
 responsibility) evita acoplamento entre solicitantes e atendentes, permitindo que
@@ -1613,7 +1598,6 @@ mais de um objeto a chance de lidar com a requisição.
 Evita o acoplamento entre solicitantes e atendentes? É Chain of Responsability!
 
 Gabarito: Correto
-
 i5.(CESPE / MPOG - 2013) Para um problema recorrente no desenvolvimento de sistemas,
 normalmente, um padrão de projeto descreve uma solução geral, que não pode ser reutilizada.
 
@@ -1622,7 +1606,6 @@ Comentários:
 São soluções gerais para problemas recorrentes e, portanto, podem ser reutilizadas.
 
 Gabarito: Errado
-
 i6.(CESPE / MPOG - 2013) Padrões de projeto envolvem combinações de classes e algoritmos
 associados que cumprem com propósitos comuns de projeto.
 
@@ -1631,7 +1614,6 @@ Comentários:
 Perfeito! Eles resolvem problemas comuns ou recorrentes.
 
 Gabarito: Correto
-
 i7.(CESPE / MPE-PI - 2012) O padrão de projeto conhecido como façade é
 indicado para a
 definição de uma interface de nível mais alto que torne mais fácil a
@@ -1648,7 +1630,6 @@ Definição de uma interface de nível mais alto que tome mais fácil a comunica
 Façade.
 
 Gabarito: Correto
-
 i8.(CESPE / BASA-2012) O padrão mediator define um objeto que encapsula como um
 conjunto
 de objetos interage. Esse padrão torna desnecessário que cada objeto armazene
@@ -1670,7 +1651,6 @@ restante da
 descrição também está certo.
 
 Gabarito: Correto
-
 ig.(CESPE / BASA - 2012) O padrão adapter define uma família de algoritmos,
 permite o
 encapsulamento de algoritmos e possibilita a substituição desses algoritmos. Os
@@ -1919,8 +1899,6 @@ do tipo
 txt e seja capaz de converter o documento em vários formatos distintos, houver a
 necessidade
 de facilitar acréscimos de novos tipos de conversão, será mais indicado o uso do padrão de
-
-
 estrutura Adapter que o uso do padrão de estrutura Bridge, pois o padrão Adapter
 separa a
 construção de um objeto complexo de sua representação para criar representações
@@ -2278,7 +2256,6 @@ Projeto (Design
 Patterns) o que se caracteriza por definir uma interface para a criação de um objeto
 e que
 permite que a subclasse decida qual classe instanciar é denominado
-
 a) Factory Method.
 
 b) Builder.
@@ -2351,7 +2328,6 @@ III. Possibilitar o reaproveitamento de objetos.
 IV. Possibilitar a criação de novos objetos a partir da cópia de objetos existentes.
 
 Está correto o que consta APENAS em
-
 a) I e II.
 
 b) I e III.
@@ -2852,7 +2828,6 @@ usam sua própria informação para cumprir responsabilidades; leva ao fraco aco
 informação.
 
 As afirmações correspondem, respectivamente, aos padrões
-
 a) Command, Iterator, Singleton e Expert.
 
 b) Controller, Expert, Singleton e Prototype.
@@ -3097,11 +3072,8 @@ compostos basicamente por 4 elementos essenciais que são:
 a) Nome do software + Problema a ser resolvido + Solução dada pelo padrão + Tempo
 de
 desenvolvimento
-
 b) Nome do padrão + Problema a ser resolvido + Solução dada pelo padrão + Consequências
-
 c) Nome do software + Problema a ser resolvido + Planejamento das atividades + Consequências
-
 d) Nome do padrão + Problema a ser resolvido + Planejamento das atividades + Tempo
 de
 desenvolvimento
@@ -3130,7 +3102,6 @@ qual deles não pertence a essa família especificamente:
 (4) Prototype
 
 (5) Proxy
-
 a) somente o 1 não pertence a essa família especificamente.
 
 b) somente o 2 não pertence a essa família especificamente.
@@ -3838,8 +3809,6 @@ nome
 aplicação.war, e se encontrem pleno funcionamento. Conforme a nomenclatura
 proposta pelo
 GoF (Gang of Four) book, o nome dado ao módulo F sugere que esse módulo implementa um
-
-
 padrão da categoria comportamental, enquanto
 implementa um padrão da categoria estrutural.
 
@@ -4041,7 +4010,6 @@ Projeto (Design
 Patterns) o que se caracteriza por definir uma interface para a criação de um objeto
 e que
 permite que a subclasse decida qual classe instanciar é denominado
-
 a) Factory Method.
 
 b) Builder.
@@ -4093,7 +4061,6 @@ III. Possibilitar o reaproveitamento de objetos.
 IV. Possibilitar a criação de novos objetos a partir da cópia de objetos existentes.
 
 Está correto o que consta APENAS em
-
 a) I e II.
 
 
@@ -4353,7 +4320,6 @@ informação.
 
 
 As afirmações correspondem, respectivamente, aos padrões
-
 a) Command, Iterator, Singleton e Expert.
 
 b) Controller, Expert, Singleton e Prototype.
@@ -4504,11 +4470,8 @@ compostos basicamente por 4 elementos essenciais que são:
 a) Nome do software + Problema a ser resolvido + Solução dada pelo padrão + Tempo
 de
 desenvolvimento
-
 b) Nome do padrão + Problema a ser resolvido + Solução dada pelo padrão + Consequências
-
 c) Nome do software + Problema a ser resolvido + Planejamento das atividades + Consequências
-
 d) Nome do padrão + Problema a ser resolvido + Planejamento das atividades + Tempo
 de
 desenvolvimento
@@ -4536,7 +4499,6 @@ qual deles não pertence a essa família especificamente:
 (4) Prototype
 
 (5) Proxy
-
 a) somente o 1 não pertence a essa família especificamente.
 
 b) somente o 2 não pertence a essa família especificamente.
@@ -5016,7 +4978,6 @@ GRASP
 O GRASP, acrônimo de General Responsability Assignment Software Patterns (ou Principies),
 consiste em um conjunto de práticas que descrevem os princípios fundamentais de atribuição
 de responsabilidade a objetos, expressas na forma de padrões. Ele ajuda a compreender melhor
-
 a utilização da orientação a objetos em projetos complexos.
 
 A qualidade de um projeto orientado a objetos está fortemente relacionada à
@@ -5608,8 +5569,6 @@ ao criar
 software para facilitar o dimensionamento e a manutenção. Veja bem, alguns
 desses princípios
 podem parecer semelhantes, mas não visam o mesmo objetivo. Para simplificar o
-
-
 acompanhamento, usarei a palavra "Classe", mas observe que ela também pode se aplicar
 a uma
 função, método ou módulo.
@@ -5678,15 +5637,12 @@ Substituição de Liskov
 Hi, Tm Sam.
 I make
 coffee
-
-
 i
 i
 
 <
 
 Hey Eden, Sam is
-
 not here ríght now.
 Can you make me
 coffee?
@@ -5708,8 +5664,6 @@ O objetivo desse princípio é reforçara consistência para que a classe-pai ou
 ser usadas da mesma maneira sem erros. A imagem à esquerda mostra que a classe-pai entrega
 café (pode ser qualquer tipo de café). É aceitável que a classe-filha entregue cappuccino por ser
 um
-
-
 tipo específico de café, mas não é aceitável entregar água. Se a classe-filha não
 atender a esses
 requisitos, isso significa que a classe-filha foi alterada completamente e viola esse princípio.
@@ -5748,8 +5702,6 @@ No entanto,
 temos uma divisão de ações: ações para robôs que podem girar; ações para robôs que
 podem rodar
 os braços; e ações para robôs que podem balançar as antenas. Logo, nenhum robô possui uma
-
-
 função inútil que não podem executar e que são apenas um desperdício capaz de
 produzir bugs
 inesperados. Bacana?
@@ -5785,8 +5737,6 @@ executar uma
 ação. Em vez disso, ele deve ser fundido à interface que permitirá que a ferramenta
 se conecte à
 classe. Também diz que tanto a classe quanto a interface não devem saber como a ferramenta
-
-
 funciona. No entanto, a ferramenta precisa atender à especificação da interface. O
 objetivo desse
 princípio é reduzira dependência de uma classe de alto nível na classe de baixo
@@ -5857,8 +5807,6 @@ Extensibilidade
 Coesão
 
 Acoplamento
-
-
 í. (FGV/ Senado Federal -2022) Os princípios de Orientação a Objetos e Design de
 Código são
 guiados pelos conceitos do acrônimo SOLID, em que cada letra descreve um

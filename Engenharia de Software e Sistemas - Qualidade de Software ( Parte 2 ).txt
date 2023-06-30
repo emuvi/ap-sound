@@ -304,8 +304,6 @@ tempo de estudo ele observou o seguinte:
 Pode ocorrer 0 fato de um mesmo conjunto de testes que são repetidos várias vezes não
 encontrar novos defeitos após um determinado momento. Para superar esta condição, os
 casos de testes necessitam ser frequentemente revisados e atualizados. Um conjunto de
-
-
 testes novo e diferente precisa ser escrito para exercitar diferentes partes do
 software ou
 sistema com objetivo de aumentar a possibilidade de encontrar mais erros.
@@ -338,15 +336,11 @@ princípios fundamentais do teste de software.
 a) Testes apontam a presença de falhas - Testes dependem do contexto -
 Testes
 apontam os custos
-
 b) Depende dos requisitos - Testes apontam a presença de falhas - Paradoxo
 do
 pesticida
-
 c) Teste antecipado -Testes apontam os custos - Ausência de erros é uma ilusão
-
 d) Paradoxo do pesticida -Teste antecipado-Testes dependem do contexto
-
 e) Ausência de erros é uma ilusão-Agrupamento de defeitos-Dependem dos requisitos
 
 Comentários: (a) Errado, 0 terceiro item não é um dos princípios fundamentais; (b)
@@ -684,13 +678,9 @@ com
 sucesso deve(m) serexecutado(s):
 
 a) os casos de uso
-
 b) os diagramas de atividade
-
 c) os casos de teste
-
 d) os testes de Turing
-
 e) o teste de COMA.
 
 Comentários: na fase de especificação os casos de teste são elaborados e revisados, mas eles são
@@ -1389,8 +1379,6 @@ envia e
 recebe dados e deve se integrar da melhor maneira possível. O teste de
 integração verifica
 interfaces entre componentes do mesmo software, já o teste de sistema verifica interfaces
-
-
 entre componentes diferentes de um mesmo sistema - incluindo softwares, hardwares,
 pessoas
 e informações, além dos requisitos funcionais e não-funcionais. Capiche?
@@ -1425,13 +1413,9 @@ diferente do seu papel de expor falhas que são removidas para melhorar o produt
 Assinale a alternativa que preenche corretamente a lacuna do texto acima.
 
 a) Teste de sistema
-
 b) Teste de unidade
-
 c) Inspeção
-
 d) Teste de regressão
-
 e) Teste de integração
 
 Comentários: a questão trata dos testes de sistema. Eles realmente verificam a
@@ -1446,13 +1430,9 @@ componentes, problemas de interface de componentes, validação de que o sistema
 atende aos requisitos funcionais e não funcionais.
 
 a) Teste de sistema
-
 b) Teste de componente
-
 c) Teste de aceitação
-
 d) Teste de especificação
-
 e) Teste de operação
 
 
@@ -1546,7 +1526,6 @@ específicas de um componente para serem testadas. O tipo de teste citado é con
 como teste:
 
 a) Funcional
-
 b) Caixa-preta.
 
 c) Caixa-branca.
@@ -1776,7 +1755,6 @@ a) Teste de ciclo.
 b) Teste de condição.
 
 c) Teste caixa-preta
-
 d) Teste de fluxo.
 
 Comentários: as palavras-chave já dão uma dica: requisitos comportamentais que permitem
@@ -2053,8 +2031,6 @@ INCIDÊNCIA EM PROVA: ALTA
 Também chamado de teste de esforço, serve para colocar os programas em
 situações
 anormais. Essencialmente, o testador que executa teste por esforço pergunta: até onde podemos
-
-
 forçar o sistema até que ele falhe? Esse teste usa um sistema de maneira que demande
 recursos em
 quantidade, frequência ou volumes anormais. Podem ser realizados testes em condições de
@@ -2168,8 +2144,6 @@ Testes de Carga são a forma mais simples de testes para compreender o comportam
 sistema sob uma carga específica. Ele é capaz de determinar o comportamento de um
 sistema
 sob condições especificadas ou acordadas. A carga pode ser, por exemplo, o número de usuários
-
-
 simultâneos esperados na aplicação. Em suma: testes de desempenho podem se dividir em
 teste
 de stress e teste de carga.
@@ -2386,7 +2360,6 @@ Comentários: após uma das novas funcionalidades ter sido implementada, a equip
 percebeu que algumas
 funcionalidades antigas começaram a apresentar falhas em seus resultados. Logo, a medida inicial
 mais adequada a ser adotada
-
 é 0 teste de regressão (Letra D).
 
 (FUNPRESP/JUD - 2016) O teste de regressão visa garantir a integridade de um
@@ -2477,8 +2450,6 @@ que
 contém o tipo de teste de software correspondente àquele realizado imediatamente
 após a conclusão da fase de desenvolvimento, e que visa testar se o software roda e
 provê suas funcionalidades e características básicas, de forma a estar habilitado para
-
-
 recebertestes mais detalhados, ou se ele possui algum problema estrutural básico (ex. o
 software não roda) que deve ser corrigido antes de realizar outros tipos de testes:
 
@@ -2709,7 +2680,6 @@ desenvolvedores,
 simultaneamente.
 
 d) Teste Alfa é feito na fase de criação e o Teste Beta, na fase de produção
-
 e) Teste Alfa é feito sem os dados e o Teste Beta é feito com dados fictícios.
 
 Comentários: testes alfa são realizados em ambiente controlado e testes beta são realizados no
@@ -2773,8 +2743,6 @@ que tem como premissa:
 a) fazer com que o software falhe e verificar se ocorre, corretamente, sua recuperação.
 
 1 Mean Time To Repair
-
-
 b) rodar um teste de grande tempo de duração, esperando que não haja
 falhas
 registradas no software.
@@ -2972,8 +2940,6 @@ repetitivos de teste e permitindo que os testes sejam executados de forma mais r
 Há uma série de critérios que você precisa levar em conta ao escolher a
 ferramenta de
 automação de teste perfeita Devem ser considerados critérios, tais como facilidade de utilização
-
-
 e criação de testes, suporte a múltiplas plataformas e navegadores, facilidade
 de análise,
 flexibilidade, custo e o poder dos recursos do software. Algumas das ferramentas de
@@ -3357,8 +3323,6 @@ chocolate real.
 MOCK Trata-se de um objeto que permite verificar o comportamento das chamadas
 de método, bem
 como definir expectativas e verificar se elas foram atendidas durante o teste. Os mocks são
-
-
 usados para verificar interações específicas e garantir que o código em teste
 esteja se
 comunicando corretamente com a dependência simulada.
@@ -4051,7 +4015,6 @@ em cascata,
 o teste de sistema concentra-se no teste de todo o sistema".
 
 Gabarito: Correto
-
 i8.(CESPE/CGM DE JOÃO PESSOA-PB-2018) O particiona mento de equivalência é uma técnica
 de teste caixa-preta caracterizada por dividir o domínio de entrada de um módulo em
 classes de
@@ -4064,7 +4027,6 @@ otimizaro
 processo de testes por meio da separação das entradas em classes ou categorias diferentes.
 
 Gabarito: Correto
-
 ig.(CESPE / STM - 2018) Testes de regressão servem ao propósito de verificar se o
 sistema pode
 operar na carga necessária, fazendo-a regredir constantemente até que o comportamento de
@@ -4101,8 +4063,6 @@ precisam
 de outras classes - então é do mais geral para o mais específico (no sentido
 de funcionalidades) e
 do menor para o maior (no sentido de tamanho). A abordagem top-down é o contrário, eu começo
-
-
 testando o sistema até chegar aos módulos, ou seja, do mais específico para o mais
 geral (no
 sentido de funcionalidade). Portanto, a questão está perfeita!
@@ -4224,8 +4184,6 @@ Comentários:
 Testes Unitários não são atividades de validação, mas de verificação! À princípio, a
 banca deu o item
 como correto, mas depois o anulou sob a justificativa de que "a redação do item prejudicou seu
-
-
 julgamento objetivo". Galera, na minha opinião, não há nada de errado com a redação -
 o item está
 completamente errado.
@@ -4399,8 +4357,6 @@ valores de 0.0
 a 5.0, basta escolher um valor (Ex: 3.5), porque todos os outros valores dessa classe
 se comportarão
 da mesma maneira. Galera, aqui estou sendo bem simplista por conta do exemplo, mas é possível
-
-
 especificar várias outras entradas, logo teríamos mais partições. As regras para
 utilizar essa técnica
 são:
@@ -5221,8 +5177,6 @@ que podem
 ter sido afetadas, dentro de uma abordagem baseada em risco. Assim, os
 testadores
 destacariam as áreas de aplicação que poderiam ser afetadas pelas recentes alterações de
-
-
 código e selecionariam os casos de testes relevantes para o conjunto de testes.
 Procedendo
 desta forma, seriam realizados testes:
@@ -5325,8 +5279,6 @@ Gabarito: Letra C
 
 10.(FCC / DP-AM - 2018) Considere, por hipótese, que na Defensoria esteja sendo desenvolvido
 um projeto com prazo crítico, sendo necessário que os desenvolvedores avaliem o software
-
-
 frequentemente. A equipe envolvida decidiu utilizar uma abordagem de teste de integração
 que
 trabalha da seguinte maneira:
@@ -5520,13 +5472,9 @@ estrutura lógica interna do software.
 As lacunas I e II são preenchidas correta e respectivamente, com:
 
 a) de caminho básico - caixa-de-vidro
-
 b) alfa - beta
-
 c) caixa branca - caixa preta
-
 d) de ciclo - de usabilidade
-
 e) unitário - de interface
 
 Comentários:
@@ -6100,8 +6048,6 @@ rede de
 farmácias. O sistema deve ser utilizado em mais de 40 unidades espalhadas por vários
 estados.
 O sistema entrou em produção e, já na primeira semana de uso, ficou muito lento e diversas
-
-
 vezes indisponível para os operadores das lojas. Diante deste cenário, assinale a opção
 que
 indica a técnica de teste que foi negligenciada:
@@ -6343,8 +6289,6 @@ Gabarito: Letra E
 Item. 14. (FGV / IBGE -2016) Trata-se de um teste que desconhece o conteúdo do código
 fonte. Nesse
 teste o componente testado é tratado como uma caixa preta: são fornecidos dados de entrada
-
-
 e o resultado comparado com aquele esperado e previamente conhecido. Além disso, esse
 teste
 pode ser aplicado em diversas fases de teste. A questão retrata características do teste:
@@ -6472,13 +6416,9 @@ opção que
 apresenta somente itens da dimensão tipos de teste.
 
 a) Teste de Aceitação - Teste de Regressão - Teste Estrutural
-
 b) Teste de Funcionalidade - Teste de Desempenho-Teste de Unidade
-
 c) Teste de Interface -Teste de Carga -Teste de Segurança
-
 d) Teste Funcional -Teste de Volume -Teste de Sistema
-
 e) Teste de Usabilidade -Teste de Funcionalidade -Teste de Integração
 
 Comentários:
@@ -6562,7 +6502,6 @@ SAA - Sistema de Atendimento Agendado
 Agendar Atendimento
 
 Figura 12 - Tela de entrada de dados
-
 í. (FUNDATEC / ISS-Porto Alegre - 2022) Sabe-se que a equipe
 responsável pelo
 desenvolvimento da funcionalidade Agendar Atendimento, do software
@@ -6843,7 +6782,6 @@ A definir
 software são
 
 2 Modelos de
-
 processos de
 software
 
@@ -6864,7 +6802,6 @@ A Modelos de processos de software
 
 B as atividades envolvidas na produção de um
 sistema, de software
-
 ê o processo de desenvolvimento de uma
 C especificação de software
 
@@ -7718,7 +7655,6 @@ Gabarito: Letra E
 Item. 30. (IDECAN / IF-PB- 2019) O processo de teste tem dois objetivos distintos:
 
 i) Demonstrar ao desenvolvedor e ao cliente que o software atende a seus requisitos e
-
 ii) Descobrir situações em que o software se comporta de maneira incorreta, indesejável
 ou de
 forma diferente das especificações.
@@ -8480,8 +8416,6 @@ corretamente
 implementadas. Este tipo de teste é focado principalmente na descoberta de falhas e
 executado
 pelo grupo de desenvolvimento de testes, tendo também um papel importante para avaliar se
-
-
 o produto pode ser liberado para os consumidores, o que é diferente do seu papel de
 expor
 falhas que são removidas para melhorar o produto.
@@ -8489,13 +8423,9 @@ falhas que são removidas para melhorar o produto.
 Assinale a alternativa que preenche corretamente a lacuna do texto acima:
 
 a) Teste de sistema
-
 b) Teste de unidade
-
 c) Inspeção
-
 d) Teste de regressão
-
 e) Teste de integração
 
 Comentários:
@@ -8523,13 +8453,9 @@ totalmente finalizado.
 Assinale a alternativa que preenche corretamente a lacuna do texto acima:
 
 a) Teste de regressão
-
 b) Teste de integração
-
 c) Teste de unidade
-
 d) Teste de sistema
-
 e) Teste de aceitação
 
 Comentários:
@@ -9061,13 +8987,9 @@ conhecida
 como testes:
 
 a) aleatórios
-
 b) exploratórios
-
 c) de mutação
-
 d) de perfil operacional
-
 e) baseados em fluxo de controle
 
 Comentários:
@@ -9101,13 +9023,9 @@ a
 lacuna do texto acima.
 
 a) Teste de regressão
-
 b) Teste de sistema
-
 c) Inspeção
-
 d) Refatoração
-
 e) Teste de integração
 
 Comentários:
@@ -9178,14 +9096,9 @@ atenda à
 segunda exigência é denominado teste de:
 
 a) estresse
-
 b) volume
-
-
 c) usabiIidade
-
 d) regressão
-
 e) configuração
 
 Comentários:
@@ -9314,13 +9227,9 @@ Conta com a participação de usuários e desenvolvedores.
 Esse tipo de teste é chamado de:
 
 a) Teste alfa
-
 b) Teste beta
-
 c) Teste de estresse
-
 d) Teste de regressão
-
 e) Teste de desempenho
 
 Comentários:
@@ -9342,13 +9251,9 @@ enquanto utilizam o software e registram erros e problemas no uso.
 Essa estratégia de teste em um ambiente controlado é conhecida como teste:
 
 a) alfa
-
 b) beta
-
 c) de stress
-
 d) de integração
-
 e) de aceitação do cliente
 
 Comentários:
@@ -9364,8 +9269,6 @@ suma
 importância e podem, dependendo do porte do sistema, ser bastante complexos, exigindo
 que
 seu planejamento e realização sejam divididos em fases. Em uma dessas fases, os testes são
-
-
 realizados por um grupo restrito de usuários finais do sistema, que simulam operações
 de rotina
 do sistema, de modo a verificar se seu comportamento está de acordo com o solicitado.
@@ -9373,13 +9276,9 @@ Essa
 fase é denominada teste de:
 
 a) integração
-
 b) unidade
-
 c) sistema
-
 d) operação
-
 e) aceitação
 
 Comentários:
@@ -9397,13 +9296,9 @@ com
 esse modelo, está representada em:
 
 a) Teste unitário —> Modelagem de requisitos
-
 b) Teste de sistema —> Desenvolvimento de componentes
-
 c) Teste de aceitação —> Geração de código
-
 d) Teste de integração —> Arquitetura do sistema
-
 e) Teste de caixa preta —> Desenho das estruturas de dados
 
 Comentários:
@@ -9569,13 +9464,9 @@ programa modificado.
 Assinale a alternativa que cita corretamente o conceito ao qual se refere a definição.
 
 a) Teste de sistema
-
 b) Teste de unidade
-
 c) Teste de regressão
-
 d) Teste de integração
-
 e) Teste de requisitos
 
 Comentários:
@@ -9596,7 +9487,6 @@ III - O teste de validação focaliza ações e saídas tais como percebidas pel
 A(s) afirmativa(s) correta(s) é/são somente:
 
 a) l
-
 b) II
 
 c) III
@@ -9681,8 +9571,6 @@ pudessem se
 relacionar. Esses cenários deveriam descrever uma maneira de usar o sistema. Para isso,
 foram
 sugeridos os testes de release e de cenário. Nessa situação, será correto aplicar testes de
-
-
 cenários, que são incompatíveis com os de release, devendo a aplicação desses últimos
 ser
 descartada.
@@ -10009,8 +9897,6 @@ e avaliadas as saídas geradas.
 Item. 53. (CESPE / TJ-ES - 2010) O teste de integração, a exemplo do teste caixa-branca,
 focaliza o
 esforço de validação na menor unidade de projeto do software e, com o uso de técnicas de
-
-
 componentização, caminhos de controle relevantes são testados para descobrir
 erros dentro
 dos limites do componente.
@@ -10575,13 +10461,9 @@ estrutura lógica interna do software.
 As lacunas I e II são preenchidas correta e respectivamente, com:
 
 a) de caminho básico - caixa-de-vidro
-
 b) alfa - beta
-
 c) caixa branca - caixa preta
-
 d) de ciclo - de usabilidade
-
 e) unitário - de interface
 
 Item. 15. (FCC /TRT-PE -2012) No que se refere a testes de software, é correto afirmar que:
@@ -11169,15 +11051,10 @@ opção que
 apresenta somente itens da dimensão tipos de teste.
 
 a) Teste de Aceitação - Teste de Regressão - Teste Estrutural
-
 b) Teste de Funcionalidade - Teste de Desempenho-Teste de Unidade
-
 c) Teste de Interface -Teste de Carga -Teste de Segurança
-
 d) Teste Funcional -Teste de Volume -Teste de Sistema
-
 e) Teste de Usabilidade -Teste de Funcionalidade -Teste de Integração
-
 ig.(FGV/ FIOCRUZ-2010) Um tipo deteste de sistemas de software é também chamado de
 "teste
 comportamental" e focaliza os requisitos funcionais do software, permitindo ao engenheiro
@@ -11248,7 +11125,6 @@ Item. 20. LETRA B
 LISTA DE QUESTõES - DIvERSAS BANCAS
 
 Figura 12 - Tela de entrada de dados
-
 í. (FUNDATEC / ISS-Porto Alegre - 2022) Sabe-se que a equipe
 responsável pelo
 desenvolvimento da funcionalidade Agendar Atendimento, do software
@@ -11453,7 +11329,6 @@ A definir
 software são
 
 2 Modelos de
-
 processos de
 software
 
@@ -11474,7 +11349,6 @@ A Modelos de processos de software
 
 B as atividades envolvidas na produção de um
 sistema, de software
-
 ê o processo de desenvolvimento de uma
 C especificação de software
 
@@ -12018,7 +11892,6 @@ e) regressão.
 Item. 30. (IDECAN / IF-PB- 2019) O processo de teste tem dois objetivos distintos:
 
 i) Demonstrar ao desenvolvedor e ao cliente que o software atende a seus requisitos e
-
 ii) Descobrir situações em que o software se comporta de maneira incorreta, indesejável
 ou de
 forma diferente das especificações.
@@ -12178,8 +12051,6 @@ recebeu
 novamente as funcionalidades e confirmou que os erros foram devidamente corrigidos.
 Apesar
 disso, essa equipe irá realizar mais um ciclo de teste com o objetivo de verificar se a nova versão
-
-
 do software, ajustada pelos desenvolvedores, não introduziu novos defeitos, em outros
 pontos
 do aplicativo, em consequência dos ajustes realizados. Nesse caso, esse tipo de teste
@@ -12511,13 +12382,9 @@ que são removidas para melhorar o produto.
 Assinale a alternativa que preenche corretamente a lacuna do texto acima:
 
 a) Teste de sistema
-
 b) Teste de unidade
-
 c) Inspeção
-
 d) Teste de regressão
-
 e) Teste de integração
 
 
@@ -12537,13 +12404,9 @@ totalmente finalizado.
 Assinale a alternativa que preenche corretamente a lacuna do texto acima:
 
 a) Teste de regressão
-
 b) Teste de integração
-
 c) Teste de unidade
-
 d) Teste de sistema
-
 e) Teste de aceitação
 
 56.(FAURGS / BANRISUL - 2018) Considere as seguintes afirmações sobre o Modelo "V" de
@@ -12895,13 +12758,9 @@ conhecida
 como testes:
 
 a) aleatórios
-
 b) exploratórios
-
 c) de mutação
-
 d) de perfil operacional
-
 e) baseados em fluxo de controle
 
 Item. 72. (FAURGS / BANRISUL -2018)verifica novamente os casos de
@@ -12917,14 +12776,9 @@ a
 lacuna do texto acima.
 
 a) Teste de regressão
-
 b) Teste de sistema
-
 c) Inspeção
-
-
 d) Refatoração
-
 e) Teste de integração
 
 Item. 73. (UFLA / UFLA - 2018) Sobre teste de regressão de software, são verdadeiras as
@@ -12967,13 +12821,9 @@ O tipo de teste que deve ser empregado para que a equipe de desenvolvimento aten
 segunda exigência é denominado teste de:
 
 a) estresse
-
 b) volume
-
 c) usabilidade
-
 d) regressão
-
 e) configuração
 
 Item. 75. (IF-PE / IF-PE - 2016) Em relação aos Testes na Engenharia de Software, qual é
@@ -13056,14 +12906,9 @@ Conta com a participação de usuários e desenvolvedores.
 Esse tipo de teste é chamado de:
 
 a) Teste alfa
-
-
 b) Teste beta
-
 c) Teste de estresse
-
 d) Teste de regressão
-
 e) Teste de desempenho
 
 Item. 79. (CESGRANRIO / IBGE - 2014) Antes de lançar seu próximo produto, uma
@@ -13077,13 +12922,9 @@ enquanto utilizam o software e registram erros e problemas no uso.
 Essa estratégia de teste em um ambiente controlado é conhecida como teste:
 
 a) alfa
-
 b) beta
-
 c) de stress
-
 d) de integração
-
 e) de aceitação do cliente
 
 Item. 80. (CESGRANRIO / IBGE - 2014) No ciclo de desenvolvimento de sistemas, os testes são
@@ -13099,13 +12940,9 @@ Essa
 fase é denominada teste de:
 
 a) integração
-
 b) unidade
-
 c) sistema
-
 d) operação
-
 e) aceitação
 
 Item. 81. (CESGRANRIO / IBGE-2014) Preocupado com os constantes erros nos sistemas entregues
@@ -13117,13 +12954,9 @@ com
 esse modelo, está representada em:
 
 a) Teste unitário —► Modelagem de requisitos
-
 b) Teste de sistema —> Desenvolvimento de componentes
-
 c) Teste de aceitação —> Geração de código
-
 d) Teste de integração —> Arquitetura do sistema
-
 e) Teste de caixa preta —> Desenho das estruturas de dados
 
 
@@ -13215,13 +13048,9 @@ programa modificado.
 Assinale a alternativa que cita corretamente o conceito ao qual se refere a definição.
 
 a) Teste de sistema
-
 b) Teste de unidade
-
 c) Teste de regressão
-
 d) Teste de integração
-
 e) Teste de requisitos
 
 Item. 88. (NCE-UFRJ / UFRJ - 2008) Considere as seguintes afirmativas sobre testes de software:
@@ -13235,7 +13064,6 @@ III - O teste de validação focaliza ações e saídas tais como percebidas pel
 
 A(s) afirmativa(s) correta(s) é/são somente:
 a) l
-
 b) II
 
 c) III

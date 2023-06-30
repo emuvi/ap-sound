@@ -108,7 +108,6 @@ memória para o objeto e inicializando essa memória para valores default. Ele n
 de um
 operando: o construtor, que é o nome de um método especial que constrói o objeto.
 Uma vez
-
 x' 4
 
 
@@ -154,7 +153,6 @@ sintaxe de declaração de um atributo é a seguinte:
 A Palavra-Chave é opcional, podendo ser:
 
 Final, Volatile, Static ou Transient
-
 class Empregado {
 
 final String Nome; //Indica que Nome é um atributo constante;
@@ -384,7 +382,6 @@ mesmo pacote.
 herdam membros privados, mas não o
 acessam. A documentação oficial afirma da seguinte forma: 11 Members of a dass that are dedared
 private are not inherited by
-
 subdasses o f that dass".
 
 
@@ -507,23 +504,19 @@ quantidade, tipo e ordem dos parâmetros. Em outras palavras:
 
 
 //Assinatura Igual: quantidade, tipo e ordem
-
 public String EntendendoAssinatura(int A, char B);
 public String EntendendoAssinatura(int C, char D);
 
 //Assinatura Diferente: quantidade diferente
-
 public String EntendendoAssinatura(long A, long B, long C);
 public String EntendendoAssinatura(long A, long B);
 
 //Assinatura Diferente: tipo diferente
-
 public String EntendendoAssinatura(long A, long B);
 public String EntendendoAssinatura(char A, long B);
 
 
 //Assinatura Diferente: ordem diferente
-
 public String EntendendoAssinatura(int A, char B);
 public String EntendendoAssinatura(char B, int A);
 
@@ -780,13 +773,9 @@ Qual das alternativas a seguir contém um modificador que ao ser usado na declar
 acima em substituição ao termo <mod> impedirá que a classe Xpto seja estendida?
 
 a) static
-
 b) const
-
 c) abstract
-
 d) final
-
 e) virtual
 
 Comentários:
@@ -1353,7 +1342,6 @@ this.descontos descontos;
 }
 
 «Override
-
 public double calcularSalario(){
 
 return super.getValorBase() - descontos;
@@ -1374,7 +1362,6 @@ this.diasPorSemana « diasPorSemana;
 }
 
 ©Override
-
 public double calcularSalario(){
 
 return super.getValorBase() * diasPorSemana;
@@ -1731,13 +1718,9 @@ Qual das alternativas a seguir contém um modificador que ao ser usado na declar
 acima em substituição ao termo <mod> impedirá que a classe Xpto seja estendida?
 
 a) static
-
 b) const
-
 c) abstract
-
 d) final
-
 e) virtual
 
 Item. 2. (CESGRANRIO - 2012 - Petrobrás - Técnico de Exploração de Petróleo
@@ -2099,7 +2082,6 @@ this.descontos descontos;
 }
 
 «Override
-
 public double calcularSalario(){
 
 retum super.getValorBase () - descontos;
@@ -2120,7 +2102,6 @@ this.diasPorSemana « diasPorSemana;
 }
 
 ©Override
-
 public double calcularSalario(){
 
 retum super.getValorBase () * diasPorSemana;

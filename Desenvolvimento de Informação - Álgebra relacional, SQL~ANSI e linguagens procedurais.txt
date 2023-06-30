@@ -72,8 +72,6 @@ uma numeração separa os conteúdos específicos em diversos documentos.
 Por exemplo, a norma produzida pelo comitê com a numeração ISO/IEC 9075-1
 descreve a estrutura
 conceituai usada para especificar a gramática de SQL e o resultado das instruções de processamento
-
-
 nessa linguagem. A norma também define os termos e a notação utilizados nos
 demais documentos
 da série.
@@ -86,7 +84,6 @@ nome e um tipo de dados. Cada linha tem, para cada coluna, exatamente um
 valor no tipo de dados
 dessa coluna." (tradução da versão em inglês). Observe a tabela APROVADOS
 abaixo e preencha a
-
 linha em branco com os seus dados ©
 
 APROVADOS
@@ -197,8 +194,6 @@ Colunas da tabela
 r
 
 Comando
-
-
 k j
 
 SGBD
@@ -206,8 +201,6 @@ SGBD
 Relacional
 
 * Processar
-
-
 r
 
 Resultado
@@ -363,8 +356,6 @@ Estes dialetos comumente evoluem mais rapidamente do que o padrão SQL
 ANSI, pois, um
 determinado banco de dados de uma comunidade de usuários ou de um
 fornecedor requer
-
-
 funcionalidades para a utilização do banco de dados antes do comitê da ANSI/ISO criar
 uma versão
 do padrão que aplique tal funcionalidade.
@@ -560,15 +551,12 @@ somar
 12 SQL>
 
 begin
-
 soma := 45+55; I
 
 dbms_output.put_line('Soma : '||soma);
 
 exception
-
 when others then
-
 raise_application_error(-20001, 'Erro ao
 valores I');
 
@@ -579,7 +567,6 @@ Figura 3 - Exemplo de código PL/SQL
 Área de escopo
 
 Tratamento de
-
 erros
 
 Vamos, a seguir, tratar detalhadamente dos comandos de definição de dados
@@ -742,9 +729,7 @@ dados são
 WF
 
 ' Cíirdinalidat ie
-
 uantidade c ie
-
 i _ i_
 
 \7
@@ -865,10 +850,7 @@ Tipos de dados
 
 Sobre o comando CREATE TABLE, ele é usado para especificar uma nova
 relação, dando-lhe um
-
 nome e especificando seus atributos e restrições iniciais. Vejam que os atributos são definidos
-
-
 primeiro e a cada atributo é dado um nome, um tipo para especificar o
 domínio de seus valores e
 alguma restrição de atributo. As restrições de chave, de integridade, de
@@ -899,16 +881,11 @@ Gabarito: ERRADO.
 ff aluno
 id
 nome
-
 r matricula
-
 iz, aluno
-
 disciplina a
-
 ano
 nota
-
 ff disciplina
 12? id
 
@@ -1161,7 +1138,6 @@ seu sistema,
 mas você pode usar outros conjuntos de caracteres alternativos; para isso
 existe o NATIONAL
 CHARACTER, NATIONAL CHARACTER VARYING, e NATIONAL CHARACTER LARGE OBJECT. Eles são
-
 tipos de dados com a mesma função que o CHARACTER, CHARACTER VARYING e CHARACTER LARGE
 OBJECT - a única diferença é que o conjunto de caracteres que você está especificando é diferente
 do conjunto de caracteres padrão.
@@ -1226,7 +1202,6 @@ importância
 dos dados binários parece vir um pouco tarde para SQL. Antes tarde do que nunca!
 Existem três
 tipos diferentes BINARY, BINARY VARYING e BINARY LARGE OBJECT. BINARY LARGE OBJECT é
-
 conhecido como BLOB. O BLOB armazena grandes grupos de bytes, até o valor especificado.
 
 
@@ -1464,7 +1439,6 @@ id DECIMAL PRIMARY KEY,
 
 coll DECIMAL(5,2), -- 3 dígitos antes e 2 dígitos depois da
 vírgula decimal
-
 col2 SMALLINT, -- Apenas valores inteiros.
 
 col3 INTEGER, -- Apenas valores inteiros.
@@ -1472,7 +1446,6 @@ col3 INTEGER, -- Apenas valores inteiros.
 col4 BIGINT, -- Apenas valores inteiros.
 
 col5 FL0AT(24), -- pelo SQL/ANSI você vai utilizar 24 bits
-
 para representar o número, começando pelos dígitos a esquerda da casa
 decimal.
 col6 REAL,
@@ -1565,10 +1538,8 @@ id DECIMAL PRIMARY KEY,
 
 coll DATE, -- armazena ano, mês e
 dia
-
 col2 TIME, -- armazena data, hora
 e segundos
-
 col3 TIMESTAMP(9), -- armazena um selo de tempo.
 
 
@@ -1763,8 +1734,6 @@ precodecompra DECIMAL(9,2),
 ISBN varchar(40);
 
 -- o nome da UDT será livro_udt
-
-
 e.e.'.
 
 L ESQUEMATIZANDO
@@ -1773,7 +1742,6 @@ Tipos de dados em SQL
 
 
 Numéricos Tempo Cojunto de
-
 caracteres
 
 Binários Outros
@@ -1974,7 +1942,6 @@ I Partido (siglaPartido)
 );
 
 A lacuna I deverá ser corretamente preenchida por
-
 a) CASCADE CONSTRAINT
 
 b) REFERENCES
@@ -2149,7 +2116,6 @@ salary*12
 
 Outro ponto interessante no uso de variáveis é quando você quer reusar o valor da
 variável sem
-
 necessitar de digitar novamente ou repassar um novo valor. Neste caso, você deve usar
 dois &'s
 comerciais. Veja a figura abaixo:
@@ -2180,7 +2146,6 @@ Atenção: Tabelas R e S referentes a um banco de dados relacional.
 
 
 F s
-
 a b c d
 
 1 2 3 2
@@ -2190,7 +2155,6 @@ a b c d
 4 5 6 1
 
 Considerando as tabelas R e S apresentadas anteriormente, o resultado
-
 a b
 
 1 2
@@ -2291,7 +2255,6 @@ determinada tupla é
 semelhante ao de uma constante passada como parâmetro. Vejamos um exemplo, se você
 quiser
 encontrar o nome de todos os clientes cuja rua contenha a substring 'Professor', você pode executar
-
 o comando abaixo.
 
 fh^TOME
@@ -2300,7 +2263,6 @@ NOTA!
 
 select nome_cliente
 from cliente
-
 where rua_cliente like '% Professor %';
 
 i
@@ -2972,7 +2934,6 @@ UPDATE employees
 
 SET department_id = 50
 IWHERE employee id = 113fe
-
 lrous updated |
 
 UPDATE copy_emp
@@ -2993,19 +2954,14 @@ ff aluno
 ' ' V IU
 
 nome
-
 r matricula
-
 iz aluno
-
 disciplina
 iZ; ano
 
 123 nota
-
 ff disciplina
 a——-—12fid
-
 descricao
 
 Tendo como referência o diagrama de entidade relacionamento precedente, julgue
@@ -3121,19 +3077,15 @@ i
 ff aluno
 kl
 nome
-
 r matricula
-
 aluno
 
 12 disciplina
 ano
 
 123 nota
-
 ff disciplina
 a——-—I2fid
-
 ase descricao
 
 Tendo como referência o diagrama de entidade relacionamento precedente, julgue
@@ -3318,10 +3270,8 @@ de um total em dólares em qualquer conta. Podemos escrever essa consulta da seg
 EXECSQL
 
 declare c cursor for
-
 select nome_cliente,cidade_cliente
 from deposito,cliente
-
 where deposito.nome_cliente = cliente.nome_cliente
 and depósito.saldo > :total
 
@@ -3417,7 +3367,6 @@ para a próxima transação.
 SAVEPOINT
 
 Estabelece um savepoint, ponto intermediário da transação para o qual o
-
 rollback deve retornar em caso de falha.
 
 
@@ -3956,7 +3905,6 @@ Gabarito: B.
 Procedimento Armazenado
 
 * Um conjunto de instruções em SQL pré-compiladas, que podem ser reutilizadas e compartilhadas
-
 por vários programas.
 
 Function
@@ -4153,7 +4101,6 @@ Um Database Administrator - DBA deseja criar uma função chamada analista, atri
 privilégio create table a ela e atribuí-la ao usuário pedro. Para isso, terá que usar
 as
 instruções
-
 a) CREATE FUNCTION analista;
 
 ADD PRIVILEGE create table TO analista;
@@ -4206,8 +4153,6 @@ ajuda o DBA ou o proprietário da tabela a manter o controle sobre o objeto. Ape
 
 0-0
 www. estratégia concursos. com.br
-
-
 o DBA ou o proprietário do objeto atribui competência para executar a operação em
 questão pode
 fazê-la.
@@ -4496,7 +4441,6 @@ Relembrando:
 
 n - pi - projeção
 6 - sigma - seleção
-
 x - produto cartesiano
 
 Assim, podemos observar que a afirmação está correta.
@@ -4625,8 +4569,6 @@ Na alternativa 65 o CESPE cometeu um erro proposital na digitação do atributo
 função (id_funcao), percebam que não temos o id na descrição do comando. A
 ideia é a seguinte. Pense que a tabela empregados terá um identificador para
 departamento e função. Esses podem ter suas descrições e outros atributos
-
-
 descritos em suas tabelas. Desta forma, na tabela empregados teríamos apenas
 o identificador. Alternativa errada.
 
@@ -4797,7 +4739,6 @@ B select cl.local, cl.nome, c2.descricao, max(c2.area)
 from prédio as cl, salas as c2
 
 where c2.local=cl.id
-
 group by cl.local, cl.nome, c2.descricao
 C select cl.local, cl.nome, c2.descricao
 from prédio as cl, (
@@ -4821,7 +4762,6 @@ E select cl.local, cl.nome, c2.descricao, max(c2.area)
 from prédio as cl join salas as c2
 
 on c2.codigo=cl.id
-
 group by cl.local, cl.nome, c2.descricao
 
 Comentário: Vamos procurar achar os erros das alternativas distintas da
@@ -4987,8 +4927,6 @@ termo a média aritmética. Portanto, está incorreta.
 Na alternativa "B" existe uma definição equivocada de produto cartesiano. O
 produto cartesiano é uma operação advinda da teoria dos conjuntos relaciona
 todos os elementos de um conjunto aos elementos de outro conjunto. Quando
-
-
 pensamos no modelo relacional, o relacionamento é feito entre as tuplas das
 tabelas ou relações participantes da operação. Não existe a necessidade de
 uma coluna em comum.
@@ -5068,7 +5006,6 @@ Gabarito: B
 QUESTÃO 54
 
 tabela tl
-
 codigo descricao
 
 1 Britain.
@@ -5076,7 +5013,6 @@ codigo descricao
 2 RJch CA
 
 3 Cüluníbia
-
 tabela t2
 
 codigo valor
@@ -5096,7 +5032,6 @@ na prova!
 CESPE Órgão: TRT-08 Cargo: Técnico de TI -
 
 resultado
-
 codigo descricao soma
 
 1 Britam 350
@@ -5111,22 +5046,18 @@ SQL que gera o conteúdo da tabela resultado.
 
 A select tl.codigo, tl.descricao, sum(t2.valor) as soma
 from tl join t2 on tl.codigo=t2.codigo
-
 group by tl.codigo, tl.descricao;
 
 B select tl.codigo, tl.descricao, sum(t2.valor) as soma
 from tl left join t2 on tl.codigo=t2.codigo
-
 group by tl.codigo, tl.descricao;
 
 C select tl.codigo, tl.descricao, sum(t2.valor) as soma
 from tl right join t2 on tl.codigo=t2.codigo
-
 group by tl.codigo, tl.descricao;
 
 D select tl.codigo, tl.descricao, sum(t2.valor) as soma
 from tl full join t2 on tl.codigo=t2.codigo
-
 group by tl.codigo, tl.descricao;
 
 E select tl.codigo, tl.descricao, sum(t2.valor) as soma
@@ -5151,13 +5082,9 @@ atributos.
 
 
 pessoa
-
 local
-
 encontro
-
 preferencia
-
 idPessoa
 nomePessoa
 dataNascimento
@@ -5166,16 +5093,12 @@ telPessoa
 sexoPessoa
 idlocal
 nomeLocal
-
 enderecoLocal
 telefoneLocal
 idencontro
-
 data encontro
-
 idpreferencia
 descricaoPreferencia
-
 int(5)
 varchar(45)
 Date
@@ -5190,7 +5113,6 @@ varchar(45)
 int(5)
 
 Date
-
 int(3)
 varchar(45)
 
@@ -5321,24 +5243,19 @@ uma listagem que mostre uma vez o nome de quem não marcou nenhum
 encontro, mas atendeu pelo menos a um.
 
 A select distinct nomePessoa
-
 from encontro inner join pessoa on idpessoa_atende = idPessoa
 and idPessoa not in (select idpessoa_marca from encontro);
 
 B select distinct nomePessoa
-
 from pessoa where idPessoa not in (select idpessoa_marca from encontro);
 
 C select distinct nomePessoa
-
 from encontro full join pessoa on idpessoa_atende = idPessoa;
 
 D select distinct nomePessoa
-
 from encontro left join pessoa on idpessoa_atende = idPessoa;
 
 E select distinct nomePessoa
-
 from encontro right join pessoa on idpessoa_atende = idPessoa
 and idPessoa not in (select idpessoa_marca from encontro);
 
@@ -5746,8 +5663,6 @@ e) INSERT INTO PARTICIPACAO VALUES (2222,1111,7)
 Comentário: Vamos analisar as alternativas acima. A primeira, letra a), gera um erro
 na inserção pois
 o tamanho do campo DESCR da tabela competição é de no máximo 20 caracteres (VARCHAR (20)) e
-
-
 o valor passado como parâmetro possui 30 caracteres. Já a alterativa b) comete um
 equívoco na
 integridade referencial. O código do cão 8877 não existe na tabela CAO.
@@ -5962,7 +5877,6 @@ A execução do comando SQL SELECT * FROM FERRAMENTAS WHERE ((ITEM = 'chave de f
 ITEM = 'chave de teste') AND PRECO < 9) produzirá como resposta, respectivamente, as
 tuplas de
 números
-
 a) 2, 6e7
 
 b) 4, 5 e 8
@@ -5993,20 +5907,16 @@ na prova!
 Item. 6. Ano: 2014 Banca: CESGRANRIO Órgão: CEFET-RJ Prova: Técnico de Tecnologia da Informação
 
 Aluno
-
 idAluno: INTEGER
 nomeAluno: VARCHAR(256)
 
 Que comando SQL insere uma linha na Tabela Aluno, com idAluno=l e nomeAluno="Aline"?
 
 a) INSERT INTO Aluno SET nomeAluno="Aline" WHERE idAluno=l
-
 b) INSERT INTO Aluno (idAluno, nomeAluno) VALUES (1,"Aline")
 
 c) INSERT INTO Aluno SET nomeAluno="Aline" AND idAluno=l
-
 d) UPDATE Aluno SET nomeAluno="Aline" WHERE idAluno=l
-
 e) UPDATE Aluno(idAluno, nomeAluno) SET VALUES (1,"Aline")
 
 Comentário: Mas uma questão que trata do comando INSERT. Lembra-se que a
@@ -6031,20 +5941,16 @@ apresentado abaixo, que representa parte do modelo de dados de uma instituição
 
 Tipo Conta
 codigo_tipo_conta
-
 descricao tipo conta
 
 F-
 Agencia
-
 id_agencia
 nome agencia
 
 Contato_C|iente
 id telefone
-
 telefone
-
 tipo telefone
 
 Conta
@@ -6052,7 +5958,6 @@ Conta
 (---------------------------------- >
 
 id_conta
-
 nome_conta
 data_abertura
 data_fechamento
@@ -6062,7 +5967,6 @@ debito—bloqueado sn
 A
 
 Cliente
-
 id_cliente
 
 |~ nome_cliente
@@ -6071,35 +5975,26 @@ data fim
 
 Movimento
 seq_movimento
-
 data_hora_movimento
 creditO—debito
-
 valor
-
 numero-documento
 tipo—documento
 dep_origem
 historico
-
 k_sald_o >
 
 Endereco Cliente
 id_endereco
-
 inicio_validade_endereco
 fim_validade_endereco
 logradouro
-
 numero
 complemento
 cep
-
 bairro
-
 cidade
 estado
-
 x _ Z
 
 Que comando SQL deve ser dado para criar a Tabela Tipo_Conta?
@@ -6160,35 +6055,26 @@ Movimento
 
 
 Conta
-
 seq_movimento
-
 data_hora_movimento
 creditO—debito
-
 valor
-
 numero-documento
 tipo—documento
 dep_origem
 historico
-
 k_sald_o >
 
 Endereco Cliente
 id_endereco
-
 inicio_validade_endereco
 fim_validade_endereco
 logradouro
-
 numero
 complemento
 cep
-
 bairro
 cidade
-
 k_e_s_ta_d_o z
 
 Que comando SQL deve ser dado para bloquear o crédito da conta 123456,
@@ -6719,7 +6605,6 @@ As informações presentes abaixo devem ser usadas para responder às questões 
 
 
 Pessoa
-
 ld Nome Idade Sexo
 
 1 Ana 70 F
@@ -6809,7 +6694,6 @@ da Informação
 As informações presentes abaixo devem ser usadas para responder às questões de nos 50 a 52.
 
 Pessoa
-
 ld Nome Idade Sexo
 
 1 Ana 70 F
@@ -6881,8 +6765,6 @@ pessoas, inclusive com ela mesma. Ai depois a questão adiciona dois
 predicados: F.ld=R.PaiMae (o
 ID da filha é igual ao IF da Mãe) e P.ld=R.FilhoFilha (o ID da mãe é igual ao ID da filha).
 Veja que isso
-
-
 está invertido. Logo não pode ser nossa resposta. Veja que o ID de Ana
 não aparece nenhuma vez
 na coluna FIlhoFIlha. Logo, nosso resultado será, provavelmente, vazio.
@@ -7185,14 +7067,11 @@ Item. 18. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolv
 Ao implementar um sistema de gerência de fornecedores, o desenvolvedor percebeu
 que não existia
 no banco de dados relacional da empresa qualquer representação da entidade PRODUTO que
-
-
 aparecia em seu modelo de dados. Para corrigir essa falha, preparou um
 comando SQL que alteraria
 o esquema do banco de dados.
 
 Tal comando SQL deve ser iniciado com
-
 a) ALTER SCHEMA ADD TABLE PRODUTO
 
 b) ALTER TABLE PRODUTO
@@ -7287,7 +7166,6 @@ cpf CHAR(ll) NCT NULL
 PRIMÃRY KEY (andar,numero,cpí :));
 
 Desse modo, para incluir o campo telefone na Tabela Inquilino, o comando necessário é
-
 a) add column telefone varchar(12) on table Inquilino;
 
 b) alter table Inquilino add column telefone varchar(12);
@@ -7336,7 +7214,6 @@ CREATE TABLE VagaInqu2.li.n0 (
 andar INTEGER NOT NUL:
 
 numero nt-gsr ::üi
-
 cpf CHAR(li) NCT NU:
 
 PRIMARY KEY (andar,numero,cpf));
@@ -8250,7 +8127,6 @@ from prédio as cl, salas as c2
 
 
 where c2.local=cl.id
-
 group by cl.local, cl.nome, c2.descricao
 
 C select cl.local, cl.nome, c2.descricao
@@ -8275,7 +8151,6 @@ E select cl.local, cl.nome, c2.descricao, max(c2.area)
 from prédio as cl join salas as c2
 
 on c2.codigo=cl.id
-
 group by cl.local, cl.nome, c2.descricao
 
 CAIU
@@ -8373,7 +8248,6 @@ na prova!
 QUESTÃO 54
 
 tabela tl
-
 codigo descricao
 
 1 Britain.
@@ -8395,7 +8269,6 @@ codigo valor
 4 130
 
 resultado
-
 codigo descricao soma
 
 1 Britam 350
@@ -8409,23 +8282,18 @@ SQL que gera o conteúdo da tabela resultado.
 
 A select tl.codigo, tl.descricao, sum(t2.valor) as soma
 from tl join t2 on tl.codigo=t2.codigo
-
 group by tl.codigo, tl.descricao;
 
 B select tl.codigo, tl.descricao, sum(t2.valor) as soma
 from tl left join t2 on tl.codigo=t2.codigo
-
 group by tl.codigo, tl.descricao;
 
 C select tl.codigo, tl.descricao, sum(t2.valor) as soma
-
-
 from tl right join t2 on tl.codigo=t2.codigo
 group by tl.codigo, tl.descricao;
 
 D select tl.codigo, tl.descricao, sum(t2.valor) as soma
 from tl full join t2 on tl.codigo=t2.codigo
-
 group by tl.codigo, tl.descricao;
 
 E select tl.codigo, tl.descricao, sum(t2.valor) as soma
@@ -8440,13 +8308,9 @@ atributos.
 
 
 pessoa
-
 local
-
 encontro
-
 preferencia
-
 idPessoa
 nomePessoa
 dataNascimento
@@ -8455,16 +8319,12 @@ telPessoa
 sexoPessoa
 idlocal
 nomeLocal
-
 enderecoLocal
 telefoneLocal
 idencontro
-
 data encontro
-
 idpreferencia
 descricaoPreferencia
-
 int(5)
 varchar(45)
 Date
@@ -8593,24 +8453,19 @@ uma listagem que mostre uma vez o nome de quem não marcou nenhum
 encontro, mas atendeu pelo menos a um.
 
 A select distinct nomePessoa
-
 from encontro inner join pessoa on idpessoa_atende = idPessoa
 and idPessoa not in (select idpessoa_marca from encontro);
 
 B select distinct nomePessoa
-
 from pessoa where idPessoa not in (select idpessoa_marca from encontro);
 
 C select distinct nomePessoa
-
 from encontro full join pessoa on idpessoa_atende = idPessoa;
 
 D select distinct nomePessoa
-
 from encontro left join pessoa on idpessoa_atende = idPessoa;
 
 E select distinct nomePessoa
-
 from encontro right join pessoa on idpessoa_atende = idPessoa
 and idPessoa not in (select idpessoa marca from encontro);
 
@@ -9164,7 +9019,6 @@ OR
 ITEM = 'chave de teste') AND PRECO < 9) produzirá como resposta,
 respectivamente, as tuplas de
 números
-
 a) 2, 6e7
 
 b) 4, 5 e 8
@@ -9183,20 +9037,16 @@ na prova!
 Item. 6. Ano: 2014 Banca: CESGRANRIO Órgão: CEFET-RJ Prova: Técnico de Tecnologia da Informação
 
 Aluno
-
 idAluno: INTEGER
 nomeAluno: VARCHAR(256)
 
 Que comando SQL insere uma linha na Tabela Aluno, com idAluno=l e nomeAluno="Aline"?
 
 a) INSERT INTO Aluno SET nomeAluno="Aline" WHERE idAluno=l
-
 b) INSERT INTO Aluno (idAluno, nomeAluno) VALUES (1,"Aline")
 
 c) INSERT INTO Aluno SET nomeAluno="Aline" AND idAluno=l
-
 d) UPDATE Aluno SET nomeAluno="Aline" WHERE idAluno=l
-
 e) UPDATE Aluno(idAluno, nomeAluno) SET VALUES (1,"Aline")
 
 CAIU
@@ -9214,38 +9064,28 @@ Movimento
 
 
 Conta
-
 seq_movimento
-
 data_hora_movimento
 creditO—debito
-
 valor
-
 numero-documento
 tipo—documento
 dep_origem
 historico
-
 k saldo >
 
 Endereco Cliente
-
 r \
 
 id_endereco
-
 inicio_validade_endereco
 fim_validade_endereco
 logradouro
-
 numero
 complemento
 cep
-
 bairro
 cidade
-
 estado
 
 _ z
@@ -9288,38 +9128,28 @@ Movimento
 
 
 Conta
-
 seq_movimento
-
 data_hora_movimento
 creditO—debito
-
 valor
-
 numero-documento
 tipo—documento
 dep_origem
 historico
-
 k saldo >
 
 Endereco Cliente
-
 r \
 
 id_endereco
-
 inicio_validade_endereco
 fim_validade_endereco
 logradouro
-
 numero
 complemento
 cep
-
 bairro
 cidade
-
 estado
 
 _ z
@@ -9750,7 +9580,6 @@ MATRIC COD-DISC NOME-DISC ANO SEMESTRE NOTA
 
 * *
 * * * > Qualconsulta
-
 exibe os nomes dos alunos que nunca foram reprovados?
 
 a) SELECT DISTINCT A.NOME
@@ -9800,7 +9629,6 @@ As informações presentes abaixo devem ser usadas para responder às questões 
 
 
 Pessoa
-
 ld Nome Idade Sexo
 
 1 Ana 70 F
@@ -9871,7 +9699,6 @@ As informações presentes abaixo devem ser usadas para responder às questões 
 
 
 Pessoa
-
 ld Nome Idade Sexo
 
 1 Ana 70 F
@@ -10173,7 +10000,6 @@ comando SQL que alteraria
 o esquema do banco de dados.
 
 Tal comando SQL deve ser iniciado com
-
 a) ALTER SCHEMA ADD TABLE PRODUTO
 
 b) ALTER TABLE PRODUTO
@@ -10249,7 +10075,6 @@ cpf CHAR(ll) NOT NULL,
 PRxMARY KEY (andar,numero,cpf));
 
 Desse modo, para incluir o campo telefone na Tabela Inquilino, o comando necessário é
-
 a) add column telefone varchar(12) on table Inquilino;
 
 b) alter table Inquilino add column telefone varchar(12);

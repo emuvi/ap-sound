@@ -697,8 +697,6 @@ aplicações na nuvem. O
 usuário tem acesso e permissão para alterar configurações e parâmetros das
 aplicações hospedadas na
 nuvem. E disponibilizado um ambiente completo de desenvolvimento para o usuário como um sistema
-
-
 operacional, linguagens de programação e bancos de dados. Toda a estrutura para
 controle de versões e
 testes é fornecido na plataforma em tese.
@@ -817,7 +815,6 @@ mercado e às necessidades dos clientes.
 
 que fornece uma infraestrutura de integração para implementar e testar aplicações elaboradas
 para a nuvem, é denominado
-
 a) AaaS -Application as a Service.
 
 b) DaaS -Development as a Service.
@@ -863,8 +860,6 @@ Ainda no bojo da computação em nuvem, é importante entendermos os conceitos d
 Workload ou processos
 de trabalho, ou ainda cargas de trabalho. Basicamente, trata-se do recurso que deverá ser
 trabalhado ou
-
-
 suportado pela nuvem. Na prática, será uma base de dados que precisará
 funcionar em backup, uma
 aplicação que precisará ser disponibilizada, um contêiner que precisa ser migrado, entre outros.
@@ -1198,7 +1193,6 @@ I
 
 i Um tribunal regional do trabalho planeja realizar a migração de suas
 cargas de trabalho
-
 í modificando-as de modo a otimizá-las para os recursos nativos da Google Cloud a
 medida que
 i estão sendo migradas. Como requisito, a carga de trabalho é modernizada durante a
@@ -1224,8 +1218,6 @@ i b) lift-and-shift.
 i Vamos lá... Antes de validarmos os conceitos e tipos, vejam que a questão traz alguns termos
 chaves e
 o mero conhecimento de inglês ajudaria, pois vejam que o enunciado destaca o modo de
-
-
 modernização durante a migração de modo a aprimorar o desempenho. Ou seja, temos aí um
 improve-and-move.
 
@@ -1737,7 +1729,6 @@ Comentários:
 Essas características estão presentes no laaS e não no PaaS. O PaaS já assume uma configuração de
 rede e
 sistema operacional pré definida cabendo ao usuário tratar de aspectos de plataformas para
-
 desenvolvimento de aplicações, linguagens de programação e alguns aspectos de bancos de dados.
 
 Gabarito: E
@@ -1877,7 +1868,6 @@ armazenamento em
 servidores conectados à internet, sem a necessidade de instalação de programas no
 computador
 do usuário, é chamado de
-
 a) model view controller (MVC).
 
 b) serviços web (web services).
@@ -1921,7 +1911,6 @@ IV. A Computação em nuvem é uma tendência integrante da Web 2.0 de se levar 
 usuários a servidores online, tornando desnecessário o uso de dispositivos de armazenamento.
 
 É correto o que consta em
-
 a) I, II e III, apenas.
 
 b) I, III e IV, apenas.
@@ -1948,10 +1937,8 @@ Gabarito: B
 
 Item. 3. (FCC - CNMP/Analista de Suporte/2015) Na Computação em Nuvem (Cloud Computing),
 diversos tipos de serviços podem ser disponibilizados aos usuários. O serviço
-
 que fornece uma infraestrutura de integração para implementar e testar aplicações elaboradas
 para a nuvem, é denominado
-
 a) AaaS -□Application as a Service.
 
 b) DaaS "tZlDevelopment as a Service.
@@ -1984,7 +1971,6 @@ Servidor
 
 A figura apresenta um exemplo da relação entre os cenários de uma arquitetura em nuvem, na qual dois
 I são usados para
-
 a construção de umII, que, por sua vez, é utilizado para a implementação de duas aplicações
 
 ( Hl )*
@@ -2052,7 +2038,6 @@ computadores e
 dispositivos. Dentre os diferentes tipos de serviços da computação na nuvem, quando
 recursos
 de hardware são acessados na nuvem, está se utilizando o tipo de serviço
-
 a) DevaaS.
 
 b) laaS.
@@ -2138,7 +2123,6 @@ meio do
 conceito de Computação na Nuvem. Dentre os diferentes tipos de Computação na Nuvem,
 esses
 serviços são do tipo
-
 a) PaaS ~ Plataform as a Service.
 
 b) laaS - Infrastructure as a Service.
@@ -2375,7 +2359,6 @@ armazenamento em
 servidores conectados à internet, sem a necessidade de instalação de programas no
 computador
 do usuário, é chamado de
-
 a) model view controller (MVC).
 
 b) serviços web (web services).
@@ -2407,8 +2390,6 @@ de
 usuários a servidores online, tornando desnecessário o uso de dispositivos de armazenamento.
 
 É correto o que consta em
-
-
 a) I, II e III, apenas.
 
 b) I, III e IV, apenas.
@@ -2426,7 +2407,6 @@ O serviço
 que fornece uma infraestrutura de integração para implementar e testar aplicações
 elaboradas
 para a nuvem, é denominado
-
 a) AaaS - Application as a Service.
 
 b) DaaS - Development as a Service.
@@ -2453,8 +2433,6 @@ A figura apresenta um exemplo da relação entre os cenários de uma arquitetura
 dois
 
 I são usados para
-
-
 a construção de umII, que, por sua vez, é utilizado para a implementação de duas aplicações
 (III)*
 
@@ -2499,7 +2477,6 @@ computadores e
 dispositivos. Dentre os diferentes tipos de serviços da computação na nuvem, quando
 recursos
 de hardware são acessados na nuvem, está se utilizando o tipo de serviço
-
 a) DevaaS.
 
 b) laaS.
@@ -2557,7 +2534,6 @@ meio do
 conceito de Computação na Nuvem. Dentre os diferentes tipos de Computação na Nuvem,
 esses
 serviços são do tipo
-
 a) PaaS ~ Plataform as a Service.
 
 b) laaS - Infrastructure as a Service.
@@ -2634,7 +2610,6 @@ GABARITo - QUESTõES FCC
 RESUMo
 
 Cluster, Grid e Balanceamento de Carga
-
 o Cluster - É um agregado de computadores conectados entre si via hardware ou software que
 compartilham seus recursos passando a funcionar como uma única unidade lógica.
 
@@ -2663,7 +2638,6 @@ r
 
 Nuvem Nuvem
 Privada Comunitária
-
 k k1 J
 
 r F
@@ -2671,11 +2645,9 @@ r F
 Nuvem Nuvem
 
 Pública Híbrida
-
 k J
 
 Arquiteturas de Cloud Computing
-
 o laaS - E caracterizada pelo provimento de toda a infraestrutura física e lógica de forma
 virtualizada
 na nuvem, com capacidades de hardware definidas.
@@ -2699,11 +2671,7 @@ Periodic Workload ou Carga de Trabalho periódica
 Once-in-a-lifetime Workload ou Carga de Trabalho Único de Vida
 
 Unpredictable Workload ou Carga de Trabalho Imprevisível
-
-
 ww. estrategiaconcursos. com.br
-
-
 o Serverless - Trata-se de um conceito atualmente utilizado e muito explorado por
 startups e pequenas
 empresas, que geralmente não possuem equipes de tecnologia suficientes para

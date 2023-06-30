@@ -140,7 +140,6 @@ Substituir o valor de exibição padrão
 Largura e Largura Máxima
 
 A propriedade de posição
-
 position: static;
 
 position: relative;
@@ -622,7 +621,6 @@ class=" intro"
 
 
 p.intro
-
 p
 div, p
 
@@ -715,7 +713,6 @@ estilos a várias páginas. Vejamos uma questão!
 
 
 i
-
 i (FCC - AL-AP - 2020) Segundo os padrões de acessibilidade na web definidos para
 sites do i
 
@@ -890,12 +887,8 @@ incluindo:
 Propriedade Descrição
 
 Define a cor de fundo de um elemento. Você pode usar nomes de
-
-
 background-color
-
 background-image
-
 cores, valores rgb, hex, hsl para definir uma cor de fundo.
 
 Define uma imagem como fundo de um elemento. A imagem é
@@ -904,12 +897,9 @@ chave nenhum para remover qualquer imagem de plano de fundo.
 
 
 background-repeat
-
 background-position
-
 background-
 attachment
-
 background-clip
 
 Define como a imagem de fundo é repetida. O valor padrão é repetir,
@@ -1062,8 +1052,6 @@ repeat-x center fixed;
 }
 
 ou
-
-
 body {
 
 background: #ff0000 url("my-image.jpg")
@@ -1080,13 +1068,9 @@ usá-lo
 conforme sua necessidade.
 
 Propriedade CSS Descrição
-
 background Define todas as propriedades de plano de fundo em uma declaração
-
-
 background-
 attachment
-
 background-clip
 background-color
 
@@ -1148,32 +1132,21 @@ propriedade
 border-style especifica que tipo de borda exibir. Os seguintes valores são permitidos:
 
 Estilo de Borda CSS Descrição
-
 dotted Define uma borda pontilhada
-
 dashed Define uma borda tracejada
-
 solid Define uma borda sólida
-
 double Define uma borda dupla
-
 g roo ve Define uma borda ranhurada 3D. O efeito depende do valor da cor
 da borda
-
 ridge Define uma borda ondulada 3D. O efeito depende do valor da cor da
 borda
-
 inset Define uma borda de inserção 3D. O efeito depende do valor da cor
 da borda
-
-
 outset
 
 Define uma borda inicial 3D. O efeito depende do valor da cor da
 borda
-
 none Não define borda
-
 hidden Define uma borda oculta
 Vejamos um exemplo e seu respectivo resultado.
 
@@ -1669,40 +1642,26 @@ Propriedades de
 Borda CSS
 
 Descrição
-
 border Define todas as propriedades de borda em uma declaração
-
 border-bottom Define todas as propriedades da borda inferior em uma declaração
-
 border-bottom-color Define a cor da borda inferior
 border-bottom-style Define o estilo da borda inferior
 border-bottom-width Define a largura da borda inferior
-
 border-color Define a cor das quatro bordas
-
 border-left Define todas as propriedades da borda esquerda em uma declaração
-
 border-left-color Define a cor da borda esquerda
 border-left-style Define o estilo da borda esquerda
 border-left-width Define a largura da borda esquerda
 
 Define todas as quatro propriedades border-*-radius para cantos
-
-
 border-radius
-
 arredondados
-
 border-right Define todas as propriedades da borda direita em uma declaração
-
 border-right-color Define a cor da borda direita
 border-right-style Define o estilo da borda direita
 border-right-width Define a largura da borda direita
-
 border-style Define o estilo das quatro bordas
-
 border-top Define todas as propriedades da borda superior em uma declaração
-
 border-top-color Define a cor da borda superior
 
 
@@ -1803,16 +1762,11 @@ Propriedades de
 Margem CSS
 
 Descrição
-
 margin Uma propriedade abreviada para definir todas as propriedades de
 margem em uma declaração
-
 margin-bottom Define a margem inferior de um elemento
-
 margin-left Define a margem esquerda de um elemento
-
 margin-right Define a margem direita de um elemento
-
 margin-top Define a margem superior de um elemento
 
 Às vezes, as margens superior e inferior dos elementos são recolhidas em uma única
@@ -1909,16 +1863,11 @@ Propriedades de
 Preenchimento CSS
 
 Descrição
-
 padding Uma propriedade abreviada para definir todas as propriedades de
 preenchimento em uma declaração
-
 padding-bottom Define o preenchimento inferior de um elemento
-
 padding-left Define o preenchimento esquerdo de um elemento
-
 padding-right Define o preenchimento correto de um elemento
-
 padding-top Define o preenchimento superior de um elemento
 
 O preenchimento é importante para controlar o espaçamento entre o conteúdo e a borda
@@ -2007,12 +1956,10 @@ Preenchimento CSS
 height Define a altura de um elemento
 
 Descrição
-
 max-height Define a altura máxima de um elemento
 max-width Define a largura máxima de um elemento
 min-height Define a altura mínima de um elemento
 min-width Define a largura mínima de um elemento
-
 width Define a largura de um elemento
 
 A altura, largura e largura máxima são importantes para controlar o tamanho de
@@ -2180,17 +2127,12 @@ linha em torno de um elemento.
 Propriedades de
 
 Contorno CSS Descrição
-
 outline Uma propriedade abreviada para definir a largura do contorno, o
 estilo do contorno e a cor do contorno em uma declaração
-
 outline-color Define a cor de um contorno
-
 outline-offset Especifica o espaço entre um contorno e a borda ou borda de um
 elemento
-
 outline-style Define o estilo de um contorno
-
 outline-width Define a largura de um contorno
 
 
@@ -2211,7 +2153,6 @@ Consulte Valores de cores CSS para obter uma lista completa de possíveis valore
 O CSS oferece uma ampla gama de propriedades para formatar o texto, incluindo:
 
 Propriedade Descrição
-
 font-family Define a fonte para o texto.
 
 font-size Define o tamanho da fonte.
@@ -2272,13 +2213,10 @@ color: blue;
 
 
 Propriedades de Cor
-
 do Texto
 
 Descrição
-
 color Especifica a cor do texto
-
 opacity Esta propriedade define a opacidade do texto. Um valor de 1 é
 totalmente opaco, enquanto um valor de 0 é totalmente transparente.
 
@@ -2359,21 +2297,15 @@ de exibição de caracteres bidirecionais (por exemplo, árabes e hebreus) no te
 
 Propriedades de
 alinhamento/direção
-
 do texto CSS
 
 Descrição
-
 direction Especifica a direção do texto/direção da escrita
-
 text-align Especifica o alinhamento horizontal do texto
-
 text-align-last Especifica como alinhar a última linha de um texto
-
 unicode-bidi Usado junto com a propriedade de direção para definir ou retornar se
 o texto deve ser substituído para suportar vários idiomas no mesmo
 documento
-
 vertical-align Define o alinhamento vertical de um elemento
 
 Propriedades de Decoração de Texto
@@ -2426,9 +2358,7 @@ Descrição
 
 Define todas as propriedades de decoraçao de texto em uma
 declaração
-
 text-decoration-color Especifica a cor da decoração do texto
-
 text-decoration-line Especifica o tipo de decoração de texto a ser usado
 (sublinhado,
 sobrelinhado, etc.)
@@ -2481,7 +2411,6 @@ Transformação de
 Texto CSS
 
 Descrição
-
 text-transform Controla a capitalização do texto
 
 Espaçamento do Texto CSS
@@ -2518,13 +2447,9 @@ Decoração de Texto
 CSS
 
 Descrição
-
 letter-spacing Especifica o espaço entre os caracteres em um texto
-
 line-height Especifica a altura da linha
-
 text-indent Especifica o recuo da primeira linha em um bloco de texto
-
 white-space Especifica como lidar com espaço em branco dentro de um elemento
 
 
@@ -2554,7 +2479,6 @@ Propriedades de
 Sombra de Texto CSS
 
 Descrição
-
 text-shadow Especifica o efeito de sombra adicionado ao texto
 
 
@@ -2627,8 +2551,6 @@ font-family: "Times New Roman", Times, serif;
 
 
 www. estra tegiaconcursos. com. br
-
-
 font-family: Arial, Helvética, sans-serif;
 
 }
@@ -2798,7 +2720,6 @@ tamanho
 de texto padrão nos navegadores é 16px. Portanto, o tamanho padrão de 1em
 é 16px. O
 tamanho pode ser calculado de pixels para em usando esta fórmula: pixels /16= em
-
 hl {
 
 font-size: 2.5em; /* 40px/16=2.5em */
@@ -3027,13 +2948,10 @@ ausente, seu
 valor padrão será usado.
 
 Fontes CSS Descrição
-
 font Define todas as propriedades da fonte em uma declaração
-
 font-family Especifica a família de fontes para texto
 font-size Especifica o tamanho da fonte do texto
 font-style Especifica o estilo de fonte do texto
-
 s'"
 
 
@@ -3049,8 +2967,6 @@ Especifica se um texto deve ou não ser exibido em uma fonte
 minúscula
 
 Especifica o peso de uma fonte
-
-
 ícones de CSS
 
 Os ícones podem ser facilmente adicionados à sua página HTML, usando uma
@@ -3079,7 +2995,6 @@ Fontes de ícones Incríveis
 
 Some Font Awesome icons: Para usar os ícones do Font Awesome,
 acesse
-
 fontawesome.com, faça login e obtenha um código para
 adicionar na <head>seção de sua página HTML:
 
@@ -3112,7 +3027,6 @@ crossorigin="anonymous"x/script>
 <i class="fas
 
 <i class="fas
-
 fa-cloud"x/i>
 fa-heart"x/i>
 fa-car"x/i>
@@ -3174,7 +3088,6 @@ href="https://maxedn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.ess">
 <i class="glyphicon
 
 <i class="glyphicon
-
 glyphicon-cloud"x/i>
 glyphicon-remove" x/i>
 glyphicon-user"x/i>
@@ -3324,8 +3237,6 @@ para exibir links como caixas/botões:
 
 
 www. estra tegiaconcursos. com. br
-
-
 a:linkj a:visited {
 
 background-color: #f44336;
@@ -3372,9 +3283,7 @@ Listas de CSS
 
 Listas não ordenadas:
 o Café
-
 o Chá
-
 o Coca Cola
 
 Café
@@ -3500,7 +3409,6 @@ ccffee beans...
 * Tea
 
 * Coca-cola
-
 ul.a {
 
 list-style-position: outside;
@@ -3573,11 +3481,8 @@ Propriedades de Listas
 CSS
 
 Descrição
-
 list-style Define todas as propriedades de uma lista em uma declaração
-
 list-style-image Especifica uma imagem como marcador de item de lista
-
 list-style-position Especifica a posição dos marcadores de item de lista (marcadores)
 
 list-style-type Especifica o tipo de marcador de item de lista
@@ -3949,16 +3854,12 @@ Propriedades de
 Tabelas CSS
 
 Descrição
-
 border Define todas as propriedades de borda em uma declaração
 border-collapse Especifica se as bordas da tabela devem ou não ser recolhidas
 border-spacing Especifica a distância entre as bordas das células adjacentes
-
 caption-side Especifica o posicionamento de uma legenda de tabela
-
 empty-cells Especifica se deve ou não exibir bordas e fundo em células vazias em
 uma tabela
-
 table-layout Define o algoritmo de layout a ser usado para uma tabela
 
 
@@ -4124,9 +4025,7 @@ Propriedades de
 Exibição CSS
 
 Descrição
-
 display Especifica como um elemento deve ser exibido
-
 visibility Especifica se um elemento deve ou não ser visível
 
 Largura e Largura Máxima
@@ -4185,7 +4084,6 @@ position: static;
 
 Os elementos HTML são posicionados estáticos por padrão. Os elementos posicionados
 estáticos
-
 não são afetados pelas propriedades superior, inferior, esquerda e direita.
 
 Um elemento com position: static;não é posicionado de nenhuma maneira especial; está
@@ -4214,8 +4112,6 @@ uma lacuna na página onde normalmente estaria localizado.
 
 
 www. estra tegiaconcursos. com. br
-
-
 position: absolute;
 
 Um elemento com position: absolute;é posicionado em relação ao ancestral
@@ -4257,17 +4153,11 @@ Propriedades de
 Posição CSS
 
 Descrição
-
 bottom Define a borda da margem inferior para uma caixa posicionada
-
 clip Corta um elemento absolutamente posicionado
-
 left Define a borda da margem esquerda para uma caixa posicionada
-
 position Especifica o tipo de posicionamento de um elemento
-
 right Define a borda da margem direita para uma caixa posicionada
-
 top Define a borda da margem superior para uma caixa posicionada
 
 
@@ -4327,13 +4217,9 @@ utilizar
 a propriedade CSS
 
 a) z-index
-
 b) inverter
-
 c) position
-
 d) flex-position
-
 e) x-order
 
 Comentários: Quando se fala em ordem de sobreposição de elementos HTML estamos falando
@@ -4399,18 +4285,12 @@ O valor auto é semelhante a scroll, mas adiciona barras de rolagem somente quan
 Propriedades de
 
 Posição CSS Descrição
-
 overflow Especifica o que acontece se o conteúdo ultrapassar a caixa de um
 elemento
 
 Especifica se o navegador pode ou não quebrar linhas com palavras
-
-
 overflow-wrap
-
 longas, caso elas transbordem seu contêiner
-
-
 x-"'" 79
 
 
@@ -4420,7 +4300,6 @@ x-"'" 79
 
 
 overflow-x
-
 overflow-y
 
 Especifica o que fazer com as bordas esquerda/direita do
@@ -4446,7 +4325,6 @@ permitindo que outros elementos sejam exibidos
 ao seu lado. Por exemplo, uma imagem pode ser
 definida com "float: left" para que o texto ao seu
 lado seja exibido ao seu redor. Se vários
-
 elementos tiverem a propriedade "float", eles serão organizados lado a lado, na ordem
 em que
 aparecem no código HTML.
@@ -4490,7 +4368,6 @@ o "floatright".
 A propriedade "clear" define se um elemento
 deve ser colocado abaixo de elementos flutuantes
 anteriores. Por exemplo, se você tem uma
-
 imagem flutuando à esquerda e deseja que o
 próximo parágrafo comece abaixo da imagem,
 você pode definir "clear: left" para o parágrafo. A
@@ -4501,7 +4378,6 @@ propriedade "clear" pode ter os valores "left",
 
 Observe que a propriedade "float" é útil para criar
 layouts simples, mas pode ser difícil de controlar
-
 em situações mais complexas. Alternativas mais modernas incluem o uso de flexbox e grid.
 Frisando que a propriedade float pode ter um dos seguintes valores:
 
@@ -4559,22 +4435,16 @@ Propriedades de
 Posição CSS
 
 Descrição
-
 box-sizing Define como a largura e a altura de um elemento sao calculadas:
 devem incluir preenchimento e bordas ou não
-
 clear Especifica o que deve acontecer com o elemento que está ao lado de
 um elemento flutuante
-
 float Especifica se um elemento deve flutuar para a esquerda, direita ou
 nada
-
 overflow Especifica o que acontece se o conteúdo ultrapassar a caixa de um
 elemento
-
 overflow-x Especifica o que fazer com as bordas esquerda/direita do conteúdo
 se ele ultrapassar a área de conteúdo do elemento
-
 overflow-y Especifica o que fazer com as bordas superior/inferior do conteúdo
 se ele ultrapassar a área de conteúdo do elemento
 
@@ -4740,7 +4610,6 @@ Transformação
 
 Definir margens automáticas para os lados esquerdo e direito de um
 elemento fará com que ele seja centralizado horizontalmente
-
 margin: 0 auto;
 
 É possível usar a propriedade "transform" para centralizar vertical e
@@ -4825,14 +4694,9 @@ uma página
 da web.
 
 Seletores CSS Exemplo Descrição do Exemplo
-
 div p Seleciona todos os elementos <p> dentro dos elementos
-
-
 element element
-
 element>element
-
 element+element
 
 <div>
@@ -4846,7 +4710,6 @@ imediatamente após os elementos <div>
 
 elementl ~element2 p ~ ul Seleciona todos os elementos <ul> precedidos
 por um
-
 elemento <p>
 
 x-'"
@@ -4902,13 +4765,11 @@ em determinadas situações.
 Seletores Exemplo Descrição do Exemplo
 
 :active a:active Seleciona o link ativo
-
 xhecked input:checked Seleciona cada elemento <input> marcado
 
 :disabled input:disabled Seleciona cada elemento <input> desabilitado
 
 :empty p:empty Seleciona cada elemento <p> que não tem
-
 filhos
 
 :enabled input:enabled Seleciona cada elemento <input> ativado
@@ -4916,8 +4777,6 @@ filhos
 :first-child p:first-child Seleciona cada elemento <p> que é o
 primeiro
 filho de seu pai
-
-
 x-"'" 89
 
 
@@ -4953,19 +4812,14 @@ x-"'" 89
 :nth-last-of-type(n)
 
 p:first-of-type
-
 input:focus
 a:hover
 input:in-range
-
 i n put:i nval id
-
 p:lang(it)
 
 p:last-child
-
 p:last-of-type
-
 a:link
 
 :not(p)
@@ -4979,9 +4833,7 @@ p:nth-last-of-
 p:nth-of-type(2)
 
 p:only-of-type
-
 p:only-child
-
 input:optional
 
 Seleciona cada elemento <p> que é o primeiro
@@ -5195,7 +5047,6 @@ Seletores Exemplo Descrição do Exemplo
 ::before p::before
 
 ::first-letter p::first-letter
-
 p::first-line
 
 ::first-line
@@ -5305,8 +5156,6 @@ display: block;
 
 
 www. estra tegiaconcursos. com. br
-
-
 nav a:hover {
 background-color:
 
@@ -5379,8 +5228,6 @@ margin-bottom: 20px;
 
 
 www. estra tegiaconcursos. com. br
-
-
 aside a {
 color: #fff;
 
@@ -5797,12 +5644,10 @@ Seleciona o elemento com
 #id
 
 .class
-
 element.class
 
 *
 element
-
 element,element,..
 
 id="firstname"
@@ -5854,7 +5699,6 @@ Fundos CSS
 CSS permite que você defina planos de fundo para elementos usando várias propriedades.
 
 Propriedade Descrição
-
 background-color Define a cor de fundo de um elemento. Você pode usar nomes de
 cores, valores rgb, hex, hsl para definir uma cor de fundo.
 
@@ -5894,7 +5738,6 @@ Define se a imagem de fundo rola com o resto do conteúdo (scroll) ou
 
 
 background-clip
-
 background-size
 
 Define a área onde a imagem de fundo deve ser pintada. O valor
@@ -5960,22 +5803,13 @@ border-style especifica que tipo de borda exibir. Os seguintes valores são perm
 
 
 Estilo de Borda CSS Descrição
-
 dotted Define uma borda pontilhada
-
 dashed Define uma borda tracejada
-
 solid Define uma borda sólida
-
 double Define uma borda dupla
-
-
 g roo ve
-
 ridge
-
 inset
-
 outset
 
 Define uma borda ranhurada 3D. O efeito depende do valor da cor
@@ -5989,9 +5823,7 @@ da borda
 
 Define uma borda inicial 3D. O efeito depende do valor da cor da
 borda
-
 none Não define borda
-
 hidden Define uma borda oculta
 
 Margens CSS
@@ -6071,7 +5903,6 @@ Consulte Valores de cores CSS para obter uma lista completa de possíveis valore
 O CSS oferece uma ampla gama de propriedades para formatar o texto, incluindo:
 
 Propriedade Descrição
-
 font-family Define a fonte para o texto.
 
 font-size Define o tamanho da fonte.
@@ -6252,8 +6083,6 @@ position seja
 definida primeiro. Eles também funcionam de forma diferente, dependendo do valor da posição.
 
 Posição Descrição
-
-
 position: static;
 
 Os elementos HTML são posicionados estáticos por padrão. Os elementos
@@ -6369,8 +6198,6 @@ os links que apontam para arquivos PDF.
 REFERÊNCIAS
 
 https://www.w3schools.com/css/default.asp
-
-
 www. estra tegiaconcursos. com. br
 
 /
@@ -6533,7 +6360,6 @@ p fbackground-color: rgb(250,0,255)}
 </html>
 
 Considerando-se o código anterior, o comando da cor verde é
-
 a) background-color: rgb(250,0,0).
 
 b) background-color: yellow.
@@ -6569,13 +6395,9 @@ Item. 6. (CESPE -TJ PA - 2020) Assinale a opção que indica a propriedade usada
 o alinhamento de um elemento inline com relação ao seu elemento-pai.
 
 a) alignment-baseline
-
 b) alignment-adjust
-
 c) background-image
-
 d) background-position
-
 e) line-boxes
 
 Comentários:
@@ -6637,7 +6459,6 @@ cada
 página. Em relação a esse assunto, a propriedade que deve ser configurada
 quando é
 necessário posicionar-se uma legenda de uma tabela é
-
 a) outline.
 
 b) padding-top.
@@ -6773,13 +6594,9 @@ sobreposição dos
 elementos ele deve utilizar a propriedade CSS
 
 a) z-index
-
 b) inverter
-
 c) position
-
 d) flex-position
-
 e) x-order
 
 Comentários:
@@ -6806,7 +6623,6 @@ indicar um
 arquivo CSS que será usado na definição dos estilos dos elementos da página. Supondo
 que o
 arquivo a ser utilizado é o estilos.css, a instrução correta é
-
 a) <@import type= "style/css" src="estilos.css" >
 
 b) <link rel="stylesheet" href="estilos.css">
@@ -6839,7 +6655,6 @@ Governo de XX, um desenvolvedor de software precisa especificar que todos os cam
 tipo texto (text) devem ser mostrados com fonte azul. Para estabelecer este estilo
 usando a
 linguagem CSS, deve-se utilizar o comando
-
 a) input [type=text] {color:blue}
 
 b) input type='text' {colonblue}
@@ -6898,15 +6713,10 @@ div.slogan{background-color:green; flex: 1}
 Para que as divisões logo e slogan apareçam uma do lado da outra, com tamanhos
 iguais,
 preenchendo toda a divisão topo, a lacuna I deve ser corretamente preenchida por
-
 a) display:inline
-
 b) float:left
-
 c) displayrflex
-
 d) positiomrelative
-
 e) display:block
 
 Comentários:
@@ -6967,13 +6777,9 @@ pode
 ser utilizada, em todos eles, a instrução CSS:
 
 a) align:inline
-
 b) floatdeft
-
 c) displaydeft
-
 d) position:inline
-
 e) aling:inline-block
 
 Comentários:
@@ -6999,7 +6805,6 @@ elemento
 será exibido no layout da página web. Comparado ao display:block, a principal diferença
 é que
 o display:inIine-block
-
 a) exibe parte do elemento da página na horizontal e parte na vertical.
 
 
@@ -7043,7 +6848,6 @@ ser
 aplicado apenas quando a página for aberta em dispositivos com tela de até 600
 pixels. A
 instrução correta que deverá ser inserida é
-
 a) <@import URL(a001 .css) only screen and (max-width: 600px)>
 
 b) <link rel = "media" device="only screen with (max-width: óOOpx)" href="a001 .css">
@@ -7175,7 +6979,6 @@ bordartsolid WcOcQcü lpx;
 Para que os contêineres sejam posicionados um ao lado do outro
 horizontalmente deve-se
 adicionar ao bloco CSS acima a instrução
-
 a) position: side -by-side;
 
 b) box-position: left;
@@ -7230,7 +7033,6 @@ I. Relative to 1 % of the width of the viewport (the browser window size).
 
 II . Relative to 1 % of the height of the viewport (the browser window size).
 I e II referem-se, respectivamente, às unidades de medida
-
 a) pw e ph.
 
 b) ex e ey.
@@ -7262,7 +7064,6 @@ Gabarito: Letra E
 14.(FCC- DPE-AM-2018) A instrução CSS3 div + p {background-color: blue;} aplica a cor
 de fundo
 azul ao elemento <p> colocado
-
 a) imediatamente após o elemento <div>.
 
 b) dentro do elemento <div>.
@@ -7304,7 +7105,6 @@ clink type="text/css" href="som.css">
 Para que esse arquivo CSS seja usado por leitores de tela que leem a página em voz
 alta, deve
 ser acrescentado o atributo
-
 a) media-type="aural"
 
 b) speaker="true"
@@ -7342,7 +7142,6 @@ Para que o valor definido no padding não seja acrescentado aos 300px de largura
 contêiner
 
 <div>, deve-se incluir no fragmento de código a instrução
-
 a) weight-width: fixed;
 
 b) max-width:300px;
@@ -7370,7 +7169,6 @@ independentemente das margens internas adicionadas pelo padding.
 Gabarito: Letra D
 
 17.(FCC- DPE-AM - 2018) A instrução CSS3 margin: 25px 50px 75px; significa que a margem
-
 a) inferior tem Opx.
 
 b) direita e a esquerda têm 50px.
@@ -7440,13 +7238,9 @@ do título
 seja aplicada a cor e o tamanho da fonte é:
 
 a) h1#tit::first-character
-
 b) h1 ,tit::first-letter
-
 c) h1 ,tit:initial-letter
-
 d) h1#tit::first-letter
-
 e) h1 ,tit::captive-letter
 
 Comentários:
@@ -7503,7 +7297,6 @@ text-align:center
 Se o programador trocar o valor da propriedade box-sizing de border-box para
 content-box
 os contêineres com class="caixa" provavelmente
-
 a) não terão bordas, permanecendo apenas seus conteúdos.
 
 b) diminuirão de tamanho e haverá uma margem entre eles.
@@ -7573,7 +7366,6 @@ font-size: 30px;
 Para conseguir a disposição dos contêineres mostrada na figura, a lacuna I
 deve ser
 corretamente preenchida por
-
 a) float:left;
 
 b) display: flex;
@@ -7607,7 +7399,6 @@ utilizando
 HTML5, em todas as páginas do site é aconselhado utilizar uma tag que fornecerá
 instruções
 ao navegador sobre como controlar as dimensões e escalas da página. Trata-se da tag
-
 a) <style content="width=device-auto, initial-scale=O, final-scale=100"/>
 
 b) <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7667,15 +7458,10 @@ to {background-color: blue;}
 Para que a animação chamada metro mude a cor de fundo do contêiner de vermelho para
 azul,
 a lacuna I deve ser corretamente preenchida por
-
 a) @media animation
-
 b) @function
-
 c) @keyframes
-
 d) @transient
-
 e) @animation
 
 Comentários:
@@ -7741,7 +7527,6 @@ border: 5px solid #FFOOOO;
 </body>
 
 A configuração CSS3 de borda
-
 a) não será aplicada, pois não é possível aplicar uma configuração CSS usando o
 atributo title
 s.
@@ -7785,7 +7570,6 @@ Gabarito: Letra C
 Questões FCV
 
 Item. 1. (FGV- TRT -13a Região (PB) - 2022) Numa codificação CSS, a propriedade z-index refere-se
-
 a) à ordem de um elemento numa pilha.
 
 b) à ordenação crescente de uma lista de elementos.
@@ -7821,15 +7605,10 @@ controlar a aparência das páginas do seu site de Internet.
 A sintaxe do seletor CSS que Maria deve usar para aplicar um determinado estilo
 somente aos
 elementos <li> que estiverem diretamente dentro de elementos <ul>, é
-
 a) ul.li
-
 b) ul > li
-
 c) ul + li
-
 d) ul ~ li
-
 e) ul , li
 
 Comentários:
@@ -7879,13 +7658,9 @@ para especificar
 corretamente a referência a uma folha de estilos externa (externai style sheet) é:
 
 a) import
-
 b) include
-
 c) link
-
 d) ref
-
 e) uri
 
 Comentários:
@@ -7918,7 +7693,6 @@ color: blue;
 
 
 Sobre esse trecho, é correto afirmar que a cor e o alinhamento serão aplicados
-
 a) à classe denominada "p.centro".
 
 b) à classe denominada "p".
@@ -8139,13 +7913,9 @@ símbolo "xxxx" em
 cada linha, respectivamente, é:
 
 a) classe xxxx / tag / classe xxxx / classe xxxx
-
 b) classe xxxx / classe xxxx / classe xxxx / tag
-
 c) tag / classe xxxx / id "xxxx" / tag
-
 d) tag / classe xxxx / id "xxxx" / classe xxxx
-
 e) tag / tag / classe xxxx / id "xxxx"
 
 Comentários:
@@ -8240,7 +8010,6 @@ Gabarito: Letra B
 13.(FGV-IMBEL-2021) Analise o trecho de código CSS3 a seguir.
 
 Pt
-
 color: red;
 
 
@@ -8282,7 +8051,6 @@ Gabarito: Letra A
 14.(FGV-IMBEL-2021) Com relação às regras escritas em CSS3, o papel da propriedade
 padding
 em um box é definir
-
 a) o padrão de preenchimento.
 
 b) a densidade da cor de fundo.
@@ -8448,7 +8216,6 @@ p {background-color: rgb(250,0,255)}
 </html>
 
 Considerando-se o código anterior, o comando da cor verde é
-
 a) background-color: rgb(250,0,0).
 
 b) background-color: yellow.
@@ -8463,13 +8230,9 @@ Item. 6. (CESPE -TJ PA - 2020) Assinale a opção que indica a propriedade usada
 o alinhamento de um elemento inline com relação ao seu elemento-pai.
 
 a) alignment-baseline
-
 b) alignment-adjust
-
 c) background-image
-
 d) background-position
-
 e) line-boxes
 
 Item. 7. (CESPE - ME- 2020) Acerca de desenvolvimento de sistemas web, julgue o item a seguir.
@@ -8493,7 +8256,6 @@ cada
 página. Em relação a esse assunto, a propriedade que deve ser configurada
 quando é
 necessário posicionar-se uma legenda de uma tabela é
-
 a) outline.
 
 b) padding-top.
@@ -8553,13 +8315,9 @@ sobreposição dos
 elementos ele deve utilizar a propriedade CSS
 
 a) z-index
-
 b) inverter
-
 c) position
-
 d) flex-position
-
 e) x-order
 
 Item. 3. (FCC - PGE AM - 2022) Na utilização externa de CSS em páginas HTML, deve-se
@@ -8567,7 +8325,6 @@ indicar um
 arquivo CSS que será usado na definição dos estilos dos elementos da página. Supondo
 que o
 arquivo a ser utilizado é o estilos.css, a instrução correta é
-
 a) <@import type="style/css" src="estilos.css">
 
 b) <link rel="stylesheet" href= "estilos.css">
@@ -8584,7 +8341,6 @@ Governo de XX, um desenvolvedor de software precisa especificar que todos os cam
 tipo texto (text) devem ser mostrados com fonte azul. Para estabelecer este estilo
 usando a
 linguagem CSS, deve-se utilizar o comando
-
 a) input [type=text] {color:blue}
 
 b) input type='text' {colonblue}
@@ -8628,15 +8384,10 @@ div.slogan{background-color:green; flex: 1}
 Para que as divisões logo e slogan apareçam uma do lado da outra, com tamanhos
 iguais,
 preenchendo toda a divisão topo, a lacuna I deve ser corretamente preenchida por
-
 a) display:inline
-
 b) float:left
-
 c) displayrflex
-
 d) positiomrelative
-
 e) display:block
 
 Item. 6. (FCC - AL-AP - 2020) Segundo os padrões de acessibilidade na web definidos para
@@ -8664,16 +8415,10 @@ ser utilizada, em todos eles, a instrução CSS:
 
 
 www. estra tegiaconcursos. com. br
-
-
 a) align:inline
-
 b) float:left
-
 c) display:left
-
 d) position:inline
-
 e) aling:inline-block
 
 Item. 8. (FCC -TJ-MA- 2019) A propriedade display na linguagem CSS3 especifica como um
@@ -8681,7 +8426,6 @@ elemento
 será exibido no layout da página web. Comparado ao display:block, a principal diferença
 é que
 o display:inIine-block
-
 a) exibe parte do elemento da página na horizontal e parte na vertical.
 
 b) não adiciona quebra de linha após o elemento, permitindo que este se ajuste ao
@@ -8702,7 +8446,6 @@ no cabeçalho de uma página HTMLque fará referência a um arquivo chamado aOOI
 aplicado apenas quando a página for aberta em dispositivos com tela de até 600
 pixels. A
 instrução correta que deverá ser inserida é
-
 a) <@import URL(a001 .css) only screen and (max-width: 600px)>
 
 b) <link rel = "media" device="only screen with (max-width: óOOpx)" href="a001 .css">
@@ -8767,7 +8510,6 @@ bordartsolid WcOcQcü lpx;
 Para que os contêineres sejam posicionados um ao lado do outro
 horizontalmente deve-se
 adicionar ao bloco CSS acima a instrução
-
 a) position: side -by-side;
 
 b) box-position: left;
@@ -8793,7 +8535,6 @@ I. Relative to 1 % of the width of the viewport (the browser window size).
 II . Relative to 1 % of the height of the viewport (the browser window size).
 
 I e II referem-se, respectivamente, às unidades de medida
-
 a) pw e ph.
 
 
@@ -8810,7 +8551,6 @@ e) vw e vh.
 
 Item. 14. (FCC- DPE-AM- 2018) A instrução CSS3 div + p {background-color: blue;} aplica a cor de fundo
 azul ao elemento <p> colocado
-
 a) imediatamente após o elemento <div>.
 
 b) dentro do elemento <div>.
@@ -8829,7 +8569,6 @@ clink type="text/css" href="som.css">
 Para que esse arquivo CSS seja usado por leitores de tela que leem a página em voz
 alta, deve
 ser acrescentado o atributo
-
 a) media-type="aural"
 
 b) speaker="true"
@@ -8854,13 +8593,10 @@ Para que o valor definido no padding não seja acrescentado aos 300px de largura
 contêiner
 
 <div>z deve-se incluir no fragmento de código a instrução
-
 a) weight-width: fixed;
 
 
 www. estra tegiaconcursos. com. br
-
-
 b) max-width:300px;
 
 c) width-dimension: fixed;
@@ -8870,7 +8606,6 @@ d) box-sizing: border-box;
 e) padding-render: none;
 
 Item. 17. (FCC-DPE-AM-2018) A instrução CSS3 margin: 25px 50px 75px; significa que a margem
-
 a) inferior tem Opx.
 
 b) direita e a esquerda têm 50px.
@@ -8916,16 +8651,10 @@ do título
 seja aplicada a cor e o tamanho da fonte é:
 
 a) h1#tit::first-character
-
 b) h1 ,tit::first-letter
-
 c) h1 ,tit:initial-letter
-
 d) h1#tit::first-letter
-
 e) h1 ,tit::captive-letter
-
-
 www. estra tegiaconcursos. com. br
 
 
@@ -8966,7 +8695,6 @@ text-align:center
 
 . Se o programador trocar o valor da propriedade box-sizing de border-box para content-box
 os contêineres com class="caixa" provavelmente
-
 a) não terão bordas, permanecendo apenas seus conteúdos.
 
 b) diminuirão de tamanho e haverá uma margem entre eles.
@@ -9018,7 +8746,6 @@ font-size: 30px;
 Para conseguir a disposição dos contêineres mostrada na figura, a lacuna I
 deve ser
 corretamente preenchida por
-
 a) float:left;
 
 b) display: flex;
@@ -9034,7 +8761,6 @@ responsivo utilizando
 HTML5, em todas as páginas do site é aconselhado utilizar uma tag que fornecerá
 instruções
 ao navegador sobre como controlar as dimensões e escalas da página. Trata-se da tag
-
 a) <style content="width=device-auto, initial-scale=O, final-scale=100"/>
 
 b) <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9074,15 +8800,10 @@ to {background-color: blue;}
 Para que a animação chamada metro mude a cor de fundo do contêiner de vermelho para
 azul,
 a lacuna I deve ser corretamente preenchida por
-
 a) @media animation
-
 b) @function
-
 c) @keyframes
-
 d) @transient
-
 e) @animation
 
 23.(FCC - Pref Manaus- 2019) Considere o fragmento de uma página web criada com HTML5 e
@@ -9116,7 +8837,6 @@ border: 5px solid #FFOOOO;
 </body>
 
 A configuração CSS3 de borda
-
 a) não será aplicada, pois não é possível aplicar uma configuração CSS usando o atributo
 title
 s.
@@ -9143,7 +8863,6 @@ palavra carro.
 Questões FCV
 
 Item. 1. (FGV- TRT -13a Região (PB) - 2022) Numa codificação CSS, a propriedade z-index refere-se
-
 a) à ordem de um elemento numa pilha.
 
 b) à ordenação crescente de uma lista de elementos.
@@ -9160,15 +8879,10 @@ controlar a aparência das páginas do seu site de Internet.
 A sintaxe do seletor CSS que Maria deve usar para aplicar um determinado estilo
 somente aos
 elementos <li> que estiverem diretamente dentro de elementos <ul>, é
-
 a) ul.li
-
 b) ul > li
-
 c) ul + li
-
 d) ul ~ li
-
 e) ul , li
 
 Item. 3. (FGV- MPE-SC -2022) Considere o conteúdo de uma página web simplificada, exibido a
@@ -9184,13 +8898,9 @@ para especificar
 corretamente a referência a uma folha de estilos externa (externai style sheet) é:
 
 a) import
-
 b) include
-
 c) link
-
 d) ref
-
 e) uri
 
 Item. 4. (FGV-TRT - 16a REGIÃO (MA) - 2022) No contexto do HTML e CSS, analise o código a seguir
@@ -9210,7 +8920,6 @@ color: blue;
 }
 
 Sobre esse trecho, é correto afirmar que a cor e o alinhamento serão aplicados
-
 a) à classe denominada "p.centro".
 
 b) à classe denominada "p".
@@ -9321,7 +9030,6 @@ símbolo "xxxx" em
 cada linha, respectivamente, é:
 
 a) classe xxxx / tag / classe xxxx / classe xxxx
-
 b) classe xxxx / classe xxxx / classe xxxx / tag
 
 
@@ -9331,9 +9039,7 @@ b) classe xxxx / classe xxxx / classe xxxx / tag
 
 
 c) tag / classe xxxx / id "xxxx" / tag
-
 d) tag / classe xxxx / id "xxxx" / classe xxxx
-
 e) tag / tag / classe xxxx / id "xxxx"
 
 Item. 11. (FGV- FUNSAÚDE - CE - 2021) No contexto do CSS3, assinale o script que define
@@ -9364,7 +9070,6 @@ e) Definir a unidade utilizada para estabelecer as dimensões.
 Item. 13. (FGV-IMBEL- 2021) Analise o trecho de código CSS3 a seguir.
 
 Pt
-
 color: red;
 
 text-align: center;
@@ -9492,7 +9197,6 @@ www. estra tegiaconcursos. com. br
 
 
 Conceitos Básicos
-
 atualmente.
 
 BooTSTRAP
@@ -9899,7 +9603,6 @@ oferecendo uma excelente experiência de usuário em todos os dispositivos.
 
 i (CEBRASPE Órgão: STM - 2018) O sistema de grades do Bootstrap baseia-se em um
 leiaute de 12 i
-
 i colunas.
 i
 
@@ -9936,7 +9639,6 @@ significa que afetam esse ponto de interrupção e todos os que estão
 Grid system suporta
 seis breakpoints
 responsivos
-
 acima dele (por exemplo, .col-sm-4aplica-se a sm, md, lg, xle xxl). Isso
 significa que você pode controlar o dimensionamento e o
 comportamento do contêiner e da coluna em cada ponto de
@@ -9947,11 +9649,9 @@ Os contêineres
 centralizam e
 preenchem
 horizontalmente seu
-
 conteúdo
 
 Linhas são wrappers
-
 para colunas
 
 Use .containerpara uma largura de pixel responsiva, .container-
@@ -10065,7 +9765,6 @@ documentação:
 
 Usando um único conjunto de classes .col-sm-*, você pode criar um sistema de grade
 básico que
-
 começa empilhado e se torna horizontal no pequeno ponto de interrupção ( sm).
 
 <div class="container">
@@ -10523,7 +10222,6 @@ maior.</p>
 
 <p class = "text-md-left">Texto alinhado à esquerda em viewports de
 tamanho MD (médio) ou
-
 maior. </p>
 
 <p class = "text-lg-left">Texto alinhado à esquerda em viewports de
@@ -10542,7 +10240,6 @@ usadas para
 alinhar conteúdo na página. Aqui estão as principais classes de alinhamento no Bootstrap 5:
 
 Propriedades Descrição
-
 text-start Alinha o conteúdo à esquerda (início) do elemento pai. É a opção
 padrão de alinhamento de texto em um elemento html.
 
@@ -10587,16 +10284,12 @@ Alinha os elementos filhos do contêiner flex ao início (lado esquerdo)
 
 
 justify-content-start
-
 do contêiner. É a opção padrão de alinhamento.
 
 justify-content-center Centraliza os elementos filhos do contêiner flex horizontalmente.
 
 Alinha os elementos filhos do contêiner flex ao final (lado direito) do
-
-
 justify-content-end
-
 contêiner.
 
 
@@ -10639,7 +10332,6 @@ relação a um
 determinado ponto na tela. Algumas das principais classes são:
 
 Propriedades Descrição
-
 position-static Posição padrão de um elemento e não modifica seu
 posicionamento.
 
@@ -10652,21 +10344,13 @@ position-relative Posiciona um elemento em relação à sua posição normal.
 
 
 position-absolute
-
 position-fixed
-
 position-sticky
-
 float-start
-
 float-end
-
 float-none
-
 float-right
-
 float-left
-
 clearfix
 
 Posiciona um elemento em relação ao elemento pai mais próximo
@@ -10926,7 +10610,6 @@ Exemplo de nadio button 1
 id="exampleRadio2">
 
 <label class="form-check-label
-
 type="radio" name="exampleRadio"
 for="exampleRadiol">
 
@@ -11044,8 +10727,6 @@ para personalizar ainda mais o estilo desses elementos.
 Outras classes form
 
 Classe Descrição
-
-
 form-check-input
 
 É utilizada para estilizar o elemento <input> que representa a caixa
@@ -11060,7 +10741,6 @@ a ele.
 
 
 form-group
-
 form-row
 
 É utilizada para agrupar elementos relacionados em um formulário,
@@ -11139,7 +10819,6 @@ deslizamentos quando a página da Web não estiver visível para o usuário (com
 guia do navegador estiver inativa, a janela do navegador estiver minimizada etc.).
 
 * Esteja ciente de que os carrosséis aninhados não são suportados e os carrosséis geralmente
-
 não são compatíveis com os padrões de acessibilidade.
 
 * Por fim, se você estiver criando nosso JavaScript a partir do código-fonte, ele requer
@@ -11336,7 +11015,6 @@ Classe Descrição
 e .carousel-control-
 
 next
-
 é a classe que define o contêiner principal do Carousel, que envolve
 todos os outros elementos do componente.
 
@@ -11352,7 +11030,6 @@ navegue para o próximo ou para o item anterior na sequência.
 
 
 .carousel-indicators
-
 é a classe usada para criar os indicadores de posição do Carousel, que
 permitem ao usuário saber em que item da sequência ele está.
 
@@ -11407,7 +11084,6 @@ funcionalidade
 carrossel.
 
 Eventos Descrição
-
 slide.bs.carousel Este evento dispara imediatamente quando o método da instância do
 slide é invocado.
 
@@ -11418,18 +11094,15 @@ Ambos os eventos têm as seguintes propriedades adicionais:
 
 
 Propriedades dos
-
 eventos
 
 Descrição
-
 direction A direção na qual o carrossel está deslizando (ou "left"ou "right").
 
 relatedTarget O elemento DOM que está sendo deslizado para o lugar como o item
 ativo.
 
 from O índice do item atual
-
 to O índice do próximo item
 
 Buttons
@@ -11448,8 +11121,6 @@ das
 classes mais comuns são:
 
 Botões Descrição
-
-
 btn
 
 É a classe base para estilizar botões no Bootstrap. Todos os botões
@@ -11541,7 +11212,6 @@ Spinners são indicadores de
 carregamento que são usados para
 indicar ao usuário que um processo
 está em andamento e que ele deve
-
 aguardar um pouco mais. Eles são frequentemente usados em sites e aplicativos da web
 para
 indicar que o conteúdo está sendo carregado ou que uma ação está em andamento.
@@ -11553,7 +11223,6 @@ k J
 O Bootstrap fornece alguns spinners pré-fabricados que podem ser
 facilmente adicionados a um projeto. Um dos spinners mais comuns
 é o "spinner-border", que mostra uma animação em forma de
-
 círculo que gira para indicar que o processo está em andamento.
 
 O tamanho dos spinners pode ser ajustado usando as classes "spinner-border-sm"
@@ -11565,8 +11234,6 @@ quando o
 spinner está em uso.
 
 Border spinner
-
-
 www. estra tegiaconcursos. com. br
 
 
@@ -11629,7 +11296,6 @@ passa o mouse sobre um elemento, sem precisar clicar ou navegar para outra pági
 Bootstrap Tooltip Demo
 
 A Tooltip witti defàult direction
-
 usuários.
 
 O Bootstrap é uma biblioteca
@@ -11771,7 +11437,6 @@ maior. </p>
 
 <p class = "text-lg-left">Texto alinhado à esquerda em viewports de
 tamanho LG (grande) ou
-
 maior.</p>
 
 <p class = "text-xl-left" >Texto alinhado à esquerda em viewports
@@ -11786,7 +11451,6 @@ alinhar conteúdo na página. Aqui estão as principais classes de alinhamento n
 
 * text-start: alinha o conteúdo à esquerda (início) do elemento pai. É a
 opção padrão de
-
 alinhamento de texto em um elemento HTML.
 
 * text-center: alinha o conteúdo ao centro do elemento pai.
@@ -11820,7 +11484,6 @@ forma
 objetiva essas classes
 
 Propriedades Descrição
-
 justify-content-start Alinha o conteúdo ao início do container, ou seja, à esquerda.
 
 justify-content-center Centraliza o conteúdo horizontalmente no container.
@@ -11859,7 +11522,6 @@ controlar o
 layout dos elementos na página. Algumas das principais classes de posicionamento são:
 
 Propriedades Descrição
-
 d-flex Define um elemento como um flex container, permitindo que seus
 filhos sejam posicionados com flexbox.
 
@@ -11914,29 +11576,19 @@ Centraliza um elemento verticalmente em seu contêiner.
 
 
 float-right
-
 position-static
-
 position-relative
-
 position-absolute
-
 position-fixed
-
 position-sticky
-
 top-O, bottom-0, left-
 
 0, right-0
 
 mx-auto
-
 my-auto
-
 text-center
-
 text-end
-
 text-start
 
 É uma classe de posicionamento do Bootstrap que é usada para
@@ -11989,10 +11641,7 @@ No Bootstrap, há diversas classes para definir a cor dos elementos, dentre elas
 
 
 Propriedades Descrição
-
-
 text-muted
-
 é uma classe de cor do Bootstrap que é usada para alterar o tom do
 texto para um cinza mais suave. Geralmente é usada para adicionar
 um texto de descrição ou informação adicional que não é tão
@@ -12099,7 +11748,6 @@ de uso, ampla gama de recursos e vasta
 comunidade de desenvolvedores
 
 O Bootstrap é um framework de front-end
-
 gratuito e de código aberto
 
 Breakpoints
@@ -12206,8 +11854,6 @@ XX-Large
 100% 540px 720px 960px 1140px 1320 px
 100% 100% 720px 960px 1140px 1320
 px
-
-
 www. estra tegiaconcursos. com. br
 
 
@@ -12235,7 +11881,6 @@ Crid system
 
 O sistema grid Bootstrap (grid sysem ou sistema de grade) usa vários containers, linhas e colunas
 para arranjar e alinhar conteúdo. Ele é feito com flexbox e é, totalmente, responsivo. O sistema
-
 de grades do Bootstrap utiliza um layout de 12 colunas. Isso significa que você pode dividir sua
 página em até 12 colunas de largura igual, permitindo que você organize o conteúdo de sua
 página de forma flexível e responsiva. Cada coluna é representada por uma classe CSS, como
@@ -12260,7 +11905,6 @@ Os contêineres
 centralizam e
 preenchem
 horizontalmente seu
-
 conteúdo
 
 Use .containerpara uma largura de pixel responsiva, .container-
@@ -12270,7 +11914,6 @@ combinação de larguras fluidas e de pixel.
 
 
 Linhas são wrappers
-
 para colunas
 
 Cada coluna tem uma horizontal padding(chamada de calha) para
@@ -12381,7 +12024,6 @@ usadas para
 alinhar conteúdo na página. Aqui estão as principais classes de alinhamento no Bootstrap 5:
 
 Propriedades Descrição
-
 text-start Alinha o conteúdo à esquerda (início) do elemento pai. É a opção
 padrão de alinhamento de texto em um elemento html.
 
@@ -12412,7 +12054,6 @@ determinado ponto na tela. Algumas das principais classes são:
 
 
 Propriedades Descrição
-
 position-static Posição padrão de um elemento e não modifica seu
 posicionamento.
 
@@ -12532,7 +12173,6 @@ Define a cor de fundo para uma cor escura, geralmente usada em
 fundo claro.
 
 Propriedades Descrição
-
 justify-content-start Alinha os elementos filhos do contêiner flex ao início (lado
 esquerdo)
 do contêiner. É a opção padrão de alinhamento.
@@ -12540,10 +12180,7 @@ do contêiner. É a opção padrão de alinhamento.
 justify-content-center Centraliza os elementos filhos do contêiner flex horizontalmente.
 
 Alinha os elementos filhos do contêiner flex ao final (lado direito) do
-
-
 justify-content-end
-
 contêiner.
 
 
@@ -12555,10 +12192,7 @@ contêiner.
 align-items-center Centraliza os elementos filhos do contêiner flex verticalmente.
 
 Usada para alinhar elementos filhos verticalmente na parte inferior do
-
-
 align-items-end
-
 contêiner pai. É usada em contêineres flex e pode ser aplicada ao
 elemento pai ou aos elementos filhos dentro dele.
 
@@ -12619,19 +12253,16 @@ Classe Descrição
 
 
 .carousel
-
 é a classe que define o contêiner principal do Carousel, que envolve
 todos os outros elementos do componente.
 
 
 .carousel-inner
-
 é a classe que envolve todos os .carousel-item e é responsável por
 exibir um único item do Carousel de cada vez.
 
 
 .carousel-item
-
 é a classe que define cada item individual do Carousel, que pode
 incluir uma imagem, um texto ou outros elementos HTML.
 
@@ -12640,14 +12271,12 @@ incluir uma imagem, um texto ou outros elementos HTML.
 e .carousel-control-
 
 next
-
 são as classes usadas para criar os botões de controle de avanço e
 retrocesso do Carousel. Esses botões permitem que o usuário
 navegue para o próximo ou para o item anterior na sequência.
 
 
 .carousel-indicators
-
 é a classe usada para criar os indicadores de posição do Carousel, que
 permitem ao usuário saber em que item da sequência ele está.
 
@@ -12682,7 +12311,6 @@ Percorre os itens do carrossel da esquerda para a direita.
 Percorre o carrossel para um quadro específico (baseado em
 semelhante a uma matriz). Retorna ao chamador antes que o item
 destino seja exibido (ou seja, antes que o slid.bs.ca
-
 ocorra).
 
 Volta para o item anterior. Retorna ao chamador antes que o i
@@ -12701,7 +12329,6 @@ funcionalidade
 carrossel.
 
 Eventos Descrição
-
 slide.bs.carousel Este evento dispara imediatamente quando o método da instância do
 slide é invocado.
 
@@ -12712,11 +12339,9 @@ Ambos os eventos têm as seguintes propriedades adicionais:
 
 
 Propriedades dos
-
 eventos
 
 Descrição
-
 direction A direção na qual o carrossel está deslizando (ou "left"ou "right").
 
 
@@ -12737,7 +12362,6 @@ Spinners
 Spinners são indicadores de
 carregamento que são usados para
 indicar ao usuário que um processo
-
 está em andamento e que ele deve
 aguardar um pouco mais. Eles são frequentemente usados em sites e aplicativos da web
 para
@@ -12778,8 +12402,6 @@ ferramentas e popovers, modais e muito mais.
 REFERÊNCIAS
 
 https://www.w3schools.com/bootstrap/bootstrap_ver.asp
-
-
 www. estra tegiaconcursos. com. br
 
 
@@ -12827,11 +12449,8 @@ em linha,
 nesse caso, um valor de marcação válido seria:
 
 a) form-responsive
-
 b) form-control
-
 c) form-inline
-
 d) form-line
 
 Comentários:
@@ -12897,7 +12516,6 @@ JavaScript para
 o desenvolvimento de websites responsivos e móveis.
 
 São classes do Bootstrap para estilizar botões
-
 a) button-success, button-info.
 
 b) btn , btn-default.
@@ -13002,11 +12620,9 @@ Brasil
 
 Para que os dois contêineres internos sejam renderizados com divisão de 50% cada, em todas
 as telas, exceto nas extra pequenas, as lacunas I e II devem ser corretamente preenchidas com
-
 a) col-left-50 e col-right-50
 
 b) col-half-screen e col-half-screen
-
 c) col-sm-6 e col-sm-6
 
 d) col-lg-50 e col-lg-50
@@ -13030,7 +12646,6 @@ Gabarito: Letra C
 Item. 8. (FCC - TRT4- 2022) Para definir uma tag div como contêiner, o Bootstrap tem
 alguns nomes
 de classe predefinidos, como
-
 a) container-flex e container-grid.
 
 b) container-box e container-text.
@@ -13092,15 +12707,10 @@ Gabarito: Letra B
 10.(FCC - TRT 23 - 2022) No Bootstrap 5, para criar um contêiner flexbox e
 transformar filhos
 diretos em itens flex, utiliza-se, nesse contêiner, a classe
-
 a) d-flex
-
 b) flex-display
-
 c) flex-layout
-
 d) flex-model
-
 e) m-flex
 
 Comentários:
@@ -13140,15 +12750,10 @@ Bootstrap
 Para definir que este contêiner será responsivo, de largura fixa e aparecerá
 centralizado na tela,
 utiliza-se, na lacuna I, a classe
-
 a) align-center
-
 b) flex-box
-
 c) container
-
 d) fixed-box
-
 e) container-fluid
 
 Comentários:
@@ -13177,7 +12782,6 @@ Bootstrap
 Para definir uma divisão de 25% e 75% em dispositivos pequenos, com largura de tela
 entre
 576 pixels e 767 pixels, as lacunas I e II devem ser preenchidas, respectivamente, com
-
 a) col-small-25 e col-small-75.
 
 
@@ -13239,7 +12843,6 @@ divisão da
 esquerda use 25% da largura da linha e a divisão da direita use 75%, as lacunas I
 e II devem ser
 preenchidas, correta e respectivamente, com os nomes de classe
-
 a) col-sm-3 e col-sm-9
 
 b) col-sm-25 e col-sm-75
@@ -13300,7 +12903,6 @@ Bootstrap4, onde todas as bibliotecas necessárias foram importadas no cabeçalh
 </div>
 
 Quando a janela (tela) tiver
-
 a) menos de 576 pixels de largura, as colunas serão empilhadas automaticamente uma
 sobre a
 outra.
@@ -13385,7 +12987,6 @@ Cadastrar
 
 Tenha seus documentos em
 mãos
-
 a) toggle.
 
 b) collapse.
@@ -13451,7 +13052,6 @@ utiliza Bootstrap em condições ideais.
 Esse fragmento resultará na divisão da largura da tela entre os dois contêineres na
 proporção
 de
-
 a) 20% / 80% em dispositivos de tela grande.
 
 b) 20% / 40% / 30% / 10% em todos os tipos de dispositivos.
@@ -13552,13 +13152,9 @@ contêineres filhos
 diretos em itens flexíveis (flex), usa-se nesse contêiner a classe:
 
 a) flex-grow
-
 b) bg-flex
-
 c) d-flex
-
 d) flex-fill
-
 e) flex-stretch
 
 Comentários:
@@ -13606,7 +13202,6 @@ data-tirgoi:=''#aL"^SKMEF</bLitton>
 .-dlv id-*a.l" class- "colLapsc* >
 
 A Secretaria Municipal de Finanças. Tecnologia da Informação e Controle Interno {Semefi
-
 íntegra a MAlnlstraçao Direta do poder Executivo...
 
 </div>
@@ -13620,7 +13215,6 @@ apareça abaixo
 do botão e, ao clicar novamente o texto desapareça, alternando a cada clique, a
 lacuna I deverá
 ser preenchida com
-
 a) data-toggle="alternate"
 
 b) data-alternate="show-hide"
@@ -13676,7 +13270,6 @@ condições
 ideais, o navegador vai renderizar os dois contêineres, um ao lado do
 outro, na proporção
 aproximada de
-
 a) 15%/85% para dispositivos de telas pequenas, 50%/50% para dispositivos de telas
 médias e
 23%/76% para dispositivos de telas grandes.
@@ -13728,7 +13321,6 @@ e deseja
 definir que um container deve usar toda a largura da tela.
 
 Para isso, terá que utilizar na tag <div> o atributo class igual a
-
 a) container.
 
 b) max-width.
@@ -13795,15 +13387,10 @@ informações</button>
 Para que, ao clicar no botão, o conteúdo do container seja exibido e, ao clicar
 novamente o
 conteúdo seja ocultado, alternando a cada clique, a lacuna I deverá ser preenchida com
-
 a) collapse
-
 b) toggle
-
 c) alternate
-
 d) show-hide
-
 e) modal-show
 
 Comentários:
@@ -13829,7 +13416,6 @@ pixels por 991 pixels. A coluna da esquerda deve ocupar aproximadamente 33,3% e 
 <div class="..I..</div>
 
 Para obter o layout desejado, as lacunas I e II devem conter, respectivamente, os valores
-
 a) col-md-3 e col-md-9
 
 b) col-lg-33 e col-lg-66
@@ -13874,7 +13460,6 @@ mesmo
 valor de um atributo do elemento usado para disparar o modal. Este atributo
 usado para
 disparar o modal é o
-
 a) data-toggle.
 
 b) data-target.
@@ -14012,13 +13597,9 @@ Gabarito: Letra B
 27.(FEPESE-CELESC-2022) Qual classe Bootstrap 5 centraliza um texto em uma tag HTML <p>?
 
 a) align
-
 b) center
-
 c) middle
-
 d) justified
-
 e) text-center
 
 Comentários:
@@ -14056,13 +13637,9 @@ um elemento <div>, por exemplo, para implementar um slideshow de modo a alternar
 elementos, sejam imagens ou slides de texto?
 
 a) list
-
 b) flip-flop
-
 c) carousel
-
 d) slideshow
-
 e) mosaic
 
 Comentários:
@@ -14079,7 +13656,6 @@ Gabarito: Letra C
 
 29.(FGV - CGE SC- 2023) A maneira correta de criar um layout de grid responsivo usando o
 Bootstrap é usar a classe
-
 a) "row" em um elemento div e adicionar classes "col-*" para criar as colunas.
 
 b) "grid" em um elemento div e adicionar classes "row-*" para criar as linhas.
@@ -14138,7 +13714,6 @@ Para alinhar o texto NOME à direita utilizado Bootstrap, versão 5, é suficien
 utilizar na tag
 
 <p> o atributo class igual a
-
 a) text-end.
 
 b) text-muted.
@@ -14318,11 +13893,8 @@ a) badge success
 
 
 b) btn badge-success
-
 c) badge badge-success
-
 d) btn btn-success
-
 e) btn success
 
 Comentários:
@@ -14391,11 +13963,8 @@ em linha,
 nesse caso, um valor de marcação válido seria:
 
 a) form-responsive
-
 b) form-control
-
 c) form-inline
-
 d) form-line
 
 Item. 4. (IFSP - IF SP- 2022) O carousel é recurso de slideshow da Biblioteca Bootstrap,
@@ -14435,7 +14004,6 @@ JavaScript para
 o desenvolvimento de websites responsivos e móveis.
 
 São classes do Bootstrap para estilizar botões
-
 a) button-success, button-info.
 
 b) btn , btn-default.
@@ -14490,7 +14058,6 @@ Brasil
 
 Para que os dois contêineres internos sejam renderizados com divisão de 50% cada, em todas
 as telas, exceto nas extra pequenas, as lacunas I e II devem ser corretamente preenchidas com
-
 a) col-left-50 e col-right-50
 
 
@@ -14500,7 +14067,6 @@ a) col-left-50 e col-right-50
 
 
 b) col-half-screen e col-half-screen
-
 c) col-sm-6 e col-sm-6
 
 d) col-lg-50 e col-lg-50
@@ -14510,7 +14076,6 @@ e) col-sm-5 e col-sm-5
 Item. 8. (FCC - TRT4- 2022) Para definir uma tag div como contêiner, o Bootstrap tem
 alguns nomes
 de classe predefinidos, como
-
 a) container-flex e container-grid.
 
 b) container-box e container-text.
@@ -14538,15 +14103,10 @@ e) button-reset.
 10.(FCC - TRT 23 - 2022) No Bootstrap 5, para criar um contêiner flexbox e
 transformar filhos
 diretos em itens flex, utiliza-se, nesse contêiner, a classe
-
 a) d-flex
-
 b) flex-display
-
 c) flex-layout
-
 d) flex-model
-
 e) m-flex
 
 11 .(FCC-TRT 5-2022) Considere o contêiner abaixo, criado em uma página HTML com
@@ -14568,15 +14128,10 @@ Bootstrap
 Para definir que este contêiner será responsivo, de largura fixa e aparecerá
 centralizado na tela,
 utiliza-se, na lacuna I, a classe
-
 a) align-center
-
 b) flex-box
-
 c) container
-
 d) fixed-box
-
 e) container-fluid
 
 12.(FCC - TRT 14 - 2022) Considere os contêineres abaixo, criados utilizando HTML e Bootstrap
@@ -14588,7 +14143,6 @@ e) container-fluid
 
 Para definir uma divisão de 25% e 75% em dispositivos pequenos, com largura de tela entre
 576 pixels e 767 pixels, as lacunas I e II devem ser preenchidas, respectivamente, com
-
 a) col-small-25 e col-small-75.
 
 b) col-sm-3 e col-sm-9.
@@ -14660,7 +14214,6 @@ Bootstrap4, onde todas as bibliotecas necessárias foram importadas no cabeçalh
 </div>
 
 Quando a janela (tela) tiver
-
 a) menos de 576 pixels de largura, as colunas serão empilhadas automaticamente uma
 sobre a
 outra.
@@ -14714,7 +14267,6 @@ Cadastrar
 
 Tenha seus documentos em
 mãos
-
 a) toggle.
 
 b) collapse.
@@ -14752,7 +14304,6 @@ utiliza Bootstrap em condições ideais.
 Esse fragmento resultará na divisão da largura da tela entre os dois contêineres na
 proporção
 de
-
 a) 20% / 80% em dispositivos de tela grande.
 
 b) 20% / 40% / 30% / 10% em todos os tipos de dispositivos.
@@ -14804,13 +14355,9 @@ contêineres filhos
 diretos em itens flexíveis (flex), usa-se nesse contêiner a classe:
 
 a) flex-grow
-
 b) bg-flex
-
 c) d-flex
-
 d) flex-fill
-
 e) flex-stretch
 
 19.(FCC - Pref Manaus- 2019) Um programador criou a página web abaixo utilizando
@@ -14861,7 +14408,6 @@ apareça abaixo
 do botão e, ao clicar novamente o texto desapareça, alternando a cada clique, a
 lacuna I deverá
 ser preenchida com
-
 a) data-toggle="alternate"
 
 b) data-alternate="show-hide"
@@ -14891,7 +14437,6 @@ condições
 ideais, o navegador vai renderizar os dois contêineres, um ao lado do
 outro, na proporção
 aproximada de
-
 a) 15%/85% para dispositivos de telas pequenas, 50%/50% para dispositivos de telas
 médias e
 23%/76% para dispositivos de telas grandes.
@@ -14922,7 +14467,6 @@ definir que um container deve usar toda a largura da tela.
 
 
 Para isso, terá que utilizar na tag <div> o atributo class igual a
-
 a) container.
 
 b) max-width.
@@ -14969,15 +14513,10 @@ informações</button>
 Para que, ao clicar no botão, o conteúdo do container seja exibido e, ao clicar
 novamente o
 conteúdo seja ocultado, alternando a cada clique, a lacuna I deverá ser preenchida com
-
 a) collapse
-
 b) toggle
-
 c) alternate
-
 d) show-hide
-
 e) modal-show
 
 23.(FCC -ARTESP- 2017) Um Especialista em Tecnologia da Informação deseja criar um
@@ -15015,7 +14554,6 @@ mesmo
 valor de um atributo do elemento usado para disparar o modal. Este atributo
 usado para
 disparar o modal é o
-
 a) data-toggle.
 
 b) data-target.
@@ -15095,13 +14633,9 @@ e) 6
 Item. 27. (FEPESE-CELESC-2022) Qual classe Bootstrap 5 centraliza um texto em uma tag HTML <p>?
 
 a) align
-
 b) center
-
 c) middle
-
 d) justified
-
 e) text-center
 
 28.(FEPESE - CELESC - 2022) Qual componente Bootstrap pode ser definido como a classe
@@ -15110,19 +14644,14 @@ um elemento <div>, por exemplo, para implementar um slideshow de modo a alternar
 elementos, sejam imagens ou slides de texto?
 
 a) list
-
 b) flip-flop
-
 c) carousel
-
 d) slideshow
-
 e) mosaic
 
 29.(FGV - CGE SC- 2023) A maneira correta de criar um layout de grid responsivo
 usando o
 Bootstrap é usar a classe
-
 a) "row" em um elemento div e adicionar classes "col-*" para criar as colunas.
 
 b) "grid" em um elemento div e adicionar classes "row-*" para criar as linhas.
@@ -15158,7 +14687,6 @@ Para alinhar o texto NOME à direita utilizado Bootstrap, versão 5, é suficien
 utilizar na tag
 
 <p> o atributo class igual a
-
 a) text-end.
 
 b) text-muted.
@@ -15244,13 +14772,9 @@ padrões do framework, para que a tag span apresente um componente badge em core
 fundo verde e letra branca, deve-se alterar a declaração BOOTSTRAP para:
 
 a) badge success
-
 b) btn badge-success
-
 c) badge badge-success
-
 d) btn btn-success
-
 e) btn success
 
 

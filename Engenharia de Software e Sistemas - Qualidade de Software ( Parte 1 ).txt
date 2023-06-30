@@ -336,8 +336,6 @@ técnicas
 desenvolvidas nas indústrias de manufatura, em que os termos garantia de qualidade e
 controle de
 qualidade são amplamente utilizados. Garantia de qualidade é a definição de processos e normas
-
-
 que devem levar a produtos de alta qualidade e à introdução de processos de qualidade
 no
 processo de fabricação.
@@ -431,7 +429,6 @@ a) a facilidade de migrar o software de um ambiente computacional para outro.
 b) a probabilidade de o software operar sem falhas durante um período de tempo.
 
 c) o esforço dispendido para efetuar correções em um software
-
 d) o nível de aproveitamento dos recursos computacionais pelo software.
 
 e) o nível de facilidade do uso de um software.
@@ -466,7 +463,6 @@ segundo
 os quais o fator:
 
 a) confiabilidade enquadra-se no aspecto de transição do produto
-
 b) correção enquadra-se no aspecto de revisão do produto.
 
 c) eficiência enquadra-se no aspecto de operação do produto.
@@ -561,7 +557,6 @@ Vamos ver uma tabela com as principais diferenças entre garantia e controle de 
 GARANTIA DE QUALIDADE
 
 Garantia da qualidade garante que o processo é
-
 definido e apropriado.
 Metodologia e padrões de desenvolvimento são
 exemplos de garantia da qualidade.
@@ -571,10 +566,8 @@ Garantia da qualidade é orientada a prevenção.
 Foco em monitoração e melhoria de processo.
 
 As atividades são focadas no início das fases no ciclo de
-
 vida de desenvolvimento de software.
 Garantia da qualidade garante que você está fazendo
-
 certo as coisas e da maneira correta.
 
 CONTROLE DE QUALIDADE
@@ -658,8 +651,6 @@ certificação de que
 o software construído esteja de acordo com as funções e especificações dos usuários!
 Já a
 Validação ocorre no ambiente do usuário e se certifica de que o software construído está de acordo
-
-
 com as expectativas do cliente. Ora, o produto está de acordo com as especificações?
 Ele satisfaz os
 anseios dos usuários?
@@ -1172,8 +1163,6 @@ associadas com
 as classes de objeto em um projeto. As métricas de controle e de previsão podem
 influenciar a
 tomada de decisão de gerenciamento. Os gerentes usam métricas de processo para decidir se
-
-
 devem ser feitas alterações no processo; as métricas de previsão são usadas para
 ajudar a estimar
 o esforço necessário para fazer as alterações no software.
@@ -1430,8 +1419,6 @@ etc), ou a
 uma determinada fase do ciclo de vida do software, ou ao ciclo de vida de software
 como um todo.
 Sua utilização permite a identificação de componentes de alto risco e permite a comparação de
-
-
 produtos pela medição da qualidade de cada um. Existe também uma métrica similar ao
 MTTF!
 
@@ -1756,7 +1743,6 @@ MANUTENIBILIDADE
 
 Capacidade do produto de software de ser modificado. As modificações podem i ir
 correções, melhorias ou adaptações devido a mudanças no ambiente e nos
-
 requisitos ou especificações funcionais.
 
 SUBCARACTERÍSTICA | DESCRIÇÃO
@@ -1864,8 +1850,6 @@ se apoia na
 definição de atributos externos de qualidade correlacionados com uma determinada
 característica
 e define indicadores e métricas externas para avaliar um produto de software. As Métricas Externas
-
-
 referem-se a medições indiretas de um produto de software a partir do comportamento do
 sistema
 computacional ou do seu efeito no ambiente, quando da execução de seus programas.
@@ -2061,7 +2045,6 @@ EFICIÊNCIA
 GARANTIA DE QUALIDADE
 
 Garantia da qualidade garante que o processo é
-
 definido e apropriado.
 Metodologia e padrões de desenvolvimento são
 exemplos de garantia da qualidade.
@@ -2071,10 +2054,8 @@ Garantia da qualidade é orientada a prevenção.
 Foco em monitoração e melhoria de processo.
 
 As atividades são focadas no início das fases no ciclo de
-
 vida de desenvolvimento de software.
 Garantia da qualidade garante que você está fazendo
-
 certo as coisas e da maneira correta.
 
 CONTROLE DE QUALIDADE
@@ -2656,8 +2637,6 @@ usada para o
 desenvolvimento de sistemas críticos. Nesse caso, a análise estática pode descobrir um
 grande
 número de erros potenciais e reduzir significativamente os custos de teste. No entanto, os
-
-
 projetistas de linguagens de programação modernas, como Java2, têm
 removido algumas
 características propensas a erro.
@@ -2951,14 +2930,11 @@ Comentários:
 A portabilidade refere-se à facilidade com a qual um software pode sertransposto de um
 ambiente
 para outro, conforme indicado pelos seguintes subatri-butos: adaptabilidade, facilidade de
-
-
 instalação, conformidade, facilidade de substituição. A questão trata - na verdade - do
 atributo de
 eficiência.
 
 Gabarito: Errado
-
 n.(CESPE / BANRISUL - 2022) As características operacionais, a capacidade de
 suportar
 mudanças e a adaptabilidade a novos ambientes são os aspectos de um produto de
@@ -2978,7 +2954,6 @@ reusabilidade e
 interoperabilidade.
 
 Gabarito: Correto
-
 i2.(CESPE / BANRISUL-2022) A usabilidade é um atributo de qualidade de um projeto que
 avalia
 se ele fornece os recursos que os usuários precisam.
@@ -2992,7 +2967,6 @@ desejados
 pelos usuários.
 
 Gabarito: Errado
-
 i3-(CESPE / SERPRO - 2010) A garantia de qualidade tem como objetivo testar os
 produtos de
 software de modo a identificar, relatar e remover os defeitos encontrados, enquanto o
@@ -3012,8 +2986,6 @@ sênior da
 organização com a visibilidade apropriada sobre o processo de desenvolvimento.
 
 Gabarito: Errado
-
-
 i4-(CESPE/ SERPRO-2010) Um processo de gerenciamento da qualidade do projeto
 tipicamente
 visa garantir e controlar a qualidade. No controle da qualidade, são
@@ -3047,7 +3019,6 @@ produto de software
 e, não, em uma específica.
 
 Gabarito: Errado
-
 i6.(CESPE / TCE-RO - 2013) Controle, planejamento e garantia de qualidade são
 atividades do
 gerenciamento de qualidade; o controle de qualidade estabelece procedimentos e padrões
@@ -3061,7 +3032,6 @@ organizacionais
 e padrões que conduzem a um software de alta qualidade.
 
 Gabarito: Errado
-
 i7.(CESPE/ BASA-2010) Para garantir o desenvolvimento de qualidade, é suficiente que a
 equipe
 tenha as ferramentas mais atuais de engenharia de software e os melhores computadores.
@@ -3602,7 +3572,6 @@ de
 avaliação
 
 Produto
-
 ftware
 
 Efeitos do
@@ -3613,7 +3582,6 @@ software
 / X
 
 Apoio à
-
 avaliação
 
 [14598-2]
@@ -3625,7 +3593,6 @@ avaliação
 Processo
 de
 avaliação
-
 fÍ4598-3j
 fl 4598-4)
 &4598<
@@ -3633,7 +3600,6 @@ fl 4598-4)
 / X
 
 Métricas
-
 internas
 
 14598-1
@@ -3652,7 +3618,6 @@ externas
 f X
 
 Métricas de
-
 qualidade
 em uso
 
@@ -3672,8 +3637,6 @@ Gabarito: Letra E
 
 3o.(CESPE / TRE-BA - 2017) Um gestor de desenvolvimento de software ficou responsável por
 avaliar a qualidade de determinado software. Nessa avaliação, ele utilizou atributos
-
-
 categorizados em características, como, por exemplo, a funcionalidade. Para essa
 característica
 
@@ -3905,7 +3868,6 @@ b) eficiência, manutenibilidade e portabilidade.
 c) funcionabilidade, usabilidade e manutenibilidade.
 
 d) confiabilidade, eficiência e manutenibilidade
-
 e) confiabilidade, eficiência e portabilidade.
 
 Comentários:
@@ -3985,7 +3947,6 @@ b) ISO 15504
 c) ISO 9126
 
 d) IEEE82g
-
 e) MPS.BR.
 
 Comentários:
@@ -4028,7 +3989,6 @@ a) Funcionalidade, confiabilidade, usabilidade.
 b) Funcionalidade, confiabilidade, eficiência.
 
 c) Funcionalidade, confiabilidade, alta gerência
-
 d) Funcionalidade, usabilidade, portabilidade.
 
 e) Eficiência, manutenibilidade, portabilidade.
@@ -4078,8 +4038,6 @@ quando usado em condições especificadas.
 Sempre que uma equipe desenvolve um código-fonte e o repassa para que outra equipe
 passe a
 mantê-lo, há um risco manutenibilidade. Porque? Porque o código pode conter "gambiarras", pode
-
-
 estar pouco comentado, pode ter baixa qualidade, entre outros. Além disso, a questão
 destaca que,
 caso ocorra uma falha, o software deve ser recuperar de forma automática e rápida.
@@ -4154,7 +4112,6 @@ IV. controle de mudanças.
 V. medição.
 
 Estão corretas apenas as alternativas
-
 a) II, III, IV, V
 
 b) I, III, V
@@ -4209,8 +4166,6 @@ Comentários:
 Os quatro últimos itens apresentam algumas características que permitem definir a
 qualidade de
 um software, mas não definem qualidade em si. Já o primeiro o faz corretamente, na medida em
-
-
 que de fato se trata da conformidade de um sistema com os requisitos levantados no
 início do
 processo de desenvolvimento.
@@ -4292,7 +4247,6 @@ a) A usabilidade diz respeito à quantidade de tempo, que o software fica dispon
 b) A eficiência é o grau com que o software satisfaz às necessidades declaradas.
 
 c) A disponibilidade é o grau de tempo em que o software permanece no ar para utilização
-
 d) A portabilidade é a facilidade com a qual um software pode ser transportado de um
 ambiente
 para outro.
@@ -4395,11 +4349,8 @@ que seja reprojetada."
 Assinale a alternativa que completa corretamente a afirmativa anterior.
 
 a) interna
-
 b) em uso
-
 c) externa
-
 d) em uso estimada (ou prevista)
 
 e) externa estimada (ou prevista)
@@ -4466,13 +4417,9 @@ com o grau de precisão necessário resultados ou efeitos corretos ou conforme a
 subcaracterística de:
 
 a) Portabilidade
-
 b) Usabilidade
-
 c) Confiabilidade
-
 d) Eficiência
-
 e) Funcionalidade
 
 Comentários:
@@ -4485,13 +4432,9 @@ Gabarito: Letra E
 Item. 12. (CESGRANRIO / CHESF - 2012) Dentre os atributos de um software de qualidade, incluem-se:
 
 a) controlabilidade, dependabilidade e eficiência
-
 b) controlabilidade, eficiência e manutenibilidade
-
 c) eficiência, imutabilidade e manutenibilidade
-
 d) eficiência, manutenibilidade e usabilidade
-
 e) imutabilidade, manutenibilidade e usabilidade
 
 Comentários:
@@ -5085,7 +5028,6 @@ b) eficiência, manutenibilidade e portabilidade.
 c) funcionabilidade, usabilidade e manutenibilidade.
 
 d) confiabilidade, eficiência e manutenibilidade
-
 e) confiabilidade, eficiência e portabilidade.
 
 
@@ -5153,7 +5095,6 @@ b) ISO 15504
 c) ISO 9126
 
 d) IEEE82g
-
 e) MPS.BR.
 
 Item. 3. (FGV / MEC - 2009) Entre os critérios de qualidade da Norma ISO 9126 não se inclui:
@@ -5270,7 +5211,6 @@ IV. controle de mudanças.
 V. medição.
 
 Estão corretas apenas as alternativas
-
 a) II, III, IV, V
 
 b) I, III, V
@@ -5360,7 +5300,6 @@ a) A usabiIidade diz respeito à quantidade de tempo, que o software fica dispon
 b) A eficiência é o grau com que o software satisfaz às necessidades declaradas.
 
 c) A disponibilidade é o grau de tempo em que o software permanece no ar para utilização
-
 d) A portabilidade é a facilidade com a qual um software pode sertransportado de um
 ambiente
 para outro.
@@ -5427,11 +5366,8 @@ que seja reprojetada"
 Assinale a alternativa que completa corretamente a afirmativa anterior.
 
 a) interna
-
 b) em uso
-
 c) externa
-
 d) em uso estimada (ou prevista)
 
 e) externa estimada (ou prevista)
@@ -5475,25 +5411,17 @@ subcaracterística de:
 
 
 a) Portabilidade
-
 b) Usabilidade
-
 c) Confiabilidade
-
 d) Eficiência
-
 e) Funcionalidade
 
 Item. 12. (CESGRANRIO / CHESF - 2012) Dentre os atributos de um software de qualidade, incluem-se:
 
 a) controlabilidade, dependabilidade e eficiência
-
 b) controlabilidade, eficiência e manutenibilidade
-
 c) eficiência, imutabilidade e manutenibilidade
-
 d) eficiência, manutenibilidade e usabilidade
-
 e) imutabilidade, manutenibilidade e usabilidade
 
 

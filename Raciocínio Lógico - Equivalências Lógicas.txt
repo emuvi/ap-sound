@@ -30,7 +30,6 @@ você tenha as principais fórmulas "no sangue".
 
 Em seguida, será abordado álgebra de proposições. Nesse assunto, você deve
 focar nas propriedades
-
 comutativa, associativa e distributiva.
 
 Como de costume, vamos exibir um resumo logo no início de cada tópico para que você
@@ -53,19 +52,15 @@ iguais para todas as combinações de valores lógicos atribuídos às proposiç
 compõem.
 
 Equivalências fundamentais
-
 p->q = ~q-»~p
 
 Contrapositiva
-
 p-»q = ~pVq
 
 Transformação da condicional em disjunção inclusiva
-
 pVq =~p->q
 
 Transformação da disjunção inclusiva em condicional
-
 p«->q = (p->q)A(q->p)
 
 Transformação da bicondicional em condicional/conjunção
@@ -118,7 +113,6 @@ p<H>q = (~p)<->(~q)
 |Conjunção de condicionais|
 
 Quando o termo comum é o consequente, a equivalência apresenta uma disjunção inclusiva no
-
 antecedente.
 
 (p^r)A(q^r) = (pVq)^r
@@ -299,7 +293,6 @@ Vamos resolver dois exercícios envolvendo essa equivalência que acabamos de ap
 (CBM AM/2022) Um antigo ditado diz: "Se há fumaça então há fogo".
 
 Uma sentença logicamente equivalente é
-
 a) se há fogo então há fumaça.
 
 b) se não há fumaça então não há fogo.
@@ -523,8 +516,6 @@ p->q = ~pVq
 Vamos resolver duas questões que utilizam essa equivalência.
 
 r
-
-
 i (BANESTES/2021) A frase a seguir é um conhecido ditado popular:
 
 "Se não tem cão então caça com gato"
@@ -614,7 +605,6 @@ denota o conetivo ou,
 o símbolo A denota o conetivo e, símbolo -> denota o conetivo condicional, então a
 proposição (p-»~q) é
 equivalente à seguinte fórmula
-
 a) (~pA~q)
 
 b) ~(pVq)
@@ -788,7 +778,6 @@ DECORE!
 p<^q E (p->q)A(q-»p)
 
 Mnemónico: Uma forma equivalente à bicondicional é ir e voltar com a condicional
-
 í (ISS RJ/2010) A proposição "um número inteiro é par se e somente se o seu
 quadrado for par" equivale
 
@@ -828,7 +817,6 @@ P<H>q = (p->q)A(q->p)
 
 Não temos alternativa que corresponda a essa última equivalência, porém, se realizarmos
 a contrapositiva
-
 de (q->p), encontramos:
 
 poq = (p->q)A(~p->~q)
@@ -1038,7 +1026,6 @@ Para negar "ou": negar ambas as proposições e trocar por "e".
 "Hoje é sexta-feira e amanhã não trabalharei".
 
 A negação lógica dessa sentença é
-
 a) Hoje não é sexta-feira e amanhã trabalharei.
 
 b) Hoje não é sexta-feira ou amanhã trabalharei.
@@ -1091,7 +1078,6 @@ Gabarito: Letra B.
 "Paulo é torcedor do Nacional ou Débora não é torcedora do Fast".
 
 A negação lógica dessa sentença é
-
 a) Paulo não é torcedor do Nacional ou Débora não é torcedora do Fast.
 
 b) Paulo não é torcedor do Nacional ou Débora é torcedora do Fast.
@@ -1298,8 +1284,6 @@ equivalência de De Morgan,
 obtemos:
 
 ~ÍP^q) = ~(~P)A~q
-
-
 i A negação da negação de uma proposição é a própria proposição original. Portanto:
 
 ~(p->q) E pA~q
@@ -1322,7 +1306,6 @@ p-»q = ~pVq
 ~(p-*q) E PA~q
 
 (EPE/2022) A negação da afirmativa "Se João vai ao jogo, então o Flamengo perde" é
-
 a) João vai ao jogo e o Flamengo não perde.
 
 b) João não vai ao jogo e o Flamengo perde.
@@ -1348,7 +1331,6 @@ j—»f: "Se [João vai ao jogo], então [o Flamengo perde]".
 
 i Para realizar a negação de uma condicional, usa-se a equivalência ~(p-»q)
 = pA~q. Para aplicar essa
-
 i equivalência, devemos seguir o seguinte procedimento:
 
 : * Mantém-se o primeiro termo;
@@ -1395,7 +1377,6 @@ e-»n: "Se [estudo atentamente] então [serei nomeado em concurso público]."
 
 : Para realizar a negação de uma condicional, usa-se a equivalência ~(p-»q)
 = pA~q. Para aplicar essa
-
 i equivalência, devemos seguir o seguinte procedimento:
 
 * Mantém-se o primeiro termo;
@@ -1484,7 +1465,6 @@ Negação da bicondicional
 
 São quatro as maneiras mais comuns de se negar a bicondicional. A primeira que vamos
 apresentar é que a
-
 negação da bicondicional é equivalente à disjunção exclusiva.
 
 ~(P<*q) = PYq
@@ -1700,8 +1680,6 @@ Existem duas maneiras de se negar a conjunção de modo que ela adquira a forma 
 ~(pAq) E p->~q
 
 ~(pAq) = q-»~p
-
-
 í Mostre que ~(pAq) = p-»~q são equivalentes.
 
 : Utilizando a negação da conjunção por De Morgan:
@@ -1871,7 +1849,6 @@ inclusiva no antecedente.
 (p—>r)A(q—>r) = (pVq)->r
 
 Quanto o termo comum é o antecedente, a equivalência apresenta uma conjunção no
-
 consequente.
 
 (p-»q)A(p->r) = p->(qAr)
@@ -1947,7 +1924,6 @@ valores lógicos (V ou
 
 : F) assumidos por elas são iguais para todas as combinações de valores lógicos
 atribuídos às proposições
-
 j simples que as compõem.
 
 
@@ -2106,7 +2082,6 @@ me alimentei)]."
 (DEPEN/2021) Com relação a lógica proposicional, julgue o item a seguir.
 
 Considere as seguintes proposições
-
 p: "Paola é feliz";
 
 q: "Paola pinta um quadro".
@@ -2199,7 +2174,6 @@ tabela-verdade:
 pAq = qAp
 pVq = qVp
 pYq = qVp
-
 p<->q = q<->p
 
 
@@ -2272,7 +2246,6 @@ significa que precisamos saber a contrapositiva:
 Vamos dar nomes às proposições simples:
 
 p-»q = ~q->~p
-
 m: "Marcondes é físico."
 i: "Isabela é economista."
 n: "Natália é advogada."
@@ -2302,13 +2275,11 @@ A dupla negação de uma proposição equivale à proposição original. Logo:
 Devemos, então, procurar pela seguinte frase:
 
 II'Se [(Natália é advogada) ou (Rui não é médico)], então [(Marcondes não é físico) e (Isabela é
-
 economista)]"
 
 
 i Veja que a letra E apresenta uma frase muito parecida. Essa alternativa utilizou a propriedade
 comutativa
-
 para o conectivo "e" e para o "ou" da nossa frase:
 
 (n V~r) —»(~m A i) = (~r V n) —»(i A ~m)
@@ -2385,7 +2356,6 @@ de conjunções ou de disjunções inclusivas, podemos remover os parênteses.
 
 í (TRT 1/2008) Proposições compostas são denominadas equivalentes quando possuem os mesmos valores
 i
-
 lógicos V ou F, para todas as possíveis valorações V ou F atribuídas às proposições simples que as
 compõem. :
 
@@ -2478,13 +2448,9 @@ Considere as proposições a e b e assinale a expressão que é logicamente equi
 A -b)
 
 a) -a A-b
-
 b) -a V-b
-
 c) -a V b
-
 d) a V -b
-
 e) a
 
 Comentários:
@@ -2789,7 +2755,6 @@ tabela-verdade, pois para duas
 
 = Dito isso, vamos resolver a questão por álgebra de proposições. A nossa
 estratégia será partir de
-
 i ~[(P-»Q)VQ] para chegar em PA(~Q).
 
 : Vamos desenvolver ~[(P-»Q)VQ] por De Morgan, negando cada parcela da disjunção
@@ -2969,7 +2934,6 @@ QUESTõES CoMENTADAS - CEBRASPE
 Equivalências lógicas
 
 Equivalências fundamentais
-
 l.(CESPE/PC DF/2021) Com relação a estruturas lógicas, lógica de argumentação e lógica
 proposicional,
 julgue o item subsequente.
@@ -3013,7 +2977,6 @@ Gabarito: CERTO.
 
 
 2.(CESPE/PM TO/2021) A proposição "Se André é culpado então Bruno não é suspeito" é equivalente à
-
 a) "Se Bruno é suspeito então André é inocente".
 
 b) "Se Bruno não é suspeito então André é culpado".
@@ -3228,7 +3191,6 @@ a: "O interessado aluga a pouca distância uma loja por um valor baixo."
 
 A proposição P é uma condicional da forma "Se p, q", em que se omite o "então".
 Trata-se da condicional
-
 i->a:
 
 i-»a: "Se [o interessado der três passos], [alugará a pouca distância uma loja por um valor
@@ -3251,7 +3213,6 @@ A condicional equivalente pode ser escrita dessa forma:
 
 ~a-»~i: "Se [o interessado não alugar a pouca distância uma loja por um valor baixo], [o
 interessado não
-
 deu três passos]."
 
 O enunciado apresentou como equivalente a proposição ~i->~a, ou seja, negou as parcelas
@@ -3503,7 +3464,6 @@ nV~a = ~n->~a
 A condicional equivalente obtida pode ser escrita como:
 
 ~n-»~a: "Se [não for para reposição de vacância em área essencial], então [o candidato aprovado não
-
 será nomeado]."
 
 Gabarito: CERTO.
@@ -3645,7 +3605,6 @@ Gabarito: ERRADO.
 
 15.(CESPE/TRE MS/2013) A negação da proposição "Crescer além de certo porte é um ótimo negócio para
 empresários, mas um mau negócio para o mundo" é equivalente a
-
 a) Crescer além de certo porte não é um ótimo negócio para empresários ou não é um
 mau negócio para o
 mundo.
@@ -3706,7 +3665,6 @@ Gabarito: Letra A.
 16.(CESPE/SEFAZ-RS/2018) A negação da proposição "O IPTU, eu pago parcelado; o IPVA, eu
 pago em
 parcela única" pode ser escrita como
-
 a) "Eu pago o IPTU em parcela única ou pago o IPVA parcelado".
 
 b) "Eu não pago o IPTU parcelado e não pago o IPVA em parcela única".
@@ -3836,7 +3794,6 @@ caso em questão,
 temos:
 
 ~qA~s: "[A qualidade da educação dos jovens não sobe] e [a sensação de segurança da sociedade não
-
 diminui]."
 
 O gabarito, portanto, é a alternativa A.
@@ -4481,7 +4438,6 @@ disjunção inclusiva", dada por p->q = ~pVq.
 
 Conhecendo essa equivalência, observe que ~(pA~q) é equivalente a ~pVq que, por sua
 vez, é equivalente a
-
 p->q. Portanto:
 
 ~(pA~q) E= p—>q
@@ -4604,7 +4560,6 @@ Devemos verificar se (~d V~s)-»a é equivalente a (d A s) V a.
 
 Perceba que a primeira proposição é uma condicional e a segunda é uma disjunção
 inclusiva de (d A s) com
-
 a. Logo, não devemos usar a equivalência contrapositiva para a primeira proposição.
 
 Uma equivalência fundamental que se pode utilizar com o conectivo
@@ -4730,7 +4685,6 @@ negação
 conjunção
 disjunção
 condicional
-
 notação
 
 -p
@@ -4747,7 +4701,6 @@ P ou Q
 se P, então Q
 
 valor
-
 contrário ao de P: V, se P for F; ou F, se P forV
 V, se P e Q forem V; caso contrário, será F
 
@@ -4786,7 +4739,6 @@ as proposições.
 
 Desse modo, para demonstrar a equivalência, vamos desenvolver o termo da esquerda (PVQ
 -> RA~S) da
-
 primeira proposição e chegar no termo (~RVS PA—Q).
 
 A equivalência clássica que envolve duas condicionais é a contrapositiva: p-*q
@@ -4814,12 +4766,9 @@ Gabarito: CERTO.
 Item. 39. (CESPE/SEFAZ-ES/2010) Considerando os símbolos lógicos - (negação), A (conjunção), V
 (disjunção), ->
 (condicional) e as proposições
-
-
 julgue o item que se segue.
 
 S:(pA--q)V(-'pAr)-»qVr
-
 e
 
 T :{{pA--q)V(--pAr))A(--qA--r)
@@ -4942,9 +4891,7 @@ dia)]."
 
 Veja que o item da questão traz como equivalente à proposição P a seguinte proposição composta:
 [Marcos não tem direito a receber os benefícios providos pela associação de moradores de seu
-
 condomínio], então, necessariamente, [(ele não figura no quadro de associados) (nem está com os
-
 pagamentos em dia)]
 
 No item, temos uma condicional em que o consequente apresenta uma conjunção, pois
@@ -5111,7 +5058,6 @@ Para o caso em questão, temos que a negação de dAc, dada por ~(dAc), é:
 
 Logo, a proposição composta apresentada no item, dada por ~(dAc), é equivalente a Pl,
 que é dada por
-
 d->~c.
 
 O gabarito, portanto, é CERTO.
@@ -5252,7 +5198,6 @@ Logo, a negação correta é:
 
 
 (fAa)A~v: "(O responsável pela indicação faz sua parte) e (seus aliados trabalharam duro) e (não
-
 vencerão)"
 
 O gabarito, portanto, é ERRADO.
@@ -5409,7 +5354,6 @@ Gabarito: 51 - CERTO. 52 - CERTO.
 .
 
 Texto para as próximas questões
-
 i Julgue os itens, considerando a proposição P a seguir.
 ;
 
@@ -5498,7 +5442,6 @@ seus interesses]."
 Perceba que a questão apresenta a negação de ~rA~p como rA~p ao invés de rVp.
 
 rA~p: "[O bom jornalista faz reportagem em benefício próprio] e [deixa de fazer aquela que não
-
 prejudique seus interesses]."
 
 O gabarito, portanto, é ERRADO.
@@ -5645,7 +5588,6 @@ Gabarito: 56 - CERTO. 57 - ERRADO.
 QUESTõES CoMENTADAS - CEBRASPE
 
 Álgebra de proposições
-
 l.(CESPE/CBM AL/2021) Considerando os conectivos lógicos usuais, assumindo que as letras
 maiusculas
 representam proposições lógicas e considerando que o símbolo ~ representa a negação,
@@ -5835,7 +5777,6 @@ Gabarito: CERTO.
 4.(CESPE/SEFAZ RS/2018) Se P, Q e R são proposições simples, então a proposição
 -*[P->(Q->R)] é
 equivalente a
-
 a) (R^QH
 
 b) (~P)-*[(~Q)-»(~R)].
@@ -5877,7 +5818,6 @@ podemos aplicar a mesma equivalência nessa parcela:
 
 A equivalência obtida corresponde à alternativa D, que não apresenta os
 colchetes. Isso porque, pela
-
 propriedade associativa, podemos executar as conjunções em qualquer ordem.
 
 Gabarito: Letra D.
@@ -5993,7 +5933,6 @@ Vamos agora resolver de outra forma.
 
 A questão pergunta sobre a equivalência entre duas condicionais. Isso nos faz
 lembrar da contrapositiva
-
 p-*q = ~q->~p. Vamos aplicar essa equivalência na primeira proposição:
 
 PA(~Q)-»(~R) = ~(~R) -> ~[PA(~Q)]
@@ -6209,7 +6148,6 @@ proposição "Se
 Maria está mentindo, então Paulo não está mentindo".
 
 Item. 2. (CESPE/PM TO/2021) A proposição "Se André é culpado então Bruno não é suspeito" é equivalente à
-
 a) "Se Bruno é suspeito então André é inocente".
 
 b) "Se Bruno não é suspeito então André é culpado".
@@ -6324,7 +6262,6 @@ esse setor não padecem."
 
 15.(CESPE/TRE MS/2013) A negação da proposição "Crescer além de certo porte é um ótimo negócio para
 empresários, mas um mau negócio para o mundo" é equivalente a
-
 a) Crescer além de certo porte não é um ótimo negócio para empresários ou não é um
 mau negócio para o
 mundo.
@@ -6348,7 +6285,6 @@ mundo.
 Item. 16. (CESPE/SEFAZ-RS/2018) A negação da proposição "O IPTU, eu pago parcelado; o IPVA,
 eu pago em
 parcela única" pode ser escrita como
-
 a) "Eu pago o IPTU em parcela única ou pago o IPVA parcelado".
 
 b) "Eu não pago o IPTU parcelado e não pago o IPVA em parcela única".
@@ -6592,7 +6528,6 @@ negação
 conjunção
 disjunção
 condicional
-
 notação
 
 -p
@@ -6609,7 +6544,6 @@ P ou Q
 se P, então Q
 
 valor
-
 contrário ao de P: V, se P for F; ou F, se P forV
 V, se P e Q forem V; caso contrário, será F
 
@@ -6634,12 +6568,9 @@ Essa proposição é logicamente equivalente à proposição {[(~R)VS]_>[( ~P)A(
 Item. 39. (CESPE/SEFAZ-ES/2010) Considerando os símbolos lógicos - (negação), A (conjunção), V
 (disjunção), -»
 (condicional) e as proposições
-
-
 julgue o item que se segue.
 
 S:(pA--q)V(--pAr)-»qVr
-
 e
 
 T :{{pA--q)V(--pAr))A(-'qA--r)
@@ -6901,7 +6832,6 @@ Item. 20. CERTO 40. ERRADO
 LISTA DE QUESTõES - CEBRASPE
 
 Álgebra de proposições
-
 l.(CESPE/CBM AL/2021) Considerando os conectivos lógicos usuais, assumindo que as letras
 maiusculas
 representam proposições lógicas e considerando que o símbolo ~ representa a negação,
@@ -6933,7 +6863,6 @@ suficiente por sua utilização nos primeiros anos de operação".
 4.(CESPE/SEFAZ-RS/2018) Se P, Q e R são proposições simples, então a proposição
 --[P->(Q-»R)] é
 equivalente a
-
 a) (R^QH
 
 b) (~P)-»[(~Q)-»(~R)].

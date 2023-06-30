@@ -1687,7 +1687,6 @@ JSP:GETPRoPERTY jsp:text jsp:elemento
 JSP:INCLUDE jsp:plugin jsp:body
 
 JSP:FoRwARD jsp:params jsp:attribute
-
 jsp:output
 jsp:root
 jsp:declaration
@@ -2180,7 +2179,6 @@ Correto. O comando <c:out> é uma tag JSTL que exibe o resultado de uma express�
 sendo o
 "value" a informação de saída. Poderia ser utilizado <%= %>, mas o comando <c:out>
 oferece
-
 x'
 
 
@@ -2272,7 +2270,6 @@ b) importar figuras.
 c) configurar pacotes.
 
 d) importar arquivos htm
-
 e) importar pacotes.
 
 Comentários:
@@ -2472,7 +2469,6 @@ Primeiro, o que é JSP? É uma tecnologia da plataforma Java Enterprise Edition 
 EE) que
 permite utilizar ou o código Java dentro das páginas web ou tags que realizam sua
 lógica. Por ser
-
 x'
 
 
@@ -2822,7 +2818,6 @@ arquivo
 ..I.., que pode ser incluído nas páginas utilizando-se a diretiva ..II...
 
 As lacunas I e II são preenchidas correta e respectivamente por
-
 a) I. Javascript, <%@page
 
 II. file="caminho/nome_do_arquivo"%>.
@@ -3518,7 +3513,6 @@ b) importar figuras.
 c) configurar pacotes.
 
 d) importar arquivos htm
-
 e) importar pacotes.
 
 
@@ -3715,7 +3709,6 @@ utiliza JSP, as linhas de código comuns a diversas páginas podem ser criadas e
 ..I.., que pode ser incluído nas páginas utilizando-se a diretiva ..II.. .
 
 As lacunas I e II são preenchidas correta e respectiva mente por
-
 a) I. Javascript, <%@page
 
 II. file="caminho/nome_do_arquivo"%>.
@@ -4033,7 +4026,6 @@ Q BUSCAR
 
 princípios editoriais
 grupo globo
-
 futebol
 mma
 f1
@@ -4043,7 +4035,6 @@ eu atleta
 + esportes
 seu estado
 tv
-
 brasileirão
 SporTV
 cartola fc
@@ -4055,16 +4046,12 @@ estatísticas
 brasileirão série b
 mundial de clubes
 copa sul-americana
-
 estaduais e regionais >
 tabelas de a a z
-
 cartola fc
-
 vai e vem do mercado
 futebol internacional >
 seleção brasileira
-
 troféu armando nogueira
 artilheiro do ano
 futpédia
@@ -4078,12 +4065,10 @@ interesse ae auDe araDe compnca a
 renovação de Guerrero com o Timão
 
 * Mano Menezes não descarta dirigir o Palmeiras
-
 uepuis da decepção nos 50m, Cielo
 quer recompensa: "Mais dois pódios"
 
 * Cielo perde para algoz francês e leva o bronze
-
 agora observem que a página acima é modificada quando se move o cursor do mouse
 sobre o link
 "menu" - ela é dinâmica! Bem, mas nosso interesse nessa aula são as páginas web
@@ -4126,8 +4111,6 @@ out.println("<html>");
 
 * 05152001900 - Everton
 Murilo Vieira
-
-
 out.println("<body bgcolor = \"white\">");
 out.println("<h1 >Hello Servlet</h1 >");
 out.println(" </body>");
@@ -4844,7 +4827,6 @@ b) I, II e IV, apenas.
 c) I, III e IV, apenas.
 
 d) II, III e IV, apenas
-
 e) I, II, III e IV.
 
 Comentários:
@@ -5260,7 +5242,6 @@ Assinale a única alternativa que completa corretamente a lacuna acima.
 a) Java ME (Java Micro Edition)
 
 b) portlets
-
 c) Java Persistence API (JPA)
 
 d) Enterprise JavaBeans (EJB)
@@ -5311,7 +5292,6 @@ javax.servlet.http - cuja estrutura é mostrada a seguir:
 Conforme vimos em aula, ServIetRequest é uma interface e, não, uma classe! Vacilou, banca!
 Bem, essa interface funciona como a interface ServIetHttpRequest, porém não é específica para
 o Protocolo HTTP! Bem, ambas servem para manipular informações de uma requisição feito
-
 pelo cliente ao servlet.
 
 Gabarito: E
@@ -5425,7 +5405,6 @@ out.close();
 }
 
 @0verride
-
 protected void doGet(HttpServletRequest request, HttpServletResponse response)
 throws ServletException, IOException {
 
@@ -5434,7 +5413,6 @@ processRequest(request, response);
 }
 
 êOverride
-
 protected void doPost(HttpServletRequest request, HttpServletResponse response)
 throws ServletException, IOException {
 
@@ -5791,7 +5769,6 @@ Gabarito: C
 método
 da interface javax.servlet.http.HttpSession, utilizado para finalizar uma sessão de usuário
 em um container J2EE, é
-
 a) cancel()
 
 b) delete()
@@ -6038,7 +6015,6 @@ b) I, II e IV, apenas.
 c) I, III e IV, apenas.
 
 d) II, III e IV, apenas
-
 e) I, II, III e IV.
 
 Item. 5. (FCC - 2013 - DPE/SP - Analista de Sistemas) Um Servlet Contêiner controla o
@@ -6201,7 +6177,6 @@ Assinale a única alternativa que completa corretamente a lacuna acima.
 a) Java ME (Java Micro Edition)
 
 b) portlets
-
 c) Java Persistence API (JPA)
 
 d) Enterprise JavaBeans (EJB)
@@ -6229,8 +6204,6 @@ compilados e executados no servidor.
 
 15.(CESGRANRIO - 2009 - BNDES - Analista de Sistemas - A) Ao estudar as especificações e
 frameworks Java EE, um Analista de Sistemas concluiu que o container WEB do servidor
-
-
 de aplicações é o responsável por gerenciar o ciclo de vida de servlets e de EJBs utilizados
 numa aplicação Java.
 
@@ -6261,7 +6234,6 @@ out.close();
 }
 
 @0verride
-
 protected void doGet(HttpServletRequest request, HttpServletResponse response)
 throws ServletException, IOException {
 
@@ -6270,7 +6242,6 @@ processRequest(request, response);
 }
 
 @0verride
-
 protected void doPost(HttpServletRequest request, HttpServletResponse response)
 throws ServletException, IOException {
 
@@ -6467,7 +6438,6 @@ da página não foi informada.
 24.(CESGRANRIO - 2008 - TJ-RO - Analista Judiciário - Tecnologia da Informação) O método
 da interface javax.servlet.http.HttpSession, utilizado para finalizar uma sessão de usuário
 em um container J2EE, é
-
 a) cancel()
 
 b) delete()
@@ -6964,8 +6934,6 @@ JSF: Faceletes
 Pessoal, tem uma característica do JSF que é extremamente importante: Facelets!
 Trata-se de
 uma linguagem de declaração de página poderosa, apesar de leve. Antigamente, utiliza-se a
-
-
 tecnologia JSP como camada de visão do JSF, porém ele não suporta todas as
 características
 disponíveis na Plataforma Java EE - sendo considerada obsoleta para JSF!
@@ -7012,7 +6980,6 @@ JSF: Filtros
 
 Em JSF, um Filtro (do inglês, Filter) é um objeto capaz de realizar tarefas de
 filtragem tanto na
-
 requisição de um recurso (Servlet ou conteúdo estático), ou na resposta desse recurso,
 ou ambos
 
@@ -7188,7 +7155,6 @@ tais como as regras de navegação, beans gerenciados, configurações de locali
 As descrições I e II referem-se, respectivamente, aos componentes:
 
 a) servlet Controller.java e ao arquivo faces_config.xml
-
 b) FaceletServIet e ao arquivo web_config.xml.
 
 c) FacesServIet e ao arquivo faces-config.xml.
@@ -7395,7 +7361,6 @@ Fragmento de código III:
 <h:selectOneMenu id="lista">
 
 <f:selectltems
-
 va I u e="#{o pti o n Be a n .o pti on List}"Xf: se I e ctlte m >
 
 <7h: se le ctOne M e n u >
@@ -8052,7 +8017,6 @@ como as regras de navegação, beans gerenciados, configurações de localizaç�
 As descrições I e II referem-se, respectivamente, aos componentes:
 
 a) servlet Controller.java e ao arquivo faces_config.xml
-
 b) FaceletServIet e ao arquivo web_config.xml.
 
 c) FacesServIet e ao arquivo faces-config.xml.
@@ -8114,7 +8078,6 @@ Fragmento de código III:
 < h: sei ectOne Me n u id="I i sta">
 
 <f:selectltems
-
 va I u e= "#{o ptio n Be a n .o pti on L ist}M><f: se lectltem >
 
 </h: se I e ctOne Me n u >
@@ -8195,7 +8158,6 @@ a) A grande limitação do JSF é a dificuldade de integração com outros frame
 JPAeEJB.
 
 b) Expression Language (EL) é a linguagem utilizada para apresentação de conteúdo em aplicações
-
 que utilizam JSF. Sua principal limitação é a impossibilidade de acessar valores e
 métodos em
 beans gerenciados.
@@ -9012,7 +8974,6 @@ b) SVN
 c) JPA
 
 d) spring
-
 e) struts
 
 Comentários:
@@ -9343,7 +9304,6 @@ dados é a:
 a) @Optional.
 
 b) @Transient
-
 c) @Stateless.
 
 
@@ -9734,7 +9694,6 @@ b) SVN
 c) JPA
 
 d) spring
-
 e) struts
 
 Item. 8. (FCC - 2012 - TJ-PE - Analista Judiciário - Análise de Sistemas) Quando se
@@ -10182,8 +10141,6 @@ Application
 Persistent Objects
 
 Hibernate
-
-
 hibernate.
 properties
 
@@ -10472,19 +10429,14 @@ integer
 long
 short
 float
-
 double
-
 big decimal
 character
 string
-
 byte
-
 boolean
 yes/no
 true/false
-
 int or java.lang.Integer
 long or java.lang.Long
 short or java.lang.Short
@@ -10494,9 +10446,7 @@ java.lang.Double
 java.math.BigDecimal
 java.lang.String
 java.lang.String
-
 byte or java.lang.Byte
-
 boolean or
 java.lang.Boolean
 boolean or
@@ -11264,11 +11214,8 @@ que uma instância de uma classe persistente tenha três estados específicos. A
 que contém esses três estados.
 
 a) plugged, disconnected, timewait
-
 b) connected, disconnected, detached
-
 c) transient, persistent, detached
-
 d) transient, connected, timewait
 
 Comentários:
@@ -11332,12 +11279,10 @@ ANOTAÇÃO DESCRIÇÃO
 
 Utilizada para especificar detalhes da tabela que serão utilizados
 para persistir entidades na base de dados. Caso essa anotação seja
-
 omitida, não resultará em erro, porém será utilizado o nome da
 
 
 @Table
-
 classe como valor default. Dessa forma, apenas definimos a
 anotação se quisermos sobrescrever o nome da classe. Possui os
 atributos: name, catalog, schema.
@@ -11413,7 +11358,6 @@ omitida, não resultará em erro, porém será utilizado o nome da
 
 
 @ld
-
 classe como valor default. Dessa forma, apenas definimos a
 anotação se quisermos sobrescrever o nome da classe. Possui os
 atributos: name, catalog, schema.
@@ -11478,7 +11422,6 @@ O objeto Session Factory do Hibernate mantém o mapeamento objeto relacional na 
 Comentários:
 
 SessionFactory (org.hibernate.SessionFactory): trata-se de um objeto pesado, thread-safe
-
 e imutável de coleções de mapeamentos objeto-relacional para um único banco de dados -
 deve
 existir apenas uma instância na aplicação. É uma fábrica de sessões e é
@@ -11788,11 +11731,8 @@ que uma instância de uma classe persistente tenha três estados específicos. A
 que contém esses três estados.
 
 a) plugged, disconnected, timewait
-
 b) connected, disconnected, detached
-
 c) transient, persistent, detached
-
 d) transient, connected, timewait
 
 
@@ -12189,7 +12129,6 @@ Conforme vimos em aula, trata-se do java.sql. Gabarito: C
 Item. 4. (ESAF - 2009 - ANA - Analista Administrativo - Tecnologia da Informação - Desenvolvimento) Em
 uma aplicação Java, se o carregador de classes não conseguir localizar a classe do driver de
 banco de dados para uma conexão JDBC, é lançada a exceção
-
 a) java.lang.ClassNotFoundException.
 
 b) java.io.FileNotFoundException.
@@ -12284,8 +12223,6 @@ con.close();
 
 } catch (SQLException onConClose) {
 System.out.println(" Houve erro no fechamento
-
-
 da conexão ");
 
 )
@@ -12339,7 +12276,6 @@ c = b.executeQueryfselect * from cliente where id = "+ valor +"");
 
 Considere que os objetos a, b e c são de interfaces contidas no pacote java.sql. Pode-se concluir
 que esses objetos são, respectivamente, das interfaces
-
 a) Connection, SessionStatement e Result.
 
 b) DriverManager, PreparedStatement e RecordSet.
@@ -12363,8 +12299,6 @@ Comentários:
 De acordo com a documentação oficial: trata-se de uma API que fornece acesso universal
 a dados
 a partir da linguagem de programação Java. É possível acessar praticamente qualquer fonte de
-
-
 dados, desde bancos de dados relacionais a planilhas ou arquivos simples. O
 JDBC também
 fornece uma base comum sobre a quais ferramentas e interfaces alternativas
@@ -12391,13 +12325,9 @@ para por meio de drivers JDBC acessar diversos SGBDs. As alternativas a seguir a
 interfaces do pacote "java.sql", à exceção de uma. Assinale-a.
 
 a) SQLData
-
 b) ResuItSet
-
 c) Statement
-
 d) DriverManager
-
 e) Connection
 
 Comentários:
@@ -12470,7 +12400,6 @@ e) import java.jdbc.*;
 Item. 4. (ESAF - 2009 - ANA - Analista Administrativo - Tecnologia da Informação - Desenvolvimento) Em
 uma aplicação Java, se o carregador de classes não conseguir localizar a classe do driver de
 banco de dados para uma conexão JDBC, é lançada a exceção
-
 a) java.lang.ClassNotFoundException.
 
 b) java.io.FileNotFoundException.
@@ -12541,8 +12470,6 @@ con.close();
 
 } catch (SQLException onConClose) {
 System.out.println(" Houve erro no fechamento
-
-
 da conexão ");
 
 }
@@ -12574,15 +12501,12 @@ um programa Java que não apresenta erros.
 a = DriverManager.getConnection("jdbc:odbc:Driver={Microsoft Access
 Driver
 (*.mdb)};DBQ=E:\\bd.mdb", ""l
-
-
 b = a.createStatement();
 
 c = b.executeQuery("select * from cliente where id = "+ valor +"");
 
 Considere que os objetos a, b e c são de interfaces contidas no pacote java.sql. Pode-se concluir
 que esses objetos são, respectivamente, das interfaces
-
 a) Connection, SessionStatement e Result.
 
 b) DriverManager, PreparedStatement e RecordSet.
@@ -12607,13 +12531,9 @@ para por meio de drivers JDBC acessar diversos SGBDs. As alternativas a seguir a
 interfaces do pacote "java.sql", à exceção de uma. Assinale-a.
 
 a) SQLData
-
 b) ResuItSet
-
 c) Statement
-
 d) DriverManager
-
 e) Connection
 
 Item. 10. (CESPE - 2008 - HEMOBRÁS - Analista de Gestão Corporativa - Administrador de

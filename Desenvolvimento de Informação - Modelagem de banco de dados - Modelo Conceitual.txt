@@ -68,8 +68,6 @@ diagrama que representa as informações de forma simples, em alto nível.
 
 Esse diagrama geralmente utiliza notações gráficas para representar as entidades,
 relacionamentos e atributos que serão armazenados em um banco de dados. Esse tipo
-
-
 de construção consegue estabelecer uma semântica para os dados. Partindo dessa
 representação do modelo de dados podemos refinar o diagrama, diminuído a abstração do
 modelo.
@@ -117,8 +115,6 @@ O fluxo do projeto de banco de dados possui algumas etapas mais importantes
 que
 aparecem com frequência em provas de concursos: projeto (ou modelagem) conceituai,
 projeto lógico e projeto físico. A figura a seguir apresenta um fluxo simplificado para
-
-
 construção de um projeto de banco de dados. Peço que preste atenção nos elementos ao
 lado direito da figura. Tente observar as etapas que acabamos de descrever.
 
@@ -275,13 +271,10 @@ banco de dados
 
 
 Fase 1: Levantamento
-
 e análise
-
 de requisitos
 
 Fase 2: Projeto conceituai
-
 do banco
 de dados
 
@@ -289,7 +282,6 @@ Fase 3: Escolha
 do SGBD
 
 Fase 4: Mapeamento do
-
 modelo de dados
 (projeto lógico)
 
@@ -297,7 +289,6 @@ Fase 5: Projeto
 físico
 
 Fase 6: Implementação
-
 e ajuste
 do sistema
 
@@ -316,13 +307,11 @@ Requisitos de
 processamento
 
 Projeto de
-
 transação e aplicação
 (independente do SGBD)
 
 Implementação
 de transação
-
 e aplicação
 
 Figura 3 - Fases do projeto e implementação de banco de dados
@@ -382,12 +371,10 @@ os métodos. Vejamos uma figura que ajude a entender melhor esses conceitos:
 
 
 Concurseiro
-
 nome: String
 concursoAlvo: String
 identidade: Integer
 dataDeNascimento: Date
-
 getConcursoAlvo(): String
 getldadeQ: Integer
 
@@ -593,8 +580,6 @@ nível
 extremamente popular. A modelagem ER foi proposta por Peter Chen, em março de 1976,
 no artigo The Entity-Relationship Model: Toward the unified view of data. A
 literatura
-
-
 especializada afirma que o modelo tem como embasamento a formalização do óbvio. O
 esquema a seguir descreve as características básicas do modelo ER.
 
@@ -1067,13 +1052,9 @@ diagrama de entidades e relacionamentos no modelo relacional.
 
 
 a) dependência
-
 b) enumeração
-
 c) normas de aceitação
-
 d) cardinalidade
-
 e) repetição
 
 Comentário: Observe que, pelas definições que acabamos de explicar a alternativa que se adequa
@@ -1109,7 +1090,6 @@ Considere que existe uma entidade PESSOA com um relacionamento denominado
 CASAMENTO que pode associar diversas ocorrências na mesma entidade PESSOA. De
 acordo com as propriedades do diagrama entidade-relacionamento, o conceito desse
 relacionamento (CASAMENTO) pode ser definido como
-
 a) generalização.
 
 b) relacionamento binário.
@@ -1241,8 +1221,6 @@ de entidade livro e um conjunto adicional de atributos que os diferenciam uns do
 Estes atributos adicionais são também conhecidos como atributos locais ou específicos.
 
 Por exemplo, o tipo de entidade TEXTBOOK pode ter o atributo adicional Assunto (por
-
-
 exemplo, Computação, Matemática, Ciências, etc.), LANGUAGE_BOOK pode ter o atributo
 Idioma (por exemplo, francês, alemão, japonês, etc.), e a entidade do tipo NOVEL
 (romance)
@@ -1269,7 +1247,6 @@ pode identificar primeiro o tipo de entidade TEXTBOOK e em seguida
 os tipos
 LANGUAGE_BOOK e NOVEL e, por fim, combinar os atributos comuns destes tipos de
 entidades para formar uma entidade de nível superior BOOK. Este processo é conhecido
-
 como generalização.
 
 «MJ
@@ -1560,7 +1537,6 @@ Figura 1 - Entidade na notação de Barker
 O "*" ou ponto escuro indica que o atributo é obrigatório (ou seja, cada instância na
 população banco de dados do tipo de entidade deve ter um valor não nulo registrado para
 este atributo). Um "o" indica que o atributo é opcional. Alguns projetistas utilizam um ponto
-
 para indicar que o atributo não é parte do identificador ou da chave. Outra característica
 é que os nomes dos atributos não podem se repetir na mesma entidade.
 
@@ -1569,8 +1545,6 @@ ternários ou
 relacionamentos mais longos) e são descritos por linhas, que podem ser
 contínuas ou
 tracejadas, com um nome que representa o papel da entidade no relacionamento. Esta
-
-
 colocação de nome supera o problema de ambiguidade na descrição do relacionamento.
 Assim, ambas as leituras da direita para a esquerda ou em sentido inverso podem ser
 exibidas e descritas em uma relação binária, cada qual em uma das extremidades da
@@ -1705,21 +1679,17 @@ both roles optional
 1:n:
 
 both roles optional
-
 n:1
 
 first role mandatory
 
 1:n
-
 first role mandatory
 
 1:1
 
 first role mandatory
-
 m n
-
 first role mandatory
 
 Vejam que pela figura acima podemos inferir do diagrama da questão que pode haver
@@ -1756,8 +1726,6 @@ Demais atributos
 
 A figura a seguir mostra como os elementos são definidos para construção de diagramas
 na notação IDEF1X. Observem que as entidades podem ser segmentadas em
-
-
 independentes e dependentes. Esse conceito se baseia no fato da existência de uma
 entidade depender da existência de outra (s) entidade (s). Uma entidade
 dependente
@@ -1778,7 +1746,6 @@ ela, obrigatoriamente, uma ocorrência de entidade pai.
 
 
 Veja que existe uma sutileza aqui. Para resolver essa diferença vamos observar algumas
-
 figuras.
 
 
@@ -1843,7 +1810,6 @@ Entity-A
 Key-Attribute-A
 
 Relationship Naine
-
 i
 i
 
@@ -1862,7 +1828,6 @@ Entity-A
 Key-Attribute-A
 
 Relationship Name
-
 ii
 ii
 
@@ -1899,11 +1864,9 @@ com o exemplo desta nomenclatura.
 
 Empioyee
 empNr
-
 empName
 ssn (AK1)
 sex
-
 fax (O)
 WdgNr (FK)
 roomNr (FK)
@@ -1912,9 +1875,7 @@ Room
 
 'SldgNr (FK)
 roomNr
-
 ste
-
 phoneNr (O)
 V 7
 
@@ -2209,7 +2170,6 @@ Item. 8. CEBRASPE (CESPE) - AFA (SEFAZ RS)/SEFAZ RS/2018
 
 No modelo entidade-relacionamento, as propriedades particulares que descrevem uma
 entidade são denominadas
-
 a) valores.
 
 b) atributos.
@@ -2285,7 +2245,6 @@ você não vai querer compartilhar um local onde você guarda sua roupa de acade
 que você fez antes de ir pro trabalho com outra pessoal. :)
 
 Gabarito: Certo
-
 h^F^
 
 « PRATICAR!
@@ -2406,7 +2365,6 @@ Item. 64. Essa alternativa está correta. Quando descemos na hierarquia dos mode
 dado, aumentamos o nível detalhamento.
 
 Gabarito: Errado Certo
-
 h^F^
 
 P PRATICAR!
@@ -2509,8 +2467,6 @@ entidade-relacionamento estendido. A disjunção, onde as entidades são mutuame
 exclusivas e a sobreposição, esta restrição especifica que a mesma instância
 de
 entidades de nível superior pode pertencer a mais de um tipo de entidade de nível
-
-
 inferior.
 
 L
@@ -2712,13 +2668,9 @@ Assinale a opção que corresponde ao tipo de restrição de integridade express
 próprio diagrama de entidades e relacionamentos no modelo relacional.
 
 a) dependência
-
 b) enumeração
-
 c) normas de aceitação
-
 d) cardinalidade
-
 e) repetição
 
 
@@ -2736,7 +2688,6 @@ Considere que existe uma entidade PESSOA com um relacionamento denominado
 CASAMENTO que pode associar diversas ocorrências na mesma entidade PESSOA.
 De acordo com as propriedades do diagrama entidade-relacionamento, o conceito
 desse relacionamento (CASAMENTO) pode ser definido como
-
 a) generalização.
 
 b) relacionamento binário.
@@ -2797,8 +2748,6 @@ generalização/especialização, conceito que envolve a ideia de herança
 de
 propriedades. Herdar propriedades significa que cada ocorrência da entidade
 especializada possui, além de suas propriedades (atributos, relacionamentos e
-
-
 generalizações ou especializações), também as propriedades de ocorrência da
 entidade genérica correspondente.
 
@@ -3343,8 +3292,6 @@ processo de
 entrega de mercadorias. Um pedido é entregue por uma das transportadoras conveniadas
 com a
 empresa. Quando o novo sistema estiver em funcionamento, todas elas serão devidamente
-
-
 cadastradas, tendo em vista melhorar a gestão de entregas pelo setor responsável. O
 custo de
 transporte varia de transportadora para transportadora, além de levar em conta
@@ -3389,8 +3336,6 @@ transportadoras conveniadas com a empresa." Veja que se cada pedido possui
 apenas uma
 transportadora, logo precisamos compor uma agregação entre as entidades
 pedido e
-
-
 transportadora. Essa entidade associativa "entregue" vai agora poder se relacionar com a
 entidade
 Motivo de forma parcial, caso exista algum motivo para a não aceitação da entrega.
@@ -3686,15 +3631,10 @@ CADEIRA (cod-cad : string, nome : string , créditos : number)
 A representação do esquema relacional acima, segundo um diagrama de
 entidades e
 relacionamentos, deve representar ALUNO, MATRICULA e CADEIRA, respectivamente, como
-
 a) entidade, relacionamento nxm e entidade
-
 b) entidade, relacionamento lxn e entidade
-
 c) entidade, entidade e atributo
-
 d) entidade, entidade e relacionamento nxm
-
 e) entidade, atributo e entidade
 
 Comentário: Vejam que essa questão pede para fazer uma engenharia reversa, partir do
@@ -3714,7 +3654,6 @@ na prova!
 Item. 14. Ano: 2014 Banca: CESGRANRIO Órgão: CEFET-RJ Prova: Analista de Tecnologia da Informação
 
 Uma das características do Modelo de Entidade e Relacionamentos é que
-
 a) cada domínio de possíveis valores possui um atributo.
 
 b) dois conjuntos de entidades são sempre disjuntos.
@@ -3775,12 +3714,9 @@ Conta
 <-------------------------------- >
 
 seq_movimento
-
 data_hora_movimento
 credito_debito
-
 valor
-
 numero-documento
 ti po_docu mento
 dep_origem
@@ -3791,14 +3727,12 @@ historico
 
 Contato_Cliente
 id_telefone
-
 telefone
 tipO—telefone
 
 A
 
 Cliente
-
 id_cliente
 
 -|- nome_diente i
@@ -3806,19 +3740,15 @@ datajnicio
 data fim
 
 Endereco_Cliente
-
 f \
 
 id_endereco
-
 inicio_validade_endereco
 fim_validade_endereco
 logradouro
-
 numero
 complemento
 cep
-
 bairro
 cidade
 
@@ -3841,7 +3771,6 @@ Vejam agora que temos um pé de galinha em ambos os lados do diagrama original. 
 estamos
 falando de um relacionamento n:n, que no modelo IDEF1X é designado por uma bola
 fechada. Veja
-
 na figura abaixo:
 
 
@@ -3850,14 +3779,9 @@ na figura abaixo:
 1p one or more
 
 1n-m
-
 exactlv n
-
 from n to m
-
-
 lzzero or one
-
 reference to note (n) where
 
 (n) cardmaliry is speciíied
@@ -3878,35 +3802,26 @@ Movimento
 
 
 Conta
-
 seq_movimento
-
 data_hora_movimento
 creditO—debito
-
 valor
-
 numero-documento
 tipo—documento
 dep_origem
 historico
-
 k saldo >
 
 Endereco Cliente
 
 ( x
-
 id_endereco
-
 inicio_validade_endereco
 fim_validade_endereco
 logradouro
-
 numero
 complemento
 cep
-
 bairro
 cidade
 estado
@@ -4019,8 +3934,6 @@ cartão só pode pertencer a um torcedor, o número do CPF do torcedor nos ajuda
 unicidade.
 Lembrando ainda que, um torcedor pode ou não ter um cartão, e um cartão pode estar
 associado
-
-
 ou não a um torcedor. Assim, temos uma restrição de participação parcial,
 que nos leva uma
 cardinalidade mínima de 0 nos dois lados do relacionamento.
@@ -4197,7 +4110,6 @@ Item. 7. CEBRASPE (CESPE) - AFA (SEFAZ RS)/SEFAZ RS/2018
 
 No modelo entidade-relacionamento, as propriedades particulares que descrevem uma
 entidade são denominadas
-
 a) valores.
 
 b) atributos.
@@ -4412,14 +4324,9 @@ Assinale a opção que corresponde ao tipo de restrição de integridade express
 próprio diagrama de entidades e relacionamentos no modelo relacional.
 
 a) dependência
-
-
 b) enumeração
-
 c) normas de aceitação
-
 d) cardinalidade
-
 e) repetição
 
 Item. 23. Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Analista Judiciário - Análise de
@@ -4429,7 +4336,6 @@ Considere que existe uma entidade PESSOA com um relacionamento denominado
 CASAMENTO que pode associar diversas ocorrências na mesma entidade PESSOA.
 De acordo com as propriedades do diagrama entidade-relacionamento, o conceito
 desse relacionamento (CASAMENTO) pode ser definido como
-
 a) generalização.
 
 b) relacionamento binário.
@@ -5027,21 +4933,15 @@ CADEIRA (cod-cad : string, nome : string , créditos : number)
 A representação do esquema relacional acima, segundo um diagrama de
 entidades e
 relacionamentos, deve representar ALUNO, MATRICULA e CADEIRA, respectivamente, como
-
 a) entidade, relacionamento nxm e entidade
-
 b) entidade, relacionamento lxn e entidade
-
 c) entidade, entidade e atributo
-
 d) entidade, entidade e relacionamento nxm
-
 e) entidade, atributo e entidade
 
 Item. 14. Ano: 2014 Banca: CESGRANRIO Órgão: CEFET-RJ Prova: Analista de Tecnologia da Informação
 
 Uma das características do Modelo de Entidade e Relacionamentos é que
-
 a) cada domínio de possíveis valores possui um atributo.
 
 b) dois conjuntos de entidades são sempre disjuntos.
@@ -5072,12 +4972,9 @@ Conta
 <-------------------------------- >
 
 seq_movimento
-
 data_hora_movimento
 credito_debito
-
 valor
-
 numero-documento
 ti po_docu mento
 dep_origem
@@ -5088,14 +4985,12 @@ Vsaldo J
 
 Contato_Cliente
 id_telefone
-
 telefone
 tipO—telefone
 
 A
 
 Cliente
-
 id_cliente
 
 -|- nome_cliente i
@@ -5106,18 +5001,14 @@ EnderecO-Cliente
 
 \
 id_endereco
-
 inicio_validade_endereco
 fim_validade_endereco
 logradouro
-
 numero
 complemento
 cep
-
 bairro
 cidade
-
 k_e_s_ta_d_o z
 
 Que representação gráfica do modelo ER proposta pela notação IDEF1X representa
@@ -5138,35 +5029,26 @@ Movimento
 
 
 Conta
-
 seq_movimento
-
 data_hora_movimento
 creditO—debito
-
 valor
-
 numero-documento
 tipo—documento
 dep_origem
 historico
-
 k_sald_o >
 
 Endereco Cliente
 id_endereco
-
 inicio_validade_endereco
 fim_validade_endereco
 logradouro
-
 numero
 complemento
 cep
-
 bairro
 cidade
-
 k_e_sta_do_ z
 
 Sendo feita a transformação desse modelo de dados em um modelo diretamente equivalente
@@ -5398,7 +5280,6 @@ Item. 7. CEBRASPE (CESPE) - AFA (SEFAZ RS)/SEFAZ RS/2018
 
 No modelo entidade-relacionamento, as propriedades particulares que descrevem uma
 entidade são denominadas
-
 a) valores.
 
 b) atributos.
@@ -5613,14 +5494,9 @@ Assinale a opção que corresponde ao tipo de restrição de integridade express
 próprio diagrama de entidades e relacionamentos no modelo relacional.
 
 a) dependência
-
-
 b) enumeração
-
 c) normas de aceitação
-
 d) cardinalidade
-
 e) repetição
 
 Item. 23. Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Analista Judiciário - Análise de
@@ -5630,7 +5506,6 @@ Considere que existe uma entidade PESSOA com um relacionamento denominado
 CASAMENTO que pode associar diversas ocorrências na mesma entidade PESSOA.
 De acordo com as propriedades do diagrama entidade-relacionamento, o conceito
 desse relacionamento (CASAMENTO) pode ser definido como
-
 a) generalização.
 
 b) relacionamento binário.

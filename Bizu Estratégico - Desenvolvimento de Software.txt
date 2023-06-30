@@ -4,7 +4,6 @@ Capítulo. Bizu Estratégico - Desenvolvimento de Software.
 Olá, prezado aluno. Tudo certo?
 
 Neste material, traremos uma seleção de bizus da disciplina de Desenvolvimento de software
-
 para o concurso de Analista - Especialidade: Tecnologia.
 
 O objetivo é proporcionar uma revisão rápida e de alta qualidade aos alunos por meio de tópicos
@@ -33,7 +32,6 @@ aprovada e nomeada para outros concursos da área fiscal (Auditor Fiscal
 Estadual e Municipal) e da área de controle.
 
 Serei a responsável pelo Bizu Estratégico de Desenvolvimento
-
 de software e, com ele, pretendo abordar os tópicos mais cobrados nessa disciplina, de maneira
 concisa e
 objetiva, por meio de uma linguagem bem clara!
@@ -64,7 +62,6 @@ Assunto Bizu
 Linguagens de programação. Java 1
 
 Caderno de Questões
-
 http://questo.es/lqv6nc
 
 
@@ -395,8 +392,6 @@ ELEMENTOS HTML INFORMAM AO NAVEGADOR COMO EXIBIR 0 CONTEÚDO E ROTULAM PARTES
 DO CONTEÚDO COMO "ISTO É UM TÍTULO", "ISTO É UM PARÁGRAFO", "ISTO É UM LINK", ETC.
 
 HTML Básico
-
-
 cIDOCTYPE html>
 
 <html>
@@ -437,8 +432,6 @@ Tag inicial conteúdo do elemento 1 Tag final
 <P> My first paragraph. </p>
 
 <br> none none
-
-
 cIDOCTYPE html>
 
 <ht«l>
@@ -534,7 +527,6 @@ image
 
 Portable Network Graphics
 Scalable Vector Graphics
-
 jpg, -jpeg, .jfif, .pjpeg, .pjp
 
 ,png

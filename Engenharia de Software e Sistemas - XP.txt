@@ -111,7 +111,6 @@ objetivo de apresentar ao aluno como bancas de concurso cobram o
 assunto previamente administrado. A imensa maioria das questões para
 que o aluno avalie seus conhecimentos sobre a matéria estão dispostas ao
 final da aula na lista de exercícios e possuem comentários bem mais
-
 completos, abrangentes e direcionados.
 
 
@@ -242,7 +241,6 @@ seguir, podemos ver mais alguns exemplos de histórias de usuário:
 pagflkvteiAzto - Boleto
 
 Como ciiente, quero
-
 ixtilizar a forma de
 pagamento P>oieto bancário
 Para pagar meus pedidos.
@@ -387,7 +385,6 @@ tudo
 isso funciona:
 
 projeto simples soluções pontuais
-
 cartões CRC protótipos
 
 1 - PLANEJAMENTO
@@ -488,8 +485,6 @@ construção que
 também é um método para otimização de projetos. Refatoração é o processo de alteração
 de um
 sistema de software de tal forma que não se altere o comportamento externo do código, mas se
-
-
 aprimore a estrutura interna. É uma forma disciplinada de organizar código (e
 modificar/simplificar
 o projeto interno) que minimiza as chances de introdução de bugs.
@@ -891,36 +886,25 @@ PROCESSOS DO EXTREME PROGRAMMING
 
 
 valores das histórias
-
 de usuários
-
 critérios de teste de aceitação
-
 plano de iteração
-
 projeto simples
 cartões C7?C
 
 soluções pontuais
-
 protótipos
-
 refabricacão
-
 programação em dupla
 
 
 Versão
-
 incremento de software
-
 velocidade de projeto registrada
 (computada)
 
 teste de unidades
-
 integração contínuo
-
 teste de aceitação
 
 
@@ -1169,7 +1153,6 @@ Gabarito: Correto
 Item. 8. (CESPE / TCE-RO - 2019) No que diz respeito a processos e práticas ágeis, o
 desenvolvimento
 incremental
-
 a) é, assim como otest-driven development, uma prática da XP (Extreme Programming)
 que
 exige teste automatizado, domain-driven design, refactoring e integração contínua.
@@ -1185,7 +1168,6 @@ do código
 desenvolvido quanto a recursividade, declaração das variáveis e clean code, de modo a
 torná-lo
 de fácil entendimento, modificação e testagem
-
 d) pressupõe o uso do behavior driven development, que considera a
 linguagem de
 programação a ser usada, da 4.a geração em diante, com foco,
@@ -1229,7 +1211,6 @@ semanas de
 desenvolvimento. Logo, quem atribui um valor é o cliente e, não, os membros da equipe.
 
 Gabarito: Errado
-
 io.(CESPE / ABIN - 2018) Na extreme programming, como não há especificação de sistema
 que
 possa ser usada por equipe de teste externa, a característica de test-first
@@ -1249,7 +1230,6 @@ conhecer
 detalhadamente as especificações da funcionalidade que está sendo desenvolvida.
 
 Gabarito: Correto
-
 n.(CESPE / BNB-2018) Em XP, a técnica de planning game é utilizada pelo cliente para
 identificar
 as prioridades do que deve ser construído em um software, sem a
@@ -1283,8 +1263,6 @@ horas
 semanais).
 
 Gabarito: Errado
-
-
 i3.(CESPE / ABIN - 2018) Para apoiar a equipe de desenvolvimento, é uma prática o
 uso do
 cliente on-site em tempo integral.
@@ -1298,7 +1276,6 @@ membro da equipe
 de desenvolvimento e é responsável portrazeros requisitos do sistema.
 
 Gabarito: Correto
-
 i4.(CESPE / STM - 2018) Na XP (Extreme Programming), programadores trabalham em pares,
 e
 requisitos são expressos como cenários, denominados histórias de usuários, os
@@ -1432,7 +1409,6 @@ em tempo
 integral do cliente facilita o desenvolvimento e a melhora da qualidade do produto.
 
 Gabarito: Errado
-
 ig.(CESPE / TCE-PA - 2016) E m XP (Extreme Programming), as user stories não
 objetivam definir
 o escopo global do sistema, mas avaliar a complexidade de cada uma de suas partes a fim
@@ -1583,8 +1559,6 @@ Gabarito: Correto
 
 26.(CESPE / TRE-RS- 2015) Em um desenvolvimento ágil de sistemas utilizando o XP, foram
 adotadas as seguintes ações: foi dita a verdade ao cliente acerca do progresso do projeto e
-
-
 acerca de suas estimativas, além de haverem sido realizadas adaptações quando
 mudanças
 importantes aconteceram no projeto. Essas ações estão coerentes com o valor
@@ -1621,13 +1595,9 @@ projetos que utilizam o método XP (eXtreme Programming), muito utilizado em pro
 ' o desenvolvimento de softwares.
 
 a) grandes releases
-
 b) programação individual
-
 c) cliente off-site
-
 d) grandes volumes de horas extras
-
 e) planejamento incremental
 
 Comentários:
@@ -1815,8 +1785,6 @@ metáforas são
 formas de transmitir ideias complexas de maneira simples, ou seja, utiliza-se uma
 linguagem
 simples entre a equipe e o cliente, com o objetivo de que, entre as inúmeras variáveis de controle
-
-
 em projetos, tais como tempo, custo, qualidade e escopo, obtenha-se maiorfoco no tempo,
 em
 detrimento do planejamento do release.
@@ -1932,33 +1900,22 @@ Comentários:
 
 
 valores das histórias
-
 de usuários
-
 critérios de teste de aceitação
-
 plano de iteração
-
 projeto simples soluções pontuais
-
 cartões CRC protótipos
-
 refabricacõo
-
 programação em dupla
 
 
 Versão
-
 incremento de software
-
 velocidade de projeto registrada
 [computada)
 
 teste de unidades
-
 integração contínuo
-
 teste de aceitação
 
 Perfeito! Essas são as atividades do Processo XP...
@@ -2110,7 +2067,6 @@ QUESTõES CoMENTADAS - FCC
 
 í. (FCC /SANASA Campinas -2019) Em um projeto de software baseado na metodologia ágilXP,
 um Analista de TI deve
-
 a) consultar o cliente quando uma história exigir, por estimativa, menos do que 3
 semanas de
 desenvolvimento, para que o cliente a complemente com mais tarefas.
@@ -2425,7 +2381,6 @@ de trabalho.
 d) utilização de técnicas de ofuscação do código fonte, trazendo segurança e
 garantindo que
 apenas a equipe de desenvolvimento poderá ter acesso a este código
-
 e) desenvolvimento incremental e sustentado por meio de pequenos e frequentes releases
 do
 sistema. Os requisitos são baseados em cenários ou em simples histórias de clientes.
@@ -2935,11 +2890,8 @@ práticas" utilizadas
 tradicionalmente em projetos, usando XP.
 
 a) Reformation - Pair Programming - PlayStation Game
-
 b) Refactoring - Pair Programming - Planning Game
-
 c) Reformation - Pair Production - Planning Game
-
 d) Refactoring - Pair Production - PlayStation Game
 
 Comentários:
@@ -3103,7 +3055,6 @@ Adaptação (Adaptation) / Melhoria (Improvement).
 Comentários:
 
 projeto simples soluções pontuais
-
 cartões CRC protótipos
 
 Trata-se do Planejamento (Planning), Projeto (Designing), Codificação (Coding) e Teste (Test).
@@ -3212,7 +3163,6 @@ do sistema,
 mas sem modificar seu comportamento externo (interfaces dos métodos).
 
 Estão corretas as afirmativas
-
 a) III e IV.
 
 b) I e II.
@@ -3251,7 +3201,6 @@ contemplados.
 IV Integração contínua consiste na geração de builds diários do sistema.
 
 Estão corretas as afirmativas
-
 a) lie IV.
 
 b) I e IV.
@@ -3597,13 +3546,9 @@ Com base no seu conhecimento sobre a metodologia citada acima, suas práticas es
 estão corretamente relacionadas nos itens:
 
 a) I, II e III, apenas
-
 b) I, II e IV, apenas
-
 c) II, III e IV, apenas
-
 d) I, III e IV, apenas
-
 e) I, II, III e IV
 
 Comentários:
@@ -3653,13 +3598,9 @@ realizadas
 adequadamente essas reuniões com os usuários, deve(m) ter sido feito(s) antecipadamente:
 
 a) o Sustainable Pace
-
 b) as Small Releases
-
 c) os Customer Tests
-
 d) as User Stories
-
 e) um Simple Design
 
 Comentários:
@@ -3793,7 +3734,6 @@ a) As afirmativas I e II estão incorretas.
 b) Apenas as afirmativas I e II estão corretas.
 
 c) As afirmativas II e III estão incorretas
-
 d) As afirmativas III e IV estão incorretas
 
 Comentários:
@@ -3834,13 +3774,9 @@ histórias
 escritas em pequenos cartões. Essas histórias devem ter como objetivo:
 
 a) a modelagem de dados
-
 b) as métricas de software
-
 c) os requisitos não-funcionais
-
 d) os requisitos funcionais
-
 e) tanto os requisitos funcionais como os requisitos não-funcionais
 
 Comentários:
@@ -3911,7 +3847,6 @@ logo os
 aprimoramentos do código forem encontrados.
 
 () Tão logo o trabalho em uma tarefa seja concluído, este é integrado ao sistema como um todo
-
 a) 5, 3,1, 4, 2.
 
 B) 2, 4, 3, 5,1.
@@ -3931,8 +3866,6 @@ da prática dos
 pequenos releases; Excesso de horas-extras e redução da produtividade? (5) Trata-se da
 prática de
 ritmo sustentável; Desenvolvedores recriam o código continuamente? (2) Estamos falando da prática
-
-
 do refatoramento; Integração assim que um trabalho é concluído? Trata-se da
 propriedade da
 integração contínua (4).
@@ -3957,7 +3890,6 @@ e) manutenção.
 Comentários:
 
 projeto simples soluções pontuais
-
 cartões CRC protótipos
 
 De acordo com a figura, vemos que a fase que está relacionada diretamente com os
@@ -3977,10 +3909,7 @@ definido por Kent Beck. O XP inclui uma abordagem de teste que:
 a) valoriza o desenvolvimento test-last.
 
 b) depende da técnica de teste baseada em defeitos
-
-
 c) desenvolve teste incremental baseado em cenários
-
 d) utiliza processo de teste dirigido a planos.
 
 Comentários:
@@ -4123,7 +4052,6 @@ Gabarito: Letra C
 
 4O.(CESGRANRIO / Banco da Amazônia - 2014) Uma prática que NÃO é adotada por Extreme
 Programming (XP) é
-
 a) usarduas pessoas trabalhando juntas em um único computador para produzirtodo o código
 que será enviado para a produção.
 
@@ -4262,7 +4190,6 @@ requisitos registrados em histórias.
 Item. 8. (CESPE ITCE-RO - 2019) No que diz respeito a processos e práticas ágeis, o
 desenvolvimento
 incremental
-
 a) é, assim como otest-driven development, uma prática da XP (Extreme Programming)
 que
 exige teste automatizado, domain-driven design, refactoring e integração contínua.
@@ -4278,8 +4205,6 @@ do código
 desenvolvido quanto a recursividade, declaração das variáveis e clean code, de modo a
 torná-lo
 de fácil entendimento, modificação e testagem
-
-
 d) pressupõe o uso do behavior driven development, que considera a
 linguagem de
 programação a ser usada, da 4.a geração em diante, com foco,
@@ -4481,13 +4406,9 @@ o desenvolvimento de softwares.
 
 
 a) grandes releases
-
 b) programação individual
-
 c) cliente off-site
-
 d) grandes volumes de horas extras
-
 e) planejamento incremental
 
 Item. 28. (CESPE / STJ- 2015) Na Extreme Programming, a programação em pares cria
@@ -4612,8 +4533,6 @@ propostos
 principalmente para apoiar o desenvolvimento de aplicações de negócios nas quais os
 requisitos
 de sistema mudam rapidamente durante o processo de desenvolvimento. Entre esses métodos
-
-
 está o extreme programming, que envolve um número de práticas, como o
 planejamento
 incremental, a definição de um ritmo de trabalho sustentável e a divisão das equipes
@@ -4741,7 +4660,6 @@ Item. 19. CORRETO 38. ERRADO
 
 í. (FCC /SANASA Campinas -2019) Em um projeto de software baseado na metodologia ágilXP,
 um Analista de TI deve
-
 a) consultar o cliente quando uma história exigir, por estimativa, menos do que 3
 semanas de
 desenvolvimento, para que o cliente a complemente com mais tarefas.
@@ -4951,7 +4869,6 @@ de trabalho.
 d) utilização de técnicas de ofuscação do código fonte, trazendo segurança e
 garantindo que
 apenas a equipe de desenvolvimento poderá ter acesso a este código
-
 e) desenvolvimento incremental e sustentado por meio de pequenos e frequentes releases
 do
 sistema. Os requisitos são baseados em cenários ou em simples histórias de clientes.
@@ -5117,8 +5034,6 @@ ajustes
 durante o desenvolvimento de software. Para aplicar os valores e princípios
 durante o
 desenvolvimento de software, a XP propõe uma série de práticas, sendo uma delas: sempre que
-
-
 produzir uma nova funcionalidade, nunca esperar uma semana para integrar à versão atual
 do
 sistema a fim de evitar o aumento da possibilidade de conflitos e da possibilidade de
@@ -5322,11 +5237,8 @@ práticas" utilizadas
 tradicionalmente em projetos, usando XP.
 
 a) Reformation - Pair Programming - PlayStation Game
-
 b) Refactoring - Pair Programming - Planning Game
-
 c) Reformation - Pair Production - Planning Game
-
 d) Refactoring - Pair Production - PlayStation Game
 
 Item. 3. (UFCG/ UFCG- 2019) Marque a alternativa INCORRETA com relação a
@@ -5504,7 +5416,6 @@ mas sem modificar seu comportamento externo (interfaces dos métodos).
 
 
 Estão corretas as afirmativas
-
 a) III e IV.
 
 b) I e II.
@@ -5531,7 +5442,6 @@ contemplados.
 IV Integração contínua consiste na geração de builds diários do sistema.
 
 Estão corretas as afirmativas
-
 a) lie IV.
 
 b) I e IV.
@@ -5729,13 +5639,9 @@ Com base no seu conhecimento sobre a metodologia citada acima, suas práticas es
 estão corretamente relacionadas nos itens:
 
 a) I, II e III, apenas
-
 b) I, II e IV, apenas
-
 c) II, III e IV, apenas
-
 d) I, III e IV, apenas
-
 e) 1,11, III e IV
 
 Item. 23. (UFG / SANEAGO-2017) Dentro doframework Extreme Programming (XP), uma metodologia
@@ -5757,13 +5663,9 @@ realizadas
 adequadamente essas reuniões com os usuários, deve(m) ter sido feito(s) antecipadamente:
 
 a) o Sustainable Pace
-
 b) as Small Releases
-
 c) os CustomerTests
-
 d) as User Stories
-
 e) um Simple Design
 
 Item. 25. (COPEVE-UFAL / UFAL - 2016) Assinale a alternativa que contém apenas
@@ -5846,7 +5748,6 @@ a) As afirmativas I e II estão incorretas.
 b) Apenas as afirmativas I e II estão corretas.
 
 c) As afirmativas II e III estão incorretas
-
 d) As afirmativas III e IV estão incorretas
 
 2g.(IF-PE/ IF-PE - 2016) Com relação à metodologia ágil de desenvolvimento de
@@ -5870,13 +5771,9 @@ histórias
 escritas em pequenos cartões. Essas histórias devem ter como objetivo:
 
 a) a modelagem de dados
-
 b) as métricas de software
-
 c) os requisitos não-funcionais
-
 d) os requisitos funcionais
-
 e) tanto os requisitos funcionais como os requisitos não-funcionais
 
 3i.(IBFC / EBSERH - 2016) Para aplicar os valores e princípios durante o
@@ -5920,7 +5817,6 @@ se formem ilhas de conhecimento.
 
 ( )O conjunto mínimo útil de funcionalidade que agrega valor ao negócio é
 desenvolvido
-
 primeiro.
 
 () Grandes quantidades de horas-extras não são consideradas aceitáveis, pois, no médio
@@ -5932,7 +5828,6 @@ logo os
 aprimoramentos do código forem encontrados.
 
 () Tão logo o trabalho em uma tarefa seja concluído, este é integrado ao sistema como um todo
-
 a) 5, 3, T 4, 2.
 
 B) 2, 4, 3, 5,1.
@@ -5965,9 +5860,7 @@ definido por Kent Beck. O XP inclui uma abordagem de teste que:
 a) valoriza o desenvolvimento test-last.
 
 b) depende da técnica de teste baseada em defeitos
-
 c) desenvolve teste incremental baseado em cenários
-
 d) utiliza processo de teste dirigido a planos.
 
 Item. 35. (CETRO / AMAZUL- 2015) Assinale a alternativa que não apresenta um princípio/ valor da
@@ -6018,8 +5911,6 @@ e) suportar testes automáticos contínuos.
 
 Item. 38. (INSTITUTO AOCP/ MPE-BA- 2014) O processo ágil XP possui doze práticas que são os
 princípios fundamentais do processo. A prática que encoraja a equipe inteira a trabalhar mais
-
-
 unida em busca de qualidade no código fazendo melhorias e refatoramentos em qualquer
 parte
 do código a qualquer tempo é conhecida como:
@@ -6050,7 +5941,6 @@ e) eliminar a necessidade da realização de testes durante a fase de desenvolvi
 
 Item. 40. (CESGRANRIO / Banco da Amazônia - 2014) Uma prática que NÃO é adotada por Extreme
 Programming (XP) é
-
 a) usarduas pessoas trabalhando juntas em um único computador para produzirtodo o código
 que será enviado para a produção.
 

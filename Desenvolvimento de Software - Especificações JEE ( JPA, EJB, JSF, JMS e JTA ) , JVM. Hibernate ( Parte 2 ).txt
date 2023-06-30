@@ -22,7 +22,6 @@ Capítulo. Desenvolvimento de Software - Especificações JEE ( JPA, EJB, JSF, J
 9) Java EE - EJB - Lista de Questões
 
 10) Java EE - CDI e Injeção de Dependência - Teoria
-
 x
 
 
@@ -314,7 +313,6 @@ Item. 1. (CESGRANRIO - 2013 - BNDES - Profissional Básico - Análise de Sistema
 Java
 Message Service (JMS) é uma tecnologia voltada para o envio e processamento de mensagens
 na qual o
-
 a) modelo ponto a ponto de troca de mensagens estabelece que cada mensagem enviada
 para
 uma fila deve ser recebida por um único consumidor.
@@ -422,7 +420,6 @@ Item. 1. (CESGRANRIO - 2013 - BNDES - Profissional Básico - Análise de Sistema
 Java
 Message Service (JMS) é uma tecnologia voltada para o envio e processamento de mensagens
 na qual o
-
 a) modelo ponto a ponto de troca de mensagens estabelece que cada mensagem enviada
 para
 uma fila deve ser recebida por um único consumidor.
@@ -1385,13 +1382,9 @@ Passivo. Quando um bean entra nesse estado, o container EJB o desloca da memóri
 para a memória secundária. Qual tipo de bean se comporta dessa maneira?
 
 a) Stateless Session Bean
-
 b) Stateful Session Bean
-
 c) Web Service Bean
-
 d) Singleton Session Bean
-
 e) Message-Driven Bean
 
 Comentários:
@@ -1784,13 +1777,9 @@ Conforme vimos em aula, eles são do tipo servidor! Gabarito: E
 deve ser usada para criar, procurar e remover objetos EJB?
 
 a) javax.ejb.EJBLocalObject
-
 b) javax.ejb.EJBHome
-
 c) javax.ejb.EJBObject
-
 d) javax.ejb.EntityBean
-
 e) javax.ejb.EJBMetaData.
 
 Comentários:
@@ -1817,8 +1806,6 @@ Comentários:
 Enterprise JavaBeans (EJB) é uma arquitetura para aplicações corporativas orientada à
 transação
 e baseada em componentes. Além de uma arquitetura, eles são também componentes server-side
-
-
 que oferecem uma infraestrutura para o desenvolvimento e implantação de
 aplicações
 distribuídas, escaláveis, transacionais, seguras, concorrentes, persistentes, e
@@ -1977,7 +1964,6 @@ contêiner EJB (Enterprise JavaBeans), são de:
 a) Transações. Persistência. Ciclo de Vida. Segurança.
 
 b) Transições. Pertinência. Ciclo de Vida. Risco
-
 c) Transformações. Persistência. Ciclo de Projeto. Segurança.
 
 d) Transações. Comunicação. Ciclo de Vida. Mercado.
@@ -2030,13 +2016,9 @@ Passivo. Quando um bean entra nesse estado, o container EJB o desloca da memóri
 para a memória secundária. Qual tipo de bean se comporta dessa maneira?
 
 a) Stateless Session Bean
-
 b) Stateful Session Bean
-
 c) Web Service Bean
-
 d) Singleton Session Bean
-
 e) Message-Driven Bean
 
 Item. 18. (CESPE - 2010 - TRE/MT - Analista de Sistemas - B) Em uma aplicação J2EE típica, um EJB é
@@ -2144,14 +2126,9 @@ JavaBeans (EJB) é uma arquitetura de componentes do tipo cliente que atua na pl
 deve ser usada para criar, procurar e remover objetos EJB?
 
 a) javax.ejb.EJBLocalObject
-
-
 b) javax.ejb.EJBHome
-
 c) javax.ejb.EJBObject
-
 d) javax.ejb.EntityBean
-
 e) javax.ejb.EJBMetaData.
 
 Item. 30. (CESPE - 2012 - PEFOCE - Perito Criminal - Análise de Sistemas) Em uma
@@ -2328,7 +2305,6 @@ representações.
 O que acontece? Passa-se a responsabilidade de criar um objeto para o container (que
 funciona
 como o builder), indicando qual interface desejamos que seja implementada. Ele criará a o objeto
-
 x'
 
 

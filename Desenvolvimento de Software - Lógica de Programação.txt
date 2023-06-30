@@ -43,7 +43,6 @@ videoaulas
 sobre as tecnologias mais recentes também estão a caminho :)
 
 @professordiegocarvalho
-
 x
 
 
@@ -167,7 +166,6 @@ utilizando uma linguagem de programação. Esse código-fonte é traduzido e pos
 executado pelo
 usuário. Em um próximo tópico, vamos detalhar um pouco mais as principais linguagens
 de programação do
-
 mercado.
 
 *
@@ -208,7 +206,6 @@ senão
 
 <instruções>
 fim_se
-
 fi m
 
 Além do português estruturado, é possível representar um algoritmo também por meio de
@@ -220,8 +217,6 @@ eficiência, como mostra
 a imagem abaixo.
 
 r
-
-
 í (CESPE / CEBRASPE - 2022 - BANRISUL) Julgue o próximo item, a respeito de lógica de programação.
 
 : "O fluxograma é uma das formas de se representarem as instruções de um programa, utilizando-se de
@@ -247,7 +242,6 @@ L V
 
 
 Subprocesso
-
 r
 
 Dados Externos
@@ -255,7 +249,6 @@ Dados Externos
 L
 
 : Preparação
-
 r 1
 
 Início/Fim B
@@ -484,19 +477,16 @@ Aproximadamente 34.300.000 resultados (0,41 segundos)
 
 Entrada/saída; sigla E/S (em inglês: Input/outpiit, sigla l/O) é um termo utilizado
 quase que exclusiva mente no ramo da computação (ou informática), indicando
-
 entrada (inserção) de dados por meio de algum código ou programa, para algum
 outro programa ou hardware, bem como a sua saída (obtenção de dados) ou
 retorno de ...
 
 Entrada/saída - Wikipédia. a enciclopédia livre
-
 httpsJ/pt.wi ki pedia. rg/wiki/ E ntrada/saí d a
 
 0 Sobre este resultado 0 Feedback
 
 Entrada/saída - Wikipédia. a enciclopédia livre
-
 httpsJ/pt.wi ki ped ia. rg/wiki/ E ntrada/saí d a ▼
 
 Entrada/saída, sigla E/S (em inglês: Input/output, sigla l/O) é um termo utilizado quase que
@@ -833,7 +823,6 @@ programação.
 
 função avaliar ( a, b )
 início
-
 ma <-a;
 
 se (ma < b) então ma <- b;
@@ -844,11 +833,9 @@ resultado <-- ( ma % me )
 
 se (resultado = 0)
 então retorne me
-
 senão avaliar(me, ma)
 
 fim
-
 escreva avaliar (120,30);
 
 "O resultado do pseudocódigo precedente será 120."
@@ -941,7 +928,6 @@ de a execução não ter fim. Exemplo:
 Votos = 500
 
 Enquanto (Votos < 1.000) Faça
-
 imprimir("Eu nunca mais vou sair daqui! Muahahahaha")
 Fim-Enquanto
 
@@ -1108,12 +1094,8 @@ acho mais fácil de visualizar. Abraços e até a próxima.
 
 
 hey Jude
-
-
 remember to
-
 let her into your heart
-
 let her under your skin
 
 ---------------------------------------------------------------------------------- — ?
@@ -1121,10 +1103,7 @@ let her under your skin
 better better better better better waaaaa —
 
 í
-
 lyncs *- $ony .Mv
-
-
 www. estra tegiaconcursos. com. br
 
 
@@ -1737,8 +1716,6 @@ A década de 1990 não trouxe nenhuma grande novidade, no entanto fez uma combin
 maturação das
 ideias antigas. Uma filosofia de grande importância era a produtividade do programador! Surgiram
 muitas
-
-
 linguagens para suportar o Desenvolvimento Rápido de Aplicações (RAD). Em geral, elas
 vieram com uma
 IDE, Garbage Collector, e tudo que aumentasse a produtividade do programador.
@@ -1875,7 +1852,6 @@ ao fato do autômato finito
 determinístico ser determinístico. Significa que, para cada entrada, apenas
 transita por um conjunto de
 estados determinado. Falso
-
 b) tem a capacidade de adivinhar algo sobre sua entrada ao testar valores.
 
 Um autômato finito determinístico não adivinha informações sobre a entrada. Ele, de
@@ -1963,8 +1939,6 @@ seja, quando atual > numero.
 
 enquanto (atual <= numero) {
 valor = valor * atual
-
-
 atual = atual + 1
 
 }
@@ -2119,7 +2093,6 @@ Pela tabela verdade:
 assim: NÃO (falso E verdadeiro).
 
 verdadeiro
-
 d) "(c ==4 11 d <=6) && (a >= 5 && b 1=9) // (/ (a <5)) é falso."
 
 * Para resolver esse item bem rápido, observemos o último elemento da expressão:
@@ -2291,24 +2264,20 @@ Letra C.
 Item. 10. (CESPE / CEBRASPE - 2021 - SEED-PR)
 
 var
-
 valor: real
 resultado: real
 inicio
-
 soma <- 0
 
 escreva ("digite um valor")
 leia (valor)
 
 enquanto valor <> 0 faca
-
 resultado <- resultado + valor
 escreva ("digite um valor")
 
 leia (valor)
 fimenquanto
-
 escreva ("resultado: ", resultado)
 
 fimalgoritmo
@@ -2318,7 +2287,6 @@ seguir:
 375012
 
 Nessa situação, o resultado da execução será
-
 a) 5.
 
 b) 18.
@@ -2334,7 +2302,6 @@ Comentários:
 leia (valor)
 
 enquanto valor <> 0 faca
-
 resultado <- resultado + valor
 escreva ("digite um valor")
 
@@ -2520,7 +2487,6 @@ Item. 14. (CESPE / CEBRASPE - 2021 - PG-DF) O resultado do pseudocódigo precede
 
 função avaliar( a, b )
 inicio
-
 ma <-a;
 
 se (ma < b) então ma <- b;
@@ -2532,11 +2498,9 @@ resultado <- ( ma % ime )
 
 se (resultado = 0)
 então retorne me
-
 senão avaliar(me, ma)
 
 fim
-
 escreva avaliar (120,30);
 
 Comentários:
@@ -2576,7 +2540,6 @@ Como a questão afirma que o resultado é 120, a resposta é Errado. Gabarito: E
 Item. 15. (CESPE / CEBRASPE - 2021 - PG-DF) O resultado do pseudocódigo apresentado será 6.
 
 inicio
-
 v <- vetor (2, 4, 6, 8 , 10 ,12 );
 
 escreva ( v[0] + " " +v[l] );
@@ -2627,7 +2590,6 @@ b) 3
 c) 4
 
 d) Falso
-
 e) Verdadeiro
 
 Comentários:
@@ -2713,8 +2675,6 @@ verdadeiro xor falso é verdadeiro.
 verdadeiro and verdadeiro or verdadeiro
 verdadeiro and verdadeiro é verdadeiro
 verdadeiro or verdadeiro
-
-
 verdadeiro
 
 Gabarito: Letra E.
@@ -2728,14 +2688,12 @@ funcao inicio() {
 
 inteiro vetor[] = { 81, 37, 51, 77, 19 }
 inteiro naosei
-
 logico achou = verdadeiro
 enquanto (achou)
 
 {
 
 achou=falso
-
 para (inteiro i = 0; i <4; i++)
 
 {
@@ -2825,7 +2783,6 @@ Valores do vetor: [37,51,81,77,19].
 Para i = 2:
 
 Testa o if: se vetor[i] > vetor [i+1], ou seja, se vetor[2] > vetor[3], ou seja, se 81 > Tl
-
 naosei = vetor[i] = vetor[2] = 81
 
 Agora, troca os valores de vetor[2] e vetor[3].
@@ -3084,9 +3041,7 @@ A <- B
 B <- Y
 
 fim
-
 inicio
-
 leia A, B
 TROCA
 
@@ -3115,10 +3070,7 @@ A, B : inteiro
 procedimento TROCA
 
 var
-
-
 inicio
-
 fim
 inicio
 
@@ -3335,7 +3287,6 @@ a seguir:
 Inteiro x=l, y=4, z=5;
 
 Enquanto (x<y) faça
-
 z=z+y%x;
 
 y=y-ií
@@ -3604,7 +3555,6 @@ então { Comando3
 ComandoS;
 
 Analisando este trecho, é correto afirmar que
-
 senão
 
 { Comando4
@@ -3660,7 +3610,6 @@ Sim, o Comando5 sempre será executado, pois está fora das condicionais. Gabari
 Item. 2. (FCC - 2022 - DPE-RS) Considere o seguinte algoritmo em pseudocódigo:
 
 Algoritmo Valida
-
 tipo V = vetor [1..4] de inteiro
 var vet: V
 
@@ -3673,17 +3622,14 @@ enquanto (indice<=4)faça
 leia(numero);
 
 enquanto () faça
-
 imprima("Valor invalido. Digite um valor dentro do limite.")
 leia(numero)
 
 f im_enquanto
-
 vet [indice] <—numero
 indice<—indice + 1
 
 f im_enquanto
-
 para (indice de 1 até 4 passo 1) faça
 
 II
@@ -3694,7 +3640,6 @@ Fim
 Para que o algoritmo acima leia quatro valores de anos de 1900 até 2017
 e os apresente na tela,
 a lacuna
-
 a) I deve ser preenchida com numero>=1900 e numero<=2017
 
 b) II deve ser preenchida com leia(vet[indice])
@@ -3752,16 +3697,12 @@ var varl=l, var2=2: inteiro
 funcaol()
 
 inicio
-
 var varl=100, var2=100: inteiro
-
 imprima("Variaveis dentro da funcaol(): varl= ", varl, " var2=", var2)
 
 fim
-
 funcao2()
 inicio
-
 varl = varl +1;
 
 var2 = var2 +2;
@@ -3769,9 +3710,7 @@ var2 = var2 +2;
 imprima("Variaveis dentro da funcao2(): varl= ", varl, " var2=", var2)
 
 fim
-
 inicio
-
 imprima("Variaveis antes de chamar a funcaol(): varl= ", varl, " var2=", var2)
 funcaol()
 
@@ -3783,7 +3722,6 @@ imprima("Variaveis depois de chamar a funcao2():varl= ", varl, " var2=", var2)
 fim
 
 O pseudocódigo, ao ser executado, imprimirá
-
 a) Variaveis antes de chamar a funcaol (): varl =0 var2=0
 
 b) Variaveis dentro da funcaol (): varl =1 var2=2
@@ -3816,9 +3754,7 @@ funcaol ()
 
 Chama a funcaol.
 inicio
-
 var varl =100, var2=100: inteiro
-
 imprima("Variaveis dentro da funcao1(): var1= ", varl, " var2=", var2)
 
 fim
@@ -3842,7 +3778,6 @@ funcao2()
 
 Executa a funcao2.
 inicio
-
 var1 = var1 +1;
 var2 = var2 +2;
 
@@ -3905,7 +3840,6 @@ Agora, pegamos os valores de resto ao contrário e juntamos: (132)w = (84)i6. Ga
 
 Item. 5. (FCC - 2019 - AFAP) A soma do hexadecimal 1C5 com o binário de mais baixa ordem
 1101, terá como resultado o decimal
-
 a) 434.
 
 b) 466.
@@ -3956,27 +3890,22 @@ em que o operador mod retorna o resto da divisão inteira
 Programa Sabesp
 Var ano, n: inteiro
 Início
-
 imprima("Digite o ano com 4 dígitos: ")
 leia (ano)
 
 se (ano > 1949 e ano<=1999)
 então
-
 n <- ano mod 100
 
 I
 
 
 Fim
-
 senão
 fim se
-
 imprima("Ano inválido")
 
 Um Estagiário, ao analisar o algoritmo acima, conclui corretamente que
-
 a) o operador lógico e está errado e deve ser substituído pelo operador lógico ou na instrução
 se.
 
@@ -4016,7 +3945,6 @@ ano. Observe:
 Portanto, falso.
 
 resto da divisão
-
 c) a lacuna I deve ser preenchida com a instrução imprima ("Os dois últimos dígitos do ano =
 ", n).
 
@@ -4180,7 +4108,6 @@ Considere o algoritmo em pseudocódigo abaixo.
 
 var vl, v2, v3: inteiro
 início
-
 leia (vl, v2, v3)
 
 exiba(vl)
@@ -4192,7 +4119,6 @@ v3 <- v3 - 1
 
 exiba(vl)
 fim_enquanto
-
 fim
 
 Se forem lidos para as variáveis v1, v2 e v3, respectivamente, os valores 3, 3 e 4,
@@ -4244,11 +4170,9 @@ Var pedágio, tm: real
 categoria: inteiro
 
 Início
-
 tm <- 3.00
 
 enquanto (verdadeiro) faça
-
 imprima(" Digite a categoria do veiculo (0 a 8) ")
 leia (categoria)
 
@@ -4256,20 +4180,16 @@ se (categoria < 0 e categoria > 8)
 então vá para FINALIZA
 
 fim se
-
 escolha(categoria)
 
 caso 0: pedágio <r 0
 
 caso 1, 2 : pedágio <- tm
 caso 3, 4 : pedágio <- 2 * tm
-
 caso 5, 6: pedágio <- 3 * tm
 caso 7: pedágio <- 4 * tm
 caso 8 : pedágio <- 1.5 * i
-
 fim escolha
-
 imprima("O veiculo de categoria ", categoria, " pagara pedagio= ", pedágio)
 fim enquanto
 
@@ -4278,15 +4198,12 @@ FINALIZA:
 Fim.
 
 Este algoritmo
-
 a) não poderia usar a categoria 0 no comando escolha, nem atribuir zero ao valor do pedágio.
 
 b) apresenta erro de lógica na condição do comando condicional se.
 
 
 www. estra tegiaconcursos. com. br
-
-
 c) teria que usar uma condição no comando enquanto (verdadeiro) faça, pois este não pode
 avaliar apenas o valor lógico verdadeiro.
 
@@ -4344,7 +4261,6 @@ implementam uma lógica.
 
 função fl (N: inteiro): real
 Início
-
 se (N<=1)
 
 então retorna 1
@@ -4354,10 +4270,8 @@ senão retorna (N * fl (N - 1))
 fim se
 
 Fim
-
 função f2 (N: inteiro): real
 Var i: inteiro
-
 result: real
 
 
@@ -4366,15 +4280,12 @@ Início
 Fim
 
 A função
-
 result 1
 
 para (i<-2 até N passo 1) faça
 result result * i
-
 fim para
 retorna result
-
 a) f1 e a função f2 recebem uma variável real e retornam um valor inteiro.
 
 b) f1 é executada apenas uma vez, já que em seu corpo existe apenas um comando
@@ -4426,20 +4337,15 @@ Item. 12. (FCC - 2017 - TRE-SP) Considere a lógica do algoritmo, abaixo, expres
 pseudocódigo.
 
 Var
-
 tipo V= vetor [0..4] inteiro
 var j, voto: inteiro
-
 votos: V
 
 Início
-
 para (j <- 0 até 4 passo 1) faça
-
 votos [j] <- 0
 
 fim para
-
 enquanto (verdadeiro)
 
 imprima ("Digite o voto (1,2,3 ou 0 (branco) -1 finaliza): ")
@@ -4449,23 +4355,19 @@ se (voto = -1)
 
 então vá para RESULT
 fim se
-
 se (voto < 0 OU voto > 3)
 
 então votos [4] <- votos [4] + 1
 senão votos[voto] <- votos[voto] + 1
 
 fim se
-
 fim enquanto
 RESULT:
 
 para (j <- 1 até 3 passo 1) faça
-
 imprima ("0 candidato ", j," obteve ", votos [j], " votos")
 
 fim para
-
 imprima ("Número de votos em branco= ", )
 imprima (".íí.", votos [4])
 
@@ -4548,7 +4450,6 @@ Não, pois o objetivo do loop é mostrar os votos válidos nos candidatos 1, 2 e
 
 var vl, v2, v3 : inteiro
 início
-
 leia (vl, v2, v3)
 exiba(vl)
 
@@ -4558,13 +4459,11 @@ v3 v3 - 1
 
 exiba(vl)
 f im_enquanto
-
 fim
 
 Se forem lidos para as variáveis v1, v2 e v3, respectivamente, os valores 3, 3 e 4,
 o último valor
 exibido será
-
 a) 729
 
 b) 243
@@ -4586,7 +4485,6 @@ exiba(vl)
 
 Exibirá o valor 3.
 enquanto v3>1 faça
-
 v3 > 1, 4 > 3. Verdadeiro. Então entra no enquanto.
 v1 <-v1 *v2 = 3*3 = 9
 
@@ -4619,17 +4517,12 @@ Item. 14. (FCC - 2017 - ARTESP) Considere o algoritmo em pseudocódigo abaixo:
 
 função dígitos (n: inteiro): inteiro
 início
-
-
 fim
 início
-
 se (n < 10)
 então
 senão
-
 fim se
-
 retorna 1
 
 retorna (1+ digitos (n/10))
@@ -4811,7 +4704,6 @@ quociente da divisão inteira e MOD o resto da divisão inteira:
 
 Var taxa, cinco, tres, quociente, resto: inteiro
 Início
-
 imprima ("Digite um numero inteiro maior ou igual a 8: ")
 leia(taxa)
 
@@ -4842,12 +4734,10 @@ tres <— 1
 tres <— 3
 
 fim caso
-
 imprima(taxa, cinco, tres)
 Fim.
 
 O algoritmo em pseudocódigo acima
-
 a) garante que o valor de entrada seja maior ou igual a 8 para que seja possível dividir a taxa
 por 5 e por 3.
 
@@ -4944,7 +4834,6 @@ Var n, i, j , k,
 Var v: vetor[0.
 
 Início
-
 v[0] «- 12
 
 v[l] «- 145
@@ -4972,12 +4861,10 @@ Para j «- n-1 até k passo -1 faça
 v [j ] «- v [j - 1] ;
 
 Fim_jpara
-
 v[k] <- x;
 Fim
 
 Este pseudocódigo
-
 a) exclui o valor contido na posição x do vetor v.
 
 b) insere o valor de x entre v[k-1 ]e v[k] no vetor v.
@@ -5161,35 +5048,25 @@ algoritmo em pseudo-código abaixo.
 
 tipo V= vetor [1..10] inteiro
 var iz k: inteiro
-
 a: logico
-
 vet: V
 
 inicio
-
 leia (k)
 i <- 1
 
 a <— falso
-
 enquanto (i<=10 e a=falso) faça
 inicio
-
 se (vet[i] = k)
 então
-
 imprima("Sucesso")
 a <— verdadeiro
-
-
 senão
-
 fim se
 i <- i+1
 
 fim enquanto
-
 imprima("Insucesso")
 
 Considere que o vetor vet possua os seguintes valores: 6, 5, 1,9, 0, 1,4, 2, 3 e 7. É correto
@@ -5219,7 +5096,6 @@ Da análise do algoritmo, nota-se que seu comportamento é o seguinte:
 * Enquanto o for i <= 10 e a = falso, ele vai rodar um loop:
 
 o No fim do loop, ele executa i <- i + 1, ou seja, incrementa o valor de i. Significa que
-
 o loop vai rodar:
 
 De 1 a 10, em cada uma das iterações do loop;
@@ -5275,38 +5151,28 @@ Item. 20. (FCC - 2014 - TRT-16) No algoritmo há:
 
 tipo V= vetor [1..10] inteiro
 var i, k: inteiro
-
 a: logico
 vet: V
 
 inicio
-
 leia (k)
 i <- 1
 
 a <— falso
-
 enquanto (i<=10 e a=falso) faça
 inicio
-
 se (vet[i] = k)
 então
-
 imprima("Sucesso")
 a <— verdadeiro
-
-
 senão
-
 fim se
 i <— i+1
 
 fim enquanto
-
 imprima("Insucesso")
 
 fim
-
 a) diferentes estruturas de dados, de diferentes tipos básicos, que são encontrados em
 linguagens de programação procedurais.
 
@@ -5363,7 +5229,6 @@ Falso. Gabarito: D
 21 .(FCC - 2013 - TRT-9) Analise o algoritmo em pseudocódigo abaixo:
 
 início
-
 real: nl, n2;
 
 imprima("Digite a primeira nota: ");
@@ -5375,12 +5240,10 @@ leia(n2) ;
 
 se
 então
-
 media -4-(nl+n2) /2 ;
 
 imprima ("A media das notas é ", media);
 senão
-
 imprima("Alguma nota fornecida é inválida.");
 fim se;
 
@@ -5389,7 +5252,6 @@ fim.
 Considerando que uma nota válida deve possuir valores entre 0 e 10 (inclusive), a
 lacuna que
 corresponde à condição do comando SE é corretamente preenchida por
-
 a) n1 >= 0 OU n1 <=10 OU n2 >= 0 OU n2 <=10
 
 b) (n1 >= 0 E n1 <=10) OU (n2 >= 0 E n2 <=10)
@@ -5446,7 +5308,6 @@ Considere agora o seguinte trecho de código que invoca a função f definida ac
 
 a 0
 escreva a
-
 escreva f(a)
 escreva a
 
@@ -5616,7 +5477,6 @@ Item. 24. (FCC - 2010 - TJ-PA) Considere a seguinte e somente a seguinte
 situação: Se um
 procedimento Px contiver uma referência a um outro procedimento Py que por sua vez
 contém uma referência direta ou indireta a Px, então
-
 a) Px é subconjunto de Py.
 
 b) Px é categorizado como indiretamente recursivo.
@@ -5667,9 +5527,7 @@ uma determinada expressão e definir se um bloco de código deve ou não ser exe
 Essa é a definição da estrutura condicional:
 
 a) For
-
 b) lf...Then...Else
-
 c) While
 
 
@@ -5677,7 +5535,6 @@ c) While
 
 
 d) Do...While
-
 e) Next
 
 Comentários:
@@ -5745,7 +5602,6 @@ tipos, sendo normalmente utilizado quando um objeto tem diferentes atributos.
 
 
 É correto o que consta APENAS em
-
 a) I e III.
 
 b) II e IV.
@@ -5802,7 +5658,6 @@ conhecido e aceito. Trata-se de um mecanismo simples, que formaliza a ideia de u
 pessoa que realiza cálculos, denominado:
 
 a) Recursividade de Bird
-
 b) Máquina de Redução.
 
 c) Máquina de Turing.
@@ -5890,7 +5745,6 @@ QUESTõES CoMENTADAS - FCV
 
 Item. 1. (FGV - 2018 - Câmara de Salvador-BA) Expressões lógicas são frequentemente utilizadas
 em linguagens de programação. Por exemplo, um comando if com a expressão
-
 if not (A and B)
 
 pode ser reescrito, para quaisquer valores lógicos de A e B, com a expressão:
@@ -6693,11 +6547,9 @@ exibido a seguir.
 
 function f(x as integer) as integer:
 if x = 1 then
-
 return 1
 
 else
-
 return x + f(x-l)
 
 Assinale a opção que indica o valor retornado para f (9).
@@ -6743,7 +6595,6 @@ Testa o if x = 1.
 Como x é 7, entra no "senão".
 
 Vai retomar recursivamente return
-
 x + f(x - 1),
 
 ou seja, return 7 + f(6)
@@ -6756,7 +6607,6 @@ Como x é 6, entra no "senão".
 
 
 Vai retornar recursivamente return
-
 x + f(x - 1),
 
 ou seja, return 6 + f(5)
@@ -6769,7 +6619,6 @@ Testa o if x = 1.
 Como x é 5, entra no "senão".
 
 Vai retornar recursivamente return
-
 x + f(x - 1),
 
 ou seja, return 5 + f(4)
@@ -6782,7 +6631,6 @@ Como x é 4, entra no "senão".
 
 
 Vai retornar recursivamente return
-
 x + f(x - 1),
 
 ou seja, return 4 + f(3)
@@ -6795,7 +6643,6 @@ Como x é 3, entra no "senão".
 
 
 Vai retornar recursivamente return
-
 x + f(x - 1),
 
 ou seja, return 3
@@ -6946,23 +6793,15 @@ Item. 8. (FGV - 2017 - SEPOG-RO) Considere o algoritmo em pseudocódigo descrito
 
 para i=0 até n
 inicio
-
 j = 1
 enquanto j <n
 inicio
-
 j = 2 * j
-
 para k = 0 até j
 inicio
-
-
 fim
-
 fim
-
 fim
-
 execute f
 
 Assinale a opção que indica o número de vezes em que o código irá executar a função
@@ -6971,8 +6810,6 @@ igual a 8.
 
 
 www. estra tegiaconcursos. com. br
-
-
 a) 25
 
 b) 153
@@ -7223,7 +7060,6 @@ eliminar tarefas
 desnecessárias, otimizar o ciclo etc. Em um fluxograma, o símbolo que indica
 uma decisão
 é
-
 a)
 
 b)
@@ -7234,8 +7070,6 @@ d)
 
 
 www. estra tegiaconcursos. com. br
-
-
 e)
 
 Comentários:
@@ -7244,16 +7078,13 @@ Comentários:
 Os símbolos de fluxograma são os seguintes:
 
 Processo
-
 r
 
 Base de Dados
-
 k
 
 
 Subprocesso
-
 r
 
 Início/Fim
@@ -7266,7 +7097,6 @@ Dados Externos
 L Á
 
 Entrada Manual
-
 k Conec 1
 
 . tor .
@@ -7305,7 +7135,6 @@ var
 SD : caracter
 NR : inteiro
 VL : logico
-
 procedimento PROC PL(var X;caracter;Y:inteiro;W:logico)
 inicio
 
@@ -7327,7 +7156,6 @@ se VL = VERDADEIRO então
 NR <- 2022
 
 fimse
-
 escreval(WSD - ",SD:10," NR - ",NR:4," VL - -,VL)
 
 fimalgontmo
@@ -7396,21 +7224,17 @@ algoritmo "PL_2022"
 var
 
 CT, RP : inteiro
-
 funcao FREC(AUX:inteiro):inteiro
 inicio
-
 se (AUX « 0) OU (AUX « 1) então
 retorne AUX
 
 senão
-
 retorne FREC(AUX-2) + FREC(AUX-l)
 
 fimse
 fímfuncao
 inicio
-
 para CT de 0 ate 5 faca
 RP <- FREC(CT)
 
@@ -7473,13 +7297,10 @@ Item. 4. (UFV - 2022 - UFV-MG) Considere o algoritmo em pseudocódigo a seguir
 <— é o comando de atribuição
 
 % é o resto de divisão inteira
-
 início
-
 inteiro x
 inteiro y
 inteiro z
-
 z«—3
 
 x «— x + 40
@@ -7487,20 +7308,16 @@ x «— x + 40
 y <- 5Z*4
 
 enquanto (z <= 7) faça
-
 x«— x- 15
 
 se x % 2 = 0 então
 z«— z + 1
 
 se não
-
 z «- z + 2
 fim se
-
 y«— y + z - x
 fim enquanto
-
 escreva x, y, z
 
 Assinale a alternativa que apresenta CORRETAMENTE os valores impressos pelo algoritmo:
@@ -7578,25 +7395,20 @@ Portanto, ele escreve: 95 189 8. Gabarito: Letra B.
 Item. 5. (UFV - 2022 - UFV-MG) Considere o algoritmo em pseudocódigo a seguir
 
 «- é o comando de atribuição
-
 o índice da primeira posição do vetor é 1
 
 início
-
 inteiro vetor[ ] = {91,47, 61,87, 29}
 inteiro x
-
 inteiro i
 i <— 1
 
 enquanto (i < 5) faça
-
 se (vetor[i] > vetor[i+1]) então
 x <— vetorfi]
 
 vetor[i] «— vetor[i +1]
 vetor[i+1] «— x
-
 fim se
 i«— i + 1
 
@@ -7604,7 +7416,6 @@ fim enquanto
 i «— 1
 
 enquanto (i < 6) faça
-
 escreva vetor[i]
 i«- i + 1
 
@@ -7764,7 +7575,6 @@ c) x<-v[j]
 
 v[j] <— v[j + 1]
 v[j + 1]<-x
-
 j^j-1
 
 d) x^v[j]
@@ -7778,7 +7588,6 @@ e) x<-v[j]
 
 v[j] <— v[j - 1]
 v[j-1]^x
-
 j-j-2
 
 Comentários:
@@ -7820,7 +7629,6 @@ c) x <—v[j]
 
 v[j] <— v[j + 1]
 v[j + 1]<-x
-
 j^j-1
 
 Estão sendo trocados v[j] com v[j+1 ]. Errado!
@@ -7837,7 +7645,6 @@ Também não funciona, pois a variável j está sendo incrementada.
 e) x <—v[j]
 v[j]^v[j-1]
 v[j-1]^x
-
 j-j-2
 
 Também não funciona, pois a variável j está decrementada com - 2. Gabarito: Letra B.
@@ -7854,9 +7661,7 @@ X 244
 
 
 A) /a/so
-
 verdadeiro
-
 falso
 V
 V
@@ -7866,10 +7671,8 @@ verdadeiro
 V
 
 F e
-
 falso
 verdadeiro
-
 falso
 
 \/
@@ -7887,7 +7690,6 @@ falso
 B)
 
 verdadeiro
-
 falso
 F
 F
@@ -7900,7 +7702,6 @@ V P
 
 falso
 verdadeiro
-
 falso
 F
 V
@@ -7916,7 +7717,6 @@ falso
 C)
 
 verdadeiro
-
 falso
 
 F
@@ -7926,10 +7726,8 @@ verdadeiro
 F
 
 V e
-
 falso
 verdadeiro
-
 falso
 F
 F
@@ -7945,7 +7743,6 @@ falso
 D)
 
 verdadeiro
-
 falso
 F
 V
@@ -7955,10 +7752,8 @@ verdadeiro
 V
 
 V p
-
 falso
 verdadeiro
-
 falso
 V
 V
@@ -7974,7 +7769,6 @@ falso
 E)
 
 verdadeiro
-
 falso
 V
 F
@@ -7984,10 +7778,8 @@ verdadeiro
 F
 
 F e
-
 falso
 verdadeiro
-
 falso
 
 V
@@ -8020,14 +7812,12 @@ funcao inicio() {
 
 inteiro vetor[] = { 81, 37, 51, 77, 19 }
 inteiro naosei
-
 logico achou = verdadeiro
 enquanto (achou)
 
 {
 
 achou=falso
-
 para (inteiro i = 0; i <4; i++)
 
 {
@@ -8355,17 +8145,13 @@ var
 Inicio
 
 N: inteiro
-
 para N de 1 ate 9 faca
-
 se N mod 2 = 1 então
-
 escreva(N)
 
 
 fimpara
 fim algoritmo
-
 fimse
 
 Este algoritmo escreve a saída:
@@ -8464,7 +8250,6 @@ função fatorial(n)
 se (n <= 1)
 retorne 1;
 senão
-
 retorne n * fatorial(n-1);
 
 }
@@ -8521,23 +8306,15 @@ X 244
 
 
 inicio
-
 inteiro x, y,i,r
-
 ler x
-
 ler y
-
 para i de 1 até x
-
 se (x%i=0) e (y%i=0) então
-
 r <- i
-
 fim se
 próximo
 escrever r
-
 fim
 
 Qual será a resposta, caso as entradas sejam 128, para x, e 56, para y?
@@ -8574,8 +8351,6 @@ x= 128
 
 
 www. estra tegiaconcursos. com. br
-
-
 y = 56
 
 x%i = 128%1. Qual o resto da divisão de 128 por 1? Quociente 128, Resto 0.
@@ -8612,15 +8387,12 @@ comando abaixo: r El i, ou seja, r agora será i, então r = 4.
 
 Pessoa, nós podemos continuar fazendo na mão até descobri o valor final de r, mas vocês
 perceberam que esse algoritmo está querendo descobrir o Máximo Divisor Comum (MDC) entre
-
-
 www. estra tegiaconcursos. com. br
 
 
 128 e 56? Ele sempre está decompondo os dois números e fará isso até descobrir qual será o
 MDC entre eles. Uma vez descoberto isso, eu não preciso fazer na mão. Sabemos 128 é divisível
 por 1,2, 4, 8, 16, 32 e 64. Sabemos que 56 é divisível por 1,2, 4, 7 e 8. Vimos que ambos têm
-
 em comum os divisores 1,2, 4 e 8. Então o MÁXIMO divisor comum é o 8.
 
 Olha que legal! Se você coloca isso em uma linguagem de programação e manda o computador
@@ -8632,11 +8404,9 @@ português estruturado.
 
 algoritmo segredo;
 variáveis
-
 x,y,z : inteiro;
 fim-variáveis
 início
-
 x:=15;
 
 y:=10;
@@ -8674,7 +8444,6 @@ Comentários:
 
 Vamos lá, galera... vimos que o nome do algoritmo é segredo e que ele tem três variáveis: x, y, z
 do tipo inteiro. No início, ele diz que: x=15;y = 10ez = 0. Eaí vamos para a estrutura de
-
 repetição enquanto:
 
 Sabemos que y = 10, ele diz: enquanto y > 0 repita o que está abaixo. E abaixo está:
@@ -8701,11 +8470,7 @@ descobri a resposta :) Gabarito: E
 
 16.(CESGRANRIO - 2014 - BASA - Analista de Sistemas) A saída do algoritmo apresentado
 abaixo para as entradas 100 e 20, respectivamente, é
-
-
 www. estra tegiaconcursos. com. br
-
-
 inicio
 inteiro X, Y
 LerX
@@ -8718,7 +8483,6 @@ X< -X- 1
 Y < - Y + 2 Fim Enquanto
 Escrever "saída =" , Y - X
 Fim
-
 a) -5
 
 b) -2
@@ -8968,7 +8732,6 @@ pseudocódigo, que mostra o emprego da estrutura de controle enquanto ... faça 
 atribuir 0 a n;
 enquanto n < 7 faça
 início
-
 imprimir (n);
 atribuir n+1 a n;
 
@@ -8997,7 +8760,6 @@ VERDE, AZUL: numérica;
 
 função FF(AUX:numérica): numérica;
 início
-
 atribuir VERDE+1 a VERDE;
 se AUX <=2
 
@@ -9005,13 +8767,10 @@ então atribuir 5 a FF
 
 
 www. estra tegiaconcursos. com. br
-
-
 senão atribuir AUX*FF(AUX-1) a FF;
 fim; {fim da função FF}
 
 início
-
 atribuir 0 a VERDE;
 atribuir FF(4) a AZUL;
 escrever(VERDE,AZUL);
@@ -9101,7 +8860,6 @@ escreva ("Digite sua idade: ")
 leia (idade)
 
 limpe a tela
-
 escreva ("Seu nome é:", nome)
 escreva ("Sua idade é:", idade)
 
@@ -9113,12 +8871,9 @@ escreva ("Sua idade é:", idade)
 
 se (nome = "João") então
 se (idade > 18) então
-
 escreva (nome, " é maior de 18 anos!")
 fim se
-
 fim se
-
 escreva ("Pressione qualquer tecla para começar...")
 leia (tecla)
 
@@ -9130,7 +8885,6 @@ escreva (mensagem)
 numero <— (numero + 1)
 
 fim enquanto
-
 escreva ("Pressione qualquer tecla para
 terminar...")
 
@@ -9149,10 +8903,8 @@ escreva ("nome digitado: ")
 escreva (nome)
 
 se (nome = "Wally") então
-
 escreva ("Encontrado o Wally!")
 senão
-
 cont <— 5
 enquanto (cont > 0)
 
@@ -9161,16 +8913,12 @@ cont <— (cont - 1)
 
 fim enquanto
 fim se
-
 d)...
 
 var
-
 nome: literal
 num: inteiro
-
 inicio
-
 escreva ("Digite seu nome: ")
 leia (nome)
 
@@ -9178,13 +8926,10 @@ num <— 0
 
 
 www. estra tegiaconcursos. com. br
-
-
 se (nome = "José") então
 num <— (num + 1)
 
 fim se
-
 escreva ("Quantidade de João encontrados:
 ")
 
@@ -9193,12 +8938,9 @@ escreva (num)
 e)...
 
 var
-
 nome: literal
 idade: inteiro
-
 inicio
-
 escreva ("Digite seu nome: ")
 leia (nome)
 
@@ -9206,7 +8948,6 @@ escreva ("Digite sua idade: ")
 leia (idade)
 
 limpe a tela
-
 escreva ("Seu nome é:")
 escreva (nome)
 
@@ -9256,8 +8997,6 @@ b) 110 e 121.
 
 
 www. estra tegiaconcursos. com. br
-
-
 c) 110e 162.
 
 d) 121 e 110.
@@ -9571,24 +9310,20 @@ e) diferente de 2, escreve X.
 1O.(CESPE / CEBRASPE - 2021 - SEED-PR)
 
 var
-
 valor: real
 resultado: real
 inicio
-
 soma <- 0
 
 escreva ("digite um valor")
 leia (valor)
 
 enquanto valor <> 0 faca
-
 resultado <- resultado + valor
 escreva ("digite um valor")
 
 leia (valor)
 fimenquanto
-
 escreva ("resultado: ", resultado)
 fimalgoritmo
 
@@ -9597,7 +9332,6 @@ sequencialmente os
 valores a seguir: 3 7 5 0 1 2
 
 Nessa situação, o resultado da execução será
-
 a) 5.
 
 b) 18.
@@ -9630,7 +9364,6 @@ Item. 8. fimpara
 Item. 9. escreva(resultado)
 
 Item. 10. fimalgoritmo
-
 a) 4, o resultado será 4.
 
 b) 3, o resultado será 5
@@ -9672,7 +9405,6 @@ e) pelo teorema da identidade.
 
 função avaliar( a, b )
 início
-
 ma <-a;
 
 se (ma < b) então ma <- b;
@@ -9683,17 +9415,14 @@ resultado <- ( ma % me ) 1;
 
 se (resultado = 0)
 então retorne me
-
 senão avaliar(me, ma)
 
 fim
-
 escreva avaliar (120,30);
 
 15.(CESPE / CEBRASPE - 2021 - PG-DF) O resultado do pseudocódigo apresentado será 6.
 
 inicio
-
 v <- vetor (2, 4, 6, 8 , 10 ,12 );
 
 escreva ( v[0] + " " +v[l] );
@@ -9711,7 +9440,6 @@ b) 3
 c) 4
 
 d) Falso
-
 e) Verdadeiro
 
 17.(CESPE/CEBRASPE - 2021 - SEED-PR) Assinale a opção que apresenta o resultado do
@@ -9724,14 +9452,12 @@ funcao inicio() {
 
 inteiro vetor[] = { 81, 37, 51, 77, 19 }
 inteiro naosei
-
 logico achou = verdadeiro
 enquanto (achou)
 
 {
 
 achou=falso
-
 para (inteiro i = 0; i <4; i++)
 
 {
@@ -9811,7 +9537,6 @@ B <- Y
 
 fim
 inicio
-
 leia A, B
 TROCA
 
@@ -9843,9 +9568,7 @@ A <- B
 B <- Y
 
 fim
-
 inicio
-
 leia A, B
 TROCA
 
@@ -9890,8 +9613,6 @@ document.write(b);
 
 
 www. estra tegiaconcursos. com. br
-
-
 a) 123456
 
 b) 12121
@@ -9931,7 +9652,6 @@ algoritmo a seguir:
 Inteiro x=l, y=4, z=5;
 
 Enquanto (x<y) faça
-
 z=z+y%x;
 
 y=y-l;
@@ -10144,7 +9864,6 @@ senão
 }
 
 Analisando este trecho, é correto afirmar que
-
 a) se B1 for falso, o Comando3 e o Comando4 serão executados.
 
 b) se B2 for verdadeiro, somente o Comando3 será executado.
@@ -10164,7 +9883,6 @@ Item. 2. (FCC - 2022 - DPE-RS) Considere o seguinte algoritmo em pseudocódigo:
 
 
 Algoritmo Valida
-
 tipo V = vetor [1..4] de inteiro
 var vet: V
 
@@ -10177,17 +9895,14 @@ enquanto (indice<=4)faça
 leia(numero);
 
 enquanto () faça
-
 imprima("Valor invalido. Digite um valor dentro do limite.")
 leia(numero)
 
 f im_enquanto
-
 vet [indice] <—numero
 indice<—indice + 1
 
 f im_enquanto
-
 para (indice de 1 até 4 passo 1) faça
 
 II
@@ -10198,7 +9913,6 @@ Fim
 Para que o algoritmo acima leia quatro valores de anos de 1900 até 2017 e os
 apresente na tela,
 a lacuna
-
 a) I deve ser preenchida com numero>=1900 e numero<=2017
 
 b) II deve ser preenchida com leia(vet[indice])
@@ -10217,32 +9931,24 @@ var varl=l, var2=2: inteiro
 funcaol()
 
 inicio
-
 var varl=100, var2=100: inteiro
-
 imprima("Variaveis dentro da funcaol(): varl= ", varl, " var2=", var2)
 
 fim
-
 funcao2()
 inicio
-
 varl = varl +1;
 var2 = var2 +2;
 
 imprima("Variaveis dentro da funcao2(): varl= ", varl, " var2=", var2)
 
 fim
-
-
 inicio
-
 imprima("Variaveis
 funcaol()
 imprima("Variaveis
 funcao2()
 imprima("Variaveis
-
 antes de chamar a funcaol(): varl=
 depois de chamar a funcaol():varl=
 depois de chamar a funcao2():varl=
@@ -10255,7 +9961,6 @@ varl, " var2=", var2)
 fim
 
 O pseudocódigo, ao ser executado, imprimirá
-
 a) Variaveis antes de chamar a funcaol (): varl =0 var2=0
 
 b) Variaveis dentro da funcaol (): varl =1 var2=2
@@ -10282,7 +9987,6 @@ e) 1000 0100 e 78
 
 Item. 5. (FCC - 2019 - AFAP) A soma do hexadecimal 1C5 com o binário de mais baixa ordem
 1101, terá como resultado o decimal
-
 a) 434.
 
 b) 466.
@@ -10308,27 +10012,22 @@ em que o operador mod retorna o resto da divisão inteira
 Programa Sabesp
 Var ano, n: inteiro
 Início
-
 imprima("Digite o ano com 4 dígitos: ")
 leia (ano)
 
 se (ano > 1949 e ano<=1999)
 então
-
 n <- ano mod 100
 
 I
 
 
 Fim
-
 senão
 fim se
-
 imprima("Ano inválido")
 
 Um Estagiário, ao analisar o algoritmo acima, conclui corretamente que
-
 a) o operador lógico e está errado e deve ser substituído pelo operador lógico ou na instrução
 se.
 
@@ -10419,7 +10118,6 @@ Considere o algoritmo em pseudocódigo abaixo.
 
 var vl, v2, v3: inteiro
 início
-
 leia (vl. v2, v3)
 
 exiba(vl)
@@ -10431,7 +10129,6 @@ v3 <- v3 - 1
 exiba(vl)
 
 f im_enquanto
-
 fim
 
 Se forem lidos para as variáveis v1, v2 e v3, respectivamente, os valores 3, 3 e 4,
@@ -10455,11 +10152,9 @@ Var pedágio, tm: real
 categoria: inteiro
 
 Início
-
 tm <- 3.00
 
 enquanto (verdadeiro) faça
-
 imprima(" Digite a categoria do veiculo (0 a 8) ")
 leia (categoria)
 
@@ -10467,21 +10162,16 @@ se (categoria < 0 e categoria > 8)
 então vá para FINALIZA
 
 fim se
-
 escolha(categoria)
 
 caso 0: pedágio <- 0
 
 caso 1, 2 : pedágio <- tm
 caso 3, 4 : pedágio <- 2 * tm
-
 caso 5, 6: pedágio <- 3 * tm
-
 caso 7: pedágio <- 4 * tm
 caso 8 : pedágio 1.5 * tm
-
 fim escolha
-
 imprima("O veiculo de categoria ", categoria, " pagara pedagio= ", pedágio)
 fim enquanto
 
@@ -10490,7 +10180,6 @@ FINALIZA:
 Fim.
 
 Este algoritmo
-
 a) não poderia usar a categoria 0 no comando escolha, nem atribuir zero ao valor do pedágio.
 
 b) apresenta erro de lógica na condição do comando condicional se.
@@ -10514,7 +10203,6 @@ implementam uma lógica.
 
 função fl (N: inteiro): real
 Início
-
 se (N<=1)
 
 então retorna 1
@@ -10524,10 +10212,8 @@ senão retorna (N * fl (N - 1))
 fim se
 
 Fim
-
 função f2 (N: inteiro): real
 Var i: inteiro
-
 result: real
 
 
@@ -10536,15 +10222,12 @@ Início
 Fim
 
 A função
-
 result 1
 
 para (i<-2 até N passo 1) faça
 result result * i
-
 fim para
 retorna result
-
 a) f1 e a função f2 recebem uma variável real e retornam um valor inteiro.
 
 b) f1 é executada apenas uma vez, já que em seu corpo existe apenas um comando
@@ -10566,20 +10249,15 @@ pseudocódigo.
 
 
 Var
-
 tipo V= vetor [0. .4] inteiro
 var j, voto: inteiro
-
 votos: V
 
 Início
-
 para (j <- 0 até 4 passo 1) faça
-
 votos [j] <- 0
 
 fim para
-
 enquanto (verdadeiro)
 
 imprima ("Digite o voto (1,2,3 ou 0 (branco) -1 finaliza): ")
@@ -10589,26 +10267,22 @@ se (voto = -1)
 
 então vá para RESULT
 fim se
-
 se (voto < 0 OU voto > 3)
 
 então votos[4] <- votos[4] + 1
 
 senão votos[voto] <- votos[voto] + 1
 fim se
-
 fim enquanto
 RESULT:
 
 para (j <- 1 até 3 passo 1) faça
-
 imprima ("O candidato ", j," obteve ", votos[j], " votos")
 
 fim para
 
 
 Fim
-
 imprima ("Número de votos em branco= ", )
 imprima votos[4])
 
@@ -10629,7 +10303,6 @@ e) logo após RESULT:, a instrução para deveria se iniciar em 0 e ir até 4.
 
 var vl, v2, v3: inteiro
 início
-
 leia (vl, v2, v3)
 exiba(vl)
 
@@ -10644,7 +10317,6 @@ fim
 
 Se forem lidos para as variáveis v1, v2 e v3, respectivamente, os valores 3, 3 e 4, o último valor
 exibido será
-
 a) 729
 
 b) 243
@@ -10666,24 +10338,17 @@ Item. 14. (FCC - 2017 - ARTESP) Considere o algoritmo em pseudocódigo abaixo:
 
 função dígitos (n:
 início
-
 inteiro): inteiro
-
-
 fim
-
 se (n < 10)
 então
 senão
-
 fim se
-
 retorna 1
 
 retorna (1+ digitos (n/10))
 
 início
-
 imprima(" Para 654321 o resultado da função digitos = digitos (654321))
 fim.
 
@@ -10733,7 +10398,6 @@ quociente da divisão inteira e MOD o resto da divisão inteira:
 
 Var taxa, cinco, tres, quociente, resto: inteiro
 Início
-
 imprima ("Digite um numero inteiro maior ou igual a 8: ")
 leia(taxa)
 
@@ -10764,12 +10428,10 @@ tres <— 1
 tres <— 3
 
 fim caso
-
 imprima(taxa, cinco, tres)
 Fim.
 
 O algoritmo em pseudocódigo acima
-
 a) garante que o valor de entrada seja maior ou igual a 8 para que seja possível dividir a taxa
 por 5 e por 3.
 
@@ -10789,7 +10451,6 @@ Var n, i, j , k,
 Var v: vetor[0.
 
 Início
-
 v[0] «- 12
 
 v[l] «- 145
@@ -10820,10 +10481,8 @@ Para j «- n-1 até k passo -1 faça
 v [j ] «- v [j - 1] ;
 
 Fim_jaara
-
 v[k] <- x;
 Fim
-
 a) exclui o valor contido na posição x do vetor v.
 
 b) insere o valor de x entre v[k-1 ]e v[k] no vetor v.
@@ -10862,36 +10521,26 @@ algoritmo em pseudo-código abaixo.
 
 tipo V= vetor [1..10] inteiro
 var i, k: inteiro
-
 a: logico
 vet: V
 
 inicio
-
 leia (k)
 i <— 1
 
 a <— falso
-
 enquanto (i<=10 e a=falso) faça
 inicio
-
 se (vet[i] = k)
 então
-
 imprima("Sucesso")
 a <— verdadeiro
-
-
 senão
-
 fim se
-
 imprima("Insucesso")
 
 i <— i + 1
 fim enquanto
-
 fim
 
 Considere que o vetor vet possua os seguintes valores: 6, 5, 1,9, 0, 1,4, 2, 3 e 7. É correto
@@ -10913,34 +10562,25 @@ Item. 20. (FCC - 2014 - TRT-16) No algoritmo há:
 
 tipo V= vetor [1..10] inteiro
 var i, k: inteiro
-
 a: logico
 vet: V
 
 inicio
-
 leia (k)
 i <- 1
 
 a <— falso
-
 enquanto (i<=10 e a=falso) faça
 inicio
-
 se (vet[i] = k)
 então
-
 imprima("Sucesso")
 a <— verdadeiro
-
-
 senão
-
 fim se
 i <- i+1
 
 fim enquanto
-
 imprima("Insucesso"
 
 fim
@@ -10968,7 +10608,6 @@ que limita sua implementação a linguagens orientadas a objetos.
 21 .(FCC - 2013 - TRT-9) Analise o algoritmo em pseudocódigo abaixo:
 
 início
-
 real: nl, n2;
 
 imprima("Digite a primeira nota: ");
@@ -10980,12 +10619,10 @@ leia(n2) ;
 
 se
 então
-
 media -<-(nl+n2) /2;
 
 imprima ("A media das notas é ", media);
 senão
-
 imprima("Alguma nota fornecida é inválida.");
 fim se;
 
@@ -10993,7 +10630,6 @@ fim.
 
 Considerando que uma nota válida deve possuir valores entre 0 e 10 (inclusive), a lacuna que
 corresponde à condição do comando SE é corretamente preenchida por
-
 a) n1 >= 0 OU n1 <=10 OU n2 >= 0 OU n2 <=10
 
 b) (n1 >= 0 E n1 <=10) OU (n2 >= 0 E n2 <=10)
@@ -11021,10 +10657,8 @@ Considere agora o seguinte trecho de código que invoca a função f definida ac
 
 
 escreva a
-
 escreva f(a)
 escreva a
-
 rff ffrfffff ff ff ff//ff ff ff ff ff ff ff ff ff ff/fff ff ff ff ff ff ffff ff
 
 A execução do trecho de código acima resultaria na escrita de:
@@ -11087,7 +10721,6 @@ e) Z <—X + Y
 Item. 24. (FCC - 2010 - TJ-PA) Considere a seguinte e somente a seguinte situação: Se um
 procedimento Px contiver uma referência a um outro procedimento Py que por sua vez
 contém uma referência direta ou indireta a Px, então
-
 a) Px é subconjunto de Py.
 
 b) Px é categorizado como indiretamente recursivo.
@@ -11104,13 +10737,9 @@ uma determinada expressão e definir se um bloco de código deve ou não ser exe
 Essa é a definição da estrutura condicional:
 
 a) For
-
 b) lf...Then...Else
-
 c) While
-
 d) Do...While
-
 e) Next
 
 26.(FCC - 2010 - TRT/SE - Analista de Sistemas) Objeto que se constitui parcialmente ou é
@@ -11153,7 +10782,6 @@ IV. Registro é uma estrutura básica que permite guardar coleções de dados de
 tipos, sendo normalmente utilizado quando um objeto tem diferentes atributos.
 
 É correto o que consta APENAS em
-
 a) I e III.
 
 b) II e IV.
@@ -11169,7 +10797,6 @@ conhecido e aceito. Trata-se de um mecanismo simples, que formaliza a ideia de u
 pessoa que realiza cálculos, denominado:
 
 a) Recursividade de Bird
-
 b) Máquina de Redução.
 
 c) Máquina de Turing.
@@ -11264,7 +10891,6 @@ LISTA DE QUESTõES - FGV
 
 Item. 1. (FGV - 2018 - Câmara de Salvador-BA) Expressões lógicas são frequentemente utilizadas
 em linguagens de programação. Por exemplo, um comando if com a expressão
-
 if not (A and B)
 
 pode ser reescrito, para quaisquer valores lógicos de A e B, com a expressão:
@@ -11454,11 +11080,9 @@ exibido a seguir.
 
 function f(x as integer) as integer:
 if x = 1 then
-
 return 1
 
 else
-
 return x + f(x-l)
 
 Assinale a opção que indica o valor retornado para f (9).
@@ -11498,8 +11122,6 @@ Assinale a opção que indica o valor correto da expressão ff(12).
 
 
 www. estra tegiaconcursos. com. br
-
-
 a) 12
 
 b) 17
@@ -11514,24 +11136,16 @@ Item. 8. (FGV - 2017 - SEPOG-RO) Considere o algoritmo em pseudocódigo descrito
 
 para i=0 até n
 inicio
-
 j = 1
 
 enquanto j <n
 inicio
-
 j = 2 * j
-
 para k = 0 até j
 inicio
-
-
 fim
-
 fim
-
 fim
-
 execute f
 
 Assinale a opção que indica o número de vezes em que o código irá executar a função f para n
@@ -11598,8 +11212,6 @@ e) 10, 8, 5 e 2.
 
 10.(FGV - 2014 - SUSAM) A figura a seguir apresenta um fluxograma de uma função que
 fornece ao usuário o valor do ingresso que deverá ser cobrado para a entrada no cinema
-
-
 www. estra tegiaconcursos. com. br
 
 
@@ -11692,7 +11304,6 @@ duplicidades, eliminar tarefas
 desnecessárias, otimizar o ciclo etc. Em um fluxograma, o símbolo que indica
 uma decisão
 é
-
 a)
 
 
@@ -11754,7 +11365,6 @@ var
 SD : caracter
 NR : inteiro
 VL : logico
-
 procedimento PROC PL(var X:caracter;Y;inteiro;W:logico)
 inicio
 
@@ -11776,7 +11386,6 @@ se VL - VERDADEIRO então
 NR <- 2022
 
 fimse
-
 escreval("SD - ",SD:10," NR - ",NR:4," VL - ",VL)
 
 fimalgoritmo
@@ -11802,21 +11411,16 @@ algoritmo "PL_2022"
 var
 
 CT, RP : inteiro
-
 funcao FREC(AUX:inteiro):inteiro
 inicio
-
 se (AUX » 0) OU (AUX - 1) então
 retorne AUX
 
 senão
-
 retorne FREC(AÜX-2) * FREC(AUX-l)
 fimse
-
 fimfuncao
 inicio
-
 para CT de 0 ate 5 faca
 
 RP <- FREC(CT)
@@ -11842,34 +11446,26 @@ OO
 «— é o comando de atribuição
 
 % é o resto de divisão inteira
-
 início
-
 inteiro x
 inteiro y
 inteiro z
-
-
 z <—3
 
 x «— x + 40
 y«—5Z*4
 
 enquanto (z <= 7) faça
-
 x <— x - 15
 
 se x % 2 = 0 então
 z <— z + 1
 
 se não
-
 z 4- z + 2
 fim se
-
 y <— y + z - x
 fim enquanto
-
 escreva x, y, z
 
 Assinale a alternativa que apresenta CORRETAMENTE os valores impressos pelo algoritmo:
@@ -11891,25 +11487,20 @@ X 244
 
 
 «— é o comando de atribuição
-
 o índice da primeira posição do vetor é 1
 
 início
-
 inteiro vetor[ ] = {91, 47, 61,87, 29}
 inteiro x
-
 inteiro i
 i «— 1
 
 enquanto (i < 5) faça
-
 se (vetor[i] > vetor[i+1 ]) então
 x «- vetorfi]
 
 vetor[i]«- vetorfi +1]
 vetor[i+1] «— x
-
 fim se
 i«—i + 1
 
@@ -11917,7 +11508,6 @@ fim enquanto
 i «— 1
 
 enquanto (i < 6) faça
-
 escreva vetorfi]
 i«— i + 1
 
@@ -11953,7 +11543,6 @@ enquanto i < t faça
 {
 
 j *- i
-
 enquanto j > 0 e v[j-l] > v[j] faça
 
 {
@@ -11976,14 +11565,12 @@ v[j] <- v[j -1]
 
 v[j -1]«- x
 j-j + i
-
 b) x-v[j]
 
 v[j] <- v[j -1]
 
 v[j -1]«- x
 j-j-i
-
 c) x-v[j]
 
 v[j] <" v[j + l]
@@ -12003,7 +11590,6 @@ e) x-v[j]
 v[j] <- v[j -1]
 
 v[j -1]«- x
-
 j-j-2
 
 Item. 7. (IDECAN - 2021 - PEFOCE) Na construção de algoritmos e programas de computador,
@@ -12019,9 +11605,7 @@ respectivamente, em
 
 
 A) falso
-
 verdadeiro
-
 falso
 V
 V
@@ -12031,10 +11615,8 @@ verdadeiro
 V
 
 F e
-
 falso
 verdadeiro
-
 falso
 V
 F
@@ -12047,7 +11629,6 @@ F
 
 falso
 verdadeiro
-
 falso
 F
 F
@@ -12060,7 +11641,6 @@ V P
 
 falso
 verdadeiro
-
 falso
 F
 V
@@ -12073,7 +11653,6 @@ V
 
 C) falso
 verdadeiro
-
 falso
 V
 
@@ -12084,10 +11663,8 @@ verdadeiro
 F
 
 V p
-
 falso
 verdadeiro
-
 falso
 F
 F
@@ -12100,7 +11677,6 @@ V
 
 D) falso
 verdadeiro
-
 falso
 F
 V
@@ -12110,10 +11686,8 @@ verdadeiro
 V
 
 V p
-
 falso
 verdadeiro
-
 falso
 V
 V
@@ -12129,7 +11703,6 @@ falso
 E)
 
 verdadeiro
-
 falso
 V
 F
@@ -12139,10 +11712,8 @@ verdadeiro
 F
 
 F e
-
 falso
 verdadeiro
-
 falso
 
 V
@@ -12162,14 +11733,12 @@ funcao inicio() {
 
 inteiro vetor[] = { 81, 37, 51, 77, 19 }
 inteiro naosei
-
 logico achou = verdadeiro
 enquanto (achou)
 
 {
 
 achou=falso
-
 para (inteiro i = 0; i <4; i++)
 
 {
@@ -12203,21 +11772,13 @@ escreva (vetor[i]+ "\n")
 
 
 www. estra tegiaconcursos. com. br
-
-
 a) 81
 5i
-
-
 b) 81
 
 5i
-
-
 c) 19
 5i
-
-
 d) 51
 
 
@@ -12243,11 +11804,8 @@ var
 Inicio
 
 N: inteiro
-
 para N de 1 ate 9 faca
-
 se N mod 2 = 1 então
-
 escreva(N)
 
 
@@ -12266,7 +11824,6 @@ d) í, 2, 4, 6, 8
 e) i, 3, 5, 7, 8
 
 fimse
-
 íi. (IF/PE -2017- IF/PE - Técnico de Laboratório - Informática para Internet) No que diz respeito a
 algoritmos, analise as proposições a seguir:
 
@@ -12316,7 +11873,6 @@ função fatorial(n)
 se (n <= 1)
 retorne 1;
 senão
-
 retorne n * fatorial(n-i);
 
 }
@@ -12356,22 +11912,16 @@ Item. 14. (CESGRANRIO -2014- EPE - Tecnologia da Informação) Analise 0 algorit
 representa 0 resto da divisão de a por b.
 
 inicio
-
 inteiro x,y,i,r
 
 „ lerx
-
 lery
-
 para i de 1 até x
-
 se (x%i=o) e (y%i=o) então
 r <- i
-
 fim se
 próximo
 escrever r
-
 fim
 
 Qual será a resposta, caso as entradas sejam 128, para x, e 56, para y?
@@ -12397,7 +11947,6 @@ português estruturado.
 
 algoritmo segredo;
 variáveis
-
 x,y,z: inteiro;
 fim-variáveis
 início
@@ -12435,7 +11984,6 @@ e) 150
 
 Item. 16. (CESGRANRIO - 2014 - BASA - Analista de Sistemas) A saída do algoritmo apresentado abaixo para
 as entradas 100 e 20, respectivamente, é
-
 inicio
 inteiro X, Y
 LerX
@@ -12448,13 +11996,11 @@ X<-X-i
 Y < - Y + 2 Fim Enquanto
 Escrever "saída =", Y-X
 Fim
-
 a) -5
 
 b) -2
 
 c) i
-
 d) 4
 
 e) 7
@@ -12496,7 +12042,6 @@ Até queX< -i;
 A estrutura será executada até que X seja igual ao seguinte valor:
 
 a) -i
-
 b) -3
 
 Item. 19. (CONSULPLAN - 2012 - TSE - Programador de computador) Observe 0 trecho de pseudocódigo, que
@@ -12505,7 +12050,6 @@ mostra 0 emprego da estrutura de controle enquanto ... faça ...
 atribuiro a n;
 enquanto n < 7 faça
 início
-
 imprimir (n);
 atribuir n+i a n;
 
@@ -12522,8 +12066,6 @@ ilustra 0 uso de uma função recursiva.
 
 programa PPRRGG;
 variáveis
-
-
 www. estra tegiaconcursos. com. br
 
 
@@ -12531,7 +12073,6 @@ VERDE, AZUL: numérica;
 
 função FF(AUX:numérica): numérica;
 início
-
 atribuir VERDE+i a VERDE;
 se AUX <=2
 
@@ -12541,7 +12082,6 @@ senão atribuir AUX*FF(AUX-i) a FF;
 fim; {fim da função FF}
 
 início
-
 atribuiro a VERDE;
 atribuir FF(Z|.) a AZUL;
 escrever(VERDE,AZUL);
@@ -12568,8 +12108,6 @@ a)...
 
 
 www. estra tegiaconcursos. com. br
-
-
 escreva ("Digite seu nome: ")
 leia (nome)
 
@@ -12577,18 +12115,13 @@ escreva ("Digite sua idade: ")
 leia (idade)
 
 limpe a tela
-
 escreva ("Seu nome é:", nome)
 escreva ("Sua idade é:", idade)
 se (nome = "João") então
-
 se (idade > 18) então
-
 escreva (nome, " é maior de 18 anos!")
 fim se
-
 fim se
-
 b)...
 
 escreva ("Pressione qualquertecla para começar...")
@@ -12597,14 +12130,12 @@ leia (tecla)
 mensagem «- "Não devo acordartarde..."
 
 numero «- o
-
 enquanto (numero < 100)
 escreva (mensagem)
 
 numero <- (numero + 1)
 
 fim enquanto
-
 escreva ("Pressione qualquertecla para
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
@@ -12627,7 +12158,6 @@ se (nome = "Wally") então
 escreva ("Encontrado o Wally!")
 
 senão
-
 cont «- 5
 
 enquanto (cont > o)
@@ -12637,11 +12167,9 @@ cont «- (cont-i)
 
 fim enquanto
 fim se
-
 d)...
 
 var
-
 nome: literal
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
@@ -12649,17 +12177,14 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 
 num: inteiro
 inicio
-
 escreva ("Digite seu nome: ")
 leia (nome)
 
 num «- o
-
 se (nome = "José") então
 num «- (num + 1)
 
 fim se
-
 escreva ("Quantidade de João encontrados:
 
 ")
@@ -12669,12 +12194,9 @@ escreva (num)
 e)...
 
 var
-
 nome: literal
 idade: inteiro
-
 inicio
-
 escreva ("Digite seu nome: ")
 leia (nome)
 
@@ -12682,7 +12204,6 @@ escreva ("Digite sua idade: ")
 leia (idade)
 
 limpe a tela
-
 escreva ("Seu nome é:")
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
@@ -12729,8 +12250,6 @@ d) 121e110.
 
 
 www. estra tegiaconcursos. com. br
-
-
 e) 173 e110.
 
 Item. 23. (CESGRANRIO - 2010 - PETROBRÁS - Técnico em Informático) Relacionado à

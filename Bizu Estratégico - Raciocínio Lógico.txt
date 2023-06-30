@@ -194,7 +194,6 @@ menores.
 Ex: 3 + 1 = 4.
 
 São duas ou mais proposições conectadas
-
 entre si, resultando numa única declaração.
 
 Ex: Se eu estudar, então serei aprovado.
@@ -310,9 +309,7 @@ Valor lógico
 Verdadeiro
 
 Falso
-
 p e q são iguais
-
 p e q são diferentes
 
 Tabela-Verdade do "Se e somente se" (bicondicional):
@@ -330,13 +327,10 @@ F F V
 J Então MEMORIZE:
 
 Conectivo É VERDADE quando... É FALSO quando
-
 p * q p e q forem, ambos, V Um dos dois for F, ou ambos
-
 p v q Um dos dois for V, ou ambos p e q forem, ambos, F
 
 P v q p e q forem diferentes p e q forem iguais
-
 p -> q Nos demais casos p for V e q for F
 
 p «-> q p e q forem iguais p e q forem diferentes
@@ -357,8 +351,6 @@ i. Não é verdade que Maria é professora.
 
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
-
 ii. É falso que Maria é professora.
 
 iii. É mentira que Maria é professora.
@@ -390,7 +382,6 @@ Exemplo:
 * Afirmação: Se viajo, então acordo cedo.
 
 * Equivalente: Não viajo ou acordo cedo
-
 o p -> q <=> ~q -> ~p
 
 Deve-se negar as duas partes e interver as posições das proposições obtidas.
@@ -412,7 +403,6 @@ Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 * Equivalente: Se não acordo cedo, então não viajo
 
 Item. 7. Negações mais importantes
-
 o 1a Lei de De Morgan
 
 Conectivo E

@@ -196,8 +196,6 @@ da Receita
 Federal, por exemplo, no primeiro dia de declaração de Imposto de Renda, teremos a
 experiência
 por diversos usuários da violação do princípio da disponibilidade caso estes não consigam acessar o
-
-
 site ou enviar suas requisições por falha no sistema ou volume de acesso que consomem
 todos os
 recursos disponíveis, impedindo a utilização por novos usuários.
@@ -212,7 +210,6 @@ Integridade
 
 3 principais
 Alares para
-
 base da
 egurança d
 Informação
@@ -398,43 +395,35 @@ trata da Segurança de
 arquiteturas, principalmente no que tange a soluções de rede distribuídas. Vamos conhecê-los:
 
 * Autenticação de entidade Parceiras
-
 o Usada em associação com uma conexão lógica com a capacidade de prover confiabilidade
 a
 respeito da identidade das entidades conectadas.
 
 * Autenticação da origem dos Dados
-
 o Considerando uma transferência sem conexão entre as partes, visa assegurar que a
 origem
 dos dados recebidos é quem ela afirma ser.
 
 * Confidencialidade de campo seletivo
-
 o Busca-se manter a confidencialidade de campos específicos dentro do volume
 de dados de
 um usuário em uma conexão.
 
 * Confidencialidade do fluxo de tráfego
-
 o Busca-se gerar a confidencialidade sob a perspectiva do fluxo, ou seja, a simples
 análise do
 fluxo de dados não deve ser capaz de gerar informações indevidas.
 
 * Integridade de conexão com recuperação
-
 o Como o próprio nome diz, é capaz de detectar qualquer modificação,
 inserção, deleção ou
 repetição de quaisquer dados dentro de uma sequência de dado. Além disso, é capaz de
 recuperar a intervenção realizada.
 
 * Integridade de conexão sem recuperação
-
-
 o Como vimos, neste caso, não há capacidade de recuperação, mas tão somente de detecção.
 
 * Integridade de conexão de campo seletivo
-
 o Assim como a confidencialidade seletiva, aqui, busca-se garantir a
 integridade de áreas e
 dados específicos. Assim, busca-se avaliar se houve modificação, inserção,
@@ -442,23 +431,19 @@ eliminação ou
 repetição dessa parcela.
 
 * Integridade sem conexão
-
 o Considera a capacidade de prover a integridade de dados em um ambiente
 sem conexão.
 Possui o foco na detecção de modificações e uma capacidade limitada de detectar repetições.
 
 * Integridade de campo seletivo sem conexão
-
 o Mesma condição do tipo acima, porém, de áreas de dados específicos ou seletivos.
 
 * Irretratabilidade de origem
-
 o É o padrão que vimos, uma vez que é possível provar que a mensagem
 foi enviada por
 determinada parte.
 
 * Irretratabilidade de destino
-
 o A perspectiva aqui é diferente. Consegue-se provar que o destinatário
 recebeu determinada
 mensagem.
@@ -529,37 +514,24 @@ captura de senhas de acesso e informações que por ele passem a trafegar.
 Furto de dados: dados
 podem ser obtidos pela
 interceptação de
-
 tráfego r 1
 
 
 Á Uso indevido de
 
 1 recursos: atacante
-
 pode ganhar acesso a
-
 um computador
-
 conectado à rede e
-
 utilizá-lo
 
 Ataque de
-
 personificação: atacante
-
 pode introduzir ou
-
 substituir um dispositivo
-
 de rede para induzir
-
 outros a se conectarem
-
 a este
-
-
 pocie fazer varreduiras 1
 
 ria rede, a fim df
@@ -567,62 +539,41 @@ ria rede, a fim df
 (iescobrir outroí > 1
 
 computadores
-
 k
-
 eguranç;
 
 da
-
 n iformaçã FV
 
 
 Ataque de força
-
 bruta: computadores
-
 conectados à rede e
-
 que usem senhas como
-
 métodos de
-
 autenticação estão
-
 expostos a ataques de
-
 força bruta
 
 
 Interceptação de
-
 tráfego: atacante pode
-
 tentar interceptar o 1
 
 tráfego e coletar dados 1 4
 
 Ataque de negação de
-
 serviço: atacante pode
-
 usar a rede para enviar
-
 grande volume de
-
 k
 
 
 1 de criptografia
-
 jloração de
-
 vulnerabilidades
-
 computador pode:ser
-
 i infectado ou invad ido
-
 de se comunicar F
 
 
@@ -692,7 +643,6 @@ chaves kensington, que, literalmente, "prendem" o equipamento em uma localidade.
 
 Item. 6. Alarmes - Temos aqui um sistema de aviso que pode ser considerando no seu
 aspecto físico, como
-
 alarmes de incêndio, como no aspecto lógico, como alarmes lógicos de rede.
 
 Item. 7. Catracas - A partir da utilização de senhas, crachás, smartcards, entre outros,
@@ -826,7 +776,6 @@ ROOT.
 
 Redução de Serviços: Deve-se minimizar ao máximo a
 quantidade de serviços que estejam rodando em
-
 determinado servidor.
 
 
@@ -1042,8 +991,6 @@ RBAC, que é, embasado em papéis.
 
 
 r
-
-
 i
 
 : Gabarito: B
@@ -1195,7 +1142,6 @@ recurso, sendo esta a segunda etapa.
 
 Percebam que esse código funciona como se fosse uma chave de sessão, ou seja, servirá para aquele
 acesso durante um período específico. Se você tentar, em um segundo momento, acessar de novo a sua
-
 conta, um novo código será gerado. Esse exemplo contemplou os fatores de ALGO QUE VOCÊ SABE com
 ALGO QUE VOCÊ TEM.
 
@@ -1520,7 +1466,6 @@ Google OAuth API
 + Sign m with Google
 
 Google OAuth Server
-
 auth code
 
 Application / Callback Script
@@ -1642,7 +1587,6 @@ s£
 A partir do momento, portanto, que um usuário acessa um site e solicita o acesso ou
 tenta realizar o login,
 inicia-se o processo
-
 i ETAPA 1 - A aplicação (cliente) solicita autorização para o usuário, para que a
 aplicação possa interagir e
 
@@ -1661,7 +1605,6 @@ L
 
 
 i
-
 i ETAPA 3 - De posse da autorização, esta é encaminhada pelo cliente ao Servidor de
 Autorização, responsável
 
@@ -1678,7 +1621,6 @@ usadas para acessar
 
 = os recursos protegidos.
 j
-
 i ETAPA 5 - Passa-se o token aos provedores de serviços que detêm os recursos
 protegidos dos usuários. Na i
 i imagem em questão, temos exemplo de serviços da google como o Google Drive ou
@@ -1862,8 +1804,6 @@ mundial, a Mcafee, que extrapola ainda mais o conceito de Endpoints:
 Q
 
 Serw«*s
-
-
 isTDavRci
 
 /Seaxxj
@@ -1882,7 +1822,6 @@ employer-owned laptops,
 
 network devices and servers,
 mobile devices, even
-
 cloud-based systems, loT
 devices, mobile and
 network devices, and
@@ -2146,7 +2085,6 @@ AUDIToRIA E CoNFoRMIDADE
 
 Outros assuntos que constantemente caem em prova em termos conceituais e suas
 aplicações, é a auditoria
-
 e conformidade.
 
 
@@ -2250,7 +2188,6 @@ r*"""""* ..
 
 : (CESPE - 2014 - TJ-SE - Analista Judiciário - Segurança da Informação) Atividades de usuários,
 exceções e i
-
 j outros eventos são registros ou logs de eventos produzidos e mantidos pela
 instituição, mas, por =
 
@@ -2555,7 +2492,6 @@ r
 
 : * RISCO: probabilidade de uma fonte de ameaça explorar uma vulnerabilidade,
 resultando em i
-
 um impacto para a organização;
 
 i * AMEAÇA: Causa potencial de um incidente indesejado.
@@ -2628,7 +2564,6 @@ Segurança da
 servidor de
 j backup para tentar garantir que as informações sejam replicadas, automaticamente, do
 servidor principal
-
 jI para o servidor backup de forma redundante. A estratégia utilizada por Pedro para
 tratar o risco é
 
@@ -2785,8 +2720,6 @@ importante no
 desenvolvimento de aplicações seguras. Essas aplicações sempre estarão sujeitas a erros
 e,
 por medida de segurança, é importante que haja um padrão de mensagem de erro para o
-
-
 usuário que não vaze informações a respeito da aplicação, evitando assim que um
 atacante
 obtenha essas informações para aprimorar seus ataques. Sob a perspectiva do desenvolvedor
@@ -2979,8 +2912,6 @@ I
 
 
 oo
-
-
 r
 
 
@@ -3015,7 +2946,6 @@ i * Aplicar ferramentas de testes de segurança, incluindo ferramentas de difus�
 
 i * Aplicar ferramentas de verificação de código de análise estática.
 i
-
 i * Realizar revisões de código.
 
 A atenção especial fica em relação ao fato de que não se considera a aplicação de
@@ -3157,7 +3087,6 @@ Erros Lógicos em Geral.
 Papéis
 
 Visão k
-
 cConceitue ll
 
 Visões
@@ -3210,7 +3139,6 @@ repetitiva e baixo custo;
 
 b) Pode ser utilizado para verificar aspectos de segurança na parcela de código considerada
 sensível
-
 e, por vezes, altamente confidencial, como capacidades de buffer (prevendo estouro de
 buffers da
 aplicação), bem como outras regras de bando de dados, por exemplo;
@@ -3264,7 +3192,6 @@ I
 
 i 3) Qual o nível de acurácia e precisão dos resultados? Quais as taxas de falsos
 positivos/falsos negativos i
-
 registrados?
 
 i 4) Possui consolidado adequado às diversas bibliotecas e frameworks utilizados?
@@ -3385,7 +3312,6 @@ PRATICAR!
 QUESTõES CoMENTADAS
 
 Princípios de Segurança
-
 l.CESPE - Banco da Amazônia/Técnico Científico - Segurança da lnformação/2013
 
 A segurança da informação pode ser entendida como uma atividade voltada à
@@ -3403,7 +3329,6 @@ detecta modificação,
 inserção, exclusão ou repetição de quaisquer dados em
 sequência, com tentativa de
 recuperação, é a integridade
-
 a) conexão com recuperação.
 
 b) autenticação da origem de dados.
@@ -3644,8 +3569,6 @@ Gabarito: C
 controle lógico do ambiente
 computacional, deve-se considerar que medidas de segurança devem ser
 atribuídas aos sistemas
-
-
 corporativos e aos bancos de dados, formas de proteção ao código-fonte, preservação de
 arquivos de log
 de acesso ao sistema, incluindo-se o sistema de autenticação de usuários.
@@ -3935,15 +3858,10 @@ tenha sido acessada
 indevidamente por usuários que visualizaram as informações contidas na
 planilha, mas não as
 modificaram. O princípio da segurança da informação comprometido com esse incidente foi
-
 a) a disponibilidade
-
 b) a autenticidade
-
 c) o não repúdio
-
 d) a confidencialidade
-
 e) a integridade
 
 Comentários:
@@ -4245,7 +4163,6 @@ PRATICAR!
 QUESTõES CoMENTADAS CoMPLEMENTARES
 
 Princípios de Segurança
-
 l.(FCC -TRE-RR/Analista Judiciário/2015) O processo de proteção da informação das
 ameaças caracteriza-
 se como Segurança da Informação. O resultado de uma gestão de segurança da informação
@@ -4303,7 +4220,6 @@ analisar a
 identidade do sistema.
 
 Os itens I, II e III, associam-se, direta e respectivamente, aos princípios de
-
 a) confidencialidade, integridade e autenticidade.
 
 b) autenticidade, confidencialidade e irretratabilidade.
@@ -4328,7 +4244,6 @@ garante que nem
 o emissor nem o destinatário das informações possam negar a sua transmissão,
 recepção ou posse é
 conhecida como
-
 a) autenticidade.
 
 b) integridade.
@@ -4474,8 +4389,6 @@ segurança da informação
 inclui o uso de diversos tipos e recursos de segurança. Um recurso de
 segurança categorizado como
 mecanismo de controle de acesso lógico é
-
-
 a) a função hash.
 
 b) o sistema biométrico.
@@ -4515,11 +4428,9 @@ formas de verificação de
 identidades. O sistema de identificação biométrica que utiliza a parte do fundo do
 olho como identificador
 é conhecido como identificação
-
 a) datiloscópica ou fingerprint.
 
 b) da íris
-
 c) da retina.
 
 d) cognitiva.
@@ -4819,15 +4730,10 @@ tenha sido acessada
 indevidamente por usuários que visualizaram as informações contidas na
 planilha, mas não as
 modificaram. O princípio da segurança da informação comprometido com esse incidente foi
-
 a) a disponibilidade
-
 b) a autenticidade
-
 c) o não repúdio
-
 d) a confidencialidade
-
 e) a integridade
 
 31.(CESPE - TRT17/Técnico Judiciário - TI/2013) A segurança da informação tem por
@@ -4949,7 +4855,6 @@ PRATICAR!
 LISTA DE QUESTõES FCC
 
 Princípios de Segurança
-
 l.(FCC -TRE-RR/Analista Judiciário/2015) O processo de proteção da informação das
 ameaças caracteriza-
 se como Segurança da Informação. O resultado de uma gestão de segurança da informação
@@ -4999,7 +4904,6 @@ analisar a
 identidade do sistema.
 
 Os itens I, II e III, associam-se, direta e respectivamente, aos princípios de
-
 a) confidencialidade, integridade e autenticidade.
 
 b) autenticidade, confidencialidade e irretratabilidade.
@@ -5015,7 +4919,6 @@ garante que nem
 o emissor nem o destinatário das informações possam negar a sua transmissão,
 recepção ou posse é
 conhecida como
-
 a) autenticidade.
 
 b) integridade.
@@ -5031,7 +4934,6 @@ informação é composto
 por diversos processos, dentre os quais, aquele que identifica quem efetua o
 acesso a uma dada
 informação. Esse processo é denominado
-
 a) autenticação.
 
 b) auditoria.
@@ -5048,7 +4950,6 @@ estabelecer uma política de
 segurança e implantar os mecanismos de segurança para o TRF da 4a Região. Dentre os
 mecanismos para
 a segurança física, José deve escolher o uso de
-
 a) senha de acesso ao computador do trf.
 
 b) token criptográfico para autenticar os dados acessados no computador do trf.
@@ -5102,7 +5003,6 @@ do servidor principal
 para o servidor backup de forma redundante. A estratégia utilizada por Pedro
 para tratar o risco é
 considerada como
-
 a) aceitação do risco.
 
 b) transferência do risco.
@@ -5118,7 +5018,6 @@ segurança da informação
 inclui o uso de diversos tipos e recursos de segurança. Um recurso de
 segurança categorizado como
 mecanismo de controle de acesso lógico é
-
 a) a função hash.
 
 b) o sistema biométrico.
@@ -5140,11 +5039,9 @@ formas de verificação de
 identidades. O sistema de identificação biométrica que utiliza a parte do fundo do
 olho como identificador
 é conhecido como identificação
-
 a) datiloscópica ou fingerprint.
 
 b) da íris
-
 c) da retina.
 
 
@@ -5310,12 +5207,10 @@ de direito, ou seja, a informação só deve estar disponível para aqueles com 
 autorização.
 
 o Integridade (Confiabilidade) - No segundo princípio, temos como objetivo garantir que
-
 os dados trafegados sejam os mesmos do início ao fim de um determinado trecho, ou
 seja, que a mesma mensagem gerada na origem chegue ao destino de forma intacta,
 
 o Disponibilidade - Nesse princípio, temos como principal objetivo o fato de determinado
-
 recurso poder ser utilizado quando este for requisitado em um determinado momento,
 considerando a devida autorização do usuário requisitante.
 
@@ -5469,7 +5364,6 @@ riscos. Pode-se tomar basicamente quatro tipos de ação, quais sejam:
 
 o Evitar - Busca-se ações com vistas a prevenir a ocorrência de determinado
 risco. Como
-
 exemplo, pode-se bloquear o acesso de determinado usuário à internet. Isso poderia
 evitar
 que este acesse serviços remotamente e vaze dados pela Internet.

@@ -153,8 +153,6 @@ A arte de extrair percepções úteis de qualquer dado de texto pode ser chamada
 PLN, por outro lado, não se restringe apenas aos dados de texto. O reconhecimento e a análise de
 voz (fala) também estão sob o domínio do PLN. PLN pode ser amplamente categorizada em dois
 tipos: compreensão da linguagem natural (NLU - Natural Language Understanding) e Geração da
-
-
 linguagem natural (NLG - Natural Language Generation). Uma explicação adequada desses
 termos
 é fornecida da seguinte forma:
@@ -214,8 +212,6 @@ esse resultado
 então precisa passar por uma geração de linguagem que vai devolver a
 resposta em formato
 adequada para a Carol. Perceba que o PLN é uma abordagem baseada em princípios para processar
-
-
 a linguagem humana. Trata-se de um subcampo da inteligência artificial (IA)
 que se refere a
 abordagens computacionais para processar, compreender e gerar a linguagem humana.
@@ -278,8 +274,6 @@ computação. Já no final da década de 50
 começaram a surgir alguns métodos estatísticos
 
 Summary
-
-
 para extrair as sentenças principais de um texto. As pesquisas continuaram nas décadas
 seguintes.
 Em relação à forma de composição de sumarização, podemos classificar a
@@ -322,16 +316,13 @@ Verificação
 ortográfica
 
 * á
-
 r
 
 Recuperação de
 informação
 baseada em
 palavras chave
-
 b. j
-
 r
 
 Modelagem de
@@ -346,7 +337,6 @@ texto
 * Análise de sentimento
 
 * Detecção de idioma
-
 h á
 
 
@@ -451,8 +441,6 @@ raramente são limpos, e é aqui que a limpeza de texto entra em jogo.
 Após a limpeza, os dados de texto costumam ter muitas variações e precisam ser
 convertidos em
 um formato canônico. Isso é feito na etapa de pré-processamento. Isso é seguido pela engenharia
-
-
 de recursos, onde localizamos indicadores que são mais adequados para a tarefa em
 questão. Esses
 indicadores são convertidos em um formato compreensível por algoritmos de modelagem.
@@ -627,7 +615,6 @@ formas da palavra formada por inflexão (devido a plurais e tempos) e derivaçã
 consign
 consigning
 consign
-
 consignment
 
 °°$
@@ -840,14 +827,11 @@ linguística
 
 
 Avaliação
-
 s
 Representação
 matemática das
-
 unidades
 linguístcas
-
 s.
 
 
@@ -1116,7 +1100,6 @@ The quick brown fox jumps over the lazy dog.
 
 The quick brown fox
 the lazy dog
-
 quick brown
 brown fox jumps
 
@@ -1259,7 +1242,6 @@ palavra é um vetor de seis dimensões. Cachorro é representado como [10 0 0 0 
 que a palavra
 "cachorro" é mapeada para ID 1. Morde é representado como [0 1 0 0 0 0] e assim
 por diante. Desta
-
 fomra, Dl é representado como [[100000] [010000] [001000]]. D4 é representado
 como [[0
 
@@ -1302,7 +1284,6 @@ representação esparsa em que a maioria das entradas nos vetores são zeros, to
 computacionalmente ineficiente para armazenar, computar e aprender.
 
 * Esta representação não fornece uma representação de comprimento fixo para o texto, ou
-
 seja, se um texto contém 10 palavras, você obtém uma representação mais longa do que
 um
 texto com 5 palavras. Para boa parte dos algoritmos de aprendizagem, precisamos que os
@@ -1618,8 +1599,6 @@ computar
 palavras em representação vetorial. O objetivo era criar modelos com redes neurais que
 fossem
 treinados mais rapidamente e tivessem melhor acurácia em tarefas de processamento da linguagem
-
-
 natural. Essa pesquisa enfatizou que word embeddings são capazes de extrair
 conhecimento
 semântico indo além da ideia de alguns outros pesquisadores que limitavam a análise na
@@ -1691,8 +1670,6 @@ Continuous Bag-of-Words (CBOW)
 CBOW é uma rede neural que prediz a palavra dado um contexto, sendo o contexto
 interpretado
 como uma sentença. A rede neural proposta considera um conjunto de palavras e procura predizer
-
-
 a probabilidade de uma próxima palavra ocorrer em determinada sentença. O resultado
 calculado
 na saída da projeção é a média de todos os vetores presentes no contexto da camada
@@ -1702,7 +1679,6 @@ Este modelo pode prever tanto palavras prévias como posteriores em um contexto.
 Target Word
 
 I anguage
-
 natural processmg
 
 
@@ -1730,11 +1706,9 @@ Target Word
 
 
 Predict
-
 jump
 
 Puredict
-
 the quick brown fox over the lazy
 dog
 
@@ -1895,13 +1869,10 @@ Reduzir as
 
 Normalização
 dos dados
-
 matriz de
 covariância
-
 autovetores e
 autovalores
-
 dimensões do
 conjunto de
 dados
@@ -2092,8 +2063,6 @@ a tarefa
 não está bem definida. Dado o grande volume de documentos, passar por cada
 um deles
 manualmente não é uma opção. Uma forma de abordar o problema é trazer à tona algumas palavras
-
-
 que melhor descrevem o corpus, como as palavras mais comuns no corpus. Isso é chamado
 de
 nuvem de palavras. A chave para uma boa nuvem de palavras é remover as palavras
@@ -2207,7 +2176,6 @@ documentos, Dl a D5, e cada documento consiste em uma única frase:
 Aprender um modelo de tópico nesta coleção usando LDA pode produzir uma saída como esta:
 
 a) Tópico A: 30% brócolis, 15% bananas, 10% café da manhã, 10% mastigando
-
 b) Tópico B: 20% cachorros, 20% gatinhos, 20% fofos, 15% hamster
 
 * Documento 1 e 2: 100% Tópico A
@@ -2433,7 +2401,6 @@ fantastic!
 POSITIVE
 
 The product is
-
 oklguess Yoursupportteam is
 useless
 
@@ -2554,8 +2521,6 @@ Polaridade
 Um exemplo de frase objetiva é " O iPhone é um smartphone , enquanto um exemplo de
 frase
 subjetiva é "O iPhone é incrível A classificação de polaridade é a tarefa que distingue sentenças
-
-
 que expressam polaridades positivas, negativas ou neutras. Observe que uma frase
 subjetiva pode
 não expressar nenhum sentimento positivo ou negativo (por exemplo, "Acho que ele
@@ -2841,7 +2806,6 @@ correspondentes.
 
 
 Manhattan Distance
-
 r /—I
 
 Similaridade do cosseno - A similaridade de cosseno é uma medida de similaridade entre
@@ -3422,7 +3386,6 @@ b) Usando KNN para procurar os vizinhos mais próximos e agrupá-los em conjunto
 semelhantes.
 
 c) Usando dados não estruturados para facilitar a transferência deles entre os algoritmos
-
 d) Usando dados abertos pois o cidadão pode contribuir com a redução de dimensionalidade
 dos dados garantindo sua qualidade.
 
@@ -3459,13 +3422,9 @@ Qual o termo abaixo pode ser definido como uma coleção de documentos associado
 contexto específico:
 
 a) Tokens
-
 b) Tópicos
-
 c) Corpora
-
 d) Corpus
-
 e) Biblioteca
 Comentário:
 
@@ -3473,14 +3432,12 @@ Comentário:
 v 1
 
 Corpus
-
 k J
 
 Documento
 
 * Combinação
 de tópicos
-
 y
 
 Tópico
@@ -3565,7 +3522,6 @@ entidade/aspecto.
 
 b) O objetivo da análise de sentimento é definir ferramentas automáticas capazes de extrair
 informações subjetivas de textos em linguagem natural, como opiniões e sentimentos
-
 c) A análise de sentimento deve ser capaz de criar um conhecimento estruturado e acionável
 para ser usado por um sistema de apoio à decisão ou um tomador de decisão.
 
@@ -3616,14 +3572,9 @@ e técnicas de aprendizado profundo (deep learning).
 Assinale a alternativa que preenche corretamente as lacunas acima:
 
 a) Baseado em regras - inteligência artificial
-
 b) Baseado em correlação - uma abordagem geométrica
-
 c) Baseado em instinto - uma abordagem analítica baseada em dados
-
 d) Baseado em regras - uma abordagem clerical
-
-
 e) Baseado em correlação - uma abordagem matricial
 
 Comentário: Essa questão tenta deixar explícito a evolução dos modelos baseados em
@@ -3687,8 +3638,6 @@ mais claramente
 
 Perceba que encontrar valores ausentes é um benefício da exploração de dados e não da
 redução de dimensionalidade. Excluir uma coluna com vários valores ausentes pode ser
-
-
 considerado uma redução, mas simplesmente encontrar essa coluna não pode. Assim, temos
 a nossa resposta na alternativa E.
 
@@ -3828,11 +3777,9 @@ a) Descrever sistemas interativos que permitem aos usuários interagir em lingua
 b) Usar um documento como como um vetor de recursos para classificação de texto.
 
 c) Projetar um sistema de recomendação de texto
-
 d) Resumir documentos ou tweets na forma de palavras-chave com base nas distribuições
 de
 tópicos aprendidos
-
 e) Detectar tendências de mídia social ao longo de um período
 
 Comentário: A alternativa A apresenta a definição do conceito de chatbots que não tem
@@ -3849,13 +3796,9 @@ semelhanças entre documentos (por exemplo, e-mail), atos de fala (por exemplo, 
 faladas ou escritas) ou seus elementos (por exemplo, frases, palavras) é denominado:
 
 a) word embeddings
-
 b) tokenização
-
 c) semântica vetorial
-
 d) Hipótese distributiva
-
 e) semântica distributiva
 
 Comentário: O conceito descrito na questão é o de semântica distributiva. Outros
@@ -3907,13 +3850,9 @@ Item. 5. Support Vector Machine (SVM)
 Qual dos algoritmos acima são utilizados na modelagem de tópicos de forma ampla.
 
 a) 1, 2 e 3 apenas
-
 b) 1, 2, 3 e 4 apenas
-
 c) 2, 3, 4 e 5 apenas
-
 d) 1, 3 e 5 apenas
-
 e) 1, 2 e 4 apenas
 
 Comentário: A modelagem de tópicos serve para extrair tópicos de uma coleção
@@ -3942,9 +3881,7 @@ Item. 19. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 Sobre PLN, assinale a alternativa correta:
 
 a) os tokens são convertidos em números antes de serem entregues a qualquer rede neural
-
 b) o processo de conversão de uma frase ou parágrafo em tokens é referido como Stemming
-
 c) o processo de remoção de palavras como "a", "e", "até", "uma", "o" de uma frase
 é chamado
 de Lemmatização.
@@ -3957,11 +3894,9 @@ Comentário: Vamos analisar cada uma das alternativas:
 
 a) (Certo) Todas as palavras são convertidas em um número antes de alimentar uma
 rede
-
 neural.
 
 b) (Errado) A declaração descreve o processo de tokenização
-
 c) (Errado) O nome do processo de remoção de palavras irrelevantes é chamado de
 remoção
 de stop words.
@@ -3974,7 +3909,6 @@ palavra
 aparece no corpus.
 
 e) (Errado) As palavras representadas como vetores são chamadas de embeddings de palavras
-
 neurais.
 
 Gabarito: A
@@ -3984,13 +3918,9 @@ Item. 20. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 Qual das seguintes não é uma técnica de pré-processamento em PLN:
 
 a) Derivação e lematização
-
 b) Conversão para minúsculas
-
 c) Remoção de pontuações
-
 d) Remoção de stopwords
-
 e) Análise de sentimento
 
 Comentário: A análise de sentimento não é uma técnica de pré-processamento. Esse tipo
@@ -4114,7 +4044,6 @@ log 2 '
 
 
 ii
-
 log 2
 
 
@@ -4176,7 +4105,6 @@ b) Usando KNN para procurar os vizinhos mais próximos e agrupá-los em conjunto
 semelhantes.
 
 c) Usando dados não estruturados para facilitar a transferência deles entre os algoritmos
-
 d) Usando dados abertos pois o cidadão pode contribuir com a redução de dimensionalidade
 dos dados garantindo sua qualidade.
 
@@ -4190,13 +4118,9 @@ contexto específico:
 
 
 a) Tokens
-
 b) Tópicos
-
 c) Corpora
-
 d) Corpus
-
 e) Biblioteca
 
 Item. 9. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
@@ -4227,7 +4151,6 @@ entidade/aspecto.
 
 b) O objetivo da análise de sentimento é definir ferramentas automáticas capazes de extrair
 informações subjetivas de textos em linguagem natural, como opiniões e sentimentos
-
 c) A análise de sentimento deve ser capaz de criar um conhecimento estruturado e acionável
 para ser usado por um sistema de apoio à decisão ou um tomador de decisão.
 
@@ -4245,8 +4168,6 @@ computação
 e o aumento da disponibilidade de dados, a forma como a linguagem natural está
 sendo
 processada mudou. Anteriormente, um sistema tradicional era
-
-
 usado para cálculos. Hoje, cálculos em linguagem natural são
 feitos usando
 e técnicas de aprendizado profundo (deep learning).
@@ -4254,13 +4175,9 @@ e técnicas de aprendizado profundo (deep learning).
 Assinale a alternativa que preenche corretamente as lacunas acima:
 
 a) Baseado em regras - inteligência artificial
-
 b) Baseado em correlação - uma abordagem geométrica
-
 c) Baseado em instinto - uma abordagem analítica baseada em dados
-
 d) Baseado em regras - uma abordagem clerical
-
 e) Baseado em correlação - uma abordagem matricial
 
 Item. 12. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
@@ -4354,11 +4271,9 @@ a) Descrever sistemas interativos que permitem aos usuários interagir em lingua
 b) Usar um documento como como um vetor de recursos para classificação de texto.
 
 c) Projetar um sistema de recomendação de texto
-
 d) Resumir documentos ou tweets na forma de palavras-chave com base nas distribuições
 de
 tópicos aprendidos
-
 e) Detectar tendências de mídia social ao longo de um período
 
 Item. 17. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
@@ -4369,13 +4284,9 @@ semelhanças entre documentos (por exemplo, e-mail), atos de fala (por exemplo, 
 faladas ou escritas) ou seus elementos (por exemplo, frases, palavras) é denominado:
 
 a) word embeddings
-
 b) tokenização
-
 c) semântica vetorial
-
 d) Hipótese distributiva
-
 e) semântica distributiva
 
 
@@ -4396,13 +4307,9 @@ Item. 5. Support Vector Machine (SVM)
 Qual dos algoritmos acima são utilizados na modelagem de tópicos de forma ampla.
 
 a) 1, 2 e 3 apenas
-
 b) 1, 2, 3 e 4 apenas
-
 c) 2, 3, 4 e 5 apenas
-
 d) 1, 3 e 5 apenas
-
 e) 1, 2 e 4 apenas
 
 Item. 19. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
@@ -4410,9 +4317,7 @@ Item. 19. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 Sobre PLN, assinale a alternativa correta:
 
 a) os tokens são convertidos em números antes de serem entregues a qualquer rede neural
-
 b) o processo de conversão de uma frase ou parágrafo em tokens é referido como Stemming
-
 c) o processo de remoção de palavras como "a", "e", "até", "uma", "o" de uma frase
 é chamado
 de Lemmatização.
@@ -4426,13 +4331,9 @@ Item. 20. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 Qual das seguintes não é uma técnica de pré-processamento em PLN:
 
 a) Derivação e lematização
-
 b) Conversão para minúsculas
-
 c) Remoção de pontuações
-
 d) Remoção de stopwords
-
 e) Análise de sentimento
 
 

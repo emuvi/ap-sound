@@ -54,10 +54,7 @@ Calma jovem, lembre-se que estamos contextualizando. Como assim, professor? O Ja
 foi
 criado pela Netscape em parceria com a Sun Microsystems, com a finalidade de fornecer
 um
-
 x
-
-
 y 79
 
 /
@@ -198,8 +195,6 @@ Meteor,
 Electron, etc;
 
 x
-
-
 y 79
 
 /
@@ -315,8 +310,6 @@ técnica permite linkar o script a várias páginas do site, facilitando a manut
 Inserir script inline é uma prática que pertence ao passado e deve ser
 evitada pelo
 desenvolvedor comprometido com os Padrões Web. Ao escrevermos scripts dentro da marcação
-
-
 y 79
 
 /
@@ -358,7 +351,6 @@ Comentários de múltiplas linhas:
 /*
 
 O código abaixo modificará
-
 o cabeçalho com id = "meuHeader"
 
 e o parágrafo com id = "meuParagrafo"
@@ -535,8 +527,6 @@ elemento,
 podemos alterar sua opacidade.
 
 x
-
-
 y 79
 
 /
@@ -679,7 +669,6 @@ index = o;
 array = [o,i,i,2,3,5]
 
 if(o % 2 == o){ Zero dividido por 2 = o
-
 txt += 0 Temos a string txt concatenada com 0
 
 
@@ -732,8 +721,6 @@ então 0 correto é:
 (Letra C).
 
 x
-
-
 y 79
 
 /
@@ -841,11 +828,8 @@ quando o ponteiro do mouse sairdessa região. Os eventos que compreendem carrega
 janela e alteração em um campo são representados respectivamente pelos comandos:
 
 a) onload e onclick
-
 b) onload e onchange
-
 c) onchange e onreload
-
 d) onclick e onexchange
 
 Comentários:
@@ -863,8 +847,6 @@ Indica um clique em algum objeto.
 Indica alteração em um campo de um objeto.
 
 x
-
-
 y 79
 
 /
@@ -942,11 +924,8 @@ Javascript para trocar a palavra "usuário" pelo conteúdo da variável é:
 a) document.getElementByld(cliente).innerHTML - "meuNome"
 
 b) document.getElement("cliente").innerHTML = meuNome
-
 c) document.getElementByName(cliente).innerHTML = meuNome
-
 d) document.getElementByld("cliente").innerHTML = meuNome
-
 e) document.getElementByld(meuNome).innerHTML = "cliente"
 
 Comentários:
@@ -969,23 +948,19 @@ a) grades fixas e dimensionadas em unidades absolutas, imagens dimensionadas em 
 absolutas e posicionadas de modo fluido, e JavaScript para alterar as regras de estilo
 com base
 na resolução de tela
-
 b) grades fluidas e dimensionadas em unidades absolutas, imagens flexíveis
 limitadas por
 elementos de contenção e posicionadas em unidades absolutas, e JavaScript para alterar
 as
 regras de estilo com base na resolução de tela
-
 c) grades fluidas e proporcionais, imagens flexíveis limitadas por elementos de
 contenção e
 dimensionadas em unidades relativas, e media queries para alterar as regras de estilo
 com base
 na resolução de tela
-
 d) grades fixas e proporcionais, imagens fixas e dimensionadas por
 Javascript, e media
 queries para alterar as regras de estilo com base na resolução de tela
-
 e) grades fluidas, imagens flexíveis limitadas por elementos de contenção, e JavaScript
 para
 posicionar todo o conteúdo de acordo com a resolução de tela.
@@ -1191,11 +1166,8 @@ docum ent .wrrte("<b r>");
 O resultado da execução desse script é:
 
 a) Criciúma, Curitiba
-
 b) Criciúma, Curitiba
-
 c) São Paulo Criciúma Curitiba Itajaí Rio do Sul Erechim
-
 d) Criciúma Curitiba
 
 Comentários:
@@ -1273,13 +1245,11 @@ e) document.getElementByld("form").tamanho.value.
 Comentários:
 
 Para obtermos uma instância de um objeto a partir de seu id, utilizamos o método
-
 document. getElementByld("id")
 
 e, para acessar seu valor, utilizamos o atributo value. Logo, para acessarmos o valor
 do campo
 TAMANHO utilizamos
-
 document.getElementByld("tamanho").value;.
 
 Gabarito: Letra C
@@ -1396,13 +1366,9 @@ que será
 exibido na tela?
 
 a) Dois,Tres,Dez
-
 b) Quatro,Dez,Dois,Tres
-
 c) Dois,Tres,Dez,Um
-
 d) Dez,Dois,Tres
-
 e) Um,Dois,Tres,Dez,Dez
 
 Comentários:
@@ -1847,8 +1813,6 @@ respectivos
 resultados (5,2, 52) em formato de tabela.
 
 x
-
-
 y 79
 
 /
@@ -2042,7 +2006,6 @@ PROPRIEDADES DESCRIÇÃO
 
 onmouseover
 onmousedown
-
 onmouseup
 onmousemove
 onmouseout
@@ -2236,8 +2199,6 @@ positiva ou negativa
 Gabarito: Letra E
 
 x
-
-
 y 79
 
 /
@@ -2252,7 +2213,6 @@ b) Left.
 c) Open.
 
 d) Forward
-
 e) Hostname
 
 Comentários:
@@ -2344,11 +2304,8 @@ y 79
 
 
 a) onload e onclick
-
 b) onload e onchange
-
 c) onchange e onreload
-
 d) onclick e onexchange
 
 Item. 6. (FGV / IBGE - 2016) Uma página contém o seguinte código JavaScript:
@@ -2396,11 +2353,8 @@ Javascript para trocar a palavra "usuário" pelo conteúdo da variável é:
 a) document.getElementByld(cliente).innerHTML = "meuNome"
 
 b) document.getElement("cliente").innerHTML = meuNome
-
 c) document.getElementByName(cliente).innerHTML = meuNome
-
 d) document.getElementByld("cliente").innerHTML - meuNome
-
 e) document.getElementByld(meuNome).innerHTML = "cliente"
 
 Item. 8. (FGV / IBGE - 2016) Para a produção de um website responsivo com grande quantidade de
@@ -2416,23 +2370,19 @@ a) grades fixas e dimensionadas em unidades absolutas, imagens dimensionadas em 
 absolutas e posicionadas de modo fluido, e JavaScript para alterar as regras de estilo
 com base
 na resolução de tela
-
 b) grades fluidas e dimensionadas em unidades absolutas, imagens flexíveis
 limitadas por
 elementos de contenção e posicionadas em unidades absolutas, e JavaScript para alterar
 as
 regras de estilo com base na resolução de tela
-
 c) grades fluidas e proporcionais, imagens flexíveis limitadas por elementos de
 contenção e
 dimensionadas em unidades relativas, e media queries para alterar as regras de estilo
 com base
 na resolução de tela
-
 d) grades fixas e proporcionais, imagens fixas e dimensionadas por
 Javascript, e media
 queries para alterar as regras de estilo com base na resolução de tela
-
 e) grades fluidas, imagens flexíveis limitadas por elementos de contenção, e JavaScript
 para
 posicionartodo o conteúdo de acordo com a resolução de tela.
@@ -2516,7 +2466,6 @@ b) Somente a afirmativa I é verdadeira.
 c) Somente as afirmativas I e III são verdadeiras.
 
 d) Somente a afirmativa III é verdadeira
-
 i2.(IESES / IFSC -2015) Uma determinada linha de código JavaScript 1.8 se lê da seguinte forma:
 
 var novoCachorro = new Cachorro();
@@ -2562,11 +2511,8 @@ docum ent wrrte("<b r>");
 O resultado da execução desse script é:
 
 a) Criciúma, Curitiba
-
 b) Criciúma, Curitiba
-
 c) São Paulo Criciúma Curitiba Itajaí Rio do Sul Erechim
-
 d) Criciúma Curitiba
 
 Item. 14. (FGV/TCE-SE-20i5) E m um programa Javascript, encontra-se o seguinte comando:
@@ -2710,13 +2656,9 @@ que será
 exibido na tela?
 
 a) Dois,Tres,Dez
-
 b) Quatro,Dez,Dois,Tres
-
 c) Dois,Tres,Dez,Um
-
 d) Dez,Dois,Tres
-
 e) Um,Dois,Tres,Dez,Dez
 
 Item. 19. (MPE-RS / MPE-RS -2015) Dado o código Javascript abaixo:
@@ -2933,7 +2875,6 @@ b) 5,4,3,2
 c) 2,2,2,2,2
 
 d) 5,3,i
-
 e) 4,3
 
 Item. 27. (CESPE / SEED-PR - 2021) JavaScript trabalha com números usando os operadores aritméticos
@@ -3073,8 +3014,6 @@ e) alert, confirm e prompt.
 linguagem de scripting ASP e applets Java para incluir aplicações, respectivamente, no lado:
 
 x
-
-
 y 79
 
 /
@@ -3111,7 +3050,6 @@ b) Left.
 c) Open.
 
 d) Forward
-
 e) Hostname
 
 
@@ -3185,7 +3123,6 @@ Professor?
 JavaScript
 
 É o mesmo
-
 que ECMAScript?
 
 ECMAScript é baseado em várias tecnologias originárias, sendo as mais conhecidas
@@ -3209,8 +3146,6 @@ Através de uma interface de usuário, a linguagem de ECMAscript consegue ser um
 mecanismo
 simples para expor funcionalidades para o ambiente de programação. Lembre-se
 que qualquer
-
-
 y 79
 
 /
@@ -3256,8 +3191,6 @@ Porém, como o
 nome JavaScript sempre foi mais famoso, continuamos chamando a linguagem assim até hoje.
 
 x
-
-
 y 79
 
 /
@@ -3349,8 +3282,6 @@ Um método de expressão regular que divide uma string nos índices que
 correspondem à expressão regular. Chamado pelo método String.prototype.split.
 
 x
-
-
 y 79
 
 /
@@ -3394,8 +3325,6 @@ Comentários: os tipos primitivos são no ECMAScript: string, number, null, unde
 symbol (Errado).
 
 x
-
-
 y 79
 
 /
@@ -4031,8 +3960,6 @@ arquivo tsconfig.json em um diretório indica que o diretório é a raiz de um p
 (Letra E).
 
 x
-
-
 y 79
 
 /
@@ -4103,13 +4030,9 @@ TypeScript script.ts,
 para exibir o valor do campo HTML input na console?
 
 a) #classe-input
-
 b) #idTexto
-
 c) #texto
-
 d) .idTexto
-
 e) .texto
 
 Comentários:
@@ -4220,8 +4143,6 @@ Gabarito: Letra E
 Item. 6. (FCC / MPE-PE - 2018) Considere o fragmento de código TypeScript abaixo.
 
 x
-
-
 y 79
 
 /
@@ -4327,13 +4248,9 @@ TypeScript script.ts,
 para exibir o valor do campo HTML input na console?
 
 a) #classe-input
-
 b) #idTexto
-
 c) #texto
-
 d) .idTexto
-
 x
 
 
@@ -4428,8 +4345,6 @@ d) Será exibido na tela o nome Ana.
 e) Ocorrerá um erro na linha que contém o comando document.body.innerHTML = nomesfi];
 
 x
-
-
 y 79
 
 /

@@ -127,8 +127,6 @@ user interface
 JavaScript call 1 I
 
 | HTML+CSS data
-
-
 user interface
 
 HTTP r cquest
@@ -148,23 +146,16 @@ V
 
 
 web server
-
 i f
 datastoces, backend
-
 processing. legacy systems
-
 classic
-
 web application model
-
 web and/or XML server
-
 datastores, backend
 proccssing, legacy systems
 
 Ajax
-
 web application model
 
 O que faz o usuário enquanto o servidor está realizando seus processamentos? Nada, só espera! E, a
@@ -640,7 +631,6 @@ dessas
 tecnologias.
 
 a) Ant
-
 b) XML
 
 c) WiMAX
@@ -891,13 +881,9 @@ III - Atecnologia AJAX utiliza código Java para a manipulação do conteúdo de
 Está correto o que se afirma em:
 
 a) I, apenas
-
 b) II, apenas
-
 c) I e II, apenas
-
 d) II e III, apenas
-
 e) I, lie III
 
 Comentários:
@@ -913,13 +899,9 @@ dinâmicas para o
 desenvolvimento de aplicações web, AJAX é um termo que descreve um(a):
 
 a) protocolo
-
 b) banco de dados
-
 c) coleção de tecnologias
-
 d) linguagem de programação
-
 e) linguagem de marcação
 
 Comentários:
@@ -959,7 +941,6 @@ ajax. setReques tHeader ("Content-type" f
 
 ,rapplication/x-www-f onn-urlencoded1') ;
 ajax. setReques tHeader ("Content-length" r
-
 message.length);
 
 aj ax.se tReque s tHeader ("Connection"f
@@ -1240,9 +1221,7 @@ a.pop();
 Qual o valor da variável a ao término da execução do código?
 
 a) [i,3,4l
-
 b) [1,3,4,5l
-
 c) [1,3]
 
 d) [3,4,5]
@@ -1561,7 +1540,6 @@ dessas
 tecnologias.
 
 a) Ant
-
 b) XML
 
 c) WiMAX
@@ -1569,7 +1547,6 @@ c) WiMAX
 d) VolP
 
 e) Jakarta
-
 n.(CESPE /TJ-RO-2012) Que conjunto de tecnologias é utilizado em aplicações WEB na
 Internet
 para propiciar forte interatividade e dinamismo?
@@ -1749,26 +1726,18 @@ III - Atecnologia AJAX utiliza código Java para a manipulação do conteúdo de
 Está correto o que se afirma em:
 
 a) I, apenas
-
 b) II, apenas
-
 c) I e II, apenas
-
 d) II e III, apenas
-
 e) I, lie III
 
 Item. 17. (CESGRANRIO / IBGE - 2014) Com o objetivo de criar páginas dinâmicas para o
 desenvolvimento de aplicações web, AJAX é um termo que descreve um(a):
 
 a) protocolo
-
 b) banco de dados
-
 c) coleção de tecnologias
-
 d) linguagem de programação
-
 e) linguagem de marcação
 
 Item. 18. (FGV/TCM-SP- 2015) Considere a requisição AJAX construída, no cliente, através da chamada
@@ -1799,7 +1768,6 @@ ajax. setReques tHeader ("Content-type" f
 
 ,rapplication/x-www-f onn-urlencoded1') ;
 ajax. setReques tHeader ("Content-length" r
-
 message.length);
 
 aj ax.se tReque s tHeader ("Connection"f
@@ -1832,8 +1800,6 @@ conteúdo de páginas HTML.
 
 Item. 22. (FUNCAB / PRODAM - 2014) A utilização de Ajax em uma página permite a recuperação de
 dados de uma URL sem a necessidade de recarregar a página inteira. O objeto JavaScript que
-
-
 foi adotado pelos principais navegadores para realizar operações Ajax é
 chamado
 XMLHttpRequest.
@@ -1966,7 +1932,6 @@ Qual o valor da variável a ao término da execução do código?
 a) [1,3,41
 
 b) [i,3,4,5l
-
 c) [1,3]
 
 d) [3,4,5]
@@ -2327,7 +2292,6 @@ retirado de uma aplicação VueJS:
 <head>
 
 <script
-
 src="https://cdn.jsdelivr.net/npm/vue/dist/vue. js"x/script>
 
 </head>
@@ -2424,9 +2388,7 @@ possíveis
 utilizada para renderizar uma lista de elementos com base nos dados de um determinado Array?
 
 a) v-for
-
 b) track-by
-
 c) concat()
 
 d) slice()
@@ -2604,7 +2566,6 @@ retirado de uma aplicação VueJS:
 <head>
 
 <script
-
 src="https://cdn.jsdelivr.net/npm/vue/dist/vue. js"x/script>
 
 </head>
@@ -2686,9 +2647,7 @@ possíveis
 utilizada para renderizar uma lista de elementos com base nos dados de um determinado Array?
 
 a) v-for
-
 b) track-by
-
 c) concat()
 
 d) slice()
@@ -2963,13 +2922,9 @@ aos
 atributos de tag HTML.
 
 a) Refs
-
 b) Props
-
 c) State
-
 d) Keys
-
 e) Elements
 
 Comentários:
@@ -3098,9 +3053,7 @@ frontend chamada React?
 
 
 a) Java
-
 b) Ruby on Rails
-
 c) CSS
 
 d) .NET
@@ -3156,8 +3109,6 @@ como blocos de construção, existindo dois tipos de dados que controlam um comp
 A partir daqui temos o seguinte: State (Estado): É o estado interno do componente. É
 definido e
 controlado pelo próprio componente e muda ao longo de sua vida e Props (Propriedades): São
-
-
 recebidas pelo componente pai, são fixas (imutáveis) por toda vida do
 componente. Na dúvida
 basta lembrar:
@@ -3287,9 +3238,7 @@ de bibliotecas utilizadas?
 a) Na pasta src.
 
 b) No arquivo .gitignore
-
 c) No arquivo package.json
-
 d) No arquivo index.
 
 e) Na pasta node_modules.
@@ -3368,13 +3317,9 @@ aos
 atributos de tag HTML.
 
 a) Refs
-
 b) Props
-
 c) State
-
 d) Keys
-
 e) Elements
 
 Item. 2. (COMPERVE / TJ-RN - 2020) O React é uma biblioteca JavaScript de
@@ -3416,9 +3361,7 @@ biblioteca de
 frontend chamada React?
 
 a) Java
-
 b) Ruby on Rails
-
 c) CSS
 
 d) .NET
@@ -3457,7 +3400,6 @@ desenvolvido
 pela equipe do Facebook, que possibilita o desenvolvimento de aplicações mobile
 utilizando
 bibliotecas JavaScript para criar interfaces de usuário. Esse framework é conhecido como
-
 a) lonic Buiider.
 
 b) Flutter Script.
@@ -3514,9 +3456,7 @@ de bibliotecas utilizadas?
 a) Na pasta src.
 
 b) No arquivo .gitignore
-
 c) No arquivo package.json
-
 d) No arquivo index.
 
 e) Na pasta node_modules.
@@ -3689,11 +3629,9 @@ um campo HTML, de tal forma que se a variável mudar, o HTML será atualizado, e
 
 Existem alguns mecanismos para fazer isso acontecer. Veja o exemplo abaixo, associando
 a variável
-
 firstname ao conteúdo que será mostrado dentro de <p> no HTML:
 
 Código Javascript
-
 var app = angular.module('myApp', []);
 app.controller('myCtrl', function($scope) {
 
@@ -4000,7 +3938,6 @@ Gabarito: Errado
 
 Item. 4. (FCC / DPE-RS - 2017) AngularJS é umframework JavaScript, também referenciado como uma
 biblioteca escrita em JavaScript. Esse framework permite o uso de
-
 a) expressões escritas dentro de uma diretiva no formato: ng-bind = "expression".
 
 b) expressões escritas dentro de colchetes duplos, no formato [[expression.]].
@@ -4076,7 +4013,6 @@ TRT
 O resultado do cálculo envolvendo as variáveis a e b é mostrado pela instrução
 <p>Total:<span ng-
 bind="a * b"x/spanx/p> . Outra forma de realizar o mesmo procedimento é usando a instrução
-
 a) <p>Total: <span ng-calc="a * b"x/spanx/p>.
 
 b) <p>Total: {{a * b }}</p>
@@ -4136,7 +4072,6 @@ IV. <p>{$nome}</p>
 Para que o que for digitado no campo nome seja exibido simultaneamente em um
 parágrafo, na
 lacuna I podem ser utilizados os comandos que constam APENAS nos itens
-
 a) III e IV.
 
 b) I e III.
@@ -4242,7 +4177,6 @@ Less - tecnologias para desenvolvimento webfront-end
 PHP - tecnologias para desenvolvimento web back-end ou server-side
 
 Gabarito: Errado
-
 io.(FGV / IBGE - 2016) Com relação ao AngularJS, analise as afirmativas a seguir:
 
 I. É capaz de estender o HTML graças às diretivas do tipo ng-init e ng-app.
@@ -4253,7 +4187,6 @@ III. Não oferece validação de forms do lado do cliente.
 
 Está correto somente o que se afirma em:
 a) l
-
 b) II
 
 c) III
@@ -4386,7 +4319,6 @@ uma ação
 relacionada à seleção de um elemento HTML por meio do uso de um mouse.
 
 Gabarito: Correto
-
 i4-(FGV / IBGE - 2016) Mantido pelo Google, o AngularJS é um framework popular usado para:
 
 a) ampliar as funções do CSS, estendendo a biblioteca da linguagem com novos comandos
@@ -4430,13 +4362,9 @@ texto, a um
 elemento do modelo, como uma variável do tipo string?
 
 a) ngView
-
 b) ngValue
-
 c) ngBind
-
 d) ngModel
-
 e) ngLink
 
 Comentários:
@@ -4537,7 +4465,6 @@ produzirá, como resultado, Resultado: 17
 
 Item. 4. (FCC / DPE-RS - 2017) AngularJS é umframework JavaScript, também referenciado como uma
 biblioteca escrita em JavaScript. Esse framework permite o uso de
-
 a) expressões escritas dentro de uma diretiva no formato: ng-bind - "expression".
 
 b) expressões escritas dentro de colchetes duplos, no formato [[expression.]].
@@ -4593,7 +4520,6 @@ TRT
 O resultado do cálculo envolvendo as variáveis a e b é mostrado pela instrução
 <p>Total:<span ng-
 bind="a * b"x/spanx/p> . Outra forma de realizar o mesmo procedimento é usando a instrução
-
 a) <p>Total: <span ng-calc="a * b"x/spanx/p>.
 
 b) <p>Total: {{a * b }}</p>
@@ -4644,7 +4570,6 @@ IV. <p>{$nome}</p>
 Para que o que for digitado no campo nome seja exibido simultaneamente em um
 parágrafo, na
 lacuna I podem ser utilizados os comandos que constam APENAS nos itens
-
 a) III e IV.
 
 b) I e III.
@@ -4691,7 +4616,6 @@ III. Não oferece validação de forms do lado do cliente.
 
 Está correto somente o que se afirma em:
 a) l
-
 b) II
 
 c) III
@@ -4772,13 +4696,9 @@ texto, a um
 elemento do modelo, como uma variável do tipo string?
 
 a) ngView
-
 b) ngValue
-
 c) ngBind
-
 d) ngModel
-
 e) ngLink
 
 Item. 16. (CESPE / STJ - 2015) O atributo ngBind informa ao AngularJS para atualizar o
@@ -5824,7 +5744,6 @@ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2
 QUESTõES CoMENTADAS - PWA
 
 í. (CESPE / DPE-RO - 2022) Uma das vantagens do PWA em relação a outros front-ends é
-
 a) a utilização de NFC.
 
 b) a disponibilidade em lojas de aplicativos.
@@ -5912,7 +5831,6 @@ instalações
 e, conforme o usuário desenvolve uma relação com o aplicativo, ele se torna cada vez
 mais
 eficaz. Um progressive web app caracteriza-se por ser
-
 a) descobrível, nativo e independente de conectividade.
 
 b) progressivo, nativo e semelhante a aplicativos.
@@ -6018,7 +5936,6 @@ público a baixar um app ou realizarqualquertipo de cadastro.
 
 
 Gabarito: Correto
-
 io.(QUESTÃO INÉDITA) Os PWAs podem ser adicionados às homes dos smartphones,
 dispensando a necessidade de abrir o navegador e digitar uma URL.
 
@@ -6039,7 +5956,6 @@ Gabarito: Correto
 LISTA DE QUESTõES - PWA
 
 í. (CESPE / DPE-RO - 2022) Uma das vantagens do PWA em relação a outros front-ends é
-
 a) a utilização de NFC.
 
 b) a disponibilidade em lojas de aplicativos.
@@ -6075,7 +5991,6 @@ instalações
 e, conforme o usuário desenvolve uma relação com o aplicativo, ele se torna cada vez
 mais
 eficaz. Um progressive web app caracteriza-se por ser
-
 a) descobrível, nativo e independente de conectividade.
 
 b) progressivo, nativo e semelhante a aplicativos.

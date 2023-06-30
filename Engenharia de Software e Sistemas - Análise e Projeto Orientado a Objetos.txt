@@ -384,8 +384,6 @@ operações realizadas para alcançar o resultado requerido é determinada pelo 
 Em suma, trata-se de um ciclo completo onde uma mensagem é enviada a um objeto,
 operações
 são executadas dentro desse objeto e uma mensagem contendo o resultado da operação é enviada
-
-
 ao objeto solicitante. Em nosso paradigma, objetos vivem dando ordens para outros
 objetos
 executarem métodos (ou realizarem serviços). O bacana disso tudo é que objetos em
@@ -434,7 +432,6 @@ S
 
 
 mal
-
 la 1 (S)
 xo I
 
@@ -762,8 +759,6 @@ acordo com os
 argumentos passados. Professor, o que você quer dizer com parâmetros diferentes? Pode
 ser uma
 diferença na quantidade, tipo ou ordem dos parâmetros. O segundo é também conhecido como
-
-
 polimorfismo por sobrescrita, polimorfismo por inclusão, polimorfismo por herança,
 polimorfismo
 porsubtipo, redefinição ou overriding.
@@ -1654,7 +1649,6 @@ Em geral, são mais rápidas que interfaces.
 ENCAPSULAMENTO
 
 Trata-se de uma forma de restringir o acesso ao comportamento interno de u
-
 objeto de modo a evitar que eles sofram acessos indevidos. A ideia é tornar o
 software mais flexível, fácil de modificar e de criar novas implementações.
 
@@ -1974,13 +1968,11 @@ o acesso ao
 comportamento interno de um objeto
 
 Gabarito: Errado
-
 io.(CESPE/TCE-MG -2018) Em uma programação orientada a objetos, atécnica de
 programação
 que mantém ocultos detalhes internos do funcionamento dos métodos de uma
 classe é
 denominada
-
 a) encapsulamento.
 
 b) polimorfismo.
@@ -2056,7 +2048,6 @@ acesso não sejam definidos como público.
 
 
 Gabarito: Correto
-
 i5.(CESPE / STM- 2018) O tipo de herança mais eficiente e indicado é a
 herança de
 implementação, pois possibilita que uma nova classe reutilize a implementação de outra
@@ -2076,7 +2067,6 @@ faz uma
 herança de interface. Por fim, é mais indicado o uso da herança de interface.
 
 Gabarito: Errado
-
 i6.(CESPE / STM - 2018) O encapsulamento permite que um programa seja dividido em
 várias
 partes menores; contudo, as partes tornam-se dependentes umas das outras em
@@ -2092,7 +2082,6 @@ operações
 independentemente.
 
 Gabarito: Errado
-
 i7.(CESPE/STM-20i8) E m orientação a objetos, os membros de dados de uma classe devem
 ser
 acessados por um método específico do objeto, e não diretamente.
@@ -2106,7 +2095,6 @@ dados de um
 objeto, impedindo o acesso direto a esses dados.
 
 Gabarito: Correto
-
 i8.(CESPE / SEDF - 2017) Um objeto define atributos, comportamentos e
 abstrações comuns
 compartilhados por um tipo de classe.
@@ -2119,7 +2107,6 @@ compartilhados
 por um tipo de objeto.
 
 Gabarito: Errado
-
 ig.(CESPE/TRE-BA-2Oi7) Na orientação a objetos, o conceito de polimorfismo é
 implementado,
 em algumas linguagens, por meio da técnica de sobrecarga de métodos. Sobre a aplicação
@@ -2172,8 +2159,6 @@ Gabarito: Letra A
 
 2o.(CESPE/TRE-BA-2oi7) A partir de uma classe derivada de uma superclasse, podem-se invocar
 métodos que tenham a mesma assinatura, mas comportamentos distintos, ou seja, em que haja
-
-
 alteração do funcionamento interno de um método herdado de um objeto pai. Na
 orientação a
 objetos, isso é possível por meio de:
@@ -3019,8 +3004,6 @@ abstração
 que pode ser mapeada para mais de uma classe no projeto. As classes na análise podem
 ser
 fronteiras, controladoras ou entidades. Uma fronteira modela interações entre o sistema e
-
-
 atores, uma entidade modela apenas objetos persistentes e uma controladora só pode
 controlar
 interações entre instâncias de uma mesma classe.
@@ -3163,7 +3146,6 @@ dessa equipe.
 Na modelagem Orientação a Objetos com UML, essas situações são
 reconhecidas,
 respectivamente, como
-
 a) composição e associação todo-parte.
 
 b) composição e dependência funcional.
@@ -3388,7 +3370,6 @@ que moldam seu
 comportamentoIV são V dessa estrutura e só existem em tempo de execução.
 
 Para completar corretamente o texto as lacunas devem ser preenchidas, respectivamente, por
-
 a) objeto, métodos, assinaturas, Classes, cópias.
 
 b) polimorfismo, funções, métodos, Herança, cópias.
@@ -3731,7 +3712,6 @@ d) o conceito de herança estabelece que uma classe possa aproveitar a
 implementação,
 
 definições dos atributos e métodos de uma classe-base. A classe-filha pode ter acesso aos
-
 métodos e atributos públicos e protegidos da classe-base. O polimorfismo é aplicado ao
 caso
 em que existe a necessidade de implementar métodos sobrecarregados, nos quais a
@@ -4314,8 +4294,6 @@ Gabarito: Letra D
 
 36.(FCC/ DPE-SP - 2010) A cidade de São Paulo, que possuía uma população de 10.000.000 de
 habitantes, teve um aumento de mais 2.000.000 de novos habitantes. Na associação da frase
-
-
 acima aos conceitos da modelagem orientada a objeto, é correto afirmar que
 São Paulo,
 população e aumento, referem-se, respectivamente, a:
@@ -4393,7 +4371,6 @@ especializados para
 cada classe derivada.
 
 É correto o que se afirma em
-
 a) I, II, III, apenas.
 
 b) I, II e IV, apenas.
@@ -5095,8 +5072,6 @@ Gabarito: Letra E
 Item. 3. (FGV / TCE-TO - 2022) O sistema de controle automotivo SisAut foi modelado
 orientado a
 objetos. O SisAut possui a classe Veículo, que compartilha seu código-fonte com suas
-
-
 subclasses: Carro e Moto. As subclasses Carro e Moto aproveitam os métodos e atributos
 da
 classe Veículo.
@@ -5413,7 +5388,6 @@ b) independência.
 c) modularidade.
 
 d) polimorfismo
-
 e) herança.
 
 Comentários:
@@ -5446,7 +5420,6 @@ das
 classes derivadas.
 
 Os princípios caracterizados em I e II são respectivamente denominados
-
 a) encapsulamento e coesão.
 
 b) acoplamento e coesão.
@@ -5474,11 +5447,8 @@ básico
 das linguagens orientadas a objetos.
 
 a) interface
-
 b) herança
-
 c) encapsulamento
-
 d) subprogramação
 
 Comentários:
@@ -5499,11 +5469,8 @@ objeto
 pai. Assinale a alternativa correta que apresenta este conceito.
 
 a) Polimorfismo
-
 b) Pai e filho
-
 c) Encapsulamento
-
 d) Abstração
 
 Comentários:
@@ -6500,7 +6467,6 @@ Gabarito: Letra B
 43.(CS-UFG/ Câmara de Goiânia - GO- 2018) Polimorfismo é um conceito
 usado em
 programação orientada a objetos, e envolve a seleção dinâmica baseada
-
 a) no objeto referenciado em vez do tipo da referência ao objeto, quando há a
 sobrescrita
 (overriding) de métodos.
@@ -6535,13 +6501,9 @@ diminuindo o
 acoplamento entre objetos?
 
 a) Encapsulamento
-
 b) Especialização
-
 c) Herança
-
 d) Padrões de projeto
-
 e) Polimorfismo
 
 Comentários:
@@ -6602,13 +6564,9 @@ várias
 operações diferentes tenham o mesmo nome.
 
 a) Encapsulamento
-
 b) Agregação
-
 c) Acoplamento
-
 d) Polimorfismo
-
 e) Coesão
 
 Comentários:
@@ -6630,14 +6588,9 @@ conteúdo e
 comportamento de alguma entidade do mundo real.
 
 a) herança
-
 b) polimorfismo
-
-
 c) classe
-
 d) método
-
 e) mensagem
 
 Comentários:
@@ -6699,13 +6652,9 @@ caracterizada
 por:
 
 a) uma anomalia
-
 b) um polimorfismo
-
 c) uma herança
-
 d) uma instância da classe
-
 e) uma anomalia de instância
 
 Comentários:
@@ -6803,7 +6752,6 @@ Gabarito: Letra D
 Item. 53. (CS-UFG / SANEAGO - GO - 2018) Em programação orientada a objetos, o uso de
 composição
 ao invés de herança é preferível porque
-
 a) facilita o emprego de estruturas de decisão e controle.
 
 b) reduz o acoplamento.
@@ -6915,11 +6863,8 @@ maisrepresentem o
 comportamento das classesque referenciam:
 
 a) polimorfismo - abstratas - concretas
-
 b) encapsulamento - abstratas - concretas
-
 c) encapsulamento - concretas - abstratas
-
 d) polimorfismo - concretas - abstratas
 
 Comentários:
@@ -7020,13 +6965,9 @@ a alternativa que complete correta e respectivamente as lacunas da frase abaixo:
 "A classe abstrata é sempre um(a)que não possui"
 
 a) método - instâncias
-
 b) ator/atriz - atributos
-
 c) superclasse - instâncias
-
 d) superclasse - atores/atrizes
-
 e) método - atributos.
 
 Comentários:
@@ -7043,13 +6984,9 @@ mesma superclasse podem invocar métodos que têm a mesma identificação (assin
 comportamentos distintos, especializados para cada classe:
 
 a) abstração
-
 b) herança
-
 c) interface
-
 d) mensagem
-
 e) polimorfismo
 
 Comentários:
@@ -7074,15 +7011,10 @@ pela
 classe, mas, ao serem executadas, as operações atuam individualmente sobre cada instância.
 
 Na nomenclatura 00, instâncias e operações são conhecidas, respectivamente, como
-
 a) Métodos e Funções
-
 b) Objetos e Heranças
-
 c) Objetos e Métodos
-
 d) Tipos e Objetos
-
 e) Tipos e Heranças
 
 Comentários:
@@ -7100,11 +7032,8 @@ representa o mecanismo pelo qual uma classe (sub-classe) pode estender outra cla
 classe), aproveitando seus comportamentos (métodos) e variáveis possíveis (atributos):
 
 a) herança
-
 b) encapsulamento
-
 c) mensagem
-
 d) polimorfismo.
 
 Comentários:
@@ -7122,8 +7051,6 @@ são
 especializações de Motor. Motor e Gerador são especializações de Máquina. Todas as
 classes
 respondem a uma mensagem chamada "calcularPotencia", sem argumentos, que calcula e
-
-
 retorna um número real que indica potência do objeto, em watts, de acordo com os
 valores de
 alguns atributos, com um algoritmo diferente em cada classe. O exemplo acima
@@ -7132,13 +7059,9 @@ capacidade de enviar a mesma mensagem para vários objetos e que cada objeto res
 mensagem de acordo com sua classe. Tal característica é conhecida como:
 
 a) Polimorfismo
-
 b) Refatoração
-
 c) Herança Múltipla
-
 d) Independência de Dados
-
 e) Tratamento de Exceção
 
 Comentários:
@@ -7192,13 +7115,9 @@ Esses conceitos correspondem, respectivamente, ao que se conhece pelos nomes de:
 
 
 a) I - Tipo; II - Classe
-
 b) I - Tipo; II - Construtor
-
 c) I - Classe; II - Tipo
-
 d) I - Classe; II - Objeto
-
 e) I - Classe; II - Metaclasse
 
 Comentários:
@@ -7236,7 +7155,6 @@ agregados
 a um só objeto, que podem ser visíveis ou invisíveis, é denominado de:
 
 a) Evento
-
 b) Subclasse.
 
 c) Estado.
@@ -7338,13 +7256,9 @@ apresenta o
 nome deste mecanismo.
 
 a) Mensagem
-
 b) Herança
-
 c) Polimorfismo
-
 d) Encapsulamento
-
 e) Subclasse
 
 Comentários:
@@ -7572,7 +7486,6 @@ programação
 que mantém ocultos detalhes internos do funcionamento dos métodos de uma
 classe é
 denominada
-
 a) encapsulamento.
 
 b) polimorfismo.
@@ -7830,8 +7743,6 @@ por
 meio de mensagens. Por exemplo, quando o objeto A deseja que o objeto B execute um
 de seus
 métodos, envia a este uma mensagem. Algumas vezes, o objeto receptor precisa de mais
-
-
 informação para que saiba exatamente o que deve fazer, de modo que essa informação
 seja
 transmitida juntamente com a mensagem por meio de parâmetros.
@@ -8134,7 +8045,6 @@ dessa equipe.
 Na modelagem Orientação a Objetos com UML, essas situações são
 reconhecidas,
 respectivamente, como
-
 a) composição e associação todo-parte.
 
 b) composição e dependência funcional.
@@ -8176,8 +8086,6 @@ Física e uma classe Pessoa Jurídica possuem o atributo nome como uma informaç
 comum
 e que o CPF é um atributo específico para a Pessoa Física e o CNPJ é um atributo específico para
 Pessoa Jurídica. Então o Analista criou uma outra classe com o atributo nome e seu objetivo é
-
-
 que haja herança deste e, eventualmente, outros métodos e atributos, para as classes
 filhas,
 Pessoa Física e Pessoa Jurídica, que já existiam.
@@ -8273,7 +8181,6 @@ que moldam seu
 comportamentoIV são V dessa estrutura e só existem em tempo de execução.
 
 Para completar corretamente o texto as lacunas devem ser preenchidas, respectivamente, por
-
 a) objeto, métodos, assinaturas, Classes, cópias.
 
 b) polimorfismo, funções, métodos, Herança, cópias.
@@ -8727,7 +8634,6 @@ também o serão.
 
 c) Interfaces são como as classes abstratas, mas nelas não é possível implementar nenhum
 método, apenas declarar suas assinaturas; uma classe ao implementar uma interface deverá
-
 escrever todos os seus métodos.
 
 d) No contexto da herança, uma instância da subclasse é, também, uma
@@ -8931,7 +8837,6 @@ especializados para
 cada classe derivada.
 
 É correto o que se afirma em
-
 a) I, II, III, apenas.
 
 b) I, II e IV, apenas.
@@ -9528,8 +9433,6 @@ levantamento de
 requisitos por meio da prototipação. Sua intenção com esse protótipo é proporcionar uma
 visão
 geral do sistema com todas as suas funcionalidades, sem entrar em detalhes específicos de cada
-
-
 funcionalidade, deforma que a interface como um todo possa ser criticada pelos
 usuários. Nesse
 caso, o tipo de protótipo mais adequado é o (a):
@@ -9671,7 +9574,6 @@ das
 classes derivadas.
 
 Os princípios caracterizados em I e II são respectivamente denominados
-
 a) encapsulamento e coesão.
 
 b) acoplamento e coesão.
@@ -9687,11 +9589,8 @@ básico
 das linguagens orientadas a objetos.
 
 a) interface
-
 b) herança
-
 c) encapsulamento
-
 d) subprogramação
 
 Item. 3. (IBFC / Prefeitura de Cruzeiro do Sul - AC - 2019) Um dos conceitos do
@@ -9701,11 +9600,8 @@ objeto
 pai. Assinale a alternativa correta que apresenta este conceito.
 
 a) Polimorfismo
-
 b) Pai e filho
-
 c) Encapsulamento
-
 d) Abstração
 
 
@@ -10279,7 +10175,6 @@ d) métodos abstratos são aqueles cujo código invoca métodos ainda não imple
 43.(CS-UFG/ Câmara de Goiânia - GO- 2018) Polimorfismo é um conceito
 usado em
 programação orientada a objetos, e envolve a seleção dinâmica baseada
-
 a) no objeto referenciado em vez do tipo da referência ao objeto, quando há a
 sobrescrita
 (overriding) de métodos.
@@ -10304,13 +10199,9 @@ acoplamento entre objetos?
 
 
 a) Encapsulamento
-
 b) Especialização
-
 c) Herança
-
 d) Padrões de projeto
-
 e) Polimorfismo
 
 45.(FAURGS/TJ-RS-2018) Considere as seguintes afirmações sobre herança.
@@ -10351,13 +10242,9 @@ várias
 operações diferentes tenham o mesmo nome.
 
 a) Encapsulamento
-
 b) Agregação
-
 c) Acoplamento
-
 d) Polimorfismo
-
 e) Coesão
 
 Item. 47. (FAURGS / TJ-RS-2018) No contexto da orientação a objetos,é um
@@ -10367,14 +10254,9 @@ conteúdo e
 comportamento de alguma entidade do mundo real.
 
 a) herança
-
-
 b) polimorfismo
-
 c) classe
-
 d) método
-
 e) mensagem
 
 48.(FAURGS / BANRISUL - 2018) Considere as seguintes afirmações sobre alguns fundamentos
@@ -10415,13 +10297,9 @@ caracterizada
 por:
 
 a) uma anomalia
-
 b) um polimorfismo
-
 c) uma herança
-
 d) uma instância da classe
-
 e) uma anomalia de instância
 
 Item. 50. (CEPS-UFPA/ UFPA-2018) Em relação ao paradigma orientado a objetos, é CORRETO
@@ -10482,7 +10360,6 @@ d) o atributo é acessível somente aos métodos da classe.
 Item. 53. (CS-UFG / SANEAGO - GO - 2018) Em programação orientada a objetos, o uso de
 composição
 ao invés de herança é preferível porque
-
 a) facilita o emprego de estruturas de decisão e controle.
 
 b) reduz o acoplamento.
@@ -10545,11 +10422,8 @@ maisrepresentem o
 comportamento das classesque referenciam:
 
 a) polimorfismo - abstratas - concretas
-
 b) encapsulamento - abstratas - concretas
-
 c) encapsulamento - concretas - abstratas
-
 d) polimorfismo - concretas - abstratas
 
 Item. 58. (IBFC /TJ-PE - 2017) Em um programa orientado a objetos, verifica-se que a classe
@@ -10614,13 +10488,9 @@ a alternativa que complete correta e respectivamente as lacunas da frase abaixo:
 "A classe abstrata é sempre um(a)que não possui"
 
 a) método - instâncias
-
 b) ator/atriz - atributos
-
 c) superclasse - instâncias
-
 d) superclasse - atores/atrizes
-
 e) método - atributos.
 
 Item. 61. (IBFC / EBSERH - 2017) Consiste no princípio pelo qual duas ou mais classes
@@ -10629,14 +10499,9 @@ mesma superclasse podem invocar métodos que têm a mesma identificação (assin
 comportamentos distintos, especializados para cada classe:
 
 a) abstração
-
 b) herança
-
 c) interface
-
 d) mensagem
-
-
 e) polimorfismo
 
 62.(CESGRANRIO / UNIRIO - 2016) Em linguagens orientadas a objetos
@@ -10650,15 +10515,10 @@ pela
 classe, mas, ao serem executadas, as operações atuam individualmente sobre cada instância.
 
 Na nomenclatura 00, instâncias e operações são conhecidas, respectivamente, como
-
 a) Métodos e Funções
-
 b) Objetos e Heranças
-
 c) Objetos e Métodos
-
 d) Tipos e Objetos
-
 e) Tipos e Heranças
 
 63.OBFC / EMDEC-2016) Quanto a Programação Orientada a Objeto identifique a alternativa
@@ -10668,11 +10528,8 @@ representa o mecanismo pelo qual uma classe (sub-classe) pode estender outra cla
 classe), aproveitando seus comportamentos (métodos) e variáveis possíveis (atributos):
 
 a) herança
-
 b) encapsulamento
-
 c) mensagem
-
 d) polimorfismo.
 
 64.(CESGRANRIO / EPE - 2014) Considere que um programa orientado a objeto possui 5
@@ -10692,13 +10549,9 @@ essa
 mensagem de acordo com sua classe. Tal característica é conhecida como:
 
 a) Polimorfismo
-
 b) Refatoração
-
 c) Herança Múltipla
-
 d) Independência de Dados
-
 e) Tratamento de Exceção
 
 6s.(CESGRANRI0 / IBGE - 2014) Em linguagens orientadas a objetos, existem
@@ -10715,13 +10568,9 @@ II - instâncias específicas criadas a partir da definição das estruturas ref
 Esses conceitos correspondem, respectivamente, ao que se conhece pelos nomes de:
 
 a) I - Tipo; II - Classe
-
 b) I - Tipo; II - Construtor
-
 c) I - Classe; II - Tipo
-
 d) I - Classe; II - Objeto
-
 e) I - Classe; II - Metaclasse
 
 Item. 66. (IBFC / TRE-AM - 2014) Em programação orientada a objetos significa separar
@@ -10743,7 +10592,6 @@ agregados
 a um só objeto, que podem ser visíveis ou invisíveis, é denominado de:
 
 a) Evento
-
 b) Subclasse.
 
 c) Estado.
@@ -10804,13 +10652,9 @@ apresenta o
 nome deste mecanismo.
 
 a) Mensagem
-
 b) Herança
-
 c) Polimorfismo
-
 d) Encapsulamento
-
 e) Subclasse
 
 Item. 72. (CESGRANRIO / PETROBRÁS -2010) Análise as afirmativas a seguir relativas ao

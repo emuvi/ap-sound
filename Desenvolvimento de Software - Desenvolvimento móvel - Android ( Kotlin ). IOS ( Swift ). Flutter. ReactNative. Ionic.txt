@@ -118,7 +118,6 @@ Protocolos.
 ESQUEMA
 
 React Native
-
 lonic.
 
 Flutter
@@ -177,8 +176,6 @@ ANDROID VERSIONS LIST: A COMPLETE HISTORY & FEATURES
 
 
 android
-
-
 android
 
 Por outro lado, o Android é a plataforma mais popular em termos de market
@@ -269,11 +266,8 @@ utilizado para Android.
 a) Kernel MS-DOS
 
 b) Kernel Solaris
-
 c) Kernel Windows
-
 d) Kernel Linux
-
 e) Kernel Symbian
 
 Comentários: A opção correta é a letra D: Kernel Linux. O Android utiliza o kernel
@@ -562,11 +556,7 @@ segurança
 e a privacidade dos usuários. Cada aplicativo é executado em sua própria sandbox de
 segurança,
 que é um ambiente isolado do sistema operacional e dos demais aplicativos. Isso significa que
-
-
 www. estra tegiaconcursos. com. br
-
-
 cada aplicativo tem acesso apenas aos componentes essenciais para o seu funcionamento,
 sem
 permissão para acessar outras partes do sistema ou dados de outros aplicativos sem
@@ -942,8 +932,6 @@ do que em
 um dispositivo conectado via USB.
 
 r
-
-
 i
 
 Quadrix - CFO-DF / 2017) O Android possui um emulador que permite simular o sistema i
@@ -1241,9 +1229,7 @@ outro aplicativo se vincular ao:
 o IME
 
 o Serviço de plano de fundo
-
 o Detector de notificações
-
 o Serviço de voz ou texto
 
 Se nenhuma dessas condições for verdadeira, o aplicativo será considerado como
@@ -1456,7 +1442,6 @@ Comentários: A permissão que deve ser incluída no arquivo Manifest do aplicat
 identificar
 se o aparelho está conectado a uma rede e obter informações sobre o tipo de conexão
 é a opção
-
 b) android.permission.ACCESS_NETWORK_STATE.
 
 Ao declarar essa permissão no Manifest, o aplicativo terá a capacidade de verificar o
@@ -1896,8 +1881,6 @@ ter uma
 declaração correspondente no arquivo AndroidManifest.xml do pacote.
 
 r
-
-
 i
 
 (AOCP - PRODEB / 2018) Android é um sistema operacional (SO) amplamente
@@ -1911,13 +1894,9 @@ representa
 o comando utilizado para a criação de uma activity?
 
 a) OnStart
-
 b) OnResume
-
 c) OnPause
-
 d) OnCreate
-
 e) OnDestroy
 
 Comentários:
@@ -2290,7 +2269,6 @@ em páginas da web. Com
 algoritmos avançados, ele
 interpreta e renderiza os elementos
 da página, proporcionando uma
-
 experiência visual de qualidade aos usuários. Adicionalmente, o WebKit é uma tecnologia
 
 
@@ -2388,7 +2366,6 @@ o estado visual do WebView.
 
 WEBVIEWCOMPAT.WEBMESSAGELISTENER Esse ouvinte recebe mensagens enviadas no objeto
 JavaScript
-
 injetado por meio do método addWebMessageListener.
 
 No desenvolvimento de aplicativos com WebView no WebKit, várias classes desempenham
@@ -2441,7 +2418,6 @@ No contexto do WebKit, a classe TracingConfig armazena informações de
 configuração e
 configurações predefinidas para o TracingController. Ela oferece métodos para
 definir opções de
-
 s'"
 
 
@@ -2838,9 +2814,7 @@ Apache
 Item. 2.0 e desenvolvida pela Apple para a criação de aplicativos para IOS.
 
 a) Xcode
-
 b) Swift
-
 c) Objetive-C
 
 d) Python
@@ -3024,7 +2998,6 @@ separadas por
 vírgulas, com uma única anotação de tipo após o nome da variável final:
 
 var redj green, blue: Double
-
 s'"
 
 
@@ -3413,7 +3386,6 @@ let decimallnteger = 17
 
 let binarylnteger = 0bl0001 // 17 na notação binária
 let octallnteger = 0o21 // 17 na notação octal
-
 let hexadecimallnteger = 0x11 // 17 na notação hexadecimal
 
 Literais de ponto flutuante podem ser decimais (sem prefixo) ou hexadecimais (com o
@@ -3843,7 +3815,6 @@ Essa característica impede que o operador de atribuição (=) seja usado por
 engano quando o
 operador de igualdade (==) é o pretendido. Ao tornar if x = y inválido, o Swift
 ajuda a evitar esse
-
 tipo de erro no seu código.
 
 Operadores aritméticos:
@@ -3972,7 +3943,6 @@ não tiver um cabeçalho:
 
 let alturaConteudo = 40
 let temCabecalho = true
-
 let alturaLinha = alturaConteudo + (temCabecalho ? 50 : 20)
 
 // alturaLinha é igual a 90
@@ -3982,7 +3952,6 @@ let alturaLinha = alturaConteudo + (temCabecalho ? 50 : 20)
 let alturaConteudo = 40
 let temCabecalho = true
 let alturaLinha: Int
-
 if temCabecalho {
 
 alturaLinha = alturaConteudo + 50
@@ -4067,9 +4036,7 @@ valores
 forem true:
 
 let codigoPortaDigitado = true
-
 let retinaEscanerAprovado = false
-
 if codigoPortaDigitado && retinaEscanerAprovado {
 print("Bem-vindo!")
 
@@ -4110,9 +4077,7 @@ avaliada como
 true e o acesso é permitido:
 
 let possuiChavePorta = false
-
 let conheceSenhaAnulacao = true
-
 if possuiChavePorta || conheceSenhaAnulacao {
 print("Bem-vindo!")
 
@@ -4327,7 +4292,6 @@ de parênteses,
 precedido por uma barra invertida ():
 
 Exemplo 1: Interpolação de variáveis e expressões
-
 let nome = "João"
 let idade = 25
 
@@ -4340,7 +4304,6 @@ sintaxe \().
 Seus valores são inseridos na string resultante.
 
 Exemplo 2: Interpolação de expressões e chamadas de função
-
 let a = 10
 let b = 5
 
@@ -4370,9 +4333,7 @@ seus resultados são
 interpolados nas literais de string.
 
 Exemplo 3: Interpolação de valores booleanos
-
 let estaChovendo = true
-
 let statusTempo = "Está \(estaChovendo ? "chovendo" : "sem chuva") hoje."
 
 // statusTempo é "Está chovendo hoje."
@@ -4382,7 +4343,6 @@ condicional ternário
 dentro da interpolação de string. A string resultante depende do valor de estaChovendo.
 
 Exemplo 4: Interpolação de strings de várias linhas
-
 let nomeUsuario = "johndoe"
 let mensagem =
 
@@ -4637,7 +4597,6 @@ subclasse e a adição de comportamento personalizado. Todo view controller prec
 
 
 Tabular interface
-
 seguinte:
 
 Grid interface Data-entry interface
@@ -4715,7 +4674,6 @@ para definir o tamanho e a posição dessas
 visualizações. Restrições são regras que especificam
 como dimensionar e posicionar cada visualização em
 relação à sua visualização pai ou irmã, e elas garantem
-
 que suas visualizações se adaptem automaticamente a diferentes ambientes e dispositivos.
 
 
@@ -4866,7 +4824,6 @@ viewSafeArealnsetsDidChangeO, se necessário
 
 Item. 5. Chama o método viewlsAppearing(_:) para informar que a visualização do view
 controller está
-
 aparecendo na tela
 
 Item. 6. Chama o método viewWilILayoutSubviewsO
@@ -4921,8 +4878,6 @@ definir um "segue" para apresentar outro controlador de exibição relacionado.
 
 
 www. estra tegiaconcursos. com. br
-
-
 de um controlador de exibição para outro. Um "segue" é iniciado por uma ação, como
 um toque
 em um botão ou a seleção de uma linha em uma tabela, no controlador de exibição
@@ -5004,7 +4959,6 @@ No storyboard, as "segues" são mostradas como uma
 seta entre dois controladores de exibição. Ao
 selecionar a "segue", serão exibidas informações sobre
 ela, incluindo o tipo de apresentação que você deseja
-
 que o UlKit realize. É possível modificar o tipo de apresentação ou configurar detalhes adicionais,
 
 como um identificador para a "segue". Essas informações são utilizadas em tempo de
@@ -5323,11 +5277,7 @@ como está, mas também pode ser subclassificada.
 Cada guia de uma interface de barra de guias está associada a um view controller
 personalizado.
 Quando o usuário seleciona uma guia específica, o barra de guias exibe a visualização raiz do view
-
-
 www. estra tegiaconcursos. com. br
-
-
 controller correspondente, substituindo quaisquer visualizações anteriores. (Os
 toques do usuário
 sempre exibem a visualização raiz da guia, independentemente de qual guia foi
@@ -6105,8 +6055,6 @@ de código. Escreva uma vez, execute em qualquer lugar.
 * Baseado em Padrões Web: O lonic é construído sobre tecnologias web
 confiáveis e
 padronizadas: HTML, CSS e JavaScript, usando APIs web modernas, como Elementos
-
-
 x-""' 99
 
 
@@ -6403,13 +6351,11 @@ I
 : Além disso, o Flutter oferece um conjunto abrangente de widgets pré-fabricados, que são como i
 
 = ingredientes prontos para uso. Esses widgets permitem criar interfaces de usuário ricas e
-
 i
 
 = interativas de forma mais rápida e eficiente. Você pode pensar nesses widgets como utensílios de
 
 = cozinha que já estão prontos para serem usados, economizando tempo e esforço no
-
 i
 
 = desenvolvimento do seu aplicativo.
@@ -6517,10 +6463,8 @@ I
 
 h) v, v, v
 i
-
 i b) V, V, F
 i
-
 k) v, F, V
 i
 
@@ -6767,7 +6711,6 @@ no modelo de =
 
 :leiaute flexbox da Web é o
 i
-
 a) Text.
 
 i b) Row,Column.
@@ -7106,7 +7049,6 @@ println(args.contentToString())
 
 
 Impressão na saída padrão
-
 print imprime seu argumento na saída padrão.
 print("Olá ")
 
@@ -7168,7 +7110,6 @@ segura, evitando alterações acidentais ou indesejadas nos valores.
 
 vai a: Int = 1 // atribuição imediata
 vai b = 2 // o tipo Int é inferido
-
 vai c: Int // Tipo necessário quando nenhum inicializador é fornecido
 c = 3 // atribuição posterior
 
@@ -7296,7 +7237,6 @@ padrão; para
 tornar uma classe herdável, marque-a como open.
 
 open class Shape
-
 class Rectangle(var height: Double., var length: Double): Shape() {
 var perimeter = (height + length) * 2
 
@@ -7331,7 +7271,6 @@ expressões
 dentro de uma string de forma conveniente. Eles são representados pelo
 símbolo "$" seguido
 pelo nome da variável ou da expressão entre chaves
-
 var a = 1
 
 // Nome simples no template:
@@ -7624,7 +7563,6 @@ I
 : c) 5 / Iron
 
 = d) 5 / Gold
-
 e) 9 / Gold
 Comentários:
 
@@ -8273,7 +8211,6 @@ pessoa.apresentar();
 public class Calculadora {
 
 public static int somar(int a, int
-
 b){
 
 return a + b;
@@ -8380,7 +8317,6 @@ when (day) {
 
 3 -> println("Quarta-feira")
 else -> println("Outro dia da
-
 semana")
 
 }
@@ -8455,7 +8391,6 @@ https://developer.apple.com/documentation/
 
 https://flutter.dev/?gclid=Cjw<CAjwv8qkBhAnEiwAkY-ahiYz8D53_4aLAWIo0hMHqF4cd0-
 tEK7LEKTjbppelKG39P9OrxhryBoCROUQAvD_BwE&gclsrc=aw.ds
-
 https://pt.wikipedia.org/wiki/Flutter
 https://api.flutter.dev/
 
@@ -8479,13 +8414,10 @@ das suas
 aplicações?
 
 a) Kotlin
-
 b) Swift
-
 c) C#
 
 d) Python
-
 e) IOS
 
 Comentários:
@@ -8723,8 +8655,6 @@ Comentários:
 
 
 www. estra tegiaconcursos. com. br
-
-
 a) Windows Server: Essa opção não é correta. O Windows Server é um sistema
 operacional da
 Microsoft voltado para servidores e não é especificamente desenvolvido para dispositivos móveis.
@@ -8973,7 +8903,6 @@ em vez de
 escrever consultas SQL diretas.
 
 Gabarito: Errado
-
 n.(CEBRASPE - ABIN / 2018) Mesmo controlando o login e a senha do usuário via contas
 Google,
 um aplicativo pode capturar e enviar arquivos armazenados no cartão SD do celular que
@@ -9004,7 +8933,6 @@ e estar
 atento à segurança ao lidar com arquivos no cartão SD.
 
 Gabarito: Correto
-
 i2.(CEBRASPE - ABIN / 2018) Quando a Internet está disponível, os aplicativos
 executados em
 segundo plano podem efetuar requisições, que utilizam muita carga da bateria
@@ -9104,13 +9032,9 @@ que
 representa o comando utilizado para a criação de uma activity?
 
 a) OnStart
-
 b) OnResume
-
 c) OnPause
-
 d) OnCreate
-
 e) OnDestroy
 
 Comentários:
@@ -9174,7 +9098,6 @@ mainframe.
 Gabarito: Letra D
 
 Item. 17. (AOCP - CODEM - PA / 2017) O Sistema Operacional Android é
-
 a) baseado em núcleo Linux e é utilizado exclusivamente em celulares.
 
 b) um sistema operacional proprietário e é utilizado principalmente em dispositivos móveis.
@@ -9247,7 +9170,6 @@ operacional
 Android.
 
 Gabarito: Errado
-
 ig.(CEBRASPE - TRE-PI / 2016) Com relação à plataforma Android, assinale a opção correta.
 
 a) Webkit é uma biblioteca redenrizadora de páginas para navegadores com suporte a
@@ -9563,13 +9485,10 @@ aplicativos sem
 uma assinatura digital certificada pela Apple Inc. Considerando essa limitação, a
 instalação de
 um perfil de Provisionamento de Distribuição Corporativa em um aparelho com iOS permite
-
 a) a execução de aplicativos corporativos obtidos da App Store.
 
 
 www. estra tegiaconcursos. com. br
-
-
 b) a instalação de aplicativos a partir de um endereço corporativo.
 
 c) a assinatura digital de um aplicativo independente da Apple Inc.
@@ -9623,7 +9542,6 @@ o uso de múltiplos sensores e recursos gráficos de alta qualidade.
 Caso o conjunto de aplicativos utilizados exceda o total de memória
 disponível, o sistema
 operacional Android irá
-
 a) solicitar ao usuário que termine um dos aplicativos em uso.
 
 b) terminar automaticamente o aplicativo de menor prioridade.
@@ -9683,12 +9601,10 @@ Gabarito: Letra B
 
 
 Kotlin
-
 í. (CESGRANRIO - Banco do Brasil/ 2023) Kotlin é uma linguagem de programação usada no
 desenvolvimento Android.
 
 Entre suas características, está um grau de compatibilidade com Java, que permite
-
 a) chamar funções feitas em Java, apenas, mas não permite que suas funções Kotlin
 sejam
 chamadas por Java.
@@ -9743,8 +9659,6 @@ assim como também permite que funções feitas em Java sejam chamadas por códi
 
 
 www. estra tegiaconcursos. com. br
-
-
 interoperabilidade entre as duas linguagens permite que o desenvolvedortrabalhe com ambas
 sem
 restrições.
@@ -9942,11 +9856,8 @@ a) 3 / Iron
 
 
 b) 4/Iron
-
 c) 5 / Iron
-
 d) 5 / Gold
-
 e) g/Gold
 
 Comentários:
@@ -10027,7 +9938,6 @@ a) vai idademinima : Int = 18
 b) vai idademinima : Integer = 18
 
 c) vai idademinima = 18 : Integer
-
 d) var idademinima : Int = 18
 
 e) var idademinima : Integer = 18
@@ -10209,13 +10119,11 @@ this.nome = nome;}
 }
 
 A classe em Kotlin equivalente à classe Java acima é
-
 a) public class AlunoKotlin (private String: nome, private String: codigo)
 
 {private:
 
 numero int = o
-
 texto String = "EscolaX"}
 
 b) public class AlunoKotlin (private var nome; codigo: String)
@@ -10235,7 +10143,6 @@ c) class AlunoKotlin (vai nome: String, vai codigo: String)
 
 private this.codigo=codigo
 private var int numero = o
-
 private var String texto = "EscolaX"}
 
 d) class AlunoKotlin (var nome: String, var codigo: String)
@@ -10291,17 +10198,10 @@ um estado
 mutável observável?
 
 a) ClassFlow
-
-
 www. estra tegiaconcursos. com. br
-
-
 b) MutableFlow
-
 c) QuickFlow
-
 d) StateFlow
-
 e) SharedFlow
 
 Comentários:
@@ -10341,8 +10241,6 @@ compilação:
 a) textü.let {
 
 vai tamanho = text.length
-
-
 b) var res = when(pontos) {
 9,10 -> "Excelente"
 
@@ -10363,8 +10261,6 @@ println(i)
 
 
 www. estra tegiaconcursos. com. br
-
-
 d) for (i in 10 upTo o ) {
 
 println(i)
@@ -10419,11 +10315,9 @@ www. estra tegiaconcursos. com. br
 
 
 React Native
-
 í. (CESGRANRIO - Banco do Brasil / 2023) O React Native 0.59 introduziu o conceito de Hooks.
 
 Entre os Hooks, tem-se o usestate, que permite
-
 a) calcular o estado de um CEP ou ZIP de acordo com o Locale.
 
 b) chamar estados específicos do engine React para alterar seu comportamento.
@@ -10476,13 +10370,10 @@ React e React Native e deseja criar um elemento hi contendo o título Amazonas,
 aplicando a
 classe de estilo CSS de nome tit e armazenando em uma constante chamada elemento. Para
 realizar esta tarefa, ele terá que utilizar a instrução
-
 a) let elemento = ReactNative.createElement('hi',{className:'tit'j,'Amazonas');
 
 
 www. estra tegiaconcursos. com. br
-
-
 b) let const elemento = React.createElement('hi'.'tit'},'Amazonas');
 
 c) const elemento = ReactNative.createElement('hi',{className:'tit'},'Amazonas');
@@ -10661,7 +10552,6 @@ desenvolvido
 pela equipe do Facebook, que possibilita o desenvolvimento de aplicações mobile
 utilizando
 bibliotecas JavaScript para criar interfaces de usuário. Esse framework é conhecido como
-
 a) lonic Builder.
 
 b) Flutter Script.
@@ -10725,7 +10615,6 @@ Gabarito: Letra E
 
 
 Swift
-
 í. (CESGRANRIO - Banco do Brasil / 2023) Em um programa em Swift, o programador
 deseja
 incluir o resultado de uma operação dentro de uma string. Nesse contexto, considere o
@@ -10818,13 +10707,10 @@ das suas
 aplicações?
 
 a) Kotlin
-
 b) Swift
-
 c) C#
 
 d) Python
-
 e) IOS
 
 Comentários:
@@ -10846,11 +10732,7 @@ o código var
 fruta=["maça", "banana", "abacaxi"], a linguagem automaticamente entenderá que
 fruta é
 array de
-
-
 www. estra tegiaconcursos. com. br
-
-
 a) integer.
 
 b) floatings.
@@ -10871,7 +10753,6 @@ elementos estão entre aspas duplas, o que indica que são do tipo string. Na li
 Swift, para
 definir uma string, basta colocar o valor desejado entre aspas, não sendo mais
 necessário o uso do
-
 como era feito anteriormente na Objective C.
 
 Uma string é uma sequência especial de caracteres. Em C, elas são colocadas entre
@@ -10929,7 +10810,6 @@ a) As afirmativas II e III estão corretas.
 b) Apenas as afirmativas II e IV estão corretas.
 
 c) Apenas a afirmativa I está incorreta
-
 d) Apenas a afirmativa III está incorreta.
 
 Comentários:
@@ -11034,13 +10914,9 @@ alternativa que
 apresenta o que você deve utilizar para implementar essa ação.
 
 a) NavController
-
 b) Navigation Jetpacks
-
 c) Navigation Component
-
 d) Navigation Controller
-
 e) Routing Navigation
 
 Comentários:
@@ -11139,7 +11015,6 @@ Apple com iOS recebeu a seguinte parte de um código, escrito na linguagem swift
 var i: Int
 vartexto: String
 var num: Int = o
-
 var frase: String = ""
 
 for i in 1...3 {
@@ -11171,20 +11046,13 @@ texto = "não eh "
 
 
 frase - frase + texto
-
-
 print(frase)
 
 A execução dessa parte do código produz como resposta
-
 a) o carro eh
-
 b) a casa eh
-
 c) o carro não eh
-
 d) a casa eh forte
-
 e) o carro eh forte
 
 Comentários:
@@ -11332,9 +11200,7 @@ Apache
 Item. 2.0 e desenvolvida pela Apple para a criação de aplicativos para IOS.
 
 a) Xcode
-
 b) Swift
-
 c) Objetive-C
 
 d) Python
@@ -11364,13 +11230,10 @@ das suas
 aplicações?
 
 a) Kotlin
-
 b) Swift
-
 c) C#
 
 d) Python
-
 e) IOS
 
 Comentários:
@@ -11445,7 +11308,6 @@ permite criar
 leiautes flexíveis nas direções horizontal e vertical, com design de objetos baseado no
 modelo
 de leiaute flexbox da Web é o
-
 a) Text.
 
 b) Row,Column.
@@ -11630,8 +11492,6 @@ ferramenta gratuita
 e que a comunidade pode contribuir com melhorias e recursos adicionais.
 
 Gabarito: Correto
-
-
 www. estra tegiaconcursos. com. br
 
 
@@ -11646,13 +11506,10 @@ das suas
 aplicações?
 
 a) Kotlin
-
 b) Swift
-
 c) C#
 
 d) Python
-
 e) IOS
 
 Item. 2. (FGV - IBGE / 2016) Um desenvolvedor Android deseja inserir a funcionalidade de
@@ -11698,8 +11555,6 @@ citados abaixo e assinale a opção que NÃO é suportada pelo Android Enterpris
 
 
 www. estra tegiaconcursos. com. br
-
-
 a) Dispositivos de propriedade do empregado, que suportam um perfil pessoal
 e outro
 profissional armazenados separadamente.
@@ -11881,16 +11736,10 @@ que
 representa o comando utilizado para a criação de uma activity?
 
 a) OnStart
-
 b) OnResume
-
 c) OnPause
-
 d) OnCreate
-
 e) OnDestroy
-
-
 www. estra tegiaconcursos. com. br
 
 
@@ -11909,7 +11758,6 @@ d) APP.
 e) REXX.
 
 Item. 17. (AOCP - CODEM - PA / 2017) O Sistema Operacional Android é
-
 a) baseado em núcleo Linux e é utilizado exclusivamente em celulares.
 
 b) um sistema operacional proprietário e é utilizado principalmente em dispositivos móveis.
@@ -12047,7 +11895,6 @@ aplicativos sem
 uma assinatura digital certificada pela Apple Inc. Considerando essa limitação, a
 instalação de
 um perfil de Provisionamento de Distribuição Corporativa em um aparelho com iOS permite
-
 a) a execução de aplicativos corporativos obtidos da App Store.
 
 b) a instalação de aplicativos a partir de um endereço corporativo.
@@ -12069,7 +11916,6 @@ o uso de múltiplos sensores e recursos gráficos de alta qualidade.
 Caso o conjunto de aplicativos utilizados exceda o total de memória
 disponível, o sistema
 operacional Android irá
-
 a) solicitar ao usuário que termine um dos aplicativos em uso.
 
 b) terminar automaticamente o aplicativo de menor prioridade.
@@ -12085,12 +11931,10 @@ www. estra tegiaconcursos. com. br
 
 
 Kotlin
-
 í. (CESGRANRIO - Banco do Brasil/ 2023) Kotlin é uma linguagem de programação usada no
 desenvolvimento Android.
 
 Entre suas características, está um grau de compatibilidade com Java, que permite
-
 a) chamar funções feitas em Java, apenas, mas não permite que suas funções Kotlin
 sejam
 chamadas por Java.
@@ -12133,11 +11977,7 @@ funcional, com o uso de expressões lambda (anônimas).
 
 () É uma linguagem de programação usada principalmente para controlar o Hypertext Markup
 Language (HTML) e o Cascading Style Sheets (CSS) e manipular comportamentos em uma
-
-
 www. estra tegiaconcursos. com. br
-
-
 página web. É mantido pela European Computer Manufactureds Association
 (ECMA).
 Originalmente, foi criada para o desenvolvimento de aplicações no lado cliente,
@@ -12161,7 +12001,6 @@ do lado
 do servidor.
 
 A sequência correta dessa associação é
-
 a) 5, 3, 2, í, 4.
 
 b) 4, 3, 2, í, 5.
@@ -12208,11 +12047,8 @@ a) 3 / Iron
 
 
 b) 4/lron
-
 c) 5 / Iron
-
 d) 5 / Gold
-
 e) g/Gold
 
 Item. 4. (Cesgranrio - Caixa / 2021) Na linguagem de programação Kotlin, é possível criar
@@ -12228,7 +12064,6 @@ a) vai idademinima : Int = 18
 b) vai idademinima : Integer = 18
 
 c) vai idademinima -18 : Integer
-
 d) var idademinima : Int = 18
 
 e) var idademinima : Integer = 18
@@ -12272,8 +12107,6 @@ private String nome;
 
 
 www. estra tegiaconcursos. com. br
-
-
 private int numero=o;
 
 private String texto= "EscolaX";
@@ -12285,13 +12118,11 @@ this.nome = nome;}
 
 
 A classe em Kotlin equivalente à classe Java acima é
-
 a) public class AlunoKotlin (private String: nome, private String: codigo )
 
 {private:
 
 numero int = o
-
 texto String = "EscolaX"}
 
 b) public class AlunoKotlin (private var nome; codigo: String)
@@ -12304,7 +12135,6 @@ c) class AlunoKotlin (vai nome: String, vai codigo: String)
 { private this.nome = nome
 private this.codigo=codigo
 private var int numero = o
-
 private var String texto - "EscolaX"}
 
 d) class AlunoKotlin (var nome: String, var codigo: String)
@@ -12326,19 +12156,11 @@ um estado
 mutável observável?
 
 a) ClassFlow
-
 b) MutableFlow
-
 c) QuickFlow
-
 d) StateFlow
-
-
 www. estra tegiaconcursos. com. br
-
-
 e) SharedFlow
-
 io.(UNICENTRO - UNICENTRO / 2019) Assinale a alternativa que contenha o
 código na
 linguagem de programação Kotlin que NÃO será executado na plataforma Android por erro
@@ -12380,11 +12202,9 @@ www. estra tegiaconcursos. com. br
 
 
 React Native
-
 í. (CESGRANRIO - Banco do Brasil / 2023) O React Native 0.59 introduziu o conceito de Hooks.
 
 Entre os Hooks, tem-se o usestate, que permite
-
 a) calcular o estado de um CEP ou ZIP de acordo com o Locale.
 
 b) chamar estados específicos do engine React para alterar seu comportamento.
@@ -12401,7 +12221,6 @@ React e React Native e deseja criar um elemento hi contendo o título Amazonas,
 aplicando a
 classe de estilo CSS de nome tit e armazenando em uma constante chamada elemento. Para
 realizar esta tarefa, ele terá que utilizar a instrução
-
 a) let elemento = ReactNative.createElement('hi',{className:'tit'},'Amazonas');
 
 b) let const elemento = React.createElement('hi'.'tit'},'Amazonas');
@@ -12455,7 +12274,6 @@ desenvolvido
 pela equipe do Facebook, que possibilita o desenvolvimento de aplicações mobile
 utilizando
 bibliotecas JavaScript para criar interfaces de usuário. Esse framework é conhecido como
-
 a) lonic Builder.
 
 b) Flutter Script.
@@ -12473,7 +12291,6 @@ e) React Native.
 
 
 Swift
-
 í. (CESGRANRIO - Banco do Brasil / 2023) Em um programa em Swift, o programador
 deseja
 incluir o resultado de uma operação dentro de uma string. Nesse contexto, considere o
@@ -12504,13 +12321,10 @@ das suas
 aplicações?
 
 a) Kotlin
-
 b) Swift
-
 c) C#
 
 d) Python
-
 e) IOS
 
 Item. 3. (CEBRASPE - TRE-BA / 2017) Na linguagem Swift do IOS, ao se declarar
@@ -12518,7 +12332,6 @@ o código var
 fruta=["maça", "banana", "abacaxi"], a linguagem automaticamente entenderá que
 fruta é
 array de
-
 a) integer.
 
 b) floatings.
@@ -12558,7 +12371,6 @@ a) As afirmativas II e III estão corretas.
 b) Apenas as afirmativas II e IV estão corretas.
 
 c) Apenas a afirmativa I está incorreta
-
 d) Apenas a afirmativa III está incorreta.
 
 Item. 5. (AOCP - IBGE / 2019) Compreender o ciclo de vida das views das aplicações é
@@ -12605,13 +12417,9 @@ apresenta o que você deve utilizar para implementar essa ação.
 
 
 a) NavController
-
 b) Navigation Jetpacks
-
 c) Navigation Component
-
 d) Navigation Controller
-
 e) Routing Navigation
 
 Item. 7. (AOCP - IBGE / 2019) Com o swift no desenvolvimento para iOS, a
@@ -12647,7 +12455,6 @@ Apple com iOS recebeu a seguinte parte de um código, escrito na linguagem swift
 var i: Int
 vartexto: String
 var num: Int = o
-
 var frase: String = ""
 
 for i in 1...3 {
@@ -12670,8 +12477,6 @@ texto = "eh "
 
 
 www. estra tegiaconcursos. com. br
-
-
 case 17...20:
 texto = "o"
 case 21...23:
@@ -12690,15 +12495,10 @@ frase = frase + texto
 print(frase)
 
 A execução dessa parte do código produz como resposta
-
 a) o carro eh
-
 b) a casa eh
-
 c) o carro não eh
-
 d) a casa eh forte
-
 e) o carro eh forte
 
 Item. 9. (FEPESE - CELESC / 2022) Caso seja necessário o desenvolvimento de
@@ -12727,17 +12527,11 @@ Apache
 Item. 2.0 e desenvolvida pela Apple para a criação de aplicativos para IOS.
 
 a) Xcode
-
 b) Swift
-
 c) Objetive-C
 
 d) Python
-
-
 www. estra tegiaconcursos. com. br
-
-
 n.(AOCP - PRODEB / 2018) Considerando as linguagens de programação mobile,
 qual das
 dispostas a seguir foi criada pela Apple e pode ser utilizada para o desenvolvimento
@@ -12745,13 +12539,10 @@ das suas
 aplicações?
 
 a) Kotlin
-
 b) Swift
-
 c) C#
 
 d) Python
-
 e) IOS
 
 i2.(IBADE - Prefeitura de Itapemirim - ES / 2019) A Apple desenvolveu uma
@@ -12781,7 +12572,6 @@ permite criar
 leiautes flexíveis nas direções horizontal e vertical, com design de objetos baseado no
 modelo
 de leiaute flexbox da Web é o
-
 a) Text.
 
 b) Row,Column.

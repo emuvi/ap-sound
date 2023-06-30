@@ -216,8 +216,6 @@ Item. 7. S
 E
 
 s sl
-
-
 d 0 0 E
 
 G| 0
@@ -248,7 +246,6 @@ Dados:
 b) A1-B1-C2
 
 Í c) A2 - B2 - Cl
-
 d) Al - B2-C1
 
 ; Comentários:
@@ -378,7 +375,6 @@ estrutura interna. O primeiro elemento e o último nós são muitas vezes chamad
 
 2 Se Listas Circulares são conhecidas como Listas Fechadas, as Listas Abertas são
 todas aquelas que são Não-Circulares. Por fim: da mesma forma
-
 que há Listas Circulares Simples, há também Listas Circulares Duplas. Nesse caso, o
 ponteiro anterior do primeiro elemento aponta para o último
 elemento e o ponteiro posterior do último elemento aponta para o primeiro elemento.
@@ -469,7 +465,6 @@ dos elementos inicial e final — referencia sempre outros dois, um que o antece
 sucede.
 
 = a) lista circular
-
 b) grafo
 
 = c) lista duplamente encadeada
@@ -659,7 +654,6 @@ armazenamento de cada
 elemento em um endereço calculado a partir da aplicação de uma função sobre a chave
 de busca denomina-
 se
-
 a) lista.
 
 b) tabela hashing.
@@ -732,7 +726,6 @@ forma ;
 
 : sequencial, permitindo a inserção de novos elementos no final da estrutura e a remoção de
 elementos do j
-
 início. Então, está certo. (Gabarito: Certo)
 ;
 
@@ -1326,7 +1319,6 @@ Vejam só como
 se trata de um
 conceito
 bastante
-
 abrangente! O
 Facebook pode
 ser considerado
@@ -1334,7 +1326,6 @@ um grafo
 
 (pessoas se
 interligam
-
 através de amizades); um mapa rodoviário pode ser considerado um grafo (cidades se
 relacionam através de
 estradas); as eliminatórias de um campeonato de futebol também podem ser consideradas
@@ -1468,7 +1459,6 @@ ver a figura); o elemento A12 = 1, significando que o Nó 1 tem adjacência com 
 2; elemento A13 = 0,
 significando que o Nó 1 não tem adjacência com o Nó 3; o elemento AI4= 0,
 significando que o Nó 1 não tem
-
 adjacência com o Nó 4.
 
 O elemento Ais = 1, significando que o Nó 1 tem adjacência com o Nó 5; o elemento
@@ -1662,7 +1652,6 @@ o o £ O ? » § £ O
 SM^%°Aoo
 
 BtÈr
-
 oo r
 
 Nesta aula vamos aprender um pouco mais sobre indexação utilizando mapas de bits, os
@@ -2216,7 +2205,6 @@ Dados:
 (1) Homogêneas
 
 (2) Heterogêneas
-
 a) A2-B1-C2
 
 b) A1-B1-C2
@@ -2473,7 +2461,6 @@ coleção,
 conforme exemplificado na figura abaixo.
 
 Trata-se da estrutura linear unidimensional
-
 a) string.
 
 b) hashing.
@@ -2534,7 +2521,6 @@ vet[6] <- vet[3]
 vet[3] <- vet[l] <- aux
 
 A configuração do vetor (do índice 1 ao 8) será
-
 a) ZONAAMAS
 
 b) AMASZONA
@@ -2579,7 +2565,6 @@ Gabarito: Letra E
 Item. 8. (FCC - 2012 - TJ-RJ) O algoritmo conhecido como busca binária é um algoritmo de desempenho
 ótimo
 para encontrar a posição de um item em
-
 a) uma árvore B.
 
 b) uma lista ligada ordenada.
@@ -2757,7 +2742,6 @@ forma de pseudocódigo:
 Var n, i, j, k, x: inteiro
 Var v: vetor[0..7] inteiro
 Início
-
 v[0] <- 12
 
 v[l] <- 145
@@ -2780,12 +2764,10 @@ Para j <- n-1 até k passo -1 faça
 v[j] <- v[j -1];
 
 Fim_para
-
 v[k] <- x;
 Fim
 
 Este pseudocódigo
-
 a) exclui o valor contido na posição x do vetor v.
 
 
@@ -2887,14 +2869,9 @@ toda a lista;
 remover um elemento qualquer dela; e esvaziá-la.
 
 a) lista simplesmente encadeada e não ordenada
-
 b) lista simplesmente encadeada e ordenada
-
 c) lista duplamente encadeada e não ordenada
-
-
 d) lista duplamente encadeada e não ordenada
-
 e) lista triplamente encadeada
 
 Comentários:
@@ -2912,7 +2889,6 @@ Item. 3. (FUNDATEC - 2022 - IF-RS) Que tipo de estrutura de dados está represen
 abaixo?
 
 Figura 1 - Estrutura de dados
-
 a) Árvore binária.
 
 b) Fila.
@@ -3131,17 +3107,12 @@ dados constituída por um conjunto de elementos individualizados, em que cada um
 elementos —
 com exceção dos elementos inicial e final — referencia sempre outros dois, um que o antecede e
 outro
-
 que o sucede.
 
 a) lista circular
-
 b) grafo
-
 c) lista duplamente encadeada
-
 d) árvore
-
 e) pilha
 
 
@@ -3184,7 +3155,6 @@ que cada elemento
 armazenado apresenta ligações de apontamento com seu sucessor e com o seu predecessor,
 o que
 possibilita que ela seja percorrida em qualquer sentido. Trata-se de
-
 a) uma fila.
 
 b) um grafo.
@@ -3263,7 +3233,6 @@ b) Chelsea, Bayern, Real Madrid, Roma, Barcelona.
 c) Real Madrid, Roma, Barcelona, Chelsea, Bayern.
 
 d) Barcelona, Bayern, Chelsea, Real Madrid, Roma
-
 e) Roma, Real Madrid, Bayern, Chelsea, Barcelona.
 
 Comentários:
@@ -3306,8 +3275,6 @@ proporcional ao número de elementos nela armazenados. No entanto, não podemos 
 que os
 elementos armazenados na lista ocuparão um espaço de II contíguo, portanto, não temos
 acesso
-
-
 direto aos elementos da lista. Para que seja possível percorrer todos os elementos da
 III , devemos
 explicitamente guardar o encadeamento dos elementos, o que é feito armazenando-se, junto
@@ -3317,13 +3284,9 @@ informação de cada elemento, um IV para o próximo elemento da V .
 As lacunas de I a V, são preenchidas, corretas e respectivamente, por:
 
 a) estrutura de pilha - tamanho - memória - array - pilha
-
 b) lista encadeada - memória - lista - ponteiro - lista
-
 c) estrutura de filas (FIFO) - disco - sequência - buffer - memória alocada
-
 d) arquitetura de memória primária - tamanho - fila - contador sequencial - conexão
-
 e) arquitetura TCP/IP - tamanho fixo - conexão - número de roteamento - tabela MTU
 
 Comentários:
@@ -3415,13 +3378,9 @@ informação de cada elemento, um IV para o próximo elemento da V .
 As lacunas de I a V, são preenchidas, corretas e respectivamente, por:
 
 a) estrutura de pilha - tamanho - memória - array - pilha
-
 b) lista encadeada - memória - lista - ponteiro - lista
-
 c) estrutura de filas (FIFO) - disco - sequência - buffer - memória alocada
-
 d) arquitetura de memória primária - tamanho - fila - contador sequencial - conexão
-
 e) arquitetura TCP/IP - tamanho fixo - conexão - número de roteamento - tabela MTU
 
 Comentários:
@@ -3835,9 +3794,7 @@ Item. 3. (CESPE/CEBRASPE - 2022 - DPE-RO) Em um sistema operacional, a estrutura
 utilizada para
 organizar chamadas de funções recursivas por meio da inserção ou remoção de elementos
 via
-
 operações como push e pop é denominada
-
 a) lista estática.
 
 b) fila.
@@ -4040,7 +3997,6 @@ Gabarito: Letra D
 Item. 7. (FGV - 2021 - FUNSAÚDE-CE) As operações POP e PUSH aplicáveis às estruturas de
 dados são
 conhecidas como
-
 a) árvores binárias.
 
 b) bitmaps.
@@ -4505,7 +4461,6 @@ Gabarito: Errado
 
 Item. 23. (FCC - 2009 - TRT - 16- REGIÃO (MA) - Técnico Judiciário - Tecnologia da
 Informação) Pilha é uma
-
 estrutura de dados:
 
 a) cujo acesso aos seus elementos segue tanto a lógica LIFO quanto a FIFO.
@@ -4575,13 +4530,9 @@ dados na
 qual o primeiro elemento inserido é o último a ser removido.
 
 a) Árvore
-
 b) Fila
-
 c) Pilha
-
 d) Grafo
-
 e) Tabela de dispersão
 
 
@@ -4645,11 +4596,8 @@ LIFO
 (Last In, First Out):
 
 a) lista-vetor
-
 b) pilha-fila
-
 c) vetor-lista
-
 d) fila-pilha
 
 Comentários:
@@ -4759,7 +4707,6 @@ Item. 4. (CESPE/CEBRASPE - 2021 - SEED-PR) Em determinada estrutura de dados, os
 segundo a qual o último a entrar é o primeiro a sair.
 
 Essa estrutura é do tipo
-
 a) pilha.
 
 b) fila.
@@ -4844,7 +4791,6 @@ Gabarito: Letra B
 Item. 6. (CESPE/CEBRASPE - 2017 - TRT-7) A lógica FIFO (first-in first-out) é utilizada na estrutura de
 dados do
 tipo
-
 a) pointer ou ponteiros.
 
 b) queue ou filas.
@@ -4895,7 +4841,6 @@ Item. 8. (CESPE/CEBRASPE-2018-TCE-MG)
 
 Uma estrutura de dados em que o primeiro elemento inserido seja o primeiro elemento a ser retirado
 é denominada
-
 a) pilha.
 
 b) matriz.
@@ -4996,7 +4941,6 @@ atendida. Não
 deve ser permitido inserir pedidos de impressão no meio dos pedidos já realizados.
 
 A estrutura de dados mais adequada para Ana utilizar é
-
 a) pilha.
 
 b) lista encadeada ordenada.
@@ -5495,8 +5439,6 @@ conter entre d e 2.d chaves, a complexidade do algoritmo de busca é da ordem
 
 * 05152001900 - Everton
 Murilo Vieira
-
-
 a) log de N na base 2.
 
 b) log de N na base d.
@@ -5638,9 +5580,7 @@ CONSULTA (x)
 2 do x <- esquerda [x]
 
 3 return x
-
 realiza, na árvore, a consulta de
-
 a) search.
 
 b) minimum.
@@ -5726,7 +5666,6 @@ Item. 8. (FGV - 2022 - MPE-GO) Árvores B são muito usadas na implementação d
 dados.
 
 Uma árvore desse tipo é dita balanceada quando
-
 a) a complexidade do algoritmo de busca é logarítmica.
 
 b) as chaves são armazenadas em ordem de classificação, crescente ou decrescente.
@@ -5978,7 +5917,6 @@ ComErro
 Pendentes Antigos
 
 A estrutura de dados
-
 a) fila é a mais adequada para representar este diretório.
 
 b) pilha é a mais adequada para representar este diretório.
@@ -6010,8 +5948,6 @@ Gabarito: Letra D
 
 Item. 13. (FCC - 2019 - TRF-4) Determinada estrutura de dados foi projetada para minimizar o número de
 acessos à memória secundária. Como o número de acessos à memória secundária depende
-
-
 diretamente da altura da estrutura, esta foi concebida para ter uma altura inferior às
 estruturas
 hierarquizadas similares, para um dado número de registros. Para manter o número de
@@ -6025,7 +5961,6 @@ mais de um
 registro de dados: se o grau de ramificação de um nó for g, este pode armazenar até g-1 registros.
 
 Esta estrutura de dados é utilizada em banco de dados e sistema de arquivos, sendo denominada
-
 a) árvore digital ou trie.
 
 b) árvore B.
@@ -6063,7 +5998,6 @@ Além disso, o primeiro nó tem ligação com o último, e vice-versa.
 de vermelho ou preto. Há algumas regras:
 
 a. os nós vermelhos sempre têm dois filhos pretos
-
 b. a raiz e as folhas devem ser nós pretos.
 
 * árvore binária de busca não balanceada: os elementos são dispostos na árvore de modo que as
@@ -6078,7 +6012,6 @@ pseudocódigo abaixo.
 Considere que * indica ponteiro ou apontador.
 
 Tipo tipoNo = registro
-
 info: inteiro
 
 *prox: tipoNo
@@ -6088,55 +6021,39 @@ Var *inicio, *ant, *aux, *novo, *fim: tipoNo
 Função Filai (info: inteiro)
 
 Início
-
 novo <- aloca (*tipoNo)
 novo->info <- info
-
 novo->prox <- NULO
 
 
 se (inicio = NULO)
 então
-
 inicio <- novo
 fim <- novo
-
-
 senão
-
 fim <- novo
 aux <- inicio
-
 enquanto (aux NULO) faça
 ant <- aux
-
 aux <- aux->prox
 
 
 Fim
-
 fim se
-
 fim enquanto
-
 ant->prox <- novo
 
 Função Fila2(info: inteiro)
 
 Início
-
 se (inicio = NULO)
 
 então
-
 imprima ("Fila vazia")
 
 senão
-
 aux <- inicio
-
 inicio <- inicio->prox
-
 se (inicio = NULO)
 
 fim NULO;
@@ -6145,15 +6062,12 @@ fim se
 
 
 Fim
-
 fim se
-
 libera (aux)
 
 As funções Filai e Fila2 implementam operações em filas. Além das filas, há diversas
 outras estruturas muito úteis
 na solução de problemas, dentre as quais encontram-se as
-
 a) pilhas, também conhecidas como listas FIFO (First In, First Out).
 
 b) deques, que são pilhas que permitem inserir e remover dados em ambas as extremidades.
@@ -6217,7 +6131,6 @@ de
 dados relacionais, que garantem que tais estruturas sempre estejam balanceadas e que o
 espaço
 desperdiçado pela exclusão de itens de dados, se houver, nunca se torne excessivo, é denominada
-
 a) fila.
 
 b) hash.
@@ -6388,8 +6301,6 @@ escolha de
 estruturas de dados em memória é especialmente relevante. Dentre outras classificações,
 é possível
 agrupar essas estruturas em lineares e não lineares, conforme a quantidade de sucessores e
-
-
 antecessores que os elementos da estrutura possam ter. Assinale a opção que
 apresenta,
 respectivamente, estruturas de dados lineares e não lineares.
@@ -6662,11 +6573,8 @@ apresentado exemplo de
 estrutura de informação do tipo abstrata, balanceada, não linear e com relacionamento hierárquico.
 
 a) lista duplamente encadeada
-
 b) árvore binária
-
 c) pilha
-
 d) árvore AVL
 
 
@@ -6776,13 +6684,9 @@ igual ao máximo das
 alturas de seus filhos mais um, qual estrutura NÃO pode representar uma árvore AVL?
 
 a) Uma árvore vazia
-
 b) Uma árvore com dois nós
-
 c) Uma árvore com três nós e altura igual a dois
-
 d) Uma árvore com três nós e altura igual a três
-
 e) Uma árvore com seis nós e altura igual a três
 
 Comentários:
@@ -7388,7 +7292,6 @@ Gabarito: Certo
 Item. 6. (CESPE/CEBRASPE - 2017 - TRE-TO) A estrutura de dados formada por conjuntos de
 pontos (nós ou
 vértices) em um conjunto de linhas (arestas e arcos) que conectam vários pontos é denominada
-
 a) lista encadeada.
 
 b) fila circular.
@@ -7464,7 +7367,6 @@ localidade 2 (distância 5). Um
 Especialista em
 
 Tecnologia da Informação da ARTESP afirma, corretamente, que
-
 a) partindo de qualquer uma das localidades é possível ir para todas as outras e voltar para a
 localidade de
 origem.
@@ -7555,13 +7457,9 @@ estrutura é denominada mpedagio, o
 trecho em pseudocódigo que calcula vp, o valor pedágio, corretamente, é:
 
 a) vp <r mpedagio[n₃0] * mpedagio[n, 1] * tm
-
 b) vp <- mpedagio[l,n] * tm
-
 c) vp e vp + (mpedagio[0₃n] + mpedagio[l₃n]) * tm
-
 d) vp <- (mpedagio[n₃0] / mpedagi o [n, 1]) * tm
-
 e) se (n = 0) então vp e 0 senão vp e (mpedagio[0₃n] / 2) * tm fim se
 
 Comentários:
@@ -7588,7 +7486,6 @@ rota. De um mesmo ponto
 pode haver mais de uma rota, com distâncias diferentes. A lógica correta utilizada
 pelo Agente, em função dos pontos
 a serem percorridos, foi
-
 a) {1} {2,3} {2,4} {5,6}{6}, caminho mais curto 1-2-5-6.
 
 b) {1} {2} {4} {6}, caminho mais curto 1-2-4-6.
@@ -7650,7 +7547,6 @@ https://www.treinaweb.com.br/blog/complexidade-ciclomatica-analise-estatica-e-re
 
 Considerando que no grafo acima há 17 arestas e 13 nós, o cálculo da complexidade ciclomática
 resulta em
-
 a) 6
 
 b) 4
@@ -7678,8 +7574,6 @@ Ciclomática de
 McCabe, com fundamentação na teoria dos grafos. Essa técnica define uma métrica de
 software que
 fornece uma medida quantitativa da complexidade lógica de um programa, apresentando um limite
-
-
 superior para a quantidade de casos de testes de software que devem ser conduzidos.A Complexidade
 Ciclomática pode ser calculada tanto pelo número de regiões quanto pelo número de arestas e nós.
 
@@ -7922,8 +7816,6 @@ Um grafo é dito conexo ou conectado quando existir pelo menos um caminho entre 
 par de vértices.
 Caso contrário, ele será dito desconexo, isto é, se há pelo menos um par de vértices
 que não esteja ligado a
-
-
 nenhuma cadeia (caminho). Vejam a imagem do grafo que eu desenhei lá em
 cima! Ele é conexo ou
 desconexo? Ele é desconexo, há um par de vértices (E,F) que não está ligado a nenhum caminho.
@@ -8107,7 +7999,6 @@ Gabarito: Errado
 
 Item. 27. (CESPE - 2012 - TRT/AM - Analista de Sistemas) Um grafo é uma estrutura de dados consistida
 em um
-
 conjunto de nós (ou vértices) e um conjunto de arcos (ou arestas). O grafo em que os arcos possuem
 um número ou peso associados a eles, é chamado de grafo:
 
@@ -8414,7 +8305,6 @@ inscrição candidatoNome
 106 Joâo
 
 Prova
-
 provaNome data
 Português 12/01/2014
 Matemática 12/01/2014
@@ -8493,7 +8383,6 @@ Vieira
 
 Num mapa de bits para a mesma tabela, usando apenas o atributo Inscrição, o mapa
 de bits seria
-
 a)
 10110001001000
 
@@ -8712,7 +8601,6 @@ Dados:
 (1) Homogêneas
 
 (2) Heterogêneas
-
 a) A2-B1-C2
 
 b) A1-B1-C2
@@ -8972,7 +8860,6 @@ coleção,
 conforme exemplificado na figura abaixo.
 
 Trata-se da estrutura linear unidimensional
-
 a) string.
 
 b) hashing.
@@ -9033,7 +8920,6 @@ vet[6] <- vet[3]
 vet[3] <- vet[l] <- aux
 
 A configuração do vetor (do índice 1 ao 8) será
-
 a) ZONAAMAS
 
 b) AMASZONA
@@ -9078,7 +8964,6 @@ Gabarito: Letra E
 Item. 8. (FCC - 2012 - TJ-RJ) O algoritmo conhecido como busca binária é um algoritmo de desempenho
 ótimo
 para encontrar a posição de um item em
-
 a) uma árvore B.
 
 b) uma lista ligada ordenada.
@@ -9256,7 +9141,6 @@ forma de pseudocódigo:
 Var n, i, j, k, x: inteiro
 Var v: vetor[0..7] inteiro
 Início
-
 v[0] <- 12
 
 v[l] <- 145
@@ -9279,12 +9163,10 @@ Para j <- n-1 até k passo -1 faça
 v[j] <- v[j -1];
 
 Fim_para
-
 v[k] <- x;
 Fim
 
 Este pseudocódigo
-
 a) exclui o valor contido na posição x do vetor v.
 
 
@@ -9351,20 +9233,15 @@ toda a lista;
 remover um elemento qualquer dela; e esvaziá-la.
 
 a) lista simplesmente encadeada e não ordenada
-
 b) lista simplesmente encadeada e ordenada
-
 c) lista duplamente encadeada e não ordenada
-
 d) lista duplamente encadeada e não ordenada
-
 e) lista triplamente encadeada
 
 Item. 3. (FUNDATEC - 2022 - IF-RS) Que tipo de estrutura de dados está representada na Figura 1
 abaixo?
 
 Figura 1 - Estrutura de dados
-
 a) Árvore binária.
 
 b) Fila.
@@ -9450,13 +9327,9 @@ com exceção dos elementos inicial e final — referencia sempre outros dois, u
 que o sucede.
 
 a) lista circular
-
 b) grafo
-
 c) lista duplamente encadeada
-
 d) árvore
-
 e) pilha
 
 Item. 8. (CESPE/CEBRASPE - 2017 - TRT-7) Considere uma estrutura de dados em
@@ -9464,7 +9337,6 @@ que cada elemento
 armazenado apresenta ligações de apontamento com seu sucessor e com o seu predecessor,
 o que
 possibilita que ela seja percorrida em qualquer sentido. Trata-se de
-
 a) uma fila.
 
 b) um grafo.
@@ -9506,7 +9378,6 @@ b) Chelsea, Bayern, Real Madrid, Roma, Barcelona.
 c) Real Madrid, Roma, Barcelona, Chelsea, Bayern.
 
 d) Barcelona, Bayern, Chelsea, Real Madrid, Roma
-
 e) Roma, Real Madrid, Bayern, Chelsea, Barcelona.
 
 Item. 11. (CESPE/CEBRASPE - 2018 - BNB)
@@ -9532,13 +9403,9 @@ informação de cada elemento, um IV para o próximo elemento da V .
 As lacunas de I a V, são preenchidas, corretas e respectivamente, por:
 
 a) estrutura de pilha - tamanho - memória - array - pilha
-
 b) lista encadeada - memória - lista - ponteiro - lista
-
 c) estrutura de filas (FIFO) - disco - sequência - buffer - memória alocada
-
 d) arquitetura de memória primária - tamanho - fila - contador sequencial - conexão
-
 e) arquitetura TCP/IP - tamanho fixo - conexão - número de roteamento - tabela MTU
 
 Item. 13. (FCC - FAURGS - SES-RS) Qual é a afirmativa correta sobre estruturas de dados?
@@ -9577,13 +9444,9 @@ informação de cada elemento, um IV para o próximo elemento da V .
 As lacunas de I a V, são preenchidas, corretas e respectivamente, por:
 
 a) estrutura de pilha - tamanho - memória - array - pilha
-
 b) lista encadeada - memória - lista - ponteiro - lista
-
 c) estrutura de filas (FIFO) - disco - sequência - buffer - memória alocada
-
 d) arquitetura de memória primária - tamanho - fila - contador sequencial - conexão
-
 e) arquitetura TCP/IP - tamanho fixo - conexão - número de roteamento - tabela MTU
 
 Item. 15. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados) O tempo de
@@ -9853,9 +9716,7 @@ Item. 3. (CESPE/CEBRASPE - 2022 - DPE-RO) Em um sistema operacional, a estrutura
 utilizada para
 organizar chamadas de funções recursivas por meio da inserção ou remoção de elementos
 via
-
 operações como push e pop é denominada
-
 a) lista estática.
 
 b) fila.
@@ -10059,7 +9920,6 @@ Gabarito: Letra D
 Item. 7. (FGV - 2021 - FUNSAÚDE-CE) As operações POP e PUSH aplicáveis às estruturas de
 dados são
 conhecidas como
-
 a) árvores binárias.
 
 b) bitmaps.
@@ -10111,7 +9971,6 @@ PUSH
 
 Assinale a opção que indica o número de elementos e o valor do elemento localizado no topo da
 pilha, ao final das
-
 operações.
 
 a) 3/12
@@ -10536,7 +10395,6 @@ Gabarito: Errado
 
 Item. 23. (FCC - 2009 - TRT - 16- REGIÃO (MA) - Técnico Judiciário - Tecnologia da
 Informação) Pilha é uma
-
 estrutura de dados:
 
 a) cujo acesso aos seus elementos segue tanto a lógica LIFO quanto a FIFO.
@@ -10606,14 +10464,9 @@ dados na
 qual o primeiro elemento inserido é o último a ser removido.
 
 a) Árvore
-
 b) Fila
-
 c) Pilha
-
 d) Grafo
-
-
 e) Tabela de dispersão
 
 Comentários:
@@ -10716,11 +10569,8 @@ LIFO
 (Last In, First Out):
 
 a) lista-vetor
-
 b) pilha-fila
-
 c) vetor-lista
-
 d) fila-pilha
 
 Item. 2. (IF-TO - 2022 - IF-TO) Em estrutura de dados os conceitos de FILAS e PILHAS
@@ -10733,7 +10583,6 @@ Sobre essas estruturas, quais das definições abaixo são corretas?
 
 a) Nas FILAS é usado o princípio do primeiro a entrar é o último a sair, já as PILHAS obedecem a
 regra do primeiro
-
 a entrar é o último a sair.
 
 b) Nas FILAS é usado o princípio do primeiro a entrar é o primeiro a sair, já as PILHAS obedecem
@@ -10774,7 +10623,6 @@ Item. 4. (CESPE/CEBRASPE - 2021 - SEED-PR) Em determinada estrutura de dados, os
 segundo a qual o último a entrar é o primeiro a sair.
 
 Essa estrutura é do tipo
-
 a) pilha.
 
 b) fila.
@@ -10806,7 +10654,6 @@ e) os elementos são formados de índices em duas dimensões: linhas e colunas.
 Item. 6. (CESPE/CEBRASPE - 2017 - TRT-7) A lógica FIFO (first-in first-out) é utilizada na estrutura
 de dados do
 tipo
-
 a) pointer ou ponteiros.
 
 b) queue ou filas.
@@ -10824,7 +10671,6 @@ Item. 8. (CESPE/CEBRASPE-2018-TCE-MG)
 
 Uma estrutura de dados em que o primeiro elemento inserido seja o primeiro elemento a ser retirado
 é denominada
-
 a) pilha.
 
 b) matriz.
@@ -10867,7 +10713,6 @@ atendida. Não
 deve ser permitido inserir pedidos de impressão no meio dos pedidos já realizados.
 
 A estrutura de dados mais adequada para Ana utilizar é
-
 a) pilha.
 
 
@@ -11132,7 +10977,6 @@ e) 20,30
 Item. 2. (FGV - 2022 - SEMSA Manaus) Numa estrutura de dados do tipo Árvore B, onde
 cada nó não raiz pode
 conter entre d e 2.d chaves, a complexidade do algoritmo de busca é da ordem
-
 a) log de N na base 2.
 
 b) log de N na base d.
@@ -11201,9 +11045,7 @@ CONSULTA (x)
 2 do x <- esquerda [x]
 
 3 return x
-
 realiza, na árvore, a consulta de
-
 a) search.
 
 b) minimum.
@@ -11254,7 +11096,6 @@ Item. 8. (FGV - 2022 - MPE-GO) Árvores B são muito usadas na implementação d
 bancos de dados.
 
 Uma árvore desse tipo é dita balanceada quando
-
 a) a complexidade do algoritmo de busca é logarítmica.
 
 b) as chaves são armazenadas em ordem de classificação, crescente ou decrescente.
@@ -11352,7 +11193,6 @@ ComErro
 Pendentes Antigos
 
 A estrutura de dados
-
 a) fila é a mais adequada para representar este diretório.
 
 b) pilha é a mais adequada para representar este diretório.
@@ -11381,7 +11221,6 @@ associados mais de um
 registro de dados: se o grau de ramificação de um nó for g, este pode armazenar até g-1 registros.
 
 Esta estrutura de dados é utilizada em banco de dados e sistema de arquivos, sendo denominada
-
 a) árvore digital ou trie.
 
 b) árvore B.
@@ -11402,8 +11241,6 @@ Tipo tipoNo = registro
 
 * 05152001900 -
 Everton Murilo Vieira
-
-
 info: inteiro
 
 *prox: tipoNo
@@ -11413,54 +11250,38 @@ Var *inicio, *ant, *aux, *novo, *fim: tipoNo
 Função Filai (info: inteiro)
 
 Início
-
 novo <- aloca (*tipoNo)
 novo->info <- info
-
 novo->prox <- NULO
 se (inicio = NULO)
 
 então
-
 inicio <- novo
 fim <- novo
-
-
 senão
-
 fim <- novo
 aux <- inicio
-
 enquanto (aux NULO) faça
 ant <- aux
-
 aux <- aux->prox
 
 
 Fim
-
 fim se
-
 fim enquanto
-
 ant->prox <- novo
 
 Função Fila2(info: inteiro)
 
 Início
-
 se (inicio = NULO)
 
 então
-
 imprima ("Fila vazia")
 
 senão
-
 aux <- inicio
-
 inicio <- inicio->prox
-
 se (inicio = NULO)
 
 fim NULO;
@@ -11469,15 +11290,12 @@ fim se
 
 
 Fim
-
 fim se
-
 libera (aux)
 
 As funções Filai e Fila2 implementam operações em filas. Além das filas, há diversas
 outras estruturas muito úteis
 na solução de problemas, dentre as quais encontram-se as
-
 a) pilhas, também conhecidas como listas FIFO (First In, First Out).
 
 b) deques, que são pilhas que permitem inserir e remover dados em ambas as extremidades.
@@ -11502,7 +11320,6 @@ dinâmicos em banco de
 dados relacionais, que garantem que tais estruturas sempre estejam balanceadas
 e que o espaço
 desperdiçado pela exclusão de itens de dados, se houver, nunca se torne excessivo, é denominada
-
 a) fila.
 
 b) hash.
@@ -11700,11 +11517,8 @@ Item. 35. (CESPE - 2012 - TJ/RO - Analista de Sistemas) Assinale a opção em qu
 estrutura de informação do tipo abstrata, balanceada, não linear e com relacionamento hierárquico.
 
 a) lista duplamente encadeada
-
 b) árvore binária
-
 c) pilha
-
 d) árvore AVL
 
 e) deque
@@ -11755,13 +11569,9 @@ igual ao máximo das
 alturas de seus filhos mais um, qual estrutura NÃO pode representar uma árvore AVL?
 
 a) Uma árvore vazia
-
 b) Uma árvore com dois nós
-
 c) Uma árvore com três nós e altura igual a dois
-
 d) Uma árvore com três nós e altura igual a três
-
 e) Uma árvore com seis nós e altura igual a três
 
 Item. 39. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas) Após a inserção de um
@@ -12129,7 +11939,6 @@ e) O grafo não pode ser classificado como conexo.
 
 Item. 6. (CESPE/CEBRASPE - 2017 - TRE-TO) A estrutura de dados formada por conjuntos de pontos (nós
 ou vértices) em um conjunto de linhas (arestas e arcos) que conectam vários pontos é denominada
-
 a) lista encadeada.
 
 b) fila circular.
@@ -12159,7 +11968,6 @@ localidade 2 (distância 5). Um
 Especialista em
 
 Tecnologia da Informação da ARTESP afirma, corretamente, que
-
 a) partindo de qualquer uma das localidades é possível ir para todas as outras e voltar para a
 localidade de
 origem.
@@ -12170,8 +11978,6 @@ de y para x.
 
 
 www. estra tegiaconcursos. com. br
-
-
 c) a rota direta mais longa entre duas localidades é 9.
 
 d) a rota mais curta partindo da localidade 3 e chegando na localidade 2 é 9.
@@ -12210,13 +12016,9 @@ estrutura é denominada mpedagio, 0
 trecho em pseudocódigo que calcula vp, 0 valor pedágio, corretamente, é:
 
 a) vp mpedagio[n t0] * mpedagio[n,1] * tm
-
 b) vp <- mpedagio[l, n] * tm
-
 c) vp vp + (mpedagio[0rn] + mpedagio[1rn]) * tm
-
 d) vp <- (mpedagio[n r 0]/ mpedagio[n , 1]) * tm
-
 e) se (n = 0) então vp <- 0 senão vp <- (mpedagio[0 r n]/ 2) * tm fim se
 
 Item. 10. (FCC - 2017 - ARTESP) Considere a estrutura abaixo que representa um
@@ -12230,7 +12032,6 @@ rota. De um mesmo ponto
 pode haver mais de uma rota, com distâncias diferentes. A lógica correta utilizada
 pelo Agente, em função dos pontos
 a serem percorridos, foi
-
 a) {1} {2,3} {2,4} {5,6}{6}, caminho mais curto 1-2-5-6.
 
 b) {1} {2} {4} {6}, caminho mais curto 1-2-4-6.
@@ -12243,8 +12044,6 @@ e) {6} {4} {5,3} {2,1} {1}, caminho mais curto 6-4-3-5-2-1, que é igual a 1-2-5
 
 
 www. estra tegiaconcursos. com. br
-
-
 íi. (FCC - 2018 - DPE-AM) Considere o grafo abaixo.
 
 A complexidade ciclomático é uma métrica que mede a complexidade de um determinado
@@ -12264,7 +12063,6 @@ https://www.treinaweb.com.br/blog/complexidade-ciclomatica-analise-estatica-e-re
 
 Considerando que no grafo acima há 17 arestas e 13 nós, o cálculo da complexidade ciclomática
 resulta em
-
 a) 6
 
 b) 4
@@ -12749,7 +12547,6 @@ inscrição candidatoNome
 106 Joâo
 
 Prova
-
 provaNome data
 Português 12/01/2014
 Matemática 12/01/2014
@@ -12827,7 +12624,6 @@ www. estra tegiaconcursos. com. br
 
 Num mapa de bits para a mesma tabela, usando apenas o atributo Inscrição, o mapa
 de bits seria
-
 a)
 10110001001000
 

@@ -173,7 +173,6 @@ será dada
 por:
 
 Item. 4. Média Harmônica
-
 n
 
 H - . 111 1
@@ -226,9 +225,7 @@ Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 Md = li +
 
 \-2+f l J accint
-
 h
-
 fi
 
 Em que:
@@ -405,7 +402,6 @@ P(A n E)
 P(4)
 
 > Se a ocorrência do evento A não influir no cálculo da probabilidade do evento B, os
-
 eventos são ditos independentes e neste caso tem-se:
 
 P(4AE) = PQ4).P(E)
@@ -436,7 +432,6 @@ Item. 15. Variáveis Aleatórias
 > Variável aleatória (v.a.) é uma variável que é associada a uma
 distribuição de
 probabilidade. Ela pode assumir valores de uma maneira completamente aleatória, ou
-
 seja, não temos como prever o seu resultado. Por outro lado, podemos associar valores
 de probabilidade a cada um dos possíveis resultados.
 
@@ -454,10 +449,7 @@ Item. 16. Esperança Matemática
 por definição, o número:
 
 n
-
 h = e(X) = ^Xi.pm
-
-
 t=i
 
 
@@ -509,7 +501,6 @@ realizaremos o experimento n vezes.
 
 > Consideremos um experimento constituído por n ensaios INDEPENDENTES de
 Bernoulli. Cada ensaio pode resultar em um de dois eventos mutuamente
-
 excludentes.
 
 > A probabilidade de ocorrer o resultado favorável (sucesso) em cada ensaio é p e a
@@ -524,7 +515,6 @@ P-
 > A probabilidade de ocorrerem k sucessos em n ensaios é:
 
 > A média do número X de resultados favoráveis em uma distribuição binomial é np e a
-
 variância é npq.
 
 Item. 21. Distribuição Geométrica
@@ -555,7 +545,6 @@ atributo e, portanto, N - s possuem o atributo fracasso.
 > Resumindo:
 
 * Temos um conjunto com N elementos dos quais s possuem o atributo sucesso
-
 e N -s possuem o atributo fracasso.
 
 * Serão retirados n elementos do conjunto sem reposição.
@@ -621,7 +610,6 @@ exemplo do telefone, é o número de vezes que o telefone toca por dia.
 P(X = k)
 
 e~A.Àk
-
 fc!
 
 
@@ -736,13 +724,10 @@ observado.
 Item. 26. Tipos de Erros
 
 > Quando estamos diante da decisão de optarmos pela hipótese nula ou pela
-
 alternativa, existem dois tipos de erros. Se rejeitarmos uma hipótese nula verdadeira,
 
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
-
 estaremos cometendo o erro de tipo I, já se rejeitar a hipótese alternativa verdadeira,
 estaremos cometendo o erro tipo II.
 
@@ -752,8 +737,6 @@ estaremos cometendo o erro tipo II.
 Verdade sobre a população
 
 Decisão com base em
-
-
 amostra
 
 Deixa de rejeitar Ho

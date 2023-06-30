@@ -109,7 +109,6 @@ desenvolvimento, como também facilidade no resgate de versões mais
 
 
 Controle do histórico
-
 antigas e estáveis. A maioria das implementações permitem analisar as
 alterações com detalhes, desde a primeira versão até a última.
 
@@ -719,7 +718,6 @@ de seu próximo commit.
 
 : (VUNESP - FUNDUNESP- 2016) O Git, ao tratar os arquivos que devem sofrer o processo de controle
 i de versões, classifica o estado desses arquivos em 3 categorias, definidas como
-
 i a) checked (verificado), tracked (acompanhado) e identified (identificado).
 i b) committed (consolidado), modified (modificado) e staged (preparado).
 
@@ -787,9 +785,7 @@ Comando
 Criar novo repositório
 
 Verificar estado dos arquivos/diretórios
-
 git init
-
 git status
 
 Descrição
@@ -815,11 +811,9 @@ Remover diretório
 Exibir histórico
 
 Exibir histórico com diff das duas últimas
-
 alterações
 Exibir resumo do histórico (hash completa,
 autor, data, comentário e qtde de
-
 alterações (+/-))
 
 Exibir informações resumidas em uma linha
@@ -834,33 +828,24 @@ Exibir historio de um arquivo específico
 Exibir histórico de um arquivo específico
 que contêm uma determinada palavra
 Exibir histórico modificação de um arquivo
-
 git add meu_arquivo.txt
-
 git add meu_diretorio
 git add .
 
 git add -f arquivo_no_gitignore.txt
-
 git commit meu_arquivo.txt
-
 git commit meu_arquivo.txt
 meu_outro_arquivo.txt
-
 git commit meuarquivo.txt -m "minha mensagem
 de commit"
 
 git rm meu_arquivo.txt
 git rm -r diretorio
-
 git log
-
 git log -p -2
 
 git log --stat
-
 git log --pretty=oneline
-
 git log -pretty=format:"%h - %an, %ar: %s"
 
 %h: Abreviação do hash;
@@ -887,24 +872,20 @@ git log —diff-filter=M - <caminho_do_arquivo>
 Exibir revisão e autor da última
 modificação de uma bloco de linhas
 Desfazendo alteração local (working
-
 directory)1
 
 Desfazendo alteração local (staging area)2
 Exibir os repositórios remotos
 
 Vincular repositório local com um
-
 repositório remoto
 Exibir informações dos repositórios
-
 remotos
 
 Renomear um repositório remoto
 Desvincular um repositório remoto
 
 Enviar arquivos/diretórios para o
-
 repositório remoto
 Listar configurações
 
@@ -920,35 +901,23 @@ branch atual
 Clonar um repositório remoto já existente
 Usa busca binária para encontrar o commit
 que introduziu um bug
-
 git blame -L 12,22 meu_arquivo.txt
 git checkout - meu_arquivo.txt
-
 git reset HEAD meu_arquivo.txt
 git remote
-
 git remote -v
-
 git remote add origin
 git@github.com:usuario/repositorio
-
 git remote show origin
-
 git remote rename origin curso-git
 git remote rm curso-git
-
 git push -u origin master
-
 git config —list
-
 git config -global user.name "nome"
 git config -global core.editor vim
-
 git config -global merge.tool vimdiff
 git pull
-
 git fetch
-
 git clone git@<caminho_do_arquivo>
 git-bisect
 
@@ -1016,7 +985,6 @@ modificar a
 mensagem do commit mais recente, ou seja, o último commit feito por ele no projeto.
 Trata-se
 do comando git
-
 a) add merge.
 
 b) push.
@@ -1133,13 +1101,9 @@ comando
 utilizado para enviar as alterações do repositório local para o repositório remoto?
 
 a) git commit
-
 b) git push
-
 c) git add
-
 d) git pull
-
 e) git send
 
 Comentários: Vamos relembrar cada comando: a) git commit: Comitar um arquivo, b) git
@@ -1188,7 +1152,6 @@ repositório do
 GitHub para o computador do usuário.
 
 Comentários: Pessoal, vejamos a definição do comando citado: git clone
-
 git@<caminho_do_arquivo>: Clonar um repositório remoto já existente, além disso,
 git-clone -
 Clona um repositório em um novo diretório.
@@ -1242,13 +1205,9 @@ ignorar no
 repositório Git local?
 
 a) ignore.git
-
 b).gitignore
-
 c) git.ignore
-
 d) gitignore.txt
-
 e) .gitignore.txt
 
 Comentários: O comando gitignore especifica arquivos não rastreados
@@ -1270,13 +1229,9 @@ correta para
 iniciar qualquer modificação. Utilizando o sistema de versionamento de código GiT, para
 entrar
 em uma branch denominada mobile, utiliza-se o comando
-
 a) git branch mobile
-
 b) git checkout mobile
-
 c) git status mobile
-
 d) git change mobile
 
 Comentários: Pessoal, o mais importante é saber o que cada comando faz: git-branch:
@@ -1324,7 +1279,6 @@ III. criar e manter variações do projeto.
 Tanto o Subversion, quanto o Git e o Mercurial atendem estas necessidades.
 
 O Auditor estava pesquisando sobre ferramentas de
-
 a) projeto e governança de portais corporativos.
 
 b) controle de workflows e Business Process Management (BPM).
@@ -1348,13 +1302,9 @@ e
 mudar para essa branch ao mesmo tempo.
 
 a) git log new_branch
-
 b) git clone new_branch
-
 c) git checkout -b new_branch
-
 d) git init new_branch
-
 e) git commit -m 'new_branch'
 
 
@@ -1464,7 +1414,6 @@ Gabarito: Letra B
 
 Item. 17. (FCC - Prefeitura de Teresina - PI - 2016) No sistema de controle de versões Mercurial, para
 exibir, em detalhes, cada evento que ocorreu no repositório utiliza-se o comando
-
 a) hg status all.
 
 b) hg view -log.
@@ -1481,7 +1430,6 @@ Gabarito: Letra D
 
 Item. 18. (VUNESP - FUNDUNESP- 2016) O Git, ao tratar os arquivos que devem sofrer o processo de
 controle de versões, classifica o estado desses arquivos em 3 categorias, definidas como
-
 a) checked (verificado), tracked (acompanhado) e identified (identificado).
 
 b) committed (consolidado), modified (modificado) e staged (preparado).
@@ -1619,7 +1567,6 @@ modificar a
 mensagem do commit mais recente, ou seja, o último commit feito por ele no projeto.
 Trata-se
 do comando git
-
 a) add merge.
 
 b) push.
@@ -1689,13 +1636,9 @@ comando
 utilizado para enviar as alterações do repositório local para o repositório remoto?
 
 a) git commit
-
 b) git push
-
 c) git add
-
 d) git pull
-
 e) git send
 
 Item. 5. (CESPE - MPE CE - 2020) GitHub é uma plataforma de hospedagem de código que
@@ -1737,13 +1680,9 @@ ignorar no
 repositório Git local?
 
 a) ignore.git
-
 b).gitignore
-
 c) git.ignore
-
 d) gitignore.txt
-
 e) .gitignore.txt
 
 
@@ -1761,13 +1700,9 @@ correta para
 iniciar qualquer modificação. Utilizando o sistema de versionamento de código GiT, para
 entrar
 em uma branch denominada mobile, utiliza-se o comando
-
 a) git branch mobile
-
 b) git checkout mobile
-
 c) git status mobile
-
 d) git change mobile
 
 Item. 11. (Quadrix - CRM-PR - 2018) A ferramenta SVN (subversion) realiza o controle de
@@ -1793,7 +1728,6 @@ III. criar e manter variações do projeto.
 Tanto o Subversion, quanto o Git e o Mercurial atendem estas necessidades.
 
 O Auditor estava pesquisando sobre ferramentas de
-
 a) projeto e governança de portais corporativos.
 
 b) controle de workflows e Business Process Management (BPM).
@@ -1811,11 +1745,8 @@ e
 mudar para essa branch ao mesmo tempo.
 
 a) git log new_branch
-
 b) git clone new_branch
-
 c) git checkout -b new_branch
-
 d) git init new_branch
 
 
@@ -1875,7 +1806,6 @@ e) Uma cópia local sempre estará atualizada quando se usa o controle de versõ
 Item. 17. (FCC - Prefeitura de Teresina - PI - 2016) No sistema de controle de versões
 Mercurial, para
 exibir, em detalhes, cada evento que ocorreu no repositório utiliza-se o comando
-
 a) hg status all.
 
 b) hg view -log.
@@ -1897,7 +1827,6 @@ x
 Item. 18. (VUNESP - FUNDUNESP- 2016) O Git, ao tratar os arquivos que devem sofrer o
 processo de
 controle de versões, classifica o estado desses arquivos em 3 categorias, definidas como
-
 a) checked (verificado), tracked (acompanhado) e identified (identificado).
 
 b) committed (consolidado), modified (modificado) e staged (preparado).
@@ -2104,7 +2033,6 @@ parar de funcionar?
 Oneteam, onegoal
 
 Development IT Operations
-
 ness and the NOC's concern with quality and stability on the ultimate
 goal of providing business value.
 
@@ -2236,7 +2164,6 @@ users have the best feedback and
 analytics play an enormous part of
 understanding users. Developers
 are constantly monitoring end
-
 user latency and checking
 performance by devices
 and browsers.
@@ -2283,7 +2210,6 @@ what has changed and where to
 focus their troubleshooting efforts.
 Alerts based upon deviation from
 observed baselines improve alert
-
 quality and reduce alert noise.
 
 *
@@ -2808,11 +2734,8 @@ Docker. Considerando que um analista queira criar um volume de nome my-volume de
 um docker, ele deve executar o comando:
 
 a) docker volume create my-volume
-
 b) docker create volume my-volume
-
 c) docker run create volume my-volume
-
 d) docker create run volume my-volume
 
 Comentários:
@@ -2862,11 +2785,8 @@ mailserver,
 ele deve executar o comando:
 
 a) docker expose mailserver
-
 b) docker layers mailserver
-
 c) docker history mailserver
-
 d) docker image mailserver
 
 Comentários:
@@ -2889,7 +2809,6 @@ operacional (S.O.) que são necessárias para executar esse código em qualquer 
 b) É projetado para ser flexível, ele estabelece um padrão para a construção de
 interfaces com o
 usuário do lado do servidor. A arquitetura define claramente uma separação entre a lógica da
-
 x
 
 
@@ -3120,11 +3039,8 @@ que se
 trata de:
 
 a) um complemento para virtualização completa, associado ao VMware ESXi
-
 b) um complemento para virtualização completa, associado ao VMware
-
 c) uma ferramenta para criar e manter máquinas virtuais
-
 d) uma ferramenta para criar e manter containers
 
 Comentários:
@@ -3317,7 +3233,6 @@ isoladas e não
 podem ser vistas fora dele.
 
 Gabarito: Errado
-
 x
 
 
@@ -3355,11 +3270,8 @@ Docker. Considerando que um analista queira criar um volume de nome my-volume de
 um docker, ele deve executar o comando:
 
 a) docker volume create my-volume
-
 b) docker create volume my-volume
-
 c) docker run create volume my-volume
-
 d) docker create run volume my-volume
 
 Item. 3. (AOCP / MJSP - 2020) O Docker possibilita que uma imagem com todos os
@@ -3387,12 +3299,8 @@ mailserver,
 ele deve executar o comando:
 
 a) docker expose mailserver
-
 b) docker layers mailserver
-
 c) docker history mailserver
-
-
 d) docker image mailserver
 
 Item. 5. (FURB / Prefeitura De Blumenau - 2022) Sobre Docker, marque a alternativa CORRETA:
@@ -3553,13 +3461,9 @@ que se
 trata de:
 
 a) um complemento para virtualização completa, associado ao VMware ESXi
-
 b) um complemento para virtualização completa, associado ao VMware
-
 c) uma ferramenta para criar e manter máquinas virtuais
-
 d) uma ferramenta para criar e manter containers
-
 i2.(CESPE / SLU - 2019) O Docker é uma ferramenta open source que permite a
 criação de
 ambientes virtuais por meio de Linux Containers, sendo uma das vantagens dos contêineres
@@ -3619,7 +3523,6 @@ demais
 instalados dentro da máquina host.
 
 Estão corretas apenas as afirmativas
-
 a) III e IV
 
 b) II e IV
@@ -4031,13 +3934,9 @@ implantação de
 aplicações, inspecionar e gerenciar recursos do cluster e visualizar logs.
 
 a) Kubeadm
-
 b) Minikube
-
 c) Kubectl
-
 d) Kind
-
 e) Kubelet
 
 Comentários:
@@ -4120,7 +4019,6 @@ A questão extrapola no conhecimento e só a alternativa E foca no nosso assunto
 Kubernetes, sem
 mais enrolação, está perfeita a definição: Kubernetes é uma ferramenta de
 orquestração que
-
 x
 
 
@@ -4191,7 +4089,6 @@ foram
 criados sem nenhum node atribuído e selecionar um node para execução.
 
 Gabarito: Errado
-
 io.(FGV / TJ-RO - 2021) A equipe de desenvolvimento de sistemas de um tribunal de
 contas está
 guiando a implantação de um Webservice REST. A implantação será dividida nos
@@ -4212,13 +4109,9 @@ configurado
 um novo:
 
 a) pod
-
 b) replicaSet
-
 c) service
-
 d) ingress
-
 e) statefulSet
 
 Comentários:
@@ -4240,7 +4133,6 @@ muitas
 delas são usadas no gerenciamento do ciclo de vida dos contêineres; entre elas, o
 Docker Swarm
 é uma plataforma
-
 a) que permite utilizar diversos recursos e ferramentas, como Apache e PHP,
 porém tudo
 rodando em um mesmo sistema operacional.
@@ -4310,7 +4202,6 @@ operações de
 redimensionamento, falhas de verificação de sanidade de contêineres e migrações entre nós.
 
 Está correto o que se afirma em
-
 a) I, somente.
 
 b) II, somente.
@@ -4355,13 +4246,9 @@ aplicações, inspecionar e gerenciar recursos do cluster e visualizar logs.
 
 
 a) Kubeadm
-
 b) Minikube
-
 c) Kubectl
-
 d) Kind
-
 e) Kubelet
 
 Item. 5. (CESPE / SEFAZ-CE - 2021) No Kubernetes, kubelet é uma pequena aplicação
@@ -4442,13 +4329,9 @@ configurado
 um novo:
 
 a) pod
-
 b) replicaSet
-
 c) service
-
 d) ingress
-
 e) statefulSet
 
 Item. 11. (CESPE / STJ - 2015) A orquestração automatiza a implantação, o gerenciamento, a
@@ -4460,7 +4343,6 @@ muitas
 delas são usadas no gerenciamento do ciclo de vida dos contêineres; entre elas, o
 Docker Swarm
 é uma plataforma
-
 a) que permite utilizar diversos recursos e ferramentas, como Apache e PHP,
 porém tudo
 rodando em um mesmo sistema operacional.
@@ -4617,7 +4499,6 @@ CPU Usage
 Memory Usage
 
 Disk Usage Pod Usage
-
 p)
 
 Interactive Learnlng Portal c?
@@ -4717,15 +4598,10 @@ capaz de
 executar e disponibilizar aplicações a partir de contêineres. As imagens dos
 contêineres no
 Openshift podem ser armazenadas no componente denominado
-
 a) Pod
-
 b) Build
-
 c) Secret
-
 d) Registry
-
 e) Master
 
 Comentários:
@@ -4737,15 +4613,10 @@ Gabarito: Letra D
 Item. 2. (FGV/FUNSAÚDE-CE-2021) Em um cluster Openshift, há uma série de configurações que
 são
 feitas e devem ser persistidas. O estado persistente do master é armazenado no componente
-
 a) etcd
-
 b) haproxy
-
 c) API server
-
 d) Namespace
-
 e) Replica controller
 
 Comentários:
@@ -4787,29 +4658,19 @@ capaz de
 executar e disponibilizar aplicações a partir de contêineres. As imagens dos
 contêineres no
 Openshift podem ser armazenadas no componente denominado
-
 a) Pod
-
 b) Build
-
 c) Secret
-
 d) Registry
-
 e) Master
 
 Item. 2. (FGV/FUNSAÚDE-CE-2021) Em um cluster Openshift, há uma série de configurações que
 são
 feitas e devem ser persistidas. O estado persistente do master é armazenado no componente
-
 a) etcd
-
 b) haproxy
-
 c) API server
-
 d) Namespace
-
 e) Replica controller
 
 Item. 3. (CESPE / ME - 2020) Na situação em que vários aplicativos desenvolvidos e

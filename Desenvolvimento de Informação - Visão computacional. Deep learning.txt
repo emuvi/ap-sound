@@ -241,8 +241,6 @@ sido usado para
 monitorar imagens de satélite, na construção de cidades inteligentes e
 em fiscalizações
 alfandegárias e de segurança. Na área da saúde, tem sido usado para identificar doenças oculares
-
-
 e encontrar sinais precoces de câncer em mamografias. Na agricultura, tem
 sido usado para
 detectar bombas de irrigação que não funcionam bem, avaliar a produtividade
@@ -534,8 +532,6 @@ muitos exemplos mais concretos do que isso significa.
 Neste início da seção acho importante você entender que existe uma relação
 entre os termos
 inteligência artificial, aprendizado de máquina, aprendizagem profunda e redes neurais
-
-
 profundas. A figura abaixo demonstra que um redes neurais profundas é um
 subconjunto das
 soluções de DL. Vejamos:
@@ -698,8 +694,6 @@ têm sido
 usados no reconhecimento de imagens desde a década de 1980. Nos últimos anos, graças
 ao
 aumento do poder computacional, à quantidade de dados de treinamento disponíveis e a alguns
-
-
 truques feitos para treinar redes profundas, as CNNs conseguiram atingir um desempenho
 sobre­
 humano em algumas tarefas visuais complexas. Eles potencializam os serviços de
@@ -921,8 +915,6 @@ Lembre-se: Um neurônio em uma camada convolucional está escassamente conectado
 A capacidade de detectar apenas um único recurso, como uma linha vertical,
 seria muito
 limitante. Para classificar diferentes tipos de objetos, a rede também precisa ser capaz de
-
-
 identificar linhas horizontais, linhas diagonais e talvez manchas coloridas ou
 outros blocos de
 construção primitivos. Isso é resolvido organizando a camada convolucional em
@@ -982,8 +974,6 @@ todos os
 canais de saída juntos formam uma única camada convolucional. Cada camada
 convolucional
 recebe entradas de vários canais de entrada e produz vários canais de saída. Todos os canais em
-
-
 uma única camada convolucional têm o mesmo número de neurônios e todos os neurônios
 em um
 canal compartilham pesos uns com os outros. No entanto, canais diferentes na mesma
@@ -1046,10 +1036,8 @@ essas duas vaiáveis defasadas 2 dias para tentar prever a demanda de sorvete no
 seguinte.
 Nesse caso a variável dependente seria y=demandat+ie as variáveis
 independentes seriam
-
 x=[demandat, demandat-i, tempt, tempt-i]. No entanto, há alguns
 problemas com essa
-
 representação. Por exemplo, como fazer para decidir quantas defasagens é suficiente? Uma
 vez
 decidido isso, o que fazer quando algumas observações não têm nem sequer o número
@@ -1102,12 +1090,10 @@ passa informações para o estado oculto do próximo período.
 
 De maneira mais resumida, o estado oculto da RNR recebe informações
 das variáveis
-
 independentes Xt, assim como de seu próprio resultado de processamento Ht-i,
 só que de um
 período anterior. Note que período aqui não representa o tempo do relógio, mas um
 tempo lógico
-
 que denota ordem numa sequência. Por exemplo, cada palavra em uma frase denota um
 período
 de processamento da RNR.
@@ -1121,8 +1107,6 @@ sobre isso, considere a imagem abaixo.
 
 one to one one to many many to one many to many
 many to many
-
-
 t I 1 í 1
 
 * ► * -
@@ -1130,7 +1114,6 @@ t I 1 í 1
 t 1 1 1 1
 
 t t
-
 t t t
 
 [ 1 f t
@@ -1142,8 +1125,6 @@ t t t
 No caso one to one temos a clássica rede neural feedforward. Em aplicações one to
 many, lemos
 os dados uma única vez para o estado oculto e então passamos esse estado oculto adiante por
-
-
 vários períodos, nos quais também lemos informações contidas nele. Um exemplo
 de aplicação
 desse tipo é quando queremos criar um modelo para descrever imagens (image-captioning).
@@ -1266,8 +1247,6 @@ usada em diversos cenários de Processamento de Linguagem Natural. Nos últimos
 anos, tem
 
 4 Para saber mais acesse: fonte: http://dlia.ir/Scientific/IEEE/iell/42/11977/00552055.pdf
-
-
 havido um incrível sucesso ao aplicar as RNNs a uma variedade de problemas:
 reconhecimento de
 fala, modelagem de idiomas, tradução, legendas de imagens...
@@ -1314,8 +1293,6 @@ Forget Gate: As informações que não são mais úteis no estado da célula sã
 com o
 forget gate. Duas entradas: xt (entrada no momento específico) e ht-i (saída de célula anterior)
 são
-
-
 alimentadas ao gate e multiplicadas por matrizes de peso, seguidas pela
 adição do bias. O
 resultante é passado por uma função de ativação que fornece uma saída binária. Se
@@ -1333,7 +1310,6 @@ a função tanh
 
 (hyperbolic tangentfunction') que dá saída de -1 a +1, que contém todos os valores
 possíveis de ht-i
-
 e xt. Os valores do vetor e os valores regulados são multiplicados para obter as informações úteis
 
 Output Gate: A tarefa de extrair informações úteis do estado da
@@ -1344,7 +1320,6 @@ função tanh na célula. Então, a informação é regulada usando a função s
 filtra os
 valores a serem lembrados usando as entradas ht-i e xt. Os valores do vetor e os
 valores regulados
-
 são multiplicados para serem enviados como uma saída e entrada para a próxima célula.
 
 A célula RNN recebe duas entradas, a saída do último estado oculto e a observação no
@@ -1382,13 +1357,11 @@ REDES PERCEPTRoN MULTICAMADAS RECoRRENTES.
 
 
 Inputs Weights
-
 m
 
 ^(wixi)+bias
 
 Summatíon
-
 and Bias
 
 1, if^wx+b^O

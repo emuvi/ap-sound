@@ -8,7 +8,6 @@ Capítulo. Desenvolvimento de Informação - Análise de dados ( Pandas, NumPy )
 PANDAS
 
 pandas
-
 yit =/3'xit + /li + eit
 
 Pandas é uma biblioteca Python de código aberto para análise de dados. Ele dá ao
@@ -239,7 +238,6 @@ combinando os
 resultados em uma estrutura de dados. O código abaixo retorna um objeto agrupado para
 valores
 de uma coluna
-
 df.groupby(col)
 
 Já o código a seguir, retorna um objeto agrupado para valores de várias colunas.

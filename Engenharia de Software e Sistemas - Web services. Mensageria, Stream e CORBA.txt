@@ -167,8 +167,6 @@ nuvem e
 muitas outras aplicações onde a troca assíncrona de mensagens é necessária. Já o CORBA1 é uma
 
 1 CORBA = Common Object Request Broker Architeture
-
-
 arquitetura padrão para estabelecer e simplificar a troca de dados entre sistemas
 distribuídos
 heterogêneos por meio de uma estrutura comum para gerenciamento de objetos distribuídos.
@@ -245,8 +243,6 @@ LANGUAGE (IDL)
 
 É uma linguagem neutra de definição de interfaces utilizada para especificar a estrutura
 e as operações dos objetos CORBA. A IDL permite que desenvolvedores descrevam a
-
-
 interface de um objeto CORBA de forma independente da linguagem de programação
 usada para implementá-lo. A partir da IDL, é possível gerar código-fonte em diferentes
 linguagens para a implementação do objeto e a criação dos stubs e skeletons
@@ -314,8 +310,6 @@ onde os
 produtores e consumidores de dados podem operar em diferentes velocidades e
 se adaptar a
 flutuações de carga, atrasos de rede ou falhas pontuais, garantindo a continuidade do fluxo de
-
-
 dados. Galera, esses assuntos não caem muito em prova, mas não são assuntos complexos,
 então
 vale a leitura.
@@ -335,7 +329,6 @@ o processamento de dados era centralizado em poucos servidores que não se comun
 entre
 si. Com o passar do tempo, foram surgindo redes em todo lugar-tanto pública quanto
 privada
-
 formando esse emaranhado de redes que existem atualmente.
 
 Essas redes começaram a se comunicar e as aplicações que hospedadas em poucos
@@ -475,8 +468,6 @@ serviço da operadora de celular?
 Ela oferece um mecanismo que permite acessar um conjunto de recursos (ligações e
 internet), no
 qual o acesso é fornecido por meio de uma interface descrita e exercitada consistentemente de
-
-
 acordo com restrições e políticas especificadas pela descrição do
 serviço (contrato). A
 disponibilização de um serviço ocorre por meio de um contrato, que é uma interface
@@ -542,7 +533,6 @@ endpoint do
 serviço (URL). Notem que a página informa o endereço do endpoint-.
 
 EndPoint
-
 https://www.camara.gov.br/SitCamaraWS/Deputados.asrTix7wsdl
 
 
@@ -581,7 +571,6 @@ Deputados (List<Deputado>): Lista dos deputados em exercício
 
 Nome Valor Descrição
 ideCadastro Int ID do parlamentar
-
 condicao String Retorna se o deputado e Titular ou suplente
 Nome String Nome civil do parlamentar
 NomeParlamentar String Nome de tratamento do parlamentar
@@ -700,7 +689,6 @@ lideranças.
 Parâmetros
 
 Nome Valor Descrição
-
 ideCadastro String(Opcional) Identificador do deputado obtido na chamada ao
 ObterDeputados.
 
@@ -708,31 +696,22 @@ numLegislatura Int(Opcional) Número da legislatura. Campo vazio, todas as
 legislaturas do Deputado.
 
 Retorno
-
 deputados(List<deputado>): Lista os detalhes do Deputado nos mandatos.
 
 Nome Valor Descrição
-
 email String Email do parlamentar
-
 nomeProfissao String Profissão do parlamentar
-
 dataNascimento String Data de nascimento
-
 dataFalecimento String Data de falecimento
 ufRepresentacaoAtual String UF da representação parlamentar
-
 situacaoNaLegislaturaAtual string Situação do parlamentar na legislatura (Em exercício.
 Licenciado, Afastado,
 
 Vacância e Suplência)
 
 ideCadastro Identificado único do parlamentar
-
 nomeParlamentarAtual Nome parlamentar
-
 nomeCivil Nome Civil
-
 sexo Sexo
 
 Ela permite inserir o identificador do deputado e o número de sua legislatura para
@@ -1561,8 +1540,6 @@ Já o POST é utilizado para enviar dados para um recurso, geralmente realizando
 alteração.
 
 Dessa forma, GET é utilizado para leitura e POST é utilizado para criação! Ambos permitem o
-
-
 envio de parâmetros, no entanto há uma diferença fundamental entre eles: GET
 deixa os
 parâmetros visíveis na URL; POST esconde os parâmetros no corpo da mensagem. No exemplo
@@ -1656,9 +1633,7 @@ distribuídas
 fracamente acopladas. Vamos conhecer as principais diferenças...
 
 you need t the
-
 point A t0 P°'n - tch: Until
-
 somethmg * jn to
 
 SOAP
@@ -1682,8 +1657,6 @@ No primeiro caso, se você quiser enviar um dado de um ponto para outro,
 você pode
 simplesmente subir no cavalo e cavalgar. No segundo caso, também temos uma pessoa e um
 cavalo, mas junto temos uma carroça. Vocês lembram que nós falamos sobre 0 overhead? Pois é, a
-
-
 carroça é a carga extra (sobrecarga) para transportar uma pessoa entre dois
 pontos. Logo, o
 segundo caso possui um peso a mais na troca de mensagens.
@@ -1716,7 +1689,6 @@ REST
 
 É um protocolo de comunicação baseado em XML. É um estilo arquitetural ou de
 desenvolvimento
-
 independente de tecnologia.
 
 
@@ -1729,17 +1701,14 @@ Permite invocar serviços por meio de Métodos RPC
 
 (Remote Procedure Cal Is).
 Em geral, apresenta desempenho e escalabilidade
-
 menor, devido ao alto overhead.
 
 Não permite fazer caching.
 
 Requer maior largura de banda para trafegar os dados.
 Suporta recursos da WS-Security para incrementar a
-
 segurança.
 JavaScript pode chamar SOAP, mas é de difícil de
-
 implementação.
 
 Utiliza diretamente recursos oferecidos de forma nativa,
@@ -2090,32 +2059,24 @@ WSDL 1.1 WSDL 2.0
 
 
 definitions
-
 types
-
 í
-
 message
 
 L
 
 portType
-
 operation
-
 input H
 output P—I
 
 i s
-
 description
-
 types
 
 Ü L
 
 interface
-
 operation
 
 | input H
@@ -2237,7 +2198,6 @@ REST
 
 É um protocolo de comunicação baseado em XML. É um estilo arquitetural ou de
 desenvolvimento
-
 independente de tecnologia.
 
 
@@ -2258,7 +2218,6 @@ Permite invocar serviços por meio de Métodos RPC
 
 (Remote Procedure Cal Is).
 Em geral, apresenta desempenho e escalabilidade
-
 menor, devido ao alto overhead.
 
 Não permite fazer caching.
@@ -2272,14 +2231,11 @@ Permite fazer caching.
 
 
 Requer maior largura de banda para trafegar os
-
 dados.
 Suporta recursos da WS-Security para incrementar a
-
 segurança.
 
 JavaScript pode chamar SOAP, mas é de difícil de
-
 implementação.
 
 Requer menor largura de banda para trafegar os
@@ -2431,14 +2387,9 @@ servidor a
 enviar de volta a solicitação, é o:
 
 a) options
-
 b) get
-
 c) trace
-
-
 d) connect
-
 e) post
 
 Comentários:
@@ -2452,12 +2403,10 @@ GET devem retornar apenas dados.
 
 HEAD Esse método solicita uma resposta de forma idêntica ao método GET, porém sem conter o
 corpo da
-
 resposta.
 
 PUT Esse método substitui todas as atuais representações do recurso de destino pela carga de
 dados da
-
 requisição.
 
 POST Esse método é utilizado para submeter uma entidade a um recurso específico,
@@ -2620,7 +2569,6 @@ recurso quanto a exclusão do próprio recurso.
 
 
 Gabarito: Correto
-
 i2.(CESPE / SERPRO - 2021) O protocolo de comunicação HTTP e a identificação de
 recursos
 podem ser utilizados por meio de URL (Uniform Resource Locator).
@@ -2668,7 +2616,6 @@ manter as
 informações de estado de cada um dos clientes.
 
 Gabarito: Correto
-
 i4.(CESPE / SERPRO - 2021) A arquitetura RESTful não possibilita o uso de
 servidores
 intermediários, chamados de balanceadores de carga, razão porque o cliente sempre se
@@ -2685,7 +2632,6 @@ servidores de alguma
 forma.
 
 Gabarito: Errado
-
 i5.(CESPE/ MEC-2020) REST usa um modelo centrado em recursos de serviços encapsulados,
 em
 que cada recurso fornecido pelo serviço possui uma URL e todos os recursos oferecem
@@ -2699,7 +2645,6 @@ recursos
 fornecem suporte a uma interface uniforme (URL - Uniform Resource Location).
 
 Gabarito: Correto
-
 i6.(CESPE / SLU-DF - 2019) Um web service pode assumir o papel de provedor de
 serviço e de
 consumidor de serviço.
@@ -2742,11 +2687,8 @@ usado
 para a busca de recursos por meio do web service RESTful.
 
 a) delete
-
 b) get
-
 c) put
-
 d) options
 
 Comentários:
@@ -2814,7 +2756,6 @@ Perfeito! É stateless, logo não guarda o estado da transação.
 Gabarito: Correto
 2ZJ.(CESPE / STM - 2018) O SOAP é um tipo de modelo de dados XML elaborado para
 facilitar a
-
 inserção de campos HTML em páginas web.
 
 Comentários:
@@ -3739,7 +3680,6 @@ suportada por qualquer navegador. Usa 0 padrão de chamadas GET, PUT, POST e DEL
 usar também objetos XMLHttpRequest que a maioria dos navegadores modernos suporta.
 
 O texto trata especificamente de
-
 a) ESB.
 
 b) SOAP.
@@ -3760,7 +3700,6 @@ Item. 2. (FCC / CM-SP - 2014) Pela sua simplicidade e facilidade de entendimento
 praticamente qualquer
 cliente ou servidor com suporte aos protocolos ...I pode fazer uso do REST. Uma de suas
 principais
-
 vantagens é 0 aproveitamento da infraestrutura web existente, mas a baixa segurança é
 seu
 principal ponto fraco. Em situações em que não se faz necessária alta padronização
@@ -3776,11 +3715,9 @@ As lacunas I, II e III são, correta e respectivamente, preenchidas por:
 a) TCP/IP - caches - PUT, GET, POST e DELETE
 
 b) XML/JSON/RSS/Atom - URIs - CRUD stateless: Create, Read, Update, Delete
-
 c) HTTP/HTTPS - URIs - PUT, GET, POST e DELETE
 
 d) XML/JSON/RSS/Atom - URLs - CRUD stateless: Create, Read, Update, Delete
-
 e) HTTP/HTTPS - caches - CRUD stateless: Create, Read, Update, Delete
 
 
@@ -3967,7 +3904,6 @@ e) STARTe END.
 Comentários:
 
 Os métodos do HTTP são: GET, POST, PUT, DELETE, TRACE, OPTIONS, PATCH, CONNECT. No
-
 entanto, os dois primeiros são disparadamente os mais conhecidos e cobrados em prova.
 
 Gabarito: Letra B
@@ -4490,8 +4426,6 @@ desenvolvimento
 de aplicações para permitiram a comunicação via Internet entre programas,
 empregando o
 Remote Procedure CaIIs (RPC) entre objetos como DCOM e CORBA. Atualmente, SOAP provê
-
-
 um caminho de comunicação entre aplicações "rodando" em diferentes sistemas operacionais,
 com diferentes tecnologias e linguagens de programação.
 
@@ -4903,13 +4837,9 @@ browser
 para o servidor são denominadose.
 
 a) input-output
-
 b) post-get
-
 c) push - pop
-
 d) post-cat
-
 e) push - pull
 
 Comentários:
@@ -5068,13 +4998,9 @@ servidor a
 enviar de volta a solicitação, é 0:
 
 a) options
-
 b) get
-
 c) trace
-
 d) connect
-
 e) post
 
 Item. 4. (CESPE / FUNPRESP-EXE - 2022) SOAP (Simple Object Access Protocol) é um protocolo
@@ -5178,13 +5104,9 @@ usado
 para a busca de recursos por meio do web service RESTful.
 
 a) delete
-
 b) get
-
 c) put
-
 d) options
-
 ig.(CESPE / BNB - 2018) SOAP utiliza um sistema de mensagens SMTP sobre a camada
 de
 transporte.
@@ -5227,8 +5149,6 @@ nos protocolos FTP e SMTP.
 
 b) Um dos componentes de um Web Service SOAP (Simple Object Access Protocol) é a UDDI
 (Universal Description, Discovery and Integration), a qual é um arquivo do tipo XML que
-
-
 descreve detalhadamente um Web Service, especificando como deve ser o formato de entrada
 e saída de cada operação.
 
@@ -5405,8 +5325,6 @@ Protocol), utilizando-se os serviços RESTfull (Representational State Transfer)
 Item. 50. (CESPE / STF - 2013) A REST (Representational State Transfer), protocolo de
 comunicação
 embasado em XML, permite a comunicação de mensagens entre aplicações por meio de
-
-
 qualquer protocolo de comunicação em rede. Normalmente, esse protocolo é
 utilizado na
 integração de sistemas legados.
@@ -5603,8 +5521,6 @@ geradas a partir de definições de interfaces escritas em outras linguagens.
 Item. 73. (CESPE / STJ - 2008) O SOAP encapsula mensagens que podem ser transmitidas via
 HTTP;
 permite o modelo de interação cliente-servidor; define como usar XML para representar
-
-
 mensagens de requisição e resposta. Um documento XML é transportado no corpo de uma
 mensagem SOAP; no modelo cliente-servidor, o corpo de uma mensagem SOAP pode conter
 uma requisição, mas não uma resposta.
@@ -5725,13 +5641,9 @@ servidor a
 enviar de volta a solicitação, é o:
 
 a) options
-
 b) get
-
 c) trace
-
 d) connect
-
 e) post
 
 Item. 3. (CESPE / FUNPRESP-EXE - 2022) SOAP (Simple Object Access Protocol) é um protocolo
@@ -5837,11 +5749,8 @@ ser usado
 para a busca de recursos por meio do web service RESTful.
 
 a) delete
-
 b) get
-
 c) put
-
 d) options
 
 Item. 18. (CESPE / BNB - 2018) SOAP utiliza um sistema de mensagens SMTP sobre a camada de
@@ -7136,14 +7045,9 @@ browser
 para o servidor são denominadose.
 
 a) input-output
-
 b) post-get
-
 c) push - pop
-
 d) post-cat
-
-
 e) push - pull
 
 13.(MPE-RS / MPE-RS - 2012) Considere as seguintes afirmações a

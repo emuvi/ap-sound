@@ -95,7 +95,6 @@ objetivo de apresentar ao aluno como bancas de concurso cobram o
 assunto previamente administrado. A imensa maioria das questões para
 que o aluno avalie seus conhecimentos sobre a matéria estão dispostas ao
 final da aula na lista de exercícios e possuem comentários bem mais
-
 completos, abrangentes e direcionados.
 
 
@@ -684,8 +683,6 @@ isto é, um
 plano de projeto deve ser elaborado configurando 0 processo a ser utilizado no
 desenvolvimento de
 software. À medida que 0 projeto progride, 0 planejamento deve ser detalhado e atualizado
-
-
 regularmente. Pelo menos ao final de cada uma dasfases do desenvolvimento (análise e
 especificação
 de requisitos, projeto, implementação e testes), o planejamento como um todo deve ser
@@ -835,8 +832,6 @@ Por fim, existe mais um conceito importante nessa aula! É o conceito de
 Metodologia de
 Desenvolvimento de Software (também chamada de Processo de Desenvolvimento de Software).
 O que é isso, professor? É basicamente uma caracterização prescritiva ou descritiva de como um
-
-
 produto de software deve ser desenvolvido, isto é, ela define o quê, como e quando
 fazer algo
 para desenvolver um software. Calma, tudo ainda fará sentido...
@@ -950,7 +945,6 @@ Projeto de Sistema e
 Software
 
 Requisitos de Sistema Modelagem e Engenharia
-
 do Sistema/lnformação
 
 Requisitos de Software Análise de Requisitos de
@@ -1467,8 +1461,6 @@ elas virão
 sempre de forma combinada no modelo iterativo e incremental para
 desenvolver os
 miniprojetos e entregar partes diferentes do projeto. A imagem a seguir apresenta miniprojetos
-
-
 sendo feitos iterativamente em um modelo iterativo e incremental. Observem que
 cada iteração
 (passagem pelas fases de desenvolvimento) refinam cada vez mais a funcionalidade.
@@ -1511,8 +1503,6 @@ modelo
 incremental, há várias equipes desenvolvendo uma parte do software a serem integradas
 ao final
 do desenvolvimento. Já no modelo iterativo, lança-se a versão 1.0, adicionam-se algumas
-
-
 funcionalidades; lança uma versão 2.0, adicionam-se mais algumas funcionalidades;
 e assim por
 diante. Vejamos isso mais claramente utilizando o clássico exemplo da Monalisa...
@@ -1691,8 +1681,6 @@ processo puramente linear não é utilizado.
 Pode ser necessário o rápido fornecimento de um determinado conjunto funcional aos
 usuários,
 para somente após esse fornecimento, refinar e expandir sua funcionalidade em versões de
-
-
 software posteriores. Em tais casos, pode-se optar por um modelo de processo
 projetado para
 desenvolver o software de forma incremental. O modelo incremental combina
@@ -1761,15 +1749,11 @@ incremento n° 2
 incremento n° 1
 
 a entrega do
-
 incremento n° n
-
 entrega do
 
 2o incremento
-
 entrega do
-
 n-ésimo incremento
 
 Io incremento
@@ -2529,8 +2513,6 @@ cliente. Estas
 etapas permitem que o desenvolvedor defina os requisitos específicos do cliente, crie
 um plano
 detalhado para o desenvolvimento do software e crie um produto final que atenda às necessidades
-
-
 do cliente. Além disso, as etapas do modelo do ciclo de vida clássico também oferecem
 suporte ao
 longo do ciclo de vida do software desenvolvido para garantir que o produto
@@ -2656,8 +2638,6 @@ Gabarito: Errado
 
 Item. 9. (CESPE / Ministério da Economia - 2020) Engenharia de software (ES) é um processo, expresso
 como o conjunto de todas as atividades relacionadas ao desenvolvimento, ao controle, à
-
-
 validação e à manutenção de um software operacional, abrangendo atividades
 técnicas e
 gerenciais.
@@ -2679,7 +2659,6 @@ que
 apoiem a produção de software.
 
 Gabarito: Correto
-
 io.(CESPE / Ministério da Economia- 2020) Entre os modelos de processo
 aplicados ao
 desenvolvimento de software, o modelo cascata apresenta desvantagens por, entre
@@ -2762,7 +2741,6 @@ característica
 do modelo iterativo e incremental.
 
 Gabarito: Errado
-
 i3.(CESPE / IPHAN -2018) No modelo em cascata, com exceção do sequenciamento dos
 estágios
 de requisitos e de análise, os demais são executados em paralelo, iniciando-se antes
@@ -2863,7 +2841,6 @@ Validação de
 Software; e Evolução de Software. Dessa forma, a questão está correta.
 
 Gabarito: Correto
-
 i8.(CESPE / TCE-PR - 2016 - Item D) Um processo de software é composto por quatro
 atividades
 fundamentais: iniciação, desenvolvimento, entrega e encerramento.
@@ -2881,7 +2858,6 @@ Validação de
 Software; e Evolução de Software. Dessa forma, a questão está incorreta.
 
 Gabarito: Errado
-
 ig.(CESPE / TCE-PR - 2016) O modelo de desenvolvimento em cascata é utilizado em caso
 de
 divergência nos requisitos de um software, para permitir a evolução gradual do
@@ -2958,8 +2934,6 @@ Comentários:
 Mais uma vez: Sommerville afirma que um processo de software é um conjunto de
 atividades e
 resultados associados que produz um produto de software. De acordo com ele, existem quatro
-
-
 atividades fundamentais de processo, que são comuns a todos os processos de software -
 são elas:
 Especificação de Software; Desenvolvimento de Software (Projeto e Implementação);
@@ -3079,8 +3053,6 @@ Essa questão é péssima! Ela foi retirada do livro Sistemas de Informação: U
 Abordagem Gerencial
 
 (Steven R. Gordon, Judith R. Gordon). Nesse livro, os autores de fato tratam o ciclo de vida de
-
-
 software como concepção, projeto, criação e implementação. Essa é uma daquelas
 quase
 impossível de acertar! Esse não é um autor consagrado de Engenharia de Software.
@@ -3455,7 +3427,6 @@ Análise e Definição de
 Requisitos
 
 Requisitos de Sistema Modelagem e Engenharia
-
 do Sistema/lnformação
 
 Comunicação
@@ -3796,7 +3767,6 @@ Análise e Definição de
 Requisitos
 
 Requisitos de Sistema Modelagem e Engenharia
-
 do Sistema/lnformação
 
 Comunicação
@@ -4013,7 +3983,6 @@ Análise e Definição de
 Requisitos
 
 Requisitos de Sistema Modelagem e Engenharia
-
 do Sistema/lnformação
 
 Comunicação
@@ -4055,7 +4024,6 @@ Primeiro Projeto e depois Análise? Não, Análise
 Teste e Implantação
 
 Manutenção
-
 antes do Projeto!
 
 Gabarito: Errado
@@ -4223,7 +4191,6 @@ projeto e
 implementação, validação e:
 
 a) teste
-
 b) evolução.
 
 c) prototipação.
@@ -4478,7 +4445,6 @@ b) cascata.
 c) evolucionário.
 
 d) unificado
-
 e) especializado.
 
 Comentários:
@@ -4522,7 +4488,6 @@ Projeto de Sistema e
 Software
 
 Requisitos de Sistema Modelagem e Engenharia
-
 do Sistema/lnformação
 
 Requisitos de Software Análise de Requisitos de
@@ -4591,7 +4556,6 @@ b) do gerenciamento, dos recursos de TI e dos processos.
 c) do planejamento, dos dados e das funções gerenciais.
 
 d) do planejamento, dos recursos de TI e dos projetos
-
 e) do negócio, dos dados e dos processos.
 
 Comentários:
@@ -4639,8 +4603,6 @@ a questão não foi anulada. De toda forma, a abordagem em ciclos em que, em cad
 ciclo, podem
 ser identificadas as fases de análise, projeto, implementação e testes, sendo que cada um dos
 ciclos
-
-
 considera um subconjunto de requisitos, e estes são desenvolvidos uma vez que sejam
 alocados a
 um ciclo de desenvolvimento é o modelo iterativo e incremental.
@@ -4715,7 +4677,6 @@ por
 diversas equipes. Essas atividades são:
 
 a) comunicação e modelagem
-
 b) comunicação e planejamento.
 
 c) integração e construção.
@@ -4835,13 +4796,9 @@ funcionalidades
 estejam suportadas com a fidelidade máxima?
 
 a) Preditivo
-
 b) Linear
-
 c) Iterativo
-
 d) Incremental
-
 e) Ágil
 
 Comentários:
@@ -4920,13 +4877,9 @@ Desenvolvimento de Sistemas tem como pré-requisito indispensável, em relação
 adotado no processo de desenvolvimento, a definição do:
 
 a) Engenheiro Responsável pelo Projeto
-
 b) Documento de Controle de Sistemas
-
 c) Software para Desenvolvimento
-
 d) Ciclo de Vida do Software
-
 e) Bloco de Atividades
 
 Comentários:
@@ -4981,7 +4934,6 @@ Análise e Definição de
 Requisitos
 
 Requisitos de Sistema Modelagem e Engenharia
-
 do Sistema/lnformação
 
 Comunicação
@@ -5038,13 +4990,9 @@ ciclo de
 vida de software:
 
 a) Espiral
-
 b) Evolutivo
-
 c) Incremental
-
 d) Prototipagem
-
 e) Cascata
 
 Comentários:
@@ -5150,7 +5098,6 @@ Definição ou caracterização
 software são
 
 2 Modelos de
-
 processos de
 software
 
@@ -5167,7 +5114,6 @@ A Modelos de processos de software
 
 B as atividades envolvidas na produção de um
 sistema de software
-
 ó o processo de desenvolvimento de uma
 
 C especificação de software
@@ -5308,7 +5254,6 @@ em cascata, ou ciclo de vida de software. Este modelo é
 um exemplo de.
 
 Neste tipo de processo vocêe programar todas as atividades do processo antes de
-
 a) um estágio-escrever-encerrar o projeto.
 
 b) um processo dirigido a planos - deve planejar - começar a trabalhar nelas.
@@ -5393,11 +5338,8 @@ software,
 assinale a alternativa correta.
 
 a) Incremental
-
 b) Curva
-
 c) Estrela
-
 d) Circular
 
 Comentários:
@@ -5427,11 +5369,8 @@ em menos tempo.
 Esse ciclo de vida é conhecido como:
 
 a) cascata
-
 b) espiral
-
 c) incremental
-
 d) evolutivo
 
 
@@ -5456,13 +5395,9 @@ manutenção, quando o sistema já está sendo usado.
 Assinale a alternativa que completa, correta e respectivamente, as lacunas do texto acima.
 
 a) Engenharia de Domínio - Engenharia de Software
-
 b) Engenharia Reversa - Engenharia de Sistemas
-
 c) Engenharia de Sistemas - Engenharia de Domínio
-
 d) Engenharia de Sistemas - Engenharia de Software
-
 e) Engenharia Reversa - Engenharia de Domínio
 
 Comentários:
@@ -5602,11 +5537,8 @@ Assinale a alternativa que preenche corretamente a lacuna do texto acima:
 a) cascata (waterfall)
 
 b) espiral
-
 c) orientado a desenvolvimento incremental
-
 d) baseado em componentes
-
 e) prototipação
 
 Comentários:
@@ -5747,8 +5679,6 @@ Item. 30. (FAURGS / UFRGS - 2018) Considere as afirmações abaixo sobre Engenha
 I - A Engenharia de Software não se preocupa apenas com os processos
 técnicos do
 desenvolvimento de software. Ela também inclui atividades como gerenciamento de projeto de
-
-
 software e desenvolvimento de ferramentas, métodos e teorias para apoiar a
 produção de
 software.
@@ -5875,8 +5805,6 @@ conclusão da
 fase precedente, mas, na prática, eles se sobrepõem e trocam informações. Durante o
 projeto,
 são identificados problemas com os requisitos; durante a codificação, são verificados problemas
-
-
 do projeto, e assim por diante. O processo não é um modelo linear simples, mas
 envolve uma
 sequência de iterações das atividades de desenvolvimento.
@@ -6059,7 +5987,6 @@ SOFTWARE
 IPROJETO
 
 k
-
 r 1
 
 TESTES
@@ -6739,7 +6666,6 @@ técnicas de
 armazenamento e as estruturas em memória principal.
 
 Item. 3. (FCC / TRT6 - 2012) Considere: é uma disciplina que se ocupa de todos os aspectos da produção
-
 de software, desde os estágios iniciais de especificação do sistema até a manutenção desse sistema,
 
 
@@ -6766,7 +6692,6 @@ projeto e
 implementação, validação e:
 
 a) teste
-
 b) evolução.
 
 c) prototipação.
@@ -6923,7 +6848,6 @@ b) cascata.
 c) evolucionário.
 
 d) unificado
-
 e) especializado.
 
 Item. 2. (FGV / PGE-RO - 2015) A figura abaixo ilustra um modelo de processo, que
@@ -6974,7 +6898,6 @@ b) do gerenciamento, dos recursos de TI e dos processos.
 c) do planejamento, dos dados e das funções gerenciais.
 
 d) do planejamento, dos recursos de TI e dos projetos
-
 e) do negócio, dos dados e dos processos.
 
 Item. 5. (FGV/CODESP-SP-2010) AUMLé uma linguagem visual para modelar sistemas
@@ -7068,7 +6991,6 @@ por
 diversas equipes. Essas atividades são:
 
 a) comunicação e modelagem
-
 b) comunicação e planejamento.
 
 c) integração e construção.
@@ -7135,13 +7057,9 @@ funcionalidades
 estejam suportadas com a fidelidade máxima?
 
 a) Preditivo
-
 b) Linear
-
 c) Iterativo
-
 d) Incremental
-
 e) Ágil
 
 Item. 7. (CESGRANRIO / Transpetro - 2012) Na engenharia de software, existem diversos
@@ -7191,13 +7109,9 @@ Desenvolvimento de Sistemas tem como pré-requisito indispensável, em relação
 adotado no processo de desenvolvimento, a definição do:
 
 a) Engenheiro Responsável pelo Projeto
-
 b) Documento de Controle de Sistemas
-
 c) Software para Desenvolvimento
-
 d) Ciclo de Vida do Software
-
 e) Bloco de Atividades
 
 Item. 10. (CESGRANRIO / PETROBRÁS - 2010) No Ciclo de Vida Clássico, também chamado de
@@ -7233,13 +7147,9 @@ ciclo de
 vida de software:
 
 a) Espiral
-
 b) Evolutivo
-
 c) Incremental
-
 d) Prototipagem
-
 e) Cascata
 
 
@@ -7308,7 +7218,6 @@ A definir
 software são
 
 2 Modelos de
-
 processos de
 software
 
@@ -7329,7 +7238,6 @@ A Modelos de processos de software
 
 B as atividades envolvidas na produção de um
 sistema, de software
-
 ê o processo de desenvolvimento de uma
 C especificação de software
 
@@ -7381,7 +7289,6 @@ em cascata, ou ciclo de vida de software. Este modelo é
 um exemplo de.
 
 Neste tipo de processo vocêe programar todas as atividades do processo antes de
-
 a) um estágio - escrever - encerrar o projeto.
 
 b) um processo dirigido a planos - deve planejar - começar a trabalhar nelas.
@@ -7438,11 +7345,8 @@ software,
 assinale a alternativa correta.
 
 a) Incremental
-
 b) Curva
-
 c) Estrela
-
 d) Circular
 
 2o.(SELECON / Prefeitura de Boa Vista - RR-2019) No que tange à Engenharia de
@@ -7450,8 +7354,6 @@ Software, um
 dos ciclos de vida para o desenvolvimento de sistemas preconiza que os requisitos do
 cliente são
 obtidos e, de acordo com a funcionalidade, são agrupados em módulos. Após este
-
-
 agrupamento, a equipe, junto ao cliente, define a prioridade em que cada
 módulo será
 desenvolvido, escolha baseada na importância daquela funcionalidade ao negócio do
@@ -7465,11 +7367,8 @@ em menos tempo.
 Esse ciclo de vida é conhecido como:
 
 a) cascata
-
 b) espiral
-
 c) incremental
-
 d) evolutivo
 
 2i.(FAURGS/ BANRISUL - 2018) se preocupa com todos os
@@ -7485,13 +7384,9 @@ manutenção, quando o sistema já está sendo usado.
 Assinale a alternativa que completa, correta e respectivamente, as lacunas do texto acima.
 
 a) Engenharia de Domínio - Engenharia de Software
-
 b) Engenharia Reversa - Engenharia de Sistemas
-
 c) Engenharia de Sistemas - Engenharia de Domínio
-
 d) Engenharia de Sistemas - Engenharia de Software
-
 e) Engenharia Reversa - Engenharia de Domínio
 
 22.(FAURGS/ BANRISUL - 2018) Considere as seguintes afirmações sobre
@@ -7567,8 +7462,6 @@ exemplo de
 processo dirigido a planos, pois deve-se planejar todas as atividades (estágios) do
 processo
 antes de começar a trabalhar nelas. Em princípio, o estágio seguinte não deve ser iniciado até
-
-
 que o estágio anterior seja concluído, mas na prática este processo não é um modelo
 linear
 simples, envolvendo o feedback de um estágio a outro. Assim os documentos e
@@ -7590,11 +7483,8 @@ Assinale a alternativa que preenche corretamente a lacuna do texto acima:
 a) cascata (waterfall)
 
 b) espiral
-
 c) orientado a desenvolvimento incremental
-
 d) baseado em componentes
-
 e) prototipação
 
 Item. 25. (COSEPE / UFPI -2018) O modelo cascata é um dos paradigmas mais antigos da
@@ -7637,8 +7527,6 @@ para o
 desenvolvimento de softwares que começa com a especificação dos requisitos e
 termina na
 manutenção do software acabado. Nos últimos anos, este modelo de ciclo de desenvolvimento
-
-
 vem sofrendo várias críticas quanto a sua eficácia. Assim, é correto afirmar que um
 dos possíveis
 problemas do ciclo de vida clássico é:
@@ -7670,7 +7558,6 @@ Item. 30. (FAURGS / UFRGS - 2018) Considere as afirmações abaixo sobre Engenha
 
 I- A Engenharia de Software não se preocupa apenas com os processos técnicos do
 desenvolvimento de software. Ela também inclui atividades como gerenciamento de projeto de
-
 software e desenvolvimento de ferramentas, métodos e teorias para apoiar a produção de
 software.
 

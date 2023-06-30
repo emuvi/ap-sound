@@ -87,7 +87,6 @@ Aspecto estrutural: os dados no banco de dados são percebidos
 pelo usuário como tabelas, e nada além de tabelas.
 
 Aspecto de integridade: essas tabelas satisfazem a certas
-
 restrições de integridade ou limitações nos valores, que podem aparecer em
 cada registro.
 
@@ -325,8 +324,6 @@ relvar.
 Veja que uma relvar é, basicamente, uma variável cujo valor é um conjunto de linhas
 em
 determinado momento. Todas as vezes que modificamos o conjunto de linhas de uma
-
-
 tabela, estamos alterando o valor da RelVar. Vamos supor agora que temos a
 RelVar
 ALUNO, descrita com três colunas e seus seguintes valores:
@@ -395,8 +392,6 @@ representações, ou (nosso termo preferido) aparições, possuem locais no temp
 espaço. Na realidade, aparições distintas
 do mesmo valor podem existir em vários locais distintos no tempo e no espaço, significando,
 informalmente, que diversas
-
-
 variáveis diferentes podem ter o mesmo valor, ao mesmo tempo. Observe que, por
 definição, um valor não pode ser atualizado;
 se pudesse, então, depois dessa modificação, ele não seria mais o mesmo valor.
@@ -1023,7 +1018,6 @@ na qual não haverá duas tuplas ti e t2, em qualquer estado válido da relaçã
 ti[S] =
 Í2[S]. Em outras palavras, uma superchave é um conjunto de atributos que
 tem a
-
 característica de restringir o conjunto de tuplas de uma relação em apenas uma linha.
 
 Quando olhamos para um conjunto de atributos em uma tabela que não se repetem em
@@ -1168,9 +1162,7 @@ Chave candidata
 Chave primária
 
 Chave Alternativa
-
 devem corresponder
-
 a valores de alguma
 chave candidata de
 
@@ -1179,7 +1171,6 @@ Toda superchave
 com a propriedade
 
 Chave Estrangeira
-
 alguma relação.
 
 
@@ -1204,8 +1195,6 @@ certo. Qualquer um destes campos pode ser usado como chave primária da tabela, 
 isso,
 eles são denominados chaves candidatas. No nosso exemplo, escolhemos o atributo
 ld_aprovado para ser usado como chave primária da relação Aprovados e o campo
-
-
 ld_Municipio para ser chave primária da relação MUNICÍPIO. As outras chaves que foram
 preteridas podem ser denominadas chave alternativa.
 
@@ -1488,7 +1477,6 @@ manter a consistência entre as tuplas nas duas relações.
 
 a) I, II, III e IV. b) I, II e III, apenas c) I, III e IV, apenas d)
 II, III e IV, apenas
-
 e) Apenas I
 
 Comentário: A questão trata das restrições de integridade, que são utilizadas para
@@ -1799,8 +1787,6 @@ ter que mudar os
 Visão Externa 1 Visão Externa n
 
 Mapeamento
-
-
 esquemas externos ou
 programas de aplicação.
 
@@ -1986,7 +1972,6 @@ as operações (R x S] AT
 
 Avaliação
 materizalizada
-
 tl <- R x S
 t2 <- ti n T
 
@@ -2184,7 +2169,6 @@ MINAS GERAIS
 
 
 PRoJEçÃo
-
 n LISTA DE ATRIBUTOS (RELAÇAO)
 
 - PROJETA UMA NDVA TABELA APENAS COM DS ATRIBUTOS ESPECIFICADOS -
@@ -2253,7 +2237,6 @@ gerais
 
 ALMEIDA 555.555.555-55 19 DIREITO ADMINISTRATIVO
 Espírito santo
-
 resultado
 
 
@@ -2296,7 +2279,6 @@ I
 disponibilizadas em um banco de dados relacional está, por exemplo, a realização de
 consultas sobre valores armazenados em tabelas. A operação que consiste em definir
 quais devem ser as colunas a serem exibidas em uma consulta é a
-
 a) divisão.
 
 b) multiplexação.
@@ -2963,7 +2945,6 @@ JUNÇÃO THETA Produz todas as combinações de tuplas de R, e R₂ que satisfaz
 junção. ^1 <condição junção> R2
 EQUIJUNÇÃO Produz todas as combinações de tuplas de R₁ e R₂ que satisfazem uma condição
 de
-
 junção apenas com comparações de igualdade.
 o rxj p
 
@@ -3086,8 +3067,6 @@ Borracha
 
 Agora, o cliente Thiago, associado ao CPF 999999999, possui 2 endereços
 diferentes. Veja que a causa para esse acontecimento foi justamente a
-
-
 redundância dos dados. Se o endereço de Thiago estivesse separado em outra
 relação essa anomalia não teria se formado. Vejamos como ficaria:
 
@@ -3172,8 +3151,6 @@ Considerando X e Y colunas de uma tabela, podemos dizer que X determina Y (X -^Y
 existe no máximo um valor de Y para cada valor de X. Por exemplo, o número do
 cadastro
 de pessoa física determina a cidade (CPFAIuno —> CidadeAluno) na tabela do banco de
-
-
 dados de uma universidade, se existir no máximo um valor de cidade para cada número
 do
 cadastro de pessoa física. Vejamos alguns valores:
@@ -3272,10 +3249,8 @@ alguns conceitos relacionados a chave. O primeiro deles é o de superchave. Uma
 definição
 formal afirma que uma superchave de um esquema de relação R = {Ai, A2, ..., An} é
 um
-
 conjunto de atributos S C R (S está contido em R) que contenha a propriedade na
 qual não
-
 haverá duas tuplas ti e Í2, em qualquer estado válido da relação r de R, cuja ti[S] = Í2[S]. Em
 outras palavras, uma superchave é um conjunto de atributos que tem a característica
 de restringir o conjunto de tuplas de uma relação a apenas uma linha.
@@ -4208,8 +4183,6 @@ A próxima e última forma normal tem relação direta com Dependência de Junç
 isso, ela também é conhecida como Forma Normal Projeção Junção. Quando é possível
 definir um conjunto de relações válidas sobre um esquema R que são resultado de uma
 decomposição sem perdas, podemos definir essa restrição como uma dependência de
-
-
 junção. Perceba que a ideia é separar a relação original em um conjunto de relações
 que
 podem se reagrupar.
@@ -4293,7 +4266,6 @@ Gabarito E.
 ESQUEMA DAS FoRMAS NoRMAIS
 
 Eliminar atributos não atômicos
-
 lâ Forma Normal
 
 Eliminar dependências funcionais não plenas
@@ -4360,8 +4332,6 @@ Item. 93. Essa questão foi dada pelo CESPE como correta. Eu discordo. Vamos lá
 ...
 
 supondo que exista uma tabela (modelo relacional) com dados e que os dados são
-
-
 correlacionados com outros dados não estruturados, que garantia eu tenho que os
 processos de mineração de dados foi utilizado de fato utilizados? ... NENHUMA!!!
 
@@ -4639,8 +4609,6 @@ Comentário: Essa questão trata de um ponto que eu gostaria muito que você
 guardasse para prova: modelo relacional é um modelo lógico! Não é físico
 como
 sugere a questão. Modelos físicos fazem parte da implementação dos sistemas de
-
-
 banco de dados. São definidos por programadores que constroem os SBGD, algo
 complexo até para mim que trabalho com banco de dado há alguns anos. Sendo assim,
 a questão está equivocada ao tentar associar o modelo relacional ao nível físico.
@@ -4776,10 +4744,7 @@ pode ter vários conjuntos de atributos que podem ser escolhidos como chave
 primária. Cada uma dessas opções que se caracterizam por ser uma superchave i
 mínima, ou seja, não é possível retirar nenhum atributo sem que o conjunto perca a
 propriedade de ser chave da relação, é denominada chave candidata. A chave
-
-
 escolhida para ser a chave da relação é denominada chave primária. Ela pode ser
-
 composta por um ou mais atributos.
 
 A questão pede para analisarmos uma característica de chaves compostas por mais
@@ -4879,7 +4844,6 @@ preciso criar chaves estrangeiras que representem a ligação entre elas.
 Comentário: A primeira forma normal deve eliminar atributos compostos e
 multivalorados. Vejam que no caso dos atributos compostos não é necessário criar
 outra relação, basta fracionar as partes em atributos atômicos. Quando estamos
-
 í removendo atributos multivalorados podemos utilizar outra tabela para listar os
 diversos valores e associá-los por meio da chave. Ou seja, nem sempre é necessário
 usar chaves estrangeiras quando normalizamos para a 1FN.
@@ -5746,7 +5710,6 @@ xWx3
 
 T2(yl,y2,y3)
 y2^yl
-
 y2^y3
 
 T3(zl,z2,z3)
@@ -5755,7 +5718,6 @@ T3(zl,z2,z3)
 
 B Tl(xl,x2,x3,x4)
 x2^xl
-
 x2->x3
 x2->x4
 
@@ -5785,7 +5747,6 @@ T3(zl,z2,z3)
 
 D Tl(xl,x2,x3,x4)
 x2->xl
-
 x2->x3
 x2^x4
 
@@ -5806,7 +5767,6 @@ Tl(xl,x2,x3,x4)
 
 T3(zl,z2,z3)
 z2^zl
-
 z2->z3
 
 Comentário: Para chegarmos a conclusão qual a alternativa correta elevemos
@@ -6389,15 +6349,10 @@ Item. 17. Ano: 2016 Banca: CESGRANRIO Órgão: IBGE Prova: Supervisor de Pesquis
 Informação e Comunicação
 
 A segunda forma normal está relacionada com o conceito de
-
 a) dependência funcional parcial
-
 b) dependência funcional transitiva
-
 c) dependência multivalorada
-
 d) tabelas aninhadas
-
 e) colunas multivaloradas
 
 Comentário: Vamos aproveitar essa questão para nos relembrarmos das primeiras
@@ -6432,25 +6387,19 @@ Concurso
 Cargo
 
 Enyesa
-
-
 nomaCoTCizso -
 
 nomíCargo
-
 i cnpj
 
 Prova Pergunta Resposto
 
 Considerando-se o diagrama acima, para sua implementação direta em um SGBD relacional,
 esse diagrama
-
 a) não precisa ser transformado.
 
 b) deve ser transformado em um modelo conceituai
-
 c) deve ser transformado em um modelo físico
-
 d) deve ser transformado em um modelo dimensional.
 
 e) deve ser transformado em um modelo UML.
@@ -6495,13 +6444,10 @@ SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023
 
 b) operação de PROJEÇÃO mantém quaisquer tuplas duplicadas, de modo que o resultado
 dessa operação é um conjunto de tuplas que pode conter tuplas repetidas
-
 c) operação PROJEÇÃO pode selecionar certas colunas da tabela e descartar outras
-
 d) operação SELEÇÃO é usada para incluir todas as tuplas de duas relações em uma
 única
 relação, sendo que as tuplas duplicadas são eliminadas
-
 e) resultado da operação SELEÇÃO pode ser visualizado como uma partição vertical da
 relação
 original em duas relações: uma tem as colunas (atributos) necessárias e contém o
@@ -6540,12 +6486,9 @@ Conta
 <------------------------------- >
 
 seq_movimento
-
 data_hora_movimento
 credito_debito
-
 valor
-
 numero_docu mento
 ti po_docu mento
 dep_origem
@@ -6559,14 +6502,12 @@ Contato_C|iente
 (----------------------- \
 
 id_telefone
-
 telefone
 tipo—telefone
 
 A
 
 Cliente
-
 id_cliente
 
 -|- nome_cliente
@@ -6574,19 +6515,15 @@ datajnicio
 data fim
 
 Endereco_Cliente
-
 r \
 
 id_endereco
-
 inicio_validade_endereco
 fim_validade_endereco
 logradouro
-
 numero
 complemento
 cep
-
 bairro
 cidade
 
@@ -7290,7 +7227,6 @@ RI6 (Pseudotransitiva) Se X->Y e WY->Z, então WX->Z
 
 Agora que temos conhecimento do conjunto de regras de inferência, vamos analisar cada
 uma
-
 y - y yT 7.1/
 das alternativas baseada nas dependências funcionais iniciais: ' '
 
@@ -8139,7 +8075,6 @@ x!4>x3
 
 T2(yl,y2,y3)
 y2^yl
-
 y2^y3
 
 T3(zl,z2,z3)
@@ -8148,7 +8083,6 @@ T3(zl,z2,z3)
 
 B Tl(xl,x2,x3,x4)
 x2^xl
-
 x2->x3
 x24>x4
 
@@ -8177,7 +8111,6 @@ T3(zl,z2,z3)
 
 D Tl(xl,x2,x3,x4)
 x2->xl
-
 x2->x3
 x2->x4
 
@@ -8581,16 +8514,10 @@ C2={}
 Informação e Comunicação
 
 A segunda forma normal está relacionada com o conceito de
-
-
 a) dependência funcional parcial
-
 b) dependência funcional transitiva
-
 c) dependência multivalorada
-
 d) tabelas aninhadas
-
 e) colunas multivaloradas
 
 Item. 18. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
@@ -8602,13 +8529,10 @@ sobre o qual é possível deduzir o nível de abstração usado na representaç�
 Considerando-se o diagrama acima, para sua implementação direta em um SGBD relacional,
 esse
 diagrama
-
 a) não precisa ser transformado.
 
 b) deve ser transformado em um modelo conceituai
-
 c) deve ser transformado em um modelo físico
-
 d) deve ser transformado em um modelo dimensional.
 
 e) deve ser transformado em um modelo UML.
@@ -8628,14 +8552,10 @@ satisfaça uma condição de seleção.
 b) operação de PROJEÇÃO mantém quaisquer tuplas duplicadas, de modo que o resultado
 dessa
 operação é um conjunto de tuplas que pode conter tuplas repetidas
-
 c) operação PROJEÇÃO pode selecionar certas colunas da tabela e descartar outras
-
-
 d) operação SELEÇÃO é usada para incluir todas as tuplas de duas relações em uma
 única relação,
 sendo que as tuplas duplicadas são eliminadas
-
 e) resultado da operação SELEÇÃO pode ser visualizado como uma partição vertical da
 relação
 original em duas relações: uma tem as colunas (atributos) necessárias e contém o
@@ -8657,12 +8577,9 @@ Conta
 <------------------------------- >
 
 seq_movimento
-
 data_hora_movi mento
 credito_debito
-
 valor
-
 numero-documento
 tipo_documento
 dep_origem
@@ -8676,16 +8593,13 @@ Contato_C|iente
 (----------------------- \
 
 id_telefone
-
 telefone
 tipo—telefone
 
 A
 
 Cliente
-
 id_cliente
-
 nome_cliente
 datajnicio
 data fim
@@ -8695,15 +8609,12 @@ Endereco Cliente
 < A
 
 id_endereco
-
 inicio_validade_endereco
 fim_validade_endereco
 logradouro
-
 numero
 complemento
 cep
-
 bairro
 cidade
 
@@ -8923,7 +8834,6 @@ de Negócios-2012
 Na sua definição teórica, as relações do modelo relacional precisam
 satisfazer algumas
 propriedades, entre elas a de que
-
 a) cada atributo contém um conjunto finito de tuplas.
 
 b) os atributos são ordenados da esquerda para a direita.

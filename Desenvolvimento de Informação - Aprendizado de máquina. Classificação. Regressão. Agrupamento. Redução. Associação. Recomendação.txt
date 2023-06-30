@@ -4,8 +4,6 @@ Capítulo. Desenvolvimento de Informação - Aprendizado de máquina. Classifica
 Índice
 
 1) Aprendizado Não Supervisionado
-
-
 w ww. estrategiaconcursos. com.br
 
 
@@ -102,8 +100,6 @@ Teoricamente, em uma família que segue a distribuição normal, todos os membro
 mesma forma e são parametrizados pela média e desvio padrão. Isso significa que se
 você
 conhece a média e o desvio padrão, e que a distribuição é normal, você conhece a
-
-
 probabilidade de qualquer observação futura. O Aprendizado Paramétrico
 Não
 Supervisionado envolve a construção de Modelos de Mistura Gaussianas e o uso
@@ -401,8 +397,6 @@ exemplo, na parte
 inferior da figura a seguir, o limite de decisão está localizado em xi =
 Item. 5. Esse limite de
 decisão parece muito simples no espaço 3D original (um plano vertical), mas parece mais
-
-
 complexo no manifold desenrolado (uma coleção de quatro segmentos
 de linha
 independentes).
@@ -488,8 +482,6 @@ restante. Neste
 exemplo 2D não há escolha: é a linha pontilhada. Se fosse um conjunto de
 dados de
 dimensão superior, o PCA também encontraria um terceiro eixo, ortogonal aos dois eixos
-
-
 anteriores, e um quarto, um quinto e assim por diante - tantos eixos
 quanto forem o número
 de dimensões no conjunto de dados.
@@ -551,8 +543,6 @@ hiperplano garante
 que a projeção preservará o máximo de variação possível. Por exemplo, na
 Figura 16, o
 conjunto de dados 3D é projetado no plano 2D definido pelos dois primeiros componentes
-
-
 principais, preservando grande parte da variação do conjunto de dados.
 Como resultado,
 a projeção 2D se parece muito com o conjunto de dados 3D original.
@@ -716,13 +706,9 @@ Item. 1. Questão inédita
 São considerados algoritmos para redução de dimensionalidade:
 
 a) PCA, Autoencoder e aprendizagem múltipla
-
 b) KNN, CART, K-means
-
 c) C4.5, Apriori, FP-Growth
-
 d) Árvore de decisão, SVM e PageRank
-
 e) SVM, KNN, Naive Bayes
 
 Comentário: A alternativa A apresentar algoritmos usados para a
@@ -796,7 +782,6 @@ relação umas
 * Medida de similaridade S(Xj,xk): grande se Xj,xk são semelhantes
 
 * Medida de dissimilaridade (ou distância) D(xi,xk): pequena se Xi,xk são semelhantes
-
 large d, small s large s, small d
 
 Existem várias medidas de similaridade que podem ser usadas.
@@ -1116,13 +1101,11 @@ Vamos supor que temos um conjunto de dados que se parece com a figura abaixo:
 
 o o
 O o o
-
 o o
 
 O O n
 
 °o o
-
 o
 
 Nosso trabalho é encontrar conjuntos de pontos que aparecem próximos uns dos outros.
@@ -1141,8 +1124,6 @@ atualizar os parâmetros de cada agrupamento. Mais especificamente, o que ele fa
 calcular as
 médias (ou centróides) de cada cluster e, em seguida, calcular sua distância para cada um dos
 pontos
-
-
 de dados. Os últimos são então rotulados como parte do cluster que é identificado
 pelo centróide
 mais próximo. Esse processo é repetido até que algum critério de convergência seja
@@ -1286,7 +1267,6 @@ x? Bem,
 acontece que as equações que acabamos de derivar, juntamente com a regra de Bayes, nos
 ajudarão
 a determinar essa probabilidade. Pela regra do produto de probabilidades, sabemos que
-
 p(xn,z) = p(xn|z)p(z)
 
 Hmm, parece que agora estamos chegando a algum lugar. Os operandos à
@@ -1313,7 +1293,6 @@ de todos os parâmetros que mencionamos anteriormente! Para determinar os valore
 para
 estes, precisamos determinar a máxima verossimilhança do modelo. Podemos
 encontrar a
-
 verossimilhança como a probabilidade conjunta de todas as observações x n , definida por:
 
 TV TV K
@@ -1349,8 +1328,6 @@ vamos fazer
 isso, pois neste momento já temos tudo para definir como será essa probabilidade.
 
 Pela regra de Bayes, sabemos que
-
-
 p(zk
 
 - l|x„) = p(xn|zfc = l)p(zfe = 1)
@@ -1497,8 +1474,6 @@ de elementos de cada transação distinta. É isso que os diferencia da filtrage
 Para elaborar essa ideia — as regras não vinculam as diferentes transações de um
 usuário ao longo
 do tempo para identificar relacionamentos. Ao invés disto, uma lista de itens com IDs de transação
-
-
 exclusivos (de todos os usuários) são estudadas como um grupo. Isso é útil na colocação
 de produtos
 nos corredores. Por outro lado, a filtragem colaborativa vincula todas as transações
@@ -1629,8 +1604,6 @@ negócios.
 Levante os controles para o suporte (frequência) do consequente enquanto calcula a
 probabilidade
 condicional de ocorrência de {Y} dado {X}. Lift é um termo muito literal dado a esta medida. Pense
-
-
 nisso como o *elevador* que {X} fornece à nossa confiança por termos {Y}
 no carrinho. Para
 reformular, lift é o aumento na probabilidade de ter {Y} no carrinho com o
@@ -1803,8 +1776,6 @@ identificar regras que
 estejam acima de um nível mínimo de confiança (minconf). Assim como
 a propriedade
 antimonótona do suporte, a confiança das regras geradas a partir do mesmo conjunto de itens
-
-
 também segue uma propriedade antimonótona. É antimonótono em relação ao número
 de
 elementos em consequente.
@@ -1850,8 +1821,6 @@ Low-Confidence
 
 Começamos com um itemset frequente {a,b,c,d} e começamos a formar regras com apenas um
 consequente. Remova as regras que não satisfazem a condição minconf. Agora, comece a formar
-
-
 regras usando uma combinação de consequentes das restantes. Continue repetindo até que
 reste
 apenas um item no antecedente. Este processo deve ser feito para todos os conjuntos
@@ -1889,9 +1858,7 @@ nenhum item y pode ser adicionado, de modo que {X,y} ainda permaneça acima do l
 
 Frequent
 Itemset
-
 kets havingbread and butteralso
-
 have e nd support of the basket with bread,
 butter and g is abovethe valueof minsup
 
@@ -1923,8 +1890,6 @@ representação de conjuntos de itens frequentes.
 Todos os conjuntos de itens frequentes podem ser derivados como subconjuntos de
 conjuntos de
 itens frequentes máximos. No entanto, as informações sobre o suporte dos subconjuntos são
-
-
 perdidas. Se esse valor for necessário, o conjunto de itens frequentes fechado é outra
 maneira de
 representar todos os conjuntos de itens frequentes.

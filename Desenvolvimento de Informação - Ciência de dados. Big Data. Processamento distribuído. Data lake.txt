@@ -283,8 +283,6 @@ na
 definição da Oracle, Big Data é, muitas vezes, caracterizado por uma "densidade de
 valor
 relativamente baixa". Isto é, os dados recebidos na forma original, geralmente tem um
-
-
 valor baixo em relação ao seu volume. Entretanto, um valor elevado pode ser obtido
 pela
 análise de grandes volumes destes mesmos dados. Assim, as informações geradas devem
@@ -389,9 +387,7 @@ Volume
 ^F
 
 w
-
 á k
-
 ariedad e
 
 F
@@ -437,7 +433,6 @@ de contexto para ter sentido.
 
 Esses dados
 não-estruturados
-
 representam 85% das
 informações com as quais
 as empresas lidam hoje
@@ -498,7 +493,6 @@ redes sociais para
 prever o aumento do
 desemprego, o
 esfriamento
-
 econômico e
 epidemias de
 doenças
@@ -546,7 +540,6 @@ milhões de chips SIM
 de celulares,
 facilitando a atuação
 da ajuda
-
 humanitária
 
 —————TT————
@@ -578,7 +571,6 @@ desmatamento etc. O
 que costumava levar
 semanas durou
 algumas horas
-
 p
 
 Big Data pelo mundo. Fonte: Jornal O Globo.
@@ -904,7 +896,6 @@ Dados da web e
 sociais
 
 Dados de
-
 transação
 (operacionais)
 
@@ -961,7 +952,6 @@ On demand
 Contmuous
 
 Time series
-
 feeds
 Piê mey fie avente vn «nwdty. weeAy. daty
 
@@ -989,7 +979,6 @@ Semi-
 Structured
 
 Documei Audio
-
 rmag®*. Tert. ixi«o.í. Auaw »r.c Doam**** «ao fie at -7p»
 Strucnxerf, t./nsfii.t-M»*? «wvr 5«>rv»smrf«ri)0
 
@@ -1096,8 +1085,6 @@ Cada padrão lida com requisitos específicos — visualização, análise de da
 dados de
 mídia social e armazenamento de dados não estruturados, por exemplo. Os
 padrões atômicos
-
-
 podem trabalhar em conjunto para criar um padrão composto. Não há camadas ou sequência
 para
 esses padrões atômicos. Por exemplo, os padrões de visualização podem interagir com os
@@ -1510,7 +1497,6 @@ r NoSQL/SQL Avançado 1 r MapReduce/MPP
 
 
 Armazenamento distribuído
-
 k Processamento distribuído J
 
 Ferramentas de Big Data /
@@ -1579,8 +1565,6 @@ o modelo
 relacional e as estruturas de dados na memória, comumente chamada de incompatibilidade
 de
 impedância. Os modelos de dados relacionais organizam os dados em uma estrutura de tabelas e
-
-
 linhas, ou, mais apropriadamente, de relações e tuplas. Uma tupla é um conjunto de
 pares nome-
 valor e uma relação é um conjunto de tuplas.
@@ -1715,8 +1699,6 @@ ou em uma tabela diferente, o que constitui um relacionamento entre essas entida
 Uma das mudanças mais evidentes trazidas pelo NoSQLé o afastamento do modelo
 relacional. Cada
 solução NoSQL possui um modelo diferente, os quais dividimos em quatro categorias amplamente
-
-
 utilizadas no ecossistema NoSQL: chave-valor, documento, família de colunas ou colunar, e grafos.
 Dessas as três primeiras compartilham uma característica em comum conhecida como
 "orientação
@@ -1827,7 +1809,6 @@ representa um campo como o nome, enquanto o valor representa a instância do cor
 Chave-Valor
 
 Usuário
-
 id nome sobrenome idend
 
 Marcos Silva 5
@@ -1874,8 +1855,6 @@ MoDELo DE DADoS DE DoCUMENTo
 O modelo de documentos torna o agregado transparente para o banco de dados, permitindo
 que
 sejam executadas consultas e recuperações parciais. Entretanto, pelo fato de o documento não
-
-
 possuir esquema, o banco de dados não pode atuar muito na estrutura desse documento
 para
 otimizar o armazenamento e a recuperação de partes do agregado.
@@ -1924,11 +1903,8 @@ acessibilidade.
 Vejam que neste caso, mudamos o paradigma em relação ao modelo chave-valor. A
 orientação deixa
 de ser por registros ou tuplas para orientação por colunas. Neste modelo os dados são indexados
-
-
 por uma trilha (linha, coluna e timestamp), onde as linhas e colunas são identificadas
 por chaves e o
-
 timestamp permite diferenciar múltiplas versões de um mesmo dado.
 
 Usuário Endereço
@@ -1997,10 +1973,8 @@ dos relacionamentos inerentes aos grafos, estas consultas tornam-se mais simples
 
 
 Usuário
-
 id nome sobrenome id end
 Marcos Silva
-
 h 3 1
 
 2 Leandro Dantas 1
@@ -2010,7 +1984,6 @@ h 3 1
 4 Junior Ferraz 2
 
 Endereço
-
 id cidade estado cep
 
 1 Belém PA 66823-010
@@ -2025,8 +1998,6 @@ I3
 4 Salvador BA 66548-020
 
 Vértice Vértice
-
-
 nome: Marcos
 sobrenome: Silva"
 
@@ -2048,7 +2019,6 @@ Microsoft
 -£^nentDB'
 
 Neo4j
-
 the graph databasc
 
 /AmFnimrrrir!cVi
@@ -2253,10 +2223,7 @@ amount = 68
 Partition B
 
 update
-
-
 amoun
-
 id 3 = 82
 
 operation failed
@@ -2376,7 +2343,6 @@ Peer A
 User A
 
 update
-
 amoi/t
 
 Consistência eventual é o estado em que leituras feitas por diferentes clientes,
@@ -2471,20 +2437,15 @@ A
 figura abaixo ilustra algumas das características do Hadoop.
 
 Hadoop
-
 textual
 data
-
-
 structured
 data
 
 XML
 
 data
-
 processing
-
 storage I
 
 Hadoop é usado amplamente na indústria para processamento de grande escala, massivamente
@@ -2746,18 +2707,13 @@ componentes possíveis na figura abaixo:
 agentl.sources = sourcel
 agentl.sinks = sinkl
 agentl.channels = channell
-
 agentl.sources.sourcel.channels = channell
 agentl.sinks.sinkl.channel = channell
-
 agentl.sources.sourcel.type = spooldir
 agentl.sources.sourcel.spoolDir = /var/spooldir
-
 agentl.sinks.sinkl.type = hdfs
-
 agentl.sinks.sinkl.hdfs.path = hdfs://hostname:8020/user/flume/logs
 agentl.sinks.sinkl.hdfs.filetype = DataStream
-
 agentl.channels.channell.type = memory
 agentl.channels.channell.capacity = 10000
 
@@ -2885,25 +2841,19 @@ conteúdo associado de zero ou mais bytes.
 
 FlowFile Processor Black Box Os processadores realmente executam o trabalho. Ele
 faz alguma combinação de
-
 roteamento de dados, transformação ou mediação entre sistemas. Têm acesso
-
 aos atributos de um determinado FlowFile e seu fluxo de conteúdo (content
 stream). Processadores podem operar em zero ou mais FlowFiles em uma
 determinada unidade de trabalho e confirmar ou reverter esse trabalho.
 
 Connection Bounded Buffer Conexões fornecem a ligação real entre
 processadores. Eles atuam como filas e
-
 permitem que vários processos interajam a taxas diferentes. Essas filas podem ser
-
 priorizadas dinamicamente e podem ter limites superiores na carga.
 
 Flow Controller Scheduler O Controlador de Fluxo mantém o conhecimento, de
 como os processos se
-
 conectam e gerencia os encadeamentos e alocações que todos os processos
-
 usam. O Controlador de Fluxo age como o intermediário, facilitando a troca de
 FlowFiles entre processadores.
 
@@ -2911,7 +2861,6 @@ Process Group subnet Um grupo de processos é um conjunto específico de
 processos e suas conexões,
 
 que podem receber dados por meio de portas de entrada e enviar dados por
-
 meio de portas de saída. Dessa maneira, os grupos de processos permitem a
 criação de componentes inteiramente novos simplesmente pela composição de
 outros componentes.
@@ -3046,8 +2995,6 @@ Apache Storm: Apache Storm fornece uma solução em tempo real, escalável e dis
 para
 streaming de dados. Storm permite atividades orientadas a dados e
 automatizadas. Pode ser
-
-
 utilizado com qualquer linguagem de programação e garante que os fluxos de
 dados são
 processados sem perda de dados. Storm possui tipagem de dados agnóstica, ou seja, ele
@@ -3273,8 +3220,6 @@ Item. 2. Os metadados operacionais capturam a linhagem, a qualidade, o perfil e 
 proveniência (por
 exemplo, quando os elementos de dados chegaram, onde estão localizados, de onde vieram,
 qual é a qualidade dos dados, etc.). Também pode conter quantos registros foram rejeitados
-
-
 durante a preparação de dados ou uma execução de tarefa, e o sucesso ou fracasso da
 própria
 execução. Os metadados operacionais também identificam com que frequência os dados podem
@@ -3404,8 +3349,6 @@ Os esquemas de retenção podem se basear em regras globais ou em casos de uso d
 negócios
 específicos, mas sempre têm como objetivo traduzir o valor dos dados em uma política de acesso
 e armazenamento apropriada. Isso maximiza o armazenamento disponível e dá prioridade aos
-
-
 dados mais críticos ou de alta utilização. As implementações iniciais de lagos de
 dados muitas vezes
 negligenciaram o ciclo de vida dos dados, pois o baixo custo de armazenamento e a
@@ -3796,7 +3739,6 @@ na prova!
 Item. 6. Ano: 2017 Banca: FCC Órgão: DPE-RS Prova: Analista - Banco de Dados
 
 Os sistemas de Big Data costumam ser caracterizados pelos chamados 3 Vs, sendo que o V de
-
 a) Veracidade corresponde à rapidez na geração e obtenção de dados.
 
 b) Valor corresponde à grande quantidade de dados acumulada.
@@ -3896,7 +3838,6 @@ Runtimes
 
 
 Security flr Intrgr JIHwI |||| Sccuiit/ & lntegraoon
-
 z
 
 Da ta ba sos H Data bases OI
@@ -3943,7 +3884,6 @@ Servei HW
 
 Storage
 Networking
-
 s Storage Stoiage
 
 
@@ -4030,7 +3970,6 @@ Grafo
 4 InfiniteGraph
 
 Tabular
-
 â redis
 
 HBASE Cassandra
@@ -4110,8 +4049,6 @@ pela sigla BASE que está relacionada com os conceitos de BA -
 disponibilidade é prioridade, S - (Soft-State) - Não precisa ser consistente o tempo
 todo e E -
 (Eventually Consistent) - Consistente em momento indeterminado. Outro ponto importante é
-
-
 a relação de NoSQL com o modelo de dados, geralmente o banco é considerado schema
 free,
 ou seja, livre de esquema ou de um modelo pré-determinado a priori.
@@ -4176,8 +4113,6 @@ Outros Vs foram adicionados ao longo dos anos:
 Veracidade. O quarto V do conceito está ligado à veracidade do conteúdo. Nem todos os
 dados
 gerados possuem consistência dentro do contexto. É preciso destacar o que é rico e correto
-
-
 em conteúdo no meio de tanta informação. Ao garantir essa separação, que é possível
 fazer a
 partir do Big Data, o que sobra são conhecimentos importantes para compreender melhor a
@@ -4750,8 +4685,6 @@ diversos tipos de integração.
 90 Também conhecida no Brasil como computação nas nuvens ou computação em nuvem, a
 cloud computing se refere, essencialmente, à noção de utilizarmos, em qualquer
 lugar e
-
-
 independente de plataforma, as mais variadas aplicações por meio da internet com a
 mesma
 facilidade de tê-las instaladas em computadores locais. Dentro deste contexto, tanto

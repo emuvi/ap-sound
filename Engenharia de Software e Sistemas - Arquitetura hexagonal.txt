@@ -815,9 +815,7 @@ podemos ver as possíveis interações na Arquitetura MVC!
 Para quem quiser conhecer melhor, recomendo os seguintes artigos:
 
 http://www.cfQigolo.com/2oo8/o1/mvc-model-view-controller-e-os-tres-macacos
-
 https://r.je/views-are-not-templates.html
-
 http://tableless.com.br/mvc-afinal-e-o-que
 
 
@@ -1144,7 +1142,6 @@ Encapsulamento de implementação J
 
 organização ou a estrutura dos
 componentes signifiet ivos ob 9 st era
-
 que interagem por meio de interfaces
 
 Maior reuso e extensibilidade /
@@ -1156,14 +1153,11 @@ em uma única grande máquina -
 não havia camadas ® Arquitetura Monolítica
 
 Baixo Acoplamento
-
-
 aplicação rodava na máquina
 cliente que interagia com um
 SGBD (servidor de dados)
 
 "fat client" continha toda a Arquitetura em duas camadas
-
 lógica de apresentação, )------------------------------------------------------------------
 
 negócio e acesso a dados '
@@ -1179,10 +1173,8 @@ Arquitetura MVC controlador
 modelo
 
 O comunicação triangular
-
 aplicações são conjuntos de serviços
 Microsserviços 0i1 implantações (deploys) independentes
-
 pode envolver tecnologias e
 
 \ linguagens heterogêneas
@@ -1197,18 +1189,14 @@ servidor web V
 servidor de aplicação /
 
 O Arquitetura Web
-
 não existe hierarquia ou
 exclusividade no fornecimento das
 informações trafegadas
-
 uma arquitetura P2P "pura" não possui
 servidor dedicado para o fornecimento
 de informações ou atendimento às
 requisições
-
 todo computador pode funcionar
-
 como cliente e/ou servidor ao
 mesmo tempo
 
@@ -1627,7 +1615,6 @@ controle
 seleciona o comportamento do modelo.
 
 Gabarito: Errado
-
 i2.(CESPE / STJ - 2015) No padrão em camadas modelo-visão-controle (MVC), o
 controle é
 responsável por mudanças de estado da visão.
@@ -1656,7 +1643,6 @@ esse nível de
 detalhamento.
 
 Gabarito: Errada
-
 i4.(CESPE / ANTAQ - 2014) O controller tem a responsabilidade de armazenar e buscar
 os dados
 que deverão ser exibidos pelo view.
@@ -1666,7 +1652,6 @@ Comentários:
 Na verdade, essa é uma responsabilidade do modelo.
 
 Gabarito: Errado
-
 i5.(CESPE / INPI - 2013) De acordo com os princípios da engenharia de software
 relacionados à
 independência funcional, os algoritmos devem ser construídos por módulos
@@ -1680,7 +1665,6 @@ Comentários:
 Não, está invertido! Visa-se ao baixo acoplamento e à alta coesão!
 
 Gabarito: Errado
-
 i6.(CESPE / STF - 2013) Quanto maior for o número de camadas, menor será o
 desempenho do
 software como um todo.
@@ -1692,8 +1676,6 @@ camadas, mais
 overhead. No entanto, há casos em que isso não é válido! Portanto, essa questão caberia recurso.
 
 Gabarito: Correto
-
-
 l-j. (CESPE / STF-2013) Cada camada tem comunicação (interface) com todas as demais
 camadas,
 tanto inferiores quanto superiores.
@@ -2218,8 +2200,6 @@ para
 aplicações interativas, uma aplicação é organizada em três módulos separados.
 Um para o
 modelo de aplicação com a representação de dados e lógica do negócio, o segundo com visões
-
-
 que fornecem apresentação dos dados e input do usuário e o terceiro para um
 controlador que
 despacha pedidos e controle de fluxo.
@@ -2469,7 +2449,6 @@ Gabarito: Errado
 
 72.(CESPE / DATAPREV - 2006) Arquiteturas cliente/servidor podem ser decompostas em mais
 de duas camadas. Uma configuração muito utilizada é aquela em que os clientes acessam
-
 informações por meio de servidores de aplicação, que por sua vez acessam servidores de banco
 de dados. Este tipo de arquitetura é conhecida como arquitetura em 3 camadas, ou three-tier.
 
@@ -2660,7 +2639,6 @@ return Util.calculaPensao(processo);
 Em um sistema Orientado a Objetos bem desenvolvido, os princípios relativos a
 acoplamento e
 coesão devem ser respeitados. O código Java apresentando no trecho 1 mostra um exemplo de
-
 a) baixo acoplamento e o trecho 2 o corrige para alto acoplamento.
 
 b) alta coesão e o trecho 2 o corrige para baixa coesão.
@@ -2837,8 +2815,6 @@ correto! A
 diferença entre a Arquitetura em 4 Camadas e 3 Camadas é que a Apresentação não fica
 mais no
 cliente e, sim, na Camada Web. (III) Errado. Imagino que o middleware à que a questão se refere é
-
-
 o Servidor Web, mas ele ficaria na Camada Web fazendo o meio-campo para suportar thin
 clients
 e, não, na Camada de Lógica de Negócio -a FCC discorda! (IV) Correto. A Camada de
@@ -2946,7 +2922,6 @@ interação entre o usuário e a aplicação.
 A associação correta do componente do padrão MVC com sua função está
 expressa,
 respectivamente, em
-
 a) (I) Controller; (II) Model; (III) View;
 
 b) (I) Model; (II) Controller; (III) View;
@@ -3412,13 +3387,9 @@ Item. 5. (CESGRANRIO / CEFET-RJ - 2014) No contexto da Arquitetura de Sistemas, 
 view-controller) é um estilo arquitetural:
 
 a) interativo
-
 b) estrutural
-
 c) distribuído
-
 d) adaptável
-
 e) monolítico
 
 Comentários:
@@ -3587,8 +3558,6 @@ e) par-par.
 Item. 6. (CESPE / TELEBRÁS - 2021) Na arquitetura de software, a arquitetura
 cliente/servidor tem
 como vantagem uma maior facilidade de manutenção e segurança dos dados, e como
-
-
 desvantagens possíveis bloqueios no tráfego da rede, além de problemas de
 atualização da
 interface de aplicação.
@@ -4190,7 +4159,6 @@ return Util.calculaPensao(processo);
 Em um sistema Orientado a Objetos bem desenvolvido, os princípios relativos a
 acoplamento e
 coesão devem ser respeitados. O código Java apresentando no trecho 1 mostra um exemplo de
-
 a) baixo acoplamento e o trecho 2 o corrige para alto acoplamento.
 
 b) alta coesão e o trecho 2 o corrige para baixa coesão.
@@ -4381,7 +4349,6 @@ interação entre o usuário e a aplicação.
 A associação correta do componente do padrão MVC com sua função está
 expressa,
 respectivamente, em
-
 a) (I) Controller; (II) Model; (III) View;
 
 b) (I) Model; (II) Controller; (III) View;
@@ -4717,13 +4684,9 @@ e) UVB (User-View-Business).
 view-controller) é um estilo arquitetural:
 
 a) interativo
-
 b) estrutural
-
 c) distribuído
-
 d) adaptável
-
 e) monolítico
 
 Item. 6. (IBFC / TRE-AM - 2014) Na arquitetura cliente-servidor, além dos dois principais
@@ -4968,8 +4931,6 @@ necessário algum
 tratamento de dados para produzir tais resultados. Seu software precisaria
 capturar alguma
 entrada do usuário para consultar os tipos de roteador. Você pode querer usar uma regra de
-
-
 negócios específica para validar a entrada do usuário e outra regra de negócios para
 verificar os
 dados obtidos de fontes externas.

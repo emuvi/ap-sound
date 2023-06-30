@@ -267,7 +267,6 @@ primeiro.
 Considere as proposições simples:
 
 Etapa 2: desconsiderar o contexto
-
 p: "Pedro é baiano."
 m: "Maria é carioca."
 s: "Sérgio é paulista."
@@ -297,7 +296,6 @@ todas as proposições
 simples. Vamos agora para a etapa 4.
 
 Etapa 4: verificar a resposta que apresenta uma proposição verdadeira
-
 a) p - alternativa correta, pois p é V.
 
 b) ~p — errado, pois p é V e, portanto, ~p é F.
@@ -322,7 +320,6 @@ Gabarito: Letra A.
 Certo d ia, no almoço, Valter não comeu macarrão.
 
 É correto afirmar que, nesse dia, Valter
-
 a) comeu frango e carne.
 
 b) não comeu frango nem carne.
@@ -351,7 +348,6 @@ atacar primeiro.
 Sejam as proposições:
 
 Etapa 2: desconsiderar o contexto
-
 c: "Valter come carne."
 f: "Valter come frango."
 I: "Valter come legumes."
@@ -456,7 +452,6 @@ d) Paulo não é carioca, Bernardo é paulista, Sérgio não é amazonense.
 ; Comentários:
 
 A questão apresenta um conjunto de afirmações no enunciado e pergunta por uma consequência
-
 i verdadeira resultante dessas afirmações.
 
 = Vamos seguir as quatro etapas apresentadas na teoria da aula.
@@ -472,7 +467,6 @@ afirmação
 : Considere as proposições simples:
 
 Etapa 2: desconsiderar o contexto
-
 p: "Paulo é carioca."
 
 b: "Bernardo é paulista."
@@ -556,7 +550,6 @@ devemos atacar
 Considere as proposições simples:
 
 Etapa 2: desconsiderar o contexto
-
 j: "Júlio é pintor."
 
 b: "Bruno é cozinheiro."
@@ -596,7 +589,6 @@ todas as proposições
 simples. Vamos agora para a etapa 4.
 
 Etapa 4: verificar a resposta que apresenta uma proposição verdadeira
-
 a) ~j A ~b — a conjunção é falsa, pois ~j é F.
 
 b) a V b — a disjunção inclusiva é falsa, pois tanto a quanto b são falsos.
@@ -650,7 +642,6 @@ devemos atacar primeiro.
 Considere as proposições simples:
 
 Etapa 2: desconsiderar o contexto
-
 v: "Luciano viaja ao interior."
 
 f: "Luciano vai à feira."
@@ -744,7 +735,6 @@ está
 Considere as proposições simples:
 
 Etapa 2: desconsiderar o contexto
-
 a: "Marcos figura no quadro de associados."
 
 p: "Marcos está com os pagamentos em dia."
@@ -803,7 +793,6 @@ destacamos parte do enunciado para melhor compreensão.
 - tomo açaí ou não corro.
 
 Se, no último domingo, não joguei futebol, então
-
 a) corri e não comi pizza no jantar.
 
 b) não corri e comi pizza no jantar.
@@ -838,7 +827,6 @@ primeiro.
 Sejam as proposições:
 
 Etapa 2: desconsiderar o contexto
-
 p: "Como pizza no jantar."
 
 a: "Tomo açaí."
@@ -885,7 +873,6 @@ todas as proposições
 simples. Vamos agora para a etapa 4.
 
 Etapa 4: verificar a resposta que apresenta uma proposição verdadeira
-
 a) c A ~p - a conjunção é falsa, pois ~p é F.
 
 b) ~c A p a conjunção é falsa, pois ~c é F.
@@ -912,7 +899,6 @@ dos "formatos fáceis"?
 Excelente pergunta, caro aluno!
 
 Esses problemas são resolvidos dentro de um tópico da aula de Lógica de Argumentação
-
 propriamente dita, caso esse assunto faça parte do seu edital.
 
 
@@ -924,7 +910,6 @@ Argumentos dedutivos
 
 * Um argumento é a relação que se dá entre um conjunto de premissas que dão suporte à defesa de
 uma
-
 conclusão.
 
 * Para fins do estudo dos argumentos dedutivos, as premissas podem ser definidas como proposições
@@ -943,7 +928,6 @@ que devem ser consideradas verdadeiras para se chegar a uma conclusão.
 Validade dos argumentos dedutivos X Veracidade das proposições
 
 * Validade é uma característica dos argumentos dedutivos. Esse tipo de argumento pode ser válido ou
-
 inválido; e
 
 * Veracidade é uma característica das proposições. As proposições podem ser verdadeiras ou falsas.
@@ -954,7 +938,6 @@ O argumento dedutivo é válido quando a conclusão é necessariamente verdadeir
 premissas são CONSIDERADAS verdadeiras.
 
 Um argumento dedutivo é inválido quando, CONSIDERADAS as premissas como verdadeiras, a
-
 conclusão obtida é falsa.
 
 Um argumento dedutivo inválido também é conhecido por sofisma ou falácia formal.
@@ -1120,7 +1103,6 @@ FALSA
 em que todas as
 
 -> premissas sejam
-
 verdadeiras
 mantendo a
 conclusão falsa
@@ -1173,7 +1155,6 @@ Premissa P4: d "©
 Conclusão C:
 
 Algumas questões de concurso público podem apresentar condicionais nas premissas e uma conclusão
-
 que é uma proposição simples. Nesse caso, busca-se obter uma conclusão da forma p-»~p ou da forma
 
 ~p->p.
@@ -1314,7 +1295,6 @@ O primeiro ponto que deve ser entendido quanto a diferença entre validade e ver
 
 * Validade é uma característica dos argumentos dedutivos. Esse tipo de argumento pode ser
 válido
-
 ou inválido; e
 
 * Veracidade é uma característica das proposições. As proposições podem ser verdadeiras ou
@@ -1402,7 +1382,6 @@ que Pl seja falsa no mundo dos fatos, devemos considerá-la verdadeira para fins
 aferição da validade do argumento.
 
 Essa obtenção da validade do argumento depende da forma em que ele e construído, e
-
 não do contexto das premissas e da conclusão.
 
 Ainda não vimos os métodos de verificação da validade de um argumento dedutivo, porém,
@@ -1518,7 +1497,6 @@ Já para um argumento inválido, podemos ter as quatro situações:
 * Premissas falsas e conclusão verdadeira.
 
 Professor, fiquei confuso. Se eu me deparar, por exemplo, com um argumento em que as premissas são
-
 falsas e a conclusão é falsa. Como vou saber se o argumento é válido ou não?
 
 Calma, caro aluno! Em breve vamos falar sobre os métodos de verificação da validade
@@ -1593,7 +1571,6 @@ Em um argumento inválido, a conclusão é uma proposição falsa.
 Comentários:
 
 Um argumento dedutivo é inválido quando, CONSIDERADAS as premissas como verdadeiras, a conclusão
-
 obtida é falsa.
 
 Veja que é plenamente possível termos um argumento inválido com uma conclusão verdadeira. A obtenção
@@ -1612,7 +1589,6 @@ Lembre-se de que, para um argumento inválido, podemos ter quatro situações:
 Gabarito: ERRADO.
 
 (PC SP/2013) Quando um argumento é válido, isso significa que
-
 a) se as premissas são falsas, a conclusão é falsa.
 
 b) premissas e conclusão devem ter sempre o mesmo valor de verdade.
@@ -1744,7 +1720,6 @@ tabela-verdade da proposição condicional associada ao argumento é:
 
 Portanto, é correto dizer que a tabela-verdade da proposição condicional
 associada ao argumento tem
-
 menos de dez linhas.
 Gabarito: CERTO.
 
@@ -1786,7 +1761,6 @@ Alguma tartaruga não é rápida.
 Definidos esses três termos, podemos também definir os seguintes conceitos:
 
 a) Premissa maior: é a premissa que contém o termo maior e o termo médio; e
-
 b) Premissa menor: é a premissa que contém o termo menor e o termo médio.
 
 Perceba que, no exemplo dado, "Todo o guepardo é rápido" é a premissa maiorj e
@@ -1808,7 +1782,6 @@ a) Universal afirmativa (A);
 b) Universal negativa (E);
 
 c) Particular afirmativa (I); e
-
 d) Particular negativa (O).
 
 
@@ -1969,12 +1942,10 @@ Método dos diagramas lógicos
 
 Conforme já mencionado nessa aula, os argumentos dedutivos podem ser argumentos
 categóricos ou
-
 argumentos hipotéticos.
 
 Quando temos argumentos categóricos, a validade do argumento é aferida por meio dos
 diagramas lógicos
-
 aprendidos na aula anterior.
 
 Ao se desenhar os diagramas lógicos e se verificar que a conclusão do argumento não
@@ -2043,7 +2014,6 @@ Método da tabela-verdade
 
 Considere um argumento hipotético com as premissas Pi, P2,..., Pn e com a conclusão
 C. Temos a seguinte
-
 condicional associada ao argumento em questão:
 
 (P1AP2A ... APn) -> C
@@ -2064,7 +2034,6 @@ Vejamos um exemplo.
 
 i (TRE RJ/2012) O cenário político de uma pequena cidade tem sido movimentado por denúncias a
 respeito i
-
 da existência de um esquema de compra de votos dos vereadores. A dúvida quanto a esse esquema
 persiste j
 
@@ -2200,7 +2169,6 @@ válido. Nesse
 
 : Etapa 1: desconsiderar o contexto, transformando as afirmações da língua portuguesa
 para a linguagem
-
 proposicional
 
 : Considere as seguintes proposições simples:
@@ -2257,7 +2225,6 @@ Note que as linhas da tabela-verdade em que as afirmações são verdadeiras sã
 Etapa 3: verificar a resposta que apresenta uma proposição que é verdadeira para todas as linhas
 obtidas
 na etapa anterior
-
 a) p - alternativa incorreta, pois p é falso nas linhas 5 e 6.
 
 b) a - alternativa correta, a é verdadeiro para todas as linhas obtidas.
@@ -2303,7 +2270,6 @@ válido. Nesse
 
 i Etapa 1: desconsiderar o contexto, transformando as afirmações da língua portuguesa
 para a linguagem
-
 proposicional
 
 : Considere as seguintes proposições simples:
@@ -2407,7 +2373,6 @@ enunciado;
 
 Note que, na etapa 4, estamos na verdade aferindo a validade do argumento, ou seja,
 estamos averiguando
-
 se a conclusão é verdadeira uma vez que as premissas foram consideradas verdadeiras.
 
 (Pref. SP/2016) As proposições seguintes constituem as premissas de um argumento.
@@ -2448,7 +2413,6 @@ premissa que devemos atacar primeiro.
 Sejam as proposições:
 
 Etapa 2: desconsiderar o contexto
-
 b: "Bianca é professora."
 
 p: "Paulo é técnico de contabilidade."
@@ -2485,7 +2449,6 @@ ter ao menos uma
 proposição simples verdadeira. Como ~a é F e b é F, então c deve ser verdadeiro. Logo, c é V.
 
 Etapa 4: verificar a resposta que apresenta uma proposição verdadeira
-
 a) ~pA~a — conjunção falsa, pois ~a é falso.
 
 b) ~cA~p — conjunção falsa, pois ~c é falso.
@@ -2531,7 +2494,6 @@ O fluxograma a seguir resume o método.
 A conclusão é uma
 proposição simples,
 disjunção inclusiva
-
 ou
 
 *
@@ -2554,7 +2516,6 @@ Sim
 
 Desconsiderar
 o contexto
-
 hipótese de
 que a
 conclusão é
@@ -2616,7 +2577,6 @@ Comentários:
 Como a conclusão é uma proposição simples, podemos usar o método da conclusão falsa.
 
 Etapa 1: desconsiderar o contexto
-
 e: "A empresa privada causa prejuízos à sociedade"
 g: "O governo interfere na gestão da empresa privada"
 
@@ -2666,7 +2626,6 @@ Os casos das premissas Q2 e P2 são mais evidentes, pois basta que s e f sejam f
 
 Para os casos das premissas Pl e Ql, devemos ter eAg falso e também eA~g falso.
 Isso é possível quando
-
 e é F, independentemente do valor de g.
 
 Como é possível fazer com que todas as premissas sejam verdadeiras mantendo a conclusão falsa, temos
@@ -2785,7 +2744,6 @@ Gabarito: CERTO.
 * Se biba não é bala então é babalu.
 
 É correto concluir que
-
 a) se biba é bola então é babalu.
 
 b) se biba é babalu então é bola.
@@ -2876,7 +2834,6 @@ Afirmação III: g~*~p
 
 Ao concatenarmos a afirmação I com a contrapositiva da afirmação II e com a afirmação
 III, conclui-se
-
 p->~p.
 Afirmação I: p-»j
 
@@ -2958,7 +2915,6 @@ apresenta a proposição b: b-*~f.
 
 Como encontrar uma condicional que finalize com (~eV~i)? Simples! Basta fazer
 a contrapositiva da
-
 premissa II:
 
 (eAi)—»f = ~ f->~(eAi)
@@ -3066,14 +3022,9 @@ de inferência
 
 = Qual a notação que designa a regra de inferência Modus Ponens?
 j a) p V q, -p l-q
-
 b) p Aq,-p l--q
-
 í c) p -o q I- p->q
-
-
 d)p,p^qhq
-
 j e) q, p q I- p
 
 ; Comentários:
@@ -3136,7 +3087,6 @@ Se hoje é feriado, então amanhã eu trabalho.
 Amanhã eu não trabalho.
 
 Com base apenas nas informações apresentadas, conclui-se corretamente que
-
 a) hoje não é feriado.
 
 b) hoje é feriado.
@@ -3255,11 +3205,9 @@ A validade do argumento pode ser deduzida, respectivamente, a partir da aplicaç
 regras de inferência
 
 = a) Paradoxo e Contingência
-
 b) Contraposição e Absurdo
 
 : c) Modus Ponnens e Contradição
-
 d) Modus Tollens e Lei de De Morgan
 
 : e) Silogismo Conjuntivo e Silogismo hipotético
@@ -3337,7 +3285,6 @@ Conclusão: Se p, então r.
 
 Em resumo, a regra de inferência denominada "silogismo hipotético" utiliza a
 transitividade do condicional
-
 quando temos duas premissas.
 
 í (ISS Curitiba/2019) Um argumento da lógica proposicional é formado por premissas (Pl, P2,..., Pn)
@@ -3452,7 +3399,6 @@ funcionária pública]." =
 
 : Veja que as premissas presentadas correspondem ao dilema construtivo, em que a
 terceira premissa é a j
-
 i disjunção inclusiva dos antecedentes das duas primeiras premissas: (jAa) V i.
 
 Sabemos que no dilema construtivo uma conclusão que torna o argumento válido é a disjunção
@@ -3541,7 +3487,6 @@ Veja que as premissas presentadas correspondem ao dilema destrutivo, em que a te
 
 Sabemos que no dilema destrutivo uma conclusão que torna o argumento válido é a disjunção inclusiva
 da
-
 negação dos antecedentes das duas primeiras premissas: ~pV~r.
 
 : Essa conclusão correta está presente na letra B:
@@ -3564,7 +3509,6 @@ j ~tV~(tAu)
 b)~rVs
 
 : c) ~ (rAs)V ~s
-
 d) ~(tVu)
 
 = Comentários:
@@ -3766,7 +3710,6 @@ Agora que temos o valor de c e de d, podemos seguir para qualquer afirmação qu
 
 A afirmação III é uma condicional verdadeira. Como o consequente d é falso, temos que
 o antecedente
-
 b é F, pois caso contrário recairíamos na condicional falsa da forma V->F.
 
 Agora que temos o valor de b, vamos para outra afirmação que apresenta a proposição b.
@@ -3894,8 +3837,6 @@ um de seus termos,
 
 p, é falso. Observe, portanto, que nada podemos afirmar quanto ao valor lógico de b,
 pois a condicional é
-
-
 verdadeira qualquer que seja o valor lógico de b. Isso porque os
 condicionais F-»V e F-*F são ambos
 verdadeiros.
@@ -3917,7 +3858,6 @@ Item. 6. (CESPE/Pref. B dos Coqueiros/2020) Considere as seguintes proposições
 * Q: "Maria é enfermeira ou João é motorista."
 
 Sabendo-se que a proposição P é verdadeira e que a proposição Q é falsa, é correto concluir que
-
 a) Maria não é enfermeira, João não é motorista e Paulo não é fiscal.
 
 b) Maria não é enfermeira, João é motorista e Paulo é fiscal.
@@ -3970,7 +3910,6 @@ p é F, pois caso
 contrário recairíamos na condicional falsa da forma V-»F.
 
 Etapa 4: verificar a resposta que apresenta uma proposição verdadeira
-
 a) ~mA~jA~p — Podemos entender essa conjunção como (~mA~j)A~p ou como
 (~mA~j)A~p. De
 qualquer modo, todos os termos são verdadeiros e, consequentemente, a conjunção é
@@ -3995,7 +3934,6 @@ Sabe-se que:
 * se Pedro não é porteiro, então João é encanador.
 
 Com base nessas informações, sabendo-se que João não é encanador, conclui-se que
-
 a) Pedro é porteiro e Paulo não é pedreiro.
 
 b) Pedro é porteiro e Paulo é pedreiro.
@@ -4048,7 +3986,6 @@ A afirmação I é uma condicional verdadeira. Como o consequente ~oé F, o ante
 contrário recairíamos na condicional falsa da forma V-»F.
 
 Etapa 4: verificar a resposta que apresenta uma proposição verdadeira
-
 a) oA~e — Conjunção verdadeira, pois oe ~e são ambos verdadeiros. Esse é o gabarito.
 
 b) oAe — Conjunção falsa, pois e é falso.
@@ -4146,7 +4083,6 @@ Agora que temos o valor de g, vamos para outra afirmação que apresenta a propo
 
 A afirmação F2 é um condicional verdadeiro com um consequente g falso. Isso significa
 que o antecedente
-
 e deve ser falso, pois caso contrário teríamos a condicional falsa (V-»F). Logo, e é F.
 
 Agora que temos o valor de e, vamos para outra afirmação que apresenta a proposição e.
@@ -4220,7 +4156,6 @@ Como a afirmação III é verdadeira, j é F.
 
 A afirmação I é uma disjunção inclusiva verdadeira. Logo, um dos termos dela deve ser
 verdadeiro. Como
-
 j é F, devemos ter que t é V.
 
 
@@ -4251,7 +4186,6 @@ de sistemas operacionais, concluiu que:
 * Se Douglas usa o Windows, então Cícero usa o Linux.
 
 Com base nessas conclusões e sabendo que Ernesto usa o Windows, é correto concluir que
-
 a) Cícero não usa o Linux.
 
 b) Douglas não usa o Linux.
@@ -4426,7 +4360,6 @@ Consequentemente,
 temos que c é V.
 
 Etapa 4: verificar a resposta que apresenta uma proposição verdadeira
-
 a) g->e - condicional falsa, pois g é V e e é F.
 
 b) cAg - conjunção verdadeira, pois ambas as parcelas são verdadeiras. Este é o gabarito.
@@ -4509,7 +4442,6 @@ proposições.
 
 O argumento dedutivo é inválido quando, CONSIDERADAS as premissas como verdadeiras, a
 conclusão
-
 obtida é falsa.
 
 Sabemos da teoria que existem quatro situações em que um argumento pode ser inválido:
@@ -4879,7 +4811,6 @@ Logo, i é F.
 
 A para a disjunção inclusiva da premissa 2 ser verdadeira, ao menos um termo deve
 ser verdadeiro. Como i
-
 é falso, devemos ter que j é V.
 
 Para a premissa 3 ser verdadeira, não podemos recair no caso em que a condicional é
@@ -5119,7 +5050,6 @@ b: "Os clientes brasileiros de bancos suíços estão regularizando sua situaç�
 brasileiro."
 g: "O governo do Brasil tem um programa que incite os clientes brasileiros de bancos suíços a
 regularizar
-
 sua situação com o fisco brasileiro "
 
 As premissas e a conclusão são dadas por:
@@ -5196,7 +5126,6 @@ Como a conclusão é uma proposição simples, podemos usar o método da conclus
 Sejam as proposições simples:
 
 Etapa 1: desconsiderar o contexto
-
 i: "Serei ignorante."
 
 f: "Serei feliz."
@@ -5402,7 +5331,6 @@ Como a conclusão é uma condicional, podemos usar o método da conclusão falsa
 Sejam as proposições simples:
 
 Etapa 1: desconsiderar o contexto
-
 p: "Paulo é inocente."
 o: "João é inocente."
 r: "Jair é inocente"
@@ -5513,7 +5441,6 @@ Como a conclusão é uma condicional, podemos usar o método da conclusão falsa
 Sejam as proposições simples:
 
 Etapa 1: desconsiderar o contexto
-
 d: "O dólar vai subir."
 
 e: "As exportações aumentarão."
@@ -5706,7 +5633,6 @@ Comentários:
 Como a conclusão é uma condicional, podemos usar o método da conclusão falsa.
 
 Etapa 1: desconsiderar o contexto
-
 r: "O Brasil reduz as formalidades burocráticas."
 
 d: "O Brasil reduz o nível de desconfiança nas instituições públicas."
@@ -5741,7 +5667,6 @@ consequente f falso.
 
 Para a premissa Pl ser verdadeira, rAdAeAtAa é F, pois não podemos ter o
 antecedente rAdAeAtAa
-
 verdadeiro com o consequente k falso.
 
 Veja que é possível fazer com que todas as premissas sejam verdadeiras mantendo a conclusão falsa.
@@ -5828,7 +5753,6 @@ pois se o consequente fosse falso teríamos uma condicional falsa.
 
 Note que não é possível que a premissa P5 seja uma condicional verdadeira, pois temos
 o antecedente e
-
 verdadeiro com o consequente f falso.
 
 
@@ -5884,8 +5808,6 @@ Tentar obter AO
 SIM. É possível.
 
 Argumento
-
-
 ou condicional? r
 
 Início do método
@@ -5907,7 +5829,6 @@ MENOS UM CASO
 em que todas as
 
 > premissas sejam
-
 verdadeiras
 mantendo a
 conclusão falsa
@@ -5992,7 +5913,6 @@ ser falsa se mantivermos a conclusão falsa.
 
 Nesse caso, teremos um argumento válido, pois não é possível que todas as premissas
 sejam verdadeiras
-
 mantendo a conclusão falsa.
 Gabarito: Letra A.
 
@@ -6035,7 +5955,6 @@ Questão 26
 Como a conclusão é uma condicional, podemos usar o método da conclusão falsa.
 
 Etapa 1: desconsiderar o contexto
-
 m: "Você está com sua estrutura muscular fraca."
 
 s: "Você está com sobrepeso."
@@ -6362,7 +6281,6 @@ Item. 6. (CESPE/Pref. B dos Coqueiros/2020) Considere as seguintes proposições
 * Q: "Maria é enfermeira ou João é motorista."
 
 Sabendo-se que a proposição P é verdadeira e que a proposição Q é falsa, é correto concluir que
-
 a) Maria não é enfermeira, João não é motorista e Paulo não é fiscal.
 
 b) Maria não é enfermeira, João é motorista e Paulo é fiscal.
@@ -6381,7 +6299,6 @@ Sabe-se que:
 * se Pedro não é porteiro, então João é encanador.
 
 Com base nessas informações, sabendo-se que João não é encanador, conclui-se que
-
 a) Pedro é porteiro e Paulo não é pedreiro.
 
 b) Pedro é porteiro e Paulo é pedreiro.
@@ -6437,7 +6354,6 @@ de sistemas operacionais, concluiu que:
 * Se Douglas usa o Windows, então Cícero usa o Linux.
 
 Com base nessas conclusões e sabendo que Ernesto usa o Windows, é correto concluir que
-
 a) Cícero não usa o Linux.
 
 b) Douglas não usa o Linux.
@@ -6745,7 +6661,6 @@ DITADURA!
 
 
 í
-
 í
 í
 

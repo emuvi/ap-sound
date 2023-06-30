@@ -27,8 +27,6 @@ Cifragem de Fluxo-Stream Cipher
 Identificação de Dados Criptografados.
 
 a. Criptoanálise
-
-
 b. Métodos de Decifragem de Dados.
 
 Criptografia Simétrica
@@ -184,7 +182,6 @@ Texto
 simples
 
 Cifra
-
 a b C d e f
 D E F G H I
 
@@ -199,11 +196,8 @@ M N O P
 
 Texto
 simples
-
 n 0 P q
-
 r s t
-
 ü V W X y z
 
 
@@ -427,11 +421,9 @@ Texto claro
 Texto claro
 
 Texto cifrado Texto cifrado
-
 í 1
 
 Texto claro
-
 iDecifração modo Cipher Feedback - CFB
 
 Percebam que o bloco cifrado é utilizado para "embaralhar" os blocos
@@ -775,8 +767,6 @@ procedimento de criptografia e descriptografia.
 Desse modo, a ideia é pegar um texto em claro que se deseja enviar a um
 destinatário e
 aplicar um algoritmo de criptografia simétrica sobre ele. Esse algoritmo depende da inserção
-
-
 de uma chave que será utilizada nos cálculos matemáticos para gerar uma mensagem que
 não seja interpretada facilmente.
 
@@ -789,7 +779,6 @@ imagem a seguir nos apresenta o modelo:
 \ z
 
 Mesma chave utilizada para
-
 criptografar e descriptografar
 
 Chave secreta
@@ -822,7 +811,6 @@ Ano: 2018 Banca: CESPE Órgão: STJ - Técnico Judiciário - Desenvolvimento de
 Sistemas
 
 Na troca de mensagens entre duas empresas parceiras, a autenticidade e o sigilo das
-
 informações trocadas podem ser garantidos com o uso de criptografia simétrica.
 
 Comentários:
@@ -949,7 +937,6 @@ permutação expansiva, representada pelo E no diagrama, através da duplicaçã
 alguns bits.
 
 Item. 2. Mistura de chaves - o resultado é combinado com uma subchave usando uma
-
 operação XOR. Dezesseis subchaves de 48 bits - uma para cada round - são
 derivadas da chave principal utilizando o escalonamento de chaves (descrito abaixo).
 
@@ -1013,7 +1000,6 @@ need strong
 encryption
 
 W1 Encryption
-
 jll Decryption
 
 Encryption
@@ -1149,7 +1135,6 @@ Conseguiram entender? Bom, vamos explicar agora. Vamos usar a figura abaixo:
 
 1 Chave
 T? privada
-
 de Breno
 
 =b,
@@ -1189,12 +1174,10 @@ Criptografia Assimétrica
 
 
 1 Chave
-
 privada
 de Breno
 
 Algoritmo criptográfico
-
 âwfwsi *
 
 Algoritmo criptográfico ==
@@ -1203,13 +1186,11 @@ Documento Documento Documento
 
 Original Criptografado
 Original
-
 ym Criptografia A Decifração
 Autenticidade
 
 
 Brenno
-
 com chave privada
 
 : com chave pública
@@ -1255,21 +1236,17 @@ ok?
 
 Criptografia
 Simétrica
-
 r i
 
 Substituição
-
 k J
 
 
 Criptografia
 Assimétrica
-
 r
 
 Transposição
-
 k Â
 
 Vamos conhecer agora os principais algoritmos de criptografia assimétrica e
@@ -1438,7 +1415,6 @@ Valor procurado Igual ?
 123450
 
 149787a6b7986f31 b3dcc0e4e857cd2a
-
 e10adc3949 baS9a b b e56e 0 57f20f88 3e
 
 Nao
@@ -1465,7 +1441,6 @@ Nao
 123453
 
 0f 3e84acb19d ff22f69Sf31 d be3e972a
-
 e10adc3949 baS9a b b e56e 0 57f20f88 3e
 
 Nao
@@ -1492,7 +1467,6 @@ Nao
 123456
 
 ei 0a d c3949 ba 59abbe 5 6 e0 57f20f883e
-
 e1l 0adc3 949 ba 59 ab b e5 6 e0 57f 20f8 8 3e
 
 SIM
@@ -1715,7 +1689,6 @@ Comentários:
 Duas observações aqui pessoal. Primeiramente em relação ao conceito de chaves
 públicas. Esses algoritmos trabalham com um par de chaves, ou seja, um é utilizado
 para cifrar e o outro para decifrar. Lembrando que podem ser usados da forma inversa
-
 também. Essas chaves são conhecidas como públicas e privadas. Logo, de fato, não será
 possível decifrar a mensagem do cenário apresentado no enunciado. O segundo ponto a
 ser mencionado é que para tratar aspectos de autenticidade e integridade, princípios
@@ -1876,7 +1849,6 @@ Comentários:
 
 Pessoal, comentei lá na nossa teoria a respeito do fato de que não podemos restringir a
 criptografia assimétrica no quesito de que a privada necessariamente será utilizada
-
 para criptografar e a pública para decriptografar. Como vimos, depende do propósito da
 aplicação.
 
@@ -2118,7 +2090,6 @@ Gabarito: C (Gabarito do Professor: ERRADO)
 Sistemas/2013
 
 Em uma troca de dados, via Internet, entre dois computadores que estejam utilizando um
-
 algoritmo de criptografia assimétrica, antes de trocarem os dados, os usuários deverão
 compartilhar entre eles a chave, já que ela deve ser a mesma para os dois usuários.
 
@@ -2151,7 +2122,6 @@ Gabarito: E
 lnformação/2014
 
 Para que a criptografia de chave pública seja considerada segura, uma das premissas é
-
 que o conhecimento do algoritmo, o conhecimento de uma das chaves e a disponibilidade
 de amostras de texto cifrado sejam, em conjunto, insuficientes para determinar a outra
 chave.
@@ -2183,7 +2153,6 @@ Gabarito: E
 Comunicação/2013
 
 Se um usuário cifra uma mensagem com a chave pública do destinatário e depois cifra
-
 novamente com sua própria chave privada, apenas o destinatário será capaz de recuperar
 a mensagem em claro.
 
@@ -2255,8 +2224,6 @@ procedimentos de download e upload.
 
 E por último, temos o Mercurial, que também é um sistema de repositório que utiliza
 SHA-1 para tratar a integridade dos dados, porém, de uma maneira diferente. Para cada
-
-
 arquivo armazenado no sistema, cria-se um registro, denominado REVLOG. Isso permite
 tratar as revisões de cada arquivo e o SHA-1 é capaz de tratar a integridade de cada
 revisão.
@@ -2354,7 +2321,6 @@ Gabarito: E
 No algoritmo AES, a cifra de decriptografia é idêntica à cifra de criptografia, assim como
 a sequência de transformações para a decriptografia é a mesma para a criptografia, o que
 pode ser considerado uma vantagem, já que apenas um único módulo
-
 de software ou firmware é necessário para aplicações que exigem tanto criptografia
 quanto decriptografia.
 
@@ -2605,7 +2571,6 @@ criptografia mais adequado para a seguinte situação. Ele deve receber uma info
 deforma segura, ou seja, criptografada, de outro Tribunal, mas não tem meios para
 enviar um código secreto (chave) deforma segura para aquele Tribunal. Nessa situação, o
 técnico deve utilizar o esquema de criptografia de chave
-
 a) simétrica.
 
 b) privada.
@@ -2635,7 +2600,6 @@ Item. 3. FCC - TRT - 33 Região(MG)/Técnico Judiciário - Área de TI/2015
 Um dos padrões de criptografia mais difundidos mundialmente é o Data Encryption
 Standard - DES. Atualmente ele é utilizado na forma denominada Triple DES, devido à
 fragilidade identificada no DES que utiliza uma chave com
-
 a) 48 bits.
 
 b) 56 bits.
@@ -2675,7 +2639,6 @@ Um resumo criptográfico pode ser usado para verificar a integridade de uma mens
 se ela não foi modificada. Para garantir a integridade da mensagem e autenticar a origem
 dos dados, uma das formas é: o remetente, por meio de uma função hash e usando a M
 concatenada com
-
 a) KS, gera um MACr que, juntamente com M é enviado por um canal inseguro ao
 destinatário. 0 destinatário separa a MACr de M e, usando M concatenada com a KS, gera
 um MACd que é comparado com o MACr. Se forem iguais M é considerada autêntica.
@@ -2775,7 +2738,6 @@ frequentemente, uma chave criptográfica para transformar a informação origina
 que apenas o interlocutor, ou as pessoas autorizadas, possam ler a informação original.
 Dentre as diferentes técnicas de criptografia atualmente utilizadas, a que utiliza o
 esquema de chave assimétrica é
-
 aJAES.
 
 b) DES.
@@ -2803,7 +2765,6 @@ Para fornecer confidencialidade com criptografia de chave simétrica, uma soluç
 a criptografia de chaves simétricas para a codificação da informação a ser transmitida e a
 criptografia de chaves assimétricas para o compartilhamento da chave secreta, neste
 caso, também chamada de chave de
-
 a) hash.
 
 b) autenticação.
@@ -2818,8 +2779,6 @@ Comentário:
 Temos aí a descrição de um modelo básico de comunicação utilizado. Lembremos sempre
 que a criptografia assimétrica, em regra, é utilizada para a troca de
 chaves, enquanto a
-
-
 simétrica é utilizada para a criptografia dos dados de fato por
 apresentar melhor
 desempenho.
@@ -2848,9 +2807,7 @@ Item. 8. FCC - TJ-AP/Analista Judiciário - TI/2014
 Para prover segurança à rede sem fio da empresa, um especialista em segurança de redes
 adotou o padrão WPA2, que possui um método de criptografia mais forte e algoritmos
 mais rápidos que padrões anteriores. O WPA2 adota a criptografia
-
 a) RC4 que permite chaves de 256 ou 512 bits
-
 b) RC4 que permite chaves de 256 bits.
 
 c) AES que permite chaves de 256 bits.
@@ -2871,11 +2828,8 @@ Item. 9. FCC - TJ-AP/Analista Judiciário - TI/2014
 
 Um Analista de TI do Tribunal de Justiça recebeu a incumbência de planejar e
 implementar um esquema de criptografia de Chave Pública para a troca de informações
-
-
 entre as duas comarcas de Macapá. Dentre os diferentes algoritmos existentes, ele deve
 escolher o
-
 a) AES.
 
 b) RC6.
@@ -2897,7 +2851,6 @@ Gabarito: E
 Um Analista em Tecnologia da Informação do TRT da 1- Região deve escolher um
 algoritmo de criptografia assimétrica para os serviços de acesso à rede de computadores
 do Tribunal. O Analista deve escolher o
-
 a] DES.
 
 b) IDEA.
@@ -2949,7 +2902,6 @@ Gabarito: A
 Diversos recursos e ferramentas são utilizados para melhorar a segurança da informação,
 principalmente a transmissão de informações pela rede de computadores. Nesse contexto,
 o hash é utilizado para
-
 a) gerar um conjunto de dados de tamanho fixo independentemente do tamanho do
 arquivo original.
 
@@ -3257,7 +3209,6 @@ Item. 22. CESPE - Ana MPU/Tecnologia da Informação e Comunicação/Desenvolvim
 Sistemas/2013
 
 Em uma troca de dados, via Internet, entre dois computadores que estejam utilizando um
-
 algoritmo de criptografia assimétrica, antes de trocarem os dados, os usuários deverão
 compartilhar entre eles a chave, já que ela deve ser a mesma para os dois usuários.
 
@@ -3265,7 +3216,6 @@ Item. 23. CESPE - ANATEL/ Analista - Suporte e Infraestrutura de Tecnologia da
 lnformação/2014
 
 Uma das propriedades de uma função de hash, conhecida como resistência à primeira
-
 inversão ou propriedade unidirecional, garante que, dada uma mensagem, não é possível
 encontrar uma mensagem alternativa que gere o mesmo valor de hash da mensagem
 original.
@@ -3274,7 +3224,6 @@ Item. 24. CESPE - ANATEL/Analista - Suporte e Infraestrutura de Tecnologia da
 lnformação/2014
 
 Para que a criptografia de chave pública seja considerada segura, uma das premissas é
-
 que o conhecimento do algoritmo, o conhecimento de uma das chaves e a disponibilidade
 de amostras de texto cifrado sejam, em conjunto, insuficientes para determinar a outra
 chave.
@@ -3289,7 +3238,6 @@ devem ser de conhecimento exclusivo do remetente da mensagem.
 Comunicação/2013
 
 Se um usuário cifra uma mensagem com a chave pública do destinatário e depois cifra
-
 novamente com sua própria chave privada, apenas o destinatário será capaz de recuperar
 a mensagem em claro.
 
@@ -3352,7 +3300,6 @@ reversíveis.
 No algoritmo AES, a cifra de decriptografia é idêntica à cifra de criptografia, assim como
 a sequência de transformações para a decriptografia é a mesma para a criptografia, o que
 pode ser considerado uma vantagem, já que apenas um único módulo
-
 de software ou firmware é necessário para aplicações que exigem tanto criptografia
 quanto decriptografia.
 
@@ -3453,7 +3400,6 @@ criptografia mais adequado para a seguinte situação. Ele deve receber uma info
 deforma segura, ou seja, criptografada, de outro Tribunal, mas não tem meios para
 enviar um código secreto (chave) deforma segura para aquele Tribunal. Nessa situação, o
 técnico deve utilizar o esquema de criptografia de chave
-
 a) simétrica.
 
 b) privada.
@@ -3470,7 +3416,6 @@ Item. 3. FCC - TRT - 32 Região(MG)/Técnico Judiciário - Área de TI/2015
 Um dos padrões de criptografia mais difundidos mundialmente é o Data Encryption
 Standard - DES. Atualmente ele é utilizado na forma denominada Triple DES, devido à
 fragilidade identificada no DES que utiliza uma chave com
-
 a) 48 bits.
 bj 56 bits.
 
@@ -3498,7 +3443,6 @@ Um resumo criptográfico pode ser usado para verificar a integridade de uma mens
 se ela não foi modificada. Para garantir a integridade da mensagem e autenticar a origem
 dos dados, uma das formas é: o remetente, por meio de uma função hash e usando a M
 concatenada com
-
 a) KS, gera um MACr que, juntamente com M é enviado por um canal inseguro ao
 destinatário. 0 destinatário separa a MACr de M e, usando M concatenada com a KS, gera
 um MACd que é comparado com o MACr. Se forem iguais M é considerada autêntica,
@@ -3544,7 +3488,6 @@ frequentemente, uma chave criptográfica para transformar a informação origina
 que apenas o interlocutor, ou as pessoas autorizadas, possam ler a informação original.
 Dentre as diferentes técnicas de criptografia atualmente utilizadas, a que utiliza o
 esquema de chave assimétrica é
-
 a) AES.
 
 b) DES.
@@ -3559,7 +3502,6 @@ Para fornecer confidencialidade com criptografia de chave simétrica, uma soluç
 a criptografia de chaves simétricas para a codificação da informação a ser transmitida e a
 criptografia de chaves assimétricas para o compartilhamento da chave secreta, neste
 caso, também chamada de chave de
-
 a) hash.
 
 b) autenticação.
@@ -3575,10 +3517,7 @@ Item. 8. FCC - TJ-AP/Analista Judiciário - TI/2014
 Para prover segurança à rede sem fio da empresa, um especialista em segurança de redes
 adotou o padrão WPA2, que possui um método de criptografia mais forte e algoritmos
 mais rápidos que padrões anteriores. 0 WPA2 adota a criptografia
-
 a} RC4 que permite chaves de 256 ou 512 bits
-
-
 b) RC4 que permite chaves de 256 bits.
 
 c) AES que permite chaves de 256 bits.
@@ -3592,7 +3531,6 @@ Um Analista de TI do Tribunal de Justiça recebeu a incumbência de planejar e
 implementar um esquema de criptografia de Chave Pública para a troca de informações
 entre as duas comarcas de Macapá. Dentre os diferentes algoritmos existentes, ele deve
 escolher o
-
 a) AES.
 
 b) RC6.
@@ -3608,7 +3546,6 @@ e) RSA.
 Um Analista em Tecnologia da Informação do TRT da 1- Região deve escolher um
 algoritmo de criptografia assimétrica para os serviços de acesso à rede de computadores
 do Tribunal. 0 Analista deve escolher o
-
 aj DES.
 
 b) IDEA.
@@ -3644,7 +3581,6 @@ chave secreta do receptor e texto decodificado.
 Diversos recursos e ferramentas são utilizados para melhorar a segurança da informação,
 principalmente a transmissão de informações pela rede de computadores. Nesse contexto,
 o hash é utilizado para
-
 a) gerar um conjunto de dados de tamanho fixo independentemente do tamanho do
 arquivo original.
 

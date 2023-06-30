@@ -1323,8 +1323,6 @@ física do banco de dados. Um dicionário de dados também armazena as seguintes
 Um dicionário de dados é criado quando uma base de dados é criada. Para refletir com precisão
 o status do banco de dados em todos os momentos, o dicionário de dados
 é atualizado
-
-
 automaticamente pelo Oracle em resposta a ações específicas, como quando a estrutura do
 banco
 de dados é alterada. O banco de dados conta com o dicionário de dados para
@@ -1387,8 +1385,6 @@ ANSI que difere do nome do tipo de dados do Oracle Database. Ele converte o tipo
 dados no tipo
 de dados Oracle equivalente, registra o tipo de dados Oracle como o nome do tipo de
 dados da
-
-
 coluna e armazena os dados da coluna no tipo de dados Oracle com base nas conversões
 mostradas
 nas tabelas a seguir:
@@ -1463,8 +1459,6 @@ Alguns comentários importantes sobre os aspectos numéricos do Oracle.
 Os tipos de dados NUMERIC e DECIMAL do SQL ANSI são representados pelo tipo NUMBER no
 Oracle. Eles só podem ser definidos como números de ponto fixo. E para esses tipos de dados o valor
 padrão para a escala é zero (0). O tipo de dado FLOAT é um tipo de ponto flutuante com precisão
-
-
 binária b. O valor default para a precisão neste tipo de dados é de 126 casa
 binárias ou 38 casas
 decimais.
@@ -1523,8 +1517,6 @@ mesmos resultados.
 O tipo TIME consiste de hora, minuto e segundo. A hora é um número de 00 a 23. O
 minuto
 é um número de dois algarismos, de 00 a 59. O segundo é um inteiro entre 00-59 ou um número
-
-
 decimal com uma escala mínima de cinco e precisão mínima de três, que pode conter valores de
 Item. 00.000 a 59.999.
 
@@ -1562,7 +1554,6 @@ positive 1.175E - 37 to 3.402E + 38. It
 also includes 0.
 
 FLOAT 4 to 8 The number can be zero or can range
-
 from -1.79769E + 308 to-2.225E
 
 - 307, or from 2.225E - 307 to
@@ -1712,7 +1703,6 @@ Um número de ponto flutuante de 32 bits.
 Um número de ponto flutuante de 64 bits.
 
 Ano, mês, dia, hora, minuto, segundo e segundos fracionários. O valor de
-
 segundos_fracionários pode variar de 0 a 9; em outras palavras, até a precisão de um
 bilionésimo de um segundo. O padrão é 6 (um milionésimo).
 
@@ -1899,8 +1889,6 @@ compartilhados entre os usuários. Duas estruturas de memória básicas são ass
 a Oracle:
 Área global de sistema (SGA - system global area) e área global do programa (PGA -
 program global
-
-
 area). Abaixo explicaremos cada uma delas em detalhes. Antes vejam as estruturas
 descritas na
 figura:
@@ -2101,8 +2089,6 @@ submetida
 ao banco de dados. Ela contém informações como a árvore de análise e o plano de
 execução para a
 instrução correspondente. Uma única área de SQL compartilhada é usada por vários aplicativos que
-
-
 emitem a mesma declaração, deixando livre uma quantidade maior de memória compartilhada
 para
 outros usos.
@@ -2318,8 +2304,6 @@ compartilhados entre os usuários. Duas estruturas de memória básicas são ass
 a Oracle:
 Área global de sistema (SGA - system global area) e área global do programa (PGA -
 program global
-
-
 area). Abaixo explicaremos cada uma delas em detalhes. Antes vejam as estruturas
 descritas na
 figura:
@@ -2520,8 +2504,6 @@ submetida
 ao banco de dados. Ela contém informações como a árvore de análise e o plano de
 execução para a
 instrução correspondente. Uma única área de SQL compartilhada é usada por vários aplicativos que
-
-
 emitem a mesma declaração, deixando livre uma quantidade maior de memória compartilhada
 para
 outros usos.
@@ -2666,8 +2648,6 @@ A estrutura do processo varia para diferentes configurações de banco de dados
 Oracle,
 dependendo do sistema operacional e das escolhas de opções do SGBD Oracle. O código
 para
-
-
 usuários conectados pode ser configurado como um servidor dedicado ou
 um servidor
 compartilhado.
@@ -2698,9 +2678,7 @@ executada em um mainframe ou em um minicomputador.
 
 User Use- □ser User
 □ser
-
 t I I t
-
 r A
 
 System Global Area
@@ -2893,8 +2871,6 @@ de banco de dados é inicializada. Uma instância pode ter muitos processos em s
 
 
 0515200190-0E-vEevrteorntoMn uMriulorilVoieViireaira
-
-
 dos quais nem sempre existem em cada configuração do banco de dados. A consulta a
 seguir lista
 os processos em segundo plano em execução no seu banco de dados:
@@ -3038,7 +3014,6 @@ seguinte
 comando:
 
 [oracle@XXXX ~]$ ps aux | grep pmon
-
 oracle 17011 0.0 0.0 60292 696 pts/O D+ 12:14 0:00 grep pmon
 
 
@@ -3385,8 +3360,6 @@ Flashback Data Archiver Process (FBDA)
 O processo arquivador de dados de flashback (FBDA) arquiva históricos de linhas de
 tabelas
 monitoradas em Arquivos de Dados de Flashback. Quando uma transação contendo DML em uma
-
-
 tabela controlada sofre commit, este processo armazena a pré-imagem das linhas para o
 Flashback
 Data Archive. Além disso, mantém os metadados sobre as linhas.
@@ -3431,7 +3404,6 @@ Coordinator
 
 Parallel Execution
 Server Processes
-
 employees Table
 
 SELECT COUNTf*)
@@ -3758,16 +3730,12 @@ ARCHIVELOG NOARCHIVELOG
 
 
 open, inconsistent
-
 consistent
-
 closed open. inconsistent
 (not valid)
 
 inconsistent consistent
-
 closed
-
 inconsistent
 (not recommended)
 
@@ -3778,7 +3746,6 @@ arquivos de
 dados que compõem o espaço de tabela. Backups de espaços de tabelas, seja online ou
 offline, são
 válidos apenas se o banco de dados está operando no modo ARCHIVELOG. A razão é que o log de
-
 redo é necessário para tornar o espaço de tabela restaurado consistente.
 
 
@@ -4179,7 +4146,6 @@ causar lock na tabela. As seguintes instruções DDL foram incluídas nesta moda
 
 drop index online
 alter index unusable online
-
 alter table move partition online
 alter table move subpartition online
 
@@ -4366,7 +4332,6 @@ RegExp
 Random
 
 Stored Data
-
 u i
 
 10/09/1992
@@ -4465,7 +4430,6 @@ dados
 Oracle llg, para se especificar uma área inicial de 10 GB, com incrementos graduais
 de 1 GB, o
 subcomando a ser utilizado é
-
 a) STORAGE (FIRST 10G STEP 1G).
 
 b) STORAGE (PRIMARY 10G INC 1G).
@@ -4497,7 +4461,6 @@ administração
 é a criação de tablespaces. Dessa forma, o comando para a criação de uma tablespace
 do tipo
 bigfile, denominada bl, com arquivo de dados (datafile) dl, com 40 MB e autoextensível é
-
 a) CREATE BIGFILE TABLESPACE bl DATAFILE 'dl.dbf'
 SIZE 40M AUTOEXTEND ON;
 
@@ -4739,8 +4702,6 @@ e) Uma extensão é mapeada em mais de um datafile.
 
 Comentário: Um ou mais arquivos de dados formam uma unidade lógica de armazenamento
 de banco de dados chamada tablespace. Um tablespace em um banco de dados Oracle consiste
-
-
 em um ou mais arquivos de dados físicos. Um arquivo de dados pode ser associado a
 apenas
 um tablespace e apenas um banco de dados.
@@ -4757,7 +4718,6 @@ fundamentais de
 arquivos físicos que compõem uma base de dados Oracle llg são: arquivos de controle,
 arquivos
 de log de repetição e arquivos de
-
 a) modelagem multidimensional.
 
 b) comunicação com linguagens de programação.
@@ -4850,7 +4810,6 @@ estatísticas, criação
 de perfis SQL, análise de caminho de acesso e análise de estruturas SQL.
 
 O texto descreve uma ferramenta conhecida como
-
 a) SQL Tuning Advisor.
 
 b) SQL Access Advisor.
@@ -4871,8 +4830,6 @@ ajuste. Analisa um ou mais instruções SQL como uma entrada e chama o Automatic
 Optimizer para realizar ajuste de SQL sobre os comandos. Ele pode ser executado contra
 qualquer instrução SQL. Fornece sugestões sob a forma de ações SQL precisas para ajustes nas
 instruções SQL juntamente com os benefícios de desempenho esperados. A recomendação ou
-
-
 conselho fornecido refere-se à coleção de dados estatísticos sobre os objetos. A
 criação de
 novos índices, a reestruturação da instrução SQL, ou criação de um perfil de SQL
@@ -4965,7 +4922,6 @@ I O dicionário de dados é estruturado em tabelas e visões, assim como outros 
 banco
 de dados. Todas as tabelas de dicionário de dados e visões para um determinado banco
 são
-
 armazenadas no espaço de tabela (tablespace) SYSTEM desse banco de dados.
 
 O dicionário de dados não é importante somente para o banco de dados Oracle, é uma
@@ -5066,8 +5022,6 @@ poderosos relatórios operacionais, alertas just-in-time, pesquisa por conteúdo
 metadados,
 gestão da estratégia, acesso nativo a fontes de Big Data, computação in-memory
 sofisticada e
-
-
 gerenciamento de sistemas simplificados se combinam para tornar o Oracle BI 12c uma
 solução
 abrangente que reduz custos e aumenta o retorno sobre o investimento para
@@ -5088,7 +5042,6 @@ validando e
 reportando, de forma automática, alterações autorizadas e não autorizadas. Este
 componente é
 o
-
 a) Log Analiser.
 
 b) Graphical Configurator Addon.
@@ -5131,15 +5084,12 @@ em ambientes compartilhados, acessíveis publicamente, como a nuvem de armazenam
 III. A integração com o mecanismo do banco de dados Oracle permite que o Oracle Secure Backup
 identifique e ignore o espaço não utilizado (blocos) no banco de dados. Os usuários
 também se
-
-
 beneficiam dos recursos sofisticados de compressão do RMAN. No momento de transmissão de
 backups em redes mais lentas, como a Internet pública, qualquer redução no tamanho do
 backup
 é percebida diretamente como um aumento no desempenho do backup.
 
 Está correto o que consta em
-
 a) I, apenas.
 
 b) I e II, apenas.
@@ -5210,7 +5160,6 @@ no mínimo 6
 tablespaces em vários bigfile tablespaces para facilitar o gerenciamento pelo DBA Oracle.
 
 Está correto o que consta APENAS em
-
 a) II e III.
 
 b) I e III.
@@ -5241,7 +5190,6 @@ Item. 21. BANCA: FCC - Analista Ministerial (MPE MA)/Banco de Dados/2013
 Quando uma base de dados é criada no Sistema Gerenciador de Bancos de Dados Oracle,
 são
 criadas, automaticamente, duas contas administrativas, cujas denominações são
-
 a) FILE e SNAME.
 
 b) FORCE e MAXLOG.
@@ -5504,7 +5452,6 @@ Gabarito: D
 Item. 25. BANCA: FCC - Analista Judiciário (TRE CE)/ Apoio Especializado/ Análise de Sistemas/2012
 
 No banco de dados Oracle 10g, os segmentos
-
 a) são as unidades mais básicas de armazenamento dentro das tuplas.
 
 b) são as menores unidades de armazenamento, também chamados tablespaces.
@@ -5541,7 +5488,6 @@ inicialização da
 instância e que é responsável pela limpeza dos segmentos temporários que não estão
 mais em
 uso é o
-
 a) Process Monitor Process (PMON).
 
 b) Checkpoint Process (CKPT).
@@ -5610,7 +5556,6 @@ Gabarito: A
 Item. 28. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2010
 
 As entradas da estrutura física do database ORACLE 10g são especificadas no
-
 a) Control file.
 
 b) Data file.
@@ -5680,8 +5625,6 @@ Data blocks: No nível mais refinado de granularidade, o Oracle Database armazen
 em
 blocos de dados (também chamados de blocos lógicos, blocos do Oracle ou páginas). Um
 bloco
-
-
 de dados corresponde a um número específico de bytes do espaço físico do banco de
 dados
 no disco.
@@ -5708,7 +5651,6 @@ Projeto de lnfraestrutura/2010
 
 Strings de caracteres de tamanho fixo são armazenados em um banco de dados ORACLE por meio
 do tipo de dados
-
 a) char ou nchar.
 
 b) varchar ou nvarchar.
@@ -5742,7 +5684,6 @@ Item. 31. BANCA: FCC Analista do Ministério Público de Sergipe/ Informática l
 Projeto de lnfraestrutura/2010
 
 Uma instância do banco de dados ORACLE é constituída
-
 a) pela área global do sistema (SGA) e pelos processos user, server e background.
 
 b) pelos processos user, server e background, apenas.
@@ -5773,7 +5714,6 @@ Projeto de lnfraestrutura/2010
 
 O modo de execução no qual o ORACLE copia os online redo logs cheios para o disco é
 denominado
-
 a) commit.
 
 b) rolling back.
@@ -5855,8 +5795,6 @@ Comentário. Um esquema é um conjunto de estruturas lógicas de dados ou
 objetos de
 esquema. Um esquema é de propriedade de um usuário de banco de dados e tem o mesmo
 nome do usuário. Cada usuário possui um único esquema. Objetos de esquema podem ser
-
-
 criados e manipulados com SQL e incluem os seguintes tipos de objetos: Clusters,
 Database
 links, Database triggers, Indexes e index types, Mate ria lized views and materialized
@@ -6067,7 +6005,6 @@ Memory Memory
 SALES SALES
 
 Row Format Column Forrnat
-
 í SALES I
 
 Item. 84. Um bloco é um conjunto contíguo de bits ou bytes que forma uma unidade de dados
@@ -6163,13 +6100,9 @@ Assinale a opção referente ao arquivo que grava todas as mudanças realizadas 
 é utilizado somente para recuperação de uma instância em um SGBD Oracle.
 
 a) Parameter log file
-
 b) Archive log file
-
 c) Undo file
-
 d) Control file
-
 e) Alert log file
 
 Comentário: O gabarito é a letra b). Os archiver processes (ARCn) copiam os arquivos
@@ -6405,8 +6338,6 @@ em disco, área de memória e processos em execução. Cada processo é respons�
 conjunto de atividades. Nessa versão do Oracle, o processo responsável por recuperar
 espaço em
 segmentos temporários quando estes não estão mais sendo utilizados é o
-
-
 a) DBW (database writer).
 
 b) LGWR (log writer).
@@ -6686,8 +6617,6 @@ executado na tarefa automática na janela de manutenção, o seu foco principal
 instruções SQL de alta carga já executadas anteriormente, em alguns períodos
 específicos. No
 escopo global, ele verifica e analisa o comportamento dessas instruções nesses períodos, para
-
-
 avaliar se podem ter seu desempenho melhorado aceitando ou não o sql profile
 estabelecido. A
 análise é feita tanto com base no tempo de CPU como no de l/O. A tarefa automática
@@ -6716,7 +6645,6 @@ banco de
 dados Oracle llg, para se especificar uma área inicial de 10 GB, com incrementos
 graduais de 1
 GB, o subcomando a ser utilizado é
-
 a) STORAGE (FIRST 10G STEP 1G).
 
 b) STORAGE (PRIMARY 10G INC 1G).
@@ -6736,7 +6664,6 @@ administração
 é a criação de tablespaces. Dessa forma, o comando para a criação de uma tablespace
 do tipo
 bigfile, denominada bl, com arquivo de dados (datafile) dl, com 40 MB e autoextensível é
-
 a) CREATE BIGFILE TABLESPACE bl DATAFILE 'dl.dbf'
 SIZE 40M AUTOEXTEND ON;
 
@@ -6875,7 +6802,6 @@ fundamentais de
 arquivos físicos que compõem uma base de dados Oracle llg são: arquivos de controle,
 arquivos
 de log de repetição e arquivos de
-
 a) modelagem multidimensional.
 
 b) comunicação com linguagens de programação.
@@ -6905,7 +6831,6 @@ estatísticas, criação
 de perfis SQL, análise de caminho de acesso e análise de estruturas SQL.
 
 O texto descreve uma ferramenta conhecida como
-
 a) SQL Tuning Advisor.
 
 b) SQL Access Advisor.
@@ -6981,7 +6906,6 @@ validando e
 reportando, de forma automática, alterações autorizadas e não autorizadas. Este
 componente é
 o
-
 a) Log Analiser.
 
 
@@ -7022,7 +6946,6 @@ backup
 é percebida diretamente como um aumento no desempenho do backup.
 
 Está correto o que consta em
-
 a) I, apenas.
 
 b) I e II, apenas.
@@ -7054,7 +6977,6 @@ no mínimo 6
 tablespaces em vários bigfile tablespaces para facilitar o gerenciamento pelo DBA Oracle.
 
 Está correto o que consta APENAS em
-
 a) II e III.
 
 b) I e III.
@@ -7070,7 +6992,6 @@ Item. 21. BANCA: FCC - Analista Ministerial (MPE MA)/Banco de Dados/2013
 Quando uma base de dados é criada no Sistema Gerenciador de Bancos de Dados Oracle,
 são
 criadas, automaticamente, duas contas administrativas, cujas denominações são
-
 a) FILE e SNAME.
 
 b) FORCE e MAXLOG.
@@ -7138,7 +7059,6 @@ e) um segmento pode ser dividido em vários tablespaces.
 Item. 25. BANCA: FCC - Analista Judiciário (TRE CE)/ Apoio Especializado/ Análise de Sistemas/2012
 
 No banco de dados Oracle 10g, os segmentos
-
 a) são as unidades mais básicas de armazenamento dentro das tuplas.
 
 b) são as menores unidades de armazenamento, também chamados tablespaces.
@@ -7157,7 +7077,6 @@ inicialização da
 instância e que é responsável pela limpeza dos segmentos temporários que não estão
 mais em
 uso é o
-
 a) Process Monitor Process (PMON).
 
 b) Checkpoint Process (CKPT).
@@ -7185,7 +7104,6 @@ e) control files, redo log files e data blocks.
 Item. 28. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2010
 
 As entradas da estrutura física do database ORACLE 10g são especificadas no
-
 a) Control file.
 
 b) Data file.
@@ -7216,7 +7134,6 @@ Projeto de lnfraestrutura/2010
 
 Strings de caracteres de tamanho fixo são armazenados em um banco de dados ORACLE por meio
 do tipo de dados
-
 a) char ou nchar.
 
 b) varchar ou nvarchar.
@@ -7231,7 +7148,6 @@ Item. 31. BANCA: FCC Analista do Ministério Público de Sergipe/ Informática l
 Projeto de lnfraestrutura/2010
 
 Uma instância do banco de dados ORACLE é constituída
-
 a) pela área global do sistema (SGA) e pelos processos user, server e background.
 
 b) pelos processos user, server e background, apenas.
@@ -7247,7 +7163,6 @@ Projeto de lnfraestrutura/2010
 
 O modo de execução no qual o ORACLE copia os online redo logs cheios para o disco é
 denominado
-
 a) commit.
 
 b) rolling back.
@@ -7383,13 +7298,9 @@ Assinale a opção referente ao arquivo que grava todas as mudanças realizadas 
 é utilizado somente para recuperação de uma instância em um SGBD Oracle.
 
 a) Parameter log file
-
 b) Archive log file
-
 c) Undo file
-
 d) Control file
-
 e) Alert log file
 
 Item. 41. BANCA: Cespe - Analista Administrativo (ANTT)/Tecnologia da Informação/lnfraestrutura
@@ -7493,7 +7404,6 @@ em disco, área de memória e processos em execução. Cada processo é respons�
 conjunto de atividades. Nessa versão do Oracle, o processo responsável por recuperar
 espaço em
 segmentos temporários quando estes não estão mais sendo utilizados é o
-
 a) DBW (database writer).
 
 b) LGWR (log writer).

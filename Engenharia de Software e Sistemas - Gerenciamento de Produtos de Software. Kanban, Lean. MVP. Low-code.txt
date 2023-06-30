@@ -103,7 +103,6 @@ objetivo de apresentar ao aluno como bancas de concurso cobram o
 assunto previamente administrado. A imensa maioria das questões para
 que o aluno avalie seus conhecimentos sobre a matéria estão dispostas ao
 final da aula na lista de exercícios e possuem comentários bem mais
-
 completos, abrangentes e direcionados.
 
 
@@ -194,7 +193,6 @@ Manifesto para Desenvolvimento Ágil de Software
 
 Estamos descobrindo maneiras melhores de desenvolver
 software, fazendo-o nós mesmos e ajudando outros a
-
 fazerem o mesmo. Através deste trabalho, passamos a valorizar:
 
 Indivíduos C interações mais que processos e ferramentas
@@ -208,8 +206,6 @@ valorizamos mais os itens à esquerda.
 Notem que a coluna da esquerda representa os anseios das metodologias ágeis, enquanto
 a coluna
 da direita representa o que as metodologias tradicionais costumavam executar. Agora prestem
-
-
 atenção: o manifesto ágil afirma que, mesmo havendo valor nos itens à direita,
 valorizam-se
 mais os itens à esquerda. Uma pegadinha comum de prova é dizer que os métodos ágeis
@@ -341,8 +337,6 @@ regras de conformidade, entre outros.
 Não tem como fazer um planejando e achar que ele vai ficar fixo ali ao longo do
 tempo - isso é
 pensamento do século passado (se muito!). Acreditem: mudanças vão ocorrer! Planejar é bom
-
-
 demais. É tão bom que é recomendável refazer o planejamento a todo momento, de forma
 contínua e, não, fazer um planejamento estático e simplesmente segui-lo com
 todo rigor
@@ -389,8 +383,6 @@ tricampeão
 olímpico. Por outro lado, vejam o final da corrida quando ele não tem mais que
 reagir a mudanças,
 ele só tem que correr até o fim dos 100 metros. Ele termina muito distante do segundo lugar! Por
-
-
 que? Porque ele é um cara extremamente veloz, logo ele destoa de todos os outros com
 muita
 facilidade. Entenderam que agilidade não é velocidade? É a capacidade de reagir a mudanças!
@@ -1329,8 +1321,6 @@ um
 exemplo de linguagem de modelagem? UML (Unified Modeling Language)!
 
 Gabarito: Errado
-
-
 io.(CESPE / EBC - 2011) É conveniente que o contrato, entre cliente e
 fornecedor, para o
 desenvolvimento de um sistema computacional, contenha a lista de requisitos para o
@@ -1462,7 +1452,6 @@ completa,
 mas contínua.
 
 Gabarito: Errado
-
 i5.(CESPE / Ministério da Economia - 2020) Os modelos ágeis de
 desenvolvimento
 de software dão grande ênfase às definições de atividades e aos processos e pouca
@@ -1476,7 +1465,6 @@ humanos
 do que nas definições de atividades ou processos.
 
 Gabarito: Errado
-
 i6.(CESPE/MEC-2015) Acatar as mudanças de requisitos, ainda que o desenvolvimento já
 esteja
 avançado, é um dos princípios do Manifesto Ágil.
@@ -1505,8 +1493,6 @@ vantagem
 competitiva para o cliente.
 
 Gabarito: Errado
-
-
 i8.(CESPE / EBSERH - 2018) Nas metodologias de desenvolvimento ágeis, mudanças em
 requisitos são bem recebidas, mesmo em fases mais avançadas do desenvolvimento.
 
@@ -1565,7 +1551,6 @@ Softwares
 funcionando
 
 Times
-
 auto-organizados
 
 Trabalhe em
@@ -1600,7 +1585,6 @@ IV. Seguir um plano mais que responder a mudanças.
 Está correto o que se afirma em:
 
 a) I e II, somente
-
 b) II e III, somente.
 
 c) III e IV, somente.
@@ -1973,7 +1957,6 @@ IV. Seguir um plano mais que responder a mudanças.
 Está correto o que se afirma em:
 
 a) I e II, somente
-
 b) II e III, somente.
 
 c) III e IV, somente.
@@ -2515,8 +2498,6 @@ Gabarito: Letra B
 
 Item. 5. (INSTITUTO AOCP / EMPREL- 2019) E m se tratando de desenvolvimento de software, o
 termo qualidade é bastante subjetivo. Entretanto, no desenvolvimento ágil, é claro o conceito
-
-
 de qualidade. Sabendo disso, assinale a alternativa que apresenta corretamente o
 conceito de
 qualidade no desenvolvimento ágil.
@@ -3040,11 +3021,8 @@ listados a
 seguir, assinale a opção que NÃO representa um valor ágil segundo o Manifesto.
 
 a) indivíduos e interações mais que processos e ferramentas
-
 b) seguir um plano mais que responder a mudanças
-
 c) software em funcionamento mais que documentação abrangente
-
 d) colaboração com o cliente mais que negociação de contratos
 
 Comentários:
@@ -3460,7 +3438,6 @@ Softwares
 funcionando
 
 Times
-
 auto-organizados
 
 Trabalhe em
@@ -3501,7 +3478,6 @@ IV. Seguir um plano mais que responder a mudanças.
 Está correto o que se afirma em:
 
 a) I e II, somente
-
 b) II e III, somente.
 
 c) III e IV, somente.
@@ -4205,11 +4181,8 @@ listados a
 seguir, assinale a opção que NÃO representa um valor ágil segundo o Manifesto.
 
 a) indivíduos e interações mais que processos e ferramentas
-
 b) seguir um plano mais que responder a mudanças
-
 c) software em funcionamento mais que documentação abrangente
-
 d) colaboração com o cliente mais que negociação de contratos
 
 Item. 21. (ESAF / MF - 2013) O desenvolvimento ágil de software fundamenta-se no
@@ -4335,7 +4308,6 @@ devem desenvolver maneiras próprias de trabalhar, podendo o processo ser prescr
 
 III- Deve-se ter em mente que os requisitos do sistema irão mudar, por isso, o
 sistema deve ser
-
 projetado de maneira a acomodar essas mudanças.
 
 Quais estão corretas?
@@ -4467,8 +4439,6 @@ se torna
 visível no Kanban. Os limites do Work in Progress são estabelecidos - o fluxo é
 contínuo sem
 requerer estimativas. A equipe assume a responsabilidade sobre o processo e se auto-organiza para
-
-
 otimizá-lo e para ajudar a resolver seus eventuais problemas. O Kanban é construído
 sobre os
 conceitos de mudança evolucionária.
@@ -4507,8 +4477,6 @@ Galera, existem diversas diferenças entre ambos: Scrum requer iterações e o K
 -
 mas sugere-se que haja uma cadência de entradas e entregas. Quando o Kanban incorpora
 iterações, ele é tipicamente chamado Scrumban (para diferenciá-lo do Scrum original), uma vez
-
-
 que Scrum não gerencia explicitamente o trabalho em progresso e o Kanban não utiliza
 iterações
 por padrão. Bacana? Vamos ver agora os princípios ou restrições:
@@ -4737,7 +4705,6 @@ Comentários:
 Esse registro visual é o famoso WIP.
 
 Gabarito: Correto
-
 io.(FGV/ TJ-GO - 2014) Scrum e Kanban são metodologias de gerenciamento de
 projetos de
 software populares entre praticantes do desenvolvimento ágil. Um aspecto de divergência
@@ -4804,8 +4771,6 @@ projeto -
 ele é muito utilizado em conjunto com o Scrum.
 
 Gabarito: Correto
-
-
 i3-(FCC /TST- 2017) Um Analista de Sistemas do Tribunal Superior do Trabalho - TST,
 de modo
 hipotético, necessitou aplicar princípios ágeis e de controle usando elementos de três
@@ -4855,7 +4820,6 @@ com a
 inclusão ou exclusão de estágios com a evolução do trabalho.
 
 Gabarito: Correto
-
 i5.(FCC/ MPE-PE - 2018) Enquanto o processo de desenvolvimento Scrum usa
 sprints formais
 (ciclos de trabalho) com funções específicas atribuídas, o Kanban:
@@ -5337,8 +5301,6 @@ O ágil simples não tem um trabalho inicial, mas na prática percebemos que tem
 disso. Para a
 ThoughtWorks, Inception é esse "pouco disso". Desde que ingressei na ThoughtWorks, percebi que
 todos os projetos
-
-
 ágeis da empresa começaram de forma semelhante. A equipe do projeto se reuniria por
 algumas semanas,
 passando por muitas atividades antes de iniciar o trabalho de entrega: isso foi a

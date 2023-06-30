@@ -164,7 +164,6 @@ comunicação subjacentes
 Applications
 
 Applicattons
-
 eBusIness XML
 Exchanges
 
@@ -224,7 +223,6 @@ forma de coordenação é por troca de mensagens;
 * Falhas independentes: qualquer componente pode falhar de forma independente de outros
 
 As principais características de um sistema distribuído são
-
 r
 
 Concorrência Falhas
@@ -473,7 +471,6 @@ multiprocessamento distribuído, mas se distinguem pelas seguintes razões: clus
 coleção de máquinas paralelas conectadas entre si que, por trabalharem
 juntas, fornecem alta ;
 disponibilidade e(ou) balanceamento de carga; o GRID, por sua vez, envolve a integração, j
-
 gestão de recursos computacionais fracamente acoplados e geograficamente distribuídos.
 
 
@@ -490,7 +487,6 @@ diferentes). :
 
 \ Portanto, a questão está correta.
 i
-
 i
 Gabarito: Correta :
 
@@ -510,7 +506,6 @@ y 72
 
 
 As rotinas do sistema operacional são executadas conforme as características das tarefas (jobs). i
-
 i Existem os jobs do tipo CPU bound e os l/O bound. Os eventos variam conforme a necessidade :
 
 i dos usuários (mais uso do processador ou de dispositivos de entrada/saída). Por isso, a assertiva
@@ -807,8 +802,6 @@ JBOSS ENTERPRISE c 0
 APPLICATION PLATFORM6 0
 Profiles server
 Runtime
-
-
 d Domam Status
 
 Server Instances
@@ -825,7 +818,6 @@ Datasources * main-server-group
 full
 
 JPA other-server-group
-
 fúll-ha
 
 JMS Destinations
@@ -1235,7 +1227,6 @@ y 72
 
 afirmou que as rotinas são executadas em função de eventos assíncronos! Portanto, a
 questão está
-
 correta.
 
 Gabarito: Correta
@@ -2560,8 +2551,6 @@ Exemplo:
 
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023
 (Pós-Edital) Sj
-
-
 lente 46
 
 
@@ -2604,8 +2593,6 @@ I
 
 A) executar em uma máquina virtual.
 i
-
-
 i B) executar em um servidor virtual em ambiente de nuvem
 :
 
@@ -2619,14 +2606,12 @@ I
 
 
 i
-
 i <VirtualHost> permite servir mais de um site no mesmo servidor (sites
 virtuais). Podem ser i
 Ê utilizadas diretivas específicas para o controle do site virtual, como nome do
 administrador, erros i
 i de acesso a página, controle de acesso e outros dados úteis para personalizar e
 gerenciar o site, i
-
 i Portanto, a alternativa C está correta e é o gabarito da questão.
 i
 
@@ -2745,7 +2730,6 @@ F 1
 
 
 Modo integrado
-
 k
 Á
 
@@ -2760,7 +2744,6 @@ aplicativos utilizando o "Integrated Pipeline"
 
 * utiliza o pipeline de processamento do IIS 6,
 inicialmente as requisições são processadas através
-
 dos módulos do IIS7 A
 
 Daria para entrar em detalhes em alguns itens abordados acima, mas para fins de
@@ -3132,7 +3115,6 @@ No Linux é muito comum que o arquivo de configuração tenha a "extensão" .con
 muitas vezes
 o nome do arquivo é o mesmo nome do daemon, então fica httpd.conf. Ok, e no
 Windows? Segue
-
 o mesmo nome! Portanto, a alternativa A está correta e é o gabarito da questão.
 
 Gabarito: Letra A
@@ -3463,7 +3445,6 @@ Comentários:
 
 Para hospedagem, já vimos em algumas questões que é "C:\inetpub\wwwroot" (note que a
 barra
-
 está invertida nas alternativas, mas tudo bem). Para o FTP é só substituir
 o "www" por "ftp":
 "C:\inetpub\ftproot".

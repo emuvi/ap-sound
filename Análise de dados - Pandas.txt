@@ -113,7 +113,6 @@ Item. 1. Carregamento de dados: O pandas pode ser usado para carregar dados de d
 
 ```python
 import pandas as pd
-
 data = pd.read_csv('dados.csv')
 ```
 
@@ -146,7 +145,6 @@ Item. 5. Visualização de dados: Embora a visualização não seja a função p
 
 ```python
 import matplotlib.pyplot as plt
-
 data['coluna'].value_counts().plot(kind='bar')
 plt.show()
 ```

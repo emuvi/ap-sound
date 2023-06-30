@@ -98,7 +98,6 @@ Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 Teoria dos Conjuntos
 
 Item. 1. Igualdade de conjuntos
-
 o Dois conjuntos são iguais se e somente se eles possuem os mesmos elementos
 (na definição de igualdade entre conjuntos não é relevante a noção de ordem entre
 os elementos).
@@ -107,7 +106,6 @@ os elementos).
 
 o Considere o conjunto {a,b}. Este conjunto possui apenas dois elementos, a
 saber: a, b
-
 a e (Í7, ò]
 
 b e (ajj)
@@ -132,7 +130,6 @@ Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
 
 Item. 2. Conjunto das Partes
-
 o O conjunto das Partes "P(A)" é o conjunto formado por todos os subconjuntos
 de um conjunto.
 
@@ -148,7 +145,6 @@ Temos 4 elementos.
 Portanto: 24 = 16
 
 Item. 3. Operações com conjuntos
-
 o A interseção de dois conjuntos A e B é o conjunto formado pelos elementos que são
 comuns a A e B, isto é, pelos elementos que pertencem a A e também pertencem a
 B, ou seja, A e B. (AT! B).
@@ -164,7 +160,6 @@ Se AcB, então .4AB=.4
 (2inB)cy4 e (AOB)cB
 
 o A União de dois conjuntos A e B é o conjunto formado reunião dos elementos
-
 desses conjuntos, ou seja, A ou B. (A U B).
 
 
@@ -180,7 +175,6 @@ Se AcB, então A(JB=B
 Í4U0=Í4
 
 o A diferença entre A e B corresponde ao conjunto dos elementos que
-
 pertencem a A e não pertencem a B, ou seja os elementos que estão somente em A.
 (A - B).
 
@@ -203,7 +197,6 @@ Sendo A = {0,1,2,3}, B = {2, 4, 6} e C = {1,2,3,4}, determine (A - B) U (BA C).
 * (A- B) U (BA C) = {2, 4} U {0, 1, 3} = {0, 1, 2, 3, 4}
 
 Item. 4. Propriedades da união e interseção
-
 o ?lU(7lAfí)=>4
 
 o 4AG4UB)=4
@@ -212,12 +205,9 @@ o 4A(BUC)=(4AB)U(4AC)
 
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
-
 o >lU(BnC)=(4UB)n(4UC)
 
 Item. 5. Complementação
-
 o Consideremos dois conjuntos A e B, tais que AcB. Chama-se complementar de
 A em relação a B o conjunto B - A, ou seja, o conjunto formado pelos elementos de B
 que não pertencem ao conjunto A.
@@ -239,7 +229,6 @@ Au A = U
 Af) A = &
 
 Item. 6. Uso dos Diagramas de Venn para a solução de problemas envolvendo conjuntos
-
 o Esses digramas possuem um papel fundamental na organização de dados.
 
 Total
@@ -250,8 +239,6 @@ A ou B
 
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
-
 o As questões normalmente pedem alguma dessas informações. Então para
 resolver esse tipo de problema basta montar o diagrama. Lembrando sempre na hora
 de iniciar a resolução procurar qual valor é a intersecção e iniciar por ele.
@@ -298,7 +285,6 @@ mais os "números quebrados"! Basicamente, dizemos que um número é racional se
 ele pode ser
 representado na forma de fração! Perceba, portanto, que o conjunto dos inteiros é um
 subconjunto dos
-
 racionais! Z C Q.
 
 Item. 8. Conjunto dos Irracionais (I), Reais (R) e Complexos (C)
@@ -311,7 +297,6 @@ reais que não são números racionais! Mas o que seriam os números irracionais
 números irracionais são
 todos os números que não podem ser representados pela fração de dois inteiros! Por
 exemplo, V7 e n são
-
 exemplos de números irracionais. Abaixo, vamos conhecer alguns números irracionais famosos!
 
 P' W
@@ -330,7 +315,6 @@ dia a dia... Não importa se ele tem uma representação decimal finita tal como
 
 ou uma representação decimal infinita como 1, 6666 ...,e 3,1415 Além de representar o
 conjunto dos
-
 números reais em um diagrama, também usamos uma reta! É a chamada reta real!
 
 -10 -9 -8 -7 -6 -5 -4 -3 -2 -1 0 1 2 3 4
@@ -390,11 +374,9 @@ Item. 9. Problemas envolvendo Conjuntos Numéricos
 Porcentagem
 
 Item. 10. Percentual de um valor
-
 o Em geral, podemos trocar o denominador 100 pelo símbolo % (por cento).
 
 o Para calcular x% de um valor, basta multiplicar o valor pelo número
-
 o Exemplo:
 
 Calcular 20% de 30% de 40% de 1.000.
@@ -414,7 +396,6 @@ _£2_. _22_. _Í2_. 1000 — 6000 — 24
 100 100 100 250
 
 Item. 11. Transformação de fração ordinária em taxa percentual
-
 o Para transformar uma fração ordinária ou um número qualquer em taxa percentual,
 basta multiplicá-la por 100%.
 
@@ -434,7 +415,6 @@ Transformar 0,4 em taxa percentual.
 * 0,4 = 0,4 100% = 40%
 
 Item. 12. Participação percentual de uma parte do todo
-
 o Imagine um grupo de 300 pessoas, 120 são homens. Como calculamos a
 participação percentual dos homens?
 
@@ -444,7 +424,6 @@ Basta dividir a "parte" pelo "todo"
 
 
 Item. 13. Variação percentual
-
 o A razão entre a diferença de valores (valor final menos o valor inicial) e o preço inicial,
 expressa em forma de porcentagem, é chamada variação percentual.
 
@@ -479,7 +458,6 @@ Vfinal ^inicial 1500-1200
 Vinicial 1200
 
 Item. 14. Variações percentuais sucessivas
-
 o Para diminuir p% de um valor original, devemos multiplicar por 100% - p%.
 
 o Para aumentar p% de um valor original, devemos multiplicar por 100% + p%.
@@ -582,7 +560,6 @@ Regra de Três Simples e Composta
 Item. 18. Regra de Três Simples e Composta
 
 S Regra de três - Consiste em transformar uma proporção em uma equação matemática
-
 com uma incógnita. Para fazer isto, basta fazer uma multiplicação cruzada dos termos
 da proporção.
 

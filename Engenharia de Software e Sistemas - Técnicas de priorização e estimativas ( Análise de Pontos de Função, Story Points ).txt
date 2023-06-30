@@ -100,7 +100,6 @@ objetivo de apresentar ao aluno como bancas de concurso cobram o
 assunto previamente administrado. A imensa maioria das questões para
 que o aluno avalie seus conhecimentos sobre a matéria estão dispostas ao
 final da aula na lista de exercícios e possuem comentários bem mais
-
 completos, abrangentes e direcionados.
 
 
@@ -166,8 +165,6 @@ são escritos em menos linhas1; a codificação em si corresponde a apenas cerca
 
 1 Algumas pesquisas mostram que um programador altamente qualificado pode escrever menos linha de
 código para desenvolver a mesma
-
-
 total de desenvolvimento de um software; além disso, linguagens de programação
 diferentes
 podem ser mais ou menos verbosas.
@@ -379,7 +376,6 @@ que se
 trata de uma medição indireta. A métrica de pontos de função foi pensada como
 resultado da
 experiência de diversos especialistas sobre características de vários projetos de software
-
 similares executados no Dassado e cataloaados em dados históricos.
 
 
@@ -643,8 +639,6 @@ FUNDO!
 Enfatizo novamente que a Análise de Pontos de Função não mede diretamente
 esforço, produtividade, custo, qualidade, ENTRE OUTROS. No entanto, ela pode
 ser usada em conjunto com outras grandezas e dados históricos da organização
-
-
 para medir essas variáveis. Por exemplo: determinado programador desenvolve
 uma funcionalidade específica em 10 Horas/PF.
 
@@ -712,7 +706,6 @@ não à
 implementação física destes grupos de dados.
 
 o ALI - Arquivo Lógico Interno
-
 o AIE-Arquivo de Interface Externa
 
 Funções do Tipo Transação: representam requisitos de processamento do usuário.
@@ -723,10 +716,7 @@ dados que estão armazenados em um arquivo lógico interno ou em um arquivo de i
 externa.
 
 o EE - Entrada Externa
-
 o CE - Consulta Externa
-
-
 o SE-Saída Externa
 
 Há uma coisa que nós não mencionamos sobre a imagem anterior. O que, Diego? A
@@ -1095,11 +1085,8 @@ controle referenciadas por uma aplicação e que residem dentro dos limites de u
 aplicação é um:
 
 a) Arquivo de interface externa
-
 b) Arquivo de lógica externa
-
 c) Arquivo de saída lógica
-
 d) Arquivo de entrada externa.
 
 e) Arquivo de saída externa.
@@ -1225,7 +1212,6 @@ classificadas como entrada externa (Letra C).
 
 
 (TCE-SP - 2015) A análise por pontos de função constitui uma técnica utilizada para
-
 medição da estimativa de esforço no desenvolvimento de software. Um dos tipos
 de
 componentes básicos dessa análise introduz dados externos para dentro do domínio do
@@ -1320,7 +1306,6 @@ Dados transferidos para outra aplicação; relatórios; relatórios online;
 gráficos; gerador de relatórios.
 
 Telas de ajuda; literais; data, hora, controles de paginação, etc; relatórios múlti
-
 com a mesma lógica e formato; relatórios criados pelo usuário de forma dinâmica
 usuário usando uma linguagem como SQL.
 
@@ -1357,13 +1342,9 @@ De acordo com a prática de contagem de pontos de funções, devemos caracteriza
 função como um(a):
 
 a) arquivo lógico interno
-
 b) arquivo de interface externa
-
 c) saída externa
-
 d) entrada externa
-
 e) consulta externa
 
 Comentários: apresentar ao usuário um relatório, com cálculos online, do valor presente
@@ -1606,7 +1587,6 @@ b) requisitos, elaboração e testes.
 c) desenvolvimento, manutenção e aplicação.
 
 d) controle, mecanismo e processamento
-
 e) lógico, físico e modelagem.
 
 Comentários: trata-se da contagem de desenvolvimento, manutenção/melhoria e aplicação/produção
@@ -2001,8 +1981,6 @@ a)3e7-
 
 1 Funções de conversão são aquelas funcionalidades providas apenas na instalação do sistema para
 converter dados ou proporcionar outros requisitos
-
-
 b) 3 e io.
 
 c) 4 e io.
@@ -2473,8 +2451,6 @@ Essa contagem se baseia na premissa de que-para cada arquivo lógico interno-exi
 + 2SE; e - para cada arquivo de interface externa - existem iCE e 1 SE. Professor,
 para que serve a
 contagem indicativa se ela será bastante imprecisa? Porque pode ser útil na análise de viabilidade
-
-
 de um projeto! No início da aula, nós falamos sobre a importância de estimar o custo
 de um projeto
 no início para saber se o projeto é viável ou não financeiramente.
@@ -2678,7 +2654,6 @@ não à
 implementação física destes grupos de dados.
 
 o ALI - Arquivo Lógico Interno
-
 o AIE-Arquivo de Interface Externa
 
 Funções do Tipo Transação: representam requisitos de processamento do usuário.
@@ -2689,9 +2664,7 @@ dados que estão armazenados em um arquivo lógico interno ou em um arquivo de i
 externa.
 
 o EE - Entrada Externa
-
 o CE - Consulta Externa
-
 o SE-Saída Externa
 
 
@@ -2720,8 +2693,6 @@ aplicação.
 
 Arquivos temporários; arquivos de trabalho; arquivos de classificação; arquivos de
 cópia de segurança (backup); arquivos introduzidos somente por causa da tecnologia
-
-
 usada (Ex: arquivos de parâmetro para um software WFL, JCL, etc); operações
 junção e projeção; arquivos de índices alternativos.
 
@@ -3126,10 +3097,7 @@ que totalizam nove pontos de função transacionais impactados
 III criação de identidade visual para dez páginas do portal associadas à área de
 comunicação
 social da organização
-
-
 função
-
 consultas externas (CE)
 
 arquivos de interface externa (AIE)
@@ -3140,10 +3108,8 @@ arquivos lógicos internos (ALI)
 complexidade
 baixa
 média
-
 alta
 alta
-
 quantidade
 
 
@@ -3196,10 +3162,7 @@ que totalizam nove pontos de função transacionais impactados
 III criação de identidade visual para dez páginas do portal associadas à área de
 comunicação
 social da organização
-
-
 função
-
 consultas externas (CE)
 
 arquivos de interface externa (AIE)
@@ -3210,10 +3173,8 @@ arquivos lógicos internos (AL1)
 complexidade
 baixa
 média
-
 alta
 alta
-
 quantidade
 
 
@@ -3353,7 +3314,6 @@ simultânea, logo uma não deve ser precedida da outra.
 
 
 Gabarito: Correto
-
 io. (CESPE / SLU-DF - 2019) Os pontos por função não ajustados (PFNA) devem ser
 multiplicados
 pelo seu fator de ajuste (FA) para que se obtenha, assim, o valor final dos pontos por função.
@@ -3520,8 +3480,6 @@ e, por fim,
 calculam-se os PFA; (e) Correto. O item não afirma que é baseado apenas nesses três
 princípios.
 Ora, há 14 fatores, mas esses três fatores mencionados são - sim - princípios de qualidade de
-
-
 software (de acordo com a NBR ISO/IEC 9126) que ajudam o cálculo do fator de ajuste.
 Logo, na
 minha opinião, as duas últimas opções estão corretas e a questão deveria ser anulada.
@@ -3807,8 +3765,6 @@ Gabarito: Errado
 
 38.(CESPE / ECT - 2011) A técnica de análise de pontos de função tem como objetivos primários,
 entre outros, a medição da funcionalidade que o usuário solicita e recebe, a medição do
-
-
 desempenho e a manutenção de software independentemente da tecnologia utilizada para sua
 implementação.
 
@@ -4353,8 +4309,6 @@ instruções
 que realizam uma tarefa. Em uma função, pode-se também ter declarações de
 parâmetros
 formais e de variáveis locais manipuladas pelas instruções. A métrica denominada pontos de
-
-
 função (function points) é igual ao número de funções em um programa. Essa métrica
 possibilita
 uma medição precisa da complexidade de um programa.
@@ -4782,8 +4736,6 @@ tecnologia
 utilizada, apenas isso! (c) Pontuação para cada função ou método? Não! Galera, não
 pode confundir
 função em linguagens de programação com a funcionalidade medida na APF. (d) Que viagem é
-
-
 essa? APF não tem nada a ver com isso! (e) Agora, sim! Perfeito, mede-se
 funcionalidade sem
 nenhuma relação com a tecnologia empregada no desenvolvimento do sistema.
@@ -5696,7 +5648,6 @@ de Função (PF) nas estimativas e dimensionamento de tamanho funcional de
 projetos de
 software devido aos diversos benefícios de utilização da métrica e às recomendações dos
 órgãos
-
 de controle do governo brasileiro. Sobre a métrica de Pontos de Função, é correto
 afirmar que
 
@@ -5821,8 +5772,6 @@ Médio
 
 
 Complexo
-
-
 a) 3-
 
 b) 4-
@@ -5892,8 +5841,6 @@ Gabarito: Letra A
 16.(FGV / MPM-MS- 2012) A NESMA- Netherlands Software Metrics Association (Associação de
 Métricas de Software da Holanda) - é uma organização similar ao IFPUG, que mantém seu
 próprio Manual de Práticas de Contagens. A diferença entre as regras mantidas pela NESMA e
-
-
 as mantidas pelo IFPUG é que a NESMA reconhece três tipos de contagem de pontos de
 função.
 Assinale a alternativa que os indica.
@@ -6366,7 +6313,6 @@ Principal mtrnçÀo atualuar as arquivai «puntunrato t paabficativa
 Ltadoi ta teta Cabeçalho own nome e logotipo ta etnprtM.
 
 cominóo ítecta Fnter ou botao OK|, mmMpnr pari o
-
 usuário. hora de entrada e |u»tifxibva
 Arquivoa MTBMíina aponustmio r tarttfratrra
 
@@ -6376,7 +6322,6 @@ PmxTpai intençto aprrxrur taóot do arquivo apontamento
 Dados da teta Cabeçalho com nccne e logotipo da empresa,
 
 comando (tecia Ertw oU Nxlo OKi nvnwgem
-
 para o anuário, data, hortrio de entrada, horário de uúda
 Afquvca aottMbdoa apontamento
 
@@ -6393,12 +6338,8 @@ transação é expresso
 corretamente em:
 
 a) 2 entradas externas, 1 consulta externa, 1 saída externa, 15 PFs
-
 b) 2 entradas externas, 1 consulta externa, 1 saída externa, 14 PFs
-
 c) 2 entradas externas, 2 consultas externas, 15 PFs
-
-
 d) 2 entradas externas, 2 consultas externas, 14 PFs
 
 Comentários:
@@ -6457,8 +6398,6 @@ Comentários:
 Modelo usado para a estimativa de esforço inicial e baseada em requisitos é a
 quantidade de pontos
 de função. Professor, análise de pontos de função pode ser utilizada para medir esforço? Sim, ela é
-
-
 utilizada para medir o tamanho funcional de um software e, a partir dela, é possível
 estimar o
 esforço indiretamente.
@@ -6577,7 +6516,6 @@ valores denominados de domínio da informação, dentre os quais se inclui o nú
 a) chamadas de função.
 
 b) desvios incondicionais
-
 c) entradas externas.
 
 d) estruturas complexas.
@@ -6747,11 +6685,8 @@ Função
 métodos são respectivamente:
 
 a) APF Detalhada, APF de Alto Nível (ou APF Estimada) e APF Indicativa
-
 b) APF Generalista, APF de Baixo Nível (ou APF Arcaica) e APF Indicativa
-
 c) APF Generalista, APF de Alto Nível (ou APF Estimada) e APF Específica
-
 d) APF Detalhada, APF de Baixo Nível (ou APF Arcaica) e APF Específica.
 
 Comentários:
@@ -6800,13 +6735,9 @@ que representam
 respectivamente:
 
 a) Árvore da Logística Interna - Árvore de Integração Externa
-
 b) Arquivo Lógico Interno - Arquivo de Interface Externa
-
 c) Arquitetura Lógica Interna - Arquitetura Integrada Externa
-
 d) Artefatos Lógicos Internos - Artefatos de Integração Externa
-
 e) Acervo de Livros Internos - Acervo de Interfaces Externas.
 
 Comentários:
@@ -6881,13 +6812,9 @@ que representam
 respectivamente:
 
 a) Árvore da Logística Interna - Árvore de Integração Externa
-
 b) Arquivo Lógico Interno - Arquivo de Interface Externa
-
 c) Arquitetura Lógica Interna - Arquitetura Integrada Externa
-
 d) Artefatos Lógicos Internos - Artefatos de Integração Externa
-
 e) Acervo de Livros Internos - Acervo de Interfaces Externas.
 
 Comentários:
@@ -7007,7 +6934,6 @@ Gabarito: Letra B
 
 2i.(VUNESP / PRODEST-ES - 2014) Na métrica de software conhecida como ponto por função,
 são considerados valores do domínio da informação. Dois desses domínios são: o número de
-
 a) desvios condicionais e de arquivos lógicos internos.
 
 b) entradas externas e de consultas externas.
@@ -7245,7 +7171,6 @@ externas
 (EE), saídas externas (SE) e consultas externas (CE). Essa descrição
 caracteriza o tipo
 denominado Funções
-
 a) Dados.
 
 b) Processos.
@@ -7516,10 +7441,7 @@ que totalizam nove pontos de função transacionais impactados
 III criação de identidade visual para dez páginas do portal associadas à área de
 comunicação
 social da organização
-
-
 função
-
 consultas externas (CE)
 
 arquivos de interface externa (AIE)
@@ -7530,10 +7452,8 @@ arquivos lógicos internos (AL1)
 complexidade
 baixa
 média
-
 alta
 alta
-
 quantidade
 
 
@@ -7562,10 +7482,7 @@ que totalizam nove pontos de função transacionais impactados
 III criação de identidade visual para dez páginas do portal associadas à área de
 comunicação
 social da organização
-
-
 função
-
 consultas externas (CE)
 
 arquivos de interface externa (AIE)
@@ -7576,10 +7493,8 @@ arquivos lógicos internos (AL1)
 complexidade
 baixa
 média
-
 alta
 alta
-
 quantidade
 
 
@@ -8048,7 +7963,6 @@ função
 calculados.
 
 Item. 68. (CESPE / TST- 2007) A estimativa de características de projeto por pontos de função requer
-
 que as características do domínio de informação do software sejam categorizadas
 como de
 realização simples, média ou complexa, em função do grau de dificuldade de
@@ -8291,8 +8205,6 @@ tamanho
 funcional de um software cujo processo de medição envolve diversas etapas, dentre elas,
 a
 medição das funções de dados, que envolvem as funcionalidades fornecidas pelo sistema ao
-
-
 usuário para atender a suas necessidades de armazenamento de dados. Dentre as funções
 de
 dados estão:
@@ -8923,7 +8835,6 @@ sistema B, conforme representado no diagrama a seguir.
 
 Obter
 Histórico
-
 de Compras
 
 Sistema B
@@ -9034,8 +8945,6 @@ b) 2-3-4-5-1
 c) 3-2-4-i-5
 
 d) 2-3-5-4-i
-
-
 e)3-2-i-5-4
 
 i4.(FGV / INEA-RJ - 2013) A análise preliminar de um sistema a ser desenvolvido possui as
@@ -9068,8 +8977,6 @@ Médio
 
 
 Complexo
-
-
 a) 3.
 
 b) zp.
@@ -9346,8 +9253,6 @@ as "Entradas Externas" (EE), "Consultas Externas" (CE) e "Saídas Externas" (SE)
 
 Requisitos de software a serem
 Levantados e Analisados
-
-
 lô Mês
 (Módulo 1)
 
@@ -9429,7 +9334,6 @@ Pnnopd intençk* Jtualoar o irqunro jponteanrnto
 Dtdo» d> teta Ciheçilho «xoi mv e kgettpu dâ «nprtM.
 
 rooundo (tivU Enter ou botto OKi
-
 ptrao rnuáno, mdtoedor de cntrud» ou laiila
 Ajqum» KtMftdoi apontamento
 
@@ -9450,7 +9354,6 @@ Pnnipil sfwenMr dados do arquivo apontamento
 Dados da teta Cabeçalho cntn nome e logotipo da empresa.
 
 <ixnando (teria Eraer ou Nxio OK t mrnwgm
-
 para o usuário, date, horário de entrada, horáno de uüda
 Anptfvoa amatdoa apontamento
 
@@ -9481,11 +9384,8 @@ transação é expresso
 corretamente em:
 
 a) 2 entradas externas, 1 consulta externa, 1 saída externa, 15 PFs
-
 b) 2 entradas externas, 1 consulta externa, 1 saída externa, 14 PFs
-
 c) 2 entradas externas, 2 consultas externas, 15 PFs
-
 d) 2 entradas externas, 2 consultas externas, 14 PFs
 
 Item. 3. (AOCP / Prefeitura de Novo Hamburgo - RS - 2020) Como se denomina um modelo de
@@ -9561,7 +9461,6 @@ valores denominados de domínio da informação, dentre os quais se inclui o nú
 a) chamadas de função.
 
 b) desvios incondicionais
-
 c) entradas externas.
 
 d) estruturas complexas.
@@ -9656,11 +9555,8 @@ Função
 métodos são respectivamente:
 
 a) APF Detalhada, APF de Alto Nível (ou APF Estimada) e APF Indicativa
-
 b) APF Generalista, APF de Baixo Nível (ou APF Arcaica) e APF Indicativa
-
 c) APF Generalista, APF de Alto Nível (ou APF Estimada) e APF Específica
-
 d) APF Detalhada, APF de Baixo Nível (ou APF Arcaica) e APF Específica.
 
 Item. 13. (IBFC / EBSERH - 2017) O primeiro passo a ser seguido para a contagem de PF
@@ -9696,13 +9592,9 @@ que representam
 respectivamente:
 
 a) Árvore da Logística Interna - Árvore de Integração Externa
-
 b) Arquivo Lógico Interno - Arquivo de Interface Externa
-
 c) Arquitetura Lógica Interna - Arquitetura Integrada Externa
-
 d) Artefatos Lógicos Internos - Artefatos de Integração Externa
-
 e) Acervo de Livros Internos - Acervo de Interfaces Externas.
 
 
@@ -9766,14 +9658,9 @@ que representam
 respectivamente:
 
 a) Árvore da Logística Interna - Árvore de Integração Externa
-
 b) Arquivo Lógico Interno - Arquivo de Interface Externa
-
 c) Arquitetura Lógica Interna - Arquitetura Integrada Externa
-
 d) Artefatos Logicos Internos - Artefatos de Integração Externa
-
-
 e) Acervo de Livros Internos - Acervo de Interfaces Externas.
 
 Item. 17. (ESAF / ANAC - 2016) Segundo a versão 2.0 do Roteiro de Métricas de Software do
@@ -9850,7 +9737,6 @@ d) Um Arquivo Lógico Interno (ALI), pois os dados foram salvos no banco de dado
 
 Item. 21. (VUNESP/ PRODEST-ES - 2014) Na métrica de software conhecida como ponto por função,
 são considerados valores do domínio da informação. Dois desses domínios são: o número de
-
 a) desvios condicionais e de arquivos lógicos internos.
 
 b) entradas externas e de consultas externas.
@@ -9864,7 +9750,6 @@ e) tabelas e de saídas externas.
 Item. 22. (AOCP / UFPB - 2014) Preencha a lacuna e assinale a alternativa correta.
 
 "Na análise de pontos de função, os requisitos funcionais devem ser identificados conforme
-
 a) a visão do programador.
 
 b) a visão do usuário.
@@ -9981,7 +9866,6 @@ externas
 (EE), saídas externas (SE) e consultas externas (CE). Essa descrição
 caracteriza o tipo
 denominado Funções
-
 a) Dados.
 
 b) Processos.
@@ -10006,7 +9890,6 @@ por entidades externas distintas.
 
 e) deve-se contar apenas um ALR para cada Arquivo Lógico Interno que é lido e
 mantido por
-
 uma entidade externa.
 
 

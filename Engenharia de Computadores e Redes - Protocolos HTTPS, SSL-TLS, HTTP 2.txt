@@ -317,8 +317,6 @@ Sua implementação pode se dar:
 * Servidor Proxy - Pode-se adicionar um elemento intermediário entre o cliente e o servidor,
 
 de tal forma que as consultas necessariamente passem pelo nó intermediário antes de chegar
-
-
 ao destino. Esse nó, é chamado de Proxy e armazena as últimas informações requisitas
 pelos
 clientes aos servidores.
@@ -639,7 +637,6 @@ Item. 2. CESPE - TJ TRE MS/Apoio Especializado/Programação de Sistemas/2013
 O elemento em que uma das partes de uma informação é armazenada como cadeia de
 texto na máquina do usuário e cuja função principal é a de manter a persistência de
 sessões HTTP é denominado
-
 a) frame.
 
 b) java Script.
@@ -831,7 +828,6 @@ Gabarito: C
 Comunicação/2013
 
 O serviço HTTP é implementado sem estado, enquanto o HTTPS é sua versão stateful (com
-
 estado).
 
 Comentários:
@@ -845,7 +841,6 @@ Gabarito: E
 lnfraestrutura/2013
 
 A primeira versão do serviço HTTP utiliza conexões não persistentes; a persistência foi
-
 acrescentada na versão subsequente desse serviço.
 
 
@@ -1004,12 +999,10 @@ A
 
 que
 meio
-
 viabiliza
 da
 
 Mail
-
 a transmissão de dados não
 utilização de SMTP
 
@@ -1081,8 +1074,6 @@ determinado domínio;
 
 MX - Mail Exchange - Fornece o nome do servidor de e-mail de maior prioridade
 que responde por determinado domínio de e-mail. Após a obtenção desse nome, é
-
-
 preciso ainda realizar uma consulta do tipo address para se determinar o endereço
 IP;
 
@@ -1139,7 +1130,6 @@ Gabarito: E
 29.CESPE - Câmara dos Deputados/Analista - Engenharia Eletrônica/2012
 
 O SMTP consiste em um protocolo muito utilizado pelos servidores de transporte
-
 de email modernos, apesar de possuir tecnologia bastante arcaica, surgida antes mesmo
 do protocolo HTTP.
 
@@ -1370,7 +1360,6 @@ Item. 2. FCC - TRT -165 Região (MA) /Técnico Judiciário - TI/2014
 Os diversos protocolos do conjunto (suite) TCP/IP são organizados em camadas de
 funcionalidade. Quando um usuário da internet realiza um acesso à página Web, ele está
 utilizando o protocolo da camada de Aplicação denominado
-
 a) WWW.
 
 b) IMAP.
@@ -1392,9 +1381,7 @@ Item. 3. FCC - TRT - 29 Região (SP)/Técnico Judiciário - TI/2014
 
 No modelo de referência de 4 camadas da suíte de protocolos TCP/IP, os protocolos
 Ethernet, HTTP e ICMP localizam-se, respectivamente, nas camadas
-
 a) Internet, Apresentação e Interface de rede
-
 b) Interface de rede, Aplicação e Internet.
 
 c) Transporte, Internet e Interface de rede.
@@ -1537,7 +1524,6 @@ Item. 7. FCC - MPE-AM/Agente de Apoio - Manutenção e Suporte de lnformática/2
 
 HTTPS (HyperText Transfer Protocol Secure) é um protocolo que combina o uso do HTTP
 com o
-
 a) SSL e o TLS, afim de prover conexões seguras.
 
 b) DES e AES, afim de prover criptografia assimétrica.
@@ -1558,7 +1544,6 @@ Gabarito: A
 Item. 8. FCC - TRF -12 Região/Analista Judiciário - Área de Apoio Especializado/2014
 
 Orecebe os pedidos HTTP na porta configurada e processa todos os pedidos da web
-
 que chegam, podendo distribuí-los. Os pedidos de objetos que podem ser armazenados no
 cache (informações estáticas que não mudam com frequência como páginas em HTML e
 imagens GIF) são processados pelo proxy. Os pedidos de objetos que não podem ser
@@ -1589,7 +1574,6 @@ Item. 9. FCC - TRT - 6- Região (PE)/Analista Judiciário - TI/2012
 
 Protocolos de rede podem ser classificados como "sem estados" (statelessj ou "com
 estado" (stateful). A este respeito é correto afirmar que
-
 a) protocolos sem estados exigem que tanto cliente como servidor mantenham um
 histórico da conexão.
 
@@ -1622,7 +1606,6 @@ O protocolo HTTPS (HyperText Transfer Protocol Secure) é uma implementação
 elaborada a partir do protocolo HTTP, na qual se incorporou uma camada de segurança.
 
 O protocolo de segurança originalmente utilizado nessa camada é o
-
 a) POP3 (Post Office Protocol).
 
 b) SMTP (Simple Mail Transfer Protocol).
@@ -1643,7 +1626,6 @@ ll.FCC - Câmara Municipal de São Paulo - SP/Consultor Técnico Legislativo -
 lnformática/2014
 
 Quando há incompatibilidade entre as versões do protocolo HTTP instaladas no cliente e
-
 no servidor, é retornado um código de estado 5xx, com uma mensagem como "O servidor
 não é compatível com a versão do protocolo HTTP usada na solicitação".
 
@@ -1660,7 +1642,6 @@ Gabarito: C
 0 protocolo HTTPS é uma implementação do protocolo HTTP utilizando um meio de
 comunicação seguro entre dois computadores, como por exemplo TLS/SSL. Por padrão, a
 porta TCP utilizada para a comunicação HTTPS é a porta
-
 a) 80.
 
 b) 443.
@@ -1682,7 +1663,6 @@ Gabarito: B
 
 Protocolos de rede podem ser classificados como "sem estados" (stateless) ou "com
 estado" (stateful). Um exemplo de protocolo "sem estados" é o protocolo
-
 a) HTTP.
 
 b) FTP.
@@ -1719,7 +1699,6 @@ Item. 2. CESPE - TJ TRE MS/Apoio Especializado/Programação de Sistemas/2013
 0 elemento em que uma das partes de uma informação é armazenada como cadeia de
 texto na máquina do usuário e cuja função principal é a de manter a persistência de
 sessões HTTP é denominado
-
 a) frame.
 
 b) Java Script.
@@ -1807,14 +1786,12 @@ camada de aplicação.
 Comunicação/2013
 
 0 serviço HTTP é implementado sem estado, enquanto o HTTPS é sua versão stateful (com
-
 estado].
 
 13.CESPE - Ana MPU/Tecnologia da Informação e Comunicação/Suporte e
 lnfraestrutura/2013
 
 A primeira versão do serviço HTTP utiliza conexões não persistentes; a
-
 persistência foi acrescentada na versão subsequente desse serviço.
 
 14.CESPE - TRT(DF e GO)/Técnico Judiciário - Tecnologia da lnformação/2013
@@ -1949,7 +1926,6 @@ Item. 2. FCC - TRT - 165 Região(MA)/Técnico Judiciário - TI/2014
 Os diversos protocolos do conjunto (suite) TCP/IP são organizados em camadas de
 funcionalidade. Quando um usuário da internet realiza um acesso à página Web, ele está
 utilizando o protocolo da camada de Aplicação denominado
-
 a) WWW.
 
 b) IMAP.
@@ -1964,9 +1940,7 @@ Item. 3. FCC - TRT - 25 Região (SP)/Técnico Judiciário - TI/2014
 
 No modelo de referência de 4 camadas da suíte de protocolos TCP/IP, os protocolos
 Ethernet, HTTP e ICMP localizam-se, respectivamente, nas camadas
-
 a) Internet, Apresentação e Interface de rede
-
 b) Interface de rede, Aplicação e Internet.
 
 c) Transporte, Internet e Interface de rede.
@@ -2043,7 +2017,6 @@ Item. 7. FCC - MPE-AM/Agente de Apoio - Manutenção e Suporte de lnformática/2
 
 HTTPS (HyperText Transfer Protocol Secure) é um protocolo que combina o uso do HTTP
 com o
-
 a) SSL e o TLS, afim de prover conexões seguras.
 
 b) DES e AES, afim de prover criptografia assimétrica.
@@ -2057,7 +2030,6 @@ e) IMAP e POP, a fim de prover comunicação segura.
 Item. 8. FCC - TRF -1^ Região/Analista Judiciário - Área de Apoio Especializado/2014
 
 0recebe os pedidos HTTP na porta configurada e processa todos os pedidos da web
-
 que chegam, podendo distribuí-los. Os pedidos de objetos que podem ser armazenados no
 cache (informações estáticas que não mudam com frequência como páginas em HTML e
 imagens GIF) são processados pelo proxy. Os pedidos de objetos que não podem ser
@@ -2068,7 +2040,6 @@ web públicos mantidos na intranet, por exemplo, criando umfront end para um ser
 web.
 
 A lacuna é corretamente preenchida por
-
 a) cache HTTP.
 
 b) acelerador HTTPS.
@@ -2083,8 +2054,6 @@ Item. 9. FCC - TRT - 65 Região (PE)/Analista Judiciário - TI/2012
 
 Protocolos de rede podem ser classificados como "sem estados" (stateless) ou "com
 estado" (stateful). A este respeito é correto afirmar que
-
-
 a) protocolos sem estados exigem que tanto cliente como servidor mantenham um
 histórico da conexão.
 
@@ -2105,7 +2074,6 @@ Item. 10. FCC - TJ-AP/Analista Judiciário - TI/2014
 0 protocolo HTTPS (HyperText Transfer Protocol Secure) é uma implementação
 elaborada a partir do protocolo HTTP, na qual se incorporou uma camada de segurança.
 0 protocolo de segurança originalmente utilizado nessa camada é o
-
 a) P0P3 (Post Office Protocol).
 
 b) SMTP (Simple Mail Transfer Protocol).
@@ -2120,7 +2088,6 @@ e) SSH (Secure Shell).
 lnformática/2014
 
 Quando há incompatibilidade entre as versões do protocolo HTTP instaladas no cliente e
-
 no servidor, é retornado um código de estado 5xx, com uma mensagem como "0 servidor
 não é compatível com a versão do protocolo HTTP usada na solicitação".
 
@@ -2129,7 +2096,6 @@ não é compatível com a versão do protocolo HTTP usada na solicitação".
 0 protocolo HTTPS é uma implementação do protocolo HTTP utilizando um meio de
 comunicação seguro entre dois computadores, como por exemplo TLS/SSL. Por padrão, a
 porta TCP utilizada para a comunicação HTTPS é a porta
-
 a) 80.
 
 b) 443.
@@ -2145,7 +2111,6 @@ e) 512.
 
 Protocolos de rede podem ser classificados como "sem estados" (stateless) ou "com
 estado" (stateful). Um exemplo de protocolo "sem estados" é o protocolo
-
 a) HTTP.
 
 b) FTP.
@@ -2708,16 +2673,12 @@ Item. 2. Autenticação
 
 conexão segura
 parâmetros
-
 mútua de
 
 Comunicação
-
 entre dois soquetes,
 entre cliente e
-
 cliente e
-
 incluindo:
 servidor.
 servidor.

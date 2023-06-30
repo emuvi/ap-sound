@@ -313,7 +313,6 @@ sido uma escolha popular entre os desenvolvedores há mais de duas décadas, com
 de
 aplicações Java em uso hoje. Java é uma linguagem multiplataforma, orientada
 a objetos e
-
 x" 7
 
 
@@ -365,7 +364,6 @@ ROMIlNSi
 BIG DATA
 
 A k
-
 r INITELIGÉNC IA 1
 
 1ARTIFICIAI
@@ -628,7 +626,6 @@ Fase 1: criando um programa
 
 A Fase 1 consiste em editar um arquivo com um programa editor, muitas
 vezes conhecido
-
 simplesmente como um editor. Você digita um programa Java (em geral referido como
 código-
 fonte) utilizando o editor, faz quaisquer correções necessárias e salva o
@@ -792,8 +789,6 @@ sistema
 operacional para que o programa Java funcione na máquina.
 
 Passagem por Valor e por referência
-
-
 www. estra tegiaconcursos. com. br
 
 
@@ -1168,7 +1163,6 @@ entre o momento em que o applet é carregado no navegadore o momento em que ele
 é fechado pelo navegador.
 
 Estão corretas apenas as afirmativas
-
 a) I e II.
 
 b) I e III.
@@ -1478,7 +1472,6 @@ Um tipo de dados que pode armazenar números inteiros de -2147483648 a
 2147483647
 
 Usado para declarar um tipo especial de classe que contém apenas métodos
-
 abstratos
 
 Um tipo de dados que pode armazenar números inteiros de -9223372036854775808
@@ -1698,7 +1691,6 @@ PROVA!
 
 (FCC / TRF 3a Região - 2019) Java possui um conjunto de tipos de dados conhecidos
 como primitivos, dos quais NÃO faz parte o tipo
-
 a) short.
 
 b) long.
@@ -1798,12 +1790,9 @@ c = c < 0 ? a : b;
 // * é um operador binário pois opera
 
 // ?: é 0 operador ternário. Opera em
-
 apenas em
-
 em a e b.
 na
-
 expressão booteana (c < 0), e em a ou b.
 
 
@@ -1869,7 +1858,6 @@ valor à direita. Exemplos de uso:
 
 int numero ' = 3; //numero recebe
 numero += 7; //numero recebe
-
 numero - = 32; //numero recebe
 numero /O —-3; //numero recebe
 
@@ -1925,7 +1913,6 @@ int numerol=245;
 int numero2=123;
 
 numerol=(numerol>numero2)?numerol:numero2; /* Faz com que a variavel
-
 numero 1 receba sempreo maior valor entre ela mesma e a
 numero2. Neste
 caso, ela receberá o seu prório valor por ele ser maior*/
@@ -2053,7 +2040,6 @@ vari avel=(-4>=0);
 //vari avel
 
 //vari avel
-
 recebe
 recebe
 recebe
@@ -2149,12 +2135,10 @@ numero=5%12;
 //numero
 
 //numero
-
 passa a
 assume
 assume
 assume
-
 valer 5
 
 o valor 20
@@ -2240,7 +2224,6 @@ z = ++x;
 // primeiro faz y igual ao valor (anterior) de x, e
 
 // primeiro modifica x, e depois atribui azo novo
-
 valor de x
 
 
@@ -2294,20 +2277,15 @@ PROVA!
 
 (FGV / IMBEL-2021) Com relação aos operadores bitwise do Java, considere os valores
 binários
-
 a = ooiiiioo
 b = ooooiioi
 
 Os valores resultantes das operações a&b e a|b são, respectivamente,
 
 a) oooiiioo e íiimoi
-
 b) ooooiioo e ooiiiioi
-
 c) ooooiiii e ooiiiiii
-
 d) íiooiiio e ooooiioo
-
 e) oiioiioo e 00100101
 
 Comentários: Pessoal, vamos fazer essa operação! 0 ideal é fazer em uma folha/tablet - em forma
@@ -2498,11 +2476,9 @@ Assinale a expressão cujo valor corresponde ao índice do último elemento do a
 nomes.
 
 a) nomes.length
-
 b) nomes.length -1
 
 c) nomes.size
-
 d) nomes.size +1
 
 e) nomes.ubound
@@ -2667,14 +2643,12 @@ if (expressaoBooleana) {
 
 //instruções que serão executadas caso a
 expressaoBooleana resulte
-
 true.
 
 } else {
 
 //instruções que serão executadas caso a
 expressaoBooleana resulte
-
 false.
 
 }
@@ -2837,7 +2811,6 @@ System.out.print("Erro: A hora deve ser maior que 0.");
 
 
 else
-
 if (hora >= 24)
 else
 
@@ -2849,7 +2822,6 @@ if (hora <= 12)
 horas. ") *
 
 else
-
 horas. ") *
 
 System.out.pri nt(hora + " AM é o mesmo que " + hora +
@@ -2890,8 +2862,6 @@ do switch, e essa expressão constante, por sua vez, deve ser seguida de: que é
 carácter que
 delimita o início do bloco de instruções relativo à case. Após: podem ser inseridas o
 ou mais
-
-
 x-"'" 52
 
 
@@ -3108,7 +3078,6 @@ PROVA!
 
 (CESPE / SEED - PR - 2021) E m Java, a estrutura de repetição que permite que um
 conjunto de instruções não seja executada nenhuma vez é representada por
-
 a) while.
 
 b) switch.
@@ -3200,7 +3169,6 @@ Quando os objetos individuais são criados, eles
 herdam todas as variáveis e métodos da classe.
 
 Assim como alguém tem de fabricar um carro a
-
 partir dos desenhos de engenharia antes que possa realmente dirigi-lo, você deve
 construir um
 objeto de uma classe antes que um programa possa executar as tarefas que os métodos
@@ -3339,7 +3307,6 @@ public static void main(String[] args) {
 Main myObj = new Main();
 
 myObj.x = 25; // will generate an error: cannot assign a value to a final
-
 vari able
 
 System.out.pri ntln(myObj.x);
@@ -3529,15 +3496,12 @@ Para impedir que o conteúdo de determinado atributo seja convertido em bytes
 no
 processo padrão de serialização, este atributo deve ser declarado na classe com o
 modificador
-
 a) final.
 
 b) native.
 
 
 www. estra tegiaconcursos. com. br
-
-
 c) volatile.
 
 d) transient.
@@ -3812,7 +3776,6 @@ public String strNome;
 public String strTelefone;
 
 // Métodos
-
 public void getStrNome(String Nome) {
 
 this.StrNome = Nome;
@@ -3919,7 +3882,6 @@ meio de relacionamentos de herança formam uma hierarquia de herança.
 Na
 linguagem de programação Java, o relacionamento de herança é definido pela palavra-
 chave
-
 a) static.
 
 b) extends.
@@ -3985,7 +3947,6 @@ public int promove()
 
 
 public class Oficio extends DocumentoProcesso
-
 private int precedencia;
 
 public Oficio (String docNumero, int classificacao, int precedencia)
@@ -4001,7 +3962,6 @@ public void setPrecedencia(int precedencia)
 
 {this.precedencia = precedencia;}
 @Override
-
 public int promoveO
 
 {return precedencia + i;}
@@ -4089,7 +4049,6 @@ PROVA!
 (FCC/SABESP-2018) As interfaces são usadas nas aplicações Java quando se deseja
 permitir que diversas classes implementem determinados métodos, mesmo que de
 formas diferentes. Em uma interface Java
-
 a) os métodos não podem ter os modificadores protected ou private.
 
 b) não pode haver assinaturas de métodos cujo tipo de retorno seja void.
@@ -4342,11 +4301,7 @@ forma
 concorrente alternando rapidamente entre elas, fazendo uma pequena parte de cada uma
 antes
 de passar para a próxima, de modo que todas as tarefas continuem progredindo. Por exemplo, é
-
-
 www. estra tegiaconcursos. com. br
-
-
 comum que computadores pessoais compilem um programa, enviem um arquivo para
 uma
 impressora, recebam mensagens de correio eletrônico por uma rede e
@@ -4369,11 +4324,8 @@ handles
 de arquivo. Essa capacidade é chamada multithreading
 
 A qualquer momento, diz-se que uma thread está em um de vários estados de thread
-
 noijo
-
 programa inicia
-
 a thread
 
 V
@@ -4406,18 +4358,14 @@ Uma thread executável pode entrar no estado de espera sincronizada por um
 intervalo especificado de tempo. Ela faz a transição de volta ao estado executável
 quando esse intervalo de tempo expira ou o evento que ela espera ocorre. Threads
 de espera sincronizada não podem utilizar um processador, mesmo se houver um
-
-
 disponível. Uma thread executável pode transitar para o estado
 sincronizada se fornecer um intervalo de espera opcional quando
 esperando outra thread realizar uma tarefa. Essa thread retornará
 executável quando ela for notificada por outra thread ou quando
-
 de espera
 ela estiver
 ao estado
 o intervalo
-
 sincronizado expirar — o que ocorrer primeiro. Outra maneira de posicionar uma
 thread no estado em espera sincronizada é colocar uma thread executável para
 dormir — uma thread adormecida permanece no estado de espera sincronizada por
@@ -4485,9 +4433,7 @@ depende das prioridades de thread.
 
 
 exrcutóveí
-
 i
-
 sistema operacional I
 
 I
@@ -5561,7 +5507,6 @@ PAINTO - PARA DESENHAR ALGO NA APPLET;
 FECHADO.
 
 Identificadores
-
 x
 
 
@@ -5649,7 +5594,6 @@ Um tipo de dados que pode armazenar números inteiros de -2147483648 a
 2147483647
 
 Usado para declarar um tipo especial de classe que contém apenas métodos
-
 abstratos
 
 Um tipo de dados que pode armazenar números inteiros de -9223372036854775808
@@ -6074,8 +6018,6 @@ A MESMA MENSAGEM ENVIADA A UMA VARIEDADE DE OBJETOS TEM MUITAS FORMAS DE RESULTA
 Sincronismo e Multithreading
 
 A qualquer momento, diz-se que uma thread está em um de vários estados de thread
-
-
 www. estra tegiaconcursos. com. br
 
 
@@ -6103,8 +6045,6 @@ dormir — uma thread adormecida permanece no estado de espera sincronizada por
 um determinado período de tempo (chamado intervalo de adormecimento), depois
 do qual ela retorna ao estado executável. As threads dormem quando, por um breve
 período, não têm de realizar nenhuma tarefa. Por exemplo, um processador de texto
-
-
 pode conter uma thread que grave periodicamente backups (isto é, grava uma cópia)
 do documento atual no disco para fins de recuperação. Se a thread não dormisse
 entre os sucessivos backups, seria necessário um loop em que testaria
@@ -6131,9 +6071,7 @@ em razão de um erro).
 
 
 executa uet
-
 sistema operacional
-
 i despacha uma thread
 * 1
 
@@ -6233,8 +6171,6 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ CLASSIFICAÇÃO.
 A CLASSE TREESET IMPLEMENTA SORTEDSET.
 
 Streams e Serialização
-
-
 www. estra tegiaconcursos. com. br
 
 
@@ -6296,8 +6232,6 @@ de 8 espaços.
 Há quatro possíveis formatos de comentário de implementação: bloco, linha, à
 direita e no fim da linha. Os comentários de bloco são utilizados para descrever
 arquivos de código, métodos ou algum algoritmo dentro de um método. Procure
-
-
 sempre inserir uma linha em branco antes do bloco de comentários. Os
 comentários de linha são para comentários curtos, e devem ser precedidos com
 uma linha em branco, assim como o comentário de bloco. Comentários muito
@@ -6499,7 +6433,6 @@ A saída produzida pela execução do código é:
 a) Erro de compilação na linha 5
 
 b) Segunda
-
 c) Segunda!
 
 d) Segunda!!
@@ -6583,10 +6516,7 @@ public int promoveO
 
 
 www. estra tegiaconcursos. com. br
-
-
 public class Oficio extends DocumentoProcesso
-
 private int precedencia;
 
 public Oficio (String docNumero, int classificacao, int precedencia)
@@ -6602,7 +6532,6 @@ public void setPrecedencia(int precedencia)
 
 {this.precedencia = precedencia;}
 @Override
-
 public int promoveO
 
 {return precedencia + i;}
@@ -6687,7 +6616,6 @@ return salario * 0.20;
 }
 
 É correto afirmar que
-
 a) o código mostra um exemplo de sobrescrita de métodos, pois há vários métodos com
 o
 mesmo nome, porém, com parâmetros diferentes.
@@ -6790,7 +6718,6 @@ System.out.println(out);
 
 
 A execução do código acima produzirá
-
 a) um erro de compilação.
 
 b) um erro de execução.
@@ -6834,7 +6761,6 @@ for falso.
 Gabarito: Letra D
 
 Item. 6. (FGV / MPE - AL - 2018) No Java, a classe Error e Exception derivam da classe
-
 a) ClassNotFoundException.
 
 b) lOException.
@@ -6885,7 +6811,6 @@ II. Ficam acessíveis somente às classes definidas no mesmo package.
 III. Ficam acessíveis somente para suas classes derivadas.
 
 Está correto o que se afirma em
-
 a) I, apenas.
 
 b) II, apenas.
@@ -6918,13 +6843,9 @@ de comando, num ambiente Java. Nesse caso, o comando que está corretamente form
 para esse fim é:
 
 a) compile teste.java -typejava
-
 b) java teste.java
-
 c) javac *.java
-
 d) jvm Testei.java teste2.java
-
 e) parse java teste.java
 
 Comentários:
@@ -6977,13 +6898,9 @@ se refere ao nível de acesso.
 
 
 a) abstract
-
 b) final
-
 c) protected
-
 d) static
-
 e) volatile
 
 Comentários:
@@ -7023,7 +6940,6 @@ II. Uma interface não pode ter um construtor.
 III. Uma classe abstrata pode ter um construtor.
 
 Está correto o que se afirma em
-
 a) I, somente.
 
 b) II, somente.
@@ -7296,7 +7212,6 @@ return vet;
 }
 
 A assinatura correta do método que deve ser colocada na lacuna I é
-
 a) public int[] verificar(int vet[])
 
 b) private int[] verificar(int vet[])
@@ -7348,7 +7263,6 @@ return true;
 
 Nas condições apresentadas, para que o método salvar grave as informações do cliente no
 banco de dados aberto, a lacuna I deve ser corretamente preenchida com a instrução
-
 a) INSERTINTO cliente VALUES(cpf,nome,endereço,bairro,cidade,telefone,renda)
 
 b) INSERT INTO cliente VALUES(?,?,?,?,?,?,?)
@@ -7383,8 +7297,6 @@ PreparedStatement é que, diferentemente de um objeto Statement, ele recebe uma
 instrução
 SQL quando é criado. A vantagem disso é que, na maioria dos casos, essa instrução SQL é
 enviada
-
-
 imediatamente ao DBMS, onde é compilada. Como resultado, o objeto
 PreparedStatement
 contém não apenas uma instrução SQL, mas uma instrução SQL que foi
@@ -7404,7 +7316,6 @@ receber um
 parâmetro de um campo de nome renda contido em um formulário HTML, converter o valor
 recebido deste campo para número real e armazená-lo em uma variável chamada renda. A
 instrução correta para realizar esta tarefa é
-
 a) long renda - Long.parseLong(request.getParameter("renda"));
 
 b) double renda = parseDouble(request.getParameter("renda"));
@@ -7512,13 +7423,10 @@ Ao tentar compilar e executar a classe, foi exibida a mensagem "Exception in thr
 java.lang.RuntimeException: Uncompilable source code". Essa mensagem foi exibida
 porque
 o item
-
 a) IV está incorreto, pois não especifica o tamanho da array.
 
 
 www. estra tegiaconcursos. com. br
-
-
 b) V está incorreto, pois deve haver apenas um par de colchetes após o nome da array.
 
 c) I está incorreto, pois não é permitido declarar um array e já incluir os valores nele.
@@ -7545,7 +7453,6 @@ ordenação por
 inserção para rearranjar os valores em um vetor em ordem crescente.
 
 public class Organizaf
-
 public static void main(String[] args) {
 int k[] = {88, 44, 42, 7, 72, 5};
 
@@ -7567,15 +7474,10 @@ v[i + l] = v[i];
 Para que a ordenação por inserção ocorra corretamente, as lacunas I e II
 devem ser
 corretamente preenchidas com
-
 a) i=j-i; i >=o && v[i]>x; - -i e v[i-i]=x
-
 b) i=j-i; i >=o; i++ e v[i+i]=x
-
 c) i=j-i; i >=o && v[i]>x; - -i e v[i+i]=x
-
 d) i=j-i; i >=o && v[i]>x; ++i e v[i]=x
-
 e) i=j-i; i >=o || v[i]>x; - -i e v[i+i]=x
 
 
@@ -7605,7 +7507,6 @@ double [] d={i, 20, 7, 8};
 dados = Aluno.cadastraDados(d);
 
 O método cadastraDados na classe Aluno deve ter a declaração
-
 a) public static double[] cadastraDados(double[] d)
 
 b) public static double[] cadastraDados(double d)
@@ -7649,7 +7550,6 @@ public Calcula()
 
 
 A instrução que NÃO é permitida nessa classe é
-
 a) private abstract int multiplica(double ni, int n2);
 
 b) public abstract void exibeResultado( );
@@ -7679,7 +7579,6 @@ instrução
 double n=new double^]; e alimentado com 3 valores reais. Para exibir o conteúdo da
 segunda
 posição (índice) deste vetor utiliza-se a instrução
-
 a) JOptionPane.showMessageDialog(null, n[2]);
 
 b) System.out.println(n[i]);
@@ -7696,7 +7595,6 @@ o comando para imprimir a segunda posição de um vetor de três posições deve
 a posição
 n[i] já que, em Java, o vetor inicia na posição o. Portanto ficamos apenas com as
 alternativas b e
-
 d. A letra d apresenta um erro porque System.out.Println não possui o parâmetro null
 como é
 apresentado na questão. Portanto nosso gabarito é a letra B.
@@ -7738,7 +7636,6 @@ deseja
 que sejam tratadas não no interior do método, mas sim por quem o chamar. Para que
 isso seja
 permitido, deve-se inserir o comando
-
 a) try na linha abaixo da declaração do método e catch
 (DataBaseException,
 SQLQueryException) abaixo do comando return 1.
@@ -7784,7 +7681,6 @@ this.nome = nome;
 Para instanciar um objeto dessa classe e armazenar o nome "Pedro" no atributo nome
 utiliza-
 se
-
 a) Colaborador.setNome("Pedro");
 
 b) Colaborador c -> new Colaborador(); c->Nome="Pedro";
@@ -7834,7 +7730,6 @@ Item. 27. (FCC / SABESP - 2018) As interfaces são usadas nas aplicações Java 
 que diversas classes implementem determinados métodos, mesmo que de formas diferentes.
 
 Em uma interface Java
-
 a) os métodos não podem ter os modificadores protected ou private.
 
 b) não pode haver assinaturas de métodos cujo tipo de retorno seja void.
@@ -7878,7 +7773,6 @@ www. estra tegiaconcursos. com. br
 
 28.(FCC / TRF 3a Região - 2014) Herança e interfaces são conceitos da orientação a objetos que
 possibilitam a obtenção de polimorfismo. Em Java, uma interface pode
-
 a) herdar de mais de uma interface.
 
 b) ser instanciada diretamente por meio da instrução new.
@@ -8250,7 +8144,6 @@ programação.
 
 função avaliar( a, b)
 início
-
 ma <-a;
 
 
@@ -8265,11 +8158,9 @@ resultado <- ( ma % me);
 
 se (resultado = o)
 então retorne me
-
 senão avaliar(me, ma)
 
 fim
-
 escreva avaliar (120,30);
 
 O resultado do pseudocódigo precedente será 120.
@@ -8299,7 +8190,6 @@ escrito na
 linguagem Java.
 
 1 public class Carro
-
 a <
 
 3 private String modela;
@@ -8444,7 +8334,6 @@ uma
 tecnologia especificamente para aumentar o desempenho da aplicação, identificando
 códigos
 que serão muito executados, normalmente dentro de loops. Essa tecnologia é chamada de
-
 a) hotspot.
 
 b) bytecode.
@@ -8483,8 +8372,6 @@ e executado
 por uma Java Virtual Machine (JVM). A letra c também está errada, foi apenas para
 confundir o
 candidato. A letra d trata da JRE, camada de software que é executado sobre um software de
-
-
 sistema operacional de um computador e fornece as bibliotecas de classe e outros
 recursos que
 um programa específico do Java precisa executar. Porfim, JDK é um conjunto de
@@ -8500,7 +8387,6 @@ Gabarito: Letra A
 Item. 43. (CESPE / MPE-CE -2020) Com base na linguagem de programação Java, julgue o item a seguir.
 
 O código
-
 public class mpce {
 
 public static void main(String[] args) {
@@ -8531,7 +8417,6 @@ Item. 44. (CESPE/MPE-CE-2020) Com base na linguagem de programação Java, julgu
 seguir.
 
 O código
-
 public class mpce {
 
 
@@ -8719,7 +8604,6 @@ comportamento dos
 métodos herdados das superclasses para um comportamento mais específico nas subclasses,
 de forma a se criar um novo método na classe filha que contém a mesma assinatura e o mesmo
 tipo de retorno, relaciona-se a
-
 a) sobrecarga.
 
 b) overloading.
@@ -8780,7 +8664,6 @@ Não é necessário utilizar um array.
 Gabarito: Errado
 
 Item. 51. (CESPE / TRE-PI - 2016) A linguagem Java foi, originalmente, desenvolvida para
-
 a) permitir a comunicação entre aparelhos domésticos e computadores.
 
 b) traduzirfórmulas matemáticas utilizando-se cartões perfurados.
@@ -9069,11 +8952,7 @@ Comentários:
 Pessoal, esses Modificadores de Acesso determinam quão acessíveis são esses elementos.
 Vamos
 vê-los agora em mais detalhes:<public>: essa instrução indica que a classe, método ou atributo
-
-
 www. estra tegiaconcursos. com. br
-
-
 assim declaradas podem ser acessadas em qualquer lugar e a qualquer momento da
 execução do
 programa - é o modificador menos restritivo. Perfeito, são públicos para toda e qualquer classe.
@@ -9133,9 +9012,7 @@ que não poderá ser instanciada, mas ainda poderá ser reutilizada?
 
 a) public abstract class NomeDaClasse
 b public abstract NomeDaClasse
-
 c) public class NomeDaClasse
-
 d) public class private NomeDaClasse
 
 Comentários:
@@ -9157,7 +9034,6 @@ habilidade
 de objetos de classes diferentes responderem à mesma mensagem de maneiras diferentes.
 
 Um tipo de polimorfismo é
-
 a) polimorfismo de sobrecarga.
 
 b) polimorfismo de instanciação.
@@ -9283,7 +9159,6 @@ A saída produzida pela execução do código é:
 a) Erro de compilação na linha 5
 
 b) Segunda
-
 c) Segunda!
 
 d) Segunda!!
@@ -9293,11 +9168,7 @@ e) Segunda!!!
 Item. 2. (FGV/TJDFT-2022) Observe as classes abaixo descritas na linguagem de programação Java.
 
 public class DocumentoProcesso extends Object
-
-
 www. estra tegiaconcursos. com. br
-
-
 private String docNumero;
 private int classificacao;
 
@@ -9335,7 +9206,6 @@ public int promove()
 {return classificacao + i;}
 
 public class Oficio extends DocumentoProcesso
-
 private int precedencia;
 
 public Oficio (String docNumero, int classificacao, int precedencia)
@@ -9351,7 +9221,6 @@ public void setPrecedencia(int precedencia)
 
 {this.precedencia = precedencia;}
 @Override
-
 public int promoveO
 
 {return precedencia + i;}
@@ -9396,7 +9265,6 @@ return salario * 0.20;
 }
 
 É correto afirmar que
-
 a) o código mostra um exemplo de sobrescrita de métodos, pois há vários métodos com
 o
 mesmo nome, porém, com parâmetros diferentes.
@@ -9457,7 +9325,6 @@ System.out.println(out);
 }
 
 A execução do código acima produzirá
-
 a) um erro de compilação.
 
 b) um erro de execução.
@@ -9469,7 +9336,6 @@ d) a linha "Não".
 e) a linha "Talvez".
 
 Item. 6. (FGV/MPE-AL-2018) No Java, a classe Error e Exception derivam da classe
-
 a) ClassNotFoundException.
 
 b) lOException.
@@ -9490,7 +9356,6 @@ II. Ficam acessíveis somente às classes definidas no mesmo package.
 III. Ficam acessíveis somente para suas classes derivadas.
 
 Está correto o que se afirma em
-
 a) I, apenas.
 
 b) II, apenas.
@@ -9499,8 +9364,6 @@ c) III, apenas.
 
 
 www. estra tegiaconcursos. com. br
-
-
 d) I e II, apenas.
 
 e) II e III, apenas.
@@ -9510,13 +9373,9 @@ de comando, num ambiente Java. Nesse caso, o comando que está corretamente form
 para esse fim é:
 
 a) compile teste.java -typejava
-
 b) java teste.java
-
 c) javac *.java
-
 d) jvm Testei.java teste2.java
-
 e) parse java teste.java
 
 Item. 9. (FGV /ALE-RO- 2018) Analise a definição de um array em Java.
@@ -9539,13 +9398,9 @@ Item. 10. (FGV / ALE-RO - 2018) No contexto da linguagem Java, assinale o modifi
 se refere ao nível de acesso.
 
 a) abstract
-
 b) final
-
 c) protected
-
 d) static
-
 e) volatile
 
 Item. 11. (FGV / ALE-RO - 2018) Sobre construtores (constructors), no contexto da linguagem
@@ -9559,11 +9414,7 @@ II. Uma interface não pode ter um construtor.
 III. Uma classe abstrata pode ter um construtor.
 
 Está correto o que se afirma em
-
-
 www. estra tegiaconcursos. com. br
-
-
 a) I, somente.
 
 b) II, somente.
@@ -9636,8 +9487,6 @@ d) somente I e II;
 
 
 www. estra tegiaconcursos. com. br
-
-
 e) I, lie III.
 
 i5.(FGV / IBGE - 2017) Em Java, certo método da classe A deve poder ser invocado
@@ -9724,7 +9573,6 @@ r et ura vet;
 }
 
 A assinatura correta do método que deve ser colocada na lacuna I é
-
 a) public int[] verificar(int vet[])
 
 b) private int[] verificar(int vet[])
@@ -9763,7 +9611,6 @@ return true;
 
 Nas condições apresentadas, para que o método salvar grave as informações do cliente no
 banco de dados aberto, a lacuna I deve ser corretamente preenchida com a instrução
-
 a) INSERT INTO cliente VALUES(cpf,nome,endereço,bairro,cidade,telefone,renda)
 
 b) INSERT INTO cliente VALUES(?,?,?,?,?,?,?)
@@ -9781,7 +9628,6 @@ receber um
 parâmetro de um campo de nome renda contido em um formulário HTML, converter o valor
 recebido deste campo para número real e armazená-lo em uma variável chamada renda. A
 instrução correta para realizar esta tarefa é
-
 a) long renda = Long.parsel_ong(request.getParameter("renda"));
 
 b) double renda = parseDouble(request.getParameter("renda"));
@@ -9855,7 +9701,6 @@ Ao tentar compilar e executar a classe, foi exibida a mensagem "Exception in thr
 java.lang.RuntimeException: Uncompilable source code". Essa mensagem foi exibida
 porque
 o item
-
 a) IV está incorreto, pois não especifica o tamanho da array.
 
 b) V está incorreto, pois deve haver apenas um par de colchetes após o nome da array.
@@ -9870,11 +9715,7 @@ e) III está incorreto, pois não existe o método add neste contexto.
 inserção para rearranjar os valores em um vetor em ordem crescente.
 
 public class Organizaf
-
-
 www. estra tegiaconcursos. com. br
-
-
 public static void main(String[] args) {
 int k[] = {88, 44, 42, 7, 72, 5};
 
@@ -9900,15 +9741,10 @@ V[i + l] = V[i];
 Para que a ordenação por inserção ocorra corretamente, as lacunas I e II
 devem ser
 corretamente preenchidas com
-
 a) i=j-i; i >=o && v[i]>x; - -i e v[i-i]=x
-
 b) i=j-i; i >=o; i++ e v[i+i]=x
-
 c) i=j-i; i >=o && v[i]>x; - -i e v[i+i]=x
-
 d) i=j-i; i >=o && v[i]>x; ++i e v[i]=x
-
 e) i=j-i; i >=o || v[i]>x; - -i e v[i+i]=x
 
 Item. 22. (FCC - TRF 3a Região /2019) No interior do método main da classe principal de
@@ -9922,7 +9758,6 @@ double [] d={i, 20, 7, 8j;
 dados = Aluno.cadastraDados(d);
 
 O método cadastraDados na classe Aluno deve ter a declaração
-
 a) public static double[] cadastraDados(double[] d)
 
 b) public static double[] cadastraDados(double d)
@@ -9959,7 +9794,6 @@ public Calcula()
 I
 
 A instrução que NÃO é permitida nessa classe é
-
 a) private abstract int multiplica(double ni, int n2);
 
 b) public abstract void exibeResultado( );
@@ -9975,7 +9809,6 @@ instrução
 double n=new double^]; e alimentado com 3 valores reais. Para exibir o conteúdo da
 segunda
 posição (índice) deste vetor utiliza-se a instrução
-
 a) JOptionPane.showMessageDialog(null, n[2]);
 
 b) System.out.println(n[i]);
@@ -10009,8 +9842,6 @@ deseja
 que sejam tratadas não no interior do método, mas sim por quem o chamar. Para que
 isso seja
 permitido, deve-se inserir o comando
-
-
 www. estra tegiaconcursos. com. br
 
 
@@ -10019,7 +9850,6 @@ deseja
 que sejam tratadas não no interior do método, mas sim por quem o chamar. Para que
 isso seja
 permitido, deve-se inserir o comando
-
 a) try na linha abaixo da declaração do método e catch
 (DataBaseException,
 SQLQueryException) abaixo do comando return 1.
@@ -10044,7 +9874,6 @@ this.nome = nome;
 Para instanciar um objeto dessa classe e armazenar o nome "Pedro" no atributo nome
 utiliza-
 se
-
 a) Colaborador.setNome("Pedro");
 
 b) Colaborador c -> new Colaborador(); c->Nome="Pedro";
@@ -10059,7 +9888,6 @@ Item. 27. (FCC / SABESP - 2018) As interfaces são usadas nas aplicações Java 
 que diversas classes implementem determinados métodos, mesmo que de formas diferentes.
 
 Em uma interface Java
-
 a) os métodos não podem ter os modificadores protected ou private.
 
 b) não pode haver assinaturas de métodos cujo tipo de retorno seja void.
@@ -10076,7 +9904,6 @@ uma vez
 28.(FCC / TRF 3a Região - 2014) Herança e interfaces são conceitos da orientação a
 objetos que
 possibilitam a obtenção de polimorfismo. Em Java, uma interface pode
-
 a) herdar de mais de uma interface.
 
 b) ser instanciada diretamente por meio da instrução new.
@@ -10288,7 +10115,6 @@ resultado <- ( ma % me);
 
 se (resultado = o)
 então retorne me
-
 senão avaliar(me, ma)
 escreva avaliar (120,30);
 
@@ -10298,7 +10124,6 @@ O resultado do pseudocódigo precedente será 120.
 linguagem Java.
 
 1 public cljxs Carro
-
 a <
 
 3 private String modela;
@@ -10340,7 +10165,6 @@ A }
 int cilindradas,, String rar<a>
 
 Com relação aos trechos de código precedentes, é correto afirmar que
-
 a) o parâmetro this, na linha 7 da classe CarroEsportivo, é uma palavra reservada usada para
 mostrar que está sendo feita referência ao atributo privado marca da classe Carro.
 
@@ -10384,7 +10208,6 @@ utiliza uma
 tecnologia especificamente para aumentaro desempenho da aplicação, identificando
 códigos
 que serão muito executados, normalmente dentro de loops. Essa tecnologia é chamada de
-
 a) hotspot.
 
 b) bytecode.
@@ -10398,7 +10221,6 @@ e) JDK (Java Development Kit).
 Item. 43. (CESPE/MPE-CE-2020) Com base na linguagem de programação Java, julgue o item a seguir.
 
 O código
-
 public class mpce {
 
 public static void main(String[] args) {
@@ -10426,7 +10248,6 @@ apresentará, quando executado, o resultado a seguir.
 44.(CESPE/MPE-CE-2O2o) Com base na linguagem de programação Java, julgue o item a seguir.
 
 O código
-
 public class mpce {
 
 public static int Funcao(int num, int resultado)!
@@ -10500,7 +10321,6 @@ métodos herdados das superclasses para um comportamento mais específico nas su
 deforma a se criar um novo método na classe filha que contém a mesma assinatura e o
 mesmo
 tipo de retorno, relaciona-se a
-
 a) sobrecarga.
 
 b) overloading.
@@ -10524,7 +10344,6 @@ todos os
 objetos.
 
 Item. 51. (CESPE / TRE-PI - 2016) A linguagem Java foi, originalmente, desenvolvida para
-
 a) permitir a comunicação entre aparelhos domésticos e computadores.
 
 b) traduzirfórmulas matemáticas utilizando-se cartões perfurados.
@@ -10660,9 +10479,7 @@ que não poderá ser instanciada, mas ainda poderá ser reutilizada?
 
 a) public abstract class NomeDaClasse
 b public abstract NomeDaClasse
-
 c) public class NomeDaClasse
-
 d) public class private NomeDaClasse
 
 Item. 68. (UFRN / UFRN - 2019) Na programação orientada a objetos, o polimorfismo é a
@@ -10670,7 +10487,6 @@ habilidade
 de objetos de classes diferentes responderem à mesma mensagem de maneiras diferentes.
 
 Um tipo de polimorfismo é
-
 a) polimorfismo de sobrecarga.
 
 b) polimorfismo de instanciação.
@@ -10716,7 +10532,6 @@ e) é idêntico ao comando do while.
 
 
 GABARITo
-
 í. Letra C 25. Letra B
 49.Errado
 

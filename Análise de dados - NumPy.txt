@@ -82,7 +82,6 @@ Item. 1. Criação de arrays: O NumPy permite criar arrays multidimensionais que
 
 ```python
 import numpy as np
-
 arr1 = np.array([1, 2, 3, 4, 5]) # Cria um array a partir de uma lista
 arr2 = np.arange(0, 10, 2) # Cria um array com valores de 0 a 10 (exclusivo) com um passo de 2
 arr3 = np.linspace(0, 1, 5) # Cria um array com 5 valores igualmente espaçados entre 0 e 1

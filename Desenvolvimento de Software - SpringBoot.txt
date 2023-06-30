@@ -18,7 +18,6 @@ x
 SPRING FRAMEWORK
 
 O spring
-
 by Pi votai
 
 Spring é um framework open-source de desenvolvimento para Plataforma Java! Trata-se de
@@ -333,8 +332,6 @@ l^ESCLARECENDO!
 Apenas para lembrar esses conceitos, a autenticação é o processo de estabelecer se
 alguém é
 quem afirma ser, e a autorização é o processo de decidir se alguém pode ou não realizar alguma
-
-
 ação em uma aplicação. Ele pode ser utilizado em conjunto com aplicações web ou
 standalone.
 Além disso, é capaz de proteger de ataques como: session fixation, clickjacking, cross
@@ -447,11 +444,9 @@ uma camada de abstração para JDBC, eliminando grande parte da codificação ne
 para interagir com um banco de dados é o:
 
 a) Spring Core
-
 b) Spring ORM
 
 c) Spring Context
-
 d) Spring DAO
 
 e) Spring AOP
@@ -575,11 +570,9 @@ codificação
 necessária para interagir com um banco de dados é o:
 
 a) Spring Core
-
 b) Spring ORM
 
 c) Spring Context
-
 d) Spring DAO
 
 e) Spring AOP

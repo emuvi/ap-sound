@@ -244,7 +244,6 @@ d está i
 i incorreta, pois está citando o conceito de Programação Orientada a Eventos. E a
 alternativa e está i
 i incorreta porque DDD não se trata de uma interface de domínio normalmente e um conjunto de
-
 i operações. (Gabarito: Letra B)
 i
 
@@ -461,13 +460,9 @@ ajudar a
 prototipar, desenvolver e implantar rapidamente aplicativos orientados a domínio.
 
 a) client/server architecture
-
 b) federal enterprise architecture
-
 c) service-oriented architecture
-
 d) Java persistence architecture
-
 e) naked object
 
 Comentários:
@@ -483,7 +478,6 @@ rich client ou HTML .
 Gabarito: Letra E
 
 Item. 8. (CESPE - MPC PA- 2019) No Domain-Driven Design, a Ubiquitous Language é considerada
-
 a) uma linguagem de programação utilizada pelos desenvolvedores para escrever os códigos.
 
 b) uma linguagem de modelagem utilizada pelos analistas para representar os processos
@@ -598,11 +592,8 @@ assim
 como os programadores que irão escrever o software, e isso chamamos de linguagem:
 
 a) ecológica
-
 b) temporal
-
 c) ubíqua
-
 d) estética
 
 Comentários:
@@ -841,7 +832,6 @@ ajudar a
 prototipar, desenvolver e implantar rapidamente aplicativos orientados a domínio.
 
 a) client/server architecture
-
 b) federal enterprise architecture
 
 
@@ -851,13 +841,10 @@ b) federal enterprise architecture
 
 
 c) service-oriented architecture
-
 d) Java persistence architecture
-
 e) naked object
 
 Item. 8. (CESPE - MPC PA- 2019) No Domain-Driven Design, a Ubiquitous Language é considerada
-
 a) uma linguagem de programação utilizada pelos desenvolvedores para escrever os códigos.
 
 b) uma linguagem de modelagem utilizada pelos analistas para representar os processos
@@ -918,11 +905,8 @@ como os programadores que irão escrever o software, e isso chamamos de linguage
 
 
 a) ecológica
-
 b) temporal
-
 c) ubíqua
-
 d) estética
 
 Item. 13. (CESPE -TRE PE- 2017) O DDD (domain-driven design)
@@ -1023,7 +1007,6 @@ se uma camada entre os dois sistemas denominada camada anticorrupção.
 
 
 GABARITo
-
 í. CORRETO
 
 Item. 2. ERRADO
@@ -1098,7 +1081,6 @@ colaboração e a produtividade. O Código Limpo tornou-se
 uma das práticas de software mais relevantes e tem sido
 amplamente adotado como sinônimo de qualidade de
 código por desenvolvedores de software e organizações de
-
 desenvolvimento de software em todo o mundo. No entanto, muito pouco se sabe sobre se
 os
 desenvolvedores concordam com os princípios do Código Limpo e como eles os aplicam na prática.
@@ -1155,9 +1137,7 @@ repleto de abstrações claras e linhas de controle objetivas.3
 ..
 ..
 i
-
 i Além de seu criador, um desenvolvedor pode ler e melhorar um código limpo. Ele
-
 i tem testes de unidade e de aceitação, nomes significativos; ele oferece apenas uma i
 Ê maneira, e não várias, de se fazer uma tarefa; possui poucas dependências, as quais i
 i são explicitamente declaradas e oferecem um API mínimo e claro. O código deve ser i
@@ -1224,8 +1204,6 @@ que torna
 um código limpo.
 
 r
-
-
 i
 
 ; Você sabe que está criando um código limpo quando cada rotina que você leia se :
@@ -1296,7 +1274,6 @@ r ..
 
 
 >.l
-
 i (CESPE - TJ PA - 2020) O Clean Code deve considerar também o momento de teste do software
 em i
 i desenvolvimento. O Teste Limpo deve
@@ -1319,9 +1296,7 @@ i e) contemplar todas as dependências possíveis, para garantir a eficácia do 
 
 i Comentários: Vamos analisar cada alternativa. A letra a está errada, porque, na
 verdade, os testes i
-
 i devem ser repetidos, e executados diversas vezes. Ao contrário do que diz a questão: " não seja
-
 i necessário repeti-lo muitas vezes". A letra b está incorreta, na verdade, o teste
 limpo deve ser feito i
 i para qualquer ambiente, não como diz a questão "ser específico para determinado
@@ -1334,7 +1309,6 @@ i de produção. A alternativa d também está errada, na verdade, o teste deve 
 objetivo e não i
 i subjetivo. Por fim, a alternativa e está errada. Um teste limpo não deve
 contemplar todas as i
-
 i dependências. (Gabarito: Letra A)
 i
 
@@ -1353,9 +1327,7 @@ a obtenção de um projeto sustentável à empresa.
 
 A legibilidade prioriza a clareza na
 escolha de nomes, padronização
-
 k
-
 codificação, tendo como
 
 
@@ -1395,13 +1367,11 @@ principais características:
 funções;
 
 * Quantidade de Argumentos
-
 k passados a uma função.
 
 A reutilização diz respeito à
 criação de funcionalidades que
 possam ser reutilizadas dentro do
-
 sistema, priorizando fatores como:
 
 * Um nível de abstração;
@@ -1456,7 +1426,6 @@ Propósito
 Evite Informações Erradas
 
 Faça Distinções Significativas
-
 int d;//tempo decorrido em dias
 
 O nome d não revela nada. Melhores opções:
@@ -1502,7 +1471,6 @@ Use Nomes Passíveis de Busca
 Evite Codificações
 
 Evite Mapeamento Mental
-
 que ele entenda da forma que quiser dentro das
 possibilidades.
 
@@ -1746,8 +1714,6 @@ Mais conhecidos como flags, não passam de valores
 booleanos passados a uma função. Certamente é uma
 prática horrível, pois viola a regra de que a função deve ter
 apenas uma responsabilidade, caso o valor seja falso ela
-
-
 terá um comportamento, caso contrário será outro
 comportamento diferente. O ideal é que sejam divididas em
 duas funções que são responsáveis para cada estado da flag.
@@ -1807,7 +1773,6 @@ i Comentários: Quando falamos sobre Reutilização de funcionalidades, vimos qu
 devem ser ;
 
 í pequenas, devem fazer apenas uma coisa. Portanto, essa questão está errada! (Gabarito: Errado) i
-
 x
 
 
@@ -1828,7 +1793,6 @@ nos expressar no código, comentários são utilizados quando
 não encontramos outra forma de nos expressar
 adequadamente. Portanto, quando você estiver numa
 situação na qual precise criar um comentário, pense bem e
-
 veja se não há uma maneira melhor de se expressar através do código.
 
 Ao utilizar comentários lembre-se de que as tecnologias estão em constante
@@ -1942,7 +1906,6 @@ simplesmente é um comentário sobre as frustrações na
 
 
 Murmúrio
-
 hora da codificação são tidos como murmúrios e não
 agregam valor ao projeto.
 
@@ -2382,7 +2345,6 @@ em provas
 anteriores!
 
 : (CESPE - TCE - PA - 2016) No contexto de clean code, o conceito de objetos é semelhante ao de
-
 i estruturas de dados, devendo os dados e as funções ficar expostos para permitir a inclusão de
 novos i
 i dados e de novas funções.
@@ -2406,7 +2368,6 @@ Os objetos usam abstrações para esconder seus dados, e
 
 
 Anti-simetria data/objeto
-
 expõem as funções que operam em tais dados. As
 estruturas de dados expõem seus dados e não possuem
 funções significativas.
@@ -2715,7 +2676,6 @@ a) Trecho 1:
 
 
 var a = (b + c)/d -10; // coloca o resultado em a
-
 b) Trecho 2:
 
 //Valida se o cliente possui benefícios de acordo com a tabela de regras
@@ -2724,11 +2684,9 @@ if ((cliente.Idade > 45 && cliente.Salario < enumValorSalarios.SalarioMinimo)
 c) Trecho 3:
 
 if (Ivisitante.EhAdulto && Ivisitante.EstaBloqueado) // lógica inversa
-
 return "Você não tem acesso por não ser adulto ou está bloqueado para ver este
 conteúdo";
 else
-
 return "Ótimo! Você poderá acessar este conteúdo.";
 
 d) Trecho 4:
@@ -3109,21 +3067,17 @@ corretamente as regras de Clean Code o trecho de código:
 a) Trecho 1:
 
 var a = (b + c)/d -10; // coloca o resultado em a
-
 b) Trecho 2:
 
 //Valida se o cliente possui benefícios de acordo com a tabela de regras
-
 if ((cliente.Idade > 45 && cliente.Salario < enumValorSalarios.SalarioMinimo)
 
 c) Trecho 3:
 
 if ((visitante.EhAdulto && (visitante.EstaBloqueado) // lógica inversa
-
 return "Você não tem acesso por não ser adulto ou está bloqueado para ver este
 conteúdo";
 else
-
 return "Ótimo! Você poderá acessar este conteúdo.";
 
 d) Trecho 4:

@@ -413,11 +413,9 @@ A)10
 
 í C) 32
 í
-
 j D) 50
 
 = Comentários
-
 í Seja V o conjunto formado por todas as vogais, então temos que: V = (d, e, í, O, u}
 
 I
@@ -445,11 +443,9 @@ PQ4) = {{ }, M {b}, (a, b]}
 
 Observe que pQá) e p(B) são conjuntos formados por outros conjuntos! Note ainda que a sua
 quantidade
-
 de elementos é exatamente a quantidade de subconjuntos calculada pela fórmula nSA = 2n(-A\ Um outro
 ponto que chamamos atenção é que, no conjunto das partes, listamos o conjunto vazio { }
 explicitamente
-
 com um dos seus elementos.
 
 HORA DE
@@ -529,7 +525,6 @@ E nesses casos, quando usaremos a relação de inclusão? Veja alguns exemplos d
 Observe que, para representar os subconjuntos que contém outros conjuntos, utilizamos, sem problema
 algum, dois pares de chaves. Tenha bastante cuidado em questões que tragam esse tipo de abordagem!
 Já
-
 vi muitas bancas se enrolarem ao cobrar questões com essa temática, pois desconhecem que conjuntos
 podem sim ser elementos de outros conjuntos e que podemos estabelecer uma relação de
 pertinência
@@ -748,7 +743,6 @@ Quando dois conjuntos possuem elementos em comum, podemos representá-los assim:
 
 Essa região comum representa exatamente a sua intersecção. Os elementos que estão na
 região em
-
 vermelho abaixo pertencem simultaneamente aos conjuntos A e B.
 
 A B
@@ -826,10 +820,7 @@ conjuntos:
 
 Observe que A = {1,2,3,4, 5, 6} e B = [1,3,5}. Para encontrar A — B, devemos selecionar os
 elementos
-
 de A que não são elementos de B! Ou seja, aqueles elementos que são apenas elementos de A! Observe
-
-
 que A e B possuem em comum os seguintes elementos: A n B = {1, 3,5}. Logo, se A = {1,2,3,4, 5, 6},
 
 então o A - B = {2,4, 6}. Em diagramas, também é possível representar o conjunto diferença.
@@ -954,8 +945,6 @@ Quando falamos de um determinado conjunto, normalmente estamos destacando
 determinado grupo
 dentro de um universo maior. Por exemplo, podemos formar um conjunto dos funcionários
 especializados
-
-
 em RH de uma empresa. Esse grupo de funcionários foi retirado de um conjunto maior:
 o conjunto formado
 por todos os funcionários da empresa. Acompanhe o diagrama abaixo.
@@ -1200,15 +1189,12 @@ A verdade é que não precisamos decorar fórmulas para responder questões que 
 esse princípio.
 Utilizando um pouco de lógica e diagramas de Venn, podemos encontrar a quantidade de elemento de
 cada
-
-
 conjunto envolvido em um problema típico de Princípio da Inclusão-Exclusão. Antes disso,
 quero deixar claro
 para vocês o significado de cada uma das regiões no seguinte diagrama:
 
 
 Região de
-
 elementos A B
 
 exclusivos do
@@ -1216,16 +1202,13 @@ conjunto A
 
 Região de
 elementos que
-
 não pertencem o
-
 a A nem a B
 
 Região de
 
 > elementos
 exclusivos do
-
 conjunto B
 
 Região de
@@ -1323,7 +1306,6 @@ conjuntos A e B.
 
 
 Região de elementos
-
 exclusivos do conjunto A
 
 Região de elementos
@@ -1331,7 +1313,6 @@ comuns apenas aos
 conjuntos A e C.
 
 Região de elementos
-
 exclusivos do conjunto C
 
 Região de elementos
@@ -1340,11 +1321,9 @@ que não pertencem a A
 nem a B nem a C.
 
 Região de elementos
-
 exclusivos do conjunto B
 
 Região de elementos
-
 comuns aos conjuntos
 
 A,B e C.
@@ -1407,8 +1386,6 @@ Eu sei que a fórmula pode parecer um pouco complicada, mas garanto que com um p
 de paciência e
 resolução de exercícios, ela se tornará mais amigável e bastante intuitiva! Além disso, também
 ensinarei
-
-
 um jeito que vocês poderão utilizar caso não lembrem da fórmula. Algumas vezes, no
 entanto, a questão
 pode exigir a aplicação direta dela. Confira o exercício abaixo.
@@ -1587,7 +1564,6 @@ Cálculo (C),
 
 = Estatística (£) e Microeconomia (M). Lembre-se de que nesse tipo de questão, nossa abordagem
 sempre é
-
 i começar pela intersecção dos três conjuntos, depois, partimos para as intersecções dois a dois e
 por fim,
 para as regiões isoladas. Comece se perguntando: qual a quantidade de alunos que cursam as 3
@@ -1725,8 +1701,6 @@ Por exemplo, C\^4 está representada por toda região de azul. A U B por toda a
 região marrom. Por fim,
 quando tiramos a intersecção desses dois conjuntos, ficamos com a área verde. Esse é o lado
 esquerdo da
-
-
 equação do enunciado. Para que a equação seja verdadeira, o lado direito deve
 representar exatamente a
 mesma região. No entanto, note que:
@@ -1764,7 +1738,6 @@ S(B) = 1 + 3 + 5 + 7 + 9 = 25
 
 Não tem como escolher um subconjunto de 12 e a soma dos elementos dele fornecer um
 resultado maior
-
 que a soma dos elementos de 12. Concorda? Da mesma forma, se pegarmos um subconjunto de B, digamos
 
 
@@ -1849,7 +1822,6 @@ x = 1,2,3,..., Sx seja o subconjunto de S formado pelos servidores que
 prestaram exatamente x
 concursos até que no concurso de número x foram aprovados pela primeira vez; considere, ainda, que
 Nx
-
 seja a quantidade de elementos de Sx. A respeito desses conjuntos, julgue os itens a seguir.
 
 Item. 7. (CESPE/PF/2014) O conjunto Sj U S₂ U S₃ U... contém todos os servidores do conjunto S.
@@ -1891,7 +1863,6 @@ Galera, Sx é um subconjunto de S que contém aqueles que prestaram exatamente x
 concursos até serem
 aprovados. A palavra "exatamente" desempenha um papel muito importante. Pois,
 se Ana passou no
-
 primeiro concurso que fez, ela pertencerá a Sr e somente St.
 
 Ana não pode pertencer a S₂, uma vez que esse conjunto contém apenas aqueles que
@@ -1969,7 +1940,6 @@ financeiros.
 
 O item diz que a quantidade de pessoas que não possuem aplicações em nenhum produto
 (320) é maior
-
 que a quantidade de pessoas que possuem simultaneamente os dois produtos (450).
 
 Com isso, podemos concluir que tal afirmação está equivocada, uma vez que se tem 450
@@ -2078,7 +2048,6 @@ Dentro dessas 40 pessoas pode ter tido 10 que também foram para a praia C.
 
 Se estamos nos perguntando a quantidade de pessoas que visitaram APENAS as praias A e
 B, devemos
-
 subtrair a quantidade de pessoas que além das praias A e B, também visitou a C. Ficou claro,
 pessoal?!
 
@@ -2540,8 +2509,6 @@ participantes, 30 visitaram somente o Mercado Central, 50 visitaram o Espigão d
 Iracema e o Centro
 Cultural Dragão do Mar, 35 visitaram o Mercado Central e o Espigão de Iracema, e 20 visitaram esses
 três
-
-
 pontos turísticos. Considerando que todos os participantes tenham visitado, pelo menos,
 um desses três
 pontos turísticos, julgue os itens a seguir.
@@ -2933,7 +2900,6 @@ x = 1,2,3,..., Sx seja o subconjunto de S formado pelos servidores que
 prestaram exatamente x
 concursos até que no concurso de número x foram aprovados pela primeira vez; considere, ainda, que
 Nx
-
 seja a quantidade de elementos de Sx. A respeito desses conjuntos, julgue os itens a seguir.
 
 Item. 7. (CESPE/PF/2014) O conjunto Si U S₂ U S₃ U... contém todos os servidores do conjunto S.
@@ -3237,8 +3203,6 @@ estabelecimentos
 comerciais que são classificados como Bar ou Restaurante e naqueles que são
 considerados ao mesmo
 tempo Bar e Restaurante. Sabe-se que, ao todo, são 96 estabelecimentos a serem visitados, dos quais
-
-
 são classificados como Bar e 60 são classificados como Restaurante. Nessa situação, há
 mais de 15
 estabelecimentos que são classificados como Bar e como Restaurante ao mesmo tempo.

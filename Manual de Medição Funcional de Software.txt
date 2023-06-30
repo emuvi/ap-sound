@@ -324,8 +324,6 @@ também são consultadas conjuntamente.
 Entidades com alto grau de dependência também podem indicar um único arquivo lógico. Cada uma das
 entidades dependentes pode ser um tipo de registro a ser considerado na determinação da
 complexidade desse
-
-
 arquivo lógico. Por exemplo, tanto a entidade Nota Fiscal quanto a entidade Itens da Nota
 isoladamente não são
 arquivos lógicos, contudo, em conjunto, elas são um arquivo lógico.
@@ -348,7 +346,6 @@ Item. 2.3.2.1. Regras de classificação de arquivo lógico interno
 
 Para que determinada função seja identificada como um ALI, todas as regras seguintes
 devem ser
-
 válidas:
 
 * O grupo de dados ou informações de controle é logicamente relacionado e identificável pelo
@@ -1692,8 +1689,6 @@ os dados da DSA para as tabelas fato e dimensão do DW. Observe que a utilizaç�
 DSA é uma solução
 técnica, portanto não tem contagem funcional. No entanto, é importante ressaltar que em alguns
 casos, o usuário
-
-
 deseja realizar consultas e emitir relatórios diretamente sobre os dados da
 DSA. Nesses casos, as
 funcionalidades da DSA serão consideradas na contagem. Os dados da DSA serão contados
@@ -1761,8 +1756,6 @@ Algumas vezes, o usuário requer a combinação de tabelas fatos gerando outra t
 fato ou uma
 estrutura de agregação, visando apoiar a geração de consultas. Em certas situações, a
 estrutura de agregação
-
-
 pode ser formada por uma tabela fato e tabelas dimensão. A estrutura de agregação é
 contada como arquivo
 lógico interno e a carga de dados é contada como uma entrada externa.
@@ -1889,7 +1882,6 @@ da aplicação devem ler e editar esses metadados. Estas funções não são ide
 pelo usuário final. No
 entanto, estes mecanismos de controle devem ser criados para o DW, sendo
 consideradas pelo perfil
-
 administrador. Assim, estas funcionalidades devem ser contadas.
 
 Item. 5.4.5. Medição de relatórios
@@ -1906,8 +1898,6 @@ diferenciação entre itens de dados, arquivos referenciados, possíveis agrupam
 filtros comuns entre
 relatórios. Por exemplo, supondo a existência de dois gráficos, um com total de
 processos no estado aberto por
-
-
 tipo de processo e outro com total de processos no estado encerrado por tipo de
 processo. Embora sejam dois
 gráficos, a estrutura é a mesma: estado (encerrado ou aberto), quantidade de processo e tipo de
@@ -2326,8 +2316,6 @@ D
 
 Também chamados metadados, em geral não são especificados pelo próprio
 usuário, sendo identificados pelo desenvolvedor em resposta a um ou mais
-
-
 requisitos técnicos. A codificação de atributos descritivos em objetos de negócio,
 sua descrição, nome ou outros dados que também o descrevam, como a data de
 início ou término de sua vigência, são os atributos típicos desses arquivos.
@@ -2470,33 +2458,23 @@ L
 usuário para completar um processo elementar:
 
 a. Realização de validações
-
 b. Realização de cálculos e fórmulas matemáticas
-
 c. Conversão de equivalência entre montantes
-
 d. Filtragem e seleção de dados utilizando determinados critérios para
 comparar múltiplos conjuntos de dados
-
 e. Análise de condições para determinação de qual se aplica
-
 f. Atualização de um ou mais ALI
 
 g. Referência a um ou mais ALI ou AIE
 
 h. Recuperação de dados ou informações de controle
-
 i. Criação de dados derivados pela transformação dos dados existentes em
 novos dados
-
 j. Alteração do comportamento da aplicação
-
 k. Preparação e apresentação de informação para fora da fronteira da
 aplicação
-
 l. Capacidade de aceitar dados ou informação de controle que entra na
 fronteira da aplicação
-
 m. Ordenação ou organização de dados.
 
 M
@@ -2517,7 +2495,6 @@ Documento editado pelo IFPUG que descreve toda a técnica da APF.
 N
 
 Netherlands Software Metrics Association
-
 p
 
 São os pontos de função encontrados para uma função ao se aplicar as regras
@@ -2547,7 +2524,6 @@ quais o usuário requer que sejam sempre utilizados pelo processo elementar que
 cria ou adiciona dados ao arquivo.
 
 Tipo de Registro
-
 u
 
 Usuário É qualquer pessoa que especifica requisitos funcionais do

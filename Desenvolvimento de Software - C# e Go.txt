@@ -64,7 +64,6 @@ Namespace - ele indica que as
 classes pertencem à sua
 aplicação - para que o código
 fique separado do .Net Uma
-
 classe contém um "pedaço" do seu
 programa, deve haver no mínimo
 uma classe. Por sua vez, os
@@ -132,7 +131,6 @@ Mas está muito simples não é? Vamos incluir uma nova variável.
 
 namespace MinhaAplicacao {
 class Program
-
 static void Main(string[] args)
 
 {
@@ -249,7 +247,6 @@ public class Animal {
 public String nome;
 
 //o atributo nome é público será herdado por todas as subclasses
-
 public virtual void FazerBarulho(){
 
 
@@ -369,15 +366,10 @@ modificador seja
 utilizado, o padrão para atributos e métodos é privado, e para classes e interfaces é internai.
 
 bAoAiFicjiior Acesso
-
 public qualquer parte do programa que Faça reFerência a classe
-
 protectedinternai público apenas para classes no mesmo assembly e para subclasses
-
 internai público apenas para classes no mesmo assembly
-
 protected público para subclasses, privado para todo o resto
-
 private apenas na mesma classe
 
 Um assembly é uma classe pré-compilada do framework .Net. Essas
@@ -566,7 +558,6 @@ yield break;
 }
 
 //Faça outra coisa
-
 for (int i = 0; i < 20; i++) {
 
 
@@ -620,10 +611,8 @@ será feita a ordenação (orderby), e o quê será o retorno (retorno).
 
 int[] valores = new int[] {0, 12, 44, 36, 92, 54, 13, 8};
 var resultado from v in valores
-
 where v < 37
 orderby v
-
 selétt v; //no LINQ, diferentefnenite do SQL o seleet vem ao final,
 
 foreach (int i in resultado)
@@ -649,7 +638,6 @@ comparação de um mesmo trecho de código feito com o if-else e com o '?'.
 
 int
 string
-
 entrada Convert.Tolnt32(Console.Readl_ine());
 classificacao;
 
@@ -666,7 +654,6 @@ if (entrada >
 classificacao =
 
 else
-
 classificacao =
 
 // ?: operador
@@ -1175,13 +1162,10 @@ a definição de uma classe em diversos arquivos. Para tanto, é necessário que
 classe contenha a palavra chave:
 
 a) split
-
 b) parti a I
 
 c) extern
-
 d) continue
-
 e) abstract
 
 Comentários:
@@ -1236,7 +1220,6 @@ para a implementação de interfaces. Gabarito: D
 Item. 13. (VUNESP - 2013 - MPE/ES - Agente Técnico - Desenvolvedor) Na linguagem C#, a
 palavra
 reservada "sealed" pode ser utilizada na declaração de classes. Ela tem a função de
-
 a) indicar que a classe possui métodos que precisam ser sobrescritos.
 
 b) impedir que a classe seja instanciada mais de uma vez.
@@ -1622,13 +1605,10 @@ cabe em nossa aula, caso queira saber mais veja a referência oficial). Gabarito
 Item. 20. (CESPE - 2013 - BACEN - Analista De Sistemas)
 
 class Teste
-
 f
-
 static void Main()
 
 f
-
 int num = 1;
 
 while (num++ < 6)
@@ -1769,13 +1749,9 @@ o valor de a[9]
 programação orientada a objeto, na linguagem C# em particular, a capacidade de construir
 vários métodos com um mesmo nome, porém com parâmetros diferentes na mesma classe, é
 chamada de
-
 a) Polimorfismo universal
-
 b) Polimorfismo paramétrico
-
 c) Polimorfismo de subtipo
-
 d) Sobrecarga de operadores
 
 
@@ -1978,9 +1954,7 @@ a) 5
 b) 25
 
 c) False
-
 d) True
-
 e) x * x
 
 Comentários:
@@ -2294,13 +2268,9 @@ declaração da
 classe contenha a palavra chave:
 
 a) split
-
 b) partial
-
 c) extern
-
 d) continue
-
 e) abstract
 
 Item. 12. (VUNESP - 2013 - MPE/ES - Agente Técnico - Desenvolvedor) Na linguagem C#, a
@@ -2320,7 +2290,6 @@ e) public class B implements A {}
 Item. 13. (VUNESP - 2013 - MPE/ES - Agente Técnico - Desenvolvedor) Na
 linguagem C#f a palavra
 reservada "sealed" pode ser utilizada na declaração de classes. Ela tem a função de
-
 a) indicar que a classe possui métodos que precisam ser sobrescritos.
 
 b) impedir que a classe seja instanciada mais de uma vez.
@@ -2686,15 +2655,10 @@ de construir
 vários métodos com um mesmo nome, porém com parâmetros diferentes na mesma
 classe, é
 chamada de
-
 a) Polimorfismo universal
-
 b) Polimorfismo paramétrico
-
 c) Polimorfismo de subtipo
-
 d) Sobrecarga de operadores
-
 e) Sobrecarga de métodos
 
 Item. 24. (CESGRANRIO - 2010 - ELETROBRAS - Analista De Sistemas - Engenharia
@@ -2842,9 +2806,7 @@ a) 5
 b) 25
 
 c) False
-
 d) True
-
 e) x * x
 
 GABARITo
