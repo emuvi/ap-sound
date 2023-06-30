@@ -1,4 +1,4 @@
-Padrões de microsserviços - SAGA
+Capítulo. Padrões de microsserviços - SAGA.
 
 
 O padrão SAGA (Sagas) é um padrão de projeto usado em arquitetura de microsserviços para coordenar transações distribuídas entre diferentes serviços. Ele ajuda a manter a consistência dos dados e a garantir a integridade das operações em um ambiente distribuído.

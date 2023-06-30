@@ -1,4 +1,4 @@
-Revisão e programação por pares
+Capítulo. Revisão e programação por pares.
 
 
 A revisão e programação por pares (também conhecida como revisão de código ou code review) é uma prática na engenharia de software em que um desenvolvedor revisa o código produzido por outro desenvolvedor. Essa revisão é realizada com o objetivo de identificar erros, melhorar a qualidade do código, compartilhar conhecimento e garantir a conformidade com as melhores práticas e padrões estabelecidos.
@@ -7,9 +7,9 @@ A revisão de código é uma atividade colaborativa que envolve a análise crít
 
 Existem diferentes formas de realizar a revisão de código, que podem variar de acordo com a equipe e o contexto do projeto. Alguns métodos comuns incluem:
 
-1. Revisão formal: É um processo estruturado, em que um grupo de revisores se reúne para revisar o código em uma sessão presencial ou remota. O autor do código apresenta o trabalho e os revisores fornecem feedback e fazem perguntas. Essa abordagem é mais formal e geralmente é usada em projetos críticos ou de alta complexidade.
+Item. 1. Revisão formal: É um processo estruturado, em que um grupo de revisores se reúne para revisar o código em uma sessão presencial ou remota. O autor do código apresenta o trabalho e os revisores fornecem feedback e fazem perguntas. Essa abordagem é mais formal e geralmente é usada em projetos críticos ou de alta complexidade.
 
-2. Revisão por pares: É uma abordagem mais informal, em que um revisor examina o código por conta própria e fornece comentários por meio de ferramentas de revisão de código ou diretamente no sistema de controle de versão. O processo é assíncrono e permite uma revisão mais flexível em termos de tempo e localização dos revisores.
+Item. 2. Revisão por pares: É uma abordagem mais informal, em que um revisor examina o código por conta própria e fornece comentários por meio de ferramentas de revisão de código ou diretamente no sistema de controle de versão. O processo é assíncrono e permite uma revisão mais flexível em termos de tempo e localização dos revisores.
 
 Independentemente do método escolhido, a revisão de código traz vários benefícios, tais como:
 

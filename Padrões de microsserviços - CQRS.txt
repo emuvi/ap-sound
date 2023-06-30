@@ -1,4 +1,4 @@
-Padrões de microsserviços - CQRS
+Capítulo. Padrões de microsserviços - CQRS.
 
 
 O padrão CQRS (Command Query Responsibility Segregation) é um padrão de arquitetura de software que separa a modelagem e o processamento de comandos (ações que modificam o estado do sistema) da modelagem e consulta de dados (leitura do estado do sistema). Ele propõe o uso de modelos distintos para operações de escrita (commands) e leitura (queries) em um sistema.

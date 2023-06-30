@@ -1,4 +1,4 @@
-Infraestrutura - Linguagem de script - Terraform
+Capítulo. Infraestrutura - Linguagem de script - Terraform.
 
 
 Embora o Terraform não seja estritamente uma linguagem de script, é uma ferramenta amplamente utilizada para provisionar e gerenciar a infraestrutura como código. O Terraform utiliza uma linguagem declarativa própria para descrever a infraestrutura desejada, conhecida como HashiCorp Configuration Language (HCL).

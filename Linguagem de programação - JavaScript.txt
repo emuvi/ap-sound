@@ -183,3 +183,37 @@ console.log(pares); // Saída: [2, 4]
 Neste exemplo, o `filter()` é usado para criar um novo array chamado `pares`, que contém apenas os números pares do array original `numeros`. A função de callback retorna `true` para os elementos que são divisíveis por 2 (ou seja, números pares) e `false` para os elementos que não são divisíveis por 2.
 
 Ambos `map()` e `filter()` são métodos poderosos para manipular arrays em JavaScript. Eles permitem que você transforme os elementos de um array ou filtre-os com facilidade, respectivamente. Além disso, esses métodos são não-destrutivos, ou seja, eles não modificam o array original, mas retornam um novo array com os resultados.
+
+
+Tópico. Como são feitos testes unitários em JavaScript.
+
+
+Os testes unitários em JavaScript podem ser feitos usando frameworks de teste populares, como Jest, Mocha, Jasmine e QUnit. Esses frameworks fornecem uma estrutura para escrever e executar testes automatizados no ambiente JavaScript. Aqui está um exemplo básico de como criar e executar testes unitários em JavaScript usando o Jest:
+
+1. Configuração do ambiente:
+   Certifique-se de ter o Jest configurado no seu projeto. Isso pode ser feito instalando o Jest via npm ou yarn e configurando o arquivo de configuração do Jest, geralmente chamado de `jest.config.js`.
+
+2. Crie uma função de teste:
+   Escreva uma função de teste para cada função que você deseja testar. Uma função de teste é um bloco de código que executa uma ou mais asserções para verificar se o resultado está correto.
+
+```javascript
+// Importe as funções e módulos necessários
+const { soma } = require('./meuModulo');
+
+// Escreva a função de teste
+test('Teste da função de soma', () => {
+  // Execute a função que você deseja testar
+  const resultado = soma(2, 3);
+
+  // Verifique se o resultado está correto usando os métodos de asserção do Jest
+  expect(resultado).toBe(5);
+});
+```
+
+3. Execute os testes:
+   Execute os testes usando um comando de teste fornecido pelo framework que você está usando. Por exemplo, com o Jest, você pode executar `npx jest` no terminal para executar todos os testes no seu projeto.
+
+Ao executar os testes, você verá os resultados indicando se cada teste passou ou falhou. Se um teste falhar, você pode usar as informações fornecidas para depurar e corrigir problemas em sua implementação.
+
+Essas são as etapas básicas para escrever testes unitários em JavaScript usando o Jest. Cada framework de teste tem sua própria sintaxe e recursos específicos, mas a ideia geral é a mesma: definir funções de teste, executá-las e verificar se os resultados estão corretos usando asserções. Você pode explorar recursos avançados desses frameworks, como testes assíncronos, mocks e spies, para lidar com casos de teste mais complexos.
+

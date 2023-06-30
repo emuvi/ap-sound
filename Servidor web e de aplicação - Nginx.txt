@@ -23,37 +23,36 @@ Tópico. Servidor web e de aplicação - Nginx - Configuração HTTPS.
 
 Para configurar o HTTPS no servidor web Nginx, você precisa seguir alguns passos. Aqui está uma breve descrição de como configurar o HTTPS usando o Nginx:
 
-1. Certificado SSL/TLS: Assim como no Apache, o primeiro passo é obter um certificado SSL/TLS válido. Você pode adquirir um certificado de uma autoridade de certificação confiável ou gerar um certificado autoassinado para ambientes de desenvolvimento ou teste.
+Item. 1. Certificado SSL/TLS: Assim como no Apache, o primeiro passo é obter um certificado SSL/TLS válido. Você pode adquirir um certificado de uma autoridade de certificação confiável ou gerar um certificado autoassinado para ambientes de desenvolvimento ou teste.
 
-2. Configurar o arquivo de configuração: Abra o arquivo de configuração do Nginx para o seu site ou virtual host. O arquivo de configuração geralmente está localizado no diretório `/etc/nginx/conf.d/` ou `/etc/nginx/sites-available/`. Certifique-se de que o arquivo contenha as seguintes linhas ou adicione-as, se necessário:
+Item. 2. Configurar o arquivo de configuração: Abra o arquivo de configuração do Nginx para o seu site ou virtual host. O arquivo de configuração geralmente está localizado no diretório `/etc/nginx/conf.d/` ou `/etc/nginx/sites-available/`. Certifique-se de que o arquivo contenha as seguintes linhas ou adicione-as, se necessário:
 
 ```
 server {
-    listen 443 ssl;
-    server_name seu_dominio.com;
+listen 443 ssl;
+server_name seu_dominio.com;
 
-    ssl_certificate /caminho/para/o/certificado.crt;
-    ssl_certificate_key /caminho/para/a/chave_privada.key;
+ssl_certificate /caminho/para/o/certificado.crt;
+ssl_certificate_key /caminho/para/a/chave_privada.key;
 
-    # Configurações adicionais
-
-    location / {
-        # Configurações adicionais para lidar com as solicitações
-    }
+# Configurações adicionais
+location / {
+# Configurações adicionais para lidar com as solicitações
+}
 }
 ```
 
 Lembre-se de substituir `seu_dominio.com` pelo seu próprio domínio e os caminhos para o certificado e a chave privada.
 
-3. Configurar as diretivas SSL: Além das configurações básicas no arquivo de configuração, você também pode adicionar diretivas SSL adicionais para aprimorar a segurança e o desempenho. Alguns exemplos comuns incluem:
+Item. 3. Configurar as diretivas SSL: Além das configurações básicas no arquivo de configuração, você também pode adicionar diretivas SSL adicionais para aprimorar a segurança e o desempenho. Alguns exemplos comuns incluem:
 
 - `ssl_protocols`: Define os protocolos SSL/TLS permitidos, como TLSv1.2 ou TLSv1.3.
 - `ssl_ciphers`: Define os algoritmos de criptografia permitidos.
 - `ssl_prefer_server_ciphers`: Especifica se o servidor deve preferir os algoritmos de criptografia do servidor ou do cliente.
 
-4. Reiniciar o Nginx: Após fazer as alterações no arquivo de configuração, reinicie o servidor Nginx para aplicar as configurações. Use o comando `sudo service nginx restart`.
+Item. 4. Reiniciar o Nginx: Após fazer as alterações no arquivo de configuração, reinicie o servidor Nginx para aplicar as configurações. Use o comando `sudo service nginx restart`.
 
-5. Verificar a configuração: Verifique se a configuração está correta reiniciando o Nginx e verificando os arquivos de log. Se houver erros, os logs geralmente fornecem informações úteis para solucionar problemas.
+Item. 5. Verificar a configuração: Verifique se a configuração está correta reiniciando o Nginx e verificando os arquivos de log. Se houver erros, os logs geralmente fornecem informações úteis para solucionar problemas.
 
 Após seguir essas etapas, seu servidor Nginx estará configurado para usar o HTTPS. Certifique-se de que as portas 443 (HTTPS) estejam abertas em seu firewall e que seu domínio esteja apontando para o IP correto do servidor.
 
@@ -63,38 +62,38 @@ Tópico. Servidor web e de aplicação - Nginx - Configurar como balanceador de 
 
 Para configurar o Nginx como um balanceador de carga HTTP, você pode usar o recurso de proxy reverso do Nginx. Aqui está uma breve descrição de como configurar o Nginx como um balanceador de carga:
 
-1. Configurar os backends: Primeiro, você precisa configurar os backends, ou seja, os servidores que receberão as solicitações do balanceador de carga. Abra o arquivo de configuração do Nginx e adicione as seguintes linhas para cada backend:
+Item. 1. Configurar os backends: Primeiro, você precisa configurar os backends, ou seja, os servidores que receberão as solicitações do balanceador de carga. Abra o arquivo de configuração do Nginx e adicione as seguintes linhas para cada backend:
 
 ```
 upstream backend_cluster {
-    server ip_do_backend1:porta;
-    server ip_do_backend2:porta;
-    # Adicione mais servidores conforme necessário
+server ip_do_backend1:porta;
+server ip_do_backend2:porta;
+# Adicione mais servidores conforme necessário
 }
 ```
 
 Certifique-se de substituir `ip_do_backend1` e `ip_do_backend2` pelos endereços IP dos seus servidores backend e `porta` pela porta em que eles estão ouvindo as solicitações.
 
-2. Configurar o balanceador de carga: Agora, você precisa configurar o balanceador de carga propriamente dito. Adicione as seguintes linhas ao seu arquivo de configuração:
+Item. 2. Configurar o balanceador de carga: Agora, você precisa configurar o balanceador de carga propriamente dito. Adicione as seguintes linhas ao seu arquivo de configuração:
 
 ```
 server {
-    listen 80;
-    server_name seu_dominio.com;
+listen 80;
+server_name seu_dominio.com;
 
-    location / {
-        proxy_pass http://backend_cluster;
-        proxy_set_header Host $host;
-        proxy_set_header X-Real-IP $remote_addr;
-    }
+location / {
+proxy_pass http://backend_cluster;
+proxy_set_header Host $host;
+proxy_set_header X-Real-IP $remote_addr;
+}
 }
 ```
 
 Lembre-se de substituir `seu_dominio.com` pelo seu próprio domínio.
 
-3. Reiniciar o Nginx: Após fazer as alterações no arquivo de configuração, reinicie o servidor Nginx para aplicar as configurações. Use o comando `sudo service nginx restart`.
+Item. 3. Reiniciar o Nginx: Após fazer as alterações no arquivo de configuração, reinicie o servidor Nginx para aplicar as configurações. Use o comando `sudo service nginx restart`.
 
-4. Verificar a configuração: Verifique se a configuração está correta reiniciando o Nginx e verificando os arquivos de log. Além disso, você pode testar o balanceador de carga enviando solicitações HTTP e verificando se elas estão sendo distribuídas entre os servidores backend.
+Item. 4. Verificar a configuração: Verifique se a configuração está correta reiniciando o Nginx e verificando os arquivos de log. Além disso, você pode testar o balanceador de carga enviando solicitações HTTP e verificando se elas estão sendo distribuídas entre os servidores backend.
 
 Você também pode ajustar as configurações adicionais do balanceador de carga, como o algoritmo de balanceamento de carga, o controle de sessão e as configurações de proxy reverso, conforme necessário. O Nginx oferece uma variedade de recursos poderosos para personalizar o comportamento do balanceador de carga.
 

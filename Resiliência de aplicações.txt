@@ -1,21 +1,21 @@
-Resiliência de aplicações
+Capítulo. Resiliência de aplicações.
 
 
 A resiliência de aplicações é a capacidade de uma aplicação de se manter operacional mesmo diante de falhas ou interrupções em sua infraestrutura ou serviços subjacentes. Trata-se de um princípio importante no desenvolvimento de sistemas que visa garantir a disponibilidade, a confiabilidade e o desempenho adequado das aplicações, mesmo em situações adversas.
 
 A resiliência de aplicações envolve a implementação de estratégias e práticas que permitem lidar com falhas e se recuperar delas de forma rápida e eficiente. Alguns dos principais aspectos relacionados à resiliência de aplicações incluem:
 
-1. Tolerância a falhas: As aplicações resilientes são projetadas para lidar com falhas em componentes ou serviços. Isso pode envolver a implementação de mecanismos de recuperação automática, como a detecção de falhas e a reconfiguração de serviços, a fim de minimizar o impacto em toda a aplicação.
+Item. 1. Tolerância a falhas: As aplicações resilientes são projetadas para lidar com falhas em componentes ou serviços. Isso pode envolver a implementação de mecanismos de recuperação automática, como a detecção de falhas e a reconfiguração de serviços, a fim de minimizar o impacto em toda a aplicação.
 
-2. Redundância: A utilização de redundância em diferentes níveis da aplicação é uma prática comum para aumentar a resiliência. Isso pode incluir a replicação de servidores, bancos de dados ou outros componentes críticos, de modo que uma falha em um único componente não cause a indisponibilidade da aplicação como um todo.
+Item. 2. Redundância: A utilização de redundância em diferentes níveis da aplicação é uma prática comum para aumentar a resiliência. Isso pode incluir a replicação de servidores, bancos de dados ou outros componentes críticos, de modo que uma falha em um único componente não cause a indisponibilidade da aplicação como um todo.
 
-3. Escalabilidade: A capacidade de escalar a aplicação de forma horizontal ou vertical é fundamental para lidar com picos de tráfego, demanda crescente ou falhas em componentes individuais. Ao projetar uma aplicação resiliente, é importante considerar a escalabilidade para que ela possa se adaptar a essas situações.
+Item. 3. Escalabilidade: A capacidade de escalar a aplicação de forma horizontal ou vertical é fundamental para lidar com picos de tráfego, demanda crescente ou falhas em componentes individuais. Ao projetar uma aplicação resiliente, é importante considerar a escalabilidade para que ela possa se adaptar a essas situações.
 
-4. Recuperação de desastres: Em situações extremas, como desastres naturais ou falhas catastróficas, é importante ter um plano de recuperação de desastres. Isso envolve a criação de cópias de segurança dos dados, a utilização de data centers secundários ou a migração para serviços em nuvem, garantindo a continuidade da aplicação em cenários adversos.
+Item. 4. Recuperação de desastres: Em situações extremas, como desastres naturais ou falhas catastróficas, é importante ter um plano de recuperação de desastres. Isso envolve a criação de cópias de segurança dos dados, a utilização de data centers secundários ou a migração para serviços em nuvem, garantindo a continuidade da aplicação em cenários adversos.
 
-5. Monitoramento e observabilidade: A capacidade de monitorar e diagnosticar o estado da aplicação é essencial para a resiliência. Isso inclui o uso de ferramentas de monitoramento em tempo real, registros de eventos e métricas, permitindo identificar problemas e agir rapidamente para corrigi-los.
+Item. 5. Monitoramento e observabilidade: A capacidade de monitorar e diagnosticar o estado da aplicação é essencial para a resiliência. Isso inclui o uso de ferramentas de monitoramento em tempo real, registros de eventos e métricas, permitindo identificar problemas e agir rapidamente para corrigi-los.
 
-6. Testes de resiliência: Realizar testes de resiliência é uma prática importante para garantir que a aplicação seja capaz de lidar com diferentes cenários de falha. Isso pode envolver testes de carga, testes de estresse e simulações de falhas, a fim de avaliar o desempenho e a estabilidade da aplicação sob condições adversas.
+Item. 6. Testes de resiliência: Realizar testes de resiliência é uma prática importante para garantir que a aplicação seja capaz de lidar com diferentes cenários de falha. Isso pode envolver testes de carga, testes de estresse e simulações de falhas, a fim de avaliar o desempenho e a estabilidade da aplicação sob condições adversas.
 
 Em resumo, a resiliência de aplicações é uma abordagem que visa garantir a disponibilidade contínua e o bom desempenho das aplicações, mesmo diante de falhas ou interrupções. Ao adotar práticas e estratégias de resiliência, é possível aumentar a confiabilidade e a capacidade de recuperação das aplicações, oferecendo uma melhor experiência para os usuários finais.
 

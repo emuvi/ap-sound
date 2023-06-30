@@ -29,17 +29,17 @@ O algoritmo de criptografia assimétrica Diffie-Hellman (DH) é amplamente utili
 
 Aqui está um resumo de como funciona o algoritmo de criptografia assimétrica DH:
 
-1. Parâmetros de chave pública: Antes da comunicação começar, as duas partes concordam em alguns parâmetros comuns, incluindo um número primo grande (p) e um número inteiro (g) chamado de gerador. Esses parâmetros são públicos e podem ser conhecidos por qualquer pessoa.
+Item. 1. Parâmetros de chave pública: Antes da comunicação começar, as duas partes concordam em alguns parâmetros comuns, incluindo um número primo grande (p) e um número inteiro (g) chamado de gerador. Esses parâmetros são públicos e podem ser conhecidos por qualquer pessoa.
 
-2. Geração das chaves privadas: Cada parte gera sua própria chave privada, que é um número aleatório e secreto. Vamos chamar essas chaves privadas de "a" e "b" para as duas partes.
+Item. 2. Geração das chaves privadas: Cada parte gera sua própria chave privada, que é um número aleatório e secreto. Vamos chamar essas chaves privadas de "a" e "b" para as duas partes.
 
-3. Cálculo das chaves públicas: Com base nas chaves privadas geradas, cada parte calcula sua chave pública. A chave pública é calculada usando a fórmula: A = g^a mod p para a primeira parte e B = g^b mod p para a segunda parte.
+Item. 3. Cálculo das chaves públicas: Com base nas chaves privadas geradas, cada parte calcula sua chave pública. A chave pública é calculada usando a fórmula: A = g^a mod p para a primeira parte e B = g^b mod p para a segunda parte.
 
-4. Troca das chaves públicas: As partes trocam suas chaves públicas através de um canal inseguro, como a internet.
+Item. 4. Troca das chaves públicas: As partes trocam suas chaves públicas através de um canal inseguro, como a internet.
 
-5. Cálculo da chave de sessão: Com base nas chaves públicas recebidas, cada parte calcula a chave de sessão compartilhada usando a fórmula: S = B^a mod p para a primeira parte e S = A^b mod p para a segunda parte.
+Item. 5. Cálculo da chave de sessão: Com base nas chaves públicas recebidas, cada parte calcula a chave de sessão compartilhada usando a fórmula: S = B^a mod p para a primeira parte e S = A^b mod p para a segunda parte.
 
-6. Chave de sessão compartilhada: Agora, as duas partes têm uma chave de sessão compartilhada que pode ser usada para criptografar e descriptografar a comunicação entre elas. A chave de sessão é única para a sessão atual e não é transmitida pela rede.
+Item. 6. Chave de sessão compartilhada: Agora, as duas partes têm uma chave de sessão compartilhada que pode ser usada para criptografar e descriptografar a comunicação entre elas. A chave de sessão é única para a sessão atual e não é transmitida pela rede.
 
 O algoritmo DH é baseado no problema do logaritmo discreto, que é computacionalmente difícil de resolver. Isso significa que mesmo que um invasor conheça os parâmetros públicos, as chaves públicas trocadas e observe a comunicação, é computacionalmente impraticável para ele calcular a chave de sessão sem a chave privada correta.
 
@@ -53,15 +53,15 @@ O algoritmo de criptografia assimétrica RSA (Rivest-Shamir-Adleman) é amplamen
 
 Aqui está um resumo de como funciona o algoritmo de criptografia assimétrica RSA:
 
-1. Geração das chaves: O processo começa com a geração do par de chaves. Isso envolve a seleção de dois números primos grandes e distintos, p e q. A multiplicação desses dois primos produz um número chamado n, que será usado como parte da chave pública e privada. Além disso, é calculado o valor da função totiente de Euler, denotada como φ(n), que é usada para determinar a chave privada. O processo de geração das chaves também envolve a seleção de um número inteiro e primo menor que φ(n), conhecido como e, que será usado como parte da chave pública.
+Item. 1. Geração das chaves: O processo começa com a geração do par de chaves. Isso envolve a seleção de dois números primos grandes e distintos, p e q. A multiplicação desses dois primos produz um número chamado n, que será usado como parte da chave pública e privada. Além disso, é calculado o valor da função totiente de Euler, denotada como φ(n), que é usada para determinar a chave privada. O processo de geração das chaves também envolve a seleção de um número inteiro e primo menor que φ(n), conhecido como e, que será usado como parte da chave pública.
 
-2. Chave pública: A chave pública consiste no par (n, e). A chave pública é compartilhada com qualquer pessoa que queira enviar uma mensagem criptografada para o proprietário da chave privada. A chave pública é usada para criptografar a mensagem.
+Item. 2. Chave pública: A chave pública consiste no par (n, e). A chave pública é compartilhada com qualquer pessoa que queira enviar uma mensagem criptografada para o proprietário da chave privada. A chave pública é usada para criptografar a mensagem.
 
-3. Chave privada: A chave privada consiste no par (n, d). O valor de d é calculado usando a função totiente de Euler φ(n), o número primo e e. A chave privada é mantida em segredo e é usada para descriptografar a mensagem criptografada.
+Item. 3. Chave privada: A chave privada consiste no par (n, d). O valor de d é calculado usando a função totiente de Euler φ(n), o número primo e e. A chave privada é mantida em segredo e é usada para descriptografar a mensagem criptografada.
 
-4. Criptografia: Para criptografar uma mensagem usando a chave pública, o remetente converte a mensagem em um número inteiro e aplica uma fórmula matemática para calcular o valor criptografado. O valor criptografado é a mensagem criptografada que será enviada ao destinatário.
+Item. 4. Criptografia: Para criptografar uma mensagem usando a chave pública, o remetente converte a mensagem em um número inteiro e aplica uma fórmula matemática para calcular o valor criptografado. O valor criptografado é a mensagem criptografada que será enviada ao destinatário.
 
-5. Descriptografia: O destinatário recebe a mensagem criptografada e usa sua chave privada para descriptografar a mensagem. O destinatário aplica uma fórmula matemática para obter o valor original da mensagem.
+Item. 5. Descriptografia: O destinatário recebe a mensagem criptografada e usa sua chave privada para descriptografar a mensagem. O destinatário aplica uma fórmula matemática para obter o valor original da mensagem.
 
 O algoritmo RSA é baseado na dificuldade de fatorar números inteiros grandes em seus fatores primos. A segurança do algoritmo depende da dificuldade de calcular a chave privada d a partir da chave pública (n, e) sem conhecer os fatores primos p e q.
 
