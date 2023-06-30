@@ -362,15 +362,35 @@ Item. Ferramentas de gestão de configuração - CI-CD.
 
 Item. Ferramentas de gestão de configuração - GitLab CI.
 
-Item. Protocolos HTTPS, SSL-TLS, HTTP-2, gRPC e WebSockets.
+Item. Protocolos Web.
+
+Item. Protocolo Web - HTTP.
+
+Item. Protocolo Web - HTTPS.
+
+Item. Protocolo Web - SSL-TLS.
+
+Item. Protocolo Web - HTTP-2.
+
+Item. Protocolo Web - gRPC.
+
+Item. Protocolo Web - WebSockets.
 
 Item. Ferramentas de integração assíncrona.
 
 Item. Protocolos AMQP e MQTT.
 
-Item. Ferramentas Kafka, NATS Streaming, ActiveMQ, RabbitMQ e WebSphereMQ.
+Item. Ferramentas de mensageria.
 
-Item. Containers.
+Item. Ferramenta de mensageria - Kafka.
+
+Item. Ferramenta de mensageria - NATS Streaming.
+
+Item. Ferramenta de mensageria - ActiveMQ.
+
+Item. Ferramenta de mensageria - RabbitMQ.
+
+Item. Ferramenta de mensageria - WebSphereMQ.
 
 Item. Containers - Docker.
 
