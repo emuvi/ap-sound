@@ -1,25 +1,5 @@
 Capítulo. Engenharia de Software e Sistemas - Gerenciamento de Produtos de Software. Kanban, Lean. MVP. Low-code.
 
-Concursos
-
-(Profs. Diego
-Carvalho e Fernando
-
-Pedrosa)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Engenharia de software -
-
-2023 (Pós-Edital)
-
-Autor:
-
-Diego Carvalho
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Índice
 
@@ -60,12 +40,6 @@ Diego Carvalho
 18) Low-No-Code - Teoria
 
 
-
-
-
-
-
-
 APRESENTAçÃo
 
 O assunto da aula de hoje é: Metodologias Ágeis! Vamos ver agora um novo paradigma de
@@ -92,12 +66,6 @@ tempo sobrando e quer vertudo, vejam também as incidências baixas e baixíssim
 Além disso, essas faixas não são por banca - é baseado tanto na quantidade de vezes que caiu em
 prova independentemente da banca e também em minhas avaliações sobre cada assunto...
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 #ATENÇÃO
 
@@ -139,18 +107,9 @@ final da aula na lista de exercícios e possuem comentários bem mais
 completos, abrangentes e direcionados.
 
 
-
-
-
-
-
-
-QQ 
+QQ
 
 VIHVw. estra tegiaconcursos. com. br
-
-
-
 
 
 Conceitos Básicos
@@ -188,8 +147,6 @@ e falou
 que não faz mais tanto planejamento; e assim por diante. Então, no decorrer da
 reunião, foi sendo
 criado um consenso entre os participantes.
-
-
 
 
 Foi aí que alguns acharam que era o momento de formalizar e elevar aquela reunião em
@@ -252,12 +209,6 @@ Notem que a coluna da esquerda representa os anseios das metodologias ágeis, en
 a coluna
 da direita representa o que as metodologias tradicionais costumavam executar. Agora prestem
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 atenção: o manifesto ágil afirma que, mesmo havendo valor nos itens à direita,
 valorizam-se
@@ -327,12 +278,6 @@ repetir,
 porque esse assunto cai bastante em prova!
 
 
-
-
-
-
-
-
 No ágil, documentação é descartável? Não, ela é útil para ajudar a comunicação e a
 colaboração dos
 integrantes da equipe, além de melhorar a transferência de conhecimento, preservar
@@ -398,18 +343,10 @@ tempo - isso é
 pensamento do século passado (se muito!). Acreditem: mudanças vão ocorrer! Planejar é bom
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 demais. É tão bom que é recomendável refazer o planejamento a todo momento, de forma
 contínua e, não, fazer um planejamento estático e simplesmente segui-lo com
 todo rigor
 ignorando mudanças externas que venham a ocorrer. Fechou?
-
-
 
 
 Agilidade x Velocidade
@@ -453,12 +390,6 @@ olímpico. Por outro lado, vejam o final da corrida quando ele não tem mais que
 reagir a mudanças,
 ele só tem que correr até o fim dos 100 metros. Ele termina muito distante do segundo lugar! Por
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 que? Porque ele é um cara extremamente veloz, logo ele destoa de todos os outros com
 muita
@@ -524,17 +455,6 @@ software
 como um todo.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 Princípios Ágeis
 
 INCIDÊNCIA EM PROVA: ALTA
@@ -563,12 +483,6 @@ Pessoas de negócio e desenvolvedores devem trabalhar diariamente em conjunto po
 Construa projetos em torno de indivíduos motivados. Dê a eles o ambiente e o suporte necessário e
 confie neles
 para fazer o trabalho.
-
-
-
-
-
-
 
 
 O método mais eficiente e eficaz de transmitir informações para e entre uma equipe de
@@ -644,13 +558,6 @@ PLANEJAMENTO
 de todo o projeto. A restrição se dá apenas em
 possuir os detalhes do trabalho para a próxima
 iteração.
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Pode exigir um grande esforço e equipe para
@@ -754,17 +661,6 @@ planejamento das releases para as entregas
 significativas.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 Detalhada desde o início do projeto.
 
 Nas fases iniciais e nas principais validações
@@ -806,12 +702,6 @@ priorização dos riscos.
 Melhor resultado em projetos cujo escopo é
 dinâmico e construído durante a execução do
 projeto.
-
-
-
-
-
-
 
 
 Método Ágil x Método Lean
@@ -888,8 +778,6 @@ recomendando como deve ser o resultado da aplicação antes do início de
 seu desenvolvimento.
 
 
-
-
 PRINCÍPIO #3
 
 PRINCÍPIO #4
@@ -959,16 +847,6 @@ PRINCÍPIOS
 FOCA NO PROCESSO DE... PADRONIZAÇÃO E CONFORMIDADE
 AUTOGERENCIAMENTO P/ MAXIMIZAR AUTONOMIA
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 RESUMo
 
@@ -1042,16 +920,6 @@ OSSD SCRUMBAN
 BADM
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 NÓS SEGUIMOS ESSES PRINCÍPIOS..
 
 Nossa maior prioridade é satisfazer o cliente através da entrega contínua e adiantada
@@ -1085,16 +953,6 @@ devem ser capazes de manter um ritmo constante indefinidamente.
 Contínua atenção à excelência técnica e bom design aumenta a agilidade.
 Simplicidade-a arte de maximizara quantidade de trabalho não realizado-é essencial.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 As melhores arquiteturas, requisitos e designs emergem de equipes auto-organizáveis.
 
@@ -1224,17 +1082,6 @@ planejamento das releases para as entregas
 significativas.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 e podem ser traumáticas aos envolvidos
 quanto às suas expectativas.
 
@@ -1299,16 +1146,6 @@ AUTOGERENCIAMENTO P/ MAXIMIZAR AUTONOMIA
 Q) PARA MAIS DICAS: WWW.INSTA6RAM.COM/PROFESSORDIEGOCARVALHO
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 QUESTõES CoMENTADAS - CESPE
 
 í. (CESPE / BANRISUL - 2022) O modelo ágil não pode ser aplicado a qualquer processo
@@ -1364,12 +1201,6 @@ geram
 excessiva documentação.
 
 Gabarito: Errado
-
-
-
-
-
-
 
 
 4- (CESPE/ EBC-2011) O que os métodos ágeis buscam é como evitaras mudanças desde o
@@ -1429,8 +1260,6 @@ desenvolvimento de sistemas.
 Comentários:
 
 METODOLOGIAS ÁGEIS
-
-
 
 
 SCRÜM CRYSTAL
@@ -1502,8 +1331,6 @@ exemplo de linguagem de modelagem? UML (Unified Modeling Language)!
 Gabarito: Errado
 
 
-
-
 io.(CESPE / EBC - 2011) É conveniente que o contrato, entre cliente e
 fornecedor, para o
 desenvolvimento de um sistema computacional, contenha a lista de requisitos para o
@@ -1563,12 +1390,6 @@ usuários.
 d) A documentação de projeto deve ser feita pelo próprio desenvolvedor,
 seguindo padrões
 simplificados.
-
-
-
-
-
-
 
 
 e) Para atingir os objetivos de agilidade exigidos, os desenvolvedores devem
@@ -1632,16 +1453,6 @@ que a entrega
 completa de um software garante a satisfação do cliente.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 De acordo com o i° Princípio Ágil: Nossa maior prioridade é satisfazer o cliente
@@ -1696,12 +1507,6 @@ competitiva para o cliente.
 Gabarito: Errado
 
 
-
-
-
-
-
-
 i8.(CESPE / EBSERH - 2018) Nas metodologias de desenvolvimento ágeis, mudanças em
 requisitos são bem recebidas, mesmo em fases mais avançadas do desenvolvimento.
 
@@ -1715,16 +1520,6 @@ competitiva para o cliente.
 
 Gabarito: Correto
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - FCC
 
@@ -1789,19 +1584,6 @@ e trabalho em conjunto.
 Gabarito: Letra A
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 QUESTõES CoMENTADAS - FG V
 
 Item. 2. (FGV/ IMBEL-2021) Com referência aos valores do The Agile Manifesto, analise as afirmativas
@@ -1857,8 +1639,6 @@ d) se somente as afirmativas I e II estiverem corretas.
 e) se todas as afirmativas estiverem corretas.
 
 Comentários:
-
-
 
 
 (I) Correto, idealmente ele deve se adaptar de forma incremental; (II) Errado, a
@@ -1926,12 +1706,6 @@ segunda opção.
 Gabarito: Letra B
 
 
-
-
-
-
-
-
 5- (FGV/ TJ-RO - 2015) O manifesto ágil tem por princípio que:
 
 a) mudanças nos requisitos são bem-vindas, mesmo tardiamente no desenvolvimento;
@@ -1985,16 +1759,6 @@ d) negociação de contratos mais que colaboração com o cliente;
 
 e) negociação de contratos mais que indivíduos e interações.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -2052,8 +1816,6 @@ o desenvolvimento ágil de software. A respeito desses princípios, assinale a a
 a) As melhores arquiteturas, requisitos e designs emergem de equipes
 lideradas pelo
 profissional mais sênior.
-
-
 
 
 b) Em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz e
@@ -2114,16 +1876,6 @@ patrocinadores, desenvolvedores e usuários devem ser capazes de manter um ritmo
 constante
 indefinidamente; (e) Correto.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra E
 
@@ -2186,12 +1938,6 @@ que foi dado maior valor:
 a) aos processos e ferramentas.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 b) à resposta a modificações.
 
 c) à documentação abrangente.
@@ -2210,16 +1956,6 @@ contratos; (4) Responder a mudanças acima de seguir fielmente um plano.
 
 Gabarito: Letra B
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - FG V
 
@@ -2276,8 +2012,6 @@ d) se somente as afirmativas I e II estiverem corretas.
 e) se todas as afirmativas estiverem corretas.
 
 Comentários:
-
-
 
 
 (I) Correto, idealmente ele deve se adaptar de forma incremental; (II) Errado, a
@@ -2345,12 +2079,6 @@ segunda opção.
 Gabarito: Letra B
 
 
-
-
-
-
-
-
 4- (FGV/ TJ-RO - 2015) O manifesto ágil tem por princípio que:
 
 a) mudanças nos requisitos são bem-vindas, mesmo tardiamente no desenvolvimento;
@@ -2404,16 +2132,6 @@ d) negociação de contratos mais que colaboração com o cliente;
 
 e) negociação de contratos mais que indivíduos e interações.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -2471,8 +2189,6 @@ o desenvolvimento ágil de software. A respeito desses princípios, assinale a a
 a) As melhores arquiteturas, requisitos e designs emergem de equipes
 lideradas pelo
 profissional mais sênior.
-
-
 
 
 b) Em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz e
@@ -2533,16 +2249,6 @@ patrocinadores, desenvolvedores e usuários devem ser capazes de manter um ritmo
 constante
 indefinidamente; (e) Correto.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Letra E
 
@@ -2605,12 +2311,6 @@ que foi dado maior valor:
 a) aos processos e ferramentas.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 b) à resposta a modificações.
 
 c) à documentação abrangente.
@@ -2629,16 +2329,6 @@ contratos; (4) Responder a mudanças acima de seguir fielmente um plano.
 
 Gabarito: Letra B
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
@@ -2700,8 +2390,6 @@ Respostas
 a mudanças do que seguir um plano. Ou seja, embora itens à direita sejam
 importantes,
 valorizamos mais os que estão à esquerda".
-
-
 
 
 d) "Estamos descobrindo melhores maneiras de vender softwares, fazendo-o e ajudando outros
@@ -2769,16 +2457,6 @@ se
 utiliza mais a comunicação informal do que reuniões formais com documentos escritos.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 (a) Errado, não são estáticos - são incrementais; (b) Correto; (c) Errado, não são
@@ -2839,8 +2517,6 @@ Item. 5. (INSTITUTO AOCP / EMPREL- 2019) E m se tratando de desenvolvimento de s
 termo qualidade é bastante subjetivo. Entretanto, no desenvolvimento ágil, é claro o conceito
 
 
-
-
 de qualidade. Sabendo disso, assinale a alternativa que apresenta corretamente o
 conceito de
 qualidade no desenvolvimento ágil.
@@ -2899,12 +2575,6 @@ de software de valor."
 d) "A prioridade é satisfazer ao gerente de projetos por meio de uma entrega única
 de software
 de valor."
-
-
-
-
-
-
 
 
 e) "A prioridade é satisfazer ao cliente por meio de entregas contínuas e frequentes
@@ -2971,12 +2641,6 @@ contratos;
 responder a mudanças menor do que seguir um plano.
 
 
-
-
-
-
-
-
 Comentários:
 
 A questão vacila ao dizer no enunciado "indivíduos e iterações" - o correto
@@ -3038,12 +2702,6 @@ comportamento de acordo.
 Gabarito: Letra E
 
 
-
-
-
-
-
-
 9- (INSTITUTO AOCP / PRODEB - 2018) Assinale a alternativa que apresenta uma característica
 presente em Equipes ágeis:
 
@@ -3100,12 +2758,6 @@ não é
 necessário parar o desenvolvimento.
 
 Gabarito: Letra B
-
-
-
-
-
-
 
 
 li. (INSTITUTO AOCP / PRODEB - 2018) Com a realização do Manifesto Ágil em 2001 por
@@ -3169,12 +2821,6 @@ prioridade é satisfazer
 o cliente através da entrega contínua e adiantada de software com valor agregado; (e) Errado,
 
 
-
-
-
-
-
-
 entregar frequentemente software funcionando, de poucas semanas a poucos
 meses, com
 preferência à menor escala de tempo.
@@ -3233,12 +2879,6 @@ software.
 ( ) Efetuar testes constantemente permite detectar defeitos mais cedo e da
 forma menos
 custosa possível.
-
-
-
-
-
-
 
 
 ( ) O uso de uma ferramenta robusta de modelagem e uma completa
@@ -3304,16 +2944,6 @@ abrangente; (II)
 Correto; (III) Correto.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Letra D
 
 i7.(UNIRIO / UNIRIO - 2014) Dentre os princípios do manifesto ágil para
@@ -3375,8 +3005,6 @@ d) Software em funcionamento mais que documentação abrangente.
 e) Indivíduos e interação entre eles mais que processos e ferramentas.
 
 Comentários:
-
-
 
 
 (í) Indivíduos e interações acima de processos e ferramentas; (2) Software em
@@ -3441,12 +3069,6 @@ b) indivíduos e interações em vez de processos e ferramentas.
 c) documentação extensiva operacional em vez de software funcional.
 
 
-
-
-
-
-
-
 d) indivíduos e intenções junto a processos e ferramentas.
 
 e) seguimento de um plano em vez de resposta a mudança.
@@ -3504,12 +3126,6 @@ atividades:
 a) são planejadas com antecedência, e seu progresso é medido em
 relação ao plano
 estabelecido.
-
-
-
-
-
-
 
 
 b) são realizadas com base na abordagem iterativa/incremental de desenvolvimento.
@@ -3573,12 +3189,6 @@ SOMMERVILLE, I. Engenharia de software. 9. ed. São Paulo: Person Education, 201
 Os cinco princípios citados no texto são:
 
 
-
-
-
-
-
-
 a) envolvimento do cliente; entregas agendadas; pessoas e processos são
 igualmente
 importantes; aceitar mudanças; e manter a simplicidade.
@@ -3636,16 +3246,6 @@ não
 devem desenvolver maneiras próprias de trabalhar, podendo o processo ser prescritivo.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 III- Deve-se ter em mente que os requisitos do sistema irão mudar, por isso, o
 sistema deve ser
 projetado de maneira a acomodar essas mudanças.
@@ -3673,12 +3273,6 @@ requisitos
 são bem-vindas, mesmo tardiamente no desenvolvimento.
 
 Gabarito: Letra C
-
-
-
-
-
-
 
 
 LISTA DE QUESTõES - CESPE
@@ -3741,8 +3335,6 @@ do
 sistema e não com base no conjunto de requisitos.
 
 
-
-
 íi. (CESPE / MPOG - 2015) Metodologias de desenvolvimento ágil enfocam atividades de
 projeto
 e implementação, desconsiderando as atividades de elicitação de requisitos e a produção
@@ -3803,19 +3395,6 @@ mudanças em
 requisitos são bem recebidas, mesmo em fases mais avançadas do desenvolvimento.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 GABARITo
 
 Item. 1. ERRADO 7- CORRETO
@@ -3836,16 +3415,6 @@ Item. 16. CORRETO
 Item. 6. ERRADO 12. LETRA A
 Item. 18. CORRETO
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 LISTA DE QUESTõES - FCC
 
@@ -3910,22 +3479,10 @@ e trabalho em conjunto.
 Gabarito: Letra A
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 GABARITo
 
 Item. 1. LETRA A
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 LISTA DE QUESTõES - FCV
 
@@ -3986,8 +3543,6 @@ não atendiam as suas necessidades. Claudia decidiu, então, implantar métodos
 desenvolvimento e definiu os seguintes princípios:
 
 I. Mudanças nos requisitos são bem-vindas, mesmo tardiamente no desenvolvimento.
-
-
 
 
 II. O método mais eficiente e eficaz de transmitir informações para e entre uma
@@ -4052,12 +3607,6 @@ para a
 iteração.
 
 
-
-
-
-
-
-
 b) O método mais eficiente e eficaz de transmitir informações para e entre uma
 equipe de
 desenvolvimento é por meio de conversa face a face.
@@ -4111,12 +3660,6 @@ constante indefinidamente evitando interrupções e intervalos regulares;
 e) as melhores arquiteturas, requisitos e designs emergem de equipes auto-organizáveis.
 
 
-
-
-
-
-
-
 g. (FGV / BANESTES - 2018) Um dos valores relacionados ao ambiente ágil de
 desenvolvimento
 e:
@@ -4162,16 +3705,6 @@ d) à negociação do contrato.
 e) ao cumprimento do plano.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 GABARITo
 
 Item. 1. LETRA B 5- LETRA B
@@ -4184,12 +3717,6 @@ Item. 10. LETRAC
 íi. LETRA B
 
 4- LETRA A 8. LETRA E
-
-
-
-
-
-
 
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
@@ -4255,12 +3782,6 @@ seguir um
 plano. Ou seja, embora itens à direita sejam importantes, valorizamos mais os que
 estão à
 esquerda".
-
-
-
-
-
-
 
 
 3- (IESES /SCGás-2019) Identifique a opção correta para conceituar desenvolvimentos ágeis ou,
@@ -4333,13 +3854,6 @@ de forma
 a refletir as necessidades de mudança dos clientes.
 
 
-
-
-
-
-
-
-
 d) Nos processos dirigidos a planos todas as rotinas são empíricas e, a avaliação do
 processo
 considera a comparação com um planejamento final a ser definido. Já nos processos
@@ -4399,8 +3913,6 @@ de valor."
 e) "A prioridade é satisfazer ao cliente por meio de entregas contínuas e frequentes
 de software
 de valor."
-
-
 
 
 7- (AJURI / Desenvolve - RR - 2018) Desenvolvimento ágil de software (em inglês:
@@ -4471,12 +3983,6 @@ Dando a eles o
 ambiente e suporte necessário.
 
 
-
-
-
-
-
-
 d) Pessoas relacionadas a negócios devem trabalhar sem interferência constante ao time
 de
 desenvolvimento.
@@ -4540,8 +4046,6 @@ d) indivíduos e interações mais que processos e ferramentas.
 e) respostas rápidas para as mudanças, ao contrário de seguir planos previamente definidos.
 
 
-
-
 Item. 12. (FCM/ IFN-MG - 2018) O Manifesto Ágil para o Desenvolvimento de Software, proposto
 por
 Beck, K. et al. (2001), propõe 12 princípios. NÃO correspondem a um desses princípios
@@ -4601,12 +4105,6 @@ custosa possível.
 ( ) O uso de uma ferramenta robusta de modelagem e uma completa
 documentação são
 imprescindíveis para o desenvolvimento ágil.
-
-
-
-
-
-
 
 
 () É importante produzir em poucas semanas uma versão inicial do software a fim de
@@ -4678,13 +4176,6 @@ comuns compartilhados portodos esses métodos.
 NÃO é considerado um princípio por trás do Manifesto Ágil:
 
 
-
-
-
-
-
-
-
 a) Responder a mudanças mais que seguir um plano.
 
 b) Colaboração com o cliente mais que negociação de contratos.
@@ -4752,8 +4243,6 @@ comuns a muitos
 dos métodos considerados ágeis e que já existiam na época.
 
 
-
-
 d) foi criado com base na ideia de que se tudo for muito bem controlado e
 documentado, os
 processos serão naturalmente ágeis.
@@ -4817,8 +4306,6 @@ igualmente
 importantes; aceitar mudanças; e manter a simplicidade.
 
 
-
-
 b) envolvimento do cliente; entrega incremental; pessoas, não processos; aceitaras
 mudanças;
 e manter a simplicidade.
@@ -4863,16 +4350,6 @@ d) Apenas II e III.
 
 e) I, lie III.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -4927,8 +4404,6 @@ Item. 24. LETRA C
 Item. 25. LETRA B
 
 Item. 26. LETRA C
-
-
 
 
 Conceitos Básicos
@@ -4994,8 +4469,6 @@ contínuo sem
 requerer estimativas. A equipe assume a responsabilidade sobre o processo e se auto-organiza para
 
 
-
-
 otimizá-lo e para ajudar a resolver seus eventuais problemas. O Kanban é construído
 sobre os
 conceitos de mudança evolucionária.
@@ -5034,8 +4507,6 @@ Galera, existem diversas diferenças entre ambos: Scrum requer iterações e o K
 -
 mas sugere-se que haja uma cadência de entradas e entregas. Quando o Kanban incorpora
 iterações, ele é tipicamente chamado Scrumban (para diferenciá-lo do Scrum original), uma vez
-
-
 
 
 que Scrum não gerencia explicitamente o trabalho em progresso e o Kanban não utiliza
@@ -5086,8 +4557,6 @@ geral, se
 for muito pequeno, qualquer limitação pode parar o processo de desenvolvimento.
 
 
-
-
 E se for muito grande? Nesse caso, muitas tarefas simultâneas levam a grandes perdas
 e confusões.
 Então, qual é o tamanho ideal? Bem, isso não existe! Não há um número mágico - é
@@ -5098,12 +4567,6 @@ utiliza o Trello, ele é uma forma de apresentar o trabalho sendo realizado, mas
 também existem
 outras ferramentas (KanbanFlow, Kanbanery, Leankit, Visual WIP, etc).
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - DIVERSAS BANCAS
 
@@ -5162,16 +4625,6 @@ progresso no
 Kanban, podendo incluirtodos os itens ou apenas aqueles selecionados para implementação.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 O WIP (Work in Progress) descreve o total de trabalho que está em progresso no
@@ -5226,16 +4679,6 @@ ao estudo e à investigação de diferentes estratégias/metodologias para
 implementar um
 sistema ágil de desenvolvimento ou gestão de projetos.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Aspectos X Y
 
@@ -5302,16 +4745,6 @@ entre
 as duas metodologias é:
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 a) processo incremental;
 
 b) processo iterativo;
@@ -5373,12 +4806,6 @@ ele é muito utilizado em conjunto com o Scrum.
 Gabarito: Correto
 
 
-
-
-
-
-
-
 i3-(FCC /TST- 2017) Um Analista de Sistemas do Tribunal Superior do Trabalho - TST,
 de modo
 hipotético, necessitou aplicar princípios ágeis e de controle usando elementos de três
@@ -5435,8 +4862,6 @@ sprints formais
 
 a) não define sprints formais nem papéis específicos para os integrantes da equipe do
 projeto.
-
-
 
 
 b) não define ciclos formais, porém, prescreve papéis específicos para todos os
@@ -5502,16 +4927,6 @@ c) F-F-V-F
 d) V-V-V-V
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 e) F-F-V-V
 
 Comentários:
@@ -5538,16 +4953,6 @@ constantemente monitorado a cada mudança, por meio de um quadro de fluxo.
 
 Gabarito: Correto
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 LISTA DE QUESTõES - DIVERSAS BANCAS
 
@@ -5620,12 +5025,6 @@ não
 prevê papéis nem cerimônias específicas.
 
 
-
-
-
-
-
-
 g. (CESPE/ PROCEMPA - 2014) Kanban considera a utilização de uma sinalização ou
 registro
 visual para gerenciaro limite de atividades em andamento, indicando se um novo trabalho
@@ -5695,12 +5094,6 @@ b) Kanban, Scrum e XP.
 c) XP, Scrum e Kanban.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 d) Scrum, XP e Kanban.
 
 e) Scrum, Kanban e XP.
@@ -5764,16 +5157,6 @@ Kanban.
 a) V-V-F-V
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 b) V-F-F-V
 
 c) F-F-V-F
@@ -5788,16 +5171,6 @@ como uma de suas práticas o gerenciamento do fluxo de trabalho, que deve ser
 monitorado,
 medido e reportado a cada estado do fluxo.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo - DIVERSAS BANCAS
 
@@ -5834,8 +5207,6 @@ Item. 15. LETRA A
 Item. 16. LETRA B
 
 Item. 17. CORRETO
-
-
 
 
 MINIMUM VIABLE PRoDUCT (MVP)
@@ -5904,8 +5275,6 @@ tudo do
 bom e do melhor.
 
 
-
-
 Quando ele se juntou à equipe, eles não lhe disseram o que era o produto, apenas os nomes das
 pessoas legais com quem ele trabalharia. A equipe ficava em um hangar aeronaves. O
 projeto
@@ -5969,12 +5338,6 @@ disso. Para a
 ThoughtWorks, Inception é esse "pouco disso". Desde que ingressei na ThoughtWorks, percebi que
 todos os projetos
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 ágeis da empresa começaram de forma semelhante. A equipe do projeto se reuniria por
 algumas semanas,
@@ -6053,16 +5416,6 @@ viável dispensa padrões de qualidade comercial, sendo suficiente que a funcion
 parcial proposta tenha um nível básico de confiabilidade.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários: O MVP (Minimum Viable Product) é uma versão simples de um produto que é dada aos
 usuários para validar as
 principais premissas do negócio. Apesar disso, no MVP os padrões de qualidade não são dispensados,
@@ -6080,12 +5433,6 @@ produto e é usado para testar o
 conceito e obter feedback dos usuários. Um protótipo, por outro lado, é uma versão básica de um
 produto ou serviço usado para
 testar ideias, processos e experiência do usuário (Errado).
-
-
-
-
-
-
 
 
 DESENVoLVIMENTo Low/No CoDE
@@ -6143,8 +5490,6 @@ modelos
 pré-construídos e automação de processos, permitindo que usuários finais
 construam aplicativos
 personalizados para suas necessidades específicas.
-
-
 
 
 Uma das principais vantagens de ambas as abordagens é a redução do tempo de
@@ -6215,12 +5560,6 @@ linha de
 código. O OutSystems é uma plataforma Low Code que oferece recursos de
 automação de
 negócios para acelerar o desenvolvimento de aplicativos corporativos.
-
-
-
-
-
-
 
 
 Cada plataforma tem suas próprias vantagens e desvantagens, dependendo do
@@ -6294,8 +5633,6 @@ no mercado (Correto).
 (TJ/CE —2022) Considere a lista de aplicações abaixo.
 
 
-
-
 I. Assistentes virtuais e ferramentas de chatbot
 
 II. App de internet banking.
@@ -6342,82 +5679,4 @@ usuários sem habilidades de programação possam criar aplicativos rapidamente 
 ferramentas visuais e recursos pré-
 construídos, independentemente do idioma utilizado (Errado).
 
-
-
-
-
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

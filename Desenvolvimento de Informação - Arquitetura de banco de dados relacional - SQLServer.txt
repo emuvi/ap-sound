@@ -1,9 +1,6 @@
 Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relacional - SQLServer.
 
 
-
-
-
 Índice
 
 1) Microsoft SQL Server 2012 ou Superior
@@ -19,11 +16,6 @@ Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relac
 6) Lista de Questões - Microsoft SQL Server - CEBRASPE
 
 7) Lista de Questões - Microsoft SQL Server - Multibancas
-
-
-
-
-
 
 
 MICRoSoFTSQLSERVER2012 ou SUPERIoR
@@ -91,11 +83,6 @@ arquivo no log de erros do SQL; IFI
 suporta mensagens no log de erros do
 SQL Server; Nova DMF para substituir
 o DBCC INPUTBUFFER (Função de
-
-
-
-
-
 
 
 Gerenciamento Dinâmico);
@@ -178,12 +165,6 @@ monitorar o log de transações e
 informações de VLF; Informações do
 
 
-
-
-
-
-
-
 MAXDOP para criar / atualizar
 estatísticas; Atualização de
 
@@ -241,16 +222,6 @@ CREDENTIAL é uma nova classe de garantia; Banco de dados
 COMPATIBILITY_LEVEL 140 é adicionado.
 
 
-
-
-
-
-
-
-
-
-
-
 SQL Server 2019
 
 (ainda não lançada)
@@ -302,16 +273,6 @@ instalar o .NET Framework 4.6.
 
 Os sistemas operacionais com suporte para SQL Server têm software de
 rede interno.
-
-
-
-
-
-
-
-
-
-
 
 
 Disco rígido
@@ -375,15 +336,6 @@ possui
 algumas edições, cada uma com suas características e funcionalidades. Após atender aos
 requisitos,
 vamos partir para a instalação do SQL Server propriamente dito.
-
-
-
-
-
-
-
-
-
 
 
 Center 1807 blog.
@@ -461,12 +413,6 @@ Faça download agora mesmo ±
 Selecione SQL Server 2017 na infraestrutura local. Em seguida, aparecerá uma tela para
 você fazer
 a opção por um tipo de instalação.
-
-
-
-
-
-
 
 
 SQL Server 2017
@@ -551,15 +497,6 @@ dessas informações veja, ocumentaçàc
 14.1805.407i
 
 Na próxima etapa, você deverá especificar o local de destino do download:
-
-
-
-
-
-
-
-
-
 
 
 SQL Server 2017 © - x
@@ -652,15 +589,6 @@ de produto apropriadas durante uma nova instalação ou a uma instalação exist
 2017.
 
 
-
-
-
-
-
-
-
-
-
 No menu disponível na Central de Instalação do SQL Server, é possível visualizar:
 
 Planejamento: fornece links para planejar documentação e ferramentas de planejamento úteis
@@ -729,15 +657,6 @@ Computador controlador de domínio Aprovado
 Plataforma WOW64 da edição Aprovado
 
 OK Cancelar
-
-
-
-
-
-
-
-
-
 
 
 Caso exista, corrija as falhas. Se não houver, o SQL Server exibe a próxima tela:
@@ -812,11 +731,6 @@ td»«nr> Vervon
 [ < Bocfr ) [ Next > ~| | Concei ] | Me»
 
 
-
-
-
-
-
 O SQL Server dá suporte a até 50 instâncias do Mecanismo de Banco de Dados em um
 único
 computador.
@@ -846,11 +760,6 @@ deverá aguardar
 alguns minutos até a conclusão e depois clicar em "Next".
 
 Antes de iniciar a instalação, o setup do SQL Server te dá um relatório de tudo que será instalado.
-
-
-
-
-
 
 
 O processo de instalação, então, começa. Aguarde alguns minutos e a instalação será
@@ -907,15 +816,6 @@ Microsoft SQL Server.
 Clique em SQL Server Management Studio, aparecerá a figura abaixo (aguarde até abrir o programa):
 
 
-
-
-
-
-
-
-
-
-
 Vamos fazer a primeira questão, a qual aborda a instalação.
 
 Item. 1. Analista Judiciário (STF)/Apoio Especializado/Suporte em Tecnologia da lnformação/2013
@@ -938,15 +838,6 @@ gerenciamento.
 Essa cópia é suficiente para o gerenciamento das instâncias.
 
 Gabarito: C
-
-
-
-
-
-
-
-
-
 
 
 CoNCEIToS SoBRE o DATABASE ENGINE
@@ -1019,16 +910,6 @@ para a linguagem R. O SQL Server 2017 oferece suporte às linguagens R
 e Python.
 
 
-
-
-
-
-
-
-
-
-
-
 Servidor do
 Machine Learning
 (Autônomo)
@@ -1096,11 +977,6 @@ SQLANSI)
 ■ Ferramentas de gerenciamento do SQL Server
 
 As seções a seguir fornecem uma breve explicação sobre cada componente.
-
-
-
-
-
 
 
 INTERFACE PARA PRoGRAMAçÃo T-SQL
@@ -1171,15 +1047,6 @@ dois modos de autenticação, SQL e Windows.
 
 Como administrador, você é capaz de configurar a segurança do SQL Server em vários níveis. Usando
 T-SQL ou SQL Server Management Studio, você pode controlar o acesso a uma determinada
-
-
-
-
-
-
-
-
-
 
 
 instância do SQL Server a uma base de dados específica, para objetos dentro desses
@@ -1254,15 +1121,6 @@ Services e
 o Integration Services. Desenvolvedores terão uma experiência familiar e os administradores
 
 
-
-
-
-
-
-
-
-
-
 de banco de dados terão um único utilitário abrangente que combina ferramentas gráficas
 fáceis de usar com sofisticadas capacidades de script.
 
@@ -1295,12 +1153,6 @@ transferência diurna ou noturna. Embora este método
 seja eficaz, é muitas vezes insuficiente para satisfazer a
 alta demanda de usuários por dados quase em tempo
 real.
-
-
-
-
-
-
 
 
 Se o tempo necessário para o usuário acessar os dados
@@ -1343,11 +1195,6 @@ sincronização.
 Profissionais do SQL Server debatem constantemente o uso da replicação como uma
 tecnologia para
 alta disponibilidade (HA) ou de recuperação de desastres (DR). Poderia ser usado para qualquer um?
-
-
-
-
-
 
 
 Existe uma possibilidade; no entanto, a replicação única move apenas as mudanças nos
@@ -1419,11 +1266,6 @@ deve criar e configurar um cluster de failover do Windows Server.
 Database Mirroring - Antecessor do AlwaysOn, o espelhamento de banco de dados fornece
 alta
 disponibilidade no nível do banco de dados. Ele mantém duas cópias do banco de dados em
-
-
-
-
-
 
 
 instâncias do SQL Server rodando em servidores separados. Normalmente, os
@@ -1500,11 +1342,6 @@ manter, e
 desenvolver em um ambiente SQL Server. O primeiro é o SQL Server Management Studio (SSMS),
 
 
-
-
-
-
-
 que permite executar praticamente qualquer ação que você pode pensar contra uma
 instância do
 SQL Server. É um ambiente integrado onde você pode acessar muitas instâncias do SQL
@@ -1562,15 +1399,6 @@ essa definição a
 qualquer momento.
 
 
-
-
-
-
-
-
-
-
-
 Gabarito: C
 
 CATÁLoGo INTERNo (VIEwS SYS.*)
@@ -1590,11 +1418,6 @@ cobrirmos em detalhe nesta aula. Tentaremos fornecer alguns exemplos para mostra
 valor ou a
 relevância destes objetos. Cada visão do sistema é coberta em detalhes no SQL Server Books Online,
 que inclui descrições de cada coluna.
-
-
-
-
-
 
 
 Object Explorer
@@ -1693,11 +1516,6 @@ disponíveis:
 * COLUMNS
 
 
-
-
-
-
-
 * CONSTRAINT_COLUMN_USAGE
 
 * CONSTRAINT_TABLE_USAGE
@@ -1771,11 +1589,6 @@ e é
 necessário para executar o SQL Server:
 
 
-
-
-
-
-
 master - O banco de dados mestre, como seu nome sugere, é o banco de dados primário do
 sistema. Sem ele, o SQL Server não pode iniciar. O banco de dados mestre contém as
 informações mais importantes sobre objetos dentro da instância do SQL Server, como o
@@ -1840,15 +1653,6 @@ Vamos agora resolver uma questão de provas passadas:
 Item. 3. Técnico Judiciário (TRT 9^ Região)/Apoio Especializado/Tecnologia da lnformação/2015
 
 
-
-
-
-
-
-
-
-
-
 A automatização de administração em várias instâncias do banco de dados SQL Server é
 chamada administração multisservidor. A administração multisservidor é utilizada
 
@@ -1906,11 +1710,6 @@ cuidadosa
 sobre a sua estrutura. Bancos de dados podem ser criados usando várias tecnologias e
 técnicas
 diferentes, por exemplo T-SQL e SSMS.
-
-
-
-
-
 
 
 Por padrão, todos os bancos de dados SQL Server consistem de dois tipos de arquivos. O arquivo de
@@ -1979,15 +1778,6 @@ espaço em disco) ou adicionando um arquivo de log ao banco de dados, geralmente
 disco diferente. Um arquivo de log de transações é suficiente, a menos que o espaço de log
 
 
-
-
-
-
-
-
-
-
-
 esteja se esgotando e o espaço em disco também esteja se esgotando no volume que contém
 o arquivo de log.
 
@@ -2050,11 +1840,6 @@ gigabytes (GB) e terabytes (TB) também podem ser especificados.
 megabytes por padrão).
 
 
-
-
-
-
-
 * FILEGROWTH especifica o incremento para crescimento do arquivo caso exceda o tamanho
 disponível. Também é mostrado em megabytes por padrão, mas pode ser especificado
 como uma percentagem.
@@ -2109,11 +1894,6 @@ são minimamente escritas no log, o que reduz o tamanho do log de transações. 
 este não elimina a necessidade de fazer backup do log de transações. Ao contrário do
 modelo de recuperação completa, no modelo de log em massa você só pode restaura um
 backup até o fim; você não pode restaurar em algum ponto no tempo.
-
-
-
-
-
 
 
 MECANISMo DE BACKUP
@@ -2197,11 +1977,6 @@ suporte ao
 backup e à restauração no serviço de armazenamento de Blob do Windows Azure.
 
 
-
-
-
-
-
 O SQL Server dá suporte ao armazenamento de backups no serviço de armazenamento de
 Blobs do
 Microsoft Azure, das seguintes maneiras:
@@ -2252,11 +2027,6 @@ a) de arquivo agrega um ou mais arquivos ou grupos de arquivos de banco de dados
 
 b) parcial agrega dados que ainda não foram afetados por COMMIT, tanto de dados quanto de
 transações.
-
-
-
-
-
 
 
 c) completo de banco de dados agrega todos os dados de todos os bancos de dados no
@@ -2319,11 +2089,6 @@ Logo, o gabarito da questão é certo.
 Gabarito: C
 
 
-
-
-
-
-
 CoNSTRUINDo UM BANCo DE DADoS
 
 Nesta parte da aula vamos construir o quebra cabeça das principais partes utilizadas
@@ -2376,12 +2141,6 @@ cada tipo de dados
 numéricos exatos.
 
 ESQUEMATIZANDO
-
-
-
-
-
-
 
 
 Data Type
@@ -2489,11 +2248,6 @@ Storage size
 8 bytes
 
 
-
-
-
-
-
 TIPoS DE DADoS DE STRINC
 
 O tipo de dados sequência de caracteres ou string contém três subcategorias: character,
@@ -2560,11 +2314,6 @@ Os tipos de dados para armazenamento de data e hora são amplamente utilizados e
 bancos de
 dados SQL Server. Eles oferecem a conveniência de armazenar a data e hora de várias maneiras. Há
 seis tipos de dados nesta categoria.
-
-
-
-
-
 
 
 time(n) Este tipo de dados armazena a hora do dia sem a consciência de fuso horário
@@ -2638,15 +2387,6 @@ de 24
 horas.
 
 
-
-
-
-
-
-
-
-
-
 Formatos de literal de cadeia de caracteres padrão (usados para cliente de nível inferior): YYYY-
 MM-DD hh:mm:ss[.nnnnnnn] [{+|-}hh:mm]
 
@@ -2707,15 +2447,6 @@ PRATICAR!
 
 (Ministério da Economia - Desenvolvimento de Sistemas - 2020) Acerca de sistemas
 gerenciadores de banco de dados, julgue o item subsequente.
-
-
-
-
-
-
-
-
-
 
 
 O SQL Server tem um tipo de dado denominado sql_variant, que armazena dados de
@@ -2790,11 +2521,6 @@ SQL Server dá suporte a dois tipos de dados espaciais: geometria e geografia .
 O tipo geometria representa dados em um sistema de coordenadas euclidiano (plano).
 
 
-
-
-
-
-
 O tipo geografia representa dados em um sistema de coordenadas esféricas.
 Assim, o gabarito da questão está na letra d).
 
@@ -2859,11 +2585,6 @@ CREATE TABLE [database_name.[owner].]table_name
 [TEXTIMAGEJDN {<filegroup> | DEFAULT}]
 
 ESQUEMATIZANDO
-
-
-
-
-
 
 
 A definição acima está incompleta do ponto de vista de possibilidades sintáticas do
@@ -2939,15 +2660,6 @@ CREATE
 DATABASE. A principal diferença é em termos de escopo. Aqui, você define o parâmetro
 no nível da
 coluna em vez do nível de banco de dados.
-
-
-
-
-
-
-
-
-
 
 
 Quando você define uma coluna como NULL ou NOT NULL você restringe ou não o uso do valor nulo,
@@ -3050,15 +2762,6 @@ NOT NULL,
 LastRaise AS Salary - PriorSalary,
 
 
-
-
-
-
-
-
-
-
-
 HireDate date NOT NULL,
 
 TerminationDate date NULL,
@@ -3130,11 +2833,6 @@ ALTER TABLE table_name
 |ADD
 
 <column name> <data_type>
-
-
-
-
-
 
 
 [[DEFAULT <constant_expression>]
@@ -3216,11 +2914,6 @@ TO [ schema_name. ] target_table
 }
 
 
-
-
-
-
-
 Vamos agora tratar das alterações de tabele que definem restrições de integridade.
 Antes, porém,
 é importante relembrar que as restrições são classificadas em três tipos: restrições de
@@ -3296,11 +2989,6 @@ exigem um
 valor único para toda a coluna (ou combinação de colunas) na tabela. Muitas vezes você vai ouvir
 
 
-
-
-
-
-
 restrições UNIQUE referidas chaves como alternativas. As principais diferenças são que
 eles não são
 considerados para ser o identificador original de um registro em uma tabela (embora
@@ -3358,11 +3046,6 @@ contém os seguintes atributos:
 NumeroProcesso - inteiro (PK)
 DigitoProcesso - inteiro (PK)
 AnoProcesso - inteiro (PK)
-
-
-
-
-
 
 
 NumeroOABAdvogadoProcesso - cadeia de caracteres
@@ -3443,11 +3126,6 @@ pnecision [ , scale ]
 } [ ,-..n ]
 
 
-
-
-
-
-
 [ CONSTRAINT constraint_name ]
 
 {
@@ -3514,11 +3192,6 @@ duas tabelas ao mesmo tempo, se você quiser, basta usar o comando como se segue
 USE conta
 
 DROP TABLE Clientes, Colaboradores
-
-
-
-
-
 
 
 DATA MANIPULATIoN LANGUACE (DML)
@@ -3590,15 +3263,6 @@ t a b1e_o r_v i e w_n ame
 WITH <common_table_expression>
 
 
-
-
-
-
-
-
-
-
-
 Especifica o conjunto de resultados nomeados temporário, também conhecido como expressão
 de
 tabela comum, definido dentro do escopo da instrução DELETE. O conjunto de resultados
@@ -3633,15 +3297,6 @@ que DELETE e usa menos recursos do sistema e do log de transações.
 O CoMANDoINSERT
 
 Adiciona uma ou mais linhas a uma tabela ou exibição no SQL Server. Sintaxe:
-
-
-
-
-
-
-
-
-
 
 
 [ WITH <common_table_expression> [ ,...n ] ]
@@ -3727,15 +3382,6 @@ e parênteses são necessários.
 (columnjist)
 
 
-
-
-
-
-
-
-
-
-
 É uma lista de uma ou mais colunas onde os dados devem ser inseridos, columnjist
 deve ser
 colocada entre parênteses e separada por vírgulas.
@@ -3812,16 +3458,6 @@ SET
 }
 
 
-
-
-
-
-
-
-
-
-
-
 [ > ]
 
 
@@ -3886,11 +3522,6 @@ O CoMANDo TRUNCATE TABLE
 Remove todas as linhas de uma tabela ou partições especificadas de uma tabela sem
 registrar as
 exclusões de linha individual. TRUNCATE TABLE é semelhante à instrução DELETE sem nenhuma
-
-
-
-
-
 
 
 cláusula WHERE; entretanto, TRUNCATE TABLE é mais rápida e utiliza menos recursos de
@@ -3962,11 +3593,6 @@ Dados do
 SQL Server.
 
 
-
-
-
-
-
 sp_add_log_file_recover_suspect_db (Transact-SQL)
 
 Adiciona um arquivo de log a um grupo de arquivos quando a recuperação não pode ser
@@ -4021,11 +3647,6 @@ SQL Server fornece os seguintes grupos de funções do sistema:
 * Funções de controle de alterações
 
 * Funções do coletor de dados
-
-
-
-
-
 
 
 * Funções FileStream e FileTable
@@ -4088,11 +3709,6 @@ uniqueidentifier.
 tipo uniqueidentifier.
 
 
-
-
-
-
-
 sys.fn_hadr_distributed_ag_database_replica
 
 Usado para mapear um banco de dados em um grupo de disponibilidade distribuído para o
@@ -4153,11 +3769,6 @@ eventos correspondem principalmente as instruções Transact-SQL que começam co
 palavras-chave como
 
 
-
-
-
-
-
 a) INSERTe DELETE.
 
 b) UPDATE e INSERT.
@@ -4211,11 +3822,6 @@ GRANT { ALL [ PRIVILEGES ] }
 
 [ ON [ class :: ] securable ] TO principal [ ,...n ]
 [ WITH GRANT OPTION ] [ AS principal ]
-
-
-
-
-
 
 
 O argumento ALL vai garantir todas as permissões que podem variar dependo
@@ -4280,11 +3886,6 @@ REVOKE - Ele revoga as permissões concedidas pelo GRANT ou uma instrução DENY
 um determinado usuário ou grupo. Veja a sintaxe do comando abaixo.
 
 
-
-
-
-
-
 Simplified syntax for REVOKE
 REVOKE [ GRANT OPTION FOR ]
 
@@ -4302,11 +3903,6 @@ permission [ ( column [ ,...n ] ) ] [ ,...n ]
 
 { TO | FROM } principal [ ,...n ]
 [ CASCADE] [ AS principal ]
-
-
-
-
-
 
 
 QUESTõES CoMENTADAS - CESPE (CEBRASPE)
@@ -4374,15 +3970,6 @@ pelo SQL Server
 e para gerenciar a configuração de conectividade de rede de computadores
 cliente do SQL Server.
 A ferramenta é instalada em conjunto com o SQL Server.
-
-
-
-
-
-
-
-
-
 
 
 Durante a instalação, o SQL Server normalmente é configurado para
@@ -4468,11 +4055,6 @@ Gabarito: E.
 Item. 6. CEBRASPE (CESPE) - Inspetor de Controle Externo (TCE-RN)/Tecnologia da lnformação/2015
 
 No que se refere a tecnologia e arquitetura de banco de dados, julgue o próximo item.
-
-
-
-
-
 
 
 No MSSQL Server 2014, o recurso AlwaysOn é uma solução de alta disponibilidade e de
@@ -4569,15 +4151,6 @@ de arquivos com ;
 j
 
 Gabarito: C
-
-
-
-
-
-
-
-
-
 
 
 Item. 8. CEBRASPE (CESPE) - Analista Judiciário (TJDFT)/Apoio Especializado/Suporte em
@@ -4681,15 +4254,6 @@ INFRAESTRUTURA DE TI
 A respeito de banco de dados, julgue os itens que se seguem.
 
 
-
-
-
-
-
-
-
-
-
 [1] É válida para o PostgreSQL 9.3, mas não para o SQL Server 2012, a criação da
 SEQUENCE seqa
 por meio do seguinte comando:
@@ -4785,15 +4349,6 @@ Gabarito: C.
 SISTEMAS DE TECNOLOGIA DA INFORMAÇÃO
 
 
-
-
-
-
-
-
-
-
-
 Julgue os seguintes itens, acerca de sistemas de gerenciamento de bancos de
 dados (SGBD) e de
 cópias de segurança de dados.
@@ -4882,15 +4437,6 @@ i c) Errado. Backup completo contém todos os dados em um banco de dados ou em u
 grupos de arquivos ou arquivos. Além disso, contém log suficiente para permitir a recuperação ;
 
 : desses dados.
-
-
-
-
-
-
-
-
-
 
 
 d) Errado. Backup diferencial se baseia no backup completo mais recente de
@@ -4987,15 +4533,6 @@ e definir listas não ;
 ;
 
 
-
-
-
-
-
-
-
-
-
 outros recursos, como hierarquias, segurança granular, transações, controle
 de versão de dados e
 regras de negócios.
@@ -5083,15 +4620,6 @@ valor desse fator determina ;
 ser preenchida com dados, ;
 
 ; reservando o restante como espaço livre para futuro crescimento. O valor do fillfactor é uma ;
-
-
-
-
-
-
-
-
-
 
 
 porcentagem de 1 a 100 e o padrão para todo o servidor é zero (0), o
@@ -5183,15 +4711,6 @@ c) SQL Server Configuration Manager.
 d) Orientador de Otimização do Mecanismo de Banco de Dados.
 
 
-
-
-
-
-
-
-
-
-
 e) SQL Server Profiler.
 
 Comentário: O DTA (Orientador de Otimização do Mecanismo de Banco de Dados)
@@ -5277,11 +4796,6 @@ SUPORTE EM
 TECNOLOGIA DA INFORMAÇÃO
 
 
-
-
-
-
-
 Julgue os itens subsecutivos, com relação ao tuning de banco de dados.
 
 [1] No SQL Server, o uso de variáveis de tabela permite aumentar o
@@ -5361,11 +4875,6 @@ de versões anteriores, ;
 
 : você deve usar a opção MOVE.
 Gabarito: C.
-
-
-
-
-
 
 
 25.ANO: 2013 BANCA: CESPE ÓRGÃO: BACEN PROVA: ANALISTA DO BACEN - ANÁLISE E
@@ -5451,11 +4960,6 @@ SUPORTE
 A respeito do banco de dados SQL Server e da linguagem SQL, julgue os itens seguintes.
 
 
-
-
-
-
-
 [1] O comando SELECT GETDATE() recebe como retorno a data e a hora atual do sistema
 operacional.
 
@@ -5518,11 +5022,6 @@ comprimento ou precisão i
 ; especificados.
 
 Gabarito: C.
-
-
-
-
-
 
 
 QUESTõES CoMENTADAS - MULTIBANCAS
@@ -5610,11 +5109,6 @@ nenhuma das seguintes características:
 https://docs.microsoft.com/en-us/sql/t-sql/statements/alter-table-transact-sql?view=sql-server-2017
 
 
-
-
-
-
-
 * Ser usada em estatísticas geradas pela instrução CREATE STATISTICS, a
 menos que (1) a
 coluna seja do tipo de dados varchar, nvarchar ou varbinary, o tipo de
@@ -5654,13 +5148,6 @@ SELECT campol FROM tabela WHERE campol > 17;
 Certo
 
 Errado
-
-
-
-
-
-
-
 
 
 Comentário: O comando CREATE VIEW (Transact-SQL) cria uma tabela virtual cujo
@@ -5732,11 +5219,6 @@ excluir linhas em uma
 determinada ordem, será preciso usar UP junto com ORDER BY em uma
 instrução de
 subseleção.
-
-
-
-
-
 
 
 Comentário: O gabarito da questão é letra a), pois o comando DELETE remove
@@ -5814,15 +5296,6 @@ de um
 Database completo:
 
 
-
-
-
-
-
-
-
-
-
 --Backing Up a Whole Database
 
 BACKUP DATABASE { database_name | @database_name_var* }
@@ -5890,15 +5363,6 @@ de uma solução
 baseada em SQL Server Reporting Services.
 
 
-
-
-
-
-
-
-
-
-
 É correto afirmar sobre os elementos do diagrama:
 
 a) Os Relatórios podem ser de diversos tipos como: de análise, detalhado, de
@@ -5949,11 +5413,6 @@ relatórios
 de matriz (como relatórios de tabela de referência cruzada ou de Tabela Dinâmica) para
 dados
 resumidos, relatórios de gráficos para dados geográficos e relatórios de formato livre para
-
-
-
-
-
 
 
 qualquer outra finalidade. Os relatórios podem ser inseridos em outros relatórios e
@@ -6014,11 +5473,6 @@ c) SYNONYM teste <- primeiro_db.primeiros_programas
 d) DESCRIBE SYNONYM teste FOR EACH primeiro_db.primeiros_programas
 
 
-
-
-
-
-
 e) MAKE SYNONYM teste OF primeiro_db.primeiros_programas
 
 Comentário: A instrução CREATE SYNONYM (Transact-SQL) cria um novo sinônimo. Veja a
@@ -6065,15 +5519,6 @@ PRINTING taxa = taxa/2
 
 Comentário: A instrução UPDATE (Transact-SQL) altera dados existentes em uma tabela ou
 exibição no SQL Server 2017. Veja a sintaxe:
-
-
-
-
-
-
-
-
-
 
 
 [ WITH <common_table_expression> [...n] ]
@@ -6154,11 +5599,6 @@ d) a quantidade máxima permitida de tabelas no banco de dados.
 e) o nível de fragmentação de índices do banco de dados.
 
 
-
-
-
-
-
 Comentário: A função sys.dm_db_fts_index_physical_stats (Transact-SQL) retorna uma
 linha
 para cada índice de texto completo ou semântico em cada tabela que tenha um índice
@@ -6209,11 +5649,6 @@ Comentário: A instrução CREATE INDEX (Transact-SQL) Cria um índice relaciona
 ou exibição. Também chamado de um índice rowstore porque é um índice de
 árvore B
 clusterizado ou não clusterizado. Veja a sintaxe:
-
-
-
-
-
 
 
 CREATE [ UNIQUE ] [ CLUSTERED | NONCLUSTERED ] INDEX index_name
@@ -6286,15 +5721,6 @@ b) UCP Manager.
 c) SQL Server Utility.
 
 
-
-
-
-
-
-
-
-
-
 d) SQL Query Administrator.
 
 e) Server Control Panei.
@@ -6361,11 +5787,6 @@ Assim, temos o gabarito na letra b).
 Gabarito: B
 
 
-
-
-
-
-
 25.CESPE - Analista do Banco Central do Brasil/Área 5 - Infraestrutura e Logística/2013
 
 A respeito do SQL Server 2012 Reporting Services e do Microsoft Office 2010, julgue o
@@ -6428,15 +5849,6 @@ de Dados para selecionar e criar um conjunto ideal de índices, exibições inde
 partições
 
 
-
-
-
-
-
-
-
-
-
 de tabela sem precisar de conhecimentos avançados sobre a estrutura do banco de dados
 ou
 dos recursos internos do SQL Server. Com o DTA, é possível executar as tarefas a seguir.
@@ -6485,15 +5897,6 @@ CONSTRAINT FK_Tab3_Responsavel FOREIGN KEY
 (Responsável) REFERENCES Tab3 (Inscricao));
 
 A figura abaixo representa o conteúdo das tabelas Tabl, Tab2 e Tab3 de MeuBanco.
-
-
-
-
-
-
-
-
-
 
 
 Tabl
@@ -6571,15 +5974,6 @@ disponível no SGBD, agora sem dados armazenados. Sendo assim podemos marcar nos
 resposta na alternativa D.
 
 
-
-
-
-
-
-
-
-
-
 No primeiro TRUNCATE, as linhas da Tabl não serão removidas, pois existe uma referência
 para ela na Tab2. Como a cláusula ON DELETE não foi definida, devemos considerar por
 padrão a existência de um ON DELETE NO ACTION, logo, nenhuma linha da Tabl será
@@ -6650,11 +6044,6 @@ CTRL+L
 Gabarito: A
 
 
-
-
-
-
-
 Item. 29. BANCA: VUNESP ANO: 2013 ÓRGÃO: IMESC PROVA: ANALISTA DE TECNOLOGIA -
 INFORMÁTICA
 
@@ -6716,11 +6105,6 @@ S Là SQL Serv
 Trace Query in SQL Server Profiler Ctrl+Alt+P
 
 Gabarito: D
-
-
-
-
-
 
 
 Item. 30. BANCA: VUNESP ANO: 2012 ÓRGÃO: TJ-SP PROVA: ANALISTA JUDICIÁRIO - COMUNICAÇÃO E
@@ -6792,11 +6176,6 @@ GO
 Você pode conhecer um pouco mais sobre sinônimos aqui.
 
 
-
-
-
-
-
 Gabarito: C
 
 Item. 31. BANCA: VUNESP ANO: 2013 ÓRGÃO: CETESB PROVA: ANALISTA DE TECNOLOGIA DA
@@ -6854,15 +6233,6 @@ INFORMAÇÃO - ADMINISTRADOR DE BANCO DE DADOS
 
 Sobre os Sistemas Gerenciadores de Bancos de Dados (considerando o Microsoft SQL Server
 2008), é correto afirmar que
-
-
-
-
-
-
-
-
-
 
 
 A devem ser desligados por, pelo menos, 2 horas diariamente.
@@ -6928,15 +6298,6 @@ AVG. Disk Sec/Read é o tempo médio, em segundos, de uma leitura de dados do di
 AVG. Disk Sec/Write é o tempo médio, em segundos, de uma gravação de dados no disco.
 
 
-
-
-
-
-
-
-
-
-
 Disco físico: % Disk Time é a porcentagem de tempo decorrido que a unidade de
 disco
 selecionada foi ocupada servindo a pedidos de leitura e escrita. Uma orientação geral
@@ -6990,11 +6351,6 @@ HOW
 <comando SQL>
 
 GO
-
-
-
-
-
 
 
 E MAKE PROCEDURE <nome do procedimento>
@@ -7053,11 +6409,6 @@ Comentário. Essa questão tem uma pegadinha. O examinador quer levar você a pe
 comandos GRANT, REVOKE e DENY usados para garantir e retirar privilégios de acesso
 sobre
 objetos. Contudo, nenhuma das respostas possui essas alternativas.
-
-
-
-
-
 
 
 Temos, portanto, que voltar nosso foco para outra opção que seria remover o acesso de
@@ -7119,11 +6470,6 @@ presente
 na alternativa B.
 
 Gabarito: B
-
-
-
-
-
 
 
 Item. 37. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
@@ -7194,11 +6540,6 @@ GO
 Gabarito: C
 
 
-
-
-
-
-
 Item. 38. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
 
@@ -7257,15 +6598,6 @@ confirmamos a resposta na alternativa B.
 Gabarito: B
 
 
-
-
-
-
-
-
-
-
-
 Item. 40. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
 
@@ -7320,15 +6652,6 @@ B SELECT @@PROCID
 C SELECT @@DBTS
 
 
-
-
-
-
-
-
-
-
-
 DSELECT @@IDLE
 E SELECT @@SPID
 
@@ -7379,15 +6702,6 @@ dados.
 Por fim o @@SPID que retorna o ID de sessão do processo de usuário atual.
 
 Gabarito: A
-
-
-
-
-
-
-
-
-
 
 
 LISTA DE QUESTõES - CESPE (CEBRASPE)
@@ -7445,11 +6759,6 @@ computadores com sistema de arquivos FAT32, mas apenas em computadores com siste
 arquivos NTFS.
 
 
-
-
-
-
-
 Item. 6. Ano: 2015 Banca: CESPE Órgão: MEC Prova: TÉCNICO DE NÍVEL SUPERIOR - ANALISTA DE
 SISTEMAS
 
@@ -7502,15 +6811,6 @@ all server), é necessária a permissão control server no servidor.
 
 Item. 11. ANO: 2014 BANCA: CESPE ÓRGÃO: ANTAQ PROVA: ANALISTA ADMINISTRATIVO - ANALISTA DE
 INFRAESTRUTURA
-
-
-
-
-
-
-
-
-
 
 
 Acerca do Microsoft SQL Server 2008, julgue os seguintes itens.
@@ -7568,11 +6868,6 @@ determinadas
 consultas.
 
 
-
-
-
-
-
 Item. 17. ANO: 2013 BANCA: CESPE ÓRGÃO: CRPM PROVA: ANALISTA EM GEOCIÊNCIAS - SISTEMAS DE
 INFORMAÇÃO
 
@@ -7626,15 +6921,6 @@ o uso de versões anteriores.
 DESENVOLVIMENTO DE SISTEMAS
 
 
-
-
-
-
-
-
-
-
-
 Considerando os sistemas de gerenciamento de bancos de dados, julgue o próximo item.
 
 [1] PostgreSQL, MariaDB, IIS e SQL Server são exemplos de sistemas gerenciadores de
@@ -7686,11 +6972,6 @@ o comando
 SELECT SYSTEM_ADMIN.
 
 
-
-
-
-
-
 27.ANO: 2012 BANCA: CESPE ÓRGÃO: TJ-AC PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE
 SUPORTE
 
@@ -7721,15 +7002,6 @@ exibir
 informações do plano de consulta de determinada transação SQL, que podem ser utilizadas
 para
 otimizar as consultas e analisar o desempenho de transações SQL executadas pelo SGBD.
-
-
-
-
-
-
-
-
-
 
 
 GABARITo
@@ -7793,11 +7065,6 @@ Item. 28. E
 Item. 29. C
 
 
-
-
-
-
-
 Item. 12. Ano: 2018 Banca: FCC Órgão: DPE-AM Cargo: Analista Área: Banco de Sistemas Questão: 47.
 
 Um Analista de Sistemas deseja alterar a coluna quantidade, que faz parte da tabela pedido do
@@ -7846,11 +7113,6 @@ instrução DROP TABLE.
 b) Ao utilizar uma instrução DELETE, se a cláusula WHERE não for especificada, apenas
 a
 primeira linha da tabela será excluída.
-
-
-
-
-
 
 
 c) Diferentemente da instrução DELETE, uma tabela esvaziada usando a instrução TRUNCATE
@@ -7910,15 +7172,6 @@ solução
 baseada em SQL Server Reporting Services.
 
 
-
-
-
-
-
-
-
-
-
 É correto afirmar sobre os elementos do diagrama:
 
 a) Os Relatórios podem ser de diversos tipos como: de análise, detalhado, de clickthrough, sub-
@@ -7959,15 +7212,6 @@ atribuindo
 a denominação 'teste' à tabela 'primeiros_programas', do banco de dados 'primeiro_db' é
 
 a) SYNONYM teste EQUAL primeiro_db.primeiros_programas
-
-
-
-
-
-
-
-
-
 
 
 b) CREATE SYNONYM teste FOR primeiro_db.primeiros_programas
@@ -8020,11 +7264,6 @@ Acerca do Microsoft SQL Server 2008, julgue o seguinte item.
 O argumento clustered do comando create index cria um índice em que a ordem lógica
 dos
 valores da chave determina a ordem física das linhas correspondentes em uma tabela.
-
-
-
-
-
 
 
 Certo
@@ -8085,11 +7324,6 @@ da execução dessa função.
 e) da velocidade de conexão do usuário corrente ao Microsoft SQL Server.
 
 
-
-
-
-
-
 25.CESPE - Analista do Banco Central do Brasil/Área 5 - Infraestrutura e Logística/2013
 
 A respeito do SQL Server 2012 Reporting Services e do Microsoft Office 2010, julgue o
@@ -8128,11 +7362,6 @@ Item. 27. Ano: 2017 Banca: FGV Órgão: Alerj Cargo: Analista de Tecnologia da I
 
 No SQL Server 2012, os seguintes comandos foram executados individualmente para criar as
 tabelas no banco de dados MeuBanco.
-
-
-
-
-
 
 
 CREATE TABLE Tabl
@@ -8212,15 +7441,6 @@ ordem:
 TRUNCATE TABLE Tabl;
 
 
-
-
-
-
-
-
-
-
-
 DELETE TOP (2) FROM Tab2 WHERE Cod < 4000;
 TRUNCATE TABLE Tab3;
 
@@ -8260,11 +7480,6 @@ O sistema gerenciador de bancos de dados Microsoft SQL Server 2008 conta com um
 recurso
 denominado IntelliSense que provê facilidades para a edição de comandos. O botão do SQL
 Server 2008 que permite habilitar ou desabilitar esse recurso é
-
-
-
-
-
 
 
 A
@@ -8308,11 +7523,6 @@ Sobre os Sistemas Gerenciadores de Bancos de Dados (considerando o Microsoft SQL
 2008), é correto afirmar que
 
 A devem ser desligados por, pelo menos, 2 horas diariamente.
-
-
-
-
-
 
 
 B devem tratar comandos emitidos pelo usuário, permitindo, por exemplo, a busca de dados.
@@ -8359,11 +7569,6 @@ OF
 GO
 
 
-
-
-
-
-
 C CREATE PROCEDURE cnome do procedimento>
 
 LIKE
@@ -8408,11 +7613,6 @@ TRANSACTION tem a função de
 A criar um trigger.
 
 B definir um ponto de salvamento de transações.
-
-
-
-
-
 
 
 C encerrar todas as conexões com o banco de dados.
@@ -8463,11 +7663,6 @@ D de usuários conectados ao servidor.
 E médio de registros por tabela.
 
 
-
-
-
-
-
 Item. 40. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
 
@@ -8493,11 +7688,6 @@ B SELECT @@PROCID
 C SELECT @@DBTS
 D SELECT @@IDLE
 E SELECT @@SPID
-
-
-
-
-
 
 
 GABARITo
@@ -8562,78 +7752,4 @@ Item. 40. E
 
 Item. 41. A
 
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

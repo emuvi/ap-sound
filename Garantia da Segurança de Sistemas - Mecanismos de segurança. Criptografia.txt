@@ -8,9 +8,6 @@ Capítulo. Garantia da Segurança de Sistemas - Mecanismos de segurança. Cripto
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-I
 
 
-André Castro
-
-
 Criptografia
 
 
@@ -104,11 +101,6 @@ Gabarito FCC
 (Pós-Edital) 3
 
 
-
-
-André Castro
-
-
 Temos agora mais um assunto extremamente bacana. Na verdade, temos aqui uma relação
 de amor e ódio. Tenho percebido isso em meus alunos. Mas meu papel aqui é tornar o
 "relacionamento" de vocês com esse assunto bem agradável.
@@ -152,11 +144,6 @@ Outros termos gregos que aparecem nesse contexto são:
 " 4
 
 
-
-
-André Castro
-
-
 * Análysis = decomposição;
 
 * Logo = estudo.
@@ -191,13 +178,6 @@ original
 era substituída pelo correspondente a três letras depois no alfabeto.
 
 Assim, temos o exemplo abaixo da utilização dessa codificação:
-
-
-
-
-
-
-André Castro
 
 
 Texto
@@ -268,13 +248,6 @@ letras ou sílabas novas.
 * cêVo depo ler cilmentefa taes sagemmen?
 
 
-
-
-
-
-André Castro
-
-
 ESTEGANoGRAFIA
 
 Por último, temos a esteganografia que tem como objetivo esconder uma mensagem dentro
@@ -299,13 +272,6 @@ não
 podemos generalizar e afirmar que a cifragem por bloco garante os princípios de
 segurança
 de forma geral.
-
-
-
-
-
-
-André Castro
 
 
 MDOMA1S
@@ -382,11 +348,6 @@ Como vantagem podemos citar o fato de que o erro de um bit causará prejuízo
 apenas no bloco o qual ele pertence, devido à independência dos blocos.
 
 
-
-
-André Castro
-
-
 MXJMAtS
 FUNDO!
 
@@ -418,13 +379,6 @@ subsequentes. Depende que os blocos cheguem de forma sequencial
 para que não haja problema na decifração, perdendo no aspecto de
 desempenho quando comparado ao ECB. Além disso, um erro em
 qualquer bit ou bloco, gera prejuízo em todos os blocos subsequentes.
-
-
-
-
-
-
-André Castro
 
 
 MXJMAtS
@@ -490,14 +444,9 @@ A diferença básica para o CBC é o ponto de junção entre o texto cifrado
 anterior e o novo texto.
 
 
-
-www.estrategiaconcursos.com.br
 X 86
 
 /
-
-
-André Castro
 
 
 Destaco ainda a existência do modo OFB (Output Feedback), que segue o mesmo princípio
@@ -544,13 +493,6 @@ ataques
 de criptoanálise, entretanto, dificulta o trabalho de responsáveis por realizar
 auditorias em
 dados criptografados, como é o caso de peritos em forense computacional.
-
-
-
-
-
-
-André Castro
 
 
 Podemos observar três contextos básicos para dados criptografados, quais sejam: arquivos
@@ -601,13 +543,6 @@ disco virtual próprio, geralmente possuem tamanhos consideráveis, na ordem de 
 e com conteúdo ininteligível por causa da criptografia.
 
 
-
-
-
-
-André Castro
-
-
 Item. 3. Discos Completamente Criptografados
 
 Quando assistimos filmes em geral que abordam essa temática, nos deparamos por
@@ -652,13 +587,6 @@ provas, quais sejam:
 
 Item. 1. Apenas Texto Cifrado - CypherText-Only: Nesse contexto, há conhecimento
 apenas do algoritmo de criptografia utilizado e do próprio texto cifrado;
-
-
-
-
-
-
-André Castro
 
 
 Item. 2. Texto Claro Conhecido - Known-plaintext: Além dos itens acima, o atacante
@@ -709,13 +637,6 @@ senhas
 em texto claro. Ou seja, se for possível acessar o repositório, é possível obter a senha.
 
 
-
-
-
-
-André Castro
-
-
 Item. 2. Método Pré-Computado
 
 Neste método, busca-se criar uma lista, bem extensa por sinal (aumentando a chance de
@@ -760,13 +681,6 @@ Entretanto, no mundo prático, o negócio não é tão simples. Processas as inf
 testar possibilidades demanda tempo, e o tanto de tempo depende do
 poder de
 processamento disponível para realizar a quebra.
-
-
-
-
-
-
-André Castro
 
 
 Por esse motivo, a relação (tamanho da chave e tempo) para quebra é um fator crítico.
@@ -817,13 +731,6 @@ maior
 probabilidade de ocorrência dado um contexto.
 
 
-
-
-
-
-André Castro
-
-
 Este método pode ser derivado em duas subespécies, quais sejam: probabilidade
 condicional e gramática especializada.
 
@@ -870,13 +777,6 @@ destinatário e
 aplicar um algoritmo de criptografia simétrica sobre ele. Esse algoritmo depende da inserção
 
 
-
-
-
-
-André Castro
-
-
 de uma chave que será utilizada nos cálculos matemáticos para gerar uma mensagem que
 não seja interpretada facilmente.
 
@@ -914,13 +814,6 @@ principais algoritmos de criptografia simétrica.
 
 Entretanto pessoal, temos um entendimento do CESPE contrário ao que preconiza a
 maioria da bibliografia. Vejamos:
-
-
-
-
-
-
-André Castro
 
 
 PROVA!
@@ -969,11 +862,6 @@ os dois
 modelos.
 
 Vamos conhecer agora os principais algoritmos de criptografia simétrica.
-
-
-
-
-André Castro
 
 
 DES
@@ -1040,13 +928,6 @@ Lefc circular shifc
 Lefc circular shifc
 
 
-
-
-
-
-André Castro
-
-
 Por utilizar cifra de bloco, o DES pode utilizar quaisquer das técnicas
 anteriormente
 mencionadas. Analisando a figura, podemos perceber que o algoritmo se utiliza
@@ -1087,13 +968,6 @@ uma permutação fixa, o P-box.
 A figura abaixo representa essas etapas:
 
 
-
-
-
-
-André Castro
-
-
 A substituição ocorrida nos S-boxes, a permutação de bits nos P-boxes e a expansão
 fornecem a chamada "confusão e difusão", respectivamente, um conceito identificado
 por Claude Shannon nos anos 1940 como uma condição necessária para uma cifragem
@@ -1105,11 +979,6 @@ Na tentativa de dar uma sobrevida ao DES, criou-se o 3DES, que nada mais é do q
 aplicação do DES três vezes, com o detalhe de que na segunda vez, faz-se o processo
 de
 decriptação.
-
-
-
-
-André Castro
 
 
 Key K1 Key K2 Key K3
@@ -1170,13 +1039,6 @@ Cipher text
 * RC - Rivest Cipher
 
 
-
-
-
-
-André Castro
-
-
 O RC possui três versões que usualmente aparecem em provas, quais sejam: 4, 5 e 6.
 
 É um algoritmo desenvolvido pela RSA.
@@ -1225,13 +1087,6 @@ com uma tabela;
 ShiftRows - Permutação Simples;
 
 
-
-
-
-
-André Castro
-
-
 MixColumns - Uma combinação linear que utiliza aritmética sobre corpo finito.
 AddRoundKey - Um XOR bit a bit simples do bloco atual com uma parte da
 chave expandida.
@@ -1245,11 +1100,6 @@ NOTA!
 
 Outros exemplos de algoritmos de criptografia simétrica são:
 o Blowfish, Twofish e IDEA.
-
-
-
-
-André Castro
 
 
 A criptografia Assimétrica, também conhecida como criptografia de chaves públicas
@@ -1294,13 +1144,6 @@ privada do
 EMISSOR e decifrar com a chave pública do EMISSOR!
 
 Conseguiram entender? Bom, vamos explicar agora. Vamos usar a figura abaixo:
-
-
-
-
-
-
-André Castro
 
 
 Íí ir «I^-J -
@@ -1398,13 +1241,6 @@ Brenno, terei a mensagem correta. Logo, posso afirmar, pelo princípio do par de
 assimétricas, que a pessoa que cifrou o texto é o Brenno.
 
 
-
-
-
-
-André Castro
-
-
 Tranquilo pessoal? Busquem entender esses conceitos e não decorar. Eles
 são
 extremamente importantes. Caso não tenha ficado claro, volte e leia de novo com mais
@@ -1460,13 +1296,6 @@ de navegação WEB segura através do HTTPS.
 A sua estrutura e robustez reside na complexidade e problema do logaritmo discreto.
 
 
-
-
-
-
-André Castro
-
-
 RSA - RIvEST, SHAMIR AND ADELMAN
 
 O RSA foi um algoritmo publicado no ano de 1977. Possui a característica de ser
@@ -1516,13 +1345,6 @@ Por final temos:
 A chave pública: o par (n,e).
 
 
-
-
-
-
-André Castro
-
-
 A chave privada: a tripla (p,q,d). De fato, para desencriptar, basta guardar "d" como
 chave
 privada, mas os primos "p" e "q" são usados para acelerar os cálculos.
@@ -1566,13 +1388,6 @@ Gamai é no PGP (Pretty Good Privacy).
 criptografia simétrica.
 
 
-
-
-
-
-André Castro
-
-
 MXJMAtS
 FUNDO!
 
@@ -1593,11 +1408,6 @@ conforme já vimos, de computacionalmente seguro. Este último está
 relacionado ao fato de que o custo de quebrar a cifra é superior ao valor
 da informação codificada ou que o tempo exigido para quebrar a cifra é
 superior ao tempo de vida útil da informação.
-
-
-
-
-André Castro
 
 
 Funções HASH
@@ -1698,13 +1508,6 @@ Essas funções também são conhecidas como Funções HASH ONE-WAY. Mas André,
 eu não consigo saber o valor original, para que serve o HASH?
 
 
-
-
-
-
-André Castro
-
-
 Pessoal, as principais aplicações das funções HASH são para garantir os
 princípios de
 integridade, autenticidade e confidencialidade. Vamos citar alguns exemplos.
@@ -1749,12 +1552,7 @@ mensagem original sem modificar o resultado do HASH desta mensagem.
 O resultado de um cálculo de uma função HASH também é bastante referenciada como
 "message digest".
 
-OO 
-
-
-
-
-André Castro
+OO
 
 
 KX) MAtS
@@ -1798,13 +1596,6 @@ impossível, conhecendo uma mensagem M, achar uma outra mensagem M' que
 produza o mesmo HASH. E o algoritmo será robusto à colisão forte caso seja
 computacionalmente difícil encontrar um par de mensagens (M,M') que produzam o
 mesmo HASH.
-
-
-
-
-
-
-André Castro
 
 
 Ano: 2021 Banca: FGV Órgão: TJ-RO Prova: FGV - 2021 - TJ-RO - Analista Judiciário -
@@ -1859,13 +1650,6 @@ atualização que desabilita a aplicação do MD5 às suas autoridades certifica
 Possui um tamanho de entrada de múltiplos de 128 bits.
 
 
-
-
-
-
-André Castro
-
-
 Um dos problemas que existe no MD5 está relacionado à colisão de prefixos
 de uma
 mensagem, gerando uma probabilidade alta de se compor sufixos que também produzam
@@ -1895,13 +1679,6 @@ um bit
 adicional de valor "1" e sucessivos "0's" até completar o múltiplo.
 
 
-
-
-
-
-André Castro
-
-
 SHA
 
 O algoritmo SHA possui diversas versões de implementação que produzem resultados
@@ -1919,13 +1696,6 @@ SHA-512 - 512 bits de HASH, com palavras de entrada de 512 bits;
 Divide-se ainda as versões do SHA em 1, 2 e 3. Atualmente, devido à sua robustez,
 utiliza-
 se o SHA3 nas mesmas proporções da análise acima.
-
-
-
-
-
-
-André Castro
 
 
 HORA IX
@@ -1965,13 +1735,6 @@ criptografia e criptografia simétrica e assimétrica.
 A A principal diferença entre os algoritmos de criptografia simétrica e os algoritmos de
 criptografia assimétrica consiste no fato de que os primeiros são fundamentados em
 técnicas de transposição e os segundos em técnicas de substituição.
-
-
-
-
-
-
-André Castro
 
 
 B Um esquema de criptografia será considerado computacionalmente seguro se o tempo
@@ -2023,13 +1786,6 @@ a nova chave pública gerada.
 Comentários:
 
 
-
-
-
-
-André Castro
-
-
 Os algoritmos de criptografia de chaves públicas são baseados em fórmulas
 matemáticas que, a partir de determinados valores de entrada, geram um par de chaves
 como resultado (chave privada e pública). Essas chaves só fazem sentido juntas... Não
@@ -2079,13 +1835,6 @@ Gabarito: C
 Item. 5. CESPE-TCE-SC/AFCE-Área TI/2016
 
 
-
-
-
-
-André Castro
-
-
 Os algoritmos de criptografia de chave pública devem ser computacionalmente fáceis, a fim
 de que o receptor de uma mensagem cifrada com uma chave pública a decriptografe
 utilizando sua chave privada para recuperar a mensagem original.
@@ -2124,11 +1873,6 @@ chave privada confidencial, para criptografar os dados, e outra chave pública, 
 decriptografar os dados, a qual é distribuída para os destinatários.
 
 Comentários:
-
-
-
-
-André Castro
 
 
 Pessoal, comentei lá na nossa teoria a respeito do fato de que não podemos restringir a
@@ -2171,13 +1915,6 @@ Gabarito: E
 10.CESPE - PCF/Área 3/2013
 
 
-
-
-
-
-André Castro
-
-
 Um aplicativo que utiliza recursos biométricos para a criptografia de arquivos, como a
 impressão digital de um indivíduo tanto para encriptar quanto decriptar, assemelha-se a
 um sistema criptográfico simétrico.
@@ -2216,13 +1953,6 @@ Comentários:
 A criptografia simétrica visa garantir tão somente o princípio da confidencialidade.
 
 Gabarito: E
-
-
-
-
-
-
-André Castro
 
 
 13.CESPE - AA (TCE-ES)/lnformática/2013
@@ -2277,13 +2007,6 @@ pública, para que um arquivo seja transferido, entre dois computadores, deforma
 criptografada.
 
 
-
-
-
-
-André Castro
-
-
 Comentários:
 
 Não né pessoal? Isso seria a criptografia assimétrica.
@@ -2322,13 +2045,6 @@ Para evitar o acesso de terceiros não confiáveis aos dados, pode-se utilizar a
 simétrica, técnica que confere confidencialidade às informações.
 
 Comentários:
-
-
-
-
-
-
-André Castro
 
 
 Lembrando que também poderia ser utilizado a criptografia assimétrica sem problema
@@ -2370,13 +2086,6 @@ AES é uma cifra de bloco, enquanto o RC4 é uma cifra de fluxo. Apesar dessa di
 ambos têm em comum a utilização de um tamanho de chave de 128,192 ou 256 bits.
 
 Comentários:
-
-
-
-
-
-
-André Castro
 
 
 0 primeiro trecho da assertiva está tudo certo. Entretanto, o segundo gerou ambiguidade.
@@ -2421,13 +2130,6 @@ justamente não haver a necessidade de troca de chaves e a utilização de uma �
 chave.
 
 
-
-
-
-
-André Castro
-
-
 Gabarito: E
 
 23.CESPE -ANATEL/Analista - Suporte e Infraestrutura de Tecnologia da
@@ -2468,13 +2170,6 @@ Gabarito: C
 
 Nos métodos mais seguros de criptografia, a função e a chave utilizadas na encriptação
 devem ser de conhecimento exclusivo do remetente da mensagem.
-
-
-
-
-
-
-André Castro
 
 
 Comentários:
@@ -2522,13 +2217,6 @@ Comentários:
 Somente uma chave precisa ser mantida em segredo, que é a privada, certo pessoal?
 
 
-
-
-
-
-André Castro
-
-
 Gabarito: E
 
 28.CESPE - PCF/Área 3/2013
@@ -2568,13 +2256,6 @@ procedimentos de download e upload.
 
 E por último, temos o Mercurial, que também é um sistema de repositório que utiliza
 SHA-1 para tratar a integridade dos dados, porém, de uma maneira diferente. Para cada
-
-
-
-
-
-
-André Castro
 
 
 arquivo armazenado no sistema, cria-se um registro, denominado REVLOG. Isso permite
@@ -2617,13 +2298,6 @@ Vimos na nossa teoria que o tamanho dos blocos é limitado.
 Gabarito: C
 
 
-
-
-
-
-André Castro
-
-
 33.CESPE - AJ (STF)/Apoio Especializado/Análise de Sistemas de Informação /2013
 
 0 algoritmo de criptografia MD5 /Message-Digest Algorithm 5) é um método que
@@ -2663,13 +2337,6 @@ O algoritmo de criptografia AES fadvanced encryption standard/ opera em quatro
 estágios: um de permutação e três de substituição. O estágio de permutação ShiftRows é
 reversível e os estágios de substituição SubBytes, MixColumns e AddRoundKey são não-
 reversíveis.
-
-
-
-
-
-
-André Castro
 
 
 Comentários:
@@ -2716,13 +2383,6 @@ e dois de substituição.
 BJ No modo de operação de cifra de bloco cipher block chaining, o texto claro é tratado
 em blocos — um bloco por vez — e cada bloco de texto claro é criptografado mediante o
 uso de uma mesma chave.
-
-
-
-
-
-
-André Castro
 
 
 C) Um código gerado por uma função hash para um conjunto de dados pode garantir a
@@ -2772,13 +2432,6 @@ a
 mensagem enviada.
 
 
-
-
-
-
-André Castro
-
-
 B) Na criptografia de chave pública, ou assimétrica, a chave utilizada para encriptar
 mensagens é distribuída livremente, ao passo que a chave privada decripta a mensagem.
 
@@ -2820,11 +2473,6 @@ O protocolo 3DES possui três chaves criptográficas: a primeira e a segunda cri
 informações; a terceira é usada para descriptografar aquelas.
 
 Comentários:
-
-
-
-
-André Castro
 
 
 Uma bagunça, certo pessoal? Primeiro, que o 3DES não necessariamente utiliza 3 chaves,
@@ -2874,11 +2522,6 @@ vetor de inicialização - VI em uma operação com o primeiro bloco e, em segui
 (Pós-Edital) 56
 
 
-
-
-André Castro
-
-
 bloco cifrado para realimentar a entrada do segundo bloco. Ou seja, realiza-se uma
 operação entre o primeiro bloco cifrado com o segundo bloco em claro, para posterior
 aplicação da chave e assim sucessivamente.
@@ -2890,13 +2533,6 @@ simplesmente quis avaliar a possibilidade de se utilizar a mesma chave, não tem
 problema em marcar CORRETO.
 
 Gabarito: C
-
-
-
-
-
-
-André Castro
 
 
 HORA IX
@@ -2934,13 +2570,6 @@ Item. 2. Cifra-se com a Chave Privada do Emissor.
 Item. 3. Envia o HASH cifrado em conjunto com a mensagem em texto claro.
 
 Item. 4. O receptor decifra o HASH CIFRADO utilizando a chave pública do emissor.
-
-
-
-
-
-
-André Castro
 
 
 Item. 5. 0 receptor gera um novo HASH a partir da mensagem em claro recebida.
@@ -2987,13 +2616,6 @@ c) assimétrica.
 d) unificada.
 
 e) isolada.
-
-
-
-
-
-
-André Castro
 
 
 Comentário:
@@ -3043,13 +2665,6 @@ M = Mensagem
 KS = Chave Secreta compartilhada
 
 MACr - Código de Autenticação de Mensagem gerado pelo remetente
-
-
-
-
-
-
-André Castro
 
 
 KPr = Chave pública do remetente
@@ -3103,13 +2718,6 @@ Item. 5. O destinatário separa a MACr de M e, usando M concatenada com a KS, ge
 um MACd (Assim que o destinatário recebe o conjunto, ele separa o HASH da
 
 
-
-
-
-
-André Castro
-
-
 Mensagem. Pegando apenas a mensagem e sabendo da chave secreta, ele
 gerará um novo HASH para comparação com o HASH recebido)
 
@@ -3157,13 +2765,6 @@ De posse da mensagem original e do HASH, obtidos por intermédio da chave públi
 remetente, o destinatário será capaz de gerar um novo HASH da mensagem
 recebida e
 comparar os resumos
-
-
-
-
-
-
-André Castro
 
 
 Gabarito: C
@@ -3220,13 +2821,6 @@ que a criptografia assimétrica, em regra, é utilizada para a troca de
 chaves, enquanto a
 
 
-
-
-
-
-André Castro
-
-
 simétrica é utilizada para a criptografia dos dados de fato por
 apresentar melhor
 desempenho.
@@ -3278,13 +2872,6 @@ Item. 9. FCC - TJ-AP/Analista Judiciário - TI/2014
 
 Um Analista de TI do Tribunal de Justiça recebeu a incumbência de planejar e
 implementar um esquema de criptografia de Chave Pública para a troca de informações
-
-
-
-
-
-
-André Castro
 
 
 entre as duas comarcas de Macapá. Dentre os diferentes algoritmos existentes, ele deve
@@ -3339,13 +2926,6 @@ b) texto claro, algoritmo de criptografia, chave secreta do emissor, chave secre
 receptor e texto codificado.
 
 
-
-
-
-
-André Castro
-
-
 c) algoritmo de criptografia, chave secreta do emissor, chave pública do receptor, texto
 codificado e algoritmo de decriptografia.
 
@@ -3398,13 +2978,6 @@ saída,
 retornar à mensagem de entrada;
 
 
-
-
-
-
-André Castro
-
-
 Mensagens de entrada distintas devem produzir mensagens de saída distintas;
 
 A mesma mensagem de entrada deve produzir sempre a mesma mensagens de saída;
@@ -3454,13 +3027,6 @@ b) simétrico AES - Advanced Encryption Standard.
 c) assimétrico RSA - Rivest, Shamir and Adleman.
 
 
-
-
-
-
-André Castro
-
-
 d) assimétrico AES -Advanced Encryption Standard.
 
 e) simétrico RSA - Rivest, Shamir and Adleman.
@@ -3477,13 +3043,6 @@ número primos grandes, certo?
 Gabarito: C
 
 
-
-
-
-
-André Castro
-
-
 Chegamos ao término de mais uma aula!
 
 Caso tenha ficado alguma dúvida, me procure no fórum que
@@ -3495,11 +3054,6 @@ Instagram.
 01Instagnam YouTube
 
 Q /p^®^eM<nanz£^ecaAU^
-
-
-
-
-André Castro
 
 
 HORA IX
@@ -3539,13 +3093,6 @@ E Em um ataque por força bruta, exploram-se a natureza e as características do
 algoritmo na tentativa de deduzir as chaves
 
 Item. 3. CESPE - TCE-PR/Analista de Controle - Área TI/2016
-
-
-
-
-
-
-André Castro
 
 
 Em um esquema de criptografia de chaves públicas, caso
@@ -3599,13 +3146,6 @@ A criptologia incorpora estudos e conhecimentos das áreas de criptografia e cri
 Item. 7. CESPE - AJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 
 
-
-
-
-
-André Castro
-
-
 Na criptografia de chave pública assimétrica, são utilizadas duas chaves diferentes: uma
 chave privada confidencial, para criptografar os dados, e outra chave pública, para
 decriptografar os dados, a qual é distribuída para os destinatários.
@@ -3647,13 +3187,6 @@ Criptografia é uma técnica matemática capaz de transformar uma informação d
 forma original para outra forma totalmente ilegível, a partir da qual um processo inverso
 pode voltar a recuperar a informação para seu formato original. Acerca dessas
 informações, assinale a opção correta.
-
-
-
-
-
-
-André Castro
 
 
 a) A técnica criptográfica garante os atributos de autenticidade, integridade,
@@ -3702,13 +3235,6 @@ bidirecionalidade, compressão, tamanho variável, facilidade de cálculo, difus
 simples e colisão forte.
 
 19.CESPE - Aud Gov (CGE Pl)/Tecnologia da lnformação/2015
-
-
-
-
-
-
-André Castro
 
 
 Se, em um esquema de criptografia de chave pública, o emissor E criptografar uma
@@ -3760,13 +3286,6 @@ Nos métodos mais seguros de criptografia, a função e a chave utilizadas na en
 devem ser de conhecimento exclusivo do remetente da mensagem.
 
 
-
-
-
-
-André Castro
-
-
 26.CESPE - Tec MPU/Técnico Administrativo/Tecnologia da Informação e
 Comunicação/2013
 
@@ -3811,13 +3330,6 @@ binário limitado.
 0 algoritmo de criptografia MD5 fMessage-Digest Algorithm 5] é um método que
 transforma uma palavra em um código criptografado único, ou seja, não é possível que
 duas strings diferentes produzam o mesmo hash.
-
-
-
-
-
-
-André Castro
 
 
 34.CESPE - AJ (STF)/Apoio Especializado/Suporte em Tecnologia da lnformação/2013
@@ -3870,11 +3382,6 @@ caracteriza-se pela experimentação de cada chave possível em um trecho do tex
 até que se obtenha uma tradução inteligível para texto claro.
 
 
-
-
-André Castro
-
-
 Item. 39. CESPE - TRE/RS / Técnico Judiciário/2015
 
 A propósito de criptografia, assinale a opção correta.
@@ -3913,11 +3420,6 @@ Item. 43. CESPE - FUNPRESP/ Área 8/2016
 
 Na criptografia simétrica com uso do modo de cifra em bloco (CBCf cada bloco cifrado pode
 utilizar a mesma chave.
-
-
-
-
-André Castro
 
 
 HORA IX
@@ -3962,13 +3464,6 @@ c) assimétrica.
 d) unificada.
 
 e) isolada.
-
-
-
-
-
-
-André Castro
 
 
 Item. 3. FCC - TRT - 32 Região(MG)/Técnico Judiciário - Área de TI/2015
@@ -4028,13 +3523,6 @@ gera um MACd que é comparado com o MACr. Se forem iguais M é considerada autê
 Item. 5. FCC - TRE-RR/Analista Judiciário - Análise de Sistemas/2015
 
 
-
-
-
-
-André Castro
-
-
 Um sistema de computador envia uma mensagem para um receptor, acompanhada de um
 resumo dessa mensagem cifrado com chave privada. 0 objetivo égarantir que o sistema
 receptor decifre o resumo com uma chave pública enviada pelo remetente, calcule um
@@ -4090,13 +3578,6 @@ adotou o padrão WPA2, que possui um método de criptografia mais forte e algori
 mais rápidos que padrões anteriores. 0 WPA2 adota a criptografia
 
 a} RC4 que permite chaves de 256 ou 512 bits
-
-
-
-
-
-
-André Castro
 
 
 b) RC4 que permite chaves de 256 bits.
@@ -4159,13 +3640,6 @@ e) texto claro, algoritmo de criptografia, chave pública compartilhada emissor/
 chave secreta do receptor e texto decodificado.
 
 
-
-
-
-
-André Castro
-
-
 12.FCC - TRT - 32 Região(MG)/Técnico Judiciário - Área de TI/2015
 
 Diversos recursos e ferramentas são utilizados para melhorar a segurança da informação,
@@ -4210,13 +3684,6 @@ d) assimétrico AES - Advanced Encryption Standard.
 e) simétrico RSA - Rivest, Shamir and Adleman.
 
 
-
-
-
-
-André Castro
-
-
 GABARITO
 
 GABARITO
@@ -4258,11 +3725,6 @@ GABARITo CESPE
 17 C
 
 18 E
-
-
-
-
-André Castro
 
 
 19 C
@@ -4316,11 +3778,6 @@ André Castro
 43 C
 
 
-
-
-André Castro
-
-
 GABARITo FCC
 
 1 E
@@ -4349,79 +3806,4 @@ GABARITo FCC
 
 13 C
 
-
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

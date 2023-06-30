@@ -1,24 +1,5 @@
 Capítulo. Desenvolvimento de Software - Orientação a Objetos (2).
 
-Concursos
-
-(Profs. Paolla
-Ramos e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Desenvolvimento de
-software - 2023 (Pós-Edital)
-
-Autor:
-
-Paolla Ramos e Silva
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Índice
 
@@ -36,12 +17,6 @@ Paolla Ramos e Silva
 
 7) Lista de Questões - Programação Orientada a Objetos - Conceitos Básicos - Cebraspe
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 PRoGRAMAçÃo ORIENTADA A OBJEToS
 
@@ -85,16 +60,10 @@ somente uma: o princípio da abstração.
 Mas vamos começar pela pedra fundamental, classes e objetos.
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Classes
 
@@ -140,17 +109,13 @@ de um
 operando: o construtor, que é o nome de um método especial que constrói o objeto.
 Uma vez
 
- x' 4
+x' 4
 
-www.estrategiaconcursos.com.br
+
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 construído, o objeto deve ser atribuído a uma variável, para que possa ser utilizado
 e referenciado
@@ -198,16 +163,10 @@ volatile Salario; //Indica que Salário é modificável por threads distintas;
 static Idade; //Indica que Idade é compartilhada por todos objetos;
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 transient Sexo; //Indica que Sexo não pode ser serializável;
 
@@ -254,16 +213,10 @@ podendo ser:
 abstract int soma (int a, int b) {//...//}
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 //Indica que esse método não pode ser sobrescrito
 final int soma (int a, int b) {//...//}
@@ -305,16 +258,10 @@ construtores para
 uma mesma classe.
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Outro método muito importante é o Método Main! Pois é, ele é sempre definido como um
 método
@@ -369,16 +316,10 @@ abstrata
 pura por conta disso, ou seja, não há impurezas (isto é, métodos concretos).
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Encapsulamento
 
@@ -447,15 +388,8 @@ private are not inherited by
 subdasses o f that dass".
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ■ <default>: também chamado friendly, não há palavra para esse modificador porque ele
 é, na
@@ -511,16 +445,10 @@ class Classel {
 private String Algo;
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 //Método público para recuperar dados
 public String getAlgo() {
@@ -573,16 +501,10 @@ Professor, o que você quer dizer com mesma assinatura e assinatura diferente?
 quantidade, tipo e ordem dos parâmetros. Em outras palavras:
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 //Assinatura Igual: quantidade, tipo e ordem
 
@@ -626,14 +548,8 @@ serão
 classes filhas da superclasse Animal. Observem abaixo que ambas implementam o método
 
 
-
-
 , 44
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 abstract void som( ), porém cada uma a sua maneira, visto que gatos e cachorros
 emitem sons
@@ -671,16 +587,10 @@ tempo de
 execução. No primeiro momento, ele apresentará "MIAU!", porque animal é nesse instante um
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 gato. Depois fazemos outra atribuição e ele apresentará "AUAU", porque animal naquele
 instante
@@ -720,10 +630,6 @@ x.soma(20,20); //Mesmo nome, mas assinatura diferente (2 valores)
 }
 
 
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Java: Herança
 
 Herança é a habilidade de se derivar alguma coisa específica a partir de algo mais
@@ -754,15 +660,8 @@ herda da categoria Carro (e somente dela, diretamente). Em contraste, a Herança
 Múltipla permite
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 que uma entidade herde diretamente comportamentos e estados de duas ou mais categorias
 ao
@@ -808,12 +707,6 @@ reutilizadas). A sintaxe que expressa o conceito de extensão de classes é a se
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 class NomeClasseFilha extends NomeClassePai {
 
@@ -867,16 +760,10 @@ variável pode assumir momentaneamente outro tipo para que o programador possa u
 Legal, galera! Vamos ver agora como são cobradas as questões de programação OO em Java!
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - PRoGRAMAçÃo ORIENTADA A
 
@@ -935,16 +822,10 @@ public class Teste implements FiguraGeometrica
 Conforme vimos em aula, utilizamos a palavra-reservada implements. Gabarito: E
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 3. (ESAF - 2008 - CGU - Tecnologia da Informação) Com relação a essa característica, é
 correto afirmar que:
@@ -1011,16 +892,10 @@ a) não pode ser referenciada;
 b) não pode ser estendida;
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) não pode ser instanciada;
 
@@ -1071,16 +946,10 @@ abstract class Carro {...}
 //Essa classe não pode ser estendida
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 final class Carro {...}
 
@@ -1106,16 +975,10 @@ então ele é
 implicitamente público e evidentemente abstrato. Gabarito: B
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - PRoGRAMAçÃo ORIENTADA A
 
@@ -1163,14 +1026,8 @@ b) nome_Classe nome_Objeto = new nome_Classe();
 c) nome_Classe nomejnstancia = new nome_Objeto();
 
 
-
-
 , 44
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) nomejnstancia nome_Objeto = new nome_lnstancia();
 
@@ -1235,16 +1092,10 @@ b) abstract.
 c) protected.
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) volatile.
 
@@ -1295,17 +1146,13 @@ return x + y;
 
 public double calcular(double x, double y) {
 
- x'
+x'
 
-www.estrategiaconcursos.com.br
+
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 return x * y;
 
@@ -1372,16 +1219,10 @@ próprios
 métodos.
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) Quando se instancia um objeto da subclasse, podem ser passados valores para os
 atributos
@@ -1451,16 +1292,10 @@ d) encapsulamento.
 e) polimorfismo.
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -1576,14 +1411,8 @@ c) polimorfismo.
 
 
 
-1 www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) sobrescrita de construtores.
 
@@ -1673,16 +1502,10 @@ métodos; é algo mais específico, é uma sobrecarga de construtores. Percebe? 
 forma, eu
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 recomendo não brigar com a banca e marcar a opção que não gera dúvidas.
 Agora... se for
@@ -1744,17 +1567,13 @@ NomeClasse NomeObjeto = new NomeClasseO;
 
 Conforme vimos em aula, trata-se da segunda opção! Gabarito: B
 
- x'"'
+x'"'
 
-www.estrategiaconcursos.com.br
+
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - PRoGRAMAçÃo ORIENTADA A
 
@@ -1794,16 +1613,10 @@ static int soma (int a, int b) {//...//}
 native int soma (int a, int b) {//...//}
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 //Indica que esse método só é executável por uma thread por vez
 synchronized soma (int a, int b) {//...//}
@@ -1853,16 +1666,10 @@ pela classe de origem.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Perfeito, perfeito, perfeito! Gabarito: C
 
@@ -1905,16 +1712,10 @@ menos restritivo.
 Perfeito, são públicos para toda e qualquer classe. Gabarito: C
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - PRoGRAMAçÃo ORIENTADA A
 
@@ -1980,16 +1781,10 @@ própria
 classe.
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 4. (FGV - 2015 - PGE/RO - Analista de Sistemas) Na linguagem de programação Java, para
 indicar que uma classe A é derivada de B, utiliza-se, na declaração de A, o modificador:
@@ -2044,16 +1839,10 @@ d) públicos e finais;
 e) privados e abstratos.
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -2075,14 +1864,8 @@ Item. 6. B
 Item. 7. B
 
 
-
-
 ,
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - PRoGRAMAçÃo ORIENTADA A
 
@@ -2141,16 +1924,10 @@ d) volatile.
 e) transient.
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 5. (FCC - 2005 - TRE-MG - Técnico Judiciário - Programação de Sistemas) Os métodos Java
 que não retornam valores devem possuir no parâmetro tipo-de-retorno a palavra:
@@ -2199,16 +1976,10 @@ NewClassA e
 NewClassB, pois essas classes não contêm um construtor válido.
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) Se for digitada a instrução NewClassB c = new NewClassA(); no método main da
 classe Start
@@ -2275,16 +2046,10 @@ b) overload.
 c) herança.
 
 
-
-www.estrategiaconcursos.com.br
 / 44
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) encapsulamento.
 
@@ -2383,12 +2148,6 @@ s = f.calcularSalario();
 System.out.println(s);
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 As linhas que contêm a instrução s = f.calcularSalario( ); demonstram um conceito da
 orientação a objetos conhecido como:
 
@@ -2431,14 +2190,8 @@ d) nomejnstancia nome_Objeto = new nomejnstancia();
 e) nomejnstancia nome_Classe = new nomejnstancia();
 
 
-
-
 , 44
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -2470,16 +2223,10 @@ Item. 11. C
 Item. 12. B
 
 
-
-
 ,■
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - PRoGRAMAçÃo ORIENTADA A
 
@@ -2526,89 +2273,9 @@ da classe para
 manipular dados armazenados em objetos dessa classe.
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 GABARITo
-
-
 
 
 /
 
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

@@ -1,24 +1,5 @@
 Capítulo. Desenvolvimento de Software - HTML.
 
-Concursos
-
-(Profs. Paolla
-Ramos e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Desenvolvimento de
-software - 2023 (Pós-Edital)
-
-Autor:
-
-Paolla Ramos e Silva
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Índice
 
@@ -28,12 +9,6 @@ Paolla Ramos e Silva
 
 3) Desenvolvimento Front-End - HTML - Lista de Questões - MULTIBANCAS
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Sumário
 
@@ -81,17 +56,13 @@ Bloco HTML e elementos embutidos.
 
 Elementos de nível de bloco
 
-0 0 
+0 0
 
 wwN.estrategiaconcursos.com.br
 / 187
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Elementos inline
 
@@ -120,16 +91,10 @@ Questões Cespe
 Gabarito
 
 
-
-www.estrategiaconcursos.com.br
 ./ 187
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 APRESENTAçÃo DA AULA
 
@@ -158,15 +123,7 @@ resumos e
 mnemónicos. Vamos ao que importa! (§)
 
 
-
-www.estrategiaconcursos.com.br
-
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -235,15 +192,8 @@ hiperligações (em inglês: hyperlink e link). O padrão é
 independente de outros padrões de processamento de texto em geral.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 r
 
@@ -314,16 +264,11 @@ SGML é um padrão de formatação de textos. Não foi desenvolvido para hiperte
 tornou-se conveniente para transformar documentos em
 hiper-objetos e para descrever as ligações.
 
- x" 7
+x" 7
 
-www.estrategiaconcursos.com.br
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 : a) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0
 Strict//EN"
@@ -386,15 +331,8 @@ mais fácil
 para os desenvolvedores criar formulários amigáveis.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O HTML5 foi projetado para ser compatível com as versões anteriores
 do HTML,
@@ -451,15 +389,8 @@ página da Web, use
 CSS.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <html>
 
@@ -496,16 +427,8 @@ ELEMENTOS HTML INFORMAM AO NAVEGADOR COMO EXIBIR 0 CONTEÚDO E ROTULAM PARTES
 ", ETC.
 
 
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 HTML Básico
 
@@ -564,17 +487,7 @@ Este é o título 3
 Os parágrafos HTML são definidos com a tag <p>:
 
 
-
-
 www. estra tegiaconcursos. com. br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 <p>Isto é um parágrafo.</p>
@@ -617,16 +530,8 @@ src), texto
 alternativo ( alt), widthe height são fornecidos como atributos:
 
 
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <img src="w3schools.jpg" alt="W3Schools.com"
 width="104" height="142">
@@ -674,7 +579,7 @@ src="https://www.facebook.com/tr?id=1751780821700636&ev=PageView&noscript=l"/>
 "name": "Estratégia Concursos",
 "alternateName": "Estratégia Concursos",
 
-"uri": "https://www.estrategiaconcursos.com.br/"
+"uri": "https:///"
 
 }
 
@@ -710,16 +615,6 @@ Estilos que é aberto.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 K fi~l | Elements Console Sources Network Performance Memory Application Security Lighthouse
 Recorder Ã »
 CDOCTYPE html>
@@ -728,7 +623,7 @@ CDOCTYPE html>
 
 ► <head itemtype="http://schema.org/WebSite''>-.</head>
 
-**►<body id="b_home" data-root=''https://www.estrategiaconcursos.com.br" class="vsc-initialized"
+**►<body id="b_home" data-root=''https://" class="vsc-initialized"
 style="padding-top: 0px;">-.</body>
 
 == $9
@@ -749,16 +644,8 @@ none;">-</iframe>
 </html>
 
 
+I
 
-I www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Elementos HTML
 
@@ -824,15 +711,8 @@ programação diz:
 "Nunca pule a tag final!" ©
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Como disse, há elementos que não precisam da tag final! São
 conhecidos como
@@ -871,16 +751,6 @@ comoXHTML.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Atributos HTML
 
@@ -927,17 +797,8 @@ acordo com suas
 necessidades.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Cabeçalhos HTML
 
@@ -1032,15 +893,8 @@ Você pode alterar o tamanho de um título com o atributo style,
 usando a propriedade font-size.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Parágrafos HTML
 
@@ -1127,12 +981,8 @@ Este é o título 2
 
 Este é outro texto.
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O elemento HTML <br>define uma quebra de linha. Use <br>se quiser uma
 quebra de
@@ -1182,30 +1032,19 @@ e) <pre> e </pre>.
 
 x-""' 20
 
-www.estrategiaconcursos.com.br
+
 ./ 187
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários: O elemento HTML <pre>define o texto pré-formatado. O texto dentro de um
 elemento <pre> é exibido em uma fonte de largura fixa (geralmente Courier) e preserva espaços
 e quebras de linha. (Gabarito: Letra E)
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Estilos HTML
 
@@ -1267,15 +1106,7 @@ Isso é um parágrafo.
 2 property é uma propriedade CSS. vaLue é um valor CSS.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 <!DOCTYPE html>
@@ -1366,27 +1197,10 @@ Parágrafo centralizado
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-
-
-www.estrategiaconcursos.com.br
 / 187
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Formatação de Texto HTML
 
@@ -1445,15 +1259,8 @@ linha normal e, às vezes, é renderizado em uma fonte menor. O texto
 sobrescrito pode ser usado para notas de rodapé, como WWW111.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <B> TEXTO EM NEGRITO
 
@@ -1479,16 +1286,10 @@ Paolla Ramos e Silva
 <SUP> TEXTO SOBRESCRITO
 
 
-
-www.estrategiaconcursos.com.br
 / 187
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Citação em HTML
 
@@ -1505,7 +1306,7 @@ navegadores geralmente indentam <blockquote>elementos.
 
 <p>Depoimentos de Alunos: Paolla Ramos - Aprovada no ISS Aracaju</p>
 
-<blockquote cite="https://www.estrategiaconcursos.com.br/assinaturas-
+<blockquote cite="https:///assinaturas-
 platinum/">
 
 lá estudava há um tempo, porém não conseguia ver a minha evolução. Tinha medo
@@ -1572,17 +1373,8 @@ endereço físico, número de telefone, identificador de mídia social, etc. O t
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
 *
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 elemento <address> geralmente é renderizado em itálico e os navegadores sempre
 adicionam uma quebra de linha antes e depois do elemento <address>.
@@ -1620,15 +1412,8 @@ C->
 <Q> DEFINE UMA CITAÇÃO CURTA EM LINHA
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários HTML
 
@@ -1649,17 +1434,8 @@ comentários, você pode colocar notificações e lembretes em seu código HTML.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
 *
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Cores HTML
 
@@ -1740,15 +1516,7 @@ olutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
 ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 <!DOCTYPE html>
@@ -1845,16 +1613,8 @@ In addition to the predefined color names, colors can be specified using RGB, HE
 transparent colors using RGBA or HSLA color values.
 
 
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Links HTML
 
@@ -1905,20 +1665,8 @@ como o clique de um botão:
 cbutton onclick="document.location='default.asp'">HTML </ button >
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Imagens HTML
 
@@ -1977,17 +1725,8 @@ de domínio. Se a URL começar sem uma barra, ela será relativa à página atua
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
 *
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 src="img_girl.jpg". Se a URL começar com uma barra, ela será relativa ao
 domínio.
@@ -2047,15 +1786,8 @@ O atributo alt deve refletir o conteúdo da imagem: para que os usuários
 que nào podem ver a imagem entendam o que ela contém:
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O HTML permite GIFs animados. E também permite usar uma imagem como link, para
 isso, basta colocar a tag <img> dentro da tag <a>
@@ -2115,16 +1847,10 @@ Define uma área clicável dentro de um mapa de imagem;
 Define um contêiner para vários recursos de imagem.
 
 
-
-www.estrategiaconcursos.com.br
 / 187
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Espera aí, mas o que é um mapa de
 imagem? Veremos isso agora!
@@ -2158,17 +1884,13 @@ cimg src="workplace.jpg" alt="Workplace" usemap="#workmap">
 
 </map>
 
- s'"
+s'"
 
-www.estrategiaconcursos.com.br
+
 ./ 187
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Tabelas HTML
 
@@ -2259,16 +1981,6 @@ Para entender melhor o exemplo, adicionamos bordas à tabela.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 <TABLE> DEFINE UMA TABELA
 
 <TH> DEFINE UMA CÉLULA DE CABEÇALHO EM UMA TABELA
@@ -2329,16 +2041,6 @@ style com as propriedades width ou height para especificar o tamanho de uma tabe
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 linha ou coluna, para definir a largura da tabela HTML, adicione o
 atributo style ao
 elemento <table>. Para definir o tamanho de uma coluna específica, adicione o
@@ -2391,15 +2093,8 @@ célula abranger
 várias linhas, use o atributo rowspan
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Estilizaçâo de Tabelas HTML
 
@@ -2429,17 +2124,8 @@ quantas
 colunas recebem o estilo. Já, o atributo style especifica o estilo a ser dado às colunas.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Listas HTML
 
@@ -2526,18 +2212,8 @@ descrição, a tag
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
 * 05152001900 - Everton
 Murilo Vieira
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 <!DOCTYPE html>
@@ -2661,15 +2337,8 @@ i
 Listas Não Ordenadas
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Como já vimos, uma lista não ordenada começa com a tag <ul> e cada item
 da lista
@@ -2686,15 +2355,7 @@ seja, uma lista
 dentro da outra lista.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 <!DOCTYPE html>
@@ -2799,15 +2460,8 @@ background-color: #111111;
 </head>
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <body>
 
@@ -2860,17 +2514,8 @@ no caso em =
 =
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 = a) <b>
 
@@ -2925,16 +2570,10 @@ você define o tipo e o resultado será como a imagem logo após o código. Veja
 </ol>
 
 
-
-www.estrategiaconcursos.com.br
 ./ 187
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Lista Ordenada com Números
 
@@ -2983,16 +2622,9 @@ definir o valor
 que deseja iniciar.
 
 
-
-www.estrategiaconcursos.com.br
 / 187
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 <!DOCTYPE html>
@@ -3056,12 +2688,6 @@ AS LISTAS PODEM SER ANINHADAS
 
 OS ITENS DA LISTA PODEM CONTER OUTROS ELEMENTOS HTML
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Bloco HTML e elementos embutidos
 
@@ -3135,17 +2761,8 @@ representar barras
 laterais, citações e outros conteúdos relacionados tangencialmente.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Lembre-se de que o elemento <aside> é um elemento semântico, o que
 significa que é
@@ -3205,15 +2822,8 @@ especificados em
 pixels ou como uma porcentagem do espaço disponível.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Lembre-se de que os atributos de altura e largura são opcionais e, se
 você não os
@@ -3274,15 +2884,8 @@ compatível com o elemento <track>, como WebVTT (Web Video Text Tracks).
 Theora é um codec de vídeo, de compressão com perda de dados
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Quando o vídeo for reproduzido, as legendas serão exibidas sobre o vídeo
 com base nas
@@ -3323,15 +2926,8 @@ apenas a largura necessária.
 Vejamos os elementos inline em HTML:
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ELEMENTOS INLINEHTML
 
@@ -3376,15 +2972,8 @@ milênios, sua história remonta à sua fundação pelos romanos, que a batizara
 de Londinium.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O elemento <span> é um contêiner embutido usado para marcar uma parte de
 um texto
@@ -3412,17 +3001,8 @@ Para relembrar, fica esse grande lembrete:
 <SPAN> DEFINE UMA SEÇÃO EM UM DOCUMENTO [EM UNHA)
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Atributo de classe HTML
 
@@ -3525,18 +3105,9 @@ classes especificadas.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
 * 05152001900 - Everton
 Murilo Vieira
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 No exemplo a seguir, o primeiro elemento <h2> pertence tanto à classe city
 quanto à
@@ -3614,15 +3185,8 @@ mesmo
 estilo
 
 
-
-
 * 05152001900 - Everton
 Murilo Vieira
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 <!DOCTYPE html>
@@ -3743,16 +3307,6 @@ Tóquio é a capital do Japão.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 0 ATRIBUTO HTML CLASS ESPECIFICA UM OU MAIS NOMES DE CLASSE PARA UM ELEMENTO
 
 CLASSES SÃO USADAS POR CSS E JAVASCRIPT PARA SELECIONAR E ACESSAR ELEMENTOS
@@ -3767,17 +3321,8 @@ JAVASCRIPT PODE ACESSAR ELEMENTOS COM UM NOME DE CLASSE ESPECÍFICO COM 0 MÉTOD
 GETELEMENTSBYCLASSNAMEO
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Formulários HTML
 
@@ -3858,15 +3403,8 @@ quando o
 usuário focar no elemento de entrada.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O elemento <labei> também ajuda os usuários que têm dificuldade em clicar em regiões
 muito pequenas (como botões de opção ou caixas de seleção) - porque quando o usuário
@@ -3974,16 +3512,10 @@ O <input type="submit"> define um botão para enviar os dados do formulário par
 manipulador de formulário. O manipulador de formulário geralmente é um arquivo no
 
 
-
-www.estrategiaconcursos.com.br
 / 187
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 servidor com um script para processar dados de entrada. O manipulador de formulário é
 especificado no atributo action do formulário.
@@ -4064,15 +3596,8 @@ formulário. Os dados do formulário podem ser enviados como variáveis de URL
 (com
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 method="get") ou como pós-transação HTTP (com method="post"). O método HTTP
 padrão ao enviar dados de formulário é GET.
@@ -4139,15 +3664,8 @@ target Especifica onde exibir a resposta recebida após o envio do formulário
 Os elementos HTML <form>
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Vimos os atributos agora vamos ver os elementos dos formulários HTML! O
 elemento
@@ -4220,15 +3738,7 @@ Dependendo do suporte do navegador, um seletor de data pode
 aparecer no campo de entrada.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 <input
@@ -4321,18 +3831,7 @@ Define um botão para enviar dados de formulário para um manipulador
 de formulário
 
 
-
-
-
 ,
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 <input type="tel">
@@ -4367,17 +3866,8 @@ de entrada.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
 /
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 APIs HTML
 
@@ -4421,17 +3911,8 @@ isso
 pode comprometer a privacidade, a posição não está disponível a menos que o usuário
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 aprove, a API de geolocalização permite que aplicativos da web acessem as informações
 de localização do usuário, com a permissão do usuário. Isso pode ser útil para uma
@@ -4496,15 +3977,8 @@ A geolocalização também é muito útil para informações específicas do loc
 * Navegação curva a curva (GPS).
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 API de armazenamento da Web em HTML
 
@@ -4549,15 +4023,8 @@ desenvolvimento de j
 =
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 No HTML 5, sessionStorage pode ser utilizado para armazenamento local de dados, tendo
 como
@@ -4580,16 +4047,10 @@ o
 window.localStorage que o faz. (Gabarito: Errado)
 
 
-
-www.estrategiaconcursos.com.br
 ./ 187
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 XHTML
 
@@ -4632,17 +4093,8 @@ como o documento deve ser interpretado por navegadores da Web e outros
 aplicativos.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Tipo MIME: XHTML usa um tipo MIME (Multipurpose Internet Mail Extensions)
 diferente do HTML. O tipo MIME informa aos navegadores da Web e outros
@@ -4654,15 +4106,8 @@ JavaScript, para criar páginas da Web dinâmicas e interativas. No entanto, o H
 é amplamente usado e suportado por todos os navegadores modernos.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Acessibilidade HTML
 
@@ -4704,17 +4149,8 @@ idioma padrão da página da web. Isso ajuda a garantir que o conteúdo seja int
 e pronunciado corretamente por tecnologias assistivas.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Vale a pena notar que o atributo lang não está limitado ao HTML5 - ele faz parte do
 HTML há muitos anos. No entanto, é um importante recurso de acessibilidade que vale a
@@ -4727,15 +4163,8 @@ chtml lang="en">
 </html>
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 RESUMO
 
@@ -4775,14 +4204,10 @@ um parágrafo", "isto é um link", etc.
 
 
 7$
-www.estrategiaconcursos.com.br
+
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 HTML Básico
 
@@ -4825,12 +4250,6 @@ Este é o título 3
 
 Elementos HTML
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Um elemento HTML é definido por uma tag inicial, algum conteúdo e uma tag final. O
 elemento HTML é tudo, desde a tag inicial até a tag final:
@@ -4880,9 +4299,6 @@ link vai:
 
 <a href="https://www.w3schools.com">Este é um link</a> Este é um link
 
-
-
-www.estrategiaconcursos.com.br
 
 /
 
@@ -4968,12 +4384,6 @@ significa
 que não tem tag final.
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Estilos HTML
 
 O atributo HTML style é usado para adicionar estilos a um elemento, como cor, fonte,
@@ -5012,17 +4422,6 @@ O atributo HTML style tem a seguinte sintaxe4:
 4 property é uma propriedade CSS. vaLue é um valor CSS.
 
 
-
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 <!DOCTYPE html>
@@ -5072,17 +4471,6 @@ Color Define a cor do texto para um elemento HTML
 Font-family Define a fonte a ser usada para um elemento HTML
 
 
-
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Font-size
@@ -5152,15 +4540,8 @@ maneira em todos os navegadores:
 * Um link ativo é sublinhado e vermelho
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O atributo target especifica onde abrir o documento vinculado.
 
@@ -5221,15 +4602,8 @@ Scalable Vector Graphics
 ■svg
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Tag Descrição
 
@@ -5289,16 +4663,6 @@ Valor Descrição
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Define o marcador de item da lista para um marcador (padrão).
 Define o marcador de item da lista para um círculo.
 
@@ -5338,17 +4702,8 @@ AS LISTAS PODEM SER ANINHADAS
 OS ITENS DA LISTA PODEM CONTER OUTROS ELEMENTOS HTML
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ELEMENTOS DE NÍVEL DE BLOCO
 
@@ -5356,17 +4711,8 @@ ELEMENTOS DE NÍVEL DE BLOCO
 <TFOOT>
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ELEMENTOS INLINE HTML
 
@@ -5387,16 +4733,10 @@ ELEMENTOS INLINE HTML
 Para relembrar, fica esse grande lembrete:
 
 
-
-www.estrategiaconcursos.com.br
 / 187
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <DIV> DEFINE UMA SEÇÃO EM UM DOCUMENTO (NÍVEL DE BLOCO]
 
@@ -5446,15 +4786,7 @@ Exibe um botão de opção (para selecionar uma das muitas
 opções)
 
 
-
-www.estrategiaconcursos.com.br
-
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 <input type="checkbox">
@@ -5528,15 +4860,7 @@ method Especifica o método HTTP a ser usado ao enviar dados de formulário
 name Especifica o nome do formulário
 
 
-
-www.estrategiaconcursos.com.br
-
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 novalidate
@@ -5607,15 +4931,7 @@ usuário selecione ZERO ou MAIS opções de um número limitado de
 opções.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 cinput
@@ -5704,18 +5020,7 @@ Item. 100. No entanto, você pode definir restrições sobre quais números são
 aceitos com os atributos min, maxe :step
 
 
-
-
-
 ,
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 cinput
@@ -5793,15 +5098,8 @@ Define um comentário
 <aside> Define o conteúdo além do conteúdo da página
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <audio> Define o conteúdo de som incorporado
 
@@ -5865,16 +5163,10 @@ elemento <colgroup
 <dt> Define um termo/nome em uma lista de descrição
 
 
-
-www.estrategiaconcursos.com.br
 / 187
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <em> Define o texto enfatizado
 
@@ -5940,16 +5232,9 @@ usado para vincular a folhas de estilo)
 <meter> Define uma medição escalar dentro de um intervalo conhecido (um medidor)
 
 
-
-www.estrategiaconcursos.com.br
 / 187
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 <nav>
@@ -6065,16 +5350,10 @@ Define um cabeçalho visível para um elemento <details>
 Define o texto sobrescrito
 
 
-
-www.estrategiaconcursos.com.br
 / 187
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <svg> Define um contêiner para gráficos SVG
 
@@ -6116,17 +5395,13 @@ normal
 
 <wbr> Define uma possível quebra de linha
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 187
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Mais cobrados em provas
 
@@ -6192,15 +5467,7 @@ Número Entidade Descrição
 &clubs Club preto
 
 
-
-www.estrategiaconcursos.com.br
-
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 &hearts
@@ -6250,15 +5517,7 @@ charset character_set Especifica a codificação de caracteres para o
 documento HTML
 
 
-
-www.estrategiaconcursos.com.br
-
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 content text
@@ -6318,15 +5577,8 @@ todos os dispositivos:
 cmeta name="viewport" content="width=device-widthj initial-scale=l.0">
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A viewport é a área visível do usuário de uma página da web. Varia de acordo com o
 dispositivo - será menor em um telefone celular do que na tela do computador. Você
@@ -6370,33 +5622,17 @@ baixados e armazenados em cache. Em visitas posteriores, o site será carregado 
 do cache, permitindo que ele funcione offline.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 REFERÊNCIAS
 
 https://www.w3schools.com/html/
 
 
-
 www. estra tegiaconcursos. com. br
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Questões Cespe
@@ -6442,15 +5678,8 @@ funcionamento.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 É possível usar dois objetos para armazenar dados no cliente:
 window.localStorage e
@@ -6501,15 +5730,8 @@ foi projetado para armazenar e transportar dados.
 Gabarito: Errado
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 6. (CESPE - SEFAZ CE - 2021) Com relação à arquitetura de desenvolvimento de
 software, julgue o item a seguir.
@@ -6567,16 +5789,8 @@ resultado a seguir
 Comentários:
 
 
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Pessoal, perfeita questão. O script realiza a concatenação dos valores id a e b e
 insere em
@@ -6642,16 +5856,6 @@ arquivos que devem ser armazenados em cache.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Gabarito: Letra B
 
 Item. 9. (CESPE - MPE CE - 2020) Acerca de JSON e HTML 5, julgue o item subsecutivo.
@@ -6696,15 +5900,8 @@ auxiliar a
 formatação dos elementos.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Correto
 
@@ -6756,15 +5953,8 @@ Gabarito: Correto
 Item. 13. (CESPE - TJ PA - 2020)
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ClDOCTYPE hcml>
 
@@ -6818,17 +6008,7 @@ Isso incluirá o nome da propriedade e o valor dela na saída. Por exemplo: nome
 Idade: 52. carro: null. Vejamos o resultado da execução do código.
 
 
-
-
 www. estra tegiaconcursos. com. br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 <!DOCTYPE html>
@@ -6895,17 +6075,8 @@ conteúdo
 independente de outras partes do sítio e altamente relevante. É autocontido. Exemplo:
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 comentário enviado por usuário, post de um blog, artigo de uma revista. A tag <figure>
 especifica o conteúdo independente, como ilustrações, diagramas, fotos, listagens
@@ -6970,16 +6141,6 @@ usuário. O botão de envio é criado usando o elemento <input type="submit">. Q
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 o usuário clica no botão, o formulário é enviado para o arquivo teste.html,
 que é
 especificado no atributo action do elemento <form>.
@@ -7027,15 +6188,8 @@ Pessoal, apesar dessas tags serem obsoletas, o HTML5 ainda reconhece o funcionam
 dessas tags. E o HTML 5 define como os navegadores web devem lidar com elas.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Correto
 
@@ -7081,17 +6235,8 @@ e
 sintaxes do HTML 5.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Errado
 
@@ -7146,17 +6291,8 @@ automaticamente focado quando do carregamento da página.
 Comentários:
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O atributo autofocus é um atributo HTML5 que pode ser usado para especificar que um
 elemento de formulário deve ser focado automaticamente quando a página é carregada.
@@ -7208,17 +6344,8 @@ uma tarefa; c) <meter> Define uma medição escalar dentro de um intervalo conhe
 (um medidor); d) <figcaption> Define uma legenda para um elemento <figure>; e)
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <main> Especifica o conteúdo principal de um documento. Portanto, nosso gabarito é a
 letra B.
@@ -7268,15 +6395,8 @@ semânticos
 introduzidos no HTML5 (por exemplo, <header>, <footer> e <article>). A questão limita
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a funcionalidade do jQuery além de citar a incorporação do jQuery ao HTML5, o que
 está
@@ -7326,15 +6446,8 @@ que não suportam anotações ruby.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Na referência do HTML 5 temos que <rp> define o que mostrar em navegadores que não
 suportam anotações ruby.
@@ -7386,15 +6499,8 @@ determinar o seu cabeçalho.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Nosso gabarito é a letra D. O elemento <iframe> é um elemento HTML usado
 para
@@ -7450,17 +6556,8 @@ controle de formulário tem uma finalidade não óbvia (por exemplo, uma caixa d
 usada para aceitar um boletim informativo). Ajudar a melhorar a usabilidade de seus
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 formulários, pois os usuários podem clicar no texto do rótulo para focar o controle do
 formulário. O elemento <label> é um elemento importante para a criação de formulários
@@ -7504,15 +6601,8 @@ button.
 Gabarito: Errado
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 34. (CESPE -TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
 formulários eletrônicos.
@@ -7559,16 +6649,10 @@ Pessoal, é super possível! Inclusive uma das formas é utilizando a tag <field
 Gabarito: Correto
 
 
-
-www.estrategiaconcursos.com.br
 ./ 187
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões FCC
 
@@ -7625,15 +6709,8 @@ conteúdo para se adequar ao tamanho do dispositivo e da tela do usuário.
 Sites
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 responsivos usam uma combinação de grades flexíveis, imagens e consultas de mídia para
 criar uma experiência de usuário perfeita e intuitiva em uma ampla variedade
@@ -7703,9 +6780,6 @@ content= "width=device-width, initial-scale= 1,0">. Assim, nosso gabarito é a l
 Gabarito: Letra B
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
 
@@ -7760,16 +6834,8 @@ The <iframe> element is an HTML element that is used to embed a document within
 another document. It provides a way to display content from another webpage within the
 
 
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 current webpage, and is commonly used to embed videos, maps, and other interactive
 content.
@@ -7826,15 +6892,8 @@ tag
 Gabarito: Letra D
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 40. (FCC-AFAP-2019) E m uma página HTML 5 de abertura de um site, um Analista
 
@@ -7886,15 +6945,8 @@ janela do navegador mudar, o programador deverá usar a tag <wbr>. De acordo com
 definição, <wbr> define uma possível quebra de linha.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra D
 
@@ -7947,17 +6999,8 @@ Pessoal, é exatamente o mesmo caso da questão da Pref Manaus de 2019! Deve ser
 utilizada a tag <wbr> que define uma possível quebra de linha.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra B
 
@@ -8014,17 +7057,8 @@ normalmente à
 esquerda. Quando o examinador diz: " mas relacionado com um conteúdo que o
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 circunda" já se infere a tag <aside> que é o nosso gabarito. Para complementar,
 vejamos
@@ -8079,15 +7113,8 @@ chamado aOOI.css a ser aplicado apenas quando a página for aberta em dispositiv
 com tela de até 600 pixels. A instrução correta que deverá ser inserida é
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) <@import URL(a001 .css) only screen and (max-width: 600px)>
 
@@ -8145,15 +7172,8 @@ pré-formatado. O texto dentro de um elemento <pre> é exibido em uma fonte de l
 fixa (geralmente Courier) e preserva espaços e quebras de linha.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra E
 
@@ -8211,17 +7231,8 @@ e) mp4, avi e mov.
 Comentários:
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O elemento <video> suporta vários formatos de arquivo de vídeo diferentes,
 incluindo:
@@ -8275,17 +7286,8 @@ sendo
 desenvolvido para o Tribunal Regional do Trabalho da 24a Região, um Técnico
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 recomendou o uso de recursos da linguagem HTML, versão 5, para identificar o idioma
 principal da página. Para isso deve-se utilizar:
@@ -8340,15 +7342,8 @@ elas podem ajustar seu layout e aparência para caber no tamanho e na resoluçã
 dispositivo que está sendo usado para visualizá-las.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra B
 
@@ -8413,17 +7408,8 @@ i
 </body>
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para disponibilizar na página o áudio chamado beethoven.mp3 a lacuna I deve ser
 corretamente preenchida por
@@ -8477,15 +7463,8 @@ inserir o elemento id="local", deve usar o método document.getElementByld e usa
 Gabarito: Letra A
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 57. (FCC-TRT 23-2016) De acordo com as recomendações da W3C para a linguagem
 HTML5, a instrução
@@ -8543,15 +7522,8 @@ define os recursos que devem ser armazenados em cache pelo navegador da Web para
 que possam ser usados offline.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A sintaxe usada é a seguinte: <html manifest="dados.appcache">, portanto o
 gabarito
@@ -8560,16 +7532,10 @@ gabarito
 Gabarito: Letra A
 
 
-
-www.estrategiaconcursos.com.br
 / 187
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões FCV
 
@@ -8626,17 +7592,8 @@ c) I e II;
 d) I e III;
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) II e III..
 
@@ -8680,17 +7637,8 @@ Gabarito: Letra C
 Item. 62. (FGV -TJ TO- 2022) Observe o código HTML e JavaScript a seguir:
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <!DOCTYPE html>
 
@@ -8753,17 +7701,8 @@ d) <movie>
 e) <video>.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -8829,17 +7768,8 @@ e) <trxtd>A</tdxtd>C</tdx/tr>
 </tablex/thx/tr>.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito:
 
@@ -8895,15 +7825,8 @@ Item. 66. (FGV- IMBEL- 2021) Analise o trecho HTML a seguir.
 <trxth>B</thxth>D</thx/tr>
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 </table>
 
@@ -8956,17 +7879,8 @@ da
 página da web, como um capítulo ou um tema. Dentre os novos elementos semânticos
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <header>, <footer> <article> e <section>, a única opção que não é uma novidade no
 HTML5 é o <div>.
@@ -9025,15 +7939,8 @@ tela
 com profundidade de 24 bpp pode representar até 16 milhões de cores diferentes.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra A
 
@@ -9084,17 +7991,8 @@ d) "Abrir" inicialmente, "on" quando o cursor do mouse entra na área do botão,
 "Abrir" quando o cursor do mouse sai da área do botão, assim mudando a cada
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 movimentação para dentro ou para fora.
 
@@ -9160,17 +8058,8 @@ Sabe-se que com essa página exibida, o operador clicou no botão por três veze
 Assinale o valor exibido no botão após esses cliques.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) 0
 
@@ -9226,15 +8115,8 @@ ser renderizado em negrito. A tag <s> representa um trecho de texto que não é 
 preciso ou relevante. Geralmente é usado para riscar o texto para indicar que ele foi
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 removido ou substituído. A tag <i> representa um trecho de texto que deve
 ser
@@ -9290,15 +8172,8 @@ linguagem utilizada para estruturação e apresentação de conteúdo na Interne
 Analise a página HTML5 a seguir:
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <!DOCTYPE html>
 
@@ -9370,16 +8245,6 @@ e clicou no botão três vezes, o valor da variável localStorage.clickcount ser
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 como 4, pois começa em 1 e é incrementado em 1 toda vez que o botão é clicado. O
 valor da variável sessionStorage.clickcount também seria definido como 4, pois começa
 em 1 e é incrementado em 1 toda vez que o botão é clicado. sessionStorage -> os
@@ -9437,17 +8302,8 @@ do
 atributo "bgcolor" é "black", o que tornaria a cor de fundo da página da Web preta. Os
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 atributos "alink", "vlink" e "link" especificam as cores dos links na página
 da web. O
@@ -9505,15 +8361,8 @@ para que a largura de uma página siga a largura da tela de um dispositivo, com 
 escala inicial de 1X no momento em que ela é carregada é:
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) <meta name="viewport" content="device, scale=1.0">;
 
@@ -9572,15 +8421,8 @@ interpretar e
 exibir o conteúdo corretamente. Portanto, nosso gabarito é: Uma linguagem de marcação
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 pode ser definida como um sistema para marcar um documento indicando a sua estrutura
 lógica e hierárquica especificamente para a transmissão e exibição eletrônicas
@@ -9633,15 +8475,8 @@ mas separada dele. Geralmente é usado para exibir barras laterais ou citações
 extraíveis,
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 este é o elemento E. 5) section: Este elemento representa uma seção genérica de um
 documento, como um capítulo, uma seção de um jornal ou uma seção de um site, este é
@@ -9697,15 +8532,8 @@ b) <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 5.0 Transitional//EN
 c) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0">
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) <!DOCTYPE html>
 
@@ -9718,15 +8546,7 @@ A declaração <!DOCTYPE html> define que este documento é um documento HTML5.
 Gabarito: Letra D
 
 
-
-www.estrategiaconcursos.com.br
-
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Questões Cespe
@@ -9770,17 +8590,8 @@ HTML e XML são equivalentes, pois ambas possuem uma semântica de apresentaçã
 predefinida.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 6. (CESPE - SEFAZ CE - 2021) Com relação à arquitetura de desenvolvimento de
 software, julgue o item a seguir.
@@ -9838,16 +8649,8 @@ que o navegador deve copiar para que estejam disponíveis para uso off-line.
 c) É necessário que os arquivos PHP estejam listados na sessão cache.
 
 
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) Na sessão network do arquivo manifesto, devem estar relacionados os arquivos que
 precisam ser substituídos por outros no retorno da conexão.
@@ -9884,15 +8687,8 @@ A instrução DOCTYPE do HTML 5 é mais simples que a das versões anteriores HT
 Item. 13. (CESPE - TJ PA - 2020)
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ClDOCTYPE hcml>
 
@@ -9954,17 +8750,8 @@ e time são válidos como atributos de elementos de formulário, e apenas o camp
 é de preenchimento obrigatório.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ílDOCTYPE html>
 
@@ -10027,17 +8814,8 @@ Item. 19. (CESPE-TJ AM -2019) Acerca do desenvolvimento web mediante o uso do HT
 5, do JavaScript, do XML e do CSS, julgue o item subsequente.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A XHTML 5 é uma serialização XML que tem as mesmas características e sintaxes do
 HTML5.
@@ -10095,17 +8873,8 @@ c) <meter> interpreta medições meteorológicas.
 d) <figcaption> captura figuras.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) <main> define a estrutura principal da linguagem C dentro da página HTML
 
@@ -10154,15 +8923,8 @@ b) <img>
 c) <sound>
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) <music>
 
@@ -10210,17 +8972,8 @@ como a questão está dizendo o oposto, nosso gabarito é: Errado.
 Gabarito: Errado
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 33. (CESPE - TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
 formulários eletrônicos.
@@ -10235,15 +8988,8 @@ formulários eletrônicos.
 usando-se a tag <fieldset>.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões FCC
 
@@ -10297,17 +9043,8 @@ inserir um vídeo institucional do Tribunal de Justiça de Santa Catarina que es
 Youtube, no site do Tribunal.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para isso, obteve o código personalizado abaixo no site do Youtube.
 
@@ -10364,15 +9101,8 @@ d) main.
 e) core.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 41. (FCC - Pref Manaus - 2019) E m um parágrafo de uma página web desenvolvida
 com HTML5, um programador está usando palavras longas e está com medo do
@@ -10426,15 +9156,8 @@ Item. 44. (FCC - TRF 3 - 2019) Considere o fragmento abaixo de uma página HTML5
 utiliza elementos semânticos.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <figure>
 
@@ -10495,17 +9218,8 @@ chamado aOOI.css a ser aplicado apenas quando a página for aberta em dispositiv
 com tela de até 600 pixels. A instrução correta que deverá ser inserida é
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) <@import URL(a001 .css) only screen and (max-width: 600px)>
 
@@ -10565,17 +9279,8 @@ válidos para preencher a lacuna I são
 a) avi, mpeg e mov
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) mkv, ogg e flv
 
@@ -10632,17 +9337,8 @@ d) a propriedade language na tag <meta>.
 e) a tag <lang> no interior da tag <head>
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 53. (FCC - ALMS - 2016) A viewport é a área visível do usuário de uma página
 web e
@@ -10706,17 +9402,8 @@ c) <source src="beethoven.mp3" type="audio/mpeg">
 d) <sound source="beethoven.mp3" media="audio/mp3">
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) <source src="beethoven.mp3" media = "sound/mpeg" play="on">
 
@@ -10766,15 +9453,8 @@ d) <cache src= "dados.inf">
 e) <!MANIFEST cache="demo.appcache">
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões FCV
 
@@ -10827,17 +9507,8 @@ e) <script>.
 Item. 62. (FGV -TJ TO- 2022) Observe o código HTML e JavaScript a seguir:
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <!DOCTYPE html>
 
@@ -10893,17 +9564,8 @@ e) <video>.
 Item. 64. (FGV-IMBEL-2021) Analise a imagem a seguir, produzida numa página Web.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 lilJLJ
 
@@ -10973,17 +9635,8 @@ d) <!—Texto do comentário —>
 e) <—Texto do comentário —/>.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 66. (FGV- IMBEL- 2021) Analise o trecho HTML a seguir.
 
@@ -11036,17 +9689,8 @@ atributo depth, para uso em gráficos tridimensionais.
 Está correto o que se afirma em
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) I, somente.
 
@@ -11097,16 +9741,6 @@ movimentação para dentro ou para fora.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) "Abrir" inicialmente, "on" quando o cursor do mouse entra na área do botão, e
 "off" quando o cursor do mouse sai da área do botão pela primeira vez. Nas demais
@@ -11168,17 +9802,8 @@ páginas na Internet. O comando de formatação da linguagem HTML para indicar q
 um determinado texto deve ser apresentado sublinhado é:
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) <bx/b>
 
@@ -11247,17 +9872,8 @@ Aperte aqui!</button></p>
 </bodyx/html>
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Considere que você está utilizando um navegador web que suporta HTML5 Local
 Storage e ao acessar essa página pela primeira vez você apertou três vezes o botão
@@ -11316,17 +9932,8 @@ c) vermelha e verde;
 d) azul e verde;
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) preta e amarela.
 
@@ -11378,17 +9985,8 @@ c) marcar um documento indicando a ordem em que o conteúdo deve ser apresentado
 em meio eletrônico;
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) definir as ligações entre diferentes documentos a partir de
 palavras-chave
@@ -11438,15 +10036,8 @@ c) acesso a câmeras em dispositivos móveis, suporte a streaming de vídeo e SS
 (Streaming SIMD Extensions);
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) armazenamento local, geolocalização e SSE (Server-Sent Events);
 
@@ -11469,15 +10060,8 @@ d) cIDOCTYPE html>
 e) <!DOCTYPE XML PUBLIC "-//W3C//DTD HTML 5.0">
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -11645,88 +10229,8 @@ Item. 80. Letra D
 Item. 81. Letra D
 
 
-
 www. estra tegiaconcursos. com. br
 
 /
 
-
-
-
-
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

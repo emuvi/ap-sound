@@ -1,25 +1,5 @@
 Capítulo. Engenharia de Software e Sistemas - Metodologia de Desenvolvimento ( Parte 1 ).
 
-Concursos
-
-(Profs. Diego
-Carvalho e Fernando
-
-Pedrosa)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Engenharia de software -
-
-2023 (Pós-Edital)
-
-Autor:
-
-Diego Carvalho
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Índice
 
@@ -48,8 +28,6 @@ Diversos
 
 12) Lista de Questões - Metodologias de Desenvolvimento - Parte 1 -
 Diversas
-
-
 
 
 APRESENTAçÃo
@@ -83,12 +61,6 @@ Além disso, essas faixas não são por banca - é baseado tanto na
 quantidade de vezes que caiu em prova independentemente da
 banca quando das minhas avaliações sobre cada assunto...
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 #ATENÇÃO
 
@@ -125,12 +97,6 @@ que o aluno avalie seus conhecimentos sobre a matéria estão dispostas ao
 final da aula na lista de exercícios e possuem comentários bem mais
 
 completos, abrangentes e direcionados.
-
-
-
-
-
-
 
 
 Conceitos Básicos
@@ -196,8 +162,6 @@ foco
 na qualidade conforme apresenta a imagem anterior.
 
 
-
-
 Tudo isso envolve planejamento de custos e prazos, montagem da equipe e garantia de
 qualidade
 do produto e do processo. Finalmente, a engenharia de software visa a produção da
@@ -250,12 +214,6 @@ permitiam automatizar algumas tarefas. Na década de noventa, surgiu a orientaç
 objetos,
 linguagens visuais, processo unificado, entre outros conceitos diversos. E na última década,
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 surgiram as metodologias ágeis e outros paradigmas de desenvolvimento muito comuns hoje
 em
@@ -328,14 +286,6 @@ inicial-esse não
 é um assunto que cai com frequência em prova. Fechou? Vamos seguir então...
 
 
-
-
-
-
-
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 (Banco da Amazônia - 2010) Os princípios de engenharia de software definem a
 necessidade de formalidades para reduzir inconsistências e a decomposição para lidar
 com a complexidade.
@@ -369,8 +319,6 @@ Eng. de Software <
 Foco na qualidade
 
 F
-
-
 
 
 Processos de Desenvolvimento
@@ -413,8 +361,6 @@ de vida têm em comum? Eles sempre tratam das fases pelas quais algo passa desde
 até o seu fim. Então, é isso que vocês têm que decorar para qualquer contexto de
 ciclo de vida:
 fases pelas quais algo passa do seu início ao seu fim.
-
-
 
 
 Na Engenharia de Software, esse termo é geralmente aplicado a sistemas de software com
@@ -482,8 +428,6 @@ maneira
 mais diminuta e detalhada (com muitas e pequenas fases). Vamos começar a ver alguns
 ciclos de
 vida que existem por aí para que vocês visualizem isso com maior clareza!
-
-
 
 
 67 0'®
@@ -562,8 +506,6 @@ k À
 k
 
 
-
-
 Outros exemplos: em verde, nós temos um ciclo de vida de software de acordo com
 nosso querido
 autor: lan Sommerville. Ele contém quatro fases: Especificação, Desenvolvimento,
@@ -628,8 +570,6 @@ mas também
 contém como essas fases se relacionam. Vejam os conceitos abaixo:
 
 
-
-
 CICLO DE VIDA
 
 - TRATA-SE DAS FASES PELAS QUAIS ALGUMA COISA PASSA DESDE O SEU INÍCIO ATÉ O SEU FIM -
@@ -676,8 +616,6 @@ entre outros);
 #2. Tecnologia a ser adotada na sua construção (paradigma de desenvolvimento,
 linguagem de
 programação, mecanismo de persistência, entre outros);
-
-
 
 
 #2- Organização onde o produto será desenvolvido e a equipe de
@@ -747,12 +685,6 @@ plano de projeto deve ser elaborado configurando 0 processo a ser utilizado no
 desenvolvimento de
 software. À medida que 0 projeto progride, 0 planejamento deve ser detalhado e atualizado
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 regularmente. Pelo menos ao final de cada uma dasfases do desenvolvimento (análise e
 especificação
@@ -835,12 +767,6 @@ precedentes é
 reaplicada no contexto de um software existente ao invés de um novo.
 
 
-
-
-
-
-
-
 Existem outras fases em outros modelos, tais como: análise, responsável por
 modelar o
 problema (diferente do projeto, responsável por modelar a solução do problema);
@@ -911,12 +837,6 @@ Desenvolvimento de Software (também chamada de Processo de Desenvolvimento de S
 O que é isso, professor? É basicamente uma caracterização prescritiva ou descritiva de como um
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 produto de software deve ser desenvolvido, isto é, ela define o quê, como e quando
 fazer algo
 para desenvolver um software. Calma, tudo ainda fará sentido...
@@ -942,12 +862,6 @@ dizem outros autores, isto
 é, os principais modelos podem ser agrupados em três categorias: modelos sequenciais,
 modelos incrementais e modelos
 evolutivo (Letra C).
-
-
-
-
-
-
 
 
 Modelos Sequenciais
@@ -1013,8 +927,6 @@ Como assim, Diego? Por exemplo: a Fase 4 só pode ser iniciada após o término 
 FASE 5
 
 FASE 6
-
-
 
 
 (TCE/TO - 2008) No ciclo de vida em cascata, é possível realizar alternadamente e
@@ -1102,13 +1014,6 @@ usuários.
 Em seguida, são definidos em detalhes e funcionam como uma especificação do sistema.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 PROJETO DE
 SISTEMA E
 SOFTWARE
@@ -1186,8 +1091,6 @@ podem ser
 dispendiosas e envolver um significativo retrabalho.
 
 
-
-
 Após um pequeno número de iterações, é normal se congelarem partes do desenvolvimento,
 como
 a especificação, e dar-se continuidade aos estágios posteriores de desenvolvimento. A
@@ -1247,8 +1150,6 @@ planejamento,
 modelagem, construção, emprego e culminando no suporte contínuo do software concluído.
 
 
-
-
 O modelo cascata tem sofrido diversas críticas a que fizeram com que até mesmo seus
 mais
 ardentes defensores questionassem sua eficácia. Entre os problemas encontrados, temos:
@@ -1297,8 +1198,6 @@ com os resultados alcançados e isso engessa o desenvolvimento.
 Tempo
 
 0 MODELO EM CASCATA ATRASA A REDUÇÃO DE RISCOS
-
-
 
 
 O Modelo em Cascata tem um grande problema: ele atrasa a redução de riscos! Como
@@ -1362,8 +1261,6 @@ em que
 um erro é identificado do que no momento em que ele de fato ocorreu. Vocês
 entenderam legal?
 Então, vamos seguir...
-
-
 
 
 Outra maneira de visualizar o atraso é por meio de um gráfico
@@ -1445,8 +1342,6 @@ projeto.
 Atrasa a redução de riscos.
 
 
-
-
 Realiza documentação extensa por cada fase ou
 estágio.
 
@@ -1494,12 +1389,6 @@ do problema são
 refinados em representações cada vez mais detalhadas e técnicas do problema e de sua solução.
 
 
-
-
-
-
-
-
 Uma vez que o código tenha sido gerado, a equipe se desloca para cima, no lado
 direito do V,
 realizando basicamente uma série de testes (ações de garantia da qualidade) que validem
@@ -1533,8 +1422,6 @@ dirigido a planos; (b) Errado,
 mas - honestamente - eu não vejo erro algum nesse item. Caso alguém saiba, favor me
 contar; (c) Errado, é um artefato
 primário; (d) Errado, ocorre uma correção de erros a cada fase da construção; (e) Correto.
-
-
 
 
 Modelo Iterativo e Incremental
@@ -1582,12 +1469,6 @@ desenvolver os
 miniprojetos e entregar partes diferentes do projeto. A imagem a seguir apresenta miniprojetos
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 sendo feitos iterativamente em um modelo iterativo e incremental. Observem que
 cada iteração
 (passagem pelas fases de desenvolvimento) refinam cada vez mais a funcionalidade.
@@ -1630,12 +1511,6 @@ modelo
 incremental, há várias equipes desenvolvendo uma parte do software a serem integradas
 ao final
 do desenvolvimento. Já no modelo iterativo, lança-se a versão 1.0, adicionam-se algumas
-
-
-
-
-
-
 
 
 funcionalidades; lança uma versão 2.0, adicionam-se mais algumas funcionalidades;
@@ -1684,8 +1559,6 @@ Raramente
 elaboramos uma completa solução do problema com antecedência; geralmente
 movemo-nos
 passo a passo em direção a uma solução, recuando quando percebemos que cometemos um erro.
-
-
 
 
 Ao desenvolver um software de forma incremental, é mais barato e mais fácil fazer
@@ -1753,8 +1626,6 @@ corrompê-la
 (Correto).
 
 
-
-
 Os problemas do desenvolvimento incremental são particularmente críticos para os
 sistemas de
 vida-longa, grandes e complexos, nos quais várias equipes desenvolvem diferentes
@@ -1820,8 +1691,6 @@ processo puramente linear não é utilizado.
 Pode ser necessário o rápido fornecimento de um determinado conjunto funcional aos
 usuários,
 para somente após esse fornecimento, refinar e expandir sua funcionalidade em versões de
-
-
 
 
 software posteriores. Em tais casos, pode-se optar por um modelo de processo
@@ -1938,13 +1807,6 @@ operacional
 com cada incremento.
 
 
-
-
-
-
-
-
-
 Os primeiros incrementos são versões seccionadas do produto final, mas eles realmente
 possuem
 capacidade para atenderao usuário e também oferecem uma plataforma para avaliação do
@@ -1982,8 +1844,6 @@ d) incrementais.
 Comentários: 0 modelo de processo que divide 0 sistema em pequenos subsistemas funcionais que, a
 cada ciclo, são acrescidos
 de novas funcionalidades é 0 modelo incremental (Letra D).
-
-
 
 
 Rapid Application Development (RAD)
@@ -2039,16 +1899,6 @@ tempo total de teste. No entanto, os novos componentes devem ser testados e toda
 interfaces devem ser exaustivamente exercitadas para colocar o resultado em produção.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Equipe #3
 
 Detalhe interessante: as etapas de Modelagem de Negócio, Dados e Processos são
@@ -2079,12 +1929,6 @@ pequena; quando
 o escopo do projeto é restrito; quando o sistema pode ser dividido em vários módulos;
 quando o
 risco de mudança tecnológica é baixo.
-
-
-
-
-
-
 
 
 VANTAGENS
@@ -2171,17 +2015,6 @@ componentes... só pode se referir ao
 RAD (Letra B).
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 RESUMo
 
 CICLO DE VIDA
@@ -2202,12 +2035,6 @@ MODELO DE CICLO DE VIDA DE SOFTWARE
 FASES SE RELACIONAM -
 
 CICLOS DE VIDA GENÉRICOS
-
-
-
-
-
-
 
 
 r k
@@ -2249,12 +2076,6 @@ DESCRIÇÃO DE FASES GENÉRICAS
 
 FASES | DESCRIÇÃO
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 O objetivo do planejamento de projeto é fornecer uma estrutura que possibilite ao
 gerente fazer
@@ -2317,12 +2138,6 @@ de
 uso do usuário.
 
 
-
-
-
-
-
-
 Indubitavelmente, o software sofrerá mudanças após ter sido entregue para o usuário.
 Alterações
 ocorrerão porque erros foram encontrados, porque o software precisa ser adaptado para acomodar
@@ -2375,8 +2190,6 @@ MODELOS EM CASCATA
 
 POR SOMMERVILLE PORROYCE POR PRESSMAN (4* ED)
 POR PRESSMAN (6« ED)
-
-
 
 
 Análise e Definição de
@@ -2467,8 +2280,6 @@ Pressupõe que os requisitos ficarão estáveis ao longo do
 tempo.
 
 
-
-
 Não funciona bem com projetos complexos e 00,
 apesar de compatível.
 
@@ -2497,12 +2308,6 @@ TERCEIRA ITERAÇÃO
 
 ...
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Atividade simultâneas
 
@@ -2588,17 +2393,6 @@ rodara aplicação;
 Mais difícil de acompanhar o projeto.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 Maior flexibilidade (desenvolvedores podem reprojetar
 à vontade).
 
@@ -2673,16 +2467,6 @@ Modificação
 PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 QUESTõES CoMENTADAS - CESPE
 
 í. (CESPE / BANRISUL - 2022) Um dos problemas da aplicação do modelo
@@ -2745,12 +2529,6 @@ cliente. Estas
 etapas permitem que o desenvolvedor defina os requisitos específicos do cliente, crie
 um plano
 detalhado para o desenvolvimento do software e crie um produto final que atenda às necessidades
-
-
-
-
-
-
 
 
 do cliente. Além disso, as etapas do modelo do ciclo de vida clássico também oferecem
@@ -2816,16 +2594,6 @@ especificação
 do sistema.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 Nesta fase, o escopo deve ser refinado e os requisitos mais bem definidos. Para
@@ -2888,12 +2656,6 @@ Gabarito: Errado
 
 Item. 9. (CESPE / Ministério da Economia - 2020) Engenharia de software (ES) é um processo, expresso
 como o conjunto de todas as atividades relacionadas ao desenvolvimento, ao controle, à
-
-
-
-
-
-
 
 
 validação e à manutenção de um software operacional, abrangendo atividades
@@ -2959,12 +2721,6 @@ documentação.
 c) envolve o feedback de uma fase para outra, por ser um modelo linear simples.
 
 
-
-
-
-
-
-
 d) é sequencial, o que impede que os documentos produzidos em cada fase sejam
 modificados
 para refletirem as alterações feitas em cada um deles.
@@ -3025,16 +2781,6 @@ fundamentos da computação, ficando o desenvolvimento de software a cargo da
 ciência da
 computação.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -3098,12 +2844,6 @@ da última opção.
 Gabarito: Letra E
 
 
-
-
-
-
-
-
 i7.(CESPE / TCE-PR - 2016 - Item A) A engenharia de software está relacionada aos
 diversos
 aspectos de produção de software e inclui as atividades de especificação,
@@ -3159,12 +2899,6 @@ software, as
 atividades são dispostas em estágios sequenciais.
 
 Comentários:
-
-
-
-
-
-
 
 
 A questão trata do modelo em cascata de desenvolvimento de software. No modelo
@@ -3226,12 +2960,6 @@ atividades e
 resultados associados que produz um produto de software. De acordo com ele, existem quatro
 
 
-
-
-
-
-
-
 atividades fundamentais de processo, que são comuns a todos os processos de software -
 são elas:
 Especificação de Software; Desenvolvimento de Software (Projeto e Implementação);
@@ -3289,12 +3017,6 @@ que inclui
 hardware e software, e a Ciência da Computação trata apenas dos aspectos de
 desenvolvimento
 de sistemas.
-
-
-
-
-
-
 
 
 d) A Ciência da Computação trata dos sistemas com base em computadores,
@@ -3359,12 +3081,6 @@ Abordagem Gerencial
 (Steven R. Gordon, Judith R. Gordon). Nesse livro, os autores de fato tratam o ciclo de vida de
 
 
-
-
-
-
-
-
 software como concepção, projeto, criação e implementação. Essa é uma daquelas
 quase
 impossível de acertar! Esse não é um autor consagrado de Engenharia de Software.
@@ -3422,12 +3138,6 @@ Validação de
 Software; e Evolução de Software.
 
 
-
-
-
-
-
-
 Notem que o examinador dividiu a atividade de Desenvolvimento em Projeto e
 Implementação,
 mas não invalida a questão. Professor, ele não falou sobre a evolução! Sim, mas a
@@ -3483,12 +3193,6 @@ Comentários:
 Como não? Existe Modelagem de Negócio, Dados e Processo!
 
 Gabarito: Errado
-
-
-
-
-
-
 
 
 34- (CESPE / DETRAN/ES - 2010) Segundo princípio da engenharia de software, os vários
@@ -3549,12 +3253,6 @@ partir de uma
 perspectiva genérica.
 
 Gabarito: Errado
-
-
-
-
-
-
 
 
 37- (CESPE / EMBASA - 2010) Ciclo de vida de um software resume-se em eventos
@@ -3621,8 +3319,6 @@ Além disso, o
 desenvolvimento não continua até que o cliente esteja satisfeito com os resultados alcançados. A
 
 
-
-
 questão afirma que a equipe de projeto finaliza uma revisão ao final de cada projeto,
 mas na
 verdade é ao final de cada fase.
@@ -3680,12 +3376,6 @@ as atividades
 necessárias e o relacionamento entre elas.
 
 Gabarito: Errado
-
-
-
-
-
-
 
 
 43-(CESPE / INMETRO - 2009) Em uma empresa que tenha adotado um
@@ -3789,8 +3479,6 @@ de Unidade
 Análise Projeto Modelagem
 
 
-
-
 Integração e Teste de
 Sistema
 
@@ -3857,12 +3545,6 @@ em que
 os requisitos ainda não foram bem compreendidos, pois é focado na criação de incrementos.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 A utilização do Modelo em Cascata deve ocorrer preferencialmente quando os
@@ -3920,12 +3602,6 @@ Era possível
 responder usando só lógica!
 
 Gabarito: Errado
-
-
-
-
-
-
 
 
 5i. (CESPE / TST- 2008) No modelo de desenvolvimento sequencial linear, a fase de
@@ -3996,8 +3672,6 @@ Clientes só visualizam resultados próximos ao final do
 projeto.
 
 
-
-
 É fácil de gerenciar, devido a sua rigidez.
 
 Realiza documentação extensa por cada fase ou
@@ -4065,8 +3739,6 @@ em componentes.
 Comentários:
 
 
-
-
 O RAD (Rapid Application Development) realmente é uma adaptação de alta velocidade do
 modelo
 sequencial linear (cascata). Além disso, ele se utiliza realmente de componentes prontos
@@ -4128,8 +3800,6 @@ Requisitos de Sistema Modelagem e Engenharia
 do Sistema/lnformação
 
 Comunicação
-
-
 
 
 Projeto de Sistema e
@@ -4208,8 +3878,6 @@ modelo em espiral para atender a projetos de software fundamentados em component
 Comentários:
 
 
-
-
 Na verdade, ele é uma adaptação de alta velocidade do modelo em cascata.
 
 Gabarito: Errado
@@ -4262,8 +3930,6 @@ estágios do
 modelo demonstram as principais atividades de desenvolvimento.
 
 Gabarito: Correto
-
-
 
 
 Item. 66. (CESPE / ABIN - 2004) O modelo de desenvolvimento seqüencial
@@ -4365,8 +4031,6 @@ Software
 Planejamento
 
 
-
-
 Implementação e Teste Análise
 de Unidade
 
@@ -4414,12 +4078,6 @@ componentes já estão testados, pode-se reduzir o tempo total de desenvolviment
 
 Gabarito: Errado
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - FCC
 
@@ -4478,8 +4136,6 @@ desenvolvimento de sistemas, tal como a definição de artefatos para a modelage
 d) envolve um conjunto de itens que abordam os aspectos de análise de mercado,
 concepção e
 projeto de software, sendo independente da engenharia de um sistema.
-
-
 
 
 e) agrupa as melhores práticas para a concepção, projeto, operação e manutenção de artefatos
@@ -4542,16 +4198,6 @@ c) à análise de sistemas.
 d) à engenharia de requisitos.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 e) à engenharia de software.
 
 Comentários:
@@ -4613,8 +4259,6 @@ Complexo? Não, possui um encadeamento simples de fases.
 Gabarito: Errado
 
 
-
-
 Item. 6. (FCC / INFRAERO -2011) Em relação à Engenharia de Software, é INCORRETO afirmar:
 
 a) O design de software, ao descrever os diversos aspectos que estarão presentes no
@@ -4672,12 +4316,6 @@ desenvolvimento,
 através de ferramentas e técnicas apropriadas, dependendo do problema a ser
 abordado,
 considerando restrições e recursos disponíveis.
-
-
-
-
-
-
 
 
 e) segue princípios, tais como, o da Abstração, que identifica os aspectos
@@ -4738,16 +4376,6 @@ distribuição aos especialistas.
 
 É correto o que se afirma em:
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 a) III e IV, apenas.
 
@@ -4811,12 +4439,6 @@ várias outras
 engenharias.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Letra A
 
 io.(FCC / SEFAZ-SP -2009 - Item B) O processo de engenharia de software denominado ciclo de
@@ -4836,16 +4458,6 @@ a modelo em cascata, sequencial, linear, tradicional, waterfall, rígido ou mono
 
 Gabarito: Errado
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - FG V
 
@@ -4883,8 +4495,6 @@ conjunto de elementos de processo como atividades de arcabouço, ações de enge
 software, tarefas, produtos de trabalho, mecanismos de garantia de qualidade e de
 controle de
 modificações para cada projeto.
-
-
 
 
 Esse modelo é conhecido como Modelo:
@@ -4959,12 +4569,6 @@ c) métodos, construção, teste e implantação.
 d) planejamento, modelagem, construção, validação e implantação.
 
 
-
-
-
-
-
-
 e) comunicação, planejamento, modelagem, construção e implantação.
 
 Comentários:
@@ -4992,16 +4596,6 @@ e) do negócio, dos dados e dos processos.
 
 Comentários:
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Equipe #3
 
@@ -5047,8 +4641,6 @@ ser identificadas as fases de análise, projeto, implementação e testes, sendo
 ciclos
 
 
-
-
 considera um subconjunto de requisitos, e estes são desenvolvidos uma vez que sejam
 alocados a
 um ciclo de desenvolvimento é o modelo iterativo e incremental.
@@ -5092,16 +4684,6 @@ o diferencia dos demais modelos.
 
 Gabarito: Letra E
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - DIVERSAS
 
@@ -5162,16 +4744,6 @@ a) Transformação.
 
 b) Incremental.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 c) Evolutivo.
 
@@ -5237,16 +4809,6 @@ d) riscos de negócio não são conhecidos.
 
 e) usuários não sabem bem o que desejam.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -5314,16 +4876,6 @@ e sequenciais.
 Vocês se lembram que 0 Modelo em Cascata é um modelo sequencial linear? Pois é!
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Letra B
 
 Item. 8. (CESGRANRIO / EPE - 2012) Uma das críticas feitas ao modelo do ciclo
@@ -5378,12 +4930,6 @@ d) Ciclo de Vida do Software
 e) Bloco de Atividades
 
 Comentários:
-
-
-
-
-
-
 
 
 A escolha de um modelo de ciclo de vida (para concursos, sinônimo de modelo de
@@ -5473,12 +5019,6 @@ Teste
 Operação
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 A Letra B está correta de acordo com o Pressman 4a Edição, mas está errada de
 acordo com o
 Pressman 6a Edição. Ademais, na questão ele sequer disse que era de acordo com o
@@ -5544,16 +5084,6 @@ produto final
 adequado seja alcançado, é a definição clássica do Modelo Incremental.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Letra C
 
 13.(INSTITUTO AOCP / UFPB- 2019) Existem diferentes processos de software,
@@ -5607,17 +5137,6 @@ as
 definições ou caracterizações da TABELA B.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 TAI BELA A
 
 A definir
@@ -5665,14 +5184,9 @@ do sistema.
 TABELA A
 
 
-
-
 a) 5
 
 TABELA A
-
-
-
 
 
 b)
@@ -5680,13 +5194,9 @@ b)
 TABELA A
 
 
-
-
 c)
 
 TABELA A
-
-
 
 
 d)
@@ -5751,12 +5261,6 @@ fluir
 constante para frente (como uma cascata)"
 
 Disponível em: https://pt.wikipedia.org/wiki/Modelo_em_cascata. Acesso em: 13.12.2018
-
-
-
-
-
-
 
 
 No que tange ao processo de desenvolvimento de software em cascata, qual a
@@ -5826,8 +5330,6 @@ começara trabalhar nelas.
 Gabarito: Letra B
 
 
-
-
 Item. 17. (INSTITUTO AOCP / UFPB-2019) Há casos em que os requisitos de um problema são bem
 compreendidos, por exemplo, quando o trabalho flui da comunicação ao emprego
 de forma
@@ -5886,8 +5388,6 @@ O ciclo de vida clássico é conhecido como modelo em cascata.
 Gabarito: Letra A
 
 
-
-
 ig.(IBFC / Emdec - 2019) Sobre alguns modelos do ciclo de vida de desenvolvimento de
 software,
 assinale a alternativa correta.
@@ -5934,12 +5434,6 @@ c) incremental
 
 d) evolutivo
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -5999,16 +5493,6 @@ o software não deve desperdiçar os recursos do sistema, como memória e ciclos
 processador.
 Eficiência inclui capacidade de resposta, tempo de processamento, uso da memória, etc.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 III - Engenheiros de software não devem preocupar-se apenas com questões técnicas,
 devendo
@@ -6073,16 +5557,6 @@ d) Apenas II e III.
 e) I, lie III.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 (I) Correto, trata-se realmente de uma metodologia dirigida a planos; (II) Correto, o
@@ -6146,12 +5620,6 @@ engenharia de
 software. Dentre os problemas às vezes encontrados quando se aplica o modelo cascata,
 tem-
 se:
-
-
-
-
-
-
 
 
 a) A etapa de comunicação ser responsável pelo levantamento das necessidades.
@@ -6222,8 +5690,6 @@ problemas do ciclo de vida clássico é:
 a) a exigência do modelo para que o cliente estabeleça todos os requisitos explicitamente.
 
 
-
-
 b) a construção problemática dos componentes, caso o sistema não possa ser adequadamente
 modularizado.
 
@@ -6281,12 +5747,6 @@ Item. 30. (FAURGS / UFRGS - 2018) Considere as afirmações abaixo sobre Engenha
 I - A Engenharia de Software não se preocupa apenas com os processos
 técnicos do
 desenvolvimento de software. Ela também inclui atividades como gerenciamento de projeto de
-
-
-
-
-
-
 
 
 software e desenvolvimento de ferramentas, métodos e teorias para apoiar a
@@ -6351,12 +5811,6 @@ comunicação, além de redução no período de treinamento, e torna mais econ�
 ao
 processo automatizado.
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Quais estão corretas?
 
@@ -6423,12 +5877,6 @@ projeto,
 são identificados problemas com os requisitos; durante a codificação, são verificados problemas
 
 
-
-
-
-
-
-
 do projeto, e assim por diante. O processo não é um modelo linear simples, mas
 envolve uma
 sequência de iterações das atividades de desenvolvimento.
@@ -6466,12 +5914,6 @@ Modelo em
 Cascata.
 
 Gabarito: Letra B
-
-
-
-
-
-
 
 
 35-(COMPERVE / UFRN - 2018) Considere as afirmativas apresentadas abaixo a respeito dos
@@ -6535,8 +5977,6 @@ d) Completa - implementação.
 Comentários:
 
 
-
-
 A definição oficial da IEEE afirma que engenharia de software é a aplicação de uma
 abordagem
 sistemática, disciplinada e quantificável no desenvolvimento, operação e
@@ -6596,8 +6036,6 @@ requisitos?
 a) Fase de operação;
 
 b) Fase de retirada;
-
-
 
 
 c) Fase de definição;
@@ -6664,12 +6102,6 @@ que não
 poderia?
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Correto
 
 4i.(FUNIVERSA / IPHAN - 2009) A Engenharia de Software resume-se em um
@@ -6727,12 +6159,6 @@ alterado, sem
 causar problemas para sua execução.
 
 Gabarito: Letra A
-
-
-
-
-
-
 
 
 LISTA DE QUESTõES - CESPE
@@ -6799,8 +6225,6 @@ concentram-
 se nas atividades de requisitos, gerenciamento, design e testes.
 
 
-
-
 Item. 9. (CESPE / Ministério da Economia - 2020) Engenharia de software (ES) é um processo,
 expresso
 como o conjunto de todas as atividades relacionadas ao desenvolvimento, ao
@@ -6864,8 +6288,6 @@ código em determinada linguagem e seu armazenamento em arquivos.
 Item. 16. (CESPE / TCE-PR -2016) As fases do ciclo de vida de um software são:
 
 
-
-
 a) concepção, desenvolvimento, entrega e encerramento.
 
 b) iniciação, elaboração, construção e manutenção.
@@ -6925,8 +6347,6 @@ Item. 25. (CESPE / TCE-RO - 2013) Assim como a Engenharia de Software, existe ta
 informática a chamada Ciência da Computação. Assinale a alternativa que melhor apresenta
 a
 diferença entre Engenharia de Software e Ciência da Computação.
-
-
 
 
 a) A Ciência da Computação tem como objetivo o desenvolvimento de
@@ -6995,13 +6415,6 @@ apresentar um
 produto operacional a cada incremento.
 
 
-
-
-
-
-
-
-
 33- (CESPE / AL-ES - 2011) O ciclo de vida RAD (Rapid Application Development), por
 privilegiar a
 rapidez do desenvolvimento, não possui etapa de modelagem.
@@ -7060,8 +6473,6 @@ têm maior
 possibilidade de gerar grandes prejuízos do que naquelas que
 tenham adotado
 desenvolvimento evolucionário.
-
-
 
 
 44-(CESPE / INMETRO - 2009) Em um processo de desenvolvimento em cascata, os testes de
@@ -7127,13 +6538,6 @@ Item. 55. (CESPE/TST-2008) O modelo RAD (Rapid Application Development) consiste
 de prototipação para esclarecer dúvidas da especificação do software.
 
 
-
-
-
-
-
-
-
 Item. 56. (CESPE / TRE-MA - 2008) O modelo RAD (Rapid Application Development) é uma
 adaptação
 de alta velocidade do modelo sequencial linear, conseguido por meio da construção
@@ -7195,8 +6599,6 @@ orientada
 a objetos no desenvolvimento de um sistema de informação.
 
 
-
-
 67-(CESPE / TRE-AL - 2004) O modelo cascata ou ciclo de vida clássico
 necessita de uma
 abordagem sistemática, que envolve, em primeiro lugar, o projeto e, em seguida, a
@@ -7208,16 +6610,6 @@ incremental que enfatiza um ciclo de desenvolvimento extremamente curto. A prime
 do
 processo é a modelagem de negócio e a última é a fase de teste e entrega.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -7290,16 +6682,6 @@ Item. 68. ERRADO
 23- CORRETO 46. CORRETO
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 LISTA DE QUESTõES - FCC
 
 í. (FCC / TRF - 3a REGIÃO - 2019) Considere a figura abaixo.
@@ -7359,8 +6741,6 @@ armazenamento e as estruturas em memória principal.
 Item. 3. (FCC / TRT6 - 2012) Considere: é uma disciplina que se ocupa de todos os aspectos da produção
 
 de software, desde os estágios iniciais de especificação do sistema até a manutenção desse sistema,
-
-
 
 
 depois que ele entrou em operação. Seu principal objetivo é fornecer uma estrutura
@@ -7428,12 +6808,6 @@ software que seja possível construir.
 Item. 7. (FCC / TRE-AM - 2010) A Engenharia de Software:
 
 
-
-
-
-
-
-
 a) não tem como método a abordagem estruturada para o desenvolvimento de software, pois
 baseia-se exclusivamente nos modelos de software, notações, regras e
 técnicas de
@@ -7493,12 +6867,6 @@ e) II, III e IV, apenas.
 Item. 9. (FCC/ AFR/SP - 2009) A engenharia de software está inserida no contexto:
 
 
-
-
-
-
-
-
 a) das engenharias de sistemas, de processo e de produto.
 
 b) da engenharia de sistemas, apenas.
@@ -7512,16 +6880,6 @@ e) das engenharias de sistemas e de produto, apenas.
 io. (FCC / SEFAZ-SP - 2009 - Item B) O processo de engenharia de software denominado ciclo de
 vida clássico refere-se ao modelo incremental.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -7544,8 +6902,6 @@ Item. 8. LETRA D
 Item. 9. LETRA A
 
 Item. 10. ERRADO
-
-
 
 
 LISTA DE QUESTõES - FCV
@@ -7583,12 +6939,6 @@ a) porfunções.
 
 b) em cascata.
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 c) incremental.
 
@@ -7661,12 +7011,6 @@ I. No modelo em cascata, a fase seguinte não deve iniciar antes que a fase prec
 concluída.
 
 
-
-
-
-
-
-
 II. No modelo evolucionário, a mudança constante tende a corromper a estrutura do software
 
 III. A explícita consideração dos riscos no modelo em espiral distingue esse modelo
@@ -7686,16 +7030,6 @@ d) somente II e III.
 e) I, lie III.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 GABARITo
 
 Item. 1. LETRAB
@@ -7710,12 +7044,6 @@ Item. 5. LETRAE
 
 Item. 6. LETRAE
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 LISTA DE QUESTõES - DIVERSAS
 
@@ -7785,8 +7113,6 @@ essa
 filosofia incremental usada em processos ágeis.
 
 
-
-
 5- (CESGRANRIO / Transpetro - 2018) O modelo em cascata ou linear é um modelo de
 processo
 de software que, a princípio, só deve ser usado se o(s):
@@ -7849,12 +7175,6 @@ parecendo um protótipo.
 c) pouca flexibilidade para mudanças futuras, exigindo compromissos nas fases
 iniciais do
 projeto.
-
-
-
-
-
-
 
 
 d) pouca visibilidade das etapas do processo, tornando cara a documentação de todas as
@@ -7923,10 +7243,7 @@ d) Prototipagem
 e) Cascata
 
 
-Q-Q 
-
-
-
+Q-Q
 
 
 Item. 12. (INSTITUTO AOCP / Prefeitura de Novo Hamburgo - RS - 2020) Existem diversos
@@ -8025,16 +7342,6 @@ satisfaz às necessidades reais dos usuários
 do sistema.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 i5.(lnaz do Pará / CORE-SP - 2019) "O Modelo em Cascata (do inglês: Waterfall Model)
 é um
 modelo de desenvolvimento de software sequencial no qual o processo é visto como um
@@ -8078,8 +7385,6 @@ Neste tipo de processo vocêe programar todas as atividades do processo antes de
 a) um estágio - escrever - encerrar o projeto.
 
 b) um processo dirigido a planos - deve planejar - começar a trabalhar nelas.
-
-
 
 
 c) um estágio-deve planejar-encerrar o projeto.
@@ -8147,16 +7452,6 @@ cliente são
 obtidos e, de acordo com a funcionalidade, são agrupados em módulos. Após este
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 agrupamento, a equipe, junto ao cliente, define a prioridade em que cada
 módulo será
 desenvolvido, escolha baseada na importância daquela funcionalidade ao negócio do
@@ -8206,8 +7501,6 @@ Engenharia de Software.
 I - São utilizadas diferentes técnicas de engenharia de software para cada tipo de
 sistema,
 porque cada software tem características bastante diversas.
-
-
 
 
 II - Uma característica fundamental de um sistema de software é a
@@ -8274,12 +7567,6 @@ exemplo de
 processo dirigido a planos, pois deve-se planejar todas as atividades (estágios) do
 processo
 antes de começar a trabalhar nelas. Em princípio, o estágio seguinte não deve ser iniciado até
-
-
-
-
-
-
 
 
 que o estágio anterior seja concluído, mas na prática este processo não é um modelo
@@ -8352,12 +7639,6 @@ termina na
 manutenção do software acabado. Nos últimos anos, este modelo de ciclo de desenvolvimento
 
 
-
-
-
-
-
-
 vem sofrendo várias críticas quanto a sua eficácia. Assim, é correto afirmar que um
 dos possíveis
 problemas do ciclo de vida clássico é:
@@ -8420,12 +7701,6 @@ Item. 31. (FAURGS / BANRISUL-2018) Considere as seguintes afirmações sobre pro
 I - Um processo de software é um conjunto de atividades relacionadas que levam à produção
 de
 um produto de software.
-
-
-
-
-
-
 
 
 II - Os processos ágeis são uma categoria de processo de software em que o
@@ -8492,12 +7767,6 @@ esquematicamente, um modelo de processo ou paradigma da engenharia de software, 
 no desenvolvimento de sistemas computacionais.
 
 
-
-
-
-
-
-
 A Figura 8 exibe, esquematicamente, o modelo de processo de desenvolvimento de software,
 chamado de:
 
@@ -8537,12 +7806,6 @@ b) I e IV.
 c) I e III.
 
 d) lie III.
-
-
-
-
-
-
 
 
 Item. 36. (I ES ES / CEGÁS - 2017) Assinale a alternativa que preenche as lacunas corretamente
@@ -8611,12 +7874,6 @@ visando produzir e manter softwares de forma padronizada e com qualidade. Ela ob
 alguns princípios como (1) Formalidade, (2) Abstração, (3) Decomposição, (4) Generalização e
 
 
-
-
-
-
-
-
 (5) Flexibilização. Assinale a alternativa que apresenta conceito correto sobre os
 princípios da
 Engenharia de Software.
@@ -8641,16 +7898,6 @@ e) A abstração é a técnica de se dividir o problema em partes, de maneira qu
 uma possa
 ser resolvida de uma forma mais específica.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -8695,78 +7942,4 @@ Item. 41. LETRA A
 
 14- LETRA B 28. CORRETO
 
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

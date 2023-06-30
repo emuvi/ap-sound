@@ -1,24 +1,5 @@
 Capítulo. Desenvolvimento de Software - Especificações JEE ( JPA, EJB, JSF, JMS e JTA ) , JVM. Hibernate ( Parte 1 ).
 
-Concursos
-
-(Profs. Paolla
-Ramos e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Desenvolvimento de
-software - 2023 (Pós-Edital)
-
-Autor:
-
-Paolla Ramos e Silva
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Índice
 
@@ -74,12 +55,8 @@ Paolla Ramos e Silva
 
 26) Java EE - JDBC - Lista de Questões.
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 JAVA EE
 
@@ -148,16 +125,6 @@ JEE; e atualmente é conhecido
 como Java EE.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Database
 
 O Client System é a Camada do Cliente; Web Container é a Camada Web; o EJB
@@ -180,16 +147,6 @@ transações de mainframe, sistemas externos, entre outros.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 aplicações são inerentemente complexas, acessando dados de diversas fontes e
 distribuindo as
@@ -335,12 +292,8 @@ April 2013
 
 JAVA EE 6 (10/12/2009) JAVA EE 7 (12/06/2013)
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 -
 
@@ -443,16 +396,6 @@ Java Authorization Service Provider
 Contract for Containers (JACC) 1.5
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Java EE Application Deployment 1.2 Java EE Application Deployment
 
 (Opcional) 1.2
@@ -528,18 +471,8 @@ Standard Tag Library for JavaServer Pages (JSTL)
 Debugging Support for Other Languages
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Contexts and Dependency Injection for the Java EE Platform
 Dependency Injection for Java
@@ -572,16 +505,9 @@ RS, JAXB, JMS, JAAS, JASPIC, JACC, JCA, JavaMail, Management Specification e Dep
 Specification - além disso, ele não oferece suporte a Arquivos EAR (apenas Arquivos WAR).
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Feature EJB Lite EJI
@@ -632,16 +558,6 @@ módulo:
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 MÓDULO DESCRIÇÃO
 
 EAR Também chamado Enteprise Application Archives, contém a aplicação
@@ -664,16 +580,10 @@ mudança? Para que o servidor
 possa diferenciar o que está sendo implantado.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 COMMON ANNOTATIONS
 
@@ -738,18 +648,8 @@ anotação
 é aplicada deve satisfazer diversos critérios.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ■ javax.annotation.Priority:
 
@@ -814,18 +714,8 @@ declarar
 papéis que não estão implicitamente declarados.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ■ javax.annotation.sql.DataSourceDefinition:
 
@@ -862,16 +752,6 @@ saibam
 dosar seus níveis de atenção e estudos em cada disciplina.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 QUESTõES CoMENTADAS -JAVA EE - MULTIBANCAS
 
 Item. 1. (CESPE - 2009 - INMETRO - Analista de Sistemas) São exemplos de tipos de componentes de
@@ -900,16 +780,6 @@ JAVA EE 6 (10/12/2009) JAVA EE 7 (12/06/2013)
 
 Enterprise JavaBeans (EJB) 3.1 Enterprise JavaBeans (EJB) 3.2
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Conforme vimos em aula, Enterprise Java Bean (EJB) não é uma arquitetura, é um
 componente da
@@ -955,16 +825,10 @@ Comentários:
 Database
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Conforme vimos em aula, os clientes Java EE não são necessariamente Páginas Web
 Dinâmicas
@@ -996,16 +860,10 @@ Java EE, servlets, JavaServer Faces e JSP consistem em tecnologias utilizadas na
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Data base
 
@@ -1045,16 +903,10 @@ pois
 deverão ser publicados separadamente.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) um arquivo EAR poderá conter arquivos WAR e JAR representativos dos módulos web e
 EJB.
@@ -1111,16 +963,10 @@ e) cliente, servidor, cliente.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Database
 
@@ -1161,16 +1007,10 @@ implementa a
 especificação JPA. Logo, ele não faz parte do J2EE ou Java EE. Beleza? Gabarito: B
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 11.(FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia da
 Informação) O
@@ -1209,16 +1049,10 @@ e) Beans, Swing e JVM.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Database
 
@@ -1250,16 +1084,10 @@ Conforme vimos em aula, disponibiliza o Contêiner Web e Contêiner EJB! Gabarit
 Item. 14. (FCC - 2012 - TJ/PE - Analista de Sistemas) Sobre a plataforma Java EE 6, é correto afirmar:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) Simplifica a implantação sem a necessidade de descritores de implantação, com
 exceção do
@@ -1299,16 +1127,10 @@ transação, segurança, etc;
 (e) Essa ele entregou! Anotações são marcados com @. Gabarito: A
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES-JAVA EE - MULTIBANCAS
 
@@ -1352,16 +1174,10 @@ d) Fornecedor. Web. Político. Sistemas de Informação Camada.
 e) Cliente. Stakeholders. Negócios. Background corporativo.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 8. (CESGRANRIO - 2008 - BNDES - Analista de Sistemas) Uma aplicação empresarial
 contendo
@@ -1423,16 +1239,6 @@ d) JDBC, Hibernate e JPA.
 e) JSP, JSF e Eclipse.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Item. 11. (FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia da
 Informação) O
 Contêiner J2EE que fornece aos desenvolvedores o ambiente para rodar Java Server Pages
@@ -1487,18 +1293,8 @@ services
 no arquivo web.xml.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) Faz uso de anotações (annotations). Anotações são modificadores Java, semelhantes aos
 públicos e privados, que devem ser especificados nos arquivos de configuração XML.
@@ -1510,16 +1306,10 @@ apenas para o tipo bean.
 e) Anotações são marcados com um caracter # (cerquilha).
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -1540,14 +1330,8 @@ Item. 14. A
 Item. 5. E 10. B
 
 
-
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 JAVA SERVER PAGES (JSP)
 
@@ -1615,16 +1399,10 @@ Arquivo: HelloWorld.jsp (No MVC, em geral, é utilizada como Visão)
 </title>
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 </head>
 
@@ -1690,17 +1468,13 @@ Apresentação)!2 Bacana?
 essa separação
 que foi criada a Tecnologia JSP.
 
- x'"'
+x'"'
 
-www.estrategiaconcursos.com.br
+
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Um grande benefício dessa tecnologia é a integração com HTML! Galera, HTML é uma
 linguagem
@@ -1760,13 +1534,7 @@ application,
 out, config, page, session e exception. Em seguida, veremos a sintaxe da linguagem!
 
 
-
-
-
 ,
-
-
-
 
 
 PROVA!
@@ -1807,12 +1575,6 @@ para uso subsequente em expressões ou scriptlets. Alguns alunos me perguntam co
 decoro
 isso! Bem, uma declaração declara! Declara o quê? Variáveis! Como? Com ponto de exclamação.
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Quando eu gosto de enfatizar uma declaração, eu uso um ponto de exclamação!
 No JSP, é
@@ -1872,13 +1634,6 @@ vindo!".
 
 3 Apesar disso, hoje em dia, é considerado má prática utilizar Scriptlets em Páginas JSP.
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Vocês se lembram que eu falei que expressões são similares a scriptlets? Pois é, a
 expressão <%
@@ -1948,16 +1703,10 @@ visualmente com a ajuda de uma
 ferramenta de desenvolvimento.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Essas ações ajudam a controlar o comportamento da Engine da Servlet. As ações mais
 famosas e
@@ -2002,16 +1751,6 @@ ATRIBUTO PROPÓSITO
 necessário instanciar explicitamente
 um objeto da classe para acessar seus métodos.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 buffer Especifica o modelo de buffering da saída padrão.
 
@@ -2073,18 +1812,7 @@ Scriptlets Scriptlets
 <% Scriptlet %>
 
 
-
-
-
 ,
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Comentários Comments
@@ -2158,12 +1886,6 @@ da linguagem de expressão
 oferecida pelo JSP 2.0 e a criada linguagem de expressão criada para o JSF.
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 ${Lista[ "Carro"]}
 
 ${Lista.Carro} // É exatamente igual ao anterior
@@ -2197,18 +1919,8 @@ função pode se
 chamar Multiplica e o método que a realiza se chamar Divida - sem nenhum problema.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - JSP - CEBRASPE
 
@@ -2250,18 +1962,8 @@ application Objeto do tipo ServIetContext que permite compartilhar
 informações entre todos os componentes web da aplicação.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 out Objeto da classe JspWriter que permite imprimir para o
 response através do método println.
@@ -2306,16 +2008,10 @@ diversos sistemas operacionais, como o Windows e o Linux.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Primeiro, o que é JSP? É uma tecnologia da plataforma Java Enterprise Edition (Java
 EE) que
@@ -2365,18 +2061,8 @@ Scriptlets Scriptlets <% Scriptlet
 Comentários Comments <%- Comentário -%>
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Ações Action s <jsp: Ação
 />
@@ -2429,18 +2115,8 @@ tecnologias utilizadas na camada web.
 Comentários:
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Galera, todos eles são da Camada Web! A fonte oficial diz: "Java Servlet, JavaServer
 Faces, and
@@ -2509,17 +2185,13 @@ sendo o
 "value" a informação de saída. Poderia ser utilizado <%= %>, mas o comando <c:out>
 oferece
 
- x'
+x'
 
-www.estrategiaconcursos.com.br
+
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 oportunidade de dar dinâmica ao permitir que o valor seja um bean e que se possa
 utilizar a
@@ -2528,16 +2200,6 @@ ele serve;
 
 (e) Errado, há necessidade de ser transformada em uma Servlet. Gabarito: C
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - JSP - MULTIBANCAS
 
@@ -2590,18 +2252,8 @@ e) scriptlet.
 Comentários:
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Scriplets são importantíssimos e, de todos, é facilmente o que mais cai em prova!
 Trata-se de
@@ -2644,16 +2296,10 @@ Info Define uma string que pode ser acessada para informações.
 isThreadSafe Define se a servlet é capaz de atender múltiplas solicitações.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 language Define a linguagem de programação utilizada.
 
@@ -2691,16 +2337,10 @@ biblioteca
 de tags, similar ao que diz a primeira opção. Gabarito: A
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 5. (FCC - 2008 - MPE-RS - Técnico em Informática - Área Sistemas) Para incluir
 blocos de código
@@ -2749,16 +2389,6 @@ ATRIBUTO PROPÓSITO
 buffer Especifica o modelo de buffering da saída padrão.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 autoFIush Controla o comportamento da saída padrão da Servlet.
 contentType Define a codificação de caracteres e media type (MIME)
 errorPage Define a URL de outro JSP que reporta exceções.
@@ -2794,18 +2424,8 @@ e) Expression tag.
 Comentários:
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 COMPONENTES EM INGLÊS SINTAXE
 
@@ -2857,17 +2477,13 @@ EE) que
 permite utilizar ou o código Java dentro das páginas web ou tags que realizam sua
 lógica. Por ser
 
- x'
+x'
 
-www.estrategiaconcursos.com.br
+
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 tecnologia Java, seus objetos são definidos segundo define a linguagem, i.e.,
 podendo utilizar
@@ -2921,16 +2537,10 @@ nome da função coincida com o nome do método da classe Java.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Por fim, devemos utilizar a Diretiva Taglib para importar a Biblioteca de Tags
 personalizada que
@@ -2985,16 +2595,10 @@ declaração de atributos ou métodos, utilizam-se as tags:
 a) <% %>
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) <%! %>
 
@@ -3041,16 +2645,6 @@ e) Combinadas com servlets no desenvolvimento exclusivo de páginas estáticas.
 
 Comentários:
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Galera, trata-se de uma tecnologia para geração de documentos baseados em texto e
 executados
@@ -3101,16 +2695,6 @@ pageContext Objeto do tipo PageContext e contém informações de contexto
 para execução da página.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 application Objeto do tipo ServIetContext que permite
 compartilhar
 informações entre todos os componentes web da aplicação.
@@ -3159,16 +2743,10 @@ JSP e tags
 customizadas, que definem como a página construirá conteúdo dinâmico.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Sabe aquelas questões que você não pode errar de tão fácil? Ei-la! Gabarito: E
 
@@ -3212,18 +2790,8 @@ e) <jsp:newlnstance id="cliente" class= "dados.Cliente"/>
 Comentários:
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 JSP:USEBEAN jsp:param jsprinvoque
 jsp:output
@@ -3275,18 +2843,8 @@ II. uri="caminho/nome_do_arquivo"%>.
 d) I. JSF, <%@page
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 II. import="caminho/nome_do_arquivo%>.
 
@@ -3333,16 +2891,6 @@ Comentários:
 ATRIBUTO PROPÓSITO
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 buffer Especifica o modelo de buffering da saída padrão.
 
 autoFlush Controla o comportamento da saída padrão da Servlet.
@@ -3382,16 +2930,6 @@ b) Import.
 c) isThreadSafe.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 d) Session.
 
 e) AutoFIush.
@@ -3425,16 +2963,10 @@ deve ser gerada, será definida na diretiva page do JSP por meio do atributo:
 a) info.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) extends.
 
@@ -3469,16 +3001,6 @@ Conforme vimos em aula, trata-se do Atributo Extends.
 
 Gabarito: B
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 22.(FGV - 2008 - Senado Federal - Analista de Sistemas) No contexto do Desenvolvimento
 WEB
@@ -3534,16 +3056,10 @@ lógica do conteúdo da sua apresentação. Páginas JSP são compiladas em
 Servlets e podem
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 chamar beans a fim de executar o processamento no servidor. Espera, professor! Como
 assim são
@@ -3600,16 +3116,10 @@ em Servlets?
 Conforme vimos em aula, Páginas JSP são compiladas em Servlets. Gabarito: A
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 24.(NCE - 2005 - BNDES - Analista de Sistemas) Considere as seguintes afirmativas sobre JSP e
 Servlets:
@@ -3649,18 +3159,8 @@ isErrorPage Indica se a Página JSP possui URL de outra página.
 Extends Especifica uma superclasse a ser estendida pela servlet.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Import Especifica uma lista de pacotes ou classes importadas.
 
@@ -3704,17 +3204,13 @@ IV. Conforme visto em aula, ambos são executados no Servidor.
 
 Gabarito: B
 
- x'
+x'
 
-www.estrategiaconcursos.com.br
+
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 25.(CESGRANRIO - 2012 - CEF-Analista de Sistemas) Um objeto implícito é utilizado dentro de
 páginas JSP sem que haja necessidade de declará-lo. Que objeto é esse?
@@ -3756,18 +3252,8 @@ page Sinônimo do operador "this" do objeto HttpJspPage. Não é
 usado com frequência.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 session Objeto do tipo HttpSession que guarda informações da sessão
 de um usuário específico entre múltiplas requisições.
@@ -3813,16 +3299,10 @@ JSP interrompe o processamento das requisições pela página corrente e as dire
 outro componente Web?
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) <jsp:invoke>
 
@@ -3873,16 +3353,10 @@ d) Diretiva Page.
 e) Diretiva taglib.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -3912,15 +3386,6 @@ Conforme vimos em aula, trata-se da Ação jsp:include. Gabarito: B
 QQ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023
 (Pós-Edital)
 
-www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - JSP - CEBRASPE
 
@@ -3966,8 +3431,6 @@ Item. 9. (CESPE - 2017 - TRE/BA - Analista de Sistemas) A respeito da JSP (JavaS
 a opção correta.
 
 
-
-
 a) As páginas JSP compiladas não precisam ser executadas em uma máquina virtual Java (JVM).
 
 b) O scriptlet é o conteúdo integral de um trecho de código Java que esteja dentro das tags
@@ -3989,18 +3452,8 @@ transformada
 em um Servlet.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -4026,14 +3479,8 @@ Item. 8. C
 Item. 9. C
 
 
-
-
 ,
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES -JSP - MULTIBANCAS
 
@@ -4080,18 +3527,8 @@ d) importar arquivos htm
 e) importar pacotes.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 4. (FCC - 2009 - TRT -16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da Informação) Em JSP,
 a diretiva taglib define:
@@ -4140,16 +3577,6 @@ a) Declaration tag.
 b) Directive tag.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 c) Scriplet tag.
 
 d) Action tag.
@@ -4197,16 +3624,10 @@ a) <% %>
 b) <%! %>
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) <%= %>
 
@@ -4256,18 +3677,8 @@ Item. 17. (FCC - 2013 - ALERN - Analista de Sistemas) Em uma aplicação web des
 a plataforma Java EE 6, há a seguinte classe Java:
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 package dados;
 
@@ -4315,16 +3726,10 @@ a) I. Javascript, <%@page
 II. file="caminho/nome_do_arquivo"%>.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) I. Java Servlet, <%@include
 
@@ -4378,16 +3783,6 @@ e) AutoFIush.
 deve ser gerada, será definida na diretiva page do JSP por meio do atributo:
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 a) info.
 
 b) extends.
@@ -4435,16 +3830,10 @@ a) compilação em um servlet.
 b) presença maciça de código Assembly.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) impossibilidade de inclusão de comentários.
 
@@ -4491,16 +3880,10 @@ d) String.
 e) Request.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 26.(FMP-RS - 2013 - MPE-AC - Analista - Tecnologia da Informação) No contexto de
 arquitetura
@@ -4551,16 +3934,10 @@ d) Diretiva Page.
 e) Diretiva taglib.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -4587,16 +3964,6 @@ Item. 20. C 27. C
 Item. 7. E 14. A
 Item. 21. B 28. B
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 SERVLETS
 
@@ -4662,18 +4029,9 @@ imagem anterior!
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
 * 05152001900 - Everton
 Murilo Vieira
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Q TIMES globoesporte.com
 Q BUSCAR
@@ -4773,18 +4131,9 @@ out.println("<html>");
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
 * 05152001900 - Everton
 Murilo Vieira
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 out.println("<body bgcolor = \"white\">");
 out.println("<h1 >Hello Servlet</h1 >");
@@ -4836,18 +4185,8 @@ por meio do objeto ServIetConfig.
 2 Seu nome completo é: javax.servlet.http.HttpServIet.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Voltando ao nosso código: importamos os dois pacotes, estendemos essa classe
 abstrata e
@@ -4886,16 +4225,10 @@ vindas, por
 exemplo, de um banco de dados. Vocês entenderam direitinho?
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 sin
 CFlA OBJeftÇ
@@ -4950,16 +4283,10 @@ o contêiner gera um novo par de objetos request e response, cria uma nova threa
 ela.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - SERVLETS - CEBRASPE
 
@@ -5012,18 +4339,8 @@ classe da qual
 herda a classe acima declarada é javax.servIet.HttpServIet. A classe indicada também
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 herda, indiretamente, da classe java.lang.Object. Portanto, é correto afirmar que
 classes
@@ -5081,18 +4398,8 @@ HttpSession session = request.getSession();
 dispatcher.forward(request,response);
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 }
 
@@ -5151,16 +4458,10 @@ uma nova
 instância da classe BookStoreServIet, bem como a criação de uma thread que invoca o
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 método service(HttpServletRequest, HttpServIetResponse), declarado no
 código
@@ -5213,18 +4514,8 @@ não entendeu dessa maneira :(
 Gabarito: C
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 9. (CESPE - 2011 - TRE/ES - Analista de Sistemas) Um servlet é uma classe Java
 utilizada
@@ -5283,18 +4574,8 @@ Opa, não precisa utilizar HTTP (apesar de ele ser o mais comum).
 Gabarito: E
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 11 .(CESPE - 2013 - TRE/MS - Analista de Sistemas - D) O servlet é uma classe de
 programa
@@ -5353,17 +4634,13 @@ Contexto por Aplicação Web por JVM. Entenderam mais ou menos? É simples, só 
 pouco
 abstrato!
 
- x'"'
+x'"'
 
-www.estrategiaconcursos.com.br
+
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A interface ServIetContext é um conjunto de métodos que uma servlet utiliza para
 interagir com
@@ -5426,25 +4703,15 @@ Classe
 Java.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
 
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Gabarito: E
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - SERVLETS - MULTIBANCAS
 
@@ -5499,16 +4766,10 @@ e) são carregadas apenas uma vez e, para cada nova requisição, a servlet gera
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 (a) Deixa a responsabilidade do ambiente de execução e protocolo para a API? De jeito
 algum!
@@ -5568,18 +4829,8 @@ serviço ou para
 estabelecer conexão com outros serviços.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 III. Estando o servlet pronto para atender as requisições dos clientes, o
 container cria um
@@ -5648,16 +4899,6 @@ requisições dos clientes. Chama-se então o método service com dois parâmetr
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 ServIetRequest, que contém a solicitação do cliente; e o ServIetResponse, que
 contém a
 resposta - ambos criados pelo contêiner.
@@ -5716,16 +4957,10 @@ a) I, II, III e IV.
 b) I, apenas.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) I e IV, apenas.
 
@@ -5787,16 +5022,10 @@ tudo nisso? O Servlet Container!
 (IV) Conforme vimos em aula, não se chama método unload - o nome do método é destroy!
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: B
 
@@ -5875,16 +5104,10 @@ d) getParameterO
 e) nameComponentO
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -5939,16 +5162,10 @@ correta
 da primeira.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) As duas asserções são proposições verdadeiras e a segunda é a justificativa
 correta da
@@ -6004,16 +5221,10 @@ Conforme vimos em aula, essa classe abstrata é a HttpServIet.
 Gabarito: B
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 1O.(FCC - 2009 - TRT - 16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da
 Informação)
@@ -6076,18 +5287,8 @@ Java,
 porém rodando em um servidor web e não no do cliente.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: E
 
@@ -6144,18 +5345,8 @@ Conforme vimos em aula, são executados no Container Web.
 Gabarito: C
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 14.(CESGRANRIO - 2006 - DECEA - Analista de Sistemas - B) Applets e
 Servlets são
@@ -6209,16 +5400,10 @@ página JSP transforma-se em um servlet, que é compilado, carregado e inicializ
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Isso é da aula de Páginas JSP, no entanto é sabido que Pásginas JSP se transformam
 em
@@ -6291,12 +5476,6 @@ d) I e III
 
 e) II e III
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -6377,16 +5556,6 @@ Comentários:
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 A documentação oficial afirma que se trata de uma classe java pura utilizada para
 estender as
 capacidades dos servidores que hospedam aplicações acessadas por meio de um
@@ -6440,16 +5609,10 @@ executadas em
 diferentes servidores, em diferentes sistemas operacionais.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 III. As Servlets podem acessar qualquer uma das APIs Java. Uma Servlet pode usar a
 API
@@ -6499,18 +5662,8 @@ requestType o valor
 Servlet. HTTP_REQUEST.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) invocar o método Servlet.service(Servlet.HTTP_REQUEST) antes do
 processamento da
@@ -6553,16 +5706,10 @@ a) É um método da JPA utilizado na persistência assíncrona de dados.
 b) É um componente que roda do lado do cliente para tratar problemas de comunicação.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) É uma classe Java utilizada para estender as capacidades de um servidor.
 
@@ -6614,16 +5761,10 @@ Sobre o código do Servlet, é possível afirmar que:
 a) ao ser executado por um contêiner de Servlet, será exibida uma tela em branco no navegador.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) ao ser executado por um contêiner de Servlet, será exibida a mensagem "Servlet em
 operação!"
@@ -6675,16 +5816,10 @@ e) release()
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Galera, coloquei essa questão para que vocês saibam que nem sempre será possível
 responder
@@ -6702,16 +5837,6 @@ Gabarito: D
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 1. (CESPE - 2013 - TRT - 10a REGIÃO (DF e TO) - Técnico Judiciário - Tecnologia da Informação)
 No ciclo de vida de um servlet, o servidor recebe uma requisição e a repassa para o container,
@@ -6764,16 +5889,6 @@ public String getServIetlnfoQ {
 return "The BookStore servlet returns the main web page " +
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 "for Duke's Bookstore.";
 
 }
@@ -6818,16 +5933,6 @@ em servidores web, os servlets não respondem a requisições genéricas.
 os servlets, para funcionarem, precisam utilizar o protocolo HTTP.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 11 .(CESPE - 2013 - TRE/MS - Analista de Sistemas - D) O servlet é uma classe de programa em
 Java utilizada para estender a capacidade dos servidores em aplicações web que trabalham
 com a filosofia requisição e resposta.
@@ -6859,16 +5964,6 @@ e o servlet é exemplo de servidor de aplicações que contém diretórios como 
 e é responsável por gerenciar requisições recebidas de clientes.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 GABARITo
 
 GABARITO
@@ -6882,16 +5977,6 @@ Item. 11. C 15
 
 c 8. C 12. E
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - SERvLET - MULTIBANCAS
 
@@ -6943,16 +6028,6 @@ Item. 4. (FCC - 2012 - TRE/CE - Analista de Sistemas) No contexto do ciclo de vi
 considere:
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 I. Quando o servidor recebe uma requisição, ela é repassada para o container que, por sua
 vez, carrega a classe na memória e cria uma instância da classe do servlet.
 
@@ -6997,16 +6072,6 @@ III. O Servlet Contêiner invoca o método service da servlet para processar a r
 passando os objetos request e response. O método service não é chamado a cada
 requisição, mas apenas uma vez, na primeira requisição do usuário à servlet.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 IV. Para descarregar a servlet da memória, o Servlet Contêiner chama o método unload, que
 faz com que o garbage collector retire a instância da servlet da memória.
@@ -7082,16 +6147,6 @@ do cliente, processando esses dados, opcionalmente acessando recursos externos c
 bancos de dados, e respondendo ao cliente com conteúdo no formato HTML.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Com relação ao tema, analise as asserções a seguir:
 
 Embora as servlets sejam muito boas no que fazem, tornou-se difícil responder ao cliente com
@@ -7136,12 +6191,6 @@ e) HttpServIetObject.
 
 10.(FCC - 2009 - TRT - 16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da Informação) Para
 ler os parâmetros de inicialização do contexto de um servlet utiliza-se o método:
-
-
-
-
-
-
 
 
 a) String getlnitParameter(String).
@@ -7194,16 +6243,6 @@ compilados e executados no servidor.
 15.(CESGRANRIO - 2009 - BNDES - Analista de Sistemas - A) Ao estudar as especificações e
 frameworks Java EE, um Analista de Sistemas concluiu que o container WEB do servidor
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 de aplicações é o responsável por gerenciar o ciclo de vida de servlets e de EJBs utilizados
 numa aplicação Java.
@@ -7273,16 +6312,6 @@ b) II
 
 c) III
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) I e III
 
@@ -7363,16 +6392,6 @@ d) prerender.
 I. Servlets são implementadas como arquivos de classe da Linguagem Java.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 II. Servlets são independentes de plataforma, de modo que podem ser executadas em
 diferentes servidores, em diferentes sistemas operacionais.
 
@@ -7421,16 +6440,6 @@ d) É uma biblioteca JBOSS que emula servidores no lado do cliente.
 e) É uma JSP que possibilita a execução de código no lado do cliente, mesmo sem comunicação
 com um servidor.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 23.(VUNESP - 2013 - FUNDUNESP - Analista Programador Júnior) Considere o Servlet a seguir:
 
@@ -7483,16 +6492,6 @@ d) invalidate()
 e) release()
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 GABARITo
 
 GABARITO
@@ -7517,16 +6516,6 @@ Item. 9. B 19. C
 
 Item. 10. A 20. D
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 JAVA SERVER FACES (JSF)
 
@@ -7599,8 +6588,6 @@ criar uma
 especificação padronizada baseada nesse framework, denominado Java Server Faces (JSF).
 
 
-
-
 Cuidado com as questões de prova que afirmam que se trata apenas de uma especificação
 - ele
 é tanto uma especificação quanto um framework* 1. Cuidado também com aquelas que
@@ -7667,16 +6654,6 @@ Aplicação Web. Ela possui as seguintes partes:
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Um conjunto de Managed Beans (ou Beans Gerenciados);
 
@@ -7752,16 +6729,6 @@ três atividades:
 
 * Criar uma Página Web (usando tags de componentes);
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Desenvolver Managed Beans;
 
@@ -7841,18 +6808,8 @@ composição de
 componentes customizados; etc.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O JSF1 tinha os escopos Request (Default), Session e Application. A partir do JSF2,
 ganhamos o
@@ -7887,12 +6844,6 @@ implementadas por esse componente - evitando repetição de código e facilitand
 manutenção
 do sistema.
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 No JSF, esse componente é o FacesServIet! Como mostra a imagem da estrutura geral de
 uma
@@ -7954,16 +6905,10 @@ passado
 para os componentes apropriados. Essas visões atualizam seus estados com os valores dos
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 dados. Dados podem vir de formulários, cookies enviados com a requisição ou por meio
 de
@@ -8035,16 +6980,6 @@ Pessoal, tem uma característica do JSF que é extremamente importante: Facelets
 Trata-se de
 uma linguagem de declaração de página poderosa, apesar de leve. Antigamente, utiliza-se a
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 tecnologia JSP como camada de visão do JSF, porém ele não suporta todas as
 características
@@ -8119,16 +7054,10 @@ criptografia; filtros de
 tokenização; filtros XSLT; filtros que acionam eventos de acesso a recursos, entre outros.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - JSF - MULTIBANCAS
 
@@ -8191,16 +7120,10 @@ tags) para adicionar componentes a páginas web e conectar componentes a objetos
 server-side.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Conforme vimos em aula, a questão está perfeita! Gabarito: C
 
@@ -8265,18 +7188,8 @@ JSF e
 a IDE NetBeans gera automaticamente dois componentes essenciais assim descritos:
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 I. É responsável por receber requisições dos componentes View do MVC, redirecioná-las
 para os beans gerenciados (managed beans) do componente Model do MVC e responder
@@ -8342,16 +7255,10 @@ Conforme vimos em aula, Backing Beans são Managed Beans, e essa pode ser uma de
 funções. Gabarito: C
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 7. (FCC - 2012 - TST - Analista de Sistemas) O framework JavaServer Faces
 (JSF) é
@@ -8410,18 +7317,8 @@ uma
 aplicação específica que utiliza JSF.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Ele é responsável por descrever e configurar elementos e subelementos que
 compõem o
@@ -8484,16 +7381,10 @@ necessário:
 Conforme vimos em aula, ela serve para referenciar propriedades e Managed Beans.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: E
 
@@ -8549,16 +7440,10 @@ o Namespace: xmlns:f="http://java.sun.com/jsf/core"
 FACELETS: fornece tags para criar templates para aplicações web.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 o Namespace: xmlns:ui="http://java.sun.com/jsf/facelets"
 
@@ -8620,16 +7505,10 @@ para construir a interface com o usuário.
 Conforme vimos em aula, trata-se da FacesServIet. Gabarito: E
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 12.(CESPE - 2012 - TJ/AL - Analista de Sistemas - B) Em um aplicativo Facelets, a
 tag f:ajax
@@ -8692,16 +7571,10 @@ FacesServIet.
 Conforme vimos em aula, trata-se da fase Apply Request Values. Gabarito: B
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 14.(CESPE - 2012 - TJ/RO - Analista de Sistemas - E) JNDI, parte do projeto de JSF,
 utiliza
@@ -8763,18 +7636,8 @@ Comentários:
 Gabarito: D
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 16.(CESPE - 2013 - CPRM - Analista de Sistemas) Facelets são utilizadas para
 desenvolver
@@ -8834,16 +7697,10 @@ em
 JSF 2 (Java Server Faces), um managed bean permanece no escopo de session.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -8898,16 +7755,10 @@ Apply Request Values: qualquer dado que for enviado como parte da requisição �
 os componentes apropriados. Essas visões atualizam seus estados com os valores dos dados.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Dados podem vir de formulários, cookies enviados com a requisição ou por meio de
 cabeçalhos
@@ -8962,16 +7813,10 @@ especificação padronizada baseada nesse framework, denominado Java Server Face
 Conforme vimos em aula, trata-se do JSF! Gabarito: B
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 23.(CESPE - 2015 - TCU - Analista de Sistemas) A partir da interpretação
 do trecho JSF
@@ -9033,12 +7878,6 @@ Conforme vimos em aula, a questão está perfeita! Gabarito: C
 Faces (JSF), assinale V para a afirmativa verdadeira e F para a falsa.
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 () Visa substituir a especificação Java Server Pages.
 
 () Java Server Faces são usadas como uma fachada para Servlets e Java Server Pages.
@@ -9094,18 +7933,8 @@ especificação padronizada baseada nesse framework, denominado Java Server Face
 (V) Perfeito, implementa o padrão MVC! Gabarito: A
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 26.(CESPE - 2014 - TJ-SE - Analista Judiciário - Análise de Sistemas) Em aplicações
 web nos
@@ -9154,16 +7983,10 @@ Plataforma Java EE - sendo considerada obsoleta para JSF!
 Conforme vimos em aula, a questão está perfeita! Gabarito: C
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES-JSF - MULTIBANCAS
 
@@ -9217,18 +8040,8 @@ c) faces-config.xml.
 d) webcontext.xml.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 4. (CESPE - 2010 - TRE-BA - Analista Judiciário - Análise de Sistemas) Entre os
 itens que o
@@ -9284,17 +8097,8 @@ d) possui bibliotecas que suportam Ajax (Asynchronous JavaScript And XML).
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
 /
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) provê um conjunto de tags limitado para criar somente páginas HTML/XHTML.
 
@@ -9350,18 +8154,8 @@ a
 maior modularidade, com o uso de templates e componentes compostos (composite).
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 11.(FCC - 2012 - TJ-PE - Analista Judiciário - Análise de Sistemas) No JSF, o
 componente
@@ -9425,16 +8219,6 @@ beans gerenciados.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 c) Facelets é uma parte da especificação JSF e também a tecnologia para implementar as regras
 de negócio em aplicações que utilizam JSF.
 
@@ -9497,16 +8281,10 @@ d) Processar validações (Process validation).
 e) Atualizar valores do modelo (Update model values).
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 21. (CESPE - 2010 - MPU - Analista de Sistemas) Uma aplicação web deve
 prover
@@ -9572,12 +8350,8 @@ b) F, V e V.
 
 c) V, F e F.
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) V, Ve F.
 
@@ -9604,12 +8378,6 @@ novos
 recursos da versão Java EE 7.
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 GABARITO
 
 Item. 1. D 8. E
@@ -9633,16 +8401,6 @@ Item. 20. C 27. C
 Item. 7. D 14. E
 Item. 21. E
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 JAVA PERSISTENCE API (JPA)
 
@@ -9710,16 +8468,10 @@ public class Bar implements javax.ejb.EntityBean { ...
 1 Possui até uma versão para .NET - chama-se NHibernate.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Galera, esse conceito é teórico! Na prática, por dificuldades técnicas (entre
 outras razões),
@@ -9783,12 +8535,6 @@ incorporado ao EJB 3.0 (apesar de ser independente deste), permitindo sua
 utilização em
 Ambientes Java SE e Java EE.
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Em suma, podemos dizer que o JPA é um padrão para persistência de dados que fornece
 aos
@@ -9855,16 +8601,10 @@ dados.
 @OneToOne Mapeamento um para um (1:1).
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Galera, vocês sabem o que é um EntityManager? Trata-se de uma interface que funciona
 como
@@ -9935,14 +8675,10 @@ Memória
 Cache de um Processador (aquela mais rápida):
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -10013,13 +8749,8 @@ EntityManagerFactory, basta chamar a função createEntityManager.
 banco, etc.
 
 
-
 www. estra tegiaconcursos. com. br
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * = Extended persiste nce context
 
@@ -10055,17 +8786,8 @@ desconectado do EntityManager. Quando um objeto é Destacado, mudanças sucessiv
 mais ser rastreadas e nenhuma sincronização automática do banco de dados será realizada.
 
 
-
-
-
 ,
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Por fim, é interessante mencionar uma implementação do JPA que tem feito sucesso
 ultimamente:
@@ -10079,16 +8801,6 @@ implementação também. Blz?
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - JPA - MULTIBANCAS
 
@@ -10141,16 +8853,10 @@ EclipseLink, Hibernate,
 OracleTopLink, JBossSeam e JDBCProvider.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) as classes de entidade do banco de dados permitem o mapeamento entre objetos da
 classe e
@@ -10216,16 +8922,10 @@ Anotações
 desenvolvedor define
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 como os objetos são mapeados e o framework faz o resto - acessa o banco, gera os
 comandos
@@ -10289,16 +8989,10 @@ pluggable persistence
 providers.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: C
 
@@ -10361,16 +9055,10 @@ o
 JPA, o POJO é a unidade básica!
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 E foi assim que surgiu o Java Persistence API (JPA)! Olha que engraçado: a
 especificação surgiu
@@ -10434,16 +9122,10 @@ automatizado e transparente e sua persistência em um banco de dados relacional.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Em suma, podemos dizer que o JPA é um padrão para persistência de dados que fornece
 aos
@@ -10502,16 +9184,10 @@ uma solução para persistência de dados, utilizada, inclusive, quando há mape
 modelo orientado a objeto para bancos de dados relacionais.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -10568,18 +9244,8 @@ especificação EJB e serve para definir as interfaces de acesso local e/ou remo
 componente EJB.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -10637,18 +9303,8 @@ private EntityManager em;
 private EntityTransaction et;
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 private void iniciarTransacao()
 
@@ -10711,16 +9367,10 @@ b) @Transient
 c) @Stateless.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) @Stateful.
 
@@ -10768,16 +9418,10 @@ a) novo (new), gerenciado (managed), destacado (detached) e removido (removed).
 b) ativo (active), inativo (inactive) e removido (removed).
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) novo (new), temporário (temporary), permanente (permanent) e destacado (detached).
 
@@ -10828,16 +9472,10 @@ e) São corretas apenas as afirmativas 3, 4 e 5
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Que tal, agora, entrar mais a fundo no JPA? Bem, os frameworks do mercado
 possuíam
@@ -10902,16 +9540,10 @@ cabeça de
 vocês. Está errado!
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Essas ferramentas facilitam o mapeamento dos atributos de uma base de dados relacional
 para
@@ -10963,16 +9595,10 @@ Gabarito: A
 relação à JPA (Java Persistence API) é INCORRETO afirmar que:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ©Entity
 
@@ -11043,15 +9669,6 @@ dados.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 @lnheritance Define um relacionamento de herança à entidade.
 @ManyToOne Mapeamento muitos para um (N:1).
 @OneToMany Mapeamento um para muitos (1 :N).
@@ -11060,16 +9677,6 @@ Paolla Ramos e Silva
 Conforme vimos em aula, namedQuery define apenas uma consulta! A Anotação namedQueries é
 quem define diversas consultas! Gabarito: A
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - JPA- MULTIBANCAS
 
@@ -11132,18 +9739,8 @@ TopLink e
 Objetos de Dados Java.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 7. (CESPE - 2013 - TRE/MS - Analista de Sistemas) Assinale a opção correspondente ao
 elemento que, além de ser utilizado para definir um meio de mapeamento objeto-relacional
@@ -11201,18 +9798,8 @@ uma solução para persistência de dados, utilizada, inclusive, quando há mape
 modelo orientado a objeto para bancos de dados relacionais.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 13.(CESPE - 2013 - TRE/MS - Analista de Sistemas - C) JPA é um
 framework MVC de
@@ -11268,16 +9855,10 @@ O parâmetro "Exemplo", passado para o método createEntityManagerFactory da cla
 Persistence refere-se ao nome:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) da unidade de persistência definido na tag persistence-unit contida
 no arquivo
@@ -11337,13 +9918,6 @@ Item. 2. Hibernate especifica uma JSR.
 
 Item. 3. Hibernate cuida da camada de persistência enquanto JPA da camada de transação.
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 4. Hibernate é uma implementação de JSR.
 
@@ -11409,16 +9983,6 @@ private string nome;
 private collection<Predio> prediocoliection;
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 a) @NamedQuery é aplicada para definir várias consultas.
 
 b) @Entity define que haverá correspondência da classe com uma tabela do banco de dados.
@@ -11436,18 +10000,8 @@ pode ser nulo.
 e) @OneToMany indica que o atributo contém um conjunto de entidades que a referenciam.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -11478,10 +10032,6 @@ Item. 21. A
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 HIBERNATE
 
@@ -11537,12 +10087,6 @@ de Persistência Java (JPA). Apesar disso, ele também é oferecido para executa
 plataforma .NET - é o famoso
 NHibernate.
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 OBSERVAÇÕES
 
@@ -11605,16 +10149,10 @@ banco de dados
 diretamente.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 OBSERVAÇÕES
 
@@ -11649,16 +10187,6 @@ recurso interessante é o Query Cache, que permite fazer um cache das queries
 executadas diversas
 vezes.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Hibernate: Arquitetura
 
@@ -11726,18 +10254,8 @@ name="hibernate.connection.uri">jdbc:mysql://localhost/banco_dados</property>
 </hibernate-configuration>
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Observem também que ele configura a SessionFactory, que é a classe utilizada pelo
 Hibernate
@@ -11794,12 +10312,6 @@ por controlar transações:
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
 * Session (org.hibernate.Session): trata-se de um objeto leve, single-threaded, de
 vida curta
 que representa uma comunicação entre a aplicação e os objetos persistentes, através de
@@ -11845,16 +10357,6 @@ padrão sem
 argumentos.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Hibernate: Ciclo De Vida Da Persistência
 
 Agora vamos falar um pouco sobre os estados de um objeto no Hibernate! Nas diversas
@@ -11896,16 +10398,10 @@ um
 objeto nesse estado é detectada e sincronizada com a base de dados.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Desanexado: a instância foi associada a um contexto persistente3, no entanto não
 está mais
@@ -11959,13 +10455,6 @@ será a
 identificadora, isto é, será a chave primária. Pode ser um campo
 único ou a combinação de múltiplos campos dependendo da
 estrutura da tabela.
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 @Column
@@ -12062,18 +10551,8 @@ CHAR(1) (T or
 'F')
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Vamos ver um exemplo de uma Tabela EMPREGADO:
 
@@ -12127,16 +10606,10 @@ return primeitoNome;
 }
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 public void setPrimeiroNome( String primeiro_nome) {
 this.primeiroNome= primeiro_nome;
@@ -12207,8 +10680,6 @@ jogador só
 joga em um time de futebol. Outro exemplo: um órgão tem vários servidores, mas um servidor
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
@@ -12267,18 +10738,8 @@ conflito. Sobre
 esse assunto, é isso que vocês precisam saber.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - HIBERNATE - MULTIBANCAS
 
@@ -12328,16 +10789,6 @@ e) Transiente (Transient), Permanente (Permanent) e Resiliente (Resilient).
 Comentários:
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 SaJc( ■)
 
 EvictC)
@@ -12381,16 +10832,10 @@ seguido pelo sufixo .map.xml.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O trabalho do desenvolvedor é definir como os objetos são mapeados nas tabelas do
 banco
@@ -12456,16 +10901,10 @@ então,
 referenciá-la e mapeá-la no cfg.xml.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 (e) Conforme vimos em aula, pode-se usar annotations. Ademais, o sufixo seria hbm.xml.
 
@@ -12524,18 +10963,8 @@ um modelo de metadados). No âmbito do mapeamento objeto-relacional (hibernate) 
 camada de:
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) negócio.
 
@@ -12597,16 +11026,10 @@ representação no banco de dados e um valor identificador. Qualquer mudança em
 nesse estado é detectada e sincronizada com a base de dados.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ■ Desanexado: a instância foi associada a um contexto persistente, no entanto
 não está mais
@@ -12665,16 +11088,10 @@ c) descriptions.
 d) patterns.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) actions.
 
@@ -12731,12 +11148,6 @@ c) entidade/relacionamento para modelagem de dados.
 d) lógico/físico para desenvolvimento por meio da prototipação.
 
 Comentários:
-
-
-
-
-
-
 
 
 Pois bem! Era trabalhoso transformar objetos de uma classe em registros de uma tabela
@@ -12797,16 +11208,6 @@ a licença LGPL, o que permite seu uso em projetos comerciais ou open source.
 
 Comentários:
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A imagem abaixo mostra de maneira absurdamente abstrata uma sugestão de arquitetura em
 que
@@ -12870,12 +11271,6 @@ critério, entre outras.
 Comentários:
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Quando utilizamos o Hibernate para realizar consultas no banco de dados, temos a
 oportunidade
 de trabalhar com SQL (Structured Query Language), HQL (Hibernate Query
@@ -12913,16 +11308,10 @@ facilitar a integração entre programas em Java, funcionando também em ambient
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Nota de Rodapé: Hibernate tornou-se um framework tão popular que acabou por
 ser utilizado
@@ -12982,16 +11371,10 @@ por meio do
 atributo name. Gabarito: C
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 18. (CESPE - 2013 - SERPRO - Analista - Desenvolvimento de Sistemas) Em Hibernate, a configuração
 de conexões de banco de dados deve ser feita somente por meio do uso de arquivo de
@@ -13053,13 +11436,6 @@ para persistir entidades na base de dados. Caso essa anotação seja
 omitida, não resultará em erro, porém será utilizado o nome da
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-
 @ld
 
 classe como valor default. Dessa forma, apenas definimos a
@@ -13115,12 +11491,6 @@ Nota de Rodapé: Classes Persistentes não precisam implementar interfaces ou
 herdar de uma
 classe-base especial!
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Conforme vimos em aula, classes persistentes não precisam implementar interfaces ou
 herdar uma
@@ -13180,28 +11550,15 @@ são iguais
 (Hibernate: date; Java: Date; SQL: DATE). Vejamos a tabela abaixo:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
 
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Conforme vimos em aula, os tipos de mapeamento não são tipos SQL, muito menos Java -
 são
 Tipos Hibernate! Gabarito: E
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - HIBERNATE - MULTIBANCAS
 
@@ -13265,16 +11622,10 @@ um arquivo de mapeamento XML que deve ser salvo obrigatoriamente com o nome da c
 seguido pelo sufixo .map.xml.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 4. (FCC - 2010 - TRT - 22a Região (PI) - Técnico Judiciário - Tecnologia da Informação)
 Hibernate é
@@ -13341,16 +11692,10 @@ sua
 essência, o Hibernate é um framework para:
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) mapeamento objeto-relacional (ORM).
 
@@ -13413,16 +11758,10 @@ pedidos SQL sobre as classes de persistência do Java em vez de tabelas no banco
 que diminui a distância entre o desenvolvimento das regras de negócio e o banco de dados.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 12. (CESPE - 2009 - SECONT-ES - Auditor do Estado - Tecnologia da Informação) O Hibernate, um
 framework de mapeamento objeto relacional (ORM), cria uma camada persistência na solução
@@ -13481,16 +11820,10 @@ c) transient, persistent, detached
 d) transient, connected, timewait
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 15. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) O Hibernate, framework utilizado
 no
@@ -13547,12 +11880,8 @@ O objeto Session Factory do Hibernate mantém o mapeamento objeto relacional na 
 Item. 23. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção de Sistemas)
 A Interface Criteria do Hibernate é utilizada para realizar consultas ao banco de dados.
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 24. (CESPE - 2014 - SUFRAMA - Analista de Sistemas) Os tipos de mapeamento do Hibernate são
 considerados tipos de dados SQL e precisam de conversão para dados Java nas respectivas
@@ -13583,16 +11912,6 @@ Item. 20. E
 Item. 7. A 14. C
 Item. 21. C
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 JDBC
 
@@ -13663,8 +11982,6 @@ Java, normalmente é independente de plataforma e escrito pelos próprios desenv
 o tipo mais recomendado para ser usado.
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
@@ -13725,15 +12042,11 @@ catch(SQLException e)
 
 2-22
 
-www.estrategiaconcursos.com.br
+
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 { // Se o carregador não localizar o driver do banco para conexão, lança a
 
@@ -13791,16 +12104,10 @@ con.closeO;
 catch(SQLException onConClose)
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 {
 
@@ -13822,18 +12129,8 @@ fechamento
 para a cláusula finally().
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - JDBC - MULTIBANCAS
 
@@ -13892,18 +12189,8 @@ a) import java.awt.*;
 b) import java.util.*;
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) import java.sql.*;
 
@@ -13958,16 +12245,10 @@ catch(SQLException e)
 e.printStackTrace();
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Conforme vimos em aula, trata-se do java.lang.ClassNotFoundException. Gabarito: A
 
@@ -14056,16 +12337,6 @@ e) Criar uma variável para logon do Banco de Dados.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Comentários:
 
 Para acessar um banco de dados, o primeiro passo é estabelecer uma conexão! É
@@ -14119,16 +12390,6 @@ De acordo com a documentação oficial: trata-se de uma API que fornece acesso u
 a dados
 a partir da linguagem de programação Java. É possível acessar praticamente qualquer fonte de
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 dados, desde bancos de dados relacionais a planilhas ou arquivos simples. O
 JDBC também
@@ -14184,16 +12445,10 @@ armazenados no banco (quando o banco suportar este recurso). A interface
 ResuItSet permite
 
 
-
-www.estrategiaconcursos.com.br
 / 235
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 colher os resultados da execução de nossa query no banco de dados. Esta interface
 apresenta
@@ -14205,16 +12460,6 @@ Conforme vimos em aula, o nome correto é CalIableStatement. Gabarito: E
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - JDBC - MULTIBANCAS
 
@@ -14265,18 +12510,8 @@ d) java.io.lOException.
 e) java.util.lnputMismatchException.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 5. (FGV - 2009 - MEC - Analista de Sistemas - Especialista) Observe o código abaixo, que se refere
 á implementação de Java no acesso a Banco de Dados em JDBC.
@@ -14371,16 +12606,6 @@ Driver
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 b = a.createStatement();
 
 c = b.executeQuery("select * from cliente where id = "+ valor +"");
@@ -14427,18 +12652,8 @@ Dados) O JDBC fornece a classe CalIableStatementSQL, que permite que procediment
 funções SQL armazenados sejam chamados.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -14466,80 +12681,6 @@ Item. 9. D
 Item. 10. E
 
 
-
-
 ,
 
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

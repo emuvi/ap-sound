@@ -1,24 +1,5 @@
 Capítulo. Desenvolvimento de Software - Padrões de frontend. SPA. PWA. Ajax. Angular, VueJS e React. NodeJS, Express.
 
-Concursos
-
-(Profs. Paolla
-Ramos e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Desenvolvimento de
-software - 2023 (Pós-Edital)
-
-Autor:
-
-Paolla Ramos e Silva
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Índice
 
@@ -68,12 +49,7 @@ Paolla Ramos e Silva
 
 23) PWA - Lista de Questões.
 
-* 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
+*
 
 
 Conceitos Básicos
@@ -145,10 +121,6 @@ sentido, mas não oferece uma boa experiência ao usuário.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023
 (Pós-Edital)
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 user interface
 
@@ -233,16 +205,6 @@ comunicação
 assíncrona com o servidor.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 classic web application model (synchronous)
 
 Ajax web application model (asynchronous)
@@ -277,16 +239,6 @@ texto; e o
 primeiro recupera dados como um Objeto DOM, em formato XML! É possível, ainda, capturar
 dados em outros formatos, tais como: HTML e JSON!
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 No AJAX, o objeto XMLHttpRequest possui diversas propriedades importantes para realizar a
 comunicação com o servidor. Quando uma solicitação para um servidor é enviada,
@@ -346,16 +298,6 @@ III - Uma das características de Ajax é a exibição dinâmica de dados e uso 
 objetos DOM (Document Object Model).
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Podemos afirmar que:
 
 a) somente as alternativas I e II estão corretas.
@@ -404,16 +346,6 @@ Javascript. etc foram que falar em usar protocolo proprietário não faz 0 menor
 AJAX não usa SMTP, não faz
 sentido também falar do protocolo SMTP e do AJAX, são coisa distintas (Letra A).
 
-
-00 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - AJAX
 
@@ -475,16 +407,6 @@ e) responseHTML
 
 Comentários:
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Trata-se da primeira opção: responseText e responseXML Respectivamente para
 capturar as
@@ -551,16 +473,10 @@ Comentários:
 - Recuperação Assíncrona de Dados: XMLHttpRequest;
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * JavaScript é o responsável por reunirtodas essas tecnologias.
 
@@ -618,16 +534,10 @@ Gabarito: Letra D
 Item. 7. (FCC / INFRAERO - 2011) Representa uma desvantagem do uso de AJAX:
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) Troca mensagens entre o cliente e o servidor de forma assíncrona, ou seja, envia
 requisições
@@ -695,16 +605,10 @@ I. Troca e manipulação de dados usando XML e XSLT.
 II. Retorno de dados assincronamente usando XMLHttpRequest.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 III. Apresentação baseada nas Web Standards usando XHTML e CSS.
 Assinale:
@@ -768,16 +672,10 @@ d) FTP
 e) UTF-8
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -838,16 +736,10 @@ de AJAX.
 <html>
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <head>
 
@@ -931,16 +823,10 @@ cliente para
 transferir dados entre um cliente e um servidor.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra C
 
@@ -1001,16 +887,6 @@ XMLHttpRequest,
 que é capaz de transmitir requisições HTTP de modo assíncrono.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 III - Atecnologia AJAX utiliza código Java para a manipulação do conteúdo de páginas HTML.
 Está correto o que se afirma em:
 
@@ -1058,12 +934,6 @@ Item. 18. (FGV/TCM-SP-2015) Considere a requisição AJAX construída, no client
 chamada
 à seguinte função em Javascript:
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 function send (msg)
 
@@ -1131,13 +1001,6 @@ Gabarito: Letra B
 software - 2023 (Pós-Edital)
 
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Item. 19. (UFRJ / UFRJ - 2012) Para utilizar Ajax é preciso antes instalar e configurar
 um servidor Ajax, o
 qual interage com o servidor web.
@@ -1188,12 +1051,6 @@ realizar operações Ajax é chamado de XMLHttpRequest.
 
 Gabarito: Correto
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 23.(CESPE / MPE-RS - 2012) AJAX é uma técnica de construção de páginas web, e sua
 principal
@@ -1252,16 +1109,10 @@ nos códigos em JavaScript e Node.
 Sabendo disso, analise as afirmativas abaixo:
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 I. function somaCajb)!
 return a -» b;
@@ -1322,16 +1173,6 @@ d) I, lie III.
 Comentários:
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 No item I temos a declaração da função, que soma e passa os argumentos para
 execução. No item
 II, a função executar recebe uma função anônima e no item III, temos a atribuição da
@@ -1388,16 +1229,10 @@ var a = [1,2,3,4,5] ;
 a.slice(0,3);
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a.splíce(l₅l);
 a.pop();
@@ -1458,16 +1293,10 @@ ArrayList é utilizado na linguagem JAVA e não no JS.
 Gabarito: Letra B
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 31. (IUDS / IF-RJ - 2021) Em javascript, o que faz a função Math.roundO?
 
@@ -1523,16 +1352,10 @@ tipos diferentes.
 Gabarito: Errado
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 35. (QUADRIX / CFT - 2021) Como toda linguagem de programação, a JavaScript também
 possui
@@ -1551,16 +1374,10 @@ ações do usuário.
 Gabarito: Errado
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - AJAX
 
@@ -1628,16 +1445,6 @@ Item. 4. (FCC / MPE-RS - 2008) Para fazer o intercâmbio e a manipulação de da
 aplicação
 Web, o modelo AJAX normalmente utiliza:
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) XML e XSLT.
 
@@ -1709,16 +1516,6 @@ informações:
 a) XML.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 b) JavaScript.
 
 c) XHTML.
@@ -1787,16 +1584,6 @@ d) FTP
 
 e) UTF-8
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 i2.(CESPE / MEC -2011) AJAX (do inglês Asynchronous Javascript And XML) tem sido
 largamente
@@ -1872,16 +1659,10 @@ xhr.send(null);
 }
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 </scri pt>
 
@@ -1955,8 +1736,6 @@ assíncrona do
 conteúdo de páginas HTML.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
@@ -1995,16 +1774,6 @@ e) linguagem de marcação
 Item. 18. (FGV/TCM-SP- 2015) Considere a requisição AJAX construída, no cliente, através da chamada
 à seguinte função em Javascript:
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 function send (msg)
 
@@ -2065,16 +1834,6 @@ Item. 22. (FUNCAB / PRODAM - 2014) A utilização de Ajax em uma página permite
 dados de uma URL sem a necessidade de recarregar a página inteira. O objeto JavaScript que
 
 
-00 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 foi adotado pelos principais navegadores para realizar operações Ajax é
 chamado
 XMLHttpRequest.
@@ -2110,16 +1869,10 @@ nos códigos em JavaScript e Node.
 Sabendo disso, analise as afirmativas abaixo:
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 I. function somaCajb)!
 return a -» b;
@@ -2175,16 +1928,6 @@ d) I, lie III.
 27.(IFS / IFS - 2021) A linguagem JavaScript provê uma série de métodos que facilitam a
 manipulação de arrays. Sobre o método de manipulação de arrayof, é correto afirmar que:
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) cria um novo array a partir de um array existente.
 
@@ -2248,16 +1991,10 @@ b) Retorna o valor de um número arredondado para o inteiro, mais próximo.
 c) Retorna o valor de um número arredondado para o inteiro, logo abaixo.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) Retorna o valor de um número arredondado para o inteiro, logo acima.
 
@@ -2281,17 +2018,13 @@ limitações. Sua maior limitação é não permitir que determinados objetos gr
 apresentados
 na página (imagem, botão etc.) respondam dinamicamente às ações do usuário.
 
- x35
+x35
 
-www.estrategiaconcursos.com.br
+
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo - AJAX
 
@@ -2330,16 +2063,6 @@ Item. 10. LETRA E 22. ERRADO
 
 Item. 12. LETRA C 24- CORRETO
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Single Page Application (SPA)
 
@@ -2406,16 +2129,10 @@ navegador
 utiliza apenas uma URL.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Após essa página inicial ser carregada, toda a lógica de apresentação está no cliente.
 Eu sei, vocês
@@ -2477,17 +2194,6 @@ isso, vamos
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-
 Conceitos Básicos
 
 VUEJS
@@ -2523,12 +2229,6 @@ count: 0
 
 }).mount('#app')
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <div id="app">
 
@@ -2588,16 +2288,10 @@ uma lista de
 elementos com base nos dados de um determinado Array basta utilizar o comando v-for.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - VUEJS
 
@@ -2691,13 +2385,6 @@ escolhida: 'Nenhuma*
 (Pós-Edital)
 
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 É correto afirmar que:
 
 a) Para que uma mensagem apareça corretamente no navegador com o valor do "radio
@@ -2756,16 +2443,6 @@ de um determinado Array é o v-for.
 
 Gabarito: Letra A
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 4. (CCV / UFC - 2019) Sobre Vue.Js, assinale a alternativa correta.
 
@@ -2827,16 +2504,10 @@ que nos permite descrever declarativamente a saída HTML com base no estado do J
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Perfeito! Foi o que vimos, que o framework Vue.js estende o HTML padrão com uma
 sintaxe de
@@ -2891,16 +2562,10 @@ dentre elas, aprimorando HTML estático sem uma etapa de compilação.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Exato! O VueJS foi projetado para ser flexível e adotável de forma incremental.
 Dependendo de
@@ -2911,16 +2576,10 @@ estático sem uma etapa de compilação.
 Gabarito: Correto
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - VUEJS
 
@@ -3010,10 +2669,6 @@ diretiva
 "vmodel".
 
 
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 c) VueJS faz uma ligação bidirecional entre o valor e a camada de acesso ao banco de
 dados por
 meio da diretiva "v-model".
@@ -3082,16 +2737,10 @@ modelo
 que nos permite descrever declarativamente a saída HTML com base no estado do JavaScript.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 7. (QUESTÃO INÉDITA) O VueJS não rastreia automaticamente as mudanças de
 estado do
@@ -3112,16 +2761,10 @@ maneiras,
 dentre elas, aprimorando HTML estático sem uma etapa de compilação.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo - VUEJS
 
@@ -3136,17 +2779,6 @@ Item. 2. LETRA D 6. CORRETO
 
 Item. 9. CORRETO
 ío.CORRETO
-
-
-00 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -3204,12 +2836,6 @@ que mantém um DOM virtual próprio.
 
 UNIFICA 0 MARKUP E A LÓGICA DA VIEW, FACILITANDO A EXTENSÃO E MANUTENÇÃO
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Pois é, a grande sacada do ReactJS é o Virtual DOM! Todo mundo sabe que manipular o
 DOM da
@@ -3284,17 +2910,13 @@ STATE
 State é gerenciado de dentro do componente (como variáveis declaradas dentro
 de uma função.
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Key são úteis ao trabalhar com componentes criados dinamicamente ou quando
 suas listas são alteradas pelos usuários. A definição do valor da chave manterá seus
@@ -3329,16 +2951,10 @@ exclusivamente do DOM do
 navegador, já que tem um DOM virtual própria (Letra A).
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - REACTJS
 
@@ -3412,17 +3028,13 @@ b) imperativa, que não gerencia seu próprio virtual DOM e não dá suporte a
 componentes
 reutilizáveis.
 
- x53
+x53
 
-www.estrategiaconcursos.com.br
+
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) declarativa, que gerencia seu próprio virtual DOM e permite a criação de aplicativos móveis.
 
@@ -3482,16 +3094,10 @@ biblioteca de
 frontend chamada React?
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) Java
 
@@ -3553,16 +3159,6 @@ A partir daqui temos o seguinte: State (Estado): É o estado interno do componen
 definido e
 controlado pelo próprio componente e muda ao longo de sua vida e Props (Propriedades): São
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 recebidas pelo componente pai, são fixas (imutáveis) por toda vida do
 componente. Na dúvida
@@ -3637,17 +3233,13 @@ a alternativa em que todos os métodos são considerados como Updating:
 
 a) getStateQ, forceUpdateQ e renderQ
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) constructor() e componentWillMount()
 
@@ -3710,17 +3302,13 @@ Questão fora da curva, mas por padrão, os projetos no react, ficam
 armazenados na pasta
 node_modules.
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra E
 
@@ -3772,16 +3360,6 @@ SGBDs é MySQL, Oracle, SQL Server e Acess. Obviamente, React não é SGBD.
 
 Gabarito: Letra D
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - REACTJS
 
@@ -3847,16 +3425,6 @@ c) CSS
 
 d) .NET
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e)JS
 
@@ -3928,16 +3496,10 @@ a) Component Driven Development.
 b) Component Development Structured.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) Driven Component Divided.
 
@@ -3994,16 +3556,6 @@ d) MySQL, Oracle, SQL Server e Acess.
 e) GIT, REST, VueJS e Oracle.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 GABARITo - REACTOS
 
 Item. 1. LETRA B 6. LETRA C
@@ -4020,15 +3572,7 @@ Item. 4. ERRADO 9. LETRA D
 Item. 5. LETRA E io. LETRA A
 
 
-0 0 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
+0 0
 
 
 Conceitos Básicos
@@ -4099,12 +3643,6 @@ A partir daí, foram lançados um bocado de frameworks de desenvolvimento front-
 utilizam
 o Modelo MVC. Quais, professor? Knockout, Backbone.js, Ember, batman.js, e... AngularJS! Trata-
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 se de um framework JavaScript (MVC), criado pela Google, cujo objetivo é construir
 aplicações web
@@ -4177,16 +3715,10 @@ modifica o conteúdo da tag <p> com o valor da variável. O segundo chama-se
 interpolação de
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 strings, mas tem como apelido "bigodes" (por causa das chaves {{}}). Nesse segundo,
 AngularJS vai
@@ -4255,16 +3787,10 @@ Um ponto a ressaltar é que, a partir da versão 2, todas as versões seguintes 
 evoluções naturais
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 da anteriores. Assim, Angular 2 evoluiu para o Angular 3, depois para o Angular 4, e
 assim por
@@ -4338,16 +3864,10 @@ que é
 especificada pelo atributo template ou templateUrl:
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 @Component({
 
@@ -4411,23 +3931,13 @@ verdadeira.
 NG-CSP Altera a política de segurança do conteúdo.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
 
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - ANGULAR JS
 
@@ -4483,16 +3993,10 @@ AngularJS. Portanto,
 item errado
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Errado
 
@@ -4544,16 +4048,6 @@ Gabarito: Letra A
 
 Item. 6. (FCC / TRT2 - 2018) Considere a página web abaixo, que utiliza o Angular JS versão 1.6.9.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 < IDOCTYPE htral>
 
@@ -4607,16 +4101,6 @@ Gabarito: Letra B
 
 Item. 7. (COPERV / UFSC - 2018) Considere a página web abaixo que utiliza Angular.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 «IDOCTYPE html>
 
@@ -4682,16 +4166,6 @@ Item. 8. (IBFC /TJ-PE - 2017) Abaixo são apresentadas algumas das principais di
 (1) ng-model
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 (2) ng-app
 
 (3) ng-loop
@@ -4749,17 +4223,13 @@ NG-CSP Altera a política de segurança do conteúdo.
 
 Gabarito: Letra B
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 9. (CESPE / SEDF - 2017) AngularJS, Ajax, JQuery, Less e PHP são tecnologias para
 desenvolvimento webfront-end.
@@ -4815,16 +4285,10 @@ Este fragmento evidencia o uso de:
 a) QueryJS.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) Facelets.
 
@@ -4885,17 +4349,13 @@ NG-REPEAT Instancia um elemento por item de um array.
 NG-SHOW E NG-HIDE Mostra ou esconde um elemento HTML de acordo com o resultado de uma
 expressão booleana.
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Instancia umtemplate, em uma lista de escolhas, dependendo do valor obtido
 expressão.
@@ -4954,16 +4414,10 @@ diretivas e vinculando dados ao HTML através de expressões.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 AngularJS visa declarar visualizações dinâmicas em aplicações web, estendendo atributos
 do HTML
@@ -5024,17 +4478,13 @@ verdadeira.
 
 NG-CSP Altera a política de segurança do conteúdo.
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra D
 
@@ -5054,16 +4504,10 @@ sempre que o valor da expressão mudar.
 Gabarito: Correto
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - ANGULARJS
 
@@ -5121,16 +4565,6 @@ e) <p>Candidato aprovado: <js:angular value="candidato. nome"/x/p>.
 
 Item. 6. (FCC / TRT2 - 2018) Considere a página web abaixo, que utiliza o Angular JS versão 1.6.9.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 < IDOCTYPE htral>
 
@@ -5205,16 +4639,6 @@ I. <p ng-bind="nome,,x/p>
 II. <p>{{nomeH</p>
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 III. <p ng-print="nome"x/p>
 
 IV. <p>{$nome}</p>
@@ -5279,12 +4703,6 @@ d) I e II
 e) I e III
 
 
-
-
-
-
-
-
 Item. 11. (FCC / TRT ii - 2017) Considere o fragmento de código HTML abaixo.
 
 <body> <div> <label>processo N°:</label> <input
@@ -5345,16 +4763,6 @@ eficiente do
 conteúdo;
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 e) declarar visualizações dinâmicas em aplicações web, estendendo atributos do
 HTML com
 diretivas e vinculando dados ao HTML através de expressões.
@@ -5380,16 +4788,10 @@ conteúdo do
 texto, quando o valor da expressão for alterado.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo - ANGULARJS
 
@@ -5409,16 +4811,6 @@ Item. 5. LETRA A li. LETRA C
 
 Item. 6. LETRA B 12. LETRA C
 
-
-00 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 NoDEJS
 
@@ -5457,16 +4849,6 @@ o Thread Processing Thread Waiting
 
 Para quem quiser conhecê-lo: https://www.youtube.com/watch?v=SAc0vQCC6UQ
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Ele imaginou como aquilo era implementado e descobriu que, como o navegador não sabia,
 ele
@@ -5515,16 +4897,10 @@ alguma thread
 assíncrona.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Dessa forma, a entrada/saída de dados será não-bloqueante, ou seja, se uma
 atividade não
@@ -5563,8 +4939,6 @@ nunca caiu em
 prova, então vamos parar por aqui...
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
@@ -5644,12 +5018,6 @@ temos o
 MODE que realizam a execução do webpack em produção.
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 QUESTõES CoMENTADAS - WEBPACkOS
 
 í. (QUESTÃO INÉDITA) Webpack é um empacotador javascript que realiza a conversão de
@@ -5697,16 +5065,6 @@ um gráfico que mapeia cada módulo e as dependências de um ou mais pacotes
 
 Gabarito: Correto
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 5. (QUESTÃO INÉDITA) O ENTRY é uma das funcionalidades do webpack e é responsável
 por
@@ -5765,16 +5123,10 @@ gerado pelo webpack.
 Gabarito: Correto
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 9. (QUESTÃO INÉDITA) Os LOADERS são módulos que são instalados de forma separada no
 webpack e que possibilitam que o webpack realize a conversão desdes arquivos em módulos
@@ -5800,16 +5152,10 @@ Ao contrário, o MODE no webpack realiza a execução em produção e não em de
 Gabarito: Errado
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - WEBPACkJS
 
@@ -5857,16 +5203,6 @@ em
 produção.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 GABARITo - WEBPACkJS
 
 Item. 1. CORRETO
@@ -5890,16 +5226,9 @@ Item. 9. CORRETO
 Item. 10. ERRADO
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -5935,16 +5264,10 @@ a qualquer
 momento.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Galera, demorou muito até essa tecnologia chegar! Navegadores são excelentes em
 fazer
@@ -6017,8 +5340,6 @@ Essa
 conexão usa a própria conexão HTTP da página, e mantém o canal aberto enquanto o socket não
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
@@ -6063,16 +5384,6 @@ Por isso, entenda bem os conceitos desse tópico, pois seu examinador provavelme
 uma
 questão simples sobre o que o WebSocket é (ou tentar te enganar, falando coisas que ele não é).
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - WEBSoCkET
 
@@ -6134,16 +5445,6 @@ a) esses browsers por questões de segurança, não permitem que scripts manipul
 HTML que foi renderizado na página.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 b) eles dão suporte nativo à comunicação bidirecional com aplicações remotas
 através de
 WebSockets.
@@ -6201,16 +5502,10 @@ sessão de comunicação interativa entre o navegador do usuário e um servidor
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Perfeito! O WebSockets é uma tecnologia avançada que torna possível abrir uma
 sessão de
@@ -6269,16 +5564,10 @@ protocolo https.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Utilizamos o protocolo ws e não o https. Logo, o correto seria: Para utilizar o
 WebSocket, utilizamos
@@ -6313,14 +5602,10 @@ ocorrer um erro.
 Gabarito: Correto
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -6385,12 +5670,6 @@ conexão
 UDP.
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 d) A especificação WebSocketdefine dois esquemas de URI: ws (WebSocket) and
 ws-tls
 (WebSocket Secure).
@@ -6432,16 +5711,10 @@ Item. 11. (QUESTÃO INÉDITA) Entre as funcionalidades do websocket, temos o ws.
 callback de quando ocorrer um erro.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo - WEBSoCkET
 
@@ -6468,10 +5741,6 @@ Item. 11. CORRETO
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 PWA (PRoCRESSIvE WEB APPS)
 
@@ -6505,12 +5774,6 @@ Vamos explorar isso com os sites, para ficar mais aderente. Imagina que você ac
 o Chrome ou
 Mozilla Firefox e quer acesso o Google Maps.
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Onde entra o PWA? Simples: Se através de uma página web, você conseguir acessar uma
 função
@@ -6557,22 +5820,8 @@ As aplicações PWA podem acessar recursos do dispositivo para aprimorar a
 experiência no app.
 
 
-00 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - PWA
 
@@ -6647,16 +5896,10 @@ em um ambiente de navegador.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A questão afirma o óbvio: HTML, CSS e JS são fundamentais em conteúdo,
 aparência e
@@ -6717,16 +5960,10 @@ nenhuma
 aplicação, este é o erro da questão.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Errado
 
@@ -6782,16 +6019,6 @@ convencer o seu
 público a baixar um app ou realizarqualquertipo de cadastro.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Gabarito: Correto
 
 io.(QUESTÃO INÉDITA) Os PWAs podem ser adicionados às homes dos smartphones,
@@ -6806,16 +6033,10 @@ necessidade de abrir o navegador e digitar uma URL.
 Gabarito: Correto
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - PWA
 
@@ -6879,16 +6100,6 @@ aplicação,
 abrir e ainda conceder uma série de permissões para, finalmente, utilizá-los.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Item. 6. (QUESTÃO INÉDITA) Ao criar um PWA para sua empresa, seus desenvolvedores
 poderão
 fornecer updates normal mente. A diferença, aqui, é que o usuário não precisará
@@ -6912,16 +6123,10 @@ smartphones,
 dispensando a necessidade de abrir o navegador e digitar uma URL.
 
 
-
-www.estrategiaconcursos.com.br
 / 114
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo - PWA
 
@@ -6939,80 +6144,6 @@ Item. 9. CORRETO
 Item. 10. CORRETO
 
 
-
-www.estrategiaconcursos.com.br
 / 1
 
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

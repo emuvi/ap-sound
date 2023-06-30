@@ -14,12 +14,6 @@ Tecnologia) Engenharia de software -
 
 Autor:
 
-Diego Carvalho
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Índice
 
@@ -50,8 +44,6 @@ Diego Carvalho
 13) Lista de Questões - Metodologias Ágeis - XP - FGV
 
 14) Lista de Questões - Metodologias Ágeis - XP - Diversas
-
-
 
 
 APRESENTAçÃo
@@ -97,12 +89,6 @@ que caiu em
 prova independentemente da banca e também em minhas avaliações sobre cada assunto...
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 #ATENÇÃO
 
 Avisos
@@ -141,12 +127,6 @@ que o aluno avalie seus conhecimentos sobre a matéria estão dispostas ao
 final da aula na lista de exercícios e possuem comentários bem mais
 
 completos, abrangentes e direcionados.
-
-
-
-
-
-
 
 
 EXTREME PRoCRAMMINC (XP)
@@ -209,12 +189,6 @@ disso, o envolvimento do cliente em tempo integral facilita bastante o desenvolv
 1 Por vezes, também chamado de estórias de usuário.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 a qualidade do produto. Agora vejam só... eu falei muito rapidamente sobre histórias
 de usuário,
 mas é importante se aprofundar um pouco porque ela é muito importante.
@@ -267,12 +241,6 @@ que são
 casos de teste, Diego? É um conjunto de condições usadas para teste de software -
 ele especifica os
 valores de entrada e os resultados esperados do processamento de uma funcionalidade.
-
-
-
-
-
-
 
 
 Por fim, elas devem ser concluídas em até uma iteração. Uma história de usuário que
@@ -344,12 +312,6 @@ da bandeira C
 Para pagar meus pedidos.
 
 
-
-
-
-
-
-
 Principais Práticas
 
 O XP possui um conjunto de práticas que são frequentemente utilizadas. Galera... isso
@@ -408,12 +370,6 @@ A equipe de desenvolvimento é formada por pessoas engajadas e multidisciplinare
 possuem habilidades para diversas áreas do projeto.
 
 
-
-
-
-
-
-
 JOGO DO
 PLANEJAMENTO
 
@@ -430,12 +386,6 @@ programadores
 não fazem refatoração em partes do sistema que não desenvolveram; nem sempre
 é possível
 programar em pares; etc. É claro que a teoria trata do mundo ideal...
-
-
-
-
-
-
 
 
 Processo do XP
@@ -484,8 +434,6 @@ chegar a
 um compromisso básico (concordância sobre quais histórias serão incluídas, data de
 entrega, etc)
 para uma versão, a equipe XP ordena as histórias a ser desenvolvidas em uma das três formas:
-
-
 
 
 (í) todas serão implementadas imediatamente (em um prazo de poucas semanas); (2) as
@@ -556,8 +504,6 @@ de um
 sistema de software de tal forma que não se altere o comportamento externo do código, mas se
 
 
-
-
 aprimore a estrutura interna. É uma forma disciplinada de organizar código (e
 modificar/simplificar
 o projeto interno) que minimiza as chances de introdução de bugs.
@@ -624,8 +570,6 @@ criar um
 ambiente "teste da fumaça" que ajuda a revelar erros precocemente.
 
 4-TESTES:
-
-
 
 
 Já foi observado que a criação de testes de unidade, antes de começar a
@@ -712,8 +656,6 @@ histórias não
 implementadas mudam ou podem ser descartadas.
 
 
-
-
 Tarefa 1: Alterar dose de medicamentos prescritos
 Tarefa 2: Seleção de formulário
 
@@ -765,12 +707,6 @@ Desenvolver,
 integrar e
 testar software
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Valores Fundamentais
 
@@ -851,16 +787,6 @@ Re
 CorSim ComFeRe
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Princípios Básicos
 
 Da mesma forma que existem valores fundamentais, há também princípios básicos. Galera, não
@@ -921,8 +847,6 @@ por
 possíveis melhorias no software, implementando-as imediatamente. Portanto, o software deve
 
 
-
-www.estrategiaconcursos.com.br
 / 112
 
 
@@ -959,16 +883,6 @@ pessoal! Finalizamos toda a teoria do XP. Vocês viram que não é difícil e as
 questões são bem
 decorebas. Entendendo o fundamento, é possível respondê-las. Vamos lá...
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 RESUMo
 
@@ -1023,16 +937,6 @@ integração contínuo
 
 teste de aceitação
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 DESCRIÇÃO
 
@@ -1100,17 +1004,6 @@ sistema para
 os desenvolvedores. Em metodologias formais de desenvolvimento de software, esta tarefa é
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 SIMPLICIDADE
 
 FEEDBACK
@@ -1167,16 +1060,6 @@ dos testes antes da codificação do sistema.
 
 PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - CESPE
 
@@ -1239,12 +1122,6 @@ semanais.
 Gabarito: Errado
 
 
-
-
-
-
-
-
 4- (CESPE / Ministério da Economia - 2020) Como forma de agilizar as
 implantações de
 novas releases nesse modelo, são acumulados grandes grupos de
@@ -1300,12 +1177,6 @@ Comentários:
 No eXtreme Programming, todos os requisitos são expressos como cenários (também chamados
 histórias do usuário), que são implementados diretamente como uma série de tarefas.
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Correto
 
@@ -1365,12 +1236,6 @@ Comentários:
 No Extreme Programming, cada história é escrita pelo cliente e é colocada em uma
 ficha! O cliente
 atribui um valor (prioridade) à história baseando-se no valor de negócio global do recurso/função.
-
-
-
-
-
-
 
 
 Os membros da equipe XP avaliam cada história e atribuem um custo a ela medido em
@@ -1434,12 +1299,6 @@ semanais).
 Gabarito: Errado
 
 
-
-
-
-
-
-
 i3.(CESPE / ABIN - 2018) Para apoiar a equipe de desenvolvimento, é uma prática o
 uso do
 cliente on-site em tempo integral.
@@ -1494,8 +1353,6 @@ trata-se das
 metáforas.
 
 Gabarito: Letra B
-
-
 
 
 i6.(CESPE / TRE-BA - 2017) Considerando uma situação hipotética com o uso da XP
@@ -1563,12 +1420,6 @@ d) trabalho em pares de desenvolvedores.
 e) integrações após a entrega do software completo.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 (a) Errado, planejamento incremental e, não, completo; (b) Errado, pequenas
@@ -1623,16 +1474,6 @@ Perfeito! Os desenvolvedores trabalham em pares, um verificando otrabalho do out
 efornecendo
 apoio para realizar sempre um bom trabalho. Eles utilizam o mesmo mouse, teclado e monitor.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Correto
 
@@ -1693,12 +1534,6 @@ elas
 possam ser refatoradas posteriormente.
 
 Comentários:
-
-
-
-
-
-
 
 
 A questão pergunta por recomendações para elaboração de histórias de usuários. Uma boa
@@ -1764,16 +1599,6 @@ Gabarito: Correto
 adotadas as seguintes ações: foi dita a verdade ao cliente acerca do progresso do projeto e
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 acerca de suas estimativas, além de haverem sido realizadas adaptações quando
 mudanças
 importantes aconteceram no projeto. Essas ações estão coerentes com o valor
@@ -1838,16 +1663,6 @@ desenvolvimento
 do software.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 Pelo contrário, a programação em pares permite que os programadores trabalhem
@@ -1905,16 +1720,6 @@ piedade, como
 refatoração. No entanto, é melhor não brigar com a banca...
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Correto
 
 Item. 32. (CESPE / STF - 2013) XP (Extreme Programming) é uma metodologia ágil voltada
@@ -1967,12 +1772,6 @@ preconiza a
 criação de um caso de teste unitário antes do início da codificação.
 
 Comentários:
-
-
-
-
-
-
 
 
 O XP é, de fato, um método ágil que preconiza o Test-First Design como uma de suas
@@ -2032,12 +1831,6 @@ linguagem
 simples entre a equipe e o cliente, com o objetivo de que, entre as inúmeras variáveis de controle
 
 
-
-
-
-
-
-
 em projetos, tais como tempo, custo, qualidade e escopo, obtenha-se maiorfoco no tempo,
 em
 detrimento do planejamento do release.
@@ -2091,8 +1884,6 @@ intuito
 é aumentar a qualidade do software por meio da revisão constante pelo par.
 
 Gabarito: Errado
-
-
 
 
 43- (CESPE / ABIN - 2010) Na Extreme Programming, os requisitos são expressos como
@@ -2152,12 +1943,6 @@ realização das
 atividades de planejamento, de projeto, de codificação e de teste.
 
 Comentários:
-
-
-
-
-
-
 
 
 valores das histórias
@@ -2226,12 +2011,6 @@ XP é um método ágil? Sim! Os requisitos são expressos como cenários impleme
 de tarefas? Sim! Questão bastante comum em concursos!
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Correto
 
 Item. 49. (CESPE / TRE-MG - 2009) Extreme programming é um método centrado no
@@ -2284,12 +2063,6 @@ informal de
 revisão porque cada linha de código é vista por pelo menos duas pessoas.
 
 Comentários:
-
-
-
-
-
-
 
 
 Perfeito! A Programação em Par promove a Propriedade Coletiva! Além disso, serve como
@@ -2346,23 +2119,6 @@ Como é? XP recomenda veementemente a utilização de testes de unidade!
 
 Gabarito: Errado
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - FCC
 
@@ -2421,12 +2177,6 @@ mais que esta prática pareça perigosa, ela aumenta a velocidade do
 desenvolvimento e
 problemas em potencial podem ser detectados pelos testes de unidade.
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 III. Traz a ideia de que qualquer pessoa do time seja capaz de verificar
 o código sendo
@@ -2493,16 +2243,6 @@ na fase de
 desenvolvimento.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Letra A
 
 Item. 4. (FCC / DPE-RS - 2017) Considere que um Analista esteja participando de um projeto
@@ -2568,8 +2308,6 @@ c) testes apenas depois da codificação.
 d) releases grandes.
 
 
-
-
 e) integração das funcionalidades, mesmo com erros.
 
 Comentários:
@@ -2633,12 +2371,6 @@ na
 verdade, os incrementos é que são entregues em aproximadamente duas semanas; (d) Errado. O
 
 
-
-
-
-
-
-
 XP adota o desenvolvimento test-first, ou seja, primeiro escreve-se o teste; (e)
 Correto. O planning
 game pode ocorrer semanalmente.
@@ -2698,12 +2430,6 @@ difere de outras
 metodologias como SCRUM e TDD e confere agilidade ao processo de desenvolvimento.
 
 
-
-
-
-
-
-
 c) processo de desenvolvimento contínuo, em que a equipe se mantém focada no sistema
 até
 que uma funcionalidade específica seja entregue, comumente agregando horas extras ao
@@ -2759,12 +2485,6 @@ participa
 da responsabilidade do código desenvolvido.
 
 Comentários:
-
-
-
-
-
-
 
 
 (a) Trata-se do Pair Programming; (b) Não sei o que é, mas não há relação com
@@ -2825,16 +2545,6 @@ e) Adota como um elemento-chave a criação de testes unitários antes da codifi
 Comentários:
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 (a) Errado, não há nenhuma notação própria; (b) Correto, trata-se do Refactoring; (c)
 Correto, trata-
 se da programação em pares; (d) Correto, há também respeito; (e) Correto,
@@ -2892,8 +2602,6 @@ e) Coding Standards (Padrões de Codificação).
 Comentários:
 
 
-
-
 O código fonte não tem dono e ninguém precisa solicitar permissão para
 poder modificá-lo,
 permitindo, assim, que a equipe conheça todas as partes do sistema,
@@ -2948,12 +2656,6 @@ Comentários:
 (a) Errado, recomenda-se a integração sempre que possível; (b) Errado, é feita por um
 par de
 programadores; (c) Errado, as equipes são auto-organizáveis de acordo com as suas habilidades,
-
-
-
-
-
-
 
 
 logo não faz sentido se organizar de acordo com outra equipe; (d) Errado, releases
@@ -3019,16 +2721,6 @@ que automatizam esse processo para os desenvolvedores.
 Gabarito: Letra C
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 ig.(FCC / TCE-AL - 2008) Originalmente, o único produto da atividade de Projeto que é realizado
 como parte do processo XP (Extreme Programming):
 
@@ -3083,16 +2775,6 @@ XP lida bem com mudanças.
 
 Gabarito: Letra B
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - FG V
 
@@ -3160,8 +2842,6 @@ a) Extremme Programming (XP).
 b) Modelo V.
 
 
-
-
 c) Evolutivo.
 
 d) Incremental.
@@ -3227,16 +2907,6 @@ O TDD é uma prática XP em que se escreve o teste antes de escrever o código d
 Gabarito: Letra D
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
 í. (COMPERVE ITJ-RN - 2020) O método ágil Extreme Programming ou XP é um dos métodos
@@ -3296,8 +2966,6 @@ Comentários:
 Logo, trata-se de: Refactoring, Pair Programming e Planning Game.
 
 Gabarito: Letra B
-
-
 
 
 3- (UFCG/ UFCG- 2019) Marque a alternativa INCORRETA com relação a
@@ -3362,12 +3030,6 @@ do cliente é em
 tempo integral.
 
 Gabarito: Letra B
-
-
-
-
-
-
 
 
 5- (CESGRANRIO / UNIRIO - 2019) Uma das principais práticas de XP (Extreme
@@ -3435,12 +3097,6 @@ mesmo, testadas em um único dia por programadores diferentes é o Extreme Progr
 Gabarito: Letra C
 
 
-
-
-
-
-
-
 7- (FCM / Prefeitura de Caranaíba - MG - 2019) De acordo com Pressman e Maxim
 (2016), a
 Programação Extrema (Extreme Programming -XP) é uma abordagem amplamente utilizada
@@ -3486,12 +3142,6 @@ d) classes de projeto.
 e) artefatos de usuário
 
 Comentários:
-
-
-
-
-
-
 
 
 De acordo com Sommerville, a primeira atividade do ciclo de uma release é "selecionar
@@ -3555,12 +3205,6 @@ alternativas são
 também práticas adotadas no XP.
 
 Gabarito: Letra D
-
-
-
-
-
-
 
 
 n.(COMPERVE / UFRN-2018) Programação Extrema (XP - Extreme Programming) é uma
@@ -3627,16 +3271,6 @@ a) lie IV.
 b) I e IV.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 c) I e III.
 
 d) lie III.
@@ -3695,8 +3329,6 @@ em pares.
 Por fim, o último item também é verdadeiro e remete à prática de pequenos releases.
 
 Gabarito: Letra D
-
-
 
 
 i4.(IADES/ ARCON-PA- 2018) Um dos métodos de desenvolvimento de software mais
@@ -3760,12 +3392,6 @@ e) I, lie III.
 Comentários:
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 (I) Perfeito! Trata-se do Client On-Site, ou seja, o cliente no local de
 trabalho, junto dos
 desenvolvedores.
@@ -3801,8 +3427,6 @@ d) planejamento, projeto, codificação e teste.
 e) modelagem, projeto, codificação e homologação.
 
 Comentários:
-
-
 
 
 As fases são planejamento, projeto, codificação e teste.
@@ -3852,12 +3476,6 @@ acrescentadas posteriormente. Alega-se que desenvolver funções que não são n
 pode ser prejudicial, na medida em que futuramente essa função pode não ser mais útil.
 Codificação e projeto de necessidades futuras incertas implicam o risco de gastar recursos em algo
 não mais necessários, embora talvez atrasando aspectos cruciais.
-
-
-
-
-
-
 
 
 O feedback ocorre quando os testes unitários ou testes de integração retornam o estado
@@ -3917,12 +3535,6 @@ Gabarito: Letra B
 código coletivo, na qual todos os desenvolvedores têm acesso ao código.
 
 Comentários:
-
-
-
-
-
-
 
 
 De fato, essa é uma das práticas do XP! Os pares de desenvolvedores trabalham em
@@ -3988,16 +3600,6 @@ metodologia
 XP em análise:
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 I. Programação Pareada (Pair Programming).
 
 II. Fases pequenas (Small Releases).
@@ -4057,8 +3659,6 @@ razão verdadeira
 - na minha opinião - é que de que não há resposta correta.
 
 Gabarito: Anulada
-
-
 
 
 2Zf.(IBFC / EBSERH - 2017) Dentro das práticas do XP (eXtreme Programming)
@@ -4124,12 +3724,6 @@ Gabarito: Letra A
 pequenas e
 médias que desenvolvem software com requisitos vagos e em constante mudança. Sobre os
 valores do XP, analise as definições abaixo e assinale a alternativa CORRETA.
-
-
-
-
-
-
 
 
 a) Simplicidade - procura-se que a equipe concentre-se, primeiro, em fazer o necessário.
@@ -4199,12 +3793,6 @@ diversas
 práticas. Analise as afirmativas abaixo.
 
 
-
-
-
-
-
-
 I. As releases do sistema são frequentes e incrementais.
 
 II. Os requisitos são representados através de casos de uso.
@@ -4252,12 +3840,6 @@ e) Levantamento, análise, projeto e codificação.
 Comentários:
 
 
-
-
-
-
-
-
 As atividades são: planejamento, projeto, codificação e testes.
 
 Gabarito: Letra C
@@ -4297,16 +3879,6 @@ d) Semana de 40 horas (Sustainable Pace).
 
 e) Refatoração (Refactoring).
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -4376,8 +3948,6 @@ prática de
 ritmo sustentável; Desenvolvedores recriam o código continuamente? (2) Estamos falando da prática
 
 
-
-
 do refatoramento; Integração assim que um trabalho é concluído? Trata-se da
 propriedade da
 integração contínua (4).
@@ -4422,12 +3992,6 @@ definido por Kent Beck. O XP inclui uma abordagem de teste que:
 a) valoriza o desenvolvimento test-last.
 
 b) depende da técnica de teste baseada em defeitos
-
-
-
-
-
-
 
 
 c) desenvolve teste incremental baseado em cenários
@@ -4491,16 +4055,6 @@ c) 4
 d) 3
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 Todas as alternativas apresentam práticas do XP.
@@ -4561,8 +4115,6 @@ Gabarito: Letra A
 métodos ágeis. Uma das práticas utilizadas na XP é:
 
 
-
-
 a) empregar um esquema em que os desenvolvedores trabalham individualmente.
 
 b) integrar o sistema exclusivamente quando todos os módulos forem concluídos.
@@ -4616,12 +4168,6 @@ enxuta contém princípios que compõem a base dos processos ágeis de desenvolv
 software, como o Extremme Programming (XP). Um dos princípios básicos do XP, a
 eliminação
 de desperdícios, busca:
-
-
-
-
-
-
 
 
 a) evitar o efeito negativo que uma definição de risco, na fase inicial do projeto,
@@ -4679,12 +4225,6 @@ e) Governança, planejamento, codificação e teste.
 Comentários:
 
 
-
-
-
-
-
-
 A resposta é: Governança, Planejamento, Codificação e Testes. Professor, você está cego?
 Onde tem
 governança na imagem? A questão não deveria ser anulada? Não! A questão afirma que o
@@ -4694,12 +4234,6 @@ contém três
 desses arcabouços. Governança não faz parte, mas projeto, codificação e testes fazem!
 
 Gabarito: Letra E
-
-
-
-
-
-
 
 
 LISTA DE QUESTõES - CESPE
@@ -4759,8 +4293,6 @@ do código
 desenvolvido quanto a recursividade, declaração das variáveis e clean code, de modo a
 torná-lo
 de fácil entendimento, modificação e testagem
-
-
 
 
 d) pressupõe o uso do behavior driven development, que considera a
@@ -4824,12 +4356,6 @@ formal dos requisitos.
 d) Em XP, denomina-se explanação o processo por meio do qual uma pessoa tenta
 explicar um
 assunto fazendo comparações com o mundo real.
-
-
-
-
-
-
 
 
 i6.(CESPE / TRE-BA - 2017) Considerando uma situação hipotética com o uso da XP
@@ -4896,8 +4422,6 @@ estimados prazos na perspectiva dos usuários ou clientes do sistema.
 
 20.(CESPE / FUNPRESP-JUD-2016) A programação em pares, em que os desenvolvedores atuam
 avaliando entre si o trabalho do outro, é uma prática da metodologia XP.
-
-
 
 
 Item. 21. (CESPE / FUNPRESP-JUD - 2016) As práticas da extreme programming, que tem por
@@ -4971,12 +4495,6 @@ para
 o desenvolvimento de softwares.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 a) grandes releases
 
 b) programação individual
@@ -5045,12 +4563,6 @@ usuário)
 que são implementados diretamente como uma série de tarefas.
 
 
-
-
-
-
-
-
 37-(CESPE / ANAC - 2012) A técnica conhecida como refactoring é constantemente aplicada
 no
 desenvolvimento baseado no método ágil extreme programming.
@@ -5115,12 +4627,6 @@ propostos
 principalmente para apoiar o desenvolvimento de aplicações de negócios nas quais os
 requisitos
 de sistema mudam rapidamente durante o processo de desenvolvimento. Entre esses métodos
-
-
-
-
-
-
 
 
 está o extreme programming, que envolve um número de práticas, como o
@@ -5190,16 +4696,6 @@ funcionamento. O smoke test é realizado após as unidades serem integradas. Ap�
 test, é realizado o teste de sistema.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 GABARITo
 
 Item. 1. CORRETO 20. CORRETO
@@ -5258,16 +4754,6 @@ i8. ERRADO 37- CORRETO
 Item. 19. CORRETO 38. ERRADO
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 í. (FCC /SANASA Campinas -2019) Em um projeto de software baseado na metodologia ágilXP,
 um Analista de TI deve
 
@@ -5324,7 +4810,7 @@ ajustes rapidamente, e esta prática contribui para alcançar este objetivo.
 
 As práticas de I a IV são, correta e respectivamente,
 
-0 0 
+0 0
 
 
 a) pair programming -test-driven development-system metaphor-continuous integration.
@@ -5394,16 +4880,6 @@ isso, é
 necessário que também haja:
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 a) padrões de codificação.
 
 b) time-box de 40 horas.
@@ -5465,8 +4941,6 @@ projeto for feito, a equipe XP avance diretamente para o código.
 e) inclui um conjunto de regras e práticas que ocorrem no contexto de 3 atividades
 de arcabouço:
 projeto, implementação e entrega.
-
-
 
 
 g. (FCC / MPE-AP - 2012) O Extreme Programming (XP) é, talvez, o mais conhecido e
@@ -5532,16 +5006,6 @@ ciclos
 denominam-se, respectivamente,
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 a) iterações e sprint.
 
 b) reunião de planejamento e backlog.
@@ -5605,12 +5069,6 @@ b) Sustainable Pace (Ritmo Sustentável).
 
 c) Pair Programming (Programação em Pares).
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 d) Collective Ownership (Posse Coletiva).
 
@@ -5676,8 +5134,6 @@ durante o
 desenvolvimento de software, a XP propõe uma série de práticas, sendo uma delas: sempre que
 
 
-
-
 produzir uma nova funcionalidade, nunca esperar uma semana para integrar à versão atual
 do
 sistema a fim de evitar o aumento da possibilidade de conflitos e da possibilidade de
@@ -5726,16 +5182,6 @@ no futuro,
 antes do desenvolvimento do software, a fim de evitar alterações desnecessárias.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 GABARITo
 
 Item. 1. LETRA E
@@ -5777,8 +5223,6 @@ Item. 18. LETRA C
 Item. 19. LETRA B
 
 Item. 20. LETRA B
-
-
 
 
 LISTA DE QUESTõES - FCV
@@ -5849,12 +5293,6 @@ a) documentação extensiva;
 b) prototipação;
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 c) ciclos longos de desenvolvimento;
 
 d) desenvolvimento orientado a testes (TDD);
@@ -5862,25 +5300,10 @@ d) desenvolvimento orientado a testes (TDD);
 e) utilização de todos os artefatos do RUP.
 
 
-
-
 GABARITo
 
 Item. 1. LETRA B 2. LETRA A
 Item. 3. LETRA D
-
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
@@ -5948,8 +5371,6 @@ Sobre as regras do XP, assinale a alternativa correta.
 a) Apenas as operações mais críticas devem possuirtestes unitários.
 
 b) Todo o código-fonte de produção deve ser implementado em programação em pares.
-
-
 
 
 c) A integração de código deve ser feita nos computadores dos desenvolvedores.
@@ -6025,8 +5446,6 @@ Teste (Test) /
 Adaptação (Adaptation) / Melhoria (Improvement).
 
 
-
-
 Item. 8. (VUNESP / Câmara de Piracicaba - SP - 2019) Um dos processos ágeis de
 desenvolvimento
 de software é a programação extrema (extreme programming - XP), cuja fase
@@ -6099,8 +5518,6 @@ do sistema,
 mas sem modificar seu comportamento externo (interfaces dos métodos).
 
 
-
-
 Estão corretas as afirmativas
 
 a) III e IV.
@@ -6166,8 +5583,6 @@ b) V-F-F-V
 c) V-V-F-V
 
 
-
-
 d) V-V-V-V
 
 e) F-F-V-V
@@ -6228,12 +5643,6 @@ um
 conjunto de regras e práticas que ocorrem ao longo do desenvolvimento do projeto.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 As fases I, II, III e IV são denominadas respectivamente:
 
 a) modelagem, construção, implantação e homologação.
@@ -6279,12 +5688,6 @@ c) Scrum.
 d) FDD.
 
 e) Cascata.
-
-
-
-
-
-
 
 
 ig.(INSTITUTO AOCP / UFOB- 2018) Uma das práticas do Extreme Programming é
@@ -6352,8 +5755,6 @@ e) 1,11, III e IV
 
 Item. 23. (UFG / SANEAGO-2017) Dentro doframework Extreme Programming (XP), uma metodologia
 ágil, a ação de teste de código é responsabilidade da pessoa:
-
-
 
 
 a) diretamente ligada à criação do artefato em questão.
@@ -6427,8 +5828,6 @@ pelo líder de projeto.
 Item. 27. (UFCG / UFCG - 2016) Sobre XP (Extreme Programming), marque a assertiva INCORRETA.
 
 
-
-
 a) É um processo criado por Kent Beck.
 
 b) São exemplos de boas práticas do processo: desenvolvimento orientado a
@@ -6499,8 +5898,6 @@ e) tanto os requisitos funcionais como os requisitos não-funcionais
 desenvolvimento de
 software, a Programação Extrema (eXtreme Programming - XP) propõe uma série de práticas.
 Selecione a única alternativa que NÃO seja uma dessas práticas:
-
-
 
 
 a) Time Coeso (Whole Team).
@@ -6577,8 +5974,6 @@ d) produção.
 e) manutenção.
 
 
-
-
 34-(CS-UFG/ AL-GO- 2015) Extreme Programming (XP) é um exemplo de método ágil que foi
 definido por Kent Beck. O XP inclui uma abordagem de teste que:
 
@@ -6640,8 +6035,6 @@ Item. 38. (INSTITUTO AOCP/ MPE-BA- 2014) O processo ágil XP possui doze prátic
 princípios fundamentais do processo. A prática que encoraja a equipe inteira a trabalhar mais
 
 
-
-
 unida em busca de qualidade no código fazendo melhorias e refatoramentos em qualquer
 parte
 do código a qualquer tempo é conhecida como:
@@ -6701,8 +6094,6 @@ performance do software como um todo, tendo, como saída, informações não rel
 o processo.
 
 
-
-
 b) produzir requisitos bem definidos e completos de forma a abranger todos os
 processos e
 rotinas administrativas, funcionais e produtivas almejadas pelos stakeholders
@@ -6742,16 +6133,6 @@ d) Planejamento, projeto, documentação e implantação.
 
 e) Governança, planejamento, codificação e teste.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -6797,89 +6178,4 @@ Item. 41. LETRA C
 14- LETRA D 28. LETRAC
 Item. 42. LETRA E
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

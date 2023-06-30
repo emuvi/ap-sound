@@ -1,15 +1,9 @@
 Capítulo. Desenvolvimento de Informação - Processamento de linguagem natural.
 
 
-
 Índice
 
 1) Machine Lerning Aplicado - PLN
-
-
-
-
-
 
 
 Conteúdo da aula
@@ -47,23 +41,11 @@ CAVALCANTI
 PROFESSOR
 
 
-
-
-
-
-
-
-
 CoNTEÚDo DA AULA
 
 Item. 1.5 Noções de Processamento Natural de Linguagem. 1.6 Stop-words, stemização e n-grams.
 Item. 1.7 TF-
 IDF. 1.8 Modelagem de tópicos (LDA, NMF). 1.9 Word embeddings: CBOW e Skip Gram.
-
-
-
-
-
 
 
 PRoCESSAMENTo DE LINGUAGEM NATURAL (PLN)
@@ -120,11 +102,6 @@ chamadas de
 saída (ligações telefônicas que você fez) e dados de registro de SMS no seguinte formato:
 
 
-
-
-
-
-
 Campo 01 Campo 02 Campo 03 Campo 04
 Campo 05
 
@@ -176,11 +153,6 @@ A arte de extrair percepções úteis de qualquer dado de texto pode ser chamada
 PLN, por outro lado, não se restringe apenas aos dados de texto. O reconhecimento e a análise de
 voz (fala) também estão sob o domínio do PLN. PLN pode ser amplamente categorizada em dois
 tipos: compreensão da linguagem natural (NLU - Natural Language Understanding) e Geração da
-
-
-
-
-
 
 
 linguagem natural (NLG - Natural Language Generation). Uma explicação adequada desses
@@ -242,11 +214,6 @@ esse resultado
 então precisa passar por uma geração de linguagem que vai devolver a
 resposta em formato
 adequada para a Carol. Perceba que o PLN é uma abordagem baseada em princípios para processar
-
-
-
-
-
 
 
 a linguagem humana. Trata-se de um subcampo da inteligência artificial (IA)
@@ -311,11 +278,6 @@ computação. Já no final da década de 50
 começaram a surgir alguns métodos estatísticos
 
 Summary
-
-
-
-
-
 
 
 para extrair as sentenças principais de um texto. As pesquisas continuaram nas décadas
@@ -422,11 +384,6 @@ continuarmos, vamos fazer uma questão sobre o assunto:
 Item. 1. Sobre o processamento de linguagem natural (PLN) assinale a alternativa correta.
 
 
-
-
-
-
-
 a) O processamento é sempre feito sobre uma linguagem formal, como o português.
 
 b) A questão da ambiguidade semântica não deve ser levada em consideração visto que é
@@ -494,11 +451,6 @@ raramente são limpos, e é aqui que a limpeza de texto entra em jogo.
 Após a limpeza, os dados de texto costumam ter muitas variações e precisam ser
 convertidos em
 um formato canônico. Isso é feito na etapa de pré-processamento. Isso é seguido pela engenharia
-
-
-
-
-
 
 
 de recursos, onde localizamos indicadores que são mais adequados para a tarefa em
@@ -583,11 +535,6 @@ alfabeto de um idioma para outro. A
 transliteração ajuda as pessoas a pronunciar palavras e nomes em línguas estrangeiras.
 
 
-
-
-
-
-
 (tokenização de palavras). Superficialmente, essas tarefas parecem simples e você
 pode se
 perguntar por que precisam de um tratamento especial.
@@ -661,13 +608,6 @@ maiúsculas ou
 minúsculas (lowercasing). Isso tem a vantagem de acelerar comparações no processo de indexação.
 
 
-
-
-
-
-
-
-
 Remover pontuação e/ou números também é uma etapa comum para muitos problemas de PLN,
 como classificação de texto, recuperação de informações e análise de mídia social.
 
@@ -726,11 +666,6 @@ mas parte do stem. Isto pode resultar na conflação de termos não relacionados
 * Understemming-. acontece quando um sufixo não é removido. Isto geralmente
 causa
 uma falha na conflação de palavras relacionadas
-
-
-
-
-
 
 
 Lemmatização é o processo de mapear todas as diferentes formas de uma palavra em sua
@@ -805,11 +740,6 @@ função da
 morfologia ou do significado dos termos, de modo a agrupar suas contribuições.
 
 
-
-
-
-
-
 Uso do Thesaurus (ou dicionário)
 
 Um dicionário pode ser definido como um vocabulário controlado que representa
@@ -857,11 +787,6 @@ Figura 3 - Figura representando a hierarquia da função biológica.
 2 A revocação é definida como o número de documentos relevantes recuperados por uma
 pesquisa dividido pelo número
 total de documentos relevantes existentes.
-
-
-
-
-
 
 
 SEMÂNTICA vEToRIAL
@@ -924,11 +849,6 @@ unidades
 linguístcas
 
 s.
-
-
-
-
-
 
 
 Nesta seção, daremos uma olhada nos diferentes métodos de representação de texto como
@@ -1020,11 +940,6 @@ vec("dog") = [0.8, 0.3, 0.1]
 vec("pizza") = [0.1, 0.2, 0.8]
 
 
-
-
-
-
-
 Como cada array/lista contém três elementos, você pode plotá-los como pontos em um
 espaço 3-D
 como na figura abaixo. Observe que as palavras semanticamente relacionadas ("gato" e
@@ -1085,11 +1000,6 @@ proveniente da representação distribuída.
 i * Conjunto de métodos de PLN que objetivam aprender as
 
 
-
-
-
-
-
 Como já falamos, embeddings de palavras não são apenas importantes, mas essenciais para
 usar
 redes neurais com o intuito de resolver tarefas de PLN. As redes neurais são modelos de
@@ -1148,13 +1058,6 @@ que geralmente carrega algum significado. Em português, "concurso", "Petrobras"
 palavras. Na maioria dos idiomas escritos que usam o alfabeto latino, as palavras
 geralmente são
 separadas por espaços ou sinais de pontuação. Em alguns idiomas, como chinês, japonês e tailandês,
-
-
-
-
-
-
-
 
 
 no entanto, as palavras não são explicitamente delimitadas por espaços e exigem uma
@@ -1222,11 +1125,6 @@ Tokens Phrases Word n-grams
 Figura 7 - Blocos de construção do linguagem usados em PLN
 
 N-grams
-
-
-
-
-
 
 
 Finalmente, você pode encontrar o conceito de n-gramas na PLN. Um n-grama é uma
@@ -1304,11 +1202,6 @@ função seguem uma ordem (direta
 ou inversa). No caso, quando o cosseno aumenta, de 0 a 180, o valor reduz de 1 até -1.
 
 
-
-
-
-
-
 onde A, e 8/ são os componentes dos vectores A e B, respectivamente.
 
 Vamos tentar melhorar um pouco as coisas ... estou sentido que estamos indo muito
@@ -1375,11 +1268,6 @@ de forma
 semelhante. Vamos organizar isso em uma tabela.
 
 
-
-
-
-
-
 Palavra = Wid Vetor binário Doc Representação dos documentos (One
 Hot)
 Cachorro = 1 [10 0 0 0 0] Dl [[1 0 0 0 0 0] [0 1
@@ -1431,11 +1319,6 @@ todos
 igualmente separados. Assim, semanticamente, eles são muito pobres em captar o
 significado
 da palavra em relação a outras palavras.
-
-
-
-
-
 
 
 * Digamos que treinamos um modelo usando nosso corpus de exemplo. Em tempo
@@ -1503,11 +1386,6 @@ Carne = 4 [000100] D4
 Comida = 5 [000010]
 
 
-
-
-
-
-
 Come = 6 [00000 1]
 
 Vejamos algumas das vantagens dessa codificação:
@@ -1550,11 +1428,6 @@ palavras
 se perdem nessa representação. Ambos, Di e D2, terão a mesma representação
 neste
 esquema.
-
-
-
-
-
 
 
 No entanto, apesar dessas deficiências, devido à sua simplicidade e facilidade de
@@ -1618,11 +1491,6 @@ euclidiano em comparação com documentos com n-gramas completamente diferentes.
 * À medida que n aumenta, a dimensionalidade (e, portanto, a esparsidade) aumenta.
 
 * Ele ainda não fornece uma maneira de resolver o problema de palavras fora do vocabulário.
-
-
-
-
-
 
 
 TF-IDF
@@ -1694,11 +1562,6 @@ de TF-IDF
 para os termos do documento Di são mostrados na Tabela abaixo.
 
 
-
-
-
-
-
 Palavra TF Score (Di) IDF Score
 TF * IDF
 
@@ -1755,11 +1618,6 @@ computar
 palavras em representação vetorial. O objetivo era criar modelos com redes neurais que
 fossem
 treinados mais rapidamente e tivessem melhor acurácia em tarefas de processamento da linguagem
-
-
-
-
-
 
 
 natural. Essa pesquisa enfatizou que word embeddings são capazes de extrair
@@ -1835,13 +1693,6 @@ interpretado
 como uma sentença. A rede neural proposta considera um conjunto de palavras e procura predizer
 
 
-
-
-
-
-
-
-
 a probabilidade de uma próxima palavra ocorrer em determinada sentença. O resultado
 calculado
 na saída da projeção é a média de todos os vetores presentes no contexto da camada
@@ -1898,11 +1749,6 @@ apresentado
 abaixo. Perceba que o Skip-Gram quando comparado a CBOW é mais custoso:
 
 
-
-
-
-
-
 Q = C * (D + D * log2(V))
 
 Agora, vamos focar nossas atenções para os conceitos de redução de dimensionalidade.
@@ -1942,11 +1788,6 @@ levará apenas
 Há grandes vantagens em aplicar métodos de redução de dimensionalidade sobre os dados,
 vejamos
 algumas delas:
-
-
-
-
-
 
 
 * Dados mais compactos são mais fáceis de transferir e armazenar.
@@ -1990,11 +1831,6 @@ um espaço
 de alta dimensão para um espaço de baixa dimensão. Isso inclui técnicas
 como análise de
 componente principal (PCA), decomposição de valor singular e projeção aleatória.
-
-
-
-
-
 
 
 O segundo ramo é conhecido como aprendizado múltiplo (manifold learning), que
@@ -2045,11 +1881,6 @@ reconstrução
 durante sua procura pelos componentes ideais. Abaixo vamos resumir o passo a
 passo para
 execução do algoritmo de PCA:
-
-
-
-
-
 
 
 Cálculo da
@@ -2129,11 +1960,6 @@ de novas
 avaliações de clientes. No entanto, essa categorização nem sempre resulta em uma única categoria,
 
 
-
-
-
-
-
 e pode haver qualquer número de categorias disponíveis. Vamos dar uma olhada
 rápida na
 taxonomia da classificação de texto para entender isso.
@@ -2199,11 +2025,6 @@ Processamento de
 Linguagem Natural (PLN), os classificadores de texto podem analisar automaticamente o
 texto e, em
 seguida, atribuir um conjunto de tags ou categorias predefinidas com base em seu conteúdo.
-
-
-
-
-
 
 
 A classificação de texto está se tornando uma parte cada vez mais importante dos
@@ -2273,11 +2094,6 @@ um deles
 manualmente não é uma opção. Uma forma de abordar o problema é trazer à tona algumas palavras
 
 
-
-
-
-
-
 que melhor descrevem o corpus, como as palavras mais comuns no corpus. Isso é chamado
 de
 nuvem de palavras. A chave para uma boa nuvem de palavras é remover as palavras
@@ -2333,11 +2149,6 @@ corpus
 ciências humanas.
 
 
-
-
-
-
-
 Perfo<m«ng Azt»
 
 Visual Arts
@@ -2381,11 +2192,6 @@ comumente usada
 O que o LDA faz? Vamos começar com um corpus de exemplo. Digamos que temos uma
 coleção de
 documentos, Dl a D5, e cada documento consiste em uma única frase:
-
-
-
-
-
 
 
 * Dl: Gosto de comer brócolis e banana.
@@ -2443,11 +2249,6 @@ quais tópicos gerariam esses documentos em primeiro lugar. Os tópicos são cha
 porque estão ocultos e devem ser descobertos. Como o LDA faz isso? Ele faz isso
 fatorando uma
 matriz de termo de documento (M) que mantém a contagem de palavras em todos os documentos.
-
-
-
-
-
 
 
 Essa matriz possui todos os m documentos Di, D 2, D 3... Dm dispostos ao longo das
@@ -2569,13 +2370,6 @@ W4 W5 W6
 Figura 11 - Matrizes Fato radas
 
 
-
-
-
-
-
-
-
 Essas submatrizes podem então ser usadas para entender a estrutura de tópicos de um
 documento
 e as palavras-chave das quais um tópico é composto. Agora que temos uma ideia do que
@@ -2627,11 +2421,6 @@ coluna de H
 contém uma codificação da combinação linear dos vetores bases que aproxima a
 correspondente
 coluna de V.
-
-
-
-
-
 
 
 ANÁLISE DE SENTIMENToS
@@ -2696,11 +2485,6 @@ termo "iPhone"
 au da entidade
 ei("iPhone"), S1245 - neg é o sentimento sobre o aspecto auC vida útil da bateria") da entidade e 1
 ("
-
-
-
-
-
 
 
 iPhone "). E $1345 = neg é o sentimento sobre o aspecto 013 ("questões de
@@ -2772,11 +2556,6 @@ frase
 subjetiva é "O iPhone é incrível A classificação de polaridade é a tarefa que distingue sentenças
 
 
-
-
-
-
-
 que expressam polaridades positivas, negativas ou neutras. Observe que uma frase
 subjetiva pode
 não expressar nenhum sentimento positivo ou negativo (por exemplo, "Acho que ele
@@ -2814,11 +2593,6 @@ de texto expressa uma opinião geral positiva, negativa ou neutra sobre o
 produto. A
 suposição é que a mensagem inteira expressa apenas uma opinião sobre uma única entidade
 (por exemplo, um único produto).
-
-
-
-
-
 
 
 * Nível da frase: o objetivo é determinar a polaridade de cada frase contida em uma mensagem
@@ -2867,11 +2641,6 @@ Opiniões Explícitas Versus Implícitas
 Entre as diferentes nuanças que uma opinião pode assumir, devemos distinguir as
 opiniões explícitas
 e implícitas:
-
-
-
-
-
 
 
 * Opinião explícita: Uma opinião explícita é uma declaração subjetiva que dá uma
@@ -2930,11 +2699,6 @@ Eles estão
 decepcionados.)
 
 - João: Bem! Que uso valioso de uma noite!
-
-
-
-
-
 
 
 - Mareia: Realmente!
@@ -3003,11 +2767,6 @@ implícita). O fato de ter se formado um buraco reflete de forma objetiva a qual
 colchão.
 
 
-
-
-
-
-
 Vejamos outro exemplo ... A vida útil da bateria dos telefones Nokia é mais longa do
 que a dos
 telefones Samsung (aqui temos uma opinião comparativa e implícita (objetiva)).
@@ -3017,11 +2776,6 @@ Pessoal, lembrem-se de usar o fórum de dúvidas sempre que necessário! Como se
 qualquer dúvida estou às ordens!
 
 Forte abraço e bons estudos!
-
-
-
-
-
 
 
 CoNCEIToS CoMPLEMENTARES
@@ -3086,11 +2840,6 @@ componentes
 correspondentes.
 
 
-
-
-
-
-
 Manhattan Distance
 
 r /—I
@@ -3118,11 +2867,6 @@ diferenças
 quadradas entre os elementos correspondentes dos dois vetores.
 
 
-
-
-
-
-
 @dataaspirant.com
 
 Similaridade de Jaccard - A similaridade de Jaccard é calculada como o
@@ -3148,13 +2892,6 @@ Jaccard Similarity J (A,B) = I Intersection (A,B) I / I Union (A,B) I
 = 2/7
 
 = 0.286
-
-
-
-
-
-
-
 
 
 APLICAçõES DE PLN
@@ -3220,11 +2957,6 @@ apenas um modelo é necessário para a tradução.
 A força da NMT está em sua capacidade de aprender diretamente, de ponta a ponta, o
 mapeamento
 do texto de entrada para o texto de saída associado.
-
-
-
-
-
 
 
 Modelo codificador-decodificador - Modelos de rede neural Perceptron multicamadas podem
@@ -3302,13 +3034,6 @@ problemas, como
 escalar para vocabulários de palavras maiores e a velocidade lenta de treinamento dos modelos.
 
 
-
-
-
-
-
-
-
 Existem atualmente as áreas de foco para grandes sistemas de tradução neural de
 produção, como
 o sistema do Google. Um artigo recente do Google mudou a perspectiva sobre tradução, no paper
@@ -3375,11 +3100,6 @@ métodos
 de aprendizado profundo no projeto e implantação de sistemas de reconhecimento de fala.
 
 
-
-
-
-
-
 QUESTõES CoMENTADAS
 
 Item. 1. (FGV - Auditor Federal de Controle Externo (TCU)/Controle Externo/Auditoria
@@ -3440,11 +3160,6 @@ após a
 análise de um corpus, unir palavras semelhantes.
 
 Desta forma, podemos marcar nossa resposta na alternativa D
-
-
-
-
-
 
 
 Gabarito: Letra D
@@ -3514,11 +3229,6 @@ documentos
 é:
 
 
-
-
-
-
-
 A análise de sentimento, tokenização;
 
 B POS-tagging, reconhecimento de entidades nomeadas;
@@ -3559,12 +3269,6 @@ A submatriz da matriz de TF-IDF desses dois documentos correspondente aos termos
 "Choram" e "Sorriem", nessa ordem, é:
 
 
-
-
-
-
-
-
 log 2
 
 
@@ -3576,12 +3280,10 @@ log 2
 11 íi.
 
 
-
 (C)
 
 
 log_2
-
 
 
 log 2 '
@@ -3589,8 +3291,6 @@ log 2 '
 11 .
 
 0 log 2
-
-
 
 
 (E)
@@ -3627,11 +3327,6 @@ Apenas com essas três palavras, a submatriz é a seguinte:
 0 log2/.1 0
 
 Essa submatriz é encontrada, apenas, na letra C, sendo esse o nosso gabarito.
-
-
-
-
-
 
 
 Gabarito: C
@@ -3689,11 +3384,6 @@ Comentário: Vamos comentar cada uma das alternativas a seguir:
 a) (Errada) Um embedding é uma representação vetorial com valor real de algo
 que
 geralmente é discreto.
-
-
-
-
-
 
 
 b) (Certo) Exatamente, alguns algortimos, em especial os de redes neurais só trabalham
@@ -3759,11 +3449,6 @@ ser
 vista na figura a seguir:
 
 
-
-
-
-
-
 Assim, temos nosso gabarito na alternativa A.
 
 Gabarito: A.
@@ -3807,11 +3492,6 @@ Termos
 
 Possuem uma probabilidade
 associada.
-
-
-
-
-
 
 
 Corpus é uma coleção de documentos de texto sobre os quais aplicaríamos
@@ -3874,11 +3554,6 @@ dados textuais para transformá-los em valores ou vetores numéricos.
 e) (Errada) A avaliação do modelo deve ser feita antes de se pôr o modelo em produção.
 
 Gabarito: C
-
-
-
-
-
 
 
 Item. 10. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
@@ -3949,11 +3624,6 @@ c) Baseado em instinto - uma abordagem analítica baseada em dados
 d) Baseado em regras - uma abordagem clerical
 
 
-
-
-
-
-
 e) Baseado em correlação - uma abordagem matricial
 
 Comentário: Essa questão tenta deixar explícito a evolução dos modelos baseados em
@@ -4019,11 +3689,6 @@ Perceba que encontrar valores ausentes é um benefício da exploração de dados
 redução de dimensionalidade. Excluir uma coluna com vários valores ausentes pode ser
 
 
-
-
-
-
-
 considerado uma redução, mas simplesmente encontrar essa coluna não pode. Assim, temos
 a nossa resposta na alternativa E.
 
@@ -4084,11 +3749,6 @@ Lembre-se que, embedding é um termo usado quando a partir de um conjunto de pal
 em
 um corpus, fazemos um mapeamento entre o espaço vetorial proveniente da representação
 distribucional e o espaço vetorial proveniente da representação distribuída.
-
-
-
-
-
 
 
 Já a semântica vetorial refere-se ao conjunto de métodos de PLN que objetivam aprender
@@ -4161,11 +3821,6 @@ Gabarito: D
 Item. 16. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 
-
-
-
-
-
 Não é considerado um caso de uso de modelagem de tópicos:
 
 a) Descrever sistemas interativos que permitem aos usuários interagir em linguagem natural.
@@ -4233,11 +3888,6 @@ de palavras com base em propriedades de distribuição de palavras em um grande 
 Logo, temos a nossa resposta na alternativa E.
 
 
-
-
-
-
-
 Gabarito: E
 
 Item. 18. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
@@ -4302,11 +3952,6 @@ de Lemmatização.
 d) TF-IDF ajuda a estabelecer uma. palavra que ocorre com mais frequência no documento.
 
 
-
-
-
-
-
 e) as palavras representadas como vetores são chamadas de data frames de palavras neurais
 Comentário: Vamos analisar cada uma das alternativas:
 
@@ -4355,11 +4000,6 @@ opções
 listadas são usadas como parte do pré-processamento de instrução.
 
 Gabarito: E.
-
-
-
-
-
 
 
 Exercícios
@@ -4424,11 +4064,6 @@ tarefas de
 processamento de linguagem natural, o que pode levar a dúvidas quanto a sua aplicação.
 
 
-
-
-
-
-
 A alternativa que contém apenas tarefas que sejam exemplos de classificação de documentos
 é:
 
@@ -4463,12 +4098,10 @@ log?
 Item. .11 11.
 
 
-
 (C)
 
 
 log?
-
 
 
 log 2 '
@@ -4485,8 +4118,6 @@ ii
 log 2
 
 
-
-
 (E)
 
 ■ 1 log 2 0
@@ -4497,11 +4128,6 @@ log 2
 
 
 Item. .11 11 .
-
-
-
-
-
 
 
 Item. 5. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
@@ -4563,11 +4189,6 @@ Qual o termo abaixo pode ser definido como uma coleção de documentos associado
 contexto específico:
 
 
-
-
-
-
-
 a) Tokens
 
 b) Tópicos
@@ -4624,11 +4245,6 @@ computação
 e o aumento da disponibilidade de dados, a forma como a linguagem natural está
 sendo
 processada mudou. Anteriormente, um sistema tradicional era
-
-
-
-
-
 
 
 usado para cálculos. Hoje, cálculos em linguagem natural são
@@ -4699,11 +4315,6 @@ representação
 distribucional e o espaço vetorial proveniente da representação distribuída.
 
 
-
-
-
-
-
 d) No contexto de PLN, a conversão de texto bruto em uma forma numérica adequada é
 chamada de representação de texto.
 
@@ -4768,11 +4379,6 @@ d) Hipótese distributiva
 e) semântica distributiva
 
 
-
-
-
-
-
 Item. 18. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Alguns dos algoritmos de modelagem de tópicos são mais populares. Observer a lista a seguir:
@@ -4830,11 +4436,6 @@ d) Remoção de stopwords
 e) Análise de sentimento
 
 
-
-
-
-
-
 GABArito
 
 Item. 1. D
@@ -4881,78 +4482,4 @@ THIAGO CAVALCANTI
 
 PROFESSOR
 
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

@@ -1,25 +1,5 @@
 Capítulo. Engenharia de Software e Sistemas - Arquitetura hexagonal.
 
-Concursos
-
-(Profs. Diego
-Carvalho e Fernando
-
-Pedrosa)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Engenharia de software -
-
-2023 (Pós-Edital)
-
-Autor:
-
-Diego Carvalho
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Índice
 
@@ -48,8 +28,6 @@ Diego Carvalho
 12) Lista de Questões - Arquitetura de Software - Diversas.
 
 13) Arquitetura Hexagonal
-
-
 
 
 Conceitos Básicos
@@ -115,8 +93,6 @@ de uma
 rede de clientes e servidores. As propriedades dos componentes são aquelas
 características
 necessárias para o entendimento de como eles interagem com outros componentes.
-
-
 
 
 No nível da arquitetura, propriedades internas (por exemplo, detalhes de um algoritmo)
@@ -191,12 +167,6 @@ acredito que
 isso seja suficiente para posteriormente entender melhor cada arquitetura.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 (MPOG/ATI - 2015) Embora normalmente os sistemas desenvolvidos se baseiem em
 padrões de arquitetura, cada um deles tem arquitetura totalmente específica, em
 consequência dos seus requisitos.
@@ -206,10 +176,6 @@ em camadas, uma arquitetura
 distribuída, uma arquitetura mainframe ou uma arquitetura orientada a serviços. Embora
 cada sistema tenha uma arquitetura
 baseada em seus requisitos, elas não são t otal mente específicas (Errado).
-
-
-
-
 
 
 Coesão e Acoplamento
@@ -260,15 +226,6 @@ Ocorre quando um módulo faz uso de estruturas de dados ou de controle mantidas 
 escopo de outro módulo.
 
 Ocorre quando um conjunto de módulos acessa uma área global de dados.
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 COMUM
@@ -336,13 +293,6 @@ acoplamento
 aumenta - a ideia é tentar manter o acoplamento o mais baixo possível...
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 Arquitetura em Camadas
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
@@ -408,8 +358,6 @@ Os
 clientes talvez precisem saber os nomes dos servidores e os serviços que eles
 fornecem, mas os
 servidores não precisam saber sobre os clientes.
-
-
 
 
 Eles acessam os serviços pelo servidor por meio de chamadas remotas de procedimento
@@ -481,8 +429,6 @@ Cliente-Magro ou
 Cliente-Gordo. Como é isso, professor?
 
 
-
-
 CLIENTE CLIENTE
 
 MAGRO GORDO
@@ -542,8 +488,6 @@ cliente; precisa-se
 de computadores que executem código de apresentação sofisticado (e, possivelmente, a
 lógica do
 aplicativo).
-
-
 
 
 Sistemas Cliente-Servidor em duas camadas foram dominantes durante aproximadamente
@@ -622,8 +566,6 @@ três layers em uma única máquina e os Tiers são camadas
 físicas, isto é, pode haver apenas um tier por máquina. Entenderam? ;)
 
 
-
-
 próprio computadorcom um browseré o cliente. Esse sistema é escalonável, pois é
 relativamente
 fácil adicionar novos servidores web quando o número de clientes aumenta.
@@ -695,8 +637,6 @@ procura os
 dados no banco de dados (Camada de Dados).
 
 
-
-
 Arquitetura MVC
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
@@ -729,8 +669,6 @@ chamamos de
 Visão e pela coordenação entre atualizações no modelo e interações com o usuário,
 feita através
 do Controlador.
-
-
 
 
 Durante a década de setenta, surgiu a necessidade de criação de uma arquitetura para
@@ -798,8 +736,6 @@ de dados, mas isso é inseguro e se trata de uma violação do modelo. Logo, ace
 ocorrem na camada de modelo.
 
 
-
-
 Um controlador define o comportamento da aplicação, interpretando as ações do
 usuário e
 mapeando-as em chamadas do modelo. Em um cliente de aplicações web, essas ações do usuário
@@ -861,8 +797,6 @@ diretamente
 tanto à Visão quanto ao Controle, mas também pode gerar eventos a serem tratados pela visão.
 
 
-
-
 Essa última sentença é extremamente polêmica - vocês encontrarão muitos lugares dizendo
 que
 não é possível que a visão solicite diretamente o estado do modelo, mas é possível,
@@ -885,8 +819,6 @@ Para quem quiser conhecer melhor, recomendo os seguintes artigos:
 ■ https://r.je/views-are-not-templates.html
 
 ■ http://tableless.com.br/mvc-afinal-e-o-que
-
-
 
 
 Por fim, não podemos confundir MVC com MVP (Model-View-Presenter). O O MVP
@@ -929,10 +861,6 @@ modelo
 mais adequado para uma visão específica (ou mais que uma). Pessoal, acredito que isso
 basta em
 relação a esses assuntos que só recentemente começaram a ser cobrados.
-
-
-
-
 
 
 Arquitetura Distribuída
@@ -1001,8 +929,6 @@ ou
 Token Ring. A imagem seguinte apresenta uma possível arquitetura distribuída descentralizada:
 
 
-
-
 Esse sistema contém duas LANs conectadas entre si. Uma consiste em estações de
 trabalho UNIX
 (HP-UX, Solaris, AIX) de vários fabricantes (HP, Sun, IBM); já a outra consiste em
@@ -1049,8 +975,6 @@ preocupe
 se existem protocolos, arquiteturas, sistemas operacionais ou bancos de dados
 diferentes. Ele
 provê um modo para obter dados de um lugar para outro.
-
-
 
 
 Além disso, é capaz de mascarar diferenças existentes entre sistemas
@@ -1124,12 +1048,6 @@ invocações
 remotas e chamar o skeleton certo.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Proxy (lado cliente), skeleton (lado servidor) e dispatcher (lado servidor) compõe o
 middleware
 de um sistema de objetos distribuídos. Em algumas implementações, o skeleton e
@@ -1140,12 +1058,6 @@ dados e tudo o que o cliente precisar, é acessado pelo Skeleton, que recebe os
 resultados e faz todo
 o caminho de volta.
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 RESUMo
 
@@ -1216,10 +1128,6 @@ Componente B.
 Ocorre quando um componente se comunica ou colabora com componentes de
 infraestrutura. Embora seja necessário, deve-se limitar a um pequeno número de
 componentes em um sistema.
-
-
-
-
 
 
 O
@@ -1306,11 +1214,6 @@ mesmo tempo
 
 CD hO
 CD 00
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 SERVIDORES
@@ -1407,14 +1310,6 @@ visualização dos dados pelos usuários. Ela tem o objetivo de exibir informaç
 e
 
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 CAMADA DE
 
 NEGÓCIO
@@ -1454,14 +1349,6 @@ Essa camada é responsável por intermediar as requisições enviadas pelo View 
 respostas fornecidas pelo Model, processando os dados que o usuário informou e repassar
 para outras camadas.
 
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - CESPE
 
@@ -1521,8 +1408,6 @@ cada
 segmento são mais bem descritas como:
 
 
-
-
 a) o modelo encapsula as funcionalidades; o view gerencia as requisições dos
 usuários; o
 controlador prepara dados do modelo.
@@ -1563,8 +1448,6 @@ comportamento da aplicação e interpreta as ações do usuário.
 i
 
 Gabarito: Letra B
-
-
 
 
 5- (CESPE / TJ-RJ - 2021) Em um ambiente cliente/servidor, a arquitetura que permite
@@ -1629,14 +1512,6 @@ afete outras partes do sistema.
 Comentários:
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Perfeito! Como os servidores são centralizados, e em quantidade menor que os clientes,
 há mais
 facilidade em se administrar as atualizações deles. Em suma, em um modelo
@@ -1699,10 +1574,6 @@ aplicações.
 Gabarito: Correto
 
 
-
-
-
-
 Item. 9. (CESPE / STJ - 2015) Na arquitetura em camadas MVC (modelo-visão-controlador), o
 modelo
 encapsula o estado de aplicação, a visão solicita atualização do modelo e o
@@ -1745,8 +1616,6 @@ e seleciona o comportamento do modelo.
 Comentários:
 
 
-
-
 I
 Servidor
 
@@ -1770,8 +1639,6 @@ O controle é responsável por solicitar mudanças de estado, mas quem realiza a
 modelo.
 
 Gabarito: Errado
-
-
 
 
 Item. 13. (CESPE / ANTAQ - 2014) O modelo MVC é um padrão de arquitetura que consiste na
@@ -1825,8 +1692,6 @@ camadas, mais
 overhead. No entanto, há casos em que isso não é válido! Portanto, essa questão caberia recurso.
 
 Gabarito: Correto
-
-
 
 
 ■l-j. (CESPE / STF-2013) Cada camada tem comunicação (interface) com todas as demais
@@ -1883,10 +1748,6 @@ manutenção em todas as máquinas clientes.
 Gabarito: Errado
 
 
-
-
-
-
 2i. (CESPE / BACEN -2013) MVC (Model-View-Controller) é um modelo de arquitetura de
 software
 que separa, de um lado, a representação da informação e, de outro, a interação do
@@ -1934,8 +1795,6 @@ Comentários:
 Acoplamento? Não! Na verdade, é a coesão!
 
 Gabarito: Errado
-
-
 
 
 25-(CESPE / CET - 2011) No padrão de desenvolvimento modelo-visualização-controlador
@@ -1991,10 +1850,6 @@ utilizado apenas em interfaces gráficas em função de sua arquitetura de compo
 Comentários:
 
 
-
-
-
-
 Quando ela começou nem existiam aplicações web. Ele é usado primariamente em
 interfaces
 gráficas, mas não se limita a isso!
@@ -2044,8 +1899,6 @@ Comentários:
 Na verdade, a questão trata de um serviço!
 
 Gabarito: Errado
-
-
 
 
 34-(CESPE / MEC - 2011) A arquitetura cliente/servidor proporciona a
@@ -2105,8 +1958,6 @@ grau de
 acoplamento.
 
 
-
-
 c) Os componentes ou os módulos devem serfortemente coesos e fracamente acoplados.
 
 d) Um benefício da alta coesão é permitir realizar a manutenção em um
@@ -2163,12 +2014,6 @@ exemplo,
 acarretam mudanças em todas as demais camadas.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 Não, a divisão em camadas reduz a manutenção da aplicação.
@@ -2222,8 +2067,6 @@ está certa em afirmar que uma máquina pode ser cliente em uma aplicação e se
 Gabarito: Correto
 
 
-
-
 44-(CESPE I EMBASA - 2010) O MVC promove a estrita separação de responsabilidades
 entre os
 componentes de uma interface.
@@ -2273,12 +2116,6 @@ Comentários:
 Perfeito! Ela realmente permite o desenvolvimento de aplicações em três camadas para a web.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Correto
 
 49.(CESPE / UNIPAMPA - 2009) Normalmente, a arquitetura em três camadas conta
@@ -2326,8 +2163,6 @@ drivers
 de conexões diferentes.
 
 Comentários:
-
-
 
 
 Na verdade, é necessário diversos drivers de conexões diferentes para acessar às bases de dados
@@ -2383,8 +2218,6 @@ para
 aplicações interativas, uma aplicação é organizada em três módulos separados.
 Um para o
 modelo de aplicação com a representação de dados e lógica do negócio, o segundo com visões
-
-
 
 
 que fornecem apresentação dos dados e input do usuário e o terceiro para um
@@ -2446,12 +2279,6 @@ de
 middlewares é correto citar: Sun RPC, CORBA, RMI Java e DCOM da Microsoft.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 Perfeito! Middleware é uma camada de software que permite que elementos de
@@ -2510,12 +2337,6 @@ envolvida na manutenção e apresentação dos dados de uma aplicação web.
 Comentários:
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 O MVC promove a estrita separação de responsabilidade entre componentes de
 uma interface
 gráfica onde temos componentes responsáveis pela manutenção do estado da
@@ -2571,14 +2392,6 @@ tipicamente em três
 camadas. A arquitetura MVC aumenta o escopo do desenvolvimento para, no máximo, quatro
 camadas, sendo a quarta camada o processamento dos dados do usuário.
 
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -2638,8 +2451,6 @@ requisição da entidade iniciadora.
 Gabarito: Correto
 
 
-
-
 7i.(CESPE / DATAPREV - 2006) Uma arquitetura cliente/servidor caracteriza-se pela
 separação
 do cliente, o usuário que acessa ou demanda informações, do servidor. Um exemplo
@@ -2696,8 +2507,6 @@ modificações que mantém um registro dos componentes que dependem do modelo.
 Comentários:
 
 
-
-
 Mudanças em um modelo podem modificar as visões que dependem desse modelo, gerando uma
 rastreabilidade.
 
@@ -2744,8 +2553,6 @@ camadas
 estejam na mesma máquina.
 
 Comentários:
-
-
 
 
 Na verdade, mesmo que essas camadas estejam na mesma máquina, uma alteração na camada
@@ -2799,21 +2606,6 @@ sejam executadas as funcionalidades esperadas, não há necessidade de uma inter
 
 Gabarito: Correto
 
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - FCC
 
@@ -2874,8 +2666,6 @@ a) baixo acoplamento e o trecho 2 o corrige para alto acoplamento.
 b) alta coesão e o trecho 2 o corrige para baixa coesão.
 
 
-
-
 c) alto acoplamento e o trecho 2 o corrige para baixo acoplamento.
 
 d) baixo acoplamento e o trecho 2 mostra um exemplo de baixa coesão.
@@ -2933,14 +2723,6 @@ bancos
 de dados.
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 (a) Errado, é a camada intermediária; (b) Errado, fica na camada de apresentação; (c)
@@ -2995,8 +2777,6 @@ bancos de dados.
 d) tem, como camada intermediária, o depósito de dados, também chamado de repositório
 ou
 quadro-negro.
-
-
 
 
 e) tem, na camada mais externa, os componentes que realizam a interface com o
@@ -3059,14 +2839,6 @@ mais no
 cliente e, sim, na Camada Web. (III) Errado. Imagino que o middleware à que a questão se refere é
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 o Servidor Web, mas ele ficaria na Camada Web fazendo o meio-campo para suportar thin
 clients
 e, não, na Camada de Lógica de Negócio -a FCC discorda! (IV) Correto. A Camada de
@@ -3123,8 +2895,6 @@ d) Model e Business.
 e) View e Business.
 
 Comentários:
-
-
 
 
 Páginas HTML são representadas na View; classes com métodos que acessam o banco de
@@ -3188,14 +2958,6 @@ d) (I) Controller; (II) View; (III) Model;
 e) (I) Model; (II) View; (III) Controller;
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 (I) Quem faz essa orquestração de requisições é a Camada de Controle; (II) Acesso aos
@@ -3254,8 +3016,6 @@ Gabarito: Letra B
 Item. 13. (FCC / MPE-PE - 2012) O componente Controller do MVC:
 
 
-
-
 a) Define o comportamento da aplicação, as ações do usuário para atualizar os
 componentes de
 dados e seleciona os componentes para exibir respostas de requisições.
@@ -3308,10 +3068,6 @@ interface
 de usuário a partir da visão e a visão encapsula funcionalidades e objetos de conteúdo.
 
 Comentários:
-
-
-
-
 
 
 O Controlador processa e responde a eventos e invoca alterações ao modelo, o modelo
@@ -3375,8 +3131,6 @@ c) Apresentação, Negócio e Alteração.
 d) Manipulação, Natureza e Acesso a Dados.
 
 
-
-
 e) Manipulação, Negócio e Acesso a Dados.
 
 Comentários:
@@ -3430,10 +3184,6 @@ atender a todas as requisições do cliente.
 e) Em aplicações web desenvolvidas com Java as servlets são representadas na camada Model.
 
 Comentários:
-
-
-
-
 
 
 (a) Errado, fica na Camada de Modelo; (b) Errado, quase tudo correto, mas as ações
@@ -3497,8 +3247,6 @@ Item. 22. (FCC /TRT-MA-2009) Considere as funções:
 I. Seleção do comportamento do modelo.
 
 
-
-
 II. Encapsulamento dos objetos de conteúdo.
 
 III. Requisição das atualizações do modelo.
@@ -3560,14 +3308,6 @@ d) a apresentação, os componentes virtuais e a seqüência de execução.
 e) a apresentação, as regras de negócio e o armazenamento de dados.
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 Tranquila também, só mudaram as palavras! Apresentação, Regras de Negócio e Armazenamento
@@ -3575,14 +3315,6 @@ de Dados.
 
 Gabarito: Letra E
 
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
@@ -3641,8 +3373,6 @@ b) implementar o padrão de projeto Observer na ligação entre dados (ViewModel
 c) ligar diretamente as classes de tela (view) e dados (Model) dentro da estrutura do projeto.
 
 
-
-
 d) vincular a realização de atualizações de tela (view) à atualização de dados (ViewModel).
 
 Comentários:
@@ -3699,14 +3429,6 @@ fornecendo diversas visões diferentes para um mesmo modelo de dados.
 
 Gabarito: Letra A
 
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Item. 6. (IBFC / TRE-AM - 2014) Na arquitetura cliente-servidor, além dos dois principais
 componentes
@@ -3771,12 +3493,6 @@ níveis é feita
 pelo padrão de projeto:
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 a) MVC (Model View Controller).
 
 b) MVC-Dev (Model Value Constructive Development).
@@ -3810,8 +3526,6 @@ Comentários:
 A questão trata do Modelo-View-Controlador.
 
 Gabarito: Letra B
-
-
 
 
 LISTA DE QUESTõES - CESPE
@@ -3875,12 +3589,6 @@ cliente/servidor tem
 como vantagem uma maior facilidade de manutenção e segurança dos dados, e como
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 desvantagens possíveis bloqueios no tráfego da rede, além de problemas de
 atualização da
 interface de aplicação.
@@ -3941,10 +3649,6 @@ responsável por mudanças de estado da visão.
 Item. 13. (CESPE / ANTAQ - 2014) O modelo MVC é um padrão de arquitetura que consiste na
 definição
 de camadas para a construção de softwares.
-
-
-
-
 
 
 Item. 14. (CESPE/ANTAQ-2014) O controllertem a responsabilidade de armazenar e buscar
@@ -4012,10 +3716,6 @@ entrada e pela
 manipulação do modelo, de acordo com esses dados.
 
 
-
-
-
-
 Item. 26. (CESPE / MEC - 2011) O modelo MVC pode ser usado para construir a arquitetura
 do software
 a partir de três elementos: modelo, visão e controle, sendo definidas no controle as
@@ -4075,8 +3775,6 @@ avaliar se a
 segmentação de um sistema em módulos ou em componentes foi eficiente. Acerca da
 aplicação
 desses princípios, assinale a opção correta.
-
-
 
 
 a) O baixo acoplamento pode melhorar a manutebilidade dos sistemas, pois ele está
@@ -4141,8 +3839,6 @@ da
 aplicação.
 
 
-
-
 Item. 46. (CESPE / EMBASA - 2010) O modelo no MVC tem como atribuição exibir a parte que
 é
 responsável pela manutenção da aplicação para o usuário.
@@ -4203,8 +3899,6 @@ visões
 que fornecem apresentação dos dados e input do usuário e o terceiro para um
 controlador que
 despacha pedidos e controle de fluxo.
-
-
 
 
 Item. 58. (CESPE/ANATEL-2oog) Uma das vantagens da arquitetura distribuída é o
@@ -4273,8 +3967,6 @@ chamadas do modelo.
 Item. 66. (CESPE / TJ-CE - 2008) A arquitetura MVC não separa a informação de sua
 apresentação,
 porque, em sistemas web, informação e apresentação estão na mesma camada.
-
-
 
 
 Item. 67. (CESPE / TJ-CE - 2008) O desenvolvimento de sistemas web ocorre
@@ -4346,8 +4038,6 @@ concentrado nos clientes e o armazenamento concentrado no servidor, observa-se u
 carga de tráfego na rede.
 
 
-
-
 Item. 76. (CESPE / SERPRO - 2004) Uma das vantagens da arquitetura cliente-servidor é que
 parte da
 carga de processamento é retirada do servidor e colocada nos vários clientes.
@@ -4380,12 +4070,6 @@ Item. 82. (CESPE / TRE-RS - 2003) Do ponto de vista das funcionalidades de usuá
 servidor não
 precisa necessariamente de uma interface de usuário.
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -4472,8 +4156,6 @@ Item. 38. ERRADO 78. ERRADO
 Item. 40. ERRADO 80. CORRETO
 
 
-
-
 LISTA DE QUESTõES - FCC
 
 í. (FCC / TRF3 - 2019) Os conceitos alta coesão e baixo acoplamento, utilizados no
@@ -4534,8 +4216,6 @@ utilizadas em um
 sistema de bancos de dados. Sobre essas variantes, é correto afirmar que:
 
 
-
-
 a) na arquitetura de 3 camadas, não há uma camada específica para a aplicação.
 
 b) a camada de apresentação da arquitetura de 2 camadas situa-se, usualmente, no
@@ -4592,8 +4272,6 @@ quadro-negro.
 e) tem, na camada mais externa, os componentes que realizam a interface com o
 sistema
 operacional.
-
-
 
 
 7- (FCC / TRF2 - 2012) São aspectos que podem caracterizar uma arquitetura
@@ -4654,8 +4332,6 @@ Item. 9. (FCC / MPE-AP - 2012) Em uma Aplicação Web desenvolvida utilizando o 
 pattern MVC,
 as páginas HTML e as classes com métodos que acessam o banco de dados e executam
 instruções SQL são representadas, respectivamente, nos componentes:
-
-
 
 
 a) Presentation e Business.
@@ -4722,8 +4398,6 @@ I. O MODEL representa os dados da empresa e as regras de negócio que governam o
 atualização destes dados.
 
 
-
-
 II. O VIEW acessa os dados da empresa através do MODEL e especifica como esses dados devem
 ser apresentados. É de responsabilidade do VIEW manter a consistência em sua
 apresentação,
@@ -4779,9 +4453,6 @@ invoca alterações ao controlador e a visão renderiza a interface de usuário 
 c) encapsula funcionalidades e objetos de conteúdo, o modelo renderiza a interface de
 usuário
 a partir da visão e a visão processa e responde a eventos e invoca alterações ao controlador.
-
-
-
 
 
 d) processa e responde a eventos e invoca alterações ao modelo, o modelo
@@ -4852,8 +4523,6 @@ d) Apresentação, Natureza e Acesso a Dados.
 e) Apresentação, Negócio e Acesso a Dados.
 
 
-
-
 ig.(FCC / AL-SP - 2010) Sobre as camadas do modelo de arquitetura MVC
 (Model- View-
 Controller) usado no desenvolvimento web é correto afirmar:
@@ -4916,8 +4585,6 @@ III. Requisição das atualizações do modelo.
 Na arquitetura Model-View-Control - MVC, essas funções correspondem, respectivamente, a:
 
 
-
-
 a) Model, View e Control.
 
 b) Control, View e Model.
@@ -4955,12 +4622,6 @@ d) a apresentação, os componentes virtuais e a seqüência de execução.
 e) a apresentação, as regras de negócio e o armazenamento de dados.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 GABARITo
 
 Item. 1. LETRA B 9- LETRA B
@@ -4986,8 +4647,6 @@ Item. 22. LETRA D
 
 Item. 8. LETRA A i6. LETRA A
 24- LETRA E
-
-
 
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
@@ -5051,8 +4710,6 @@ c) UDC (User-Data-Controller)
 d) MDC (Model-Data-Controller)
 
 e) UVB (User-View-Business).
-
-
 
 
 5- (CESGRANRIO / CEFET-RJ - 2014) No contexto da Arquitetura de Sistemas, o MVC
@@ -5122,12 +4779,6 @@ e) MCA (Model Classes Assignment).
 Item. 9. (ESAF / CVM - 2010) Modelo MVC significa:
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 a) Modo-View-Construtor.
 
 b) Modelo-View-Controlador.
@@ -5139,12 +4790,6 @@ d) Módulo-Verificador-Controlador.
 e) Medida-Virtual-Concepção.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 GABARITo
 
 Item. 1. LETRA B 4- LETRA A
@@ -5155,20 +4800,6 @@ Item. 8. LETRA A
 
 3- LETRA B 6. LETRA B
 9- LETRA B
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Conceitos Básicos
@@ -5231,12 +4862,6 @@ adaptadores. O
 diagrama a seguir fornece uma visão de alto nível da arquitetura:
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Dependency Inversion
 
 Hexágono de Domínio
@@ -5279,12 +4904,6 @@ Esse é o caso de novos projetos de software em que nem os desenvolvedores nem o
 especialistas
 do domínio têm uma visão clara do objetivo do sistema em seus estágios iniciais.
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Em tais cenários, que são particularmente recorrentes em ambientes de startups,
 é normal e
@@ -5351,14 +4970,6 @@ capturar alguma
 entrada do usuário para consultar os tipos de roteador. Você pode querer usar uma regra de
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 negócios específica para validar a entrada do usuário e outra regra de negócios para
 verificar os
 dados obtidos de fontes externas.
@@ -5408,14 +5019,6 @@ com alguns
 recursos de software expostos.
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Essa comunicação ocorre por meio de uma API (Application Programming Interface)
 construída
 sobre os adaptadores de entrada. Essa API define como as entidades externas irão
@@ -5443,12 +5046,6 @@ tarefas específicas da aplicação. Cabe ao adaptador de saída descrever como 
 dados.
 Vejam um diagrama de adaptadores de saída e Operações Driven:
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Principais Vantagens
 
@@ -5512,8 +5109,6 @@ menos tentar.
 Testabilidade
 
 
-
-
 Um dos objetivos finais da arquitetura hexagonal é permitir que os
 desenvolvedores testem a
 aplicação quando suas dependências externas não estiverem presentes, como sua
@@ -5549,80 +5144,4 @@ Ela também torna mais fácil a substituição de infra estruturas ou tecnologia
 não há dependências entre o domínio e a
 infraestrutura, resultando em um código de domínio de alta qualidade e portabilidade (Correto).
 
-
-
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

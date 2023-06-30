@@ -12,11 +12,6 @@ Capítulo. Garantia da Segurança de Sistemas - Controle de acesso. Assinatura e
 4) Aplicações de Criptografia
 
 
-
-
-André Castro
-
-
 ASSINATURA DIGITAL
 
 A assinatura digital é um recurso extremamente importante e muito presente
@@ -53,14 +48,9 @@ Item. 3. Tem-se a Assinatura Digital;
 Item. 4. Envia-se ao destinatário a Assinatura Digital gerada e a mensagem original;
 
 
-
-www.estrategiaconcursos.com.br
 / 25
 
 /
-
-
-André Castro
 
 
 No lado do destinatário, este deverá primeiramente utilizar a chave pública do EMISSOR.
@@ -107,13 +97,6 @@ também gerará um HASH.
 
 Em seguida, basta ele comparar o HASH gerado com o HASH recebido. Caso sejam idênticos, assume-
 se que a mensagem é autêntica e íntegra.
-
-
-
-
-
-
-André Castro
 
 
 CERTIFICAçÃo DIGITAL
@@ -176,13 +159,6 @@ de chaves
 simétricas.
 
 
-
-
-
-
-André Castro
-
-
 Desse modo, vamos analisar a figura a seguir para entendermos bem o seu funcionamento:
 
 Hash calculado por B
@@ -230,11 +206,6 @@ Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação 
 2023 (Pós-Edital) 6
 
 
-
-
-André Castro
-
-
 Caso ambas sejam iguais, tem-se a garantia dos três princípios.
 
 Mais uma vez pessoal, é muito importante que entendam o modelo
@@ -244,13 +215,6 @@ modelo como
 base. Acrescentam-se alguns passos, elementos de validação, como a Autoridade
 Certificadora,
 entre outros, porém, o princípio é o mesmo.
-
-
-
-
-
-
-André Castro
 
 
 ICP - INFRAESTRUTURA DE CHAVES PÚBLICAS - PKI
@@ -300,9 +264,6 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 (Pós-Edital)
 
 
-André Castro
-
-
 Outra função presente na AC é responder às requisições de consultas de verificação de
 certificados
 geradas pelos clientes com vistas a validação dos certificados.
@@ -331,13 +292,6 @@ Esse tipo de relacionamento é conhecido como Bridge.
 
 Caso haja mais de duas AC's Raiz que possuem relação de confiança mútua,
 chamamos de modelo Misto.
-
-
-
-
-
-
-André Castro
 
 
 AUToRIDADE REGISTRADoRA - AR
@@ -374,9 +328,6 @@ SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 20
 (Pós-Edital)
 
 
-André Castro
-
-
 Para os alunos que estão estudando em frente a um computador, recomendo darem uma
 olhada
 nos certificados digitais de algum site que tenham costume de navegar. Por exemplo,
@@ -396,13 +347,6 @@ infraestrutura de chaves públicas.
 Além disso, avançando para a aba de "caminho de certificação", utilizando o navegador
 CHROME,
 obtemos a imagem abaixo:
-
-
-
-
-
-
-André Castro
 
 
 Certificado
@@ -438,13 +382,6 @@ Tais certificados geralmente são pagos e mantidos por terceiros.
 Entretanto, temos um modelo em que queremos gerar certificados digitais
 internos a uma
 organização ou para troca entre duas ou mais organizações que confiam entre si mutuamente.
-
-
-
-
-
-
-André Castro
 
 
 Entretanto, ao acessarmos esses serviços com certificados digitais e que não
@@ -490,13 +427,6 @@ Item. 1. Caso o prazo de validade do certificado expire;
 Item. 2. Caso o usuário perca a informação de sua chave privada e não haja custódia de um terceiro;
 
 
-
-
-
-
-André Castro
-
-
 Item. 3. Caso haja violação da chave privada, ou seja, algum terceiro obtenha a informação da chave
 privada de um usuário ou sistema.
 
@@ -537,13 +467,6 @@ confiança que viabiliza a emissão de certificados digitais para identificaçã
 virtual do cidadão.
 Observa-se que o modelo adotado pelo Brasil foi o de certificação com raiz única,
 sendo que o ITI,
-
-
-
-
-
-
-André Castro
 
 
 além de desempenhar o papel de Autoridade Certificadora Raiz (AC-Raiz), também tem o
@@ -600,13 +523,6 @@ o Certificado do Tipo Al e Sl
 e seu armazenamento pode ser feito em hardware ou repositório protegido por
 
 
-
-
-
-
-André Castro
-
-
 senha, cifrado por software. Sua validade máxima é de um ano, sendo a
 frequência de publicação da LCR no máximo de 48 horas e o prazo máximo
 admitido para conclusão do processo de revogação de 72 horas.
@@ -658,13 +574,6 @@ assunto novo em provas, porém, já tem aparecido nos editais. Apenas destacar q
 Brasil, como
 
 
-
-
-
-
-André Castro
-
-
 já mencionamos, os certificados possuem validade jurídica e fiscal... Então é possível
 realizar atos
 legais a partir do certificado digital.
@@ -706,13 +615,6 @@ iv. Outros serviços como o sistema social da CAIXA (FGTS), sistema integrado de
 comércio exterior (Siscomex);
 
 
-
-
-
-
-André Castro
-
-
 EV SSL (Validação Avançada)
 
 Como já mencionamos, os Certificados Digitais são ancorados nas tecnologias
@@ -737,7 +639,7 @@ certificado, em regra, se dá para determinada URL. Nesse sentido, por
 exemplo, cria-se um
 certificado digital que será utilizado pelo site do ESTRATÉGIA CONCURSOS, por exemplo,
 que seria
-para a URL- www.estrategiaconcursos.com.br.
+para a URL- .
 
 Desse modo, todas as chamadas feitas para dentro do domínio em questão, são aceitas,
 como por
@@ -747,9 +649,6 @@ https://www.estrategiaconcursos.com. br/cursosPorProfessor/andre-castro-3353/
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023
 (Pós-Edital)
-
-
-André Castro
 
 
 Percebam que se trata de uma mesma URL, havendo distinção apenas dos
@@ -795,20 +694,13 @@ como certificados "Multi-Domínio".
 
 Nesse sentido, a ideia é gerar um único certificado que suporte outros domínios, por exemplo:
 
-* www.estrategiaconcursos.com.br
+*
 
 * www estrategiaconcursos.com
 
 * www.administrativo.estrategiaconcursos.net
 
 * Entre outros....
-
-
-
-
-
-
-André Castro
 
 
 A figura abaixo nos dá um exemplo do site da geotrust, considerando esse contexto:
@@ -894,11 +786,6 @@ URI http: / / EV5 5 L - ocs p. q eotru st. com
 Hide Certificate 0K
 
 
-
-
-André Castro
-
-
 APLICAçõES DE CRIPToGRAFIA
 
 Algumas bancas têm cobrado alguns assuntos mais específicos no que tange a conceitos
@@ -952,9 +839,6 @@ como forma de gerar fluxos financeiros de maneira ilícita e, portanto, não ras
 *
 
 
-André Castro
-
-
 Em relação ao seu funcionamento, tem-se a criação de blocos transacionais, onde cada
 bloco possui
 informação das transações atuais, bem como links para os blocos anteriores, inclusive
@@ -1001,13 +885,6 @@ gera-se uma
 quantidade de bitcoins para ser distribuída entre os mineradores. O regime decrescente
 apresenta
 um cenário em que a quantidade de bitcoins geradas a cada 10 minutos então vai reduzindo, até
-
-
-
-
-
-
-André Castro
 
 
 que chegue ao limite do modelo, que é de 21 milhões de bitcoins. Nesse momento, não
@@ -1063,89 +940,8 @@ outras
 criptomoedas ou soluções baseadas em blockchain com seus modelos próprios e aplicações
 
 
-
-
-
-
-André Castro
-
-
 específicas. Com pesquisas simples na Internet é possível identificar uma infinidade de
 ALTCOINS já
 disponíveis no mercado.
 
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

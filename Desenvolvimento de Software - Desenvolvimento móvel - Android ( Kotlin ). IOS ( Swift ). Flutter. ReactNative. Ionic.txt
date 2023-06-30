@@ -1,35 +1,10 @@
 Capítulo. Desenvolvimento de Software - Desenvolvimento móvel - Android ( Kotlin ). IOS ( Swift ). Flutter. ReactNative. Ionic.
 
-Concursos
-
-(Profs. Paolla
-Ramos e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Desenvolvimento de
-software - 2023 (Pós-Edital)
-
-Autor:
-
-Paolla Ramos e Silva
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Índice
 
 1) Dispositivos Móveis
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Sumário
 
@@ -113,16 +88,10 @@ Exibindo e ocultando controladores de exibição
 U/ViewController
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 UlTableViewController
 
@@ -179,16 +148,10 @@ Flutter
 Gabarito
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 APRESENTAçÃo DA AULA
 
@@ -227,8 +190,6 @@ relação ao Java,
 tornando o desenvolvimento Android mais eficiente e agradável.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
@@ -283,18 +244,7 @@ público-alvo. Agora é
 hora de debruçar nos estudos e aprender sobre dispositivos móveis! @
 
 
-
-
-
 ,
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -337,16 +287,10 @@ principalmente para
 dispositivos móveis, como smartphones e tablets. (Gabarito: Letra D)
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Além do kernel, o Android possui uma série de
 bibliotecas adicionais que facilitam a adição de
@@ -393,17 +337,13 @@ Play Services, que oferece bibliotecas para integração com recursos do Google
 Play, como
 faturamento em aplicativos, atualizações e integração com o Google Assistant.
 
- x-'"
+x-'"
 
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Algumas bibliotecas mais antigas, como a Android Support Library e a Android
 Test Support
@@ -442,16 +382,10 @@ entre os
 aplicativos abertos e acessar funções de multitarefa.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 FOR YOU
 
@@ -485,18 +419,8 @@ d) Menu, volta, Iniciar.
 Comentários:
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Os botões que compõem a barra de navegação do Android são: b) Menu,
 voltar e aplicativos
@@ -569,13 +493,7 @@ receptor de
 transmissão, o aplicativo não precisa permanecer em execução até o alarme ser desativado. Muitas
 
 
-
-
-
 ,
-
-
-
 
 
 transmissões têm origem no sistema — por exemplo, uma transmissão que
@@ -647,12 +565,7 @@ segurança,
 que é um ambiente isolado do sistema operacional e dos demais aplicativos. Isso significa que
 
 
-
-
 www. estra tegiaconcursos. com. br
-
-
-
 
 
 cada aplicativo tem acesso apenas aos componentes essenciais para o seu funcionamento,
@@ -724,18 +637,8 @@ outros. É
 importante ressaltar que essas permissões devem ser concedidas explicitamente pelo usuário.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Os componentes fundamentais de uma biblioteca, juntamente com o arquivo de
 manifesto que
@@ -823,16 +726,10 @@ modificada por um
 app, seja por alocação de objetos ou manipulação de páginas mapeadas, permanece armazenada
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 na RAM e não pode ser despaginada. A única forma de liberar memória de um app é
 remover as
@@ -902,16 +799,10 @@ lógico do heap. Esse tamanho pode aumentar dinamicamente, mas apenas até um li
 definido
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 pelo sistema para cada app, levando em consideração a quantidade de RAM
 disponível no
@@ -981,16 +872,10 @@ memória
 em aplicativos Android.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Tanto o Android Runtime (ART) quanto a máquina virtual Dalvik realizam a
 coleta de lixo
@@ -1057,16 +942,10 @@ e acessar a
 Google Play Store, entre outros recursos.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Por fim, o teste no emulador tende a ser mais rápido e fácil em comparação com um
 dispositivo
@@ -1135,16 +1014,10 @@ rápida aos
 comandos dos usuários.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Outro componente importante presente no ecossistema Android são os Content Providers.
 Esses
@@ -1163,18 +1036,8 @@ facilitando a
 troca de informações e enriquecendo a experiência do usuário no universo Android.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 AndroidManifest
 
@@ -1235,15 +1098,11 @@ aplicativo.
 
 x-""' 20
 
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * <receiver>: Define os receptores de transmissão (broadcast
 receivers), que são
@@ -1311,8 +1170,6 @@ esses recursos.
 Limites da execução em segundo plano
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
@@ -1381,12 +1238,6 @@ serviços.
 Um aplicativo será considerado como estando em primeiro plano se qualquer uma das
 condições
 a seguir for verdadeira:
-
-
-
-
-1 www.estrategiaconcursos.com.br
-
 
 
 
@@ -1460,12 +1311,6 @@ Guia de migração
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
 A partir da versão 8.0 do Android, houve mudanças que afetam a forma como os
 aplicativos em
 segundo plano podem fazer requisições quando há conexão com a internet. Isso
@@ -1535,18 +1380,8 @@ um conjunto de
 constantes pré-definidas pelo sistema Android.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Quando um aplicativo solicita uma permissão, o usuário é notificado sobre
 quais recursos o
@@ -1616,16 +1451,10 @@ incluindo =
 =
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A permissão que deve ser incluída no arquivo Manifest para que o aplicativo possa
 identificar se
@@ -1694,17 +1523,12 @@ Permite o acesso à câmera do dispositivo.
 
 Permite o acesso à localização precisa (usando GPS).
 
- x-"'
+x-"'
 
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 ANDROID.PERMISSION.ACCESS_COARSE_LOCATION
@@ -1774,8 +1598,6 @@ atividades
 CALENDAR Utilizada para permissões relacionadas ao calendário do usuário
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
@@ -1813,16 +1635,10 @@ Utilizada para permissões relacionadas ao armazenamento externo
 compartilhado
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Classes
 
@@ -1889,16 +1705,10 @@ CardView é uma
 classe de layout usada para exibir informações ou conteúdo de forma elegante e consistente, com
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 um design semelhante a cartões. Ele pode ser utilizado para exibir itens individuais
 ou agrupar
@@ -1971,17 +1781,6 @@ certos elementos na interface do usuário.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-
 VIEWPAGER
 
 Visualização que permite a exibição de várias visualizações filhas em uma
@@ -2048,16 +1847,9 @@ ENTITY
 Classe final que representa uma entidade.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 LOADER
@@ -2116,18 +1908,8 @@ atividade. Nesse momento, quaisquer alterações feitas pelo usuário devem ser 
 em um ContentProvider que mantém os dados). A atividade ainda é visível na tela nesse estado.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para poder ser usado com Context.startActivity()z todas as classes de atividade devem
 ter uma
@@ -2196,16 +1978,10 @@ criação, exibição e fechamento de diálogos de forma mais conveniente. Esses
 úteis
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 para associar um diálogo a uma atividade específica e lidar com a interação entre o
 diálogo e a
@@ -2271,16 +2047,10 @@ aplicativo, permitindo monitorar toda a interação do sistema com
 o aplicativo. Uma
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 implementação de Instrumentation é descrita para o sistema por meio da tag
 <instrumentation>
@@ -2347,23 +2117,13 @@ coerente e
 reconhecível em toda a plataforma.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
 
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Android Enterprise
 
@@ -2426,16 +2186,10 @@ de segurança, realizando atualizações e aplicando políticas em tempo real.
 Casos de Uso Android Enterprise
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Existem vários casos de uso comuns, como citado anteriormente, no contexto do
 Android
@@ -2504,18 +2258,8 @@ profissional i
 = armazenados separadamente.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) Dispositivos de propriedade da empresa, que suportam dois perfis (pessoal
 e profissional)
@@ -2570,18 +2314,8 @@ da página, proporcionando uma
 experiência visual de qualidade aos usuários. Adicionalmente, o WebKit é uma tecnologia
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 essencial para o desenvolvimento de navegadores e aplicativos que exibem
 conteúdo web,
@@ -2651,16 +2385,10 @@ integração
 eficiente e personalizada entre o JavaScript e o WebView.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 INTERFACES | DESCRIÇÃO
 
@@ -2734,17 +2462,13 @@ configuração e
 configurações predefinidas para o TracingController. Ela oferece métodos para
 definir opções de
 
- s'"
+s'"
 
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 rastreamento, como os eventos a serem rastreados e os recursos a serem coletados
 durante a
@@ -2806,16 +2530,9 @@ Service
 Workers.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 TRACINGCONFIG
@@ -2877,17 +2594,8 @@ um renderizador WebView.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
 /
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 WEBVIEWRENDERPROCESSCLIENT Usado para receber retornos de chamada em eventos
 renderizador WebView.
@@ -2954,8 +2662,6 @@ do aplicativo
 durante o processo de compilação.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
@@ -3032,18 +2738,8 @@ assinatura for
 válida e o certificado puder ser confiável, o código é considerado autêntico e não foi adulterado.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Ao seguir esses procedimentos de assinatura, os desenvolvedores garantem a
 autenticidade do
@@ -3080,16 +2776,10 @@ usuário final,
 mas não envolve alterações no software em si. (Gabarito: Errado)
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 SWIFT
 
@@ -3156,16 +2846,10 @@ distribuam a
 linguagem Swift de acordo com os termos da licença.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 (CEBRASPE - TRT - 7a Região (CE) / 2017) Assinale a opção que apresenta a
 linguagem de
@@ -3231,8 +2915,6 @@ desenvolvedores
 podem criar aplicativos iOS eficientes e poderosos, aproveitando as amplas bibliotecas e recursos
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
@@ -3304,16 +2986,10 @@ let maximumNumberOfLoginAttempts = 10
 var currentLoginAttempt = 0
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Esse código pode ser lido da seguinte forma: "Declare uma nova
 constante chamada
@@ -3370,17 +3046,13 @@ vírgulas, com uma única anotação de tipo após o nome da variável final:
 
 var redj green, blue: Double
 
- s'"
+s'"
 
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Observação:
 
@@ -3443,8 +3115,6 @@ Também não é possível alterar uma constante para uma variável ou uma variá
 constante.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
@@ -3477,12 +3147,6 @@ languageName = "Swift++"
 // Isso é um erro de compilação: languageName não pode ser alterado.
 Imprimindo Constantes e Variáveis
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Você pode imprimir o valor atual de uma constante ou variável
 usando a função
@@ -3543,12 +3207,8 @@ Ao contrário dos comentários de várias linhas em C, os comentários de vária
 em Swift
 podem ser aninhados dentro de outros comentários de várias linhas. Você pode escrever
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 comentários aninhados iniciando um bloco de comentário de várias linhas e, em seguida,
 iniciando
@@ -3608,18 +3268,8 @@ mesmo
 tipo.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Int
 
@@ -3678,16 +3328,10 @@ armazenados em um Int. O Swift fornece dois tipos de números de ponto flutuante
 * Float representa um número de ponto flutuante de 32 bits.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Double tem uma precisão de pelo menos 15 dígitos decimais, enquanto a precisão do
 Float pode
@@ -3752,18 +3396,8 @@ o Swift inferirá
 que você deseja criar um Double:
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 let pi = 3.14159
 
@@ -3822,16 +3456,10 @@ Para números decimais com um expoente de x, o número base é multiplicado por 
 Para números hexadecimais com um expoente de x, o número base é multiplicado por 2X:
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * 0xFp2 significa 15 x 22, ou 60.0.
 
@@ -3892,18 +3520,8 @@ de um tipo inteiro dimensionado é relatado como um erro durante a compilação 
 let cannotBeNegative: UInt8 = -1
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 // UInt8 não pode armazenar números negativos., portanto isso gerará um erro
 let tooBig: Int8 = Int8.max + 1
@@ -3969,12 +3587,8 @@ A conversão de ponto flutuante para inteiro também deve ser feita de forma exp
 Um tipo
 inteiro pode ser inicializado com um valor "Double" ou "Float". Valores de ponto flutuante são
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 sempre truncados ao serem usados para inicializar um novo valor inteiro dessa forma.
 Isso significa
@@ -4040,15 +3654,11 @@ como a declaração if:
 
 x-"'" 60
 
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 if turnipsAneDelicious {
 print("Mmm, tasty turnips!")
@@ -4111,12 +3721,8 @@ let http404Error = (404, "Not Found")
 
 // http404Ennon é do tipo (Int, String) e é igual a (404, "Not Found")
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A tupla (404, "Not Found") agrupa um Int e uma String para dar ao código de status
 HTTP dois
@@ -4178,17 +3784,13 @@ print("A mensagem de status é (http200Status.description)")
 
 // Imprime "A mensagem de status é 0K"
 
- x-"'
+x-"'
 
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Tuplas são particularmente úteis como valores de retorno de funções. Uma
 função que tenta
@@ -4251,17 +3853,8 @@ não retorna um valor em si. A seguinte declaração não é válida:
 if x = y {
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 // Isso não é válido, porque x = y não retorna um valor.
 
@@ -4318,16 +3911,10 @@ a atribuição sao
 combinadas em um único operador que realiza ambas as tarefas ao mesmo tempo.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Operadores de comparação:
 
@@ -4387,12 +3974,8 @@ seu valor; caso contrário, ele avalia resposta2 e retorna seu valor.
 
 O operador condicional ternário é uma forma abreviada para o código abaixo:
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 if pergunta {
 respostal
@@ -4457,12 +4040,8 @@ suporta os três operadores lógicos padrão encontrados em linguagens baseadas 
 
 * Operador lógico OR (a II b)
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Operador lógico NOT
 
@@ -4525,17 +4104,13 @@ print("ACESSO NEGADO")
 
 Operador lógico OR
 
- x-"'
+x-"'
 §7
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O operador lógico OR (a II b) é um operador infixo composto por dois
 caracteres de pipe
@@ -4599,17 +4174,13 @@ uma chave de porta válida, ou se conhecermos a senha de anulação de emergênc
 permita o
 acesso.
 
- x-'"
+x-'"
 
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Com base nos valores de codigoPortaDigitado, retinaEscanerAprovado e
 possuiChavePorta, as
@@ -4672,15 +4243,11 @@ condicional para imprimir uma mensagem se a string estiver vazia:
 
 x-""' 69
 
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 if emptyString.isEmpty {
 print("Nada para ver aqui")
@@ -4745,18 +4312,8 @@ let string2 = " mundo"
 var saudacao = stringl + string2
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 // saudacao agora é "olá mundo"
 
@@ -4814,16 +4371,10 @@ let soma = "A soma de \(a) e \(b) é \(a + b)"
 func multiplican(_ x: Int, y: Int) -> Int {
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 return x * y
 
@@ -4886,16 +4437,10 @@ código:
 let quantidade = 4 let valor = 10
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 = Dado o código acima, o programador deseja uma string saida cujo valor seja
 
@@ -4978,16 +4523,10 @@ correta para obter
 = o resultado desejado.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 = e) let saida = "valor total = \[quantidade*valor]"
 :
@@ -5010,16 +4549,10 @@ da operação de =
 = multiplicação quantidade*valor dentro da string. (Gabarito: Letra D)
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 View controllers
 
@@ -5070,16 +4603,10 @@ personalizados para
 implementar novos esquemas de navegação.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Você pode construir a interface do usuário
 do seu aplicativo utilizando view controllers
@@ -5127,16 +4654,6 @@ aplicativo, preenchendo cada uma delas com diferentes conjuntos de dados.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Para cada página distinta, defina um view controller para representar essa página e
 gerenciar suas
 visualizações correspondentes. Definir um view controller sempre envolve a
@@ -5170,12 +4687,6 @@ conteúdo do seu aplicativo. Especificamente, um view controller gerencia uma
 hierarquia de
 visualizações e as informações de estado necessárias para manter essas visualizações atualizadas.
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Todo aplicativo UlKit depende muito dos view controllers para apresentar
 conteúdo, e você
@@ -5232,12 +4743,6 @@ relação à sua visualização pai ou irmã, e elas garantem
 
 que suas visualizações se adaptem automaticamente a diferentes ambientes e dispositivos.
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Armazene referências para visualizações importantes
 
@@ -5299,18 +4804,8 @@ validar
 seu código.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Implemente métodos de delegado e ação em uma extensão de classe em
 seu view
@@ -5375,18 +4870,8 @@ primeira vez na tela. O UlKit notifica o view controller proprietário quando su
 estão
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 aparecendo na tela e atualiza o layout dessas visualizações para se adequar ao
 ambiente atual da
@@ -5460,17 +4945,8 @@ em um botão em um controlador de exibição, você pode
 definir um "segue" para apresentar outro controlador de exibição relacionado.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 de um controlador de exibição para outro. Um "segue" é iniciado por uma ação, como
 um toque
@@ -5532,17 +5008,13 @@ ação, como um controle ou um reconhecedor de gestos. Além disso, é possível
 "segues" a
 partir de linhas de tabela e células de visualização em coleção.
 
- x'"'
+x'"'
 
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 1. Para começar, clique com o botão direito do mouse
 no controle ou objeto no controlador de exibição atual.
@@ -5602,12 +5074,6 @@ tratar um evento, o controlador de exibição tem a opção de tratar o evento o
 repassá-lo para a
 visualização pai.
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Os controladores de exibição raramente são usados isoladamente. Em vez disso,
 frequentemente
@@ -5672,18 +5138,8 @@ necessários
 para preencher sua tabela com dados. Você pode substituir o método loadViewQ ou qualquer
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 outro método da superclasse, mas se fizer isso, certifique-se de invocar a
 implementação da
@@ -5748,17 +5204,13 @@ controlador de
 exibição. Quando o controlador de exibição pai muda, ou quando ocorrem
 alterações de
 
- -s""
+-s""
 
-www.estrategiaconcursos.com.br
+
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 características que afetam o tamanho de um controlador de exibição, o UIKit chama
 esses métodos
@@ -5829,7 +5281,7 @@ iOS Simulator. A primeira tela apresenta ao usuário a lista de aplicativos que 
 
 x-"'" 86
 
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
@@ -5898,12 +5350,7 @@ personalizado.
 Quando o usuário seleciona uma guia específica, o barra de guias exibe a visualização raiz do view
 
 
-
-
 www. estra tegiaconcursos. com. br
-
-
-
 
 
 controller correspondente, substituindo quaisquer visualizações anteriores. (Os
@@ -5978,18 +5425,8 @@ seguir o protocolo
 UIPageViewControllerDataSource. O objeto de delegado - um objeto que segue o protocolo
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 UIPageViewControllerDelegate - fornece algumas informações relacionadas à aparência
 e recebe
@@ -6053,17 +5490,6 @@ Uma barra exibida na parte inferior da janela que contém os itens de cada
 aba do UlTabBarController.
 
 
-
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 UIPAGEVIEWCONTROLLER
@@ -6130,8 +5556,6 @@ para tipos
 personalizados, além dos tipos básicos fornecidos pela biblioteca padrão do Swift.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
@@ -6163,16 +5587,9 @@ contains(:)
 pode ser usado com um array de strings.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -6228,15 +5645,11 @@ são renderizados diretamente nas APIs nativas de cada plataforma, como iOS e An
 
 x-""' 92
 
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Os elementos do React são renderizados na interface de usuário nativa da
 plataforma, o que
@@ -6307,17 +5720,13 @@ Conforme o usuário interage com o botão, o state pode ser modificado para refl
 essa interação
 e atualizar a aparência e o comportamento do botão em tempo real.
 
- s'"
+s'"
 
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O uso adequado de props e state é essencial para criar componentes reutilizáveis e
 dinâmicos no
@@ -6384,16 +5793,10 @@ imagem selecionada. Para adicionar State a um componente, utilize um destes Hook
 redutora.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 function ImageGallery() {
 
@@ -6471,16 +5874,10 @@ I
 = b) chamar estados específicos do engine React para alterar seu comportamento.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) declarar uma classe que segue o padrão de design state.
 
@@ -6562,15 +5959,11 @@ const theme = useContext(ThemeContext);
 
 x-""' 96
 
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Ref Hooks
 
@@ -6629,16 +6022,10 @@ Existem duas variações raramente usadas de useEffect com diferenças no tempo 
 aqui.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * uselnsertionEffect é disparado antes de o React fazer alterações no DOM. Bibliotecas
 podem inserir CSS dinâmico aqui.
@@ -6685,15 +6072,11 @@ usuário e permitir que outras partes se atualizem primeiro.
 
 x-"'" 98
 
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 lONIC
 
@@ -6757,15 +6140,11 @@ padronizadas: HTML, CSS e JavaScript, usando APIs web modernas, como Elementos
 
 x-""' 99
 
-www.estrategiaconcursos.com.br
+
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Personalizados e Shadow DOM. Por causa disso, os componentes do lonic têm uma API
 estável e não dependem exclusivamente de um único fornecedor de plataforma.
@@ -6830,16 +6209,10 @@ principais do
 lonic, mas de uma maneira que se sinta como o uso de componentes nativos do Vue.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A CLI oficial do lonic, ou Interface de Linha de Comando, é uma ferramenta que cria
 rapidamente
@@ -6897,16 +6270,9 @@ nativos do
 i Errado)
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -6972,16 +6338,10 @@ manutenção
 simplificada.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ..
 ....................................................................................................
@@ -7102,16 +6462,10 @@ frameworks se
 destacam como os mais conhecidos e amplamente usados em todo o mundo.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 No topo dessa lista está o Flutter, desenvolvido pelo Google. Com sua abordagem de
 "escreva
@@ -7191,16 +6545,10 @@ I
 : Assinale a alternativa que apresenta a sequência correta de cima para baixo:
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 h) v, v, v
 i
@@ -7302,18 +6650,8 @@ responsivo, mas i
 i também fornece uma variedade de controles (widgets) como sliders, toggles e abas. É como ter =
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 = um conjunto de peças de design únicas que permitem construir casas incríveis e
 adaptáveis a todos
@@ -7383,8 +6721,6 @@ botões,
 imagens ou textos) dentro dessa linha. O Row vai se ajustar automaticamente para que esses
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
@@ -7455,16 +6791,10 @@ espaço ao
 redor dela.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 i (CEBRASPE - TRT - 8a Região (PA e AP) / 2022) O widget básico do Flutter que
 permite criar i
@@ -7508,16 +6838,9 @@ Flutter.( Gabarito: i
 í Letra B)
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -7553,16 +6876,10 @@ benefícios da
 linguagem sem a necessidade de reescrever todo o código.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Além disso, o Kotlin oferece recursos poderosos, como a inferência de tipos,
 que permite ao
@@ -7628,16 +6945,10 @@ Multiplatform permite o
 desenvolvimento não apenas para Android, mas também para iOS, backend e aplicações
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 web. Algumas bibliotecas Jetpack já são multiplataforma. O Compose Multiplatform,
 o
@@ -7707,16 +7018,10 @@ Isso permite que você aproveite as funcionalidades de ambas as linguagens, cham
 funções
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 de um lado para o outro e trabalhando com dados armazenados por aplicativos
 Java. A
@@ -7775,16 +7080,10 @@ Kotlin/Native:
 * frameworks C, Swift e Objective-C
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 É fácil incluir código Kotlin compilado em projetos existentes escritos em C, C++,
 Swift, Objective-
@@ -7838,16 +7137,10 @@ println(args.contentToString())
 }
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Impressão na saída padrão
 
@@ -7897,18 +7190,8 @@ receber um
 valor apenas uma vez. Essas variáveis podem receber um valor somente uma vez, e após a
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 atribuição inicial, não podem mais ser modificadas. Por exemplo, ao definir a constante
 "a" com
@@ -7999,17 +7282,8 @@ e) var idademinima : Integer = 18
 Comentários:
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Na linguagem de programação Kotlin, para criar uma variável cujo valor nunca pode ser
 alterado,
@@ -8068,16 +7342,10 @@ class Rectangle(var height: Double., var length: Double): Shape() {
 var perimeter = (height + length) * 2
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários
 
@@ -8134,13 +7402,8 @@ Portanto, "s2"
 será igual a "a foi 1, mas agora é 2".
 
 
-* 
+*
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Expressões condicionais
 
@@ -8210,16 +7473,10 @@ simples: você declara uma variável de iteração e especifica a coleção que 
 percorrida. Em cada
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 iteração, a variável assume o valor de um elemento da coleção, permitindo
 que você execute
@@ -8282,16 +7539,10 @@ index++
 }
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Expressão when
 
@@ -8399,16 +7650,10 @@ I
 =
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 p
 
@@ -8484,16 +7729,10 @@ segue para o bloco alternativo e atribui o valor "Iron" à variável "resposta".
 =
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 de "resposta" é exibido utilizando o comando "println", resultando na impressão
 de "5/lron"
@@ -8554,16 +7793,10 @@ coleções
 de qualquer tipo.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Tipos de coleção
 
@@ -8628,16 +7861,10 @@ incluem as funcionalidades de uma coleção, bem como operações específicas d
 listas, como
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 acessar elementos por índices e realizar operações de adição, remoção e
 modificação de
@@ -8704,16 +7931,10 @@ eles. Os
 -1).
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Elementos da lista (incluindo nulos) podem ser duplicados: uma lista pode conter
 qualquer número
@@ -8778,16 +7999,10 @@ igual
 no outro conjunto.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A implementação padrão de MutableSet - LinkedHashSet - preserva a ordem de
 inserção dos
@@ -8852,16 +8067,10 @@ usando
 numbersMap["chave2"].
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Depois, verificamos se o valor 1 está presente nos valores do mapa
 usando 1 in
@@ -8918,16 +8127,10 @@ função until. Por
 exemplo:
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 for (i in 1 until 10) {
 print(i)
@@ -8988,16 +8191,10 @@ public class Classe_Java {
 private String aula;
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 private String professor;
 private int d = 0;
@@ -9063,16 +8260,9 @@ combinação de
 código Kotlin e Java em um único projeto.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 ELEMENTOS-CHAVE DA
@@ -9152,18 +8342,7 @@ return a + b
 fun main() {
 
 
-
-
-
 ,
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 public static void main(String[]
@@ -9256,16 +8435,6 @@ semana")
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 System.out.println( "Terça-feira");
 
 break;
@@ -9309,16 +8478,10 @@ OBJECT
 STRING
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Array
 enum class
@@ -9331,16 +8494,6 @@ Byte
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 REFERÊNCIAS
 
@@ -9361,16 +8514,9 @@ https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 https://docs.flutter.dev/
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Android
@@ -9433,17 +8579,8 @@ e) BackupDataStream.
 Comentários:
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A classe BackupManager da API de Backup do Android é fundamental para implementar o
 backup
@@ -9506,16 +8643,10 @@ tipo de conexão disponível.
 Gabarito: Letra B
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 4. (FUNDATEC - CRF-PR / 2021) Android Enterprise é uma solução para dispositivos
 Android que
@@ -9576,16 +8707,10 @@ d) Android e Minix.
 e) Symbian OS e Windows Phone.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -9648,12 +8773,7 @@ e) AIX.
 Comentários:
 
 
-
-
 www. estra tegiaconcursos. com. br
-
-
-
 
 
 a) Windows Server: Essa opção não é correta. O Windows Server é um sistema
@@ -9721,17 +8841,8 @@ pasta.
 Item. 2. Pressione e segure o ícone do aplicativo com o dedo.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 3. Arraste o ícone do aplicativo em direção a outro aplicativo que você deseja agrupar na
 mesma pasta.
@@ -9801,16 +8912,10 @@ botões de navegação, mas a funcionalidade básica geralmente permanece a mesm
 Gabarito: Letra B
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 9. (FAU UNICENTRO - IF PR/ 2019) No desenvolvimento para dispositivos móveis
 utilizando
@@ -9860,16 +8965,10 @@ exemplo, abaixo ou
 acima de um componente existente.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 (2) FrameLayout: Utilizado quando necessário que um componente preencha a tela
 inteira do
@@ -9933,16 +9032,10 @@ utiliza
 o sistema Android.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -10010,12 +9103,7 @@ modificado após
 a assinatura ter sido aplicada.
 
 
-
-
 www. estra tegiaconcursos. com. br
-
-
-
 
 
 O certificado Code Signing serve para verificar a identidade do desenvolvedor
@@ -10083,16 +9171,10 @@ Android, uma
 "activity" é uma classe que representa uma tela ou uma janela com a qual o usuário interage.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Quando uma activityé criada, o método onCreate() é chamado para inicializara activitye
 configurar
@@ -10162,16 +9244,10 @@ incorreta, pois o Android é baseado em núcleo Linux, porém não é utilizado
 exclusivamente em
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 celulares. Além dos celulares, ele também é usado em tablets, smartwatches, smart TVs
 e outros
@@ -10244,8 +9320,6 @@ janelas e os
 tratamentos gráficos das aplicações.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
@@ -10324,17 +9398,8 @@ exclusiva.
 Comentários:
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Perfeita questão! O Android, como sistema operacional Linux multiusuário, possui uma
 abordagem
@@ -10403,8 +9468,6 @@ com a
 aplicação em si, deve-se declarar a permissão em arquivo XML específico.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
@@ -10483,12 +9546,7 @@ de uma intent, mas ela não é exclusivamente responsável por isso.
 Gabarito: Letra A
 
 
-
-
 www. estra tegiaconcursos. com. br
-
-
-
 
 
 22.(FUNRI0 - IF-PA/ 2016) Pode-se dividir o software em três categorias bem
@@ -10560,17 +9618,8 @@ um perfil de Provisionamento de Distribuição Corporativa em um aparelho com iO
 a) a execução de aplicativos corporativos obtidos da App Store.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) a instalação de aplicativos a partir de um endereço corporativo.
 
@@ -10639,16 +9688,10 @@ e) terminar apenas o aplicativo em uso.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Caso o conjunto de aplicativos utilizados exceda o total de memória
 disponível, o sistema
@@ -10685,16 +9728,10 @@ memória, o Android busca equilibrar a execução dos aplicativos de acordo com 
 Gabarito: Letra B
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Kotlin
 
@@ -10756,17 +9793,8 @@ código Java,
 assim como também permite que funções feitas em Java sejam chamadas por código Kotlin. A
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 interoperabilidade entre as duas linguagens permite que o desenvolvedortrabalhe com ambas
 sem
@@ -10820,16 +9848,10 @@ mas evoluiu
 para possibilitar o desenvolvimento de aplicações desktop e no lado servidor.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ( ) Mantida pela Oracle, é composta por uma linguagem de programação e uma plataforma
 computacional utilizada como base por muitas aplicações. É orientada a objetos, o que
@@ -10895,16 +9917,10 @@ ganhado
 popularidade no desenvolvimento de aplicativos móveis, especialmente para Android.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Desenvolvida e mantida pela JetBrains, ela combina elementos da programação
 orientada a
@@ -10971,16 +9987,10 @@ computado e exibido pelo comando println é:
 a) 3 / Iron
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) 4/Iron
 
@@ -11058,16 +10068,10 @@ tipo básico inteiro de 32 bits, com o valor 18.
 Para que isso aconteça, qual das seguintes instruções deve ser usada?
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) vai idademinima : Int = 18
 
@@ -11138,17 +10142,8 @@ JUnit Júpiter pode ser utilizado em programas escritos em Kotlin.
 Comentários:
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O JUnit 5 é um framework de teste que consiste em três projetos principais: JUnit
 Platform, JUnit
@@ -11219,16 +10214,10 @@ avançados que
 aumentam a produtividade do desenvolvedor.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Java, por sua vez, é a linguagem de programação nativa do Android. Ela tem sido
 amplamente
@@ -11290,16 +10279,10 @@ c) class AlunoKotlin (vai nome: String, vai codigo: String)
 { private this.nome = nome
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 private this.codigo=codigo
 private var int numero = o
@@ -11361,16 +10344,8 @@ mutável observável?
 a) ClassFlow
 
 
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) MutableFlow
 
@@ -11438,17 +10413,8 @@ println(i)
 }
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) for (i in 10 upTo o ) {
 
@@ -11500,17 +10466,8 @@ percorre de 10 a 1 com um passo de 2 e imprime os valores.
 Gabarito: Letra B
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 React Native
 
@@ -11574,17 +10531,8 @@ realizar esta tarefa, ele terá que utilizar a instrução
 a) let elemento = ReactNative.createElement('hi',{className:'tit'j,'Amazonas');
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) let const elemento = React.createElement('hi'.'tit'},'Amazonas');
 
@@ -11657,16 +10605,10 @@ e publicação
 simplificada de aplicativos, b) Snack: é um ambiente de desenvolvimento online para o React
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Native. Ele permite escrever, executaretestarcódigo React Native diretamente no navegador,
 sem
@@ -11736,16 +10678,10 @@ desenvolver aplicativos para Android, iOS e UWP.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O React.js é um framework de código aberto desenvolvido pelo Facebook, mas
 é importante
@@ -11816,16 +10752,10 @@ móveis. No
 entanto, essa não é a resposta correta para o Analista.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A resposta correta para o Analista é o framework chamado React Native, desenvolvido
 pela equipe
@@ -11840,16 +10770,10 @@ adequada para o Analista desenvolver seu aplicativo móvel.
 Gabarito: Letra E
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Swift
 
@@ -11909,11 +10833,7 @@ produzirá o resultado esperado.
 c) let saida = "valortotal = %[quantidade*valor]"
 
 
-
 www. estra tegiaconcursos. com. br
-
-
-
 
 
 Essa opção utiliza uma sintaxe incorreta para interpolação de strings em Swift. O uso
@@ -11979,17 +10899,8 @@ fruta é
 array de
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) integer.
 
@@ -12057,8 +10968,6 @@ F#, Python
 e Visual Basic.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
@@ -12127,16 +11036,10 @@ b) viewDidAppear()
 c) viewWillAppearQ
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) viewWillLoadO
 
@@ -12206,17 +11109,8 @@ fornecidas,
 a alternativa correta é a D - Navigation Controller.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O Navigation Controlleré um controladorde navegação que gerencia um ou mais
 controladores de
@@ -12285,8 +11179,6 @@ o protocolo Equatable.
 Gabarito: Letra A
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
@@ -12347,12 +11239,6 @@ d) a casa eh forte
 e) o carro eh forte
 
 Comentários:
-
-
-
-
-1 www.estrategiaconcursos.com.br
-
 
 
 
@@ -12421,17 +11307,8 @@ não atinge o
 intervalo correspondente a essa opção.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Em linguagem natural e conjunções subordinativas, podemos dizerque o código apresentado
 é um
@@ -12495,16 +11372,10 @@ desenvolvimento de aplicativos para dispositivos iOS.
 Gabarito: Letra A
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 io.(CEBRASPE - TRT - 7a Região (CE) / 2017) Assinale a opção que apresenta a
 linguagem de
@@ -12572,16 +11443,10 @@ os recursos e frameworks oferecidos pela plataforma da Apple.
 Gabarito: Letra B
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 i2.(IBADE - Prefeitura de Itapemirim - ES / 2019) A Apple desenvolveu uma linguagem de
 programação própria para desenvolvimento de aplicações sob IOS. Ela se chama:
@@ -12621,16 +11486,10 @@ especificamente para o desenvolvimento de aplicativos iOS.
 Gabarito: Letra D
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Flutter
 
@@ -12691,12 +11550,7 @@ e) F, F, F
 Comentários:
 
 
-
-
 www. estra tegiaconcursos. com. br
-
-
-
 
 
 Questão um pouco estranha, não é? Mas é isso aí, pode cair na sua prova desse
@@ -12773,8 +11627,6 @@ Item. 3. (UFC - UFC / 2019 - Adaptada) Sobre o desenvolvimento de aplicações m
 alternativa correta.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
@@ -12833,17 +11685,7 @@ e que a comunidade pode contribuir com melhorias e recursos adicionais.
 Gabarito: Correto
 
 
-
-
 www. estra tegiaconcursos. com. br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Android
@@ -12908,17 +11750,8 @@ de uso
 citados abaixo e assinale a opção que NÃO é suportada pelo Android Enterprise.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) Dispositivos de propriedade do empregado, que suportam um perfil pessoal
 e outro
@@ -12980,16 +11813,10 @@ b) Arrastar um aplicativo e sobrepô-lo a outro.
 c) Pressionar o botão menu e acessar as configurações.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) Pressionar os botões menu e voltar ao mesmo tempo.
 
@@ -13043,16 +11870,10 @@ A sequência correta de cima para baixo é:
 a) 2, 3, 4, i/ 5-
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) 3, 5, i, 2, 4.
 
@@ -13123,17 +11944,8 @@ d) OnCreate
 e) OnDestroy
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 16. (IBADE - Câmara de Vilhena - RO / 2018) Os aplicativos desenvolvidos para
 dispositivos móveis
@@ -13200,16 +12012,10 @@ tablets.
 O Android foi desenvolvido por um consórcio de empresas liderado pelo Google e, com várias
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 funcionalidades, permite que você realize muitas atividades com um celular em
 mãos. Por
@@ -13272,16 +12078,10 @@ Assinale a alternativa que apresenta apenas sistemas operacionais para dispositi
 a) WinZip, Windows Phone e Mac OS.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) Linux, Acrobat Reader e Android.
 
@@ -13334,17 +12134,8 @@ d) terminartodos os aplicativos.
 e) terminar apenas o aplicativo em uso.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Kotlin
 
@@ -13397,17 +12188,8 @@ funcional, com o uso de expressões lambda (anônimas).
 Language (HTML) e o Cascading Style Sheets (CSS) e manipular comportamentos em uma
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 página web. É mantido pela European Computer Manufactureds Association
 (ECMA).
@@ -13473,16 +12255,10 @@ computado e exibido pelo comando println é:
 a) 3 / Iron
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) 4/lron
 
@@ -13548,16 +12324,8 @@ private String codigo;
 private String nome;
 
 
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 private int numero=o;
 
@@ -13619,16 +12387,8 @@ c) QuickFlow
 d) StateFlow
 
 
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) SharedFlow
 
@@ -13669,18 +12429,8 @@ e) for (i in 10 downTo 1 step 2) {
 println(i)
 
 
-
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 React Native
 
@@ -13744,16 +12494,8 @@ vida de um
 componente; e props, utilizado para os dados que irão mudar.
 
 
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 5. (UFC - UFC/ 2019 - Adaptada) O React.js é um framework de código aberto usado
 para
@@ -13778,16 +12520,10 @@ d) Xamarin Core.
 e) React Native.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Swift
 
@@ -13847,17 +12583,8 @@ d) imutáveis.
 e) double.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 4. (IF-SE - IF-SE / 2016) Em relação aos ambientes de desenvolvimento de software,
 analise as
@@ -13925,16 +12652,10 @@ alternativa que
 apresenta o que você deve utilizar para implementar essa ação.
 
 
-
-www.estrategiaconcursos.com.br
 / 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) NavController
 
@@ -14001,17 +12722,8 @@ case 14...16:
 texto = "eh "
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 case 17...20:
 texto = "o"
@@ -14076,17 +12788,8 @@ c) Objetive-C
 d) Python
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 n.(AOCP - PRODEB / 2018) Considerando as linguagens de programação mobile,
 qual das
@@ -14119,16 +12822,10 @@ d) Swift.
 e) Java Script.
 
 
-
-www.estrategiaconcursos.com.br
 /' 204
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Flutter
 
@@ -14177,17 +12874,8 @@ aplicativos
 para dispositivos móveis utilizado para desenvolver aplicativos para Android e iOS.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -14263,82 +12951,8 @@ Item. 2. Letra A
 Item. 3. Correto
 
 
-
-
 ,
 
 /
 
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

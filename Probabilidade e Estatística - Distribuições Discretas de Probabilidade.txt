@@ -506,7 +506,6 @@ Nesse caso, a esperança e a variância são:
 F(X) = p
 
 
-
 V(X) = p.q
 
 12 2
@@ -519,7 +518,6 @@ Nesse caso, a esperança e a variância são:
 
 
 F(X) = p
-
 
 
 W) = p.q
@@ -782,7 +780,6 @@ p(X = 0) = qxqxq=-x-x- =
 6 6 6
 
 
-
 Generalizando, para n repetições, a probabilidade de ter 0 sucesso (n fracassos) é:
 
 P(X = 0) = q x q x ... x q = qn
@@ -796,12 +793,7 @@ lançamentos (X = 3)
 corresponde à interseção desses eventos independentes, dada pelo produto:
 
 
-
-
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -871,8 +863,6 @@ P({l,0,l}) = p x q xp
 =6X6X6=
 
 
-
-
 P({l,l,0}) = p xp x q
 
 —11_5
@@ -885,16 +875,12 @@ xs _ y 5 —
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
 Esses eventos também são mutuamente excludentes, então a probabilidade da união também
 corresponde
 à soma das probabilidades. Como elas são iguais, podemos multiplicar o resultado por 3:
-
 
 
 Generalizando, para n repetições, vamos calcular a probabilidade de obter k
@@ -939,9 +925,6 @@ A combinação Cnk também pode ser indicado por Ck ou por
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -1126,9 +1109,6 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -1200,9 +1180,6 @@ seleção de uma pessoa não afeta o de outra, então temos uma distribuição b
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -1254,18 +1231,13 @@ A probabilidade de saírem k = 3 caras (3 sucessos e 1 fracasso) é:
 P(X = 3)
 
 
-
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
 
 
 Portanto, a probabilidade de obter 3 OU 4 caras, sabendo que são eventos mutuamente exclusivos, é:
-
 
 
 Gabarito: B.
@@ -1323,9 +1295,6 @@ Gabarito: B
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -1529,9 +1498,6 @@ V (X) = n.p.q = n.p.(l — p) = n.p — n. p2
 V(X) = n.p — n.p2 = 1,6
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -1743,9 +1709,6 @@ y(X) = 20 x q = 4
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -1785,9 +1748,6 @@ a
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -1862,9 +1822,6 @@ geométrica é a probabilidade de sucesso p e, assim, representamos essa distrib
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -1928,9 +1885,6 @@ P(X > 3) = 1 -1 - - = = -
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -1974,9 +1928,6 @@ G) 6 u
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -2106,9 +2057,6 @@ p2 (0,64)2
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -2177,9 +2125,6 @@ O desvio padrão da variável Y é inferior a 1.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -2294,9 +2239,6 @@ I
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -2367,9 +2309,6 @@ P(X > fc) =
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -2387,7 +2326,6 @@ precisar de k = 3 tentativas:
 
 
 P(X = 3)
-
 
 
 Assim, a probabilidade de precisar de pelo menos 3 tentativas é obtida dividindo esse resultado por
@@ -2450,9 +2388,6 @@ recinto deve ser de 16 metros =
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -2533,9 +2468,6 @@ Gabarito: D.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -2598,9 +2530,6 @@ sucesso, dentre S elementos, no total.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -2675,9 +2604,6 @@ P(X = 2) = — = — = 30%
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -2724,9 +2650,6 @@ o que corresponde à permutação das 3 peças, com repetição de 2 peças defe
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -2838,9 +2761,6 @@ Em que p é a proporção de sucessos na população:
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -3050,9 +2970,6 @@ i V. Para N = 10000, k = 2000, n = 10 e r = 0, P(R = 0) « 0,1074.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -3315,9 +3232,6 @@ Em que e = 2,718 (número neperiano).
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -3587,9 +3501,6 @@ dia, estima-se que tal probabilidade seja nula.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -3648,9 +3559,6 @@ Sabendo que Â é positivo (pois, Â = n. p, com n > 0 e p > 0), então:
 
 0 0 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 ívivw. estrategiaconcursos. com. br
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -3721,9 +3629,6 @@ O
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -3792,9 +3697,6 @@ registros de forma i
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -3887,9 +3789,6 @@ A probabilidade de passar no máximo um carro, ou seja, 0 ou 1 carro é a soma:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -3975,9 +3874,6 @@ P(X = 2 OU X = 3) = P(X = 2) + P(X = 3)
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -4072,9 +3968,6 @@ n vezes =
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -4186,9 +4079,6 @@ P(X = 4) = Q 0,22.0,82 = 3 x 0,04 x 0,64 = 7,68%
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -4241,9 +4131,6 @@ Essa é justamente a probabilidade P(X = x) para a variável com distribuição 
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -4444,9 +4331,6 @@ I
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -4485,9 +4369,6 @@ L.G...a..b..a..r.i.t..o E. rrado.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -4551,9 +4432,6 @@ E(X)=~; y(x)=^
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -4597,9 +4475,6 @@ Gabarito: Certo
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -4628,9 +4503,6 @@ M
 F
 
 grau de instrução
-
-
-
 
 
 hiperatividade
@@ -4682,9 +4554,6 @@ Comentários:
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -4750,9 +4619,6 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -4813,9 +4679,6 @@ Sabemos que a média (ou esperança) dessa distribuição é:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -4858,9 +4721,6 @@ Gabarito: Certo.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -4921,9 +4781,6 @@ Comentários:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -4978,9 +4835,6 @@ Gabarito: Errado.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -5038,9 +4892,6 @@ P(X > 0) = 0,9.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -5093,9 +4944,6 @@ Gabarito: Errado
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -5161,9 +5009,6 @@ Comentários:
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -5238,9 +5083,6 @@ deferido) é:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -5273,7 +5115,6 @@ Sabendo que o produto n x p é igual a 4, temos:
 4 x q = 3
 
 
-
 Sabendo que p = 1 — q, temos:
 
 q=4
@@ -5293,9 +5134,6 @@ Gabarito: Certo
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -5362,9 +5200,6 @@ sempre independentes entre si.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -5439,11 +5274,7 @@ Gabarito: Errado
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
-
 
 
 Item. 16. (Cebraspe/2019 - TJ/AM) É igual a - a probabilidade de determinado advogado
@@ -5491,11 +5322,6 @@ Logo, a probabilidade de Y ser inferior a 2 é:
 P(r < 2) = P(Y = 0) + P(Y = 1) =
 
 
-
-
-
-
-
 Para que esse resultado seja superior a 1%, é necessário que 0 denominador seja inferior a 3700. No
 entanto,
 412 é muito superior a 3700. Para ilustrar, 46 = 4096, que já é superior a esse valor; e 412 é 0
@@ -5520,9 +5346,6 @@ Comentários:
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -5581,9 +5404,6 @@ Gabarito: Errado.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -5647,9 +5467,6 @@ Gabarito: Certo.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -5729,9 +5546,6 @@ independentes. Assim, para que S
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -5787,9 +5601,6 @@ Gabarito: Certo.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -5854,9 +5665,6 @@ PÇX = k) = CnkPkqn~k
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -5911,9 +5719,6 @@ Gabarito: Errado.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -5983,9 +5788,6 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -6030,9 +5832,6 @@ Gabarito: Errado.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -6092,9 +5891,6 @@ distribuição é dada por:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -6145,9 +5941,6 @@ Gabarito: Certo.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -6203,9 +5996,6 @@ Gabarito: Certo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -6241,9 +6031,6 @@ Gabarito: Certo.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -6308,8 +6095,6 @@ Como a tabela não contempla uma realização do evento X = 7, é correto afirma
 Comentários:
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-www.estrategiaconcursos.com.br
 
 
 Equipe Exatas Estratégia Concursos
@@ -6381,9 +6166,6 @@ determinado dia é superior a
 Coment®HRPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -6451,9 +6233,6 @@ Gabarito: Certo.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -6524,8 +6303,6 @@ duração t (em minutos) segue um processo de Poisson com parâmetro l,2t.
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-www.estrategiaconcursos.com.br
-
 
 Equipe Exatas Estratégia Concursos
 
@@ -6593,8 +6370,6 @@ caso,
 a probabilidade de a central telefônica receber:
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-www.estrategiaconcursos.com.br
 
 
 Equipe Exatas Estratégia Concursos
@@ -6670,8 +6445,6 @@ A = — ln(2_1) = —(—1 x ln 2) = ln 2
 
 LogO, E()^RfifrôQ,êStatíStjCa e Probabilidade - 2023 (Pós-Edital)
 
-www.estrategiaconcursos.com.br
-
 
 Equipe Exatas Estratégia Concursos
 
@@ -6740,9 +6513,6 @@ a) O coeficiente de variação de Y é igual a 1.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -6803,8 +6573,6 @@ administrativos (A/)
 protocolados em certo órgão público seguem uma distribuição de Poisson com média igual a 5. Cada
 processo
 protoco!â£Hpft©n<^tftlA0Slefi^Siff«Rfèriiite9<^y:Ki^u para a B e, assim, a soma Y = ^=1Xh em que
-
-www.estrategiaconcursos.com.br
 
 
 Equipe Exatas Estratégia Concursos
@@ -6875,8 +6643,6 @@ recebidas nessa mesma UPA para atendimento de urgência segue processos de Poiss
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edifal)
 0 103
 
-www.estrategiaconcursos.com.br
-
 
 Equipe Exatas Estratégia Concursos
 
@@ -6934,9 +6700,6 @@ processos
 por dia, - 2023 (Pós-Edital)
 
 
-www.estrategiaconcursos.com.br
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -6985,9 +6748,6 @@ Gabarito: Certo.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -7046,9 +6806,6 @@ Gabarito: Errado.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -7094,9 +6851,6 @@ Como 0,20 < 0,23 < 0,25, então a alternativa c está correta.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -7158,9 +6912,6 @@ que S = X + /, julgue o seguinte item.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -7174,9 +6925,6 @@ Gabarito: Certo
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -7237,9 +6985,6 @@ F
 grau de instrução
 
 
-
-
-
 hiperatividade
 
 N
@@ -7287,9 +7032,6 @@ As variâncias de X e Y são iguais.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -7316,9 +7058,6 @@ A média da distribuição S é igual a 1,2.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -7394,9 +7133,6 @@ O desvio padrão da distribuição de X é igual ou superior a 0,9.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -7456,9 +7192,6 @@ um único recurso deferido entre esses 4 recursos analisados é igual a
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -7524,7 +7257,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 Equipe Exatas Estratégia Concursos
 
 
-
 Item. 15. (Cebraspe/2019 - TJ/AM) É igual a - a probabilidade de determinado advogado
 conseguir decisão
 
@@ -7588,9 +7320,6 @@ independentes.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -7662,9 +7391,6 @@ encontra dentro do intervalo [1,2],
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -7728,9 +7454,6 @@ situação, é correto afirmar que X é uma variável aleatória com distribuiç
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -7773,9 +7496,6 @@ benefício é superior a 0,10.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -7972,9 +7692,6 @@ com os dados
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -8035,9 +7752,6 @@ Item. 7. (Cebraspe/2013 - ANTT-DF/Área Estatística)
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -8090,9 +7804,6 @@ Se uma variável aleatória de Poisson é tal que 2- P(X = 4) = P(X = 3), a méd
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -8168,9 +7879,6 @@ recebidas nessa mesma UPA para atendimento de urgência segue processos de Poiss
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
-
-
-
 Equipe Exatas Estratégia Concursos
 
 
@@ -8230,9 +7938,6 @@ que P(X = 0) = 0,1 e InlO = 2,3, assinale a opção correta.
 
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 
 Equipe Exatas Estratégia Concursos
@@ -8310,76 +8015,4 @@ Item. 8. CERTO 16. CERTO
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

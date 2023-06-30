@@ -1,9 +1,6 @@
 Capítulo. Desenvolvimento de Informação - Introdução.
 
 
-
-
-
 Índice
 
 1) Conceitos Básicos de Banco de Dados.
@@ -31,11 +28,6 @@ Capítulo. Desenvolvimento de Informação - Introdução.
 12) Lista de Questões - Conceitos Básicos de Banco de Dados - CEBRASPE
 
 13) Lista de Questões - Conceitos Básicos de Banco de Dados - CESGRANRIO
-
-
-
-
-
 
 
 CoNCEIToS DE BANCo DE DADoS
@@ -97,11 +89,6 @@ central para
 controlar o processo, isso criava o caos pois não tínhamos controle da redundância. Eis que surge o
 
 
-
-
-
-
-
 Sistema de Gerenciamento de Banco de Dados (SGBD) para atuar como um guardião do banco
 de
 dados, que substituiu a abordagem de arquivos. Vejamos uma figura para
@@ -145,11 +132,6 @@ o conceito.
 Uma forma tradicional de definir banco de dados é começar entendendo o significado das
 palavras
 que compõe o termo: Banco e dados.
-
-
-
-
-
 
 
 Banco tem diversas definições possíveis no dicionário da língua portuguesa. Dentre elas
@@ -226,11 +208,6 @@ específica?
 Acredito que sim! Tente responder a essas perguntas mentalmente antes de seguir em frente.
 
 
-
-
-
-
-
 EXEMPLIFICANDO
 
 Respondendo ... a agenda telefônica descreve um aspecto do mundo
@@ -276,11 +253,6 @@ observe a figura
 a seguir:
 
 
-
-
-
-
-
 Figura 2 - Visão geral do relacionamento entre banco de dados e SGBD
 
 Seguindo o fluxo de acesso aos dados, podemos observar que os usuários e programadores
@@ -301,11 +273,6 @@ armazenamento das informações do banco de dados.
 Contudo, os SGBDs não se restringem apenas a manipulação dos dados. Eles
 fornecem uma
 variedade de programas com diferentes funcionalidades.
-
-
-
-
-
 
 
 k
@@ -382,11 +349,6 @@ recuperação após
 falha, otimização de consultas ou do próprio SGBD, auditoria por meio de logs de sistema, enfim,
 
 
-
-
-
-
-
 são várias as funcionalidades providas pelos softwares presentes em um SGBD. Vamos agora definir
 o próximo conceito: sistema de banco de dados!
 
@@ -449,11 +411,6 @@ as
 necessidades da sua empresa mudam.
 
 Assim, reforçando a nossa resposta encontra-se na alternativa B.
-
-
-
-
-
 
 
 Gabarito: B.
@@ -527,11 +484,6 @@ l abordagem de banco de dados. Sendo assim, podemos afirmar que a questão está
 Gabarito: C.
 
 
-
-
-
-
-
 Item. 4. Ano: 2010 Órgão: Banco da Amazônia Prova: Técnico Científico - Tecnologia da Informação
 
 O dicionário de dados é uma das principais ferramentas para a administração
@@ -561,11 +513,6 @@ Assim, ao analisar as alternativas acima, podemos inferir que a alternativa
 incorreta, já a afirmação [2] está certa!
 
 Gabarito: E C.
-
-
-
-
-
 
 
 CARACTERÍSTICAS DA ABoRDAGEM DE BD
@@ -631,11 +578,6 @@ restrições de
 integridade (NOT NULL, DEFAULT).
 
 
-
-
-
-
-
 A próxima característica é uma decorrência da anterior. A partir do momento em que
 temos um
 dicionário de dados, é possível excluir da estrutura dos programas a definição dos
@@ -679,11 +621,6 @@ consistência, isolamento e durabilidade. Elas formam uma sigla conhecida como A
 bastante conhecidas dentro do modelo de dados relacional/transacional.
 
 ESQUEMATIZANDO
-
-
-
-
-
 
 
 Acabamos de tratar das características que o Navathe utiliza para diferenciar sistemas
@@ -752,11 +689,6 @@ modelos
 de dados.
 
 Gabarito: C
-
-
-
-
-
 
 
 Item. 2. Ano: 2018 Órgão: TCE-PB Cargo: Auditor de Constas Públicas Questão: 97
@@ -828,11 +760,6 @@ Gabarito: D.
 Item. 3. Ano: 2019 - UFPB - Analista de Tecnologia da Informação
 
 
-
-
-
-
-
 Os bancos de dados estão implícitos na vida da sociedade moderna. Assinale a
 alternativa que
 NÃO apresenta uma implicação adicional do uso de banco de dados.
@@ -898,11 +825,6 @@ das
 suas aplicações, o setor de cartão de crédito pode enviar sua fatura e o relacionamento com o
 
 
-
-
-
-
-
 cliente pode te enviar um cartão de feliz aniversário. A importância deste ponto
 único de
 contato é verificada quando a cliente muda de endereço, a atualização da tabela vai
@@ -966,11 +888,6 @@ consulta, o poder de processamento dos computadores permite acessar os dados de 
 muito mais rápida que uma busca realizada manualmente.
 
 
-
-
-
-
-
 d) ERRADA. Essa é outra vantagem dos bancos de dados. Com a internet, por exemplo, é
 possível compartilhar informações com outros usuários em qualquer lugar do mundo por
 meio
@@ -986,11 +903,6 @@ Claro que, para isso, devem ser utilizadas técnicas de backup e redundância do
 Desta forma, podemos encontrar a nossa resposta para essa questão na alternativa B.
 
 Gabarito: B.
-
-
-
-
-
 
 
 PERSoNAGEM Do ECoSSISTEMA DE BD
@@ -1062,11 +974,6 @@ que segundo o
 CJ Date o Administrador de Dados também pode ser responsável pela criação do modelo conceituai.
 
 
-
-
-
-
-
 * Monitorar o desempenho e responder a requisitos de mudanças.
 
 * Definir normas de descarga e recarga (dumping)2
@@ -1128,11 +1035,6 @@ de dados (SGBD).
 2 Carga e recarga ou dumping é uma outra forma de definir backup de banco de dados.
 
 
-
-
-
-
-
 Comentário: Observe que neste texto podemos verificar explicitamente o benefício do
 sistema
 de gerenciamento de banco de dados. O administrador de banco de dados vai atribuir aos
@@ -1185,22 +1087,12 @@ quem são as pessoas que precisam dos mesmos e ainda, procurar padronizar os nom
 e outros objetos para que dados redundantes não sejam armazenados.
 
 
-
-
-
-
-
 O outro indivíduo importante neste processo é o administrador de banco de dados. Nessa
 função
 encontramos todo o suporte técnico necessário para as atividades diárias de um sistema
 de banco
 de dados. O DBA distribui as permissões de acesso aos dados, criar os objetos que vão armazenar os
 dados, faz ajustes para que eles funcionem de forma adequada.
-
-
-
-
-
 
 
 EVoLUçÃo HISTóRICA DoS SCBDS
@@ -1233,11 +1125,6 @@ década
 de 1960. Charles Bachmann desenvolveu o primeiro SGBD chamado Integrated Data Store (IDS)
 
 1 * Também vale para o modelo hierárquico.
-
-
-
-
-
 
 
 enquanto trabalhava na Honeywell em 1964. Esse sistema usava o modelo de rede onde as
@@ -1284,11 +1171,6 @@ de acesso/modificação, em outras palavras o modelo de dados físico.
 informações.
 
 Vejamos algumas questões recentes sobre o assunto:
-
-
-
-
-
 
 
 HORA DE
@@ -1357,11 +1239,6 @@ são
 raramente vistos hoje devido a certas ineficiências operacionais.
 
 
-
-
-
-
-
 Curiosidade: O modelo hierárquico foi implementado em um esforço conjunto da IBM e
 North
 American Rockwell em 1965. A IBM teve o Information Management System IMS (DL/1),
@@ -1394,11 +1271,6 @@ podem ter
 outros valores além de inteiros, por exemplo, valores textuais.
 
 Gabarito:
-
-
-
-
-
 
 
 Modelo Relacional
@@ -1448,11 +1320,6 @@ e, na forma de acesso aos dados definida por uma linguagem clara e ampla. Em vez
 registro de cada vez, um programador pode usar o idioma para especificar operações
 individuais
 que seriam realizados em todo o conjunto de dados.
-
-
-
-
-
 
 
 Devido à natureza técnica do artigo e a relativa complicação matemática
@@ -1523,11 +1390,6 @@ definir como os
 dados seriam representados e acessados.
 
 
-
-
-
-
-
 Este fato levou ao início de pesquisas em bancos de dados orientados a objetos, nos
 quais os
 usuários poderiam definir seus próprios métodos de acesso aos dados e como
@@ -1595,11 +1457,6 @@ soluções de
 armazenamento de dados não relacionais.
 
 
-
-
-
-
-
 Juntamente com NoSQL surge o conceito de Big Data. A definição mais tradicional usa a
 equação
 dos cinco Vs. Nela, Big Data = volume + variedade + velocidade + veracidade + valor, de dados. Cada
@@ -1663,11 +1520,6 @@ que
 distribui o processamento a ser realizado entre vários computadores para ajudar o seu mecanismo
 
 
-
-
-
-
-
 de busca a ficar mais rápido e livre das necessidades de servidores poderosos (e
 caros). Esta
 tecnologia recebeu o nome de MapReduce.
@@ -1677,11 +1529,6 @@ Apresentamos acima
 uma figura com uma evolução dos modelos de dados ao longo do tempo e logo em
 seguida um
 resumo com as principais características de cada tipo de modelos de dados.
-
-
-
-
-
 
 
 TOME
@@ -1774,11 +1621,6 @@ das
 informações, as propriedades estruturais dos dados.
 
 
-
-
-
-
-
 [88] Devido à escalabilidade esperada para os bancos de dados NOSQL, a
 implementação
 desses bancos utiliza modelos de armazenamento de dados totalmente distintos dos
@@ -1848,13 +1690,6 @@ O exemplo anterior em um banco de dados dessa categoria ficaria:
 Idl, Id2; Nomel, Nome2; Endereçol, Endereço2.
 
 
-
-
-
-
-
-
-
 Os bancos de dados de famílias de colunas são mais interessantes para
 processamento
 analítico online (OLAP). BigTable é uma implementação da Google dessa categoria de
@@ -1920,11 +1755,6 @@ contrapartida,
 um registro pai pode ter mais de um registro filho a ele ligado.
 
 
-
-
-
-
-
 Trata-se do Banco de Dados
 
 a) hierárquico.
@@ -1951,11 +1781,6 @@ Set.
 Agora vejamos um modelo semelhante ao visto acima, agora com as características do
 modelo
 em rede:
-
-
-
-
-
 
 
 Figura 6 - Um modelo de dados em rede.
@@ -2021,11 +1846,6 @@ A008 001-987-760-9 7.2
 Figura 7 - Um exemplo de banco de dados relacional.
 
 Gabarito: A
-
-
-
-
-
 
 
 CLASSIFICAçÃo DoS SCBDS
@@ -2096,11 +1916,6 @@ dados mais
 utilizados no mercado.
 
 
-
-
-
-
-
 Outro critério usado para classificar SGBDs é o número de usuários suportados pelo
 sistema.
 Sistemas monousuário admitem apenas um usuário de cada vez, e são usados principalmente
@@ -2138,11 +1953,6 @@ OU MULTIUSUÁRIOS
 ou DISTRÍBUIDO
 ou HETEROGÊNEO
 ou GRATUÍTO
-
-
-
-
-
 
 
 MoDELo DE DADoS E ARQUITETURA EM TRÊS ESQUEMAS
@@ -2189,11 +1999,6 @@ interessante sobre os
 valores que estão armazenados. Ele divide os dados armazenados em campo, registro e
 arquivo. A
 figura abaixo nos ajuda a consolidar essa ideia:
-
-
-
-
-
 
 
 Banco de dados armazenado
@@ -2255,11 +2060,6 @@ C Esquema.
 D Arquitetura.
 
 
-
-
-
-
-
 E Projeto.
 
 Comentário: Perceba que a coleção de informações de um banco de dados em
@@ -2268,13 +2068,6 @@ considerada uma instância, fotografia, extensão, estado ou ocorrências. Assim
 resposta na alternativa B.
 
 Gabarito: B
-
-
-
-
-
-
-
 
 
 MoDELo DE DADoS
@@ -2321,12 +2114,6 @@ abstração
 permitindo a implementação da estrutura de dados no disco rígido ou em outro
 dispositivo físico. O
 passo a passo do projeto de banco de dados será visto em outro momento neste curso.
-
-
-
-
-
-
 
 
 Modelo Lógico
@@ -2398,17 +2185,7 @@ com o sistema, que pode fornecer muitas visões para o mesmo banco de dados.
 A hierarquia de níveis de abstração de dados pode ser vista na figura abaixo:
 
 
-
-
-
-
-
 Figura 3 - Os 3 níveis de abstração: Visão, lógico e físico.
-
-
-
-
-
 
 
 ARQUITETURA TRÊS ESQUEMAS
@@ -2448,11 +2225,6 @@ Figura 1 - Arquitetura detalhada do sistema
 Olhando para a figura anterior percebemos que diferentes grupos de usuários acessam
 visões
 externas distintas. A figura mostra dois grupos de usuários A e B acessando suas respectivas visões
-
-
-
-
-
 
 
 externa por meio de uma sublinguagem de dados (DSL). Toda DSL é dividida em pelo
@@ -2526,11 +2298,6 @@ temos chamado de registro
 armazenado
 
 
-
-
-
-
-
 O mapeamento conceitual/interno define a correspondência entre a visão
 conceituai e interno, ele especifica o modo como os registros e campos
 conceituais são representados no nível interno.
@@ -2578,11 +2345,6 @@ nível
 superior ao esquema alterado. Desta forma só temos o conceito para os níveis
 conceituai e interno
 da figura.
-
-
-
-
-
 
 
 Usuários finais
@@ -2634,11 +2396,6 @@ Comentário: Acabamos de falar da arquitetura em três esquemas ANSI/SPARC que t
 objetivo separar a aplicação do banco de dados físico. Nessa arquitetura, temos uma
 divisão
 dos esquemas em três níveis:
-
-
-
-
-
 
 
 i Interno: nesse nível está o esquema interno do banco de dados. Esse esquema contém
@@ -2710,11 +2467,6 @@ Gabarito: B.
 Item. 3. Ano: 2014 Órgão: TJ-CE Prova: Analista Judiciário - Ciências Computação
 
 
-
-
-
-
-
 Considerando o sistema gerenciador de banco de dados (SGBD), assinale a opção correta
 acerca de bancos de dados.
 
@@ -2781,11 +2533,6 @@ aplicação. Desta forma, a alternativa encontra-se correta.
 Gabarito: C.
 
 
-
-
-
-
-
 Item. 5. Ano: 2016 Órgão: TCE-PA Prova: Auditor de Controle Externo - Área Informática -
 Administrador de Banco de Dados
 
@@ -2834,11 +2581,6 @@ vistos anteriormente e descrever a seguinte ordem: externa, conceituai e interna
 Gabarito: A.
 
 
-
-
-
-
-
 AMBIENTE Do SISTEMA DE BANCo DE DADoS
 
 A figura a seguir apresenta, de forma simplificada, os componentes típicos de um SGBD.
@@ -2872,11 +2614,6 @@ execução de
 uma transação sobre o banco de dados, o intervalo de tempo gasto na transferência de
 dados entre
 a memória e o disco é considerado um gargalo no processamento. Para otimizar o processo alguns
-
-
-
-
-
 
 
 SGBDs podem contar com um módulo de gerenciamento de buffer que planeja a troca de
@@ -2959,13 +2696,6 @@ aplicação.
 Para entender melhor como funciona essa divisão vamos partir para um exemplo prático. No
 
 
-
-
-
-
-
-
-
 exemplo abaixo temos um código Java com um comando SQL. O comentário (//) no código
 delimita
 o início da instrução SQL dentro do código Java.
@@ -3046,11 +2776,6 @@ Lembre-se que
 um SGBD é um sistema informatizado. Para executar todas as suas tarefas sua implementação é
 
 
-
-
-
-
-
 dividida em diferentes módulos. O SGBD interage ainda com o sistema operacional quando
 o acesso
 ao disco rígido é necessário. Vamos fazer uma questão que trata do assunto.
@@ -3103,11 +2828,6 @@ Acabamos
 aqui o nosso primeiro conjunto de assuntos teóricos envolvidos na introdução
 dos sistemas de
 bancos de dados.
-
-
-
-
-
 
 
 QUESTõES CoMENTADAS CoMPLEMENTARES
@@ -3169,11 +2889,6 @@ B.
 Gabarito: B.
 
 
-
-
-
-
-
 Item. 2. CEBRASPE (CESPE) - Analista Judiciário (TJ PA)/Análise de Sistema/Suporte/2020
 
 Um sistema de banco de dados proporciona a empresas o controle centralizado de todos
@@ -3225,11 +2940,6 @@ Item. 3. CEBRASPE (CESPE) - Assistente Judiciário (TJ AM)/Suporte ao Usuário d
 Acerca de sistema gerenciador de banco de dados, do tuning e da segurança em banco
 de dados,
 julgue o item subsequente.
-
-
-
-
-
 
 
 Uma das vantagens de utilizar sistema gerenciador de banco de dados é o fato de ele
@@ -3285,11 +2995,6 @@ O sistema faz a
 comunicação entre o hardware e os demais softwares, criando uma plataforma
 comum a todos os
 programas utilizados. São exemplos de SO: Dos, Unix, Linux, Mac OS, OS-2, Windows NT.
-
-
-
-
-
 
 
 Item. 5. CEBRASPE (CESPE) - Assistente Judiciário (TJ AM)/Programador/2019
@@ -3353,11 +3058,6 @@ os dados, é o próprio SGBD. Desta forma, temos uma alternativa correta.
 Gabarito: C
 
 
-
-
-
-
-
 Item. 7. Ano: 2018 Banca: CESPE Órgão: STM Prova: Técnico Judiciário - Programação de Sistemas
 
 Acerca dos conceitos de normalização de dados e dos modelos de dados,
@@ -3411,11 +3111,6 @@ reposta como
 correta.
 
 Gabarito: C
-
-
-
-
-
 
 
 Item. 9. Ano: 2018 Banca: CESPE Órgão: CGM de João Pessoa - PB Prova: Auditor Municipal de Controle
@@ -3472,11 +3167,6 @@ nosso
 conhecimento sobre o assunto. Começando pela alternativa A, o erro aparece
 quando o
 examinador afirmar que os SGBDs não são flexíveis. Lembre-se que um SGBD veio solucionar
-
-
-
-
-
 
 
 um problema de replicação dos dados em diversos arquivos distintos. Agora, com uma
@@ -3538,13 +3228,6 @@ vendas e compras, pois a redundância será tratada na fase da modelagem do banc
 Gabarito: E.
 
 
-
-
-
-
-
-
-
 Item. 12. Ano: 2016 Banca: CESPE Órgão: TCE-SC Prova: Auditor Fiscal de Controle Externo - Informática
 
 Com relação aos bancos de dados relacionais, julgue o próximo item.
@@ -3600,11 +3283,6 @@ Da forma com está escrito na questão, o item pode ser assinalado como INCORRET
 Gabarito: E
 
 
-
-
-
-
-
 Item. 14. CESPE - Técnico Judiciário (STM)/Apoio Especializado/Programação de Sistemas/2018
 
 Acerca dos conceitos de normalização de dados e dos modelos de dados,
@@ -3658,11 +3336,6 @@ Assim, podemos marcar a afirmação como incorreta.
 Gabarito: E.
 
 Item. 15. CESPE - Analista de Gestão Educacional (SEDF)/Tecnologia da lnformação/2017
-
-
-
-
-
 
 
 Julgue o item seguinte, a respeito de estruturas em programação e de arquiteturas de
@@ -3722,11 +3395,6 @@ c) especialização total.
 d) independência de dados.
 
 e) cardinalidade.
-
-
-
-
-
 
 
 Comentário: A arquitetura de três esquemas pode ser usada para explicar melhor o
@@ -3790,11 +3458,6 @@ detalhes completos do armazenamento de dados e caminhos de acesso para o banco d
 dados.
 
 
-
-
-
-
-
 d) Errada. Cada esquema externo descreve a parte do banco de dados em que um grupo
 de
 usuários em particular está interessado e oculta o restante do banco de dados do
@@ -3852,9 +3515,6 @@ usuários em particular.
 Assim, temos a nossa resposta na alternativa C.
 
 Gabarito: C
-
-
-
 
 
 Aula Thiago Cavalcanti)
@@ -3915,11 +3575,6 @@ Somente o modelo físico que dependerá de sua implementação. Portanto, gabari
 Gabarito: C
 
 
-
-
-
-
-
 Item. 22. BANCA: CESPE ANO: 2014 ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - SUPORTE E
 INFRAESTRUTURA
 
@@ -3976,11 +3631,6 @@ o que caracteriza a dependência de dados, que é um fundamento do banco de dado
 Comentário: Vamos analisar as alternativas acima.
 
 
-
-
-
-
-
 Começando pelo item 51. Veja que a questão sugere que existe uma limitação nos tipos
 de
 dados armazenados em bancos de dados. Sabemos que todos os SGBDs comerciais que
@@ -4032,9 +3682,6 @@ Item. 25. BANCA: CESPE ANO: 2015 ÓRGÃO: MPOG PROVA: ANALISTA - ANALISTA EM TEC
 INFORMAÇÃO
 
 Acerca de sistema de gerenciamento de banco de dados (SGBD), julgue os seguintes itens.
-
-
-
 
 
 Aula Thiago Cavalcanti)
@@ -4099,11 +3746,6 @@ disco rígido.
 Gabarito: C.
 
 
-
-
-
-
-
 Item. 27. BANCA: CESPE ANO: 2013 ÓRGÃO: MC PROVA: ANALISTA DE NÍVEL SUPERIOR - TECNOLOGIA
 DA INFORMAÇÃO
 
@@ -4156,12 +3798,7 @@ pois está de acordo com nosso conhecimento.
 
 Gabarito: C E C.
 
-0 0 
-
-
-
-
-
+0 0
 
 
 Item. 29. Ano: 2010 Banca: CESPE Órgão: Banco da Amazônia Prova: Técnico Científico - Tecnologia da
@@ -4195,11 +3832,6 @@ incorreta, já a afirmação [2] está certa!
 Gabarito: E C.
 
 
-
-
-
-
-
 QUESTõES CoMENTADAS
 
 QUESTõES CoMENTADAS CESCRANRIO.
@@ -4229,11 +3861,6 @@ FINAIS
 Logo, podemos marcar nossa resposta na alternativa A.
 
 Gabarito: A.
-
-
-
-
-
 
 
 HORA DE
@@ -4308,11 +3935,6 @@ detalhes das estruturas de armazenamento das informações dentro dos storages.
 Vejam que pelo exposto, nossa resposta encontra-se na alternativa C.
 
 
-
-
-
-
-
 Gabarito: C.
 
 < > HORA DE
@@ -4358,11 +3980,6 @@ associar, se
 possível, a um dos outros níveis descritos na figura.
 
 Gabarito: B
-
-
-
-
-
 
 
 Item. 4. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa -
@@ -4419,13 +4036,6 @@ e) Física
 Comentário: O mapeamento conceitual/interno define a correspondência entre a visão
 conceituai
 e o banco de dados armazenado. Ele especifica o modo como os registros e campos conceituais são
-
-
-
-
-
-
-
 
 
 representados no nível interno. Se a estrutura do banco de dados armazenado for
@@ -4506,11 +4116,6 @@ Baixo nível
 Logo, podemos marcar nossa resposta na alternativa E.
 
 
-
-
-
-
-
 Gabarito: E.
 
 Item. 7. Ano: 2014 Banca: CESGRANRIO Órgão: IBGE Prova: Supervisor de Pesquisas - Tecnologia de
@@ -4567,11 +4172,6 @@ hierárquicos. O
 modelo em rede representa os dados como tipos de registros e um tipo relacionamento 1:N,
 
 
-
-
-
-
-
 limitado, chamado tipo conjunto. Esse modelo também foi conhecido como CODADYL DBTG. Já
 o
 modelo hierárquico representa os dados como estruturas de árvores hierárquicas.
@@ -4624,11 +4224,6 @@ O Sistema Gerenciador de Banco de Dados (SGBD) NÃO apresenta a seguinte caracte
 
 a) Procurar armazenar os dados, buscando o melhor aproveitamento da memória e visando a
 recuperá-los de modo eficiente.
-
-
-
-
-
 
 
 b) Poder decidir se possui informações suficientes ou não para responder a uma
@@ -4687,11 +4282,6 @@ alternativa B.
 Gabarito: B
 
 
-
-
-
-
-
 Item. 12. Ano: 2012 Banca: CESGRANRIO Órgão: Petrobras Prova: Analista de Sistemas Júnior -
 lnfraestrutura-2012
 
@@ -4748,13 +4338,6 @@ dados; e o nível externo, que define as visualizações dos usuários.
 Gabarito: B.
 
 
-
-
-
-
-
-
-
 LISTA DE QUESTõES - CEBRASPE
 
 Item. 1. CEBRASPE (CESPE) - Analista Judiciário (TJ PA)/Análise de Sistema/Suporte/2020
@@ -4804,11 +4387,6 @@ controle da redundância de dados, o que impede a ocorrência de inconsistência
 Item. 4. Ano: 2019 Banca: CESPE Órgão: SEFAZ-RS Prova: Auditor Assunto: Banco de Dados
 
 As funções de um sistema de gerenciamento de banco de dados (SGBD) incluem
-
-
-
-
-
 
 
 A gerenciar o becape e a recuperação dos dados, bem como o escalonamento de processos
@@ -4874,11 +4452,6 @@ Item. 9. Ano: 2018 Banca: CESPE Órgão: CGM de João Pessoa - PB Prova: Auditor
 Interno - Desenvolvimento de Sistemas
 
 A respeito de bancos de dados, julgue o item a seguir.
-
-
-
-
-
 
 
 Um banco de dados é uma coleção de dados que são organizados de forma randômica, sem
@@ -4947,11 +4520,6 @@ compartilhamento de dados; dessa forma, cada informação é armazenada uma úni
 Item. 14. CESPE - Técnico Judiciário (STM)/Apoio Especializado/Programação de Sistemas/2018
 
 
-
-
-
-
-
 Acerca dos conceitos de normalização de dados e dos modelos de dados,
 julgue o item
 subsequente.
@@ -5016,11 +4584,6 @@ independência de dados.
 b) Um dos objetivos da arquitetura de três esquemas é aproximar o banco de dados
 físico das
 aplicações.
-
-
-
-
-
 
 
 c) O nível conceituai serve para descrever a estrutura do banco de dados para um
@@ -5090,11 +4653,6 @@ filmes e
 fotografias.
 
 
-
-
-
-
-
 [52] Uma característica fundamental do banco de dados e dos antigos sistemas de
 arquivos é
 o inter-relacionamento dos dados, sem redundâncias ou duplicação de dados.
@@ -5157,11 +4715,6 @@ Item. 28. BANCA: CESPE ANO: 2013 ÓRGÃO: ANTT PROVA: ANALISTA ADMINISTRATIVO -
 INFRAESTRUTURA DE TI
 
 
-
-
-
-
-
 No que diz respeito às funções do administrador de dados e à elaboração e implantação
 de
 projeto de banco de dados, julgue os itens que se seguem.
@@ -5184,11 +4737,6 @@ sistema.
 
 [2] O catálogo do sistema é um repositório com função de armazenar as definições dos
 esquemas dos bancos de dados.
-
-
-
-
-
 
 
 GABARITo
@@ -5252,11 +4800,6 @@ Item. 28. Certo
 Item. 29. Errado Certo
 
 
-
-
-
-
-
 LISTA DE QUESTõES - CESGRANRIO
 
 Item. 1. BANCA: CESGRANRIO ANO: 2012 ÓRGÃO: LIQUIGÁS PROVA: PROFISSIONAL DE TECNOLOGIA
@@ -5311,11 +4854,6 @@ Al-P, ll-Q, III-R.
 Bl-Q, ll-R, lll-S.
 
 
-
-
-
-
-
 Cl-S, ll-P, lll-R.
 
 D I - S, II - R, III-Q.
@@ -5367,11 +4905,6 @@ Isso é um exemplo de que tipo de independência de dados fornecida pelos SGBD?
 a) Lógica
 
 b) Relacional
-
-
-
-
-
 
 
 c) Conceituai
@@ -5430,11 +4963,6 @@ Dois desses modelos são os
 a) em rede e XML
 
 
-
-
-
-
-
 b) hierárquico e em rede
 
 c) hierárquico e XML
@@ -5487,11 +5015,6 @@ diferentes tabelas, padronizando definições semânticas e de representação d
 dados
 
 
-
-
-
-
-
 e melhorando o controle do compartilhamento das informações através das
 aplicações, é
 denominada
@@ -5542,13 +5065,6 @@ d) conceituai, externo e físico
 e) conceituai, físico e externo
 
 
-
-
-
-
-
-
-
 GABARITo
 
 Item. 1. A
@@ -5577,78 +5093,4 @@ Item. 12. C
 
 Item. 13. B
 
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

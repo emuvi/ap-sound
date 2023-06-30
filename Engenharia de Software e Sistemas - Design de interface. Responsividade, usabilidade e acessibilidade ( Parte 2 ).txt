@@ -1,25 +1,5 @@
 Capítulo. Engenharia de Software e Sistemas - Design de interface. Responsividade, usabilidade e acessibilidade ( Parte 2 ).
 
-Concursos
-
-(Profs. Diego
-Carvalho e Fernando
-
-Pedrosa)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Engenharia de software -
-
-2023 (Pós-Edital)
-
-Autor:
-
-Diego Carvalho
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Índice
 
@@ -38,8 +18,6 @@ Diego Carvalho
 7) Questões Comentadas - Projeto de Interface - Multibancas
 
 8) Lista de Questões - Projeto de Interface - Multibancas
-
-
 
 
 PRoJETo DE INTERFACE DE USUÁRIo
@@ -107,8 +85,6 @@ usuário, cultura
 organizacional, além - é claro - do design de interface, design visual e arte gráfica.
 
 
-
-
 Eu gosto de explicar isso da seguinte maneira: imaginem uma Lamborghini Galhardo, Ano
 2017 e
 amarela como a da imagem acima, mas eu troco o motor dela pelo motor de uma
@@ -127,8 +103,6 @@ imponente, por
 outro lado ele vai me proporcionar momentos muito divertidos ao dirigi-la, ultrapassando
 todos os
 carros da cidade!
-
-
 
 
 Galera, é claro que isso é apenas um exemplo! Nós sabemos que são carros distintos
@@ -165,8 +139,6 @@ entre outros. No site do Webby Awards, você encontra outras categorias - são d
 legal de tudo: esse prêmio existe desde 1997! Velho, eu fico horas brincando com
 essas coisas, é
 legal demais ver a evolução!;)
-
-
 
 
 HYPER ISLAND
@@ -281,8 +253,6 @@ Sócio-Diretor d* PI»n*i»m«n(0
 do E«pO'>4<Ki». 0«r*
 
 
-
-
 Estilos de User Interface
 
 INCIDÊNCIA EM PROVA: BAIXA
@@ -322,12 +292,6 @@ quase sem) efeitos de volume, sombras e texturas. Simultaneamente ao avanço das
 tecnologias
 e do uso cada vez mais comum das interfaces digitais, diminuiu intensamente a utilização do
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Skeumorfismo e aumentou a aplicação do Flat Design. Ainda hoje é um estilo bastante
 utilizado e
@@ -396,9 +360,6 @@ in your face!*
 Weight 2Mb
 
 Powct Gl.OW SHOT1
-
-
-
 
 
 Outro fator preponderante para a popularização do Flat Design foi o conceito
@@ -489,8 +450,6 @@ movimentação
 dos objetos. Entendido?
 
 
-
-
 Uma melhoria nos cards que estrearam no Google Now, o Material Design faz um uso
 mais liberal
 de layouts baseados em grids, animações e transições responsivas, preenchimentos, e
@@ -518,8 +477,6 @@ para a
 Microsoft o que o Material Design seria para a Google, que agora define a aparência
 do sistema
 operacional e aplicativos oficiais.
-
-
 
 
 12:34 PM
@@ -579,13 +536,6 @@ UO 17 18
 n I II
 
 HTTPS://FLUENT.MICROSOFT.COM
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Princípios de Interface Com Usuário
@@ -659,8 +609,6 @@ entra no modo de correção ortográfica. Não há nenhuma razão para forçar 0
 a permanecer no modo de revisão ortográfica se ele quer apenas fazer uma pequena
 edição de texto no meio do caminho. O usuário deve ser capaz de entrar e sair desse
 modo com pouco ou nenhum esforço.
-
-
 
 
 PROPORCIONE INTERAÇÃO
@@ -751,10 +699,6 @@ ligado à ação de uma forma que seja fácil de ser memorizada (por exemplo, a
 primeira letra da tarefa a ser solicitada).
 
 
-
-
-
-
 OLAYOUTVISUALDA
 INTERFACE DEVE SE BASEAR NA
 METÁFORA DO MUNDO REAL
@@ -842,12 +786,6 @@ A interface deve usar termos e conceitos obtidos da experiência das pessoas que
 mais farão uso do software.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 A interface deve ser consistente de forma que, sempre que possível, operações
 comparáveis sejam acionadas da mesma maneira.
 
@@ -862,10 +800,6 @@ fornecer ajudas relacionadas ao contexto para os usuários.
 
 A interface deve fornecer mecanismos de interação apropriados para diversos tipos
 de usuários com necessidades especiais (cegos, visão parcial, surdos, daltônicos, etc).
-
-
-
-
 
 
 Ergonomia e Usabilidade
@@ -959,19 +893,10 @@ códigos
 não significativos podem levar os usuários a cometer erros como a escolha da opção errada.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 COMPATIBILIDADE
 
 Favorece tanto o aprendizado como a utilização eficiente do sistema por usuários experientes
 em suas tarefas.
-
-
 
 
 Wireframes
@@ -1015,8 +940,6 @@ específico. O
 objetivo geralmente está sendo relacionado ao objetivo comercial e a uma ideia criativa. O
 
 
-
-
 wireframe representa o layout da página ou o arranjo do conteúdo do site, incluindo
 elementos de
 interface e sistemas de navegação, e como eles funcionam juntos. E
@@ -1045,8 +968,6 @@ certos tipos de
 informação; e os efeitos de diferentes cenários em tela.
 
 
-
-
 O wireframe do site conecta a estrutura conceituai subjacente, ou arquitetura
 da informação, à
 superfície ou ao design visual do site. Eles ajudam a estabelecer a
@@ -1066,8 +987,6 @@ com uma
 frequência maior nas últimas provas. Imagino que só ganhará importância futuramente.
 Vamos
 para os exercícios agora...
-
-
 
 
 RESUMo
@@ -1117,13 +1036,6 @@ poucos (ou quase sem) efeitos de volume, sombras e texturas. Simultaneamente ao
 avanço das tecnologias e do uso cada vez mais comum das interfaces digitais, diminuiu
 intensamente a utilização do Skeumorfismo e aumentou a aplicação do Flat Design.
 Ainda hoje é um estilo bastante utilizado e admirado por vários usuários.
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 METRO DESIGN
@@ -1214,14 +1126,6 @@ usuário avançado personalizara interface para facilitar sua interação.
 A interface do usuário deve levá-lo ao o mundo virtual da aplicação. O usuário não
 deve se preocupar com o sistema operacional, as funções de arquivos ou alguma
 outra tecnologia computacional enigmática.
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 PROJETE PARA INTERAÇÃO
@@ -1315,15 +1219,6 @@ regras de projeto de modo que a consistência seja mantida para toda a interaç�
 
 Uma vez que determinada sequência interativa tenha se tornado um padrão de fato
 (por exemplo, o uso de Alt-S para salvar um arquivo), o usuário pressupõe que isso
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 EXPECTATIVA NOS USUÁRIOS,
@@ -1438,15 +1333,6 @@ códigos
 não significativos podem levar os usuários a cometer erros como a escolha da opção errada.
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 COMPATIBILIDADE
 
 Favorece tanto o aprendizado como a utilização eficiente do sistema por usuários
@@ -1470,14 +1356,6 @@ entre outros) deverá conter.
 
 PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADoS - DIVERSAS BANCAS
 
@@ -1536,8 +1414,6 @@ d) II, III, IV, V.
 e) III, IV, V.
 
 Comentários:
-
-
 
 
 MANTENHA A
@@ -1603,12 +1479,6 @@ crescido na mesma
 proporção - o skeumorfismo diminuiu intensamente.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Letra A
 
 Item. 4. (CESPE/TCE-PA-2016) O termo wireframe designa a estrutura de informações em um
@@ -1665,8 +1535,6 @@ a) o usuário seja forçado a realizar ações indesejadas, mesmo que o programa
 b) a interação com o usuário possa ser interrompida em algum ponto.
 
 c) o layout visual da interface seja baseado em uma metáfora do mundo real.
-
-
 
 
 d) seja mantida uma consistência de interações ao longo de uma família de aplicações.
@@ -1728,8 +1596,6 @@ são de
 difícil implementação, redefina esses modelos de forma a tornar a implementação mais fácil.
 
 
-
-
 d) Proporcione apenas um tipo de interação e treine os usuários para ele. Dê
 preferência pela
 interação com o uso do mouse e bloqueie outras formas de interação para simplificar o
@@ -1765,8 +1631,6 @@ elemento do
 layout e a sua relação com os demais elementos que formam o todo.
 
 c) Layout manager de uma interface de desenvolvimento contida no Adobe inDesign.
-
-
 
 
 d) Storyboard que mostra ao programador apenas como devem ser distribuídos os aspectos
@@ -1837,8 +1701,6 @@ GESTÃO DE ERROS
 São situações em que as ações do usuário estão sujeitas a erros de grande
 responsabilidade
 com perda de dados, dinheiro ou colocando em risco a saúde das pessoas.
-
-
 
 
 HOMOGENEIDADE E
@@ -1916,12 +1778,6 @@ para
 o usuário.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 e) Mostrar informações completas a priori, permitindo que o usuário reduza o
 nível de detalhe
 se desejar.
@@ -1988,14 +1844,6 @@ Deve-se revelar as informações de maneira progressiva.
 Gabarito: Letra E
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 LISTA DE QUESTõES - DIVERSAS BANCAS
 
 í. (CESPE / BANRISUL - 2022) Para criar e validar soluções de acordo com a
@@ -2050,12 +1898,6 @@ c) O design de interface com o usuário, também conhecido como UX, é responsá
 parte
 visual de um projeto e pela relação com o usuário.
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 d) A atuação de um designer de interface com o usuário limita-se à apresentação do
 projeto,
@@ -2120,10 +1962,6 @@ c) prototipação em papel e wireframes;
 d) mockups e pesquisa de mercado;
 
 
-
-
-
-
 e) entrevistas e pesquisa de mercado.
 
 Item. 8. (FCC / DPE-SP - 2013) Sobre os princípios que orientam o projeto de interfaces de usuário
@@ -2159,8 +1997,6 @@ demonstre interesse imediato por elas.
 
 Item. 9. (QUADRIX / CFP - 2012) No desenvolvimento da interface do usuário na web, esta imagem
 representa um:
-
-
 
 
 a) Logoframe estático gerado automaticamente pelo Adobe Fireworks como protótipo
@@ -2221,14 +2057,6 @@ b) Basear o layout visual em uma metáfora do mundo real.
 c) Permitir que a interação com o usuário seja interruptível e possa ser desfeita (undo).
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 d) Estabelecer defaults (para escolhas e preenchimento de formulários) que façam sentido
 para
 o usuário.
@@ -2237,14 +2065,6 @@ e) Mostrar informações completas a priori, permitindo que o usuário reduza o 
 detalhe
 se desejar.
 
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo - DIVERSAS BANCAS
 
@@ -2272,78 +2092,4 @@ Item. 11. LETRA E
 
 Item. 12. LETRA E
 
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

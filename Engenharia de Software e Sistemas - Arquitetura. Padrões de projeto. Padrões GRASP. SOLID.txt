@@ -1,25 +1,5 @@
 Capítulo. Engenharia de Software e Sistemas - Arquitetura. Padrões de projeto. Padrões GRASP. SOLID.
 
-Concursos
-
-(Profs. Diego
-Carvalho e Fernando
-
-Pedrosa)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Engenharia de software -
-
-2023 (Pós-Edital)
-
-Autor:
-
-Diego Carvalho
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Índice
 
@@ -61,8 +41,6 @@ Diego Carvalho
 18) Princípios SOLID - Questões Comentadas.
 
 19) Princípios SOLID - Lista de Questões.
-
-
 
 
 PADRõES DE PRoJETo - GANG oF FoUR (GOF)
@@ -292,11 +270,6 @@ SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023
 (Pós-Edital)
 
 
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 Padrões Criacionais
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
@@ -363,12 +336,6 @@ dessas interfaces. Logo, ele pode criar diferentes representações de suas inte
 gráficas ao
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 instanciar, por exemplo, um botão da interface do smartphone, a barra de rolagem da
 interface do
 desktop, caixas de seleção da interface do smartphone e ícones da interface do
@@ -433,12 +400,6 @@ Residencial,
 Nacionalidade, etc provavelmente serão idênticos para todos os membros da família.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Logo, ao invés de se criar objeto para cada membro e preenchê-los um a um
 integralmente, pode-
 se clonar o objeto pai já preenchido e modificar apenas os atributos diferentes, como
@@ -468,13 +429,6 @@ classe de conexão com o banco de dados várias vezes.
 O Padrão Singleton garante que só haverá uma instância de conexão com o banco de
 dados e,
 assim, assegura que-durante a execução-a classe será instanciada apenas uma única vez.
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Padrões Estruturais
@@ -537,12 +491,6 @@ tornando a utilização
 inviável para grandes quantidades. Uma ideia melhor seria criar uma interface para
 plataformas
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 e outra para janelas. A primeira conteria os elementos comuns das plataformas e teria
 classes
@@ -610,12 +558,6 @@ tempo de
 execução, à medida que se adicione um novo ingrediente, cria-se mais uma responsabilidade.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Ao contrário da herança, que aplica funcionalidades a todos os seus objetos, o
 Decorator aplica
 funcionalidades apenas a um objeto específico.
@@ -677,12 +619,6 @@ Proxy
 
 Esse padrão provê um substituto ou ponto através do qual um objeto pode controlar o acesso a
 outro objeto.
-
-
-
-
-
-
 
 
 Esse padrão de projeto deve ser utilizado quando houver uma necessidade de uma
@@ -765,12 +701,6 @@ em qualquer
 dispositivo que tenha uma interface Ligar/Desligar.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Imaginem agora uma classe que faz diversas conexões a um banco de dados.
 Não é
 recomendável que ela tenha um método que se conecte diretamente ao
@@ -834,12 +764,6 @@ comportamento
 distribuído entre diversas classes puder ser customizado sem a criação de muitas subclasses.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Considerem a hipótese de um software complexo com grandes quantidades de classes, de
 tal
 modo que a lógica de processamento está distribuída entre elas. Todo mundo sabe que,
@@ -899,16 +823,6 @@ disso, sua utilização é recomendada quando um objeto for capaz de notificar o
 assumir
 quem são. Certinho?
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Considerem a hipótese de uma tabela de classificação do campeonato brasileiro com um
 gráfico de
@@ -973,12 +887,6 @@ else), mas isso pode sertrabalhoso em grandes quantidades. Uma boa estratégia s
 encapsular
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 os algoritmos de ordenação, de modo que se possa trocar de algoritmo sempre que
 quiser. Basta
 chamar o método OrdenaAluno com os parâmetros sexoAluno e algoritmoOrdenacao.
@@ -1038,8 +946,6 @@ elementos, mas não se aplicam a outros, isto é, uma cerveja já possui um valo
 precisa ser pesada. No entanto, ambas fazem parte da mesma estrutura de dados.
 
 
-
-
 Galera, vou ser bem sincero com vocês: esse assunto é muuuuuuuuuuuuito chato - e
 também é
 muito decoreba! Então, vou explicar o que eu recomendo para o estudo dessa aula —
@@ -1091,10 +997,6 @@ SINGLETON
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023
 (Pós-Edital)
 
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Converte uma interface em outra, por serem incompatíveis...
 ADAPTER
@@ -1150,16 +1052,6 @@ TEMPLATEMETHOD
 Operação a ser realizada sobre uma estrutura de objetos...
 VISITOR
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 RESUMo
 
@@ -1245,17 +1137,6 @@ parte-todo,
 permitindo aos clientes tratarem objetos individuais e composições
 de objetos
 uniformemente.
-
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 DECORATOR
@@ -1359,12 +1240,6 @@ Esse padrão define o esqueleto de um algoritmo dentro de uma operação, deixan
 passos a serem preenchidos pelas subclasses.
 
 
-
-
-
-
-
-
 PAPPO&6 PÊ CRIAÇÃO
 
 A FÁ&MCA A&6TRATA CONSTRÓIUM PROTÓTIPO ÚNICO, A
@@ -1393,16 +1268,6 @@ A PONTS APAPTAPAS COMPOSTA PS PSCORAÓÕSS NA FACHAPAPARA O PSSO MOSCA AO
 
 ©I PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - CESPE
 
@@ -1458,12 +1323,6 @@ Comentários:
 Perfeito! Esse padrão permite representar comandos como objetos, sem a necessidade de
 saber
 como a operação é executada. Ele é usado para encapsular todos os detalhes de uma operação,
-
-
-
-
-
-
 
 
 como parâmetros, contexto e estado, em um objeto. Isso permite que os
@@ -1529,12 +1388,6 @@ Os padrões de projetos são descrições de objetos que se comunicam e classes 
 para resolver um problema genérico em um contexto específico. Desse modo, de fato, os padrões
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 de projeto são um conjunto de soluções generalistas para problemas recorrentes
 durante o
 desenvolvimento de um software. Entretanto, eles não são um framework, e - sim - eles
@@ -1590,12 +1443,6 @@ Opa... eles valorizam o fraco/baixo acoplamento.
 Gabarito: Errado
 
 
-
-
-
-
-
-
 Item. 6. (CESPE / INPI - 2013) O padrão bridge, além de converter a interface de uma
 classe existente
 em outra interface esperada pelos clientes, permite que algumas classes com
@@ -1646,8 +1493,6 @@ acesso local
 a ela.
 
 Comentários:
-
-
 
 
 SINGLETON Esse padrão garante que uma classe tenha apenas uma instância e provê um ponto de
@@ -1701,8 +1546,6 @@ logo ele é
 mais indicado!
 
 Gabarito: Errado
-
-
 
 
 i2.(CESPE / TCE-RO - 2013) O uso do padrão Builder tem a vantagem de
@@ -1767,8 +1610,6 @@ a
 mais de um objeto a chance de lidar com a requisição.
 
 
-
-
 Evita o acoplamento entre solicitantes e atendentes? É Chain of Responsability!
 
 Gabarito: Correto
@@ -1817,8 +1658,6 @@ comunicam de
 forma definida, mas complexa.
 
 Comentários:
-
-
 
 
 Esse padrão define um objeto que encapsula a forma como um conjunto de objetos
@@ -1872,12 +1711,6 @@ classes quanto objetos.
 
 Comentários:
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Propósito
 
@@ -1947,12 +1780,6 @@ oficial veio como verdadeiro.
 Gabarito: Correto
 
 
-
-
-
-
-
-
 24.(CESPE/TRT-RN-2oIo) OS padrões de projeto podem ser definidos como soluções já
 testadas
 para problemas que ocorrem frequentemente durante o projeto de software.
@@ -2011,16 +1838,6 @@ conjunto de objetos não seja conhecido a priori ou seja definido dinamicamente.
 
 Comentários:
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Propósito
 
@@ -2104,12 +1921,6 @@ necessidade
 de facilitar acréscimos de novos tipos de conversão, será mais indicado o uso do padrão de
 
 
-
-
-
-
-
-
 estrutura Adapter que o uso do padrão de estrutura Bridge, pois o padrão Adapter
 separa a
 construção de um objeto complexo de sua representação para criar representações
@@ -2167,8 +1978,6 @@ singleton exprime
 o fenômeno recorrente na análise que é a existência de muitas aplicações nas quais há
 um objeto
 que é a única instância de sua classe.
-
-
 
 
 Comentários:
@@ -2237,12 +2046,6 @@ global a ela.
 Classe com apenas uma instância? Opa, isso é Singleton!
 
 
-
-
-
-
-
-
 Gabarito: Correto
 
 Item. 35. (CESPE /SERPRO - 2008) Alguns padrões de criação como o Prototype, o Proxy e o Façade não
@@ -2305,16 +2108,6 @@ HTTP Response
 
 Comentários:
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Propósito
 
@@ -2386,12 +2179,6 @@ Família de classes/objetos? Opa, Abstract Factory!
 Gabarito: Correto
 
 
-
-
-
-
-
-
 39-(CESPE / DATAPREV - 2006) As seguintes situações justificam o uso do padrão
 Adapter: é
 necessário um objeto local que se faça passar por um objeto localizado em outro
@@ -2449,8 +2236,6 @@ Variações de algoritmo? Strategy!
 Gabarito: Correto
 
 
-
-
 42.(CESPE / DATAPREV - 2006) Quanto aos padrões de projeto orientados a objetos, assinale a
 opção correta.
 
@@ -2484,12 +2269,6 @@ Mediator; (d) Errado,
 trata-se do State.
 
 Gabarito: Letra A
-
-
-
-
-
-
 
 
 QUESTõES CoMENTADAS - FCC
@@ -2553,12 +2332,6 @@ mas a FCC
 repete muito item! Vale muito a pena fazer muitas questões, de novo, e de novo ©
 
 
-
-
-
-
-
-
 Item. 6. (FCC / TRT13 - 2014) Angela pretende utilizar alguns design patterns em seu
 projeto Java e,
 após algumas pesquisas, encontrou o que buscava em Singleton e Prototype cujos
@@ -2613,12 +2386,6 @@ comuns. Dois dos principais design patterns utilizados atualmente são descritos
 I. Visa garantir que uma classe só tenha uma única instância e prover um ponto de acesso
 global
 a ela.
-
-
-
-
-
-
 
 
 II. Visa definir uma dependência um-para-muitos entre objetos para que quando um
@@ -2685,12 +2452,6 @@ interface única
 para varrer coleções diferentes.
 
 
-
-
-
-
-
-
 Os padrões descritos nos itens I, II e III são, respectivamente,
 
 a) Adapter, Facade e Strategy.
@@ -2752,12 +2513,6 @@ mesmo
 processo possa criar representações diferentes.
 
 
-
-
-
-
-
-
 Tratam, respectivamente, dos design patterns:
 
 a) Builder - Adapter - Bridge - Abstract Factory.
@@ -2811,12 +2566,6 @@ a chamada ao método, o controle do fluxo da aplicação retorna para o usuário
 c) são de uso exclusivo em processos de desenvolvimento de soluções orientado a
 objetos, já
 que os objetos são a mais adequada abstração para o reúso.
-
-
-
-
-
-
 
 
 d) são aplicações propriamente ditas, normalmente construídas pela integração de
@@ -2878,12 +2627,6 @@ Comentários:
 FACTORY METHOD Esse padrão define uma interface para criarum objeto, mas deixa as subclasses
 decidirem qual
 classe instanciar.
-
-
-
-
-
-
 
 
 (I) Na minha opinião, houve confusão da FCC! Factory Method fornece uma interface
@@ -2954,12 +2697,6 @@ Interpreter
 Template Method
 
 
-
-
-
-
-
-
 (a) Errado. Factory Method e Prototype são Criacionais; (b) Errado. Todos são
 Criacionais; (c)
 Correto. Todos são Comportamentais; (d) Errado. Todos são Estruturais; (e)
@@ -3023,16 +2760,6 @@ independentemente.
 Correspondem respectivamente a:
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 a) Façade e Bridge.
 
 b) Adapter e Façade.
@@ -3091,8 +2818,6 @@ bastante
 complicados; (d) De novo, não! Padrões de Projeto não se limitam a orientação a
 objetos; (e) É isso
 mesmo! Questão perfeita!
-
-
 
 
 i6.(FCC / TJ-PI - 2009) Os padrões de projeto, quando aplicados ao desenvolvimento de
@@ -3156,12 +2881,6 @@ subsistema, definindo uma interface de alto nível que facilita a utilização d
 (II) Interface de nível mais alto? Trata-se do Façade.
 
 
-
-
-
-
-
-
 ITERATOR Esse padrão fornece uma maneira de acessar elementos de um
 objeto agregado
 sequencialmente sem expor sua representação interna.
@@ -3191,12 +2910,6 @@ Comentários:
 A associação entre classes e objetos é tratada por Padrões GoF Estruturais.
 
 Gabarito: Letra A
-
-
-
-
-
-
 
 
 QUESTõES CoMENTADAS - FG V
@@ -3306,12 +3019,6 @@ tempo de
 execução.
 
 
-
-
-
-
-
-
 II. Apresenta como benefícios adicionais a especificação de novos objetos pela variação
 de seus
 valores e/ou de sua estrutura.
@@ -3366,12 +3073,6 @@ e) I, lie III.
 Comentários:
 
 
-
-
-
-
-
-
 (I) Correto, eles possuem um jargão próprio comum a todos: nome, problema,
 solução e
 consequências; (II) Correto, grande parte dos problemas já possuem uma solução
@@ -3386,12 +3087,6 @@ padrões afim de padronizar e melhorar o desenvolvimento de software?
 
 Gabarito: Letra E
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
@@ -3447,13 +3142,6 @@ d) somente o 4 não pertence a essa família especificamente.
 e) somente o 5 não pertence a essa família especificamente.
 
 Comentários:
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 CriaçJão
@@ -3518,13 +3206,6 @@ e) Alpha Standards (Padrões Alfa) - Beta Standards (Padrões Beta) - Patterns G
 Gama).
 
 Comentários:
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 CriaçJão
@@ -3598,8 +3279,6 @@ global de
 acesso ao seu objeto.
 
 
-
-
 b) adicionar dinamicamente um comportamento a um objeto existente sem alterar o código
 das
 classes existentes.
@@ -3653,12 +3332,6 @@ ADAPTER poderiam trabalhar juntas por serem incompatíveis.
 (e) Correto, trata-se do Adapter.
 
 Gabarito: Letra E
-
-
-
-
-
-
 
 
 9- (ESAF/ATRFB-2012) OS padrões de projeto (Design Patterns) são classificados nas categorias:
@@ -3725,12 +3398,6 @@ classe a
 ser instanciada.
 
 
-
-
-
-
-
-
 d) Fornece uma interface unificada para um conjunto de interfaces em um sistema.
 
 e) Define uma dependência "um para muitos" entre objetos, de modo que, quando um
@@ -3786,12 +3453,6 @@ padrões de criação, padrões de estutura ou padrões comportamentais. Corresp
 categoria de padrões estruturais:
 
 a) Facade, Prototype e Proxy.
-
-
-
-
-
-
 
 
 b) Adapter, Composite e Proxy.
@@ -3861,12 +3522,6 @@ atualizados.
 Indique a opção que contenha todas as afirmações verdadeiras.
 
 
-
-
-
-
-
-
 a) I e III.
 
 b) lie III.
@@ -3927,16 +3582,6 @@ automaticamente.
 
 Gabarito: Letra D
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - CESPE
 
@@ -4002,12 +3647,6 @@ aprendizado e a
 portabilidade das aplicações.
 
 
-
-
-
-
-
-
 Item. 6. (CESPE / INPI - 2013) O padrão bridge, além de converter a interface de uma
 classe existente
 em outra interface esperada pelos clientes, permite que algumas classes com
@@ -4068,8 +3707,6 @@ normalmente, um padrão de projeto descreve uma solução geral, que não pode s
 Item. 16. (CESPE / MPOG - 2013) Padrões de projeto envolvem combinações de classes e
 algoritmos
 associados que cumprem com propósitos comuns de projeto.
-
-
 
 
 Item. 17. (CESPE / MPE-PI - 2012) O padrão de projeto conhecido como façade é indicado
@@ -4133,12 +3770,6 @@ a
 mais de um objeto a oportunidade de tratar uma solicitação, mesmo nos casos
 em que o
 conjunto de objetos não seja conhecido a priori ou seja definido dinamicamente.
-
-
-
-
-
-
 
 
 28.(CESPE / TCU - 2009) No desenvolvimento de um sistema estruturado em subsistemas
@@ -4207,12 +3838,6 @@ nome
 aplicação.war, e se encontrem pleno funcionamento. Conforme a nomenclatura
 proposta pelo
 GoF (Gang of Four) book, o nome dado ao módulo F sugere que esse módulo implementa um
-
-
-
-
-
-
 
 
 padrão da categoria comportamental, enquanto
@@ -4286,12 +3911,6 @@ enunciados
 condicionais pois a classe tem comportamentos variados.
 
 
-
-
-
-
-
-
 42.(CESPE / DATAPREV - 2006) Quanto aos padrões de projeto orientados a objetos, assinale a
 opção correta.
 
@@ -4318,19 +3937,6 @@ execução
 e depende do seu estado; as operações têm múltiplos enunciados condicionais que dependem
 do estado do objeto.
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -4428,8 +4034,6 @@ Item. 46. CORRETO
 Item. 47. LETRA A
 
 
-
-
 QUESTõES CoMENTADAS - FCC
 
 í. (FCC / Prefeitura de Teresina-PI - 2016) Dentre os tipos de Padrões de
@@ -4491,8 +4095,6 @@ IV. Possibilitar a criação de novos objetos a partir da cópia de objetos exis
 Está correto o que consta APENAS em
 
 a) I e II.
-
-
 
 
 b) I e III.
@@ -4564,8 +4166,6 @@ a) Adapter, Facade e Strategy.
 b) Prototype, Composite e Command.
 
 
-
-
 c) Abstract Factory, Observere Iterator.
 
 d) Adapter, Observer e Iterator.
@@ -4624,8 +4224,6 @@ e) podem ser modelados utilizando-se a linguagem UML que fornece um meio eficien
 modelar padrões de projeto representando-os como colaborações.
 
 Item. 8. (FCC/TRT24-2011) Considere:
-
-
 
 
 I. Fornecer uma interface para criação de famílias de objetos relacionados ou
@@ -4691,8 +4289,6 @@ Correspondem respectivamente a:
 a) Façade e Bridge.
 
 
-
-
 b) Adapter e Façade.
 
 c) Composite e Bridge.
@@ -4756,8 +4352,6 @@ própria
 informação.
 
 
-
-
 As afirmações correspondem, respectivamente, aos padrões
 
 a) Command, Iterator, Singleton e Expert.
@@ -4783,12 +4377,6 @@ d) GoF de Criação.
 
 e) GoF Comportamentais.
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -4819,8 +4407,6 @@ Item. 12. LETRA E
 Item. 13. LETRA D
 
 Item. 14. LETRA A
-
-
 
 
 QUESTõES CoMENTADAS - FC V
@@ -4883,8 +4469,6 @@ reutilização do
 projeto de soluções computacionais já testadas e aprovadas.
 
 
-
-
 III. Uma biblioteca de padrões pode ajudar a melhorar e padronizar o
 desenvolvimento de
 software.
@@ -4902,12 +4486,6 @@ d) somente II e III.
 e) I, lie III.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 GABARITo
 
 Item. 1. LETRA A
@@ -4916,19 +4494,6 @@ Item. 2. LETRA E
 
 Item. 3. LETRA E
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - DIVERSAS BANCAS
 
@@ -4983,13 +4548,6 @@ d) somente o 4 não pertence a essa família especificamente.
 e) somente o 5 não pertence a essa família especificamente.
 
 Comentários:
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 CriaçJão
@@ -5054,13 +4612,6 @@ e) Alpha Standards (Padrões Alfa) - Beta Standards (Padrões Beta) - Patterns G
 Gama).
 
 Comentários:
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 CriaçJão
@@ -5134,8 +4685,6 @@ global de
 acesso ao seu objeto.
 
 
-
-
 b) adicionar dinamicamente um comportamento a um objeto existente sem alterar o código
 das
 classes existentes.
@@ -5189,12 +4738,6 @@ ADAPTER poderiam trabalhar juntas por serem incompatíveis.
 (e) Correto, trata-se do Adapter.
 
 Gabarito: Letra E
-
-
-
-
-
-
 
 
 Item. 6. (ESAF/ATRFB-2012) OS padrões de projeto (Design Patterns) são classificados nas categorias:
@@ -5262,12 +4805,6 @@ classe a
 ser instanciada.
 
 
-
-
-
-
-
-
 d) Fornece uma interface unificada para um conjunto de interfaces em um sistema.
 
 e) Define uma dependência "um para muitos" entre objetos, de modo que, quando um
@@ -5323,12 +4860,6 @@ padrões de criação, padrões de estutura ou padrões comportamentais. Corresp
 categoria de padrões estruturais:
 
 a) Facade, Prototype e Proxy.
-
-
-
-
-
-
 
 
 b) Adapter, Composite e Proxy.
@@ -5398,12 +4929,6 @@ atualizados.
 Indique a opção que contenha todas as afirmações verdadeiras.
 
 
-
-
-
-
-
-
 a) I e III.
 
 b) lie III.
@@ -5465,16 +4990,6 @@ automaticamente.
 Gabarito: Letra D
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 GABARITo
 
 Item. 1. LETRAB
@@ -5495,12 +5010,6 @@ Item. 8. LETRAB
 
 Item. 9. LETRAD
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GRASP
 
@@ -5565,12 +5074,6 @@ CoJRJKIÇ FRoTEonet?
 /ccNT£òL£<
 
 *
-
-
-
-
-
-
 
 
 ■ Expert:
@@ -5643,12 +5146,6 @@ a uma classe
 artificial que não representa um conceito do domínio do problema.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 ■ Indirection:
 
 Esse padrão atribui responsabilidade a um objeto intermediário para mediar as mensagens
@@ -5671,16 +5168,6 @@ variações de outros elementos (objetos, sistemas, subsistemas) ao envolver o f
 instabilidade
 em uma interface e usando o polimorfismo para criar várias implementações desta interface.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - CRASP - CEBRASPE
 
@@ -5743,16 +5230,6 @@ informação necessária para satisfazer essa responsabilidade.
 
 Conforme vimos em aula, a questão trata do Padrão Expert! Gabarito: E
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Item. 4. (CESPE - 2013 - TCE/RO - Analista de Informática) O padrão Don't Talk to
 Strangers é
@@ -5823,16 +5300,6 @@ Padrões
 Básicos são: Information Expert, Creator, High Cohesion, Low Coupling e Controller. Já os Padrões
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Avançados são: Polymorphism, Pure Fabrication, Indirection e Protected Variations.
 Assim como
 os Padrões de Projeto (GOF), para resolver a grande maioria das questões,
@@ -5900,16 +5367,6 @@ responsabilidades a classes e objetos em implementações orientadas a objetos. 
 principais exemplos de padrões GRASP são: Information Expert, Creator, Visitor,
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Controller, Iterator, Low Coupling, High Cohesion, Polymorphism, State, Strategy,
 Pure
 Fabrication, Indirection, Proxy e Protected Variations.
@@ -5972,12 +5429,6 @@ que o
 padrão Low Coupling.
 
 
-
-
-
-
-
-
 Comentários:
 
 ■ Low Coupling:
@@ -6012,8 +5463,6 @@ Acoplamento
 trata da dependência entre partes/componentes. A questão trata do segudo caso:
 Acoplamento.
 Gabarito: E
-
-
 
 
 LISTA DE QUESTõES - GRASP - MULTIBANCAS
@@ -6081,8 +5530,6 @@ Pure
 Fabrication, Indirection, Proxy e Protected Variations.
 
 
-
-
 Item. 10. (CESPE - 2014 - SUFRAMA - Analista de Sistemas) Enquanto os padrões GRASP refletem
 práticas mais pontuais da aplicação de técnicas orientadas a objetos, os
 padrões de
@@ -6105,16 +5552,6 @@ outras
 classes.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 GABARITo
 
 GABARITO
@@ -6130,13 +5567,6 @@ Item. 11. E
 
 Item. 4. E 8. E
 Item. 12. E
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Conceitos Básicos
@@ -6180,8 +5610,6 @@ desses princípios
 podem parecer semelhantes, mas não visam o mesmo objetivo. Para simplificar o
 
 
-
-
 acompanhamento, usarei a palavra "Classe", mas observe que ela também pode se aplicar
 a uma
 função, método ou módulo.
@@ -6222,12 +5650,6 @@ motorista - o ideal é que tivéssemos um robô para cada uma dessas responsabil
 Aberto-Fechado
 
 
-
-
-
-
-
-
 CLASSES DEVEM SER ABERTAS PARA EXTENSÃO, MAS FECHADAS PARA MODIFICAÇÃO
 
 Alterar o comportamento atual de uma classe afetará todos os sistemas que usam essa
@@ -6251,12 +5673,6 @@ robô
 que cortava, foi estendido e agora aprendeu também a pintar.
 
 Substituição de Liskov
-
-
-
-
-
-
 
 
 Hi, Tm Sam.
@@ -6293,16 +5709,6 @@ ser usadas da mesma maneira sem erros. A imagem à esquerda mostra que a classe-
 café (pode ser qualquer tipo de café). É aceitável que a classe-filha entregue cappuccino por ser
 um
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 tipo específico de café, mas não é aceitável entregar água. Se a classe-filha não
 atender a esses
@@ -6344,12 +5750,6 @@ podem rodar
 os braços; e ações para robôs que podem balançar as antenas. Logo, nenhum robô possui uma
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 função inútil que não podem executar e que são apenas um desperdício capaz de
 produzir bugs
 inesperados. Bacana?
@@ -6385,8 +5785,6 @@ executar uma
 ação. Em vez disso, ele deve ser fundido à interface que permitirá que a ferramenta
 se conecte à
 classe. Também diz que tanto a classe quanto a interface não devem saber como a ferramenta
-
-
 
 
 funciona. No entanto, a ferramenta precisa atender à especificação da interface. O
@@ -6461,16 +5859,6 @@ Coesão
 Acoplamento
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 í. (FGV/ Senado Federal -2022) Os princípios de Orientação a Objetos e Design de
 Código são
 guiados pelos conceitos do acrônimo SOLID, em que cada letra descreve um
@@ -6530,12 +5918,9 @@ Os Princípios SOLID são:
 Gabarito: Errado
 
 
-0 0 
+0 0
 
 www- estratégia concursos. com.br
-
-
-
 
 
 3- (AOCP / PRODEB - 2018) Com base no modelo SOLID utilizado como
@@ -6602,12 +5987,6 @@ principie) - I
 Comentários:
 
 
-
-
-
-
-
-
 Ele é composto por 05 princípios de acordo com as suas iniciais, sendo eles:
 
 [S] - Single Responsiblity Principie (Princípio da Responsabilidade Única)
@@ -6665,12 +6044,6 @@ Comentários:
 (I) Correto; (II) Errado, ele estabelece que uma classe deve estar aberta para
 extensões, mas
 fechada para modificações - a questão inverteu os conceitos; (III) Correto.
-
-
-
-
-
-
 
 
 7- (FCC / TRE-PR - 2017) Os princípios SOLID reúnem cinco boas práticas
@@ -6734,16 +6107,6 @@ tem diversas
 responsabilidades.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Letra D
 
 Item. 8. (IESES / CREA-SC - 2017) Assinale a alternativa correta:
@@ -6798,12 +6161,6 @@ computacional de sólidos tridimensionais.
 
 Gabarito: Letra B
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 LISTA DE QUESTõES
 
@@ -6871,8 +6228,6 @@ principie) - D
 (Double principie).
 
 
-
-
 c) S (Security closed principie) - O (Open extend principie) - L (Liskov include
 principie) - I
 (Interface duplication principie) - D (Duplicate structure principie).
@@ -6936,12 +6291,6 @@ public void CadastrarMesarios() { }
 Com base no princípio SRP e nas boas práticas para projetos 00, é correto afirmar:
 
 
-
-
-
-
-
-
 a) O SRP visa aumentar o acoplamento entre classes e separar responsabilidades como
 forma
 de melhorar o código da aplicação 00 sendo desenvolvida.
@@ -6993,16 +6342,6 @@ distingue-se das áreas relacionadas de modelagem geométrica e computação gr�
 ênfase na fidelidade física.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 GABARITo
 
 Item. 1. ANULADA
@@ -7021,78 +6360,4 @@ Item. 7. LETRA D
 
 Item. 8. LETRA B
 
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

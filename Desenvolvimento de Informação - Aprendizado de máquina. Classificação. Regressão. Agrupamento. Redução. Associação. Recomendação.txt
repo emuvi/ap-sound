@@ -1,17 +1,12 @@
 Capítulo. Desenvolvimento de Informação - Aprendizado de máquina. Classificação. Regressão. Agrupamento. Redução. Associação. Recomendação.
 
 
-
 Índice
 
 1) Aprendizado Não Supervisionado
 
 
-
 w ww. estrategiaconcursos. com.br
-
-
-
 
 
 Conteúdo da Aula
@@ -37,13 +32,6 @@ Regras de associação
 THIAGO CAVALCANTI
 
 PROFESSOR
-
-
-
-
-
-
-
 
 
 CoNTEÚDo DA AULA
@@ -116,11 +104,6 @@ você
 conhece a média e o desvio padrão, e que a distribuição é normal, você conhece a
 
 
-
-
-
-
-
 probabilidade de qualquer observação futura. O Aprendizado Paramétrico
 Não
 Supervisionado envolve a construção de Modelos de Mistura Gaussianas e o uso
@@ -184,11 +167,6 @@ hipercubo
 4D básico é incrivelmente difícil de imaginar em nossas mentes (veja a
 Figura abaixo), muito
 menos um elipsoide de 200 dimensões dobrado em um espaço de 1.000 dimensões.
-
-
-
-
-
 
 
 *-- *
@@ -263,11 +241,6 @@ exponencialmente com o
 número de dimensões.
 
 
-
-
-
-
-
 Antes de apresentarmos alguns algoritmos específicos de redução de
 dimensionalidade,
 vamos dar uma olhada nas duas principais abordagens para reduzir a
@@ -326,12 +299,6 @@ zi e Z2 (as
 coordenadas das projeções no plano).
 
 
-
-
-
-
-
-
 ■H- *
 
 *
@@ -385,11 +352,6 @@ realmente quer é desenrolar o rolo suíço para obter o conjunto de dados
 da figura a seguir.
 
 
-
-
-
-
-
 Xi Zi
 
 Figura 4 - Esmagar projetando em um plano (esquerda) versus desenrolar o rocambole (direita)
@@ -441,11 +403,6 @@ Item. 5. Esse limite de
 decisão parece muito simples no espaço 3D original (um plano vertical), mas parece mais
 
 
-
-
-
-
-
 complexo no manifold desenrolado (uma coleção de quatro segmentos
 de linha
 independentes).
@@ -471,11 +428,6 @@ perspectiva, pode
 ser?)
 
 PCA - Principal component analysis
-
-
-
-
-
 
 
 Análise de Componentes Principais (PCA)é de longe o algoritmo
@@ -536,11 +488,6 @@ restante. Neste
 exemplo 2D não há escolha: é a linha pontilhada. Se fosse um conjunto de
 dados de
 dimensão superior, o PCA também encontraria um terceiro eixo, ortogonal aos dois eixos
-
-
-
-
-
 
 
 anteriores, e um quarto, um quinto e assim por diante - tantos eixos
@@ -606,11 +553,6 @@ Figura 16, o
 conjunto de dados 3D é projetado no plano 2D definido pelos dois primeiros componentes
 
 
-
-
-
-
-
 principais, preservando grande parte da variação do conjunto de dados.
 Como resultado,
 a projeção 2D se parece muito com o conjunto de dados 3D original.
@@ -673,11 +615,6 @@ primeiros componentes
 do conjunto de dados 3D representados na Figura 16:
 
 
-
-
-
-
-
 >>> pca.explained_variance_ratio_
 array([0.84248607, 0.14631839])
 
@@ -733,11 +670,6 @@ perderia muita
 variância explicada.
 
 
-
-
-
-
-
 Figura 7 -Variação explicada em função do número de dimensões
 
 Se você chegou até aqui e está com dificuldade de entender esse conteúdo
@@ -764,11 +696,6 @@ captura a maior parte da variação no conjunto de dados existente.
 * Aprendizagem múltipla: identifica uma transformação não linear que
 produz
 uma representação dimensional inferior dos dados.
-
-
-
-
-
 
 
 * Autoencoders: usa uma rede neural para compactar dados de forma não linear
@@ -827,11 +754,6 @@ cluster é, portanto, uma coleção de objetos que são "semelhantes" entre eles
 dos objetos pertencentes a outros clusters.
 
 
-
-
-
-
-
 Agrupamento baseado em distância .
 
 Dado um conjunto de pontos, com noção de distância entre os pontos, agrupar os pontos
@@ -857,13 +779,6 @@ o resultado da
 clusterização atenda às suas necessidades.
 
 Na imagem acima, como sabemos qual é a melhor solução de clustering?
-
-
-
-
-
-
-
 
 
 Para encontrar uma solução de clusterização específica, precisamos definir as
@@ -909,11 +824,6 @@ agrupamento, não é
 aconselhável normalizar os dados extraídos de várias distribuições.
 
 
-
-
-
-
-
 Algoritmos de agrupamento
 
 Os algoritmos de agrupamento podem ser classificados conforme listado abaixo:
@@ -945,11 +855,6 @@ algumas iterações, ele atinge os clusters finais desejados.
 
 Finalmente, o último tipo de agrupamento usa uma abordagem completamente probabilística.
 Vamos falar sobre quatro dos algoritmos de clustering mais usados:
-
-
-
-
-
 
 
 * K-médias
@@ -1021,11 +926,6 @@ centros.
 * Calcule a distância entre cada ponto de dados e centros de cluster.
 
 
-
-
-
-
-
 * Atribua o ponto de dados ao centro do cluster cuja distância do centro do clusterseja a mínima
 de todos os centros do cluster.
 
@@ -1079,11 +979,6 @@ agrupamento de 2
 médias?
 
 
-
-
-
-
-
 Infelizmente, não existe uma solução teórica geral para encontrar o número ótimo de
 clusters para
 qualquer conjunto de dados. Uma abordagem simples é comparar os resultados de várias
@@ -1128,11 +1023,6 @@ pelo
 usuário seja alcançado (a iteração pode ficar presa em alguns máximos ou mínimos locais)
 
 
-
-
-
-
-
 Para uma melhor compreensão, podemos considerar este simples exemplo monodimensional. Dado
 um determinado conjunto de dados, suponha que o represente como distribuído em um
 eixo. A
@@ -1161,11 +1051,6 @@ mais
 ao cluster B do que ao cluster A. O valor 0,2 de 'm' indica o grau de pertinência a A para tal
 ponto de
 dados.
-
-
-
-
-
 
 
 AGRUPAMENTo HIERÁRQUICo.
@@ -1206,11 +1091,6 @@ paramétrica,
 como uma gaussiana. Todo o conjunto de dados é, portanto, modelado por uma mistura
 dessas
 distribuições.
-
-
-
-
-
 
 
 Um modelo de mistura com alta probabilidade tende a ter as seguintes características:
@@ -1263,11 +1143,6 @@ médias (ou centróides) de cada cluster e, em seguida, calcular sua distância 
 pontos
 
 
-
-
-
-
-
 de dados. Os últimos são então rotulados como parte do cluster que é identificado
 pelo centróide
 mais próximo. Esse processo é repetido até que algum critério de convergência seja
@@ -1314,11 +1189,6 @@ probabilidades e devem atender a esta condição:
 527rk = 1 (!)
 
 fc=l
-
-
-
-
-
 
 
 Agora, como determinamos os valores ideais para esses parâmetros? Para conseguir isso,
@@ -1375,11 +1245,6 @@ parâmetros
 da mistura gaussiana, como discutiremos mais adiante.
 
 Da mesma forma, podemos afirmar o seguinte:
-
-
-
-
-
 
 
 O que significa que a probabilidade geral de se observar um ponto que vem da
@@ -1442,11 +1307,6 @@ pM = ^p(xn|z)p(z) = ^TTfcjVjXnlp*.,!:*.)
 fc=l k=l
 
 
-
-
-
-
-
 Esta é a equação que define uma Mistura Gaussiana, e você pode ver claramente que
 ela depende
 de todos os parâmetros que mencionamos anteriormente! Para determinar os valores ótimos
@@ -1503,11 +1363,6 @@ p(zk = 1) = 7Tfc, p(x„|cfc = 1) = jV(xn|^fc,Sfc)
 Então, vamos agora substituí-los na equação anterior:
 
 fl~fc-A/~(xn|pfc, Sfc)
-
-
-
-
-
 
 
 E é isso que estamos procurando! Resumindo um modelo de mistura é uma
@@ -1580,11 +1435,6 @@ nova estimativa dos parâmetros do seu modelo.
 * Repita até a convergência.
 
 
-
-
-
-
-
 PRoBLEMAS ASSoCIADoS E APLICAçõES PoSSÍVEIS Ao AGRUPAMENTo
 
 Há uma série de problemas com clustering. Entre eles:
@@ -1647,11 +1497,6 @@ de elementos de cada transação distinta. É isso que os diferencia da filtrage
 Para elaborar essa ideia — as regras não vinculam as diferentes transações de um
 usuário ao longo
 do tempo para identificar relacionamentos. Ao invés disto, uma lista de itens com IDs de transação
-
-
-
-
-
 
 
 exclusivos (de todos os usuários) são estudadas como um grupo. Isso é útil na colocação
@@ -1723,11 +1568,6 @@ itens e, portanto, nenhuma conclusão pode ser tirada de tal regra.
 Item. 2. Confiança
 
 
-
-
-
-
-
 Esta medida define a probabilidade de ocorrência de consequentes no carrinho dado que
 o carrinho
 já possui os antecedentes. Isso é para responder à pergunta - de todas as transações
@@ -1789,11 +1629,6 @@ negócios.
 Levante os controles para o suporte (frequência) do consequente enquanto calcula a
 probabilidade
 condicional de ocorrência de {Y} dado {X}. Lift é um termo muito literal dado a esta medida. Pense
-
-
-
-
-
 
 
 nisso como o *elevador* que {X} fornece à nossa confiança por termos {Y}
@@ -1873,11 +1708,6 @@ conjuntos de
 itens frequentes e não todos para verificar o número total de conjuntos de itens gerados.
 
 
-
-
-
-
-
 Os conjuntos de itens frequentes são aqueles que ocorrem pelo menos um número mínimo
 de vezes
 nas transações. Tecnicamente, esses são os conjuntos de itens para os
@@ -1928,11 +1758,6 @@ o limite também.
 Essa metodologia é chamada de algoritmo a priori. As etapas envolvidas são:
 
 
-
-
-
-
-
 Gere todos os conjuntos de itens frequentes (suporte > minsup) com apenas um item. Em
 seguida,
 gere conjuntos de itens de comprimento 2 como todas as combinações possíveis dos
@@ -1980,11 +1805,6 @@ a propriedade
 antimonótona do suporte, a confiança das regras geradas a partir do mesmo conjunto de itens
 
 
-
-
-
-
-
 também segue uma propriedade antimonótona. É antimonótono em relação ao número
 de
 elementos em consequente.
@@ -2030,11 +1850,6 @@ Low-Confidence
 
 Começamos com um itemset frequente {a,b,c,d} e começamos a formar regras com apenas um
 consequente. Remova as regras que não satisfazem a condição minconf. Agora, comece a formar
-
-
-
-
-
 
 
 regras usando uma combinação de consequentes das restantes. Continue repetindo até que
@@ -2110,11 +1925,6 @@ conjuntos de
 itens frequentes máximos. No entanto, as informações sobre o suporte dos subconjuntos são
 
 
-
-
-
-
-
 perdidas. Se esse valor for necessário, o conjunto de itens frequentes fechado é outra
 maneira de
 representar todos os conjuntos de itens frequentes.
@@ -2149,80 +1959,4 @@ THIAGO CAVALCANTI
 
 PROFESSOR
 
-
-
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

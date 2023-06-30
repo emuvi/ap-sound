@@ -1,10 +1,6 @@
 Capítulo. Desenvolvimento de Informação - Ciência de dados. Big Data. Processamento distribuído. Data lake.
 
 
-
-
-
-
 Índice
 
 1) Introdução Big Data, NoSQL e Hadoop
@@ -16,11 +12,6 @@ Capítulo. Desenvolvimento de Informação - Ciência de dados. Big Data. Proces
 4) Metadados de Arquivos
 
 5) Questões Comentadas - Big Data, NoSQL e Hadoop - Multibancas
-
-
-
-
-
 
 
 INTRoDUçÃo
@@ -67,11 +58,6 @@ dentre outros.
 E o que esses dados possuem em comum? São dados não-estruturados. Estima-se que 85%
 das
 informações com as quais as empresas lidam hoje não estão estruturadas. Desta forma, o SGBD
-
-
-
-
-
 
 
 tradicional e a modelagem relacional (datados da década de 60) não são mais
@@ -134,11 +120,6 @@ suas decisões todos os
 dias.
 
 
-
-
-
-
-
 necessidade crescente de lidar com dados quase em tempo real. Reagir rápido
 o
 suficiente para lidar com a velocidade é um desafio para a maioria das organizações.
@@ -193,12 +174,6 @@ suas
 atividades antiterroristas e você entenderá a ideia de que Big Data não é só sobre negócios.
 
 RESUMINDO
-
-
-
-
-
-
 
 
 Volume
@@ -310,11 +285,6 @@ valor
 relativamente baixa". Isto é, os dados recebidos na forma original, geralmente tem um
 
 
-
-
-
-
-
 valor baixo em relação ao seu volume. Entretanto, um valor elevado pode ser obtido
 pela
 análise de grandes volumes destes mesmos dados. Assim, as informações geradas devem
@@ -377,11 +347,6 @@ variedade,
 volume, valor e variedade são as mesmas neste contexto. Incluímos mais duas percepções
 que não
 foram listadas acima: governança e pessoas. Vejamos suas definições:
-
-
-
-
-
 
 
 Governança - Ao decidir implementar ou não uma plataforma de big data, uma
@@ -449,11 +414,6 @@ de informação,
 procurando formas inovadoras e rentáveis de processamento da informação, visando uma
 melhor
 percepção dos fatos e uma tomada de decisão mais consistente.
-
-
-
-
-
 
 
 Outra definição da TechAmerica define big data da seguinte forma:
@@ -628,11 +588,6 @@ premissas e
 aplicações, gostaria de tecer alguns comentários sobre falácias ou mitos associados a Big Data.
 
 
-
-
-
-
-
 FALÁCIAS2 SoBRE BIG DATA
 
 Quando pensamos em premissas sobre Big Data imaginamos uma caixa preta que vai receber
@@ -702,11 +657,6 @@ por falácia um raciocínio
 errado com aparência de verdadeiro. Na lógica e na retórica, uma falácia é
 um argumento logicamente
 inconsistente, sem fundamento, inválido ou falho na tentativa de provar eficazmente o que alega.
-
-
-
-
-
 
 
 Falácia 06 - Big Data pode prever o futuro
@@ -781,11 +731,6 @@ Data. Primeiro precisamos considerar os elementos fundamentais para o cresciment
 Data
 tais como o aumento da capacidade de armazenamento, aumento do poder de processamento e
 disponibilidade de dados.
-
-
-
-
-
 
 
 APLICAçõES DE BIG DATA
@@ -868,11 +813,6 @@ alguém
 vai te responder: usa uma base NoSQL com a infraestrutura do Hadoop!
 
 
-
-
-
-
-
 CAIU
 
 na prova!
@@ -933,12 +873,6 @@ Problemas de negócios
 Tipo de big data
 
 Descrição
-
-
-
-
-
-
 
 
 Serviços públicos:
@@ -1015,13 +949,6 @@ classificar Big
 Data, e as possíveis divisões ou grupos em cada categoria. As categorias mais
 relevantes estão em
 azul turquesa.
-
-
-
-
-
-
-
 
 
 Analysis Type
@@ -1103,11 +1030,6 @@ tamanho de
 dados dependem das fontes.
 
 
-
-
-
-
-
 * Sob demanda, como dados de mídia social
 
 * Feed contínuo, em tempo real (dados de clima ou transacionais)
@@ -1176,11 +1098,6 @@ mídia social e armazenamento de dados não estruturados, por exemplo. Os
 padrões atômicos
 
 
-
-
-
-
-
 podem trabalhar em conjunto para criar um padrão composto. Não há camadas ou sequência
 para
 esses padrões atômicos. Por exemplo, os padrões de visualização podem interagir com os
@@ -1210,11 +1127,6 @@ abordagens tradicionais não são sempre a melhor maneira de visualizar os dados
 Os requisitos típicos para visualização de big data, incluindo os requisitos emergentes,
 são listados
 abaixo:
-
-
-
-
-
 
 
 * Realizar análise em tempo real e exibição de dados de fluxo
@@ -1292,11 +1204,6 @@ processadas em horários pré-determinados).
 Vejamos um pouco mais sobre esses padrões a seguir:
 
 
-
-
-
-
-
 Análise de dados históricos
 
 A análise de dados históricos tradicional é limitada a um período predefinido
@@ -1367,11 +1274,6 @@ formato estruturado, envolvendo metadados, relacionado a algum outro dado ou inf
 Gabarito: C
 
 
-
-
-
-
-
 Análise ad hoc
 
 O processamento de consultas ad hoc no big data traz desafios diferentes daqueles
@@ -1436,11 +1338,6 @@ exigirá um tratamento diferente para acessar esses dados.
 (gerados por) Dispositivos
 
 
-
-
-
-
-
 O conteúdo gerado por dispositivos inclui dados de sensores. Os dados são detectados a
 partir das
 origens de dados, como informações sobre o clima, medições elétricas e dados sobre
@@ -1501,11 +1398,6 @@ BigTable é
 um sistema de autogerenciamento tolerante a falhas de grande escala que
 inclui terabytes de
 memória e petabytes de armazenamento.
-
-
-
-
-
 
 
 Armazenamento de dados tradicionais
@@ -1580,11 +1472,6 @@ educação
 mediada por tecnologia.
 
 
-
-
-
-
-
 Comentário: O Big Data poder ser utilizado para melhor conhecer o perfil e o
 comportamento
 dos alunos, para que cursos à distância sejam mais eficazes. Este tipo de sentença CESPE
@@ -1630,11 +1517,6 @@ Ferramentas de Big Data /
 Tecnologias
 
 (Hadoop, Mongo, HPCC,...)
-
-
-
-
-
 
 
 NoSQL
@@ -1697,11 +1579,6 @@ o modelo
 relacional e as estruturas de dados na memória, comumente chamada de incompatibilidade
 de
 impedância. Os modelos de dados relacionais organizam os dados em uma estrutura de tabelas e
-
-
-
-
-
 
 
 linhas, ou, mais apropriadamente, de relações e tuplas. Uma tupla é um conjunto de
@@ -1786,12 +1663,7 @@ distribuídos e de código aberto". As palestras lá realizadas versaram sobre V
 Cassandra,
 Dynomite, HBase, Hypertable, CouchDB e MongoDB, mas o termo nunca ficou limitado a esse grupo
 
-Q-Q 
-
-
-
-
-
+Q-Q
 
 
 original. Não há uma definição genericamente aceita nem uma autoridade para fornecer
@@ -1843,11 +1715,6 @@ ou em uma tabela diferente, o que constitui um relacionamento entre essas entida
 Uma das mudanças mais evidentes trazidas pelo NoSQLé o afastamento do modelo
 relacional. Cada
 solução NoSQL possui um modelo diferente, os quais dividimos em quatro categorias amplamente
-
-
-
-
-
 
 
 utilizadas no ecossistema NoSQL: chave-valor, documento, família de colunas ou colunar, e grafos.
@@ -1939,11 +1806,6 @@ que
 apresentamos anteriormente.
 
 
-
-
-
-
-
 MoDELo DE DADoS CHAVE-VALoR
 
 O modelo de dados chave-valor trata o agregado como um todo opaco, o que significa
@@ -2014,11 +1876,6 @@ que
 sejam executadas consultas e recuperações parciais. Entretanto, pelo fato de o documento não
 
 
-
-
-
-
-
 possuir esquema, o banco de dados não pode atuar muito na estrutura desse documento
 para
 otimizar o armazenamento e a recuperação de partes do agregado.
@@ -2069,11 +1926,6 @@ orientação deixa
 de ser por registros ou tuplas para orientação por colunas. Neste modelo os dados são indexados
 
 
-
-
-
-
-
 por uma trilha (linha, coluna e timestamp), onde as linhas e colunas são identificadas
 por chaves e o
 
@@ -2109,11 +1961,6 @@ Temos
 também o Hbase, que é um banco de dados open source semelhante ao BigTable, que
 utiliza o
 Hadoop.
-
-
-
-
-
 
 
 MoDELo DE GRAFoS
@@ -2194,12 +2041,6 @@ HyperGraphDB. Vejam
 a figura abaixo que apresenta duas características relacionadas aos bancos de dados de
 grafos: o
 processamento e o armazenamento nativo.
-
-
-
-
-
-
 
 
 Microsoft
@@ -2289,13 +2130,6 @@ WACLÉX Oracle
 , BERKELEYDBj BerkeleyBD
 
 
-
-
-
-
-
-
-
 MongoDB
 
 CouchDB
@@ -2304,11 +2138,6 @@ Azure
 DocumentDB
 
 ^TiTAh Titan
-
-
-
-
-
 
 
 FoRMAS DE DISTRIBUIçÃo
@@ -2374,11 +2203,6 @@ sistema
 retorna como resultado a mesma informação. Vejam a figura abaixo:
 
 
-
-
-
-
-
 Peer A
 
 id amount
@@ -2442,11 +2266,6 @@ ACID X BASE
 ACID é um princípio de design de banco de dados relacionado ao gerenciamento de
 transações. É
 um acrônimo que significa: Atomicidade, Consistência, Isolamento e Durabilidade.
-
-
-
-
-
 
 
 ACID é um estilo de gerenciamento de transações que utiliza controles de simultaneidade
@@ -2520,13 +2339,6 @@ que tenha
 sido particionado como um resultado de uma falha de rede.
 
 
-
-
-
-
-
-
-
 DBMS
 
 Partition A
@@ -2576,11 +2388,6 @@ Embora a
 base de dados esteja em processo para atingir o estado de consistência, estaremos em
 um estado
 soft.
-
-
-
-
-
 
 
 Na figura a seguir: 1. Um usuário atualiza um registro. 2. O registro só fica atualizado
@@ -2633,11 +2440,6 @@ processo é
 ilustrado no diagrama a seguir:
 
 
-
-
-
-
-
 Elementos que tenham o mesmo formato de entrada e saída podem ser combinadas em
 pipelines.
 Isso melhora o paralelismo e reduz a quantidade de dados a serem transferidos.
@@ -2652,11 +2454,6 @@ operações
 MapReduce que apenas computem alterações na visão, em vez de computar novamente tudo
 desde
 o início.
-
-
-
-
-
 
 
 HADooP
@@ -2712,11 +2509,6 @@ Store Process
 Hadoop = HDFS + MapReduce
 
 Hadoop tem uma série de vantagens, e algumas delas são:
-
-
-
-
-
 
 
 Baixo custo - Funciona em hardware simples (commodity): Hadoop pode ser
@@ -2778,11 +2570,6 @@ dessas camadas, no
 ecossistema Hadoop:
 
 
-
-
-
-
-
 No Hadoop, sabemos que os dados são armazenados em um ambiente de computação
 distribuída,
 de modo que os arquivos estão espalhados por todo o cluster. Devemos ter um sistema
@@ -2813,11 +2600,6 @@ Pig e Spark.
 A camada de base em Hadoop para a programação distribuída é MapReduce. Se você
 observar a
 figura os outros frameworks rodam em cima do MapReduce.
-
-
-
-
-
 
 
 Hadoop MapReduce: MapReduce é o coração do sistema Hadoop de programação
@@ -2894,11 +2676,6 @@ Micro, e muitos
 mais.
 
 
-
-
-
-
-
 INGESTÃo DE DADoS
 
 O gerenciamento de dados em big data é um aspecto importante e crítico. Temos de
@@ -2937,11 +2714,6 @@ O flume, pode ser visto como uma ferramenta para ingestão de alto volume no Had
 de dados
 baseados em eventos. Por exemplo, coletar arquivos de log de um banco de servidores da Web e,
 em seguida, mover os eventos de log desses arquivos para o HDFS (fluxo de cliques).
-
-
-
-
-
 
 
 O objetivo principal do Flume é ingerir dados de eventos no HDFS (Hadoop Distributed
@@ -3049,11 +2821,6 @@ paralelo. Sqoop
 também é tolerante a falhas.
 
 
-
-
-
-
-
 O Sqoop agenda as tarefas de map reduce jobs para efetivar os imports and exports.
 Ele sempre
 requer um conector e o driver JDBC. Cada driver JDBC serve a um servidor de banco
@@ -3104,13 +2871,6 @@ principais ideias
 da Programação Baseada em Fluxo [fbp]. Apresentaremos alguns dos principais conceitos do
 NiFi e
 como eles são mapeados para o FBP.
-
-
-
-
-
-
-
 
 
 NiFi Term FBP Term Descrição
@@ -3202,11 +2962,6 @@ os dados do evento são indexados e pesquisáveis.
 Vejamos esses componentes na figura abaixo:
 
 
-
-
-
-
-
 NiFi também é capaz de operar dentro de um cluster. Neste caso, cada nó em um cluster NiFi executa
 as mesmas tarefas nos dados, mas, cada um opera em um conjunto diferente de dados. O
 Apache
@@ -3240,9 +2995,6 @@ em tempo real, um fluxo de dados com baixa latência e uma alta taxa de
 transferência, tendo como
 principal objetivo a construção de ligações de transmissão de dados entre sistemas para obtenção
 dos mesmos.
-
-
-
 
 
 Thiago Cavalcanti)
@@ -3294,11 +3046,6 @@ Apache Storm: Apache Storm fornece uma solução em tempo real, escalável e dis
 para
 streaming de dados. Storm permite atividades orientadas a dados e
 automatizadas. Pode ser
-
-
-
-
-
 
 
 utilizado com qualquer linguagem de programação e garante que os fluxos de
@@ -3376,11 +3123,6 @@ em MapReduce, Pig, e Hive, também programas Java e scripts shell, e permite lig
 outros.
 
 
-
-
-
-
-
 Oozie é um serviço extensível, escalável e com reconhecimento de dados. Oozie pode ser usado para
 definir regras, começando e terminando um fluxo de trabalho, e detectando a conclusão de tarefas.
 
@@ -3454,23 +3196,11 @@ integração entre esses
 componentes de forma gráfica. Esperamos que você tenha gostado.
 
 
-
-
-
-
-
 A seguir apresentaremos nossa tradicional lista de questões comentadas! Elas fazem parte
 da aula
 e devem ajudar você na fixação do conteúdo. São apresentadas questões das mais
 variadas bancas
 para abranger de forma mais ampla o conteúdo.
-
-
-
-
-
-
-
 
 
 A maioria das evidências digitais é armazenada no sistema de arquivos do
@@ -3545,11 +3275,6 @@ exemplo, quando os elementos de dados chegaram, onde estão localizados, de onde
 qual é a qualidade dos dados, etc.). Também pode conter quantos registros foram rejeitados
 
 
-
-
-
-
-
 durante a preparação de dados ou uma execução de tarefa, e o sucesso ou fracasso da
 própria
 execução. Os metadados operacionais também identificam com que frequência os dados podem
@@ -3600,11 +3325,6 @@ informações
 podem ser espalhadas pelos arquivos de log que são gravados pelos processos que
 acessam esses
 conjuntos de dados.
-
-
-
-
-
 
 
 DATA LAKE
@@ -3686,11 +3406,6 @@ específicos, mas sempre têm como objetivo traduzir o valor dos dados em uma po
 e armazenamento apropriada. Isso maximiza o armazenamento disponível e dá prioridade aos
 
 
-
-
-
-
-
 dados mais críticos ou de alta utilização. As implementações iniciais de lagos de
 dados muitas vezes
 negligenciaram o ciclo de vida dos dados, pois o baixo custo de armazenamento e a
@@ -3769,18 +3484,8 @@ os dados, e os metadados ajudam a reduzir o tempo de insight1 fornecendo acesso 
 1 1 Descobrir algum padrão ou obter um resultado da análise.
 
 
-
-
-
-
-
 descobrir quais dados estão disponíveis e mantendo um mapa de rastreamento de dados
 completo (linhagem de dados).
-
-
-
-
-
 
 
 QUESTõES CoMENTADAS - MULTIBANCAS
@@ -3842,11 +3547,6 @@ A) Esse conceito de transformar processos de gestão e cultura está associado a
 conceito,
 o de gestão de processos de negócio, conhecido como BPM. Logo, temos uma alternativa
 incorreta.
-
-
-
-
-
 
 
 B) Um Sistema de Recomendação combina várias técnicas computacionais para selecionar
@@ -3916,11 +3616,6 @@ dados.
 (E) rapidez com que os dados se tornam inválidos com o tempo.
 
 
-
-
-
-
-
 Comentário: Essa é a primeira questão de Big Data elaborada pela Cesgranrio. Acho que a falta
 de experiência nesse assunto fez com que as alternativas A e B pudessem ser
 consideradas a
@@ -3987,11 +3682,6 @@ CAIU
 na prova!
 
 Item. 4. Ano: 2018 Banca: CESPE Órgão: TCE-PB Prova: Auditor de Contas Públicas - Demais Áreas
-
-
-
-
-
 
 
 Com referência a big data, assinale a opção correta.
@@ -4063,11 +3753,6 @@ com o Algoritmo de
 Dijkstra.
 
 
-
-
-
-
-
 Gabarito: E.
 
 CAIU
@@ -4133,11 +3818,6 @@ Data,
 a lista de V se expandiu, vejamos cada um deles:
 
 
-
-
-
-
-
 Volume: refere-se à quantidade de dados. O Big Data geralmente tem milhares de
 entidades
 ou elementos em bilhões de registros.
@@ -4185,11 +3865,6 @@ conceitos de
 Infraestrutura, Plataforma e Software como serviço, vamos, primeiramente olhara
 para a
 figura a seguir:
-
-
-
-
-
 
 
 Infrastructure Platform Software
@@ -4315,11 +3990,6 @@ CAIU
 na prova!
 
 
-
-
-
-
-
 Item. 8. Ano: 2017 Banca: FGV Órgão: IBGE Prova: Analista Censitário - Análise de
 Sistemas -
 Desenvolvimento de Aplicações - Web Mobile
@@ -4374,13 +4044,6 @@ Gabarito: D.
 CAIU
 
 na prova!
-
-
-
-
-
-
-
 
 
 Item. 9. Ano: 2015 Banca: CESPE Órgão: TJDFT Cargo: Suporte em Tecnologia da Informação
@@ -4449,11 +4112,6 @@ todo e E -
 (Eventually Consistent) - Consistente em momento indeterminado. Outro ponto importante é
 
 
-
-
-
-
-
 a relação de NoSQL com o modelo de dados, geralmente o banco é considerado schema
 free,
 ou seja, livre de esquema ou de um modelo pré-determinado a priori.
@@ -4520,11 +4178,6 @@ dados
 gerados possuem consistência dentro do contexto. É preciso destacar o que é rico e correto
 
 
-
-
-
-
-
 em conteúdo no meio de tanta informação. Ao garantir essa separação, que é possível
 fazer a
 partir do Big Data, o que sobra são conhecimentos importantes para compreender melhor a
@@ -4589,11 +4242,6 @@ como 3V, e destaca:
 A variedade, visualização, volume;
 
 
-
-
-
-
-
 B velocidade, virtualização, volume;
 C variedade, velocidade, volume;
 
@@ -4655,11 +4303,6 @@ CAIU
 na prova!
 
 Item. 15. ANO: 2014 BANCA: CESPE ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
-
-
-
-
-
 
 
 Julgue os itens que se seguem, no que se refere a Big Data.
@@ -4727,11 +4370,6 @@ entre a requisição e a resposta.
 Gabarito: E.
 
 
-
-
-
-
-
 CAIU
 
 na prova!
@@ -4786,11 +4424,6 @@ diferentes tipos, são eles:
 
 Chave/valor (Key/Value): conhecidos como tabelas de hash distribuídas. Armazenam objetos
 indexados por chaves, e facilita a busca por esses objetos a partir de suas chaves.
-
-
-
-
-
 
 
 Orientados a Documentos: os documentos dos bancos são coleções de atributos e valores
@@ -4862,11 +4495,6 @@ CAIU
 na prova!
 
 
-
-
-
-
-
 Item. 19. ANO: 2014 BANCA: CESPE ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
 
 Acerca de bancos de dados semiestruturados e bancos de dados NOSQL, julgue os itens
@@ -4929,11 +4557,6 @@ Devido à escalabilidade esperada para os bancos de dados NOSQL, a implementaç�
 bancos utiliza modelos de armazenamento de dados totalmente distintos dos utilizados
 em
 sistemas relacionais.
-
-
-
-
-
 
 
 Comentário: Nem todos os modelos de armazenamentos são totalmente distintos dos
@@ -5002,11 +4625,6 @@ CAIU
 na prova!
 
 
-
-
-
-
-
 Item. 23. ANO: 2013 BANCA: CESPE ORGAO: CNJ PROVA: ANALISTA JUDICIÁRIO - ANALISE DE
 SISTEMAS
 
@@ -5063,11 +4681,6 @@ em quatro diferentes tipos, dois deles são citados na questão:
 
 Chave/valor (Key/Value): conhecidos como tabelas de hash distribuídas. Armazenam objetos
 indexados por chaves, e facilita a busca por esses objetos a partir de suas chaves.
-
-
-
-
-
 
 
 Orientado a Grafos: diferente de outros bancos de dados NoSQL, esse está
@@ -5139,11 +4752,6 @@ cloud computing se refere, essencialmente, à noção de utilizarmos, em qualque
 lugar e
 
 
-
-
-
-
-
 independente de plataforma, as mais variadas aplicações por meio da internet com a
 mesma
 facilidade de tê-las instaladas em computadores locais. Dentro deste contexto, tanto
@@ -5159,78 +4767,4 @@ alternativa correta.
 
 Gabarito: C C
 
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

@@ -1,24 +1,5 @@
 Capítulo. Desenvolvimento de Software - Algoritmos.
 
-Concursos
-
-(Profs. Paolla
-Ramos e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Desenvolvimento de
-software - 2023 (Pós-Edital)
-
-Autor:
-
-Paolla Ramos e Silva
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Índice
 
@@ -40,12 +21,6 @@ Paolla Ramos e Silva
 
 9) Métodos de Ordenação - Pesquisa de Dados - Lista de Questões
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 MÉToDoS DE ORDENAçÃo
 
@@ -74,16 +49,10 @@ Vejamos
 um exemplo:
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Na imagem acima, foi colocado um sinal de aspas simples e duplas apenas para
 diferenciá-los,
@@ -95,17 +64,13 @@ ordena todos os elementos, inclusive aqueles que possuem chaves idênticas (sob
 algum outro
 critério).
 
- x' 4
+x' 4
 
-www.estrategiaconcursos.com.br
+
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Esse algoritmo é o primeiro método de ordenação aprendido na faculdade, porque ele é
 bastante
@@ -173,14 +138,6 @@ L[ j + 1] = PIVO
 FIM {INSERÇÃO}
 
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 9 6 2 9 1
 
 XI
@@ -233,16 +190,10 @@ A
 1 2 6 $3 9
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Esse algoritmo consiste em selecionar o menorl elemento de um vetor e trocá-lo (swap)
 pelo item
@@ -301,12 +252,6 @@ algumas vezes o maior, outras vezes o menor.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 p
 
@@ -384,16 +329,10 @@ iguais ao pivô. O Melhor Caso ocorre quando o conjunto é dividido em subconjun
 mesmo
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 tamanho; o Pior Caso ocorre quando o pivô corresponde a um dos extremos (menor ou
 maior
@@ -456,16 +395,10 @@ e o
 gap tenha chegado a 1.
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ALGORITMO SHELLSORT
 
@@ -517,16 +450,10 @@ trivial
 do problema em instâncias menores do mesmo tipo de problema.
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Além disso, deve ser sempre possível utilizar as soluções obtidas com a resolução das
 instâncias
@@ -561,14 +488,6 @@ Melhor Caso Caso Médio Pior Caso
 O(n log n) O(n log n) O(n log n)
 
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 estrutura.
 
 Assim, ao final das inserções, os elementos podem ser sucessivamente removidos da raiz
@@ -588,16 +507,10 @@ armazenamento fora
 do arranjo de entrada é constante durante toda a sua execução.
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ALGORITMO HEAP SORT
 
@@ -635,12 +548,6 @@ MergeSort O(n log n) O(n log n) O(n log n)
 HeapSort O(n log n) O(n log n) O(n log
 n)
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 CoMPLEXIDADE DE ALGoRITMoS
 
@@ -716,16 +623,10 @@ depende de diversos outros fatores,
 mas nosso foco é na visão analítica e, não, empírica.
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 seguintes cartas (também nessa ordem): 8, 7, 6, 5, 4 - nós queremos analisar a
 complexidade de
@@ -789,16 +690,10 @@ ao número n
 de dígitos, i.e., O(n).
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Quando dizemos que um algoritmo é O(n2), estamos querendo dizer que esse
 algoritmo é da
@@ -857,16 +752,10 @@ Eventualmente, as
 questões pedem também caso médio e melhor caso, mas é menos comum. Bacana? :-)
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Por último, uma pergunta muito frequente: Professor, já vi questões cobrando Logaritmo
 na Base
@@ -885,16 +774,10 @@ utilizada na
 representação de complexidade assintótica de algoritmos. Bacana? Exercícios...
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 PESQUISA DE DADoS
 
@@ -968,12 +851,8 @@ DEVOLVA POS
 
 FIM (BUSCASEQUENCIAL}
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 PROCEDIMENTO BUSCA_SEQUENCIAL_REC ( L , N, X )
 
@@ -1057,12 +936,6 @@ DEVOLVA BUSCA_BINARIA(L, X, MEIO + 1, FIM)
 FIM {BUSCA_BINARIA}
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Na imagem abaixo, estamos à procura do valor 23! Em vermelho, encontra-se o elemento
 inicial
 L[0] = 2 e, em amarelo, encontra-se o elemento final L[N-1] = 57. Procuramos, então,
@@ -1081,16 +954,10 @@ L[1] = 23!
 Encontramos? Sim! Então, nossa busca obteve êxito e encontramos o que buscávamos.
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - MÉToDoS DE ORDENAçÃo -
 MULTIBANCAS
@@ -1159,16 +1026,10 @@ tamanho fixo
 is just as
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 efficient in terms of space; only one array is used to store the data. The heap
 sort requires only
@@ -1237,16 +1098,10 @@ Comentários:
 Conforme vimos em aula, trata-se do InsertionSort! Gabarito: C
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 7. (FCC - 2009 - TRT - 15a Região - Analista Judiciário - Tecnologia
 da Informação) São
@@ -1350,14 +1205,8 @@ QuickSort é O(nlog2n), pois ele usa como estrutura básica uma árvore de prior
 Comentários:
 
 
-
-
 , 49
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Algoritmo Melhor Caso Caso Médio Pior Caso
 
@@ -1509,17 +1358,13 @@ complexidade de tempo do algoritmo bubblesort, no pior caso, é:
 
 a) 0(1)
 
- x'
+x'
 
-www.estrategiaconcursos.com.br
+
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) O(log n)
 
@@ -1648,8 +1493,6 @@ O(n2)
 O(n2)
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
@@ -1788,12 +1631,6 @@ complexidade
 de tempo (Big O notation) no pior caso?
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 a) Merge sort
 
 b) Insertion sort
@@ -1900,14 +1737,7 @@ Comentários:
 Algoritmo Melhor Caso Caso Médio Pior Caso
 
 
-
-
 , 49
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 BubbleSort
@@ -2065,13 +1895,6 @@ O(n log n)
 O(n log n)
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-
 HeapSort
 
 O(n log n)
@@ -2141,17 +1964,13 @@ a) pior caso do quicksort é (n lg n).
 
 b) pior caso do mergesort é (n2).
 
- x'"'
+x'"'
 
-www.estrategiaconcursos.com.br
+
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) pior caso do mergesort é (n lg n).
 
@@ -2259,16 +2078,10 @@ i.e., repartindo
 os dados em subgrupos, dependendo de um elemento chamado pivô.
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Neste método, a lista é dividida em parte esquerda e parte direita, sendo que os
 elementos da
@@ -2331,16 +2144,10 @@ Tecnologia da Informação)
 Considere o método de ordenação abaixo.
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 void ordena(int m, int x[]} {
 int âux, j j. i;
@@ -2386,14 +2193,8 @@ vimos, esse
 algoritmo é o Bubble Sort. Gabarito: C
 
 
-
-
 , 49
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - CoMPLEXIDADE DE
 
@@ -2452,16 +2253,9 @@ ilustrada na
 tabela abaixo.
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Time
@@ -2522,16 +2316,10 @@ e o segundo
 é o time Amarelo (O(n log n)). Gabarito: B
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - PESQUISA DE DADoS -
 MULTIBANCAS
@@ -2612,16 +2400,10 @@ pequenas e que mudam constantemente. Observa-se que no Melhor Caso, X está
 na primeira
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 posição, logo necessita apenas de uma comparação; no Pior Caso, X está na última
 posição, logo
@@ -2695,16 +2477,10 @@ conquista. Parte-se do pressuposto de que o vetor está ordenado e realiza suces
 divisões do
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 espaço de busca, comparando o elemento chave com o elemento do meio do
 vetor. Possui
@@ -2745,16 +2521,10 @@ vetor. Possui
 complexidade da ordem de O(log2 n), em que N é o tamanho do vetor de busca. Gabarito: D
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - MÉToDoS DE ORDENAçÃo -
 MULTIBANCAS
@@ -2816,16 +2586,10 @@ algoritmos de classificação por trocas apenas os métodos:
 a) SelectionSort e InsertionSort.
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) MergeSort e BubbleSort.
 
@@ -2890,16 +2654,10 @@ a) Selectionsort (seleção)
 b) Insertionsort (inserção)
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) Merge sort
 
@@ -2966,17 +2724,13 @@ heapsort, assinale a afirmação correta.
 
 a) Utiliza ordenação por árvore de decisão, ao invés de ordenação por comparação.
 
- x'
+x'
 
-www.estrategiaconcursos.com.br
+
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) A estrutura de dados que utiliza, chamada heap, pode ser interpretada como uma
 árvore
@@ -3045,16 +2799,10 @@ b) seleção direta.
 c) inserção por meio de incrementos decrescentes.
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) direta em cadeias.
 
@@ -3099,16 +2847,10 @@ d) Shell Sort.
 e) Quick Sort.
 
 
-
-www.estrategiaconcursos.com.br
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -3142,10 +2884,6 @@ Item. 9. E 18.C
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - CoMPLEXIDADE DE ALGoRITMoS -
 MULTIBANCAS
@@ -3209,15 +2947,11 @@ e) Vermelho.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023
 (Pós-Edital) x' 44
 
-www.estrategiaconcursos.com.br
+
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -3228,14 +2962,8 @@ Item. 1. D
 Item. 2. B
 
 
-
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - PESQUISA DE DADoS -
 MULTIBANCAS
@@ -3309,15 +3037,11 @@ implementada como sendo um vetor a[0...n-1] de n elementos inteiros, utilizando-
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023
 (Pós-Edital) x' 46
 
-www.estrategiaconcursos.com.br
+
 / 49
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 algoritmo de pesquisa binária, o número de vezes que a comparação
 x==a[i] será
@@ -3334,13 +3058,8 @@ d) Iog2(n).
 e) n-=2.
 
 
+I
 
-I www.estrategiaconcursos.com.br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -3355,78 +3074,4 @@ Item. 3. C
 
 Item. 4. D
 
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

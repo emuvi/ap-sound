@@ -1,24 +1,5 @@
 Capítulo. Desenvolvimento de Software - C# e Go.
 
-Concursos
-
-(Profs. Paolla
-Ramos e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Desenvolvimento de
-software - 2023 (Pós-Edital)
-
-Autor:
-
-Paolla Ramos e Silva
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Índice
 
@@ -28,17 +9,6 @@ Paolla Ramos e Silva
 
 3) Desenvolvimento Back-End - C# - Lista de Questões.
 
- x
-
-www.estrategiaconcursos.com.br
-X 57
-
-/
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 DESENVoLVIMENTo BACK-END - C#
 
@@ -71,16 +41,9 @@ Um programa em C# é composto de três partes básicas, e hierárquicas: os Name
 e os Métodos.
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 NAMESPACE
@@ -141,17 +104,13 @@ Console.Writel_ine("Oi! Eu sou o Goku.");
 
 }
 
- x' 4
+x' 4
 
-www.estrategiaconcursos.com.br
+
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 }
 
@@ -189,12 +148,6 @@ Tipo nome_da_variavel [ = valorjnicial ];
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O valorjnicial está entre colchetes pois é opcional. Simples não é? Essa é a
 estrutura básica de
@@ -233,16 +186,10 @@ stringf] Nomes = {"Ana", "Beto", "Carlos", "Daniel", "Elias", "Fernanda",
 "Goku", "Hélio", "lan", "Jonas"};
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Console.Writel_ine("Oi! Eu sou o " + Nomes[6]);
 
@@ -270,14 +217,8 @@ Esta é uma boa classe para representar todos os animais, eles todos fazem essas
 nem todos fazem tudo igual, não é mesmo?
 
 
-
-
 , 57
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Agora, se fossemos criar as classes Hipopótamo e Cachorro quais métodos seriam
 diferentes? De
@@ -314,16 +255,10 @@ public String nome;
 public virtual void FazerBarulho(){
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Console.Writel_ine(" Grunhido");
 
@@ -351,16 +286,10 @@ através desses métodos da classe base. **/
 public class Cachorro : Animal {
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 /** Cachorro será nossa primeira subclasse que extende Animal. Repare
 que o símbolo utilizado para indicar a herança é o sinal de dois
@@ -392,16 +321,10 @@ Console. Writel_ine("?");
 }
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 /** O método FazerBarulhoO na classe Hipopótamo também foi
 sobrescrito, mas digamos que você não saiba o que o método
@@ -434,16 +357,10 @@ TOME
 NOTA!
 
 
-
-www.estrategiaconcursos.com.br
 X 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Mas nem tudo deverá ser público não é mesmo? Para isso o C# possui modificadores de
 acesso,
@@ -482,16 +399,10 @@ Mas o que é uma lista genérica? Elas também são chamadas de Collections. Um 
 própria classe List (que faz parte do framework .Net), outro são os arrays. A questão é que para
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 que possa ser percorrido pelo foreach obrigatoriamente sua coleção implementará
 a interface
@@ -527,16 +438,10 @@ ordem. Caso a lista esteja vazia, o loop não imprimirá nada.
 Muito prático, não é mesmo? Mas como? O quê o foreach executa por trás das cortinas é isso:
 
 
-
-www.estrategiaconcursos.com.br
 X 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 IEnumerator<Pessoa> enumerator = pessoas.GetEnumeratorQ;
 
@@ -581,16 +486,10 @@ var lista = new List<int>();
 for (int i = 0; i < 100; i++)
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 {
 
@@ -635,12 +534,6 @@ diferença é que a cada rodada do loop eu já retorno o objeto que está sendo 
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Dessa forma há um ganho de desempenho, imagine se o loop não fosse só até 100, mas
 fossem
@@ -681,16 +574,10 @@ yield break;
 for (int i = 0; i < 20; i++) {
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 yield return "Outro valor 11 + i;
 
@@ -719,16 +606,10 @@ incluir no início
 do arquivo a linha using System.Linq.
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 INDO
 
@@ -780,16 +661,9 @@ classificacao;
 if-else.
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 if (entrada >
@@ -816,12 +690,6 @@ O operador condicional é associativo à direita. A expressão a ? b : c ? d : e
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - DESENVoLVIMENTo BACK-END
 
@@ -882,16 +750,10 @@ na aba Output.
 Agora ficou fácil não é? Vamos ao teste de mesa:
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 1o passo) i = -5, i <= 7, saída: -5, i = -5 + 3
 
@@ -955,16 +817,10 @@ um foreach
 chamando o método XPTO com os argumentos -10 e 10. Esses argumentos são os parâmetros
 
 
-
-www.estrategiaconcursos.com.br
 X 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 from e to. Eles são os valores de início (from) e fim (to) do for que está dentro
 do método. Então,
@@ -1026,16 +882,10 @@ c) criação e utilização de expressões regulares;
 d) comunicação remota direta com outras aplicações C#;
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) identificação e utilização de Web Services.
 
@@ -1106,8 +956,6 @@ e) AcelerandoPasseando.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
@@ -1177,12 +1025,6 @@ vetor em C#:
 int[] vetor = new int[3] {1, 2, 3 };
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Sem alterar o resultado, essa mesma declaração poderia ser escrita como:
 
 a) int[] vetor = { 1, 2, 3 };
@@ -1240,16 +1082,10 @@ b) full-access, write, write-only, read e read-only.
 c) global, local, nested e virtual.
 
 
-
-www.estrategiaconcursos.com.br
 X 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) public, private, published e protected.
 
@@ -1306,16 +1142,10 @@ b) 10 e 18.
 c) 10 e 20.
 
 
-
-www.estrategiaconcursos.com.br
 X 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) 12 e 19.
 
@@ -1375,16 +1205,10 @@ caberiam, mas se
 você lembrar que split é na verdade um método para separar strings, sobra apenas o partial
 
 
-
-www.estrategiaconcursos.com.br
 X 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Uma classe pode ser dividida em vários arquivos, quando o compilador vê a
 palavra-chave partial
@@ -1442,16 +1266,10 @@ pelo mecanismo de execução do programa quando o objeto está prestes a ser rem
 memória são denominados de:
 
 
-
-www.estrategiaconcursos.com.br
 X 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) Garbage Collection.
 
@@ -1513,17 +1331,13 @@ c) passa como parâmetro o valor da variável x para y, do tipo double.
 
 d) a variável y recebe por referência o valor da variável x do tipo double.
 
- x'"'
+x'"'
 
-www.estrategiaconcursos.com.br
+
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) multiplica o valor da variável int por x e atribui o valor calculado para a variável y.
 
@@ -1579,16 +1393,10 @@ e) Há três tipos de passagem de parâmetros, por valor, por referência e por 
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 (a) É uma linguagem fortemente tipada; (b) Não suporta herança múltipla; (c)
 Ponteiros são
@@ -1601,16 +1409,10 @@ memória, que fica livre para a utilização por outro objeto. Gabarito: E
 Item. 18. (FCC - 2014 - TRF3 - Analista Judiciário - Informática)
 
 
-
-www.estrategiaconcursos.com.br
 X 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Utilize o programa C# abaixo para responder as questões de números 43 e 44.
 
@@ -1721,12 +1523,6 @@ System.Text;
 
 [49] }
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O programa C# apresentado é executado apenas uma vez e finaliza. Para que o programa possa ser
 executado diversas vezes, até que o usuário digite 0 para finalizá-lo é
@@ -1798,16 +1594,10 @@ Console,
 então WriteLine também é um método da classe System.
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) Na linha [11 ]: double celsius = Double.Parse(tempCelsius); significa que double é
 uma classe
@@ -1872,16 +1662,10 @@ d) num é = 4
 e) num é = 5
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -1936,16 +1720,10 @@ d) Compila corretamente, mas apresenta erro de execução.
 e) Apresenta erro na compilação.
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -2007,14 +1785,8 @@ c) Polimorfismo de subtipo
 d) Sobrecarga de operadores
 
 
-
-
 , 57
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) Sobrecarga de métodos
 
@@ -2073,16 +1845,10 @@ possui classes abstratas, polimorfismo (através de sobrecarga e sobreescrita), 
 e que os
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 namespaces servem para organizar as classes de uma biblioteca, e não associá-las. E
 também
@@ -2140,14 +1906,6 @@ Console.Writel_ine("A");
 }
 
 
-
-www.estrategiaconcursos.com.br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 O resultado produzido no console é:
 
 a) PP
@@ -2200,14 +1958,6 @@ namespace TESTE
 class Program
 
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 {
 
 delegate int del(int i);
@@ -2258,14 +2008,8 @@ int j, myF(5), ou seja 5*5 = 25. Engraçado que ele até coloca um comentário c
 Item. 25. Ao final ele apenas escreve o valor de j, transformado em string. Ou seja, 25. Gabarito: B
 
 
-
-
 , 57
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - DESENVoLVIMENTo BACK-END - C#
 
@@ -2299,16 +2043,10 @@ e) 5,-2, 1,4, 7
 Item. 2. (FGV - 2015 - TCE/SE - Analista de Sistemas) Analise o código C# mostrado abaixo.
 
 
-
-www.estrategiaconcursos.com.br
 X 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 namespace ConsoleApplicationl
 
@@ -2366,12 +2104,6 @@ class Program
 
 {
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 static void Main(string[] args)
 
@@ -2441,12 +2173,6 @@ b) Passeando.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) Movendo.
 
@@ -2504,17 +2230,13 @@ c) Carro obj = CarroO;
 
 d) Carro = new CarroO;
 
- , <
+, <
 
-www.estrategiaconcursos.com.br
+
 X 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) obj = CarroQ;
 
@@ -2570,14 +2292,6 @@ c) 10 e 20.
 
 d) 12 e 19.
 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) 12e20.
 
@@ -2636,16 +2350,10 @@ memória são denominados de:
 a) Garbage Collection.
 
 
-
-www.estrategiaconcursos.com.br
 X 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) Destruidores.
 
@@ -2704,14 +2412,8 @@ a) É uma linguagem de programação orientada a objetos, desenvolvida
 pela Microsoft como
 parte da plataforma .NET caracterizada por ser fracamente tipada.
 
- , <
+, <
 
-www.estrategiaconcursos.com.br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) É a única linguagem de programação que suporta herança múltipla pura, ou
 seja, cada classe
@@ -2729,17 +2431,13 @@ e) Há três tipos de passagem de parâmetros, por valor, por referência e por 
 
 18.(FCC - 2014-TRF3-Analista Judiciário - Informática)
 
- x'
+x'
 
-www.estrategiaconcursos.com.br
+
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Utilize o programa C# abaixo para responder as questões de números 43 e 44.
 
@@ -2851,12 +2549,6 @@ System.Text;
 [49] }
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 O programa C# apresentado é executado apenas uma vez e finaliza. Para que o programa
 possa ser
 executado diversas vezes, até que o usuário digite 0 para finalizá-lo
@@ -2920,16 +2612,10 @@ static void Main()
 {
 
 
-
-www.estrategiaconcursos.com.br
 X 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 int num = 1;
 
@@ -2970,12 +2656,6 @@ Item. 22. (CESGRANRIO - 2013 - IBGE - Analista De Sistemas) O que ocorre com
 o programa C#,
 apresentado abaixo, quando é compilado e posteriormente executado?
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 using System;
 publlc cla.33 Prova
@@ -3033,14 +2713,6 @@ fragmento de código C# atinge esse objetivo?
 
 a) Now.ToStringO;
 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) DateTime.Now.ToString( HH:mm );
 
@@ -3100,14 +2772,6 @@ public void PPO
 {
 
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Console.WriteLine("PP");
 
 }
@@ -3151,16 +2815,10 @@ using System;
 namespace TESTE
 
 
-
-www.estrategiaconcursos.com.br
 / 57
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 {
 
@@ -3217,13 +2875,6 @@ Item. 5. A 10. E
 Item. 15. B
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-
 Item. 16. A
 
 Item. 17. E
@@ -3250,78 +2901,4 @@ Item. 27. B
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-www.estrategiaconcursos.com.br
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

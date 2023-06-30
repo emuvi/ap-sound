@@ -1,15 +1,9 @@
 Capítulo. Desenvolvimento de Informação - Processamento de Dados. Massivo e paralelo. Batch. Real time. MapReduce.
 
 
-
 Índice
 
 1) Processamento de Dados
-
-
-
-
-
 
 
 Conteúdo da aula
@@ -23,11 +17,6 @@ Ferramentas de processamento e streaming de dados em tempo real
 CAVALCANTI
 
 PROFESSOR
-
-
-
-
-
 
 
 CoNTEÚDo DA AULA
@@ -102,11 +91,6 @@ distribuída. Alguns autores referem-se a esta disciplina como processamento
 paralelo. A
 comunicação entre processadores é realizada por meio de memória compartilhada ou por
 meio de
-
-
-
-
-
 
 
 passagem de mensagens. Um sistema computacional capaz de executar a computação paralela
@@ -185,11 +169,6 @@ cresceu
 em diversas frentes. Alguns exemplos dessas aplicações incluem:
 
 
-
-
-
-
-
 * Modelagem de incêndios para auxiliar as equipes de bombeiros e ajudar a população
 
 * Modelagem de tsunamis e tempestades de furacões
@@ -266,13 +245,6 @@ check-out é o
 algoritmo. Nesse caso, inclui descarregar itens de uma cesta, escanear os itens para obter um preço
 
 
-
-
-
-
-
-
-
 e pagar pelos itens. Este algoritmo é sequencial (ou serial); deve seguir esta ordem.
 Se houver
 centenas de clientes que precisam executar essa tarefa, o algoritmo para verificar
@@ -323,11 +295,6 @@ importantes
 sobre como incorporar o paralelismo geralmente são tomadas no início de um projeto. Um
 design
 racional é um passo importante para o sucesso. Evitar a etapa de design pode levar a problemas
-
-
-
-
-
 
 
 muito mais tarde. É igualmente importante manter as expectativas realistas e conhecer
@@ -382,11 +349,6 @@ central (CPU) só está disponível por meio de computação paralela.
 O hardware de computação moderno vem equipado com várias unidades de processamento
 central
 (CPUs) e/ou unidades de processamento gráfico (GPUs) que processam vários conjuntos de
-
-
-
-
-
 
 
 instruções simultaneamente. Esses sistemas menores geralmente rivalizam com o
@@ -451,11 +413,6 @@ ferramentas de
 desenvolvimento de software ajudaram a adicionar paralelismo aos nossos kits de
 ferramentas e,
 atualmente, a comunidade de pesquisa está fazendo mais, mas ainda está longe de resolver a lacuna
-
-
-
-
-
 
 
 de desempenho. Isso coloca muito peso sobre nós, os desenvolvedores de software, para
@@ -538,11 +495,6 @@ paralelos-
 mais oportunidades do a mão de obra disponível. Mas, um conhecimento profundo do seu aplicativo
 
 
-
-
-
-
-
 e uma consciência das oportunidades de paralelismo podem levá-lo a um caminho mais
 claro para
 reduzir o tempo de execução dos seus aplicativos.
@@ -614,13 +566,6 @@ projeto térmico
 e Té o tempo de execução do aplicativo.
 
 Vejamos um exemplo ...
-
-
-
-
-
-
-
 
 
 O processador Intel Xeon E5-4660 de 16 núcleos tem uma potência de design térmico de
@@ -701,11 +646,6 @@ temporariamente a atenção da pesquisa direta ou dos objetivos do produto. O
 investimento de
 
 
-
-
-
-
-
 tempo e esforço deve primeiro ser considerado valioso. É sempre mais importante que o
 aplicativo
 seja executado e gere o resultado desejado antes de torná-lo rápido e dimensioná-lo
@@ -759,11 +699,6 @@ essa limitação. Este
 dimensionamento de um problema de tamanho fixo é referido como dimensionamento forte.
 
 
-
-
-
-
-
 Figura 4 - Speedup para um problema de tamanho fixo de acordo com a Lei de Amdahl é mostrado em
 função do número de processadores.
 
@@ -800,11 +735,6 @@ beneficiar de
 mais do que apenas o poder do processador adicional. O dimensionamento em tempo de
 execução
 para este cenário, mostrado na figura a seguir, é chamado de dimensionamento fraco.
-
-
-
-
-
 
 
 Number of processors
@@ -845,8 +775,6 @@ I—II—II—II—I
 1000
 
 
-
-
 □□□□
 
 250 □□□□
@@ -854,11 +782,6 @@ I—II—II—II—I
 Figura 6 - O dimensionamento forte mantém o tamanho geral de um problema e o divide em
 processadores adicionais. No escalonamento
 froco, o tamanho da malha permanece o mesmo paro cada processador e o tamanho total aumenta.
-
-
-
-
-
 
 
 O termo escalabilidade é frequentemente usado para se referir a se mais paralelismo
@@ -958,11 +881,6 @@ software e
 paralelismo para desenvolver um aplicativo. É mais do que apenas passar mensagens ou encadear. O
 
 
-
-
-
-
-
 hardware e o software atuais oferecem muitas opções diferentes para levar a
 paralelização ao seu
 aplicativo. Algumas dessas opções podem ser combinadas para gerar ainda mais
@@ -1012,11 +930,6 @@ desenvolvedor pode adotar
 * Paralelização baseada em processos
 
 * Paralelização baseada em thread
-
-
-
-
-
 
 
 * Vetorização
@@ -1085,11 +998,6 @@ velocidade de
 cálculo é fundamental se quisermos que resultados em tempo real informem nossas decisões.
 
 
-
-
-
-
-
 Figura 9 - Um exemplo de domínio espacial 2D para uma simulação numérica. As simulações numéricas
 geralmente envolvem operações de
 estêncil1 ou grandes sistemas vetoriais de matriz. Esses tipos de operações são frequentemente
@@ -1119,11 +1027,6 @@ de um grupo nodal que se
 relaciona com o ponto de interesse usando uma rotina de aproximação numérica.
 
 
-
-
-
-
-
 PASSO 2: DEFINA UM KERNEL COMPUTACIONAL, OU OPERAÇÃO, PARA CONDUZIR EM CADA
 ELEMENTO DA MALHA
 
@@ -1142,11 +1045,6 @@ executa
 uma operação de desfoque usando uma média ponderada dos valores de estêncil.
 
 xj,i ~ (xj,i—l + xj-l,i + xj,i + xj,i+l +
-
-
-
-
-
 
 
 Na figura acima, um operador de estêncil de cinco pontos como um padrão cruzado na
@@ -1199,11 +1097,6 @@ executada em um único ciclo de clock com
 pouco custo de energia adicional à operação serial.
 
 
-
-
-
-
-
 ETAPA 4: THREADS PARA IMPLANTAR MAIS DE UM CAMINHO DE COMPUTAÇÃO PARA ENVOLVER
 MAIS NÚCLEOS DE PROCESSAMENTO
 
@@ -1228,11 +1121,6 @@ espaço entre as
 linhas como na figura abaixo.
 
 Vector unit
-
-
-
-
-
 
 
 Na figura acima observamos que este algoritmo pode ser paralelizado ainda mais
@@ -1307,11 +1195,6 @@ são distribuídos entre os grupos de
 trobolho do GPU.
 
 
-
-
-
-
-
 Esses são números impressionantes, mas, neste momento, devemos moderar as
 expectativas
 reconhecendo que a aceleração real está muito aquém desse potencial total. Nosso
@@ -1364,14 +1247,6 @@ evento, janela ou, no máximo,
 em nível de microlote
 
 
-
-
-
-
-
-
-
-
 Administração eficiente e
 fácil
 
@@ -1404,11 +1279,6 @@ Aqui estão algumas das principais ferramentas de streaming de dados em tempo re
 O Flume é conhecido por ter conectividade bem estabelecida, é compatível com o Hadoop
 e requer
 um alvo predefinido chamado sink. O Flume é uma das ferramentas mais amplamente suportadas
-
-
-
-
-
 
 
 entre todas as distribuições comerciais do Hadoop. Além de ser uma
@@ -1480,11 +1350,6 @@ ampliar ainda mais suas habilidades.
 #5. AMAZON KINESIS
 
 
-
-
-
-
-
 Com o Amazon Kinesis, as empresas podem criar aplicativos de streaming em tempo real
 usando
 bibliotecas Java e editor SQL. O Kinesis cuida do trabalho pesado de executar os
@@ -1502,91 +1367,8 @@ usado para
 aprender algoritmos para análises aprofundadas.
 
 
-
-
-
-
-
-
-
 THIAGO CAVALCANTI
 
 PROFESSOR
 
-
-
-www.estrategiaconcursos.com.br
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

@@ -1,35 +1,10 @@
 Capítulo. Desenvolvimento de Software - Java.
 
-Concursos
-
-(Profs. Paolla
-Ramos e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Desenvolvimento de
-software - 2023 (Pós-Edital)
-
-Autor:
-
-Paolla Ramos e Silva
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Índice
 
 1) Java SE - Conceitos Básicos - Teoria
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 APRESENTAçÃo DA AUU\
 
@@ -82,13 +57,8 @@ tenho que fazer. Portanto, deem o máximo que vocês podem dar, lembrem-se é po
 seus SONHOS!
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -147,17 +117,8 @@ execução num mesmo programa);
 * Desalocação de memória automática por processo de coletor de lixo;
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Carga Dinâmica de Código - Programas em Java são formados por uma coleção de classes
 armazenadas independentemente e que podem ser carregadas no momento de utilização.
@@ -201,15 +162,8 @@ US$
 7,4 bilhões, com o objetivo de levar o Java e outros produtos da Sun ao dispor dos consumidores.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Há anos falava-se que Java era lento, porém houve melhorias na JVM incluindo o
 compilador
@@ -283,15 +237,8 @@ grande variedade de operações paralelas. Respiração, circulação sanguínea
 pensar e
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 caminhar, por exemplo, podem ocorrer em paralelo, assim como todos os
 sentidos — visão,
@@ -367,16 +314,11 @@ de
 aplicações Java em uso hoje. Java é uma linguagem multiplataforma, orientada
 a objetos e
 
- x" 7
+x" 7
 
-www.estrategiaconcursos.com.br
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 centrada em rede que pode ser usada como uma plataforma em si. É uma
 linguagem de
@@ -446,17 +388,8 @@ COISAS
 Vejamos agora as quatro principais edições Java:
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Java Standard Edition (Java SE): O Java Standard Edition é a
 plataforma central de
@@ -504,15 +437,8 @@ apresenta
 bibliotecas específicas para dispositivos móveis.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 HJAVASE^^? IM1
 
@@ -571,12 +497,6 @@ usuário
 final da plataforma Java para rodar aplicações.
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 b
 
 JDK: DESENVOLVER,TESTAR E
@@ -619,15 +539,8 @@ linguagens de alto nível são preferíveis às de máquina. Java é uma das lin
 programação
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 de alto nível mais amplamente usadas.
 
@@ -669,15 +582,8 @@ Ta-dahü! Essa é a mágica do Java! Compilare interpretar códigos.
 Então quando Java compila (ou converte) todo o código .java transforma-o em um arquivo .class.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 PROVA!
 
@@ -685,17 +591,8 @@ PROVA!
 funcionamento da Java Virtual Machine-JVM.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Java Code (java)
 
@@ -723,17 +620,8 @@ que é exatamente o
 bytecode(Gabarito: Letra B).
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Ambiente típico de desenvolvimento Java — fase de edição.
 Fase 1: criando um programa
@@ -781,15 +669,8 @@ local
 ou rede corporativa ou a internet).
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Memória
 
@@ -814,15 +695,8 @@ Memória
 Verificador de bytecode
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O verificador de bytecode confirma que todos os bytecodes são válidos e não violam
 restrições de
@@ -872,17 +746,8 @@ programa
 existe na memória ele pode armazenar valores de dados na memória principal.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 (CESPE / SERPRO - 2021) A compilação de um programa JAVA para ambiente
 Windows gera um programa com extensão EXE, o qual é executado pelo sistema
@@ -895,16 +760,6 @@ Comentários: Pessoal, na verdade, não há a extensão EXE no ambiente citado. 
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 3ava Virtual Machine (JVM)
 
@@ -941,12 +796,7 @@ operacional para que o programa Java funcione na máquina.
 Passagem por Valor e por referência
 
 
-
-
 www. estra tegiaconcursos. com. br
-
-
-
 
 
 Duas maneiras de passar argumentos em chamadas de método em muitas linguagens
@@ -997,17 +847,8 @@ método chamador
 referenciam o mesmo objeto na memória.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 PASSAGEM DE PARÂMETROS POR VALOR
 
@@ -1059,15 +900,8 @@ pacote é um
 conjunto de arquivos e diretórios em um formato definido.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Os componentes de um pacote se dividem em duas categorias.
 
@@ -1110,9 +944,6 @@ Optional Installation Scripts
 (request, checkinstall.
 Procedure, and Class Action)
 
-
-
-www.estrategiaconcursos.com.br
 
 /
 
@@ -1173,15 +1004,8 @@ invocar os
 métodos da classe Object, tais como equalsQ e toString().
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 HERANÇA
 
@@ -1196,13 +1020,6 @@ CARACTERÍSTICAS DA CLASSE BASE
 SEMPRE UTILIZADA EM JAVA, MESMO QUE NÃO EXPLICITAMENTE
 
 JAVA OFERECE MECANISMOS PARA DEFINIR CLASSES DERIVADAS A PARTIR DE CLASSES EXISTENTES
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 jobject
@@ -1320,16 +1137,6 @@ construir servlets.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Os 5 métodos que definem o ciclo de vida de uma applet são:
 
 í. init() - inicialização; chamado quando a applet é inicialmente carregada;
@@ -1355,16 +1162,10 @@ II. O método destroy é chamado pelo contêiner de applets quando o applet é r
 da memória.
 
 
-
-www.estrategiaconcursos.com.br
 / 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 III. Cinco métodos do ciclo de vida de um applet são chamados pelo contêiner de applets
 entre o momento em que o applet é carregado no navegadore o momento em que ele
@@ -1425,32 +1226,16 @@ para execução de uma atividade específica dentro de páginas HTML. Assim, ess
 páginas podem ser visualizadas em um browser.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários: Pessoal, applets sempre executam nos clientes web, são escritos em Java,
 podem ser visualizadas em um
 browser. (Gabarito: Correto).
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Sintaxe
 
@@ -1523,17 +1308,8 @@ NÃO PODE CONTER ESPAÇOS EM BRANCOS OU OUTROS CARACTERES DE FORMATAÇÃO;
 DEVE SER A COMBINAÇÃO DE UMA OU MAIS LETRAS E DÍGITOS UNICODE-16
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Observações: caracteres compostos (acentuados) não são interpretados igualmente aos
 não
@@ -1598,17 +1374,13 @@ indicando o número da figura e o nome do arquivo.
 
 // Programa de impressão de texto.
 
- s'"
+s'"
 
-www.estrategiaconcursos.com.br
+
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O Java também tem comentários tradicionais, que podem ser distribuídos ao
 longo de várias
@@ -1678,15 +1450,8 @@ DEFAULT Especifica 0 bloco de código padrão em uma instrução switch
 DO Usado junto com while para criar um loop do-while.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Um tipo de dados que pode armazenar números inteiros de 1,70-308 a 1,70+308
 Usado em instruções condicionais
@@ -1756,16 +1521,6 @@ Refere-se a objetos da superclasse (pai)
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Seleciona um dos muitos blocos de código a serem executados
 
 Um modificador sem acesso, que especifica que os métodos só podem ser
@@ -1831,15 +1586,8 @@ PÚBLICO
 PACOTE
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Tipos Primitivos
 
@@ -1898,17 +1646,12 @@ correspondente (por exemplo, o método parselnt, que converte uma String em um v
 int, está
 localizado na classe Integer).
 
- x-'"
+x-'"
 
-www.estrategiaconcursos.com.br
+
 ./ 183
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 DECIMAL
@@ -1978,15 +1721,8 @@ int, long, float; decimal: double. Das opções apresentadas, a única gue não 
 (Gabarito: Letra C).
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Operadores
 
@@ -2094,15 +1830,8 @@ r
 Operadores Lógicos:!, &&, ||.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Operadores Bit a Bit (ou Bitwise): &, |, A, «, », »>.
 
@@ -2175,16 +1904,10 @@ primeiro aqueles que tiverem maior precedência. Se existirem operadores com o m
 valor de
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 precedência, será realizado primeiro aquele cujo símbolo aparecer primeiro. É possível
 alterar a
@@ -2262,17 +1985,13 @@ numero=436|547;
 
 //numero passa a valer 951
 
- s'"
+s'"
 
-www.estrategiaconcursos.com.br
+
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Precedência 7: operadores de igualdade
 
@@ -2364,15 +2083,8 @@ deslocados.
 Exemplos de uso:
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 int numero=-3; //numero vale -3
 
@@ -2480,15 +2192,8 @@ inteiros.
 Já a operação de negação ! transforma "verdadeiro" em "falso" e vice-versa, só podendo ser usado
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 em variáveis do tipo boolean. Também só funcionam em variáveis, não em literais.
 Exemplos de
@@ -2577,17 +2282,13 @@ System.out.println(numero); //É exibido 6, valor
 incrementado
 na instrução anterior.
 
- s'"
+s'"
 
-www.estrategiaconcursos.com.br
+
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Pessoal, para entender o que é abordado, é necessário ter conhecimento das operações
 lógicas.
@@ -2629,16 +2330,6 @@ resultado de A|B é ooinioi. (Gabarito: Letra B).
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Vetores
 
@@ -2697,17 +2388,8 @@ identificador = nome do vetor.
 Veja um vetor de duas dimensões e vinte e cinco elementos (5 x 5):
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Ele possui 25 elementos que são acessados (referenciados) pelos índices:
 [o][o], [i][o], [2][O], [3][o], [4][o],
@@ -2754,12 +2436,6 @@ Outro modo de uso é declarando, iniciando com o tamanho (quantidade de elemento
 vetor e
 depois atribuindo os valores, como o equivalente a seguir:
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 int[] vetor= new int [4];
 vetor={34, 27, 3, 2};
@@ -2817,16 +2493,6 @@ assim: para cada elemento String (chamado i - como no índice) em cars, imprima 
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Se você comparar o loop for com o loop for-each , verá que o método for -each é
 mais fácil de
 escrever, não requer um contador (usando a propriedade length) e é mais legível.
@@ -2857,15 +2523,8 @@ questão, como foi solicitado o ultimo elemento do array, o correto seria utiliz
 (Gabarito: Letra B).
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Conversão de Tipos
 
@@ -2906,16 +2565,10 @@ System out.println(myDouble); // Outputs 9.0
 }
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A redução da conversão deve ser feita manualmente, colocando o tipo entre parênteses
 na frente do valor:
@@ -2935,16 +2588,10 @@ System out.println(mylnt); // Outputs 9
 }
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Controle de Fluxo
 
@@ -3017,18 +2664,8 @@ incondicionalmente exibida
 A saída gera o resultado: 8 PM é o mesmo que 20 horas.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A instrução if...else, também conhecida como instrução if-then-else, a instrução de
 seleção dupla
@@ -3105,17 +2742,13 @@ em false, e a 2 em true.
 
 } else {
 
- s'"
+s'"
 
-www.estrategiaconcursos.com.br
+
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 // Instruções a serem executadas caso as expressões booteanas 1
 e 3
@@ -3192,16 +2825,10 @@ System.out.print(hora + " PM é o mesmo que " + hora +
 " horas.");
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 No exemplo acima há um recurso estilístico para indentar o código com a finalidade de
 aprimorar
@@ -3238,7 +2865,6 @@ horas. ") *
 System.out.pri nt(hora + " AM é o mesmo que " + hora +
 
 System.out.pri nt(hora + " PM é o mesmo que " + hora +
-
 
 
 A instrução switch por vezes chamada de switch...case possibilita a execução condicional
@@ -3278,15 +2904,11 @@ ou mais
 
 x-"'" 52
 
-www.estrategiaconcursos.com.br
+
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 instruções, incluindo a palavra-chave break que será abordada mais adiante. Ao
 iniciar outra
@@ -3355,16 +2977,10 @@ System.out.print("Segunda ");
 case 3:
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 System.out.print("Terça ");
 case 4:
@@ -3432,17 +3048,13 @@ break;
 case 7:
 System.out.print("Sábado ");
 
- x-'"
+x-'"
 
-www.estrategiaconcursos.com.br
+
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 case 0:
 
@@ -3491,17 +3103,8 @@ do {
 while (condition);
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O exemplo abaixo usa um loop do/while. O loop sempre será executado pelo menos uma
 vez,
@@ -3532,15 +3135,8 @@ oferecida, portanto, permite que um conjunto de instruções não seja executada
 (Gabarito: Letra A).
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Classes e Objetos
 
@@ -3582,14 +3178,9 @@ através do nosso modelo que é a classe.
 
 ^7
 
-www.estrategiaconcursos.com.br
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Tudo em Java está associado a classes e objetos, juntamente com seus atributos e
 métodos. Por
@@ -3626,15 +3217,8 @@ objeto de uma classe antes que um programa possa executar as tarefas que os mét
 da
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 classe definem. O processo para fazer isso é chamado instanciação. Um objeto é então
 referido
@@ -3703,15 +3287,8 @@ atributos, como cor, número de portas, quantidade de gasolina no tanque,
 velocidade atual e
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 registro das milhas totais dirigidas (isto é, a leitura do hodômetro). Assim como suas
 capacidades,
@@ -3782,15 +3359,11 @@ System.out.pri ntln(myObj.x);
 
 x-"'" 60
 
-www.estrategiaconcursos.com.br
+
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A palavra-chave final é útil quando você deseja que uma variável armazene sempre o
 mesmo
@@ -3858,15 +3431,8 @@ A classe só é acessível por classes no mesmo pacote. Isso é usado quando voc
 especifica um modificador.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para atributos, métodos e construtores, você pode usar um dos seguintes:
 
@@ -3931,15 +3497,8 @@ ABSTRACT A classe não pode ser usada para criar objetos. Para acessar uma class
 deve ser herdada de outra classe.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para atributos e métodos, você pode usar um dos seguintes:
 
@@ -3986,17 +3545,8 @@ a) final.
 b) native.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) volatile.
 
@@ -4069,16 +3619,10 @@ int x; // Create a class attribute
 public Main() {
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 x = 5; // Set the initial value for the class attribute x
 
@@ -4150,15 +3694,8 @@ inicialização
 difíceis de detectar.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ESTA CAI NA
 
@@ -4213,15 +3750,8 @@ III. Ficam acessíveis somente para suas classes derivadas.
 Está correto o que se afirma em
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) I, apenas.
 
@@ -4241,16 +3771,6 @@ apenas o item I. (Gabarito: Letra A).
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Herança e Encapsulamento
 
@@ -4318,17 +3838,8 @@ return StrNome;
 }
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 }
 
@@ -4406,12 +3917,8 @@ obj.printHello() ;
 
 }
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ESTA CAI NA
 
@@ -4449,15 +3956,8 @@ programação Java.
 public class DocumentoProcesso extends Object
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 private String docNumero;
 private int classificacao;
@@ -4521,16 +4021,10 @@ public int promoveO
 }
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Com base nos conceitos de orientação a objetos, é correto afirmar que:
 
@@ -4590,15 +4084,8 @@ dos tipos
 de dispositivo em que esses itens serão armazenados.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 INTERFACES
 
@@ -4647,12 +4134,6 @@ O polimorfismo permite escrever programas que processam objetos que compartilham
 superclasse, direta ou indiretamente, como se todos fossem objetos da superclasse; isso
 pode
 simplificara programação.
-
-
-
-
-1 www.estrategiaconcursos.com.br
-
 
 
 
@@ -4726,17 +4207,8 @@ armazenado na
 variável da superclasse.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 POLIMORFISMO
 
@@ -4789,15 +4261,8 @@ métodos com o mesmo nome que realizam as mesmas tarefas, ou tarefas semelhantes
 sobre tipos diferentes ou números diferentes de argumentos.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O compilador distingue os métodos sobrecarregados pelas suas assinaturas
 — uma
@@ -4819,14 +4284,10 @@ dos nomes e número, tipos e ordem dos parâmetros dos métodos, mas não pelost
 
 
 7$
-www.estrategiaconcursos.com.br
+
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Tratamento de Exceções
 
@@ -4897,17 +4358,8 @@ antes
 de passar para a próxima, de modo que todas as tarefas continuem progredindo. Por exemplo, é
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 comum que computadores pessoais compilem um programa, enviem um arquivo para
 uma
@@ -4955,14 +4407,10 @@ se que uma thread no estado executável está executando sua tarefa.
 
 
 7%
-www.estrategiaconcursos.com.br
+
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Às vezes a thread executável transita para o estado de espera enquanto aguarda
 outra thread realizar uma tarefa. Uma thread em espera volta ao estado executável
@@ -5024,15 +4472,8 @@ partir do estado novo, ela está no estado pronto. Uma thread pronta entra no es
 de execução
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 (isto é, começa a executar) quando o sistema operacional a atribui a um processador —
 também
@@ -5112,17 +4553,13 @@ primitivos sejam empacotados como objetos para uso com classes genéricas. Assim
 
 ArrayList<Integer> integers;
 
- x-'"
+x-'"
 
-www.estrategiaconcursos.com.br
+
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 declara integers como um ArrayList que só pode armazenar Integers. Ao inserir um valor
 int em
@@ -5193,15 +4630,8 @@ outros
 contêineres da lista.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 MÉTODOS LINKEDLIST | DESCRIÇÃO
 
@@ -5260,15 +4690,8 @@ devem ser únicas, mas os valores associados não precisam ser. Se um Map conté
 únicas
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e valores únicos, diz-se que implementa um mapeamento de um para um. Se somente as
 chaves
@@ -5338,15 +4761,8 @@ TREEMAPS ARMAZENAM ELEMENTOS EM UMA ÁRVORE.
 HASHMAP RECEBE DOIS ARGUMENTOS - 0 TIPO DA CHAVE E 0 TIPO 00 VALOR.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Streams e Serialização
 
@@ -5400,17 +4816,8 @@ paralelização sem
 efeitos indesejados em tempo de execução.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A proposta em torno da Streams API é fazer com que o desenvolvedor não se preocupe
 mais
@@ -5485,16 +4892,11 @@ mesmo número de elementos que o fluxo original.
 SORTED Resulta em um fluxo em que os elementos estão em ordem classificada. 0 novo
 fluxo tem o mesmo número de elementos que o fluxo original.
 
- -s""
+-s""
 
-www.estrategiaconcursos.com.br
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 FOREACH Realiza o processamento em cada elemento em um fluxo (por exemplo, exibircada
 elemento).
@@ -5550,17 +4952,7 @@ código faz.
 TIPO | DESCRIÇÃO
 
 
-
-
 www. estra tegiaconcursos. com. br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 NOMES E IDENTIFICADORES DE
@@ -5646,16 +5038,6 @@ inteiros, c, d, e e para caracteres.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 CONSTANTES Constantes devem ter todas as letras maiúsculas separadas por underline
 
 As boas práticas de programação chamam a atenção a técnicas que irão
@@ -5710,9 +5092,6 @@ expressões algébricas.
 você. Se existem vários níveis de recuo, cada nível deve ser recuado pela mesma quantidade
 adicional de espaço.
 
-
-
-www.estrategiaconcursos.com.br
 
 /
 
@@ -5778,15 +5157,8 @@ como
 Java para ajudar os desenvolvedores a serem mais produtivos.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Java 17 é o mais recente lançamento de suporte de longo prazo (LTS) sob a cadência
 de
@@ -5879,15 +5251,8 @@ código Java do lado do cliente por muitos anos e, raramente, foi usado para
 proteger 0 código do lado do servidor. Removê-lo em uma versão futura ajudará
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a eliminar uma carga de manutenção significativa e permitirá que a plataforma
 Java avance.
@@ -5928,15 +5293,8 @@ setembro
 de 2024.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 REFERÊNCIAS
 
@@ -5948,17 +5306,8 @@ Furmankiewicz;
 revisão técnica Fabio Lucchini. -- São Paulo: Pearson Education do Brasil, 2017
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 RESUMo
 
@@ -6005,17 +5354,8 @@ ROBUSTA
 PORTÁVEL
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Java é uma linguagem WORA, que significa Write once, run anywhere ou "Escreva uma vez,
 execute em qualquer lugar"
@@ -6107,16 +5447,10 @@ geralmente criado e construído por um desenvolvedor de aplicativos depois de
 terminar de
 
 
-
-www.estrategiaconcursos.com.br
 / 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 desenvolvero código do aplicativo. Um produto de software precisa serconstruído em um
 ou mais
@@ -6149,13 +5483,6 @@ CARACTERÍSTICAS DA CLASSE BASE
 SEMPRE UTILIZADA EM JAVA, MESMO QUE NÃO EXPLICITAMENTE
 
 JAVA OFERECE MECANISMOS PARA DEFINIR CLASSES DERIVADAS A PARTIR DE CLASSES EXISTENTES
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 jobject
@@ -6251,17 +5578,13 @@ FECHADO.
 
 Identificadores
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O Java é case sensitive, ou seja, Java diferencia maiúsculas de minúsculas: "MyClass" e "myclass"
 têm significados diferentes assim como Analista é diferente de analista.
@@ -6319,16 +5642,6 @@ ENUM Declara um tipo enumerado (imutável)
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Estende uma classe (indica que uma classe é herdada de outra classe)
 
@@ -6400,16 +5713,6 @@ Refere-se ao objeto atual em um método ou construtor
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Cria um erro personalizado
 
 Indica quais exceções podem ser lançadas por um método
@@ -6476,7 +5779,7 @@ MÁXIMO DEFAULT
 LÓGICO boolean
 false true false
 
-* 
+*
 
 
 CARACTERE char 16 bits
@@ -6561,15 +5864,7 @@ SUFIXAIS
 PREFIXAIS
 
 
-
-www.estrategiaconcursos.com.br
-
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 MULTIPLICATIVOS
@@ -6630,16 +5925,10 @@ Ampliação da transmissão (automaticamente) - convertendo um tipo menor em um 
 tipo maior:
 
 
-
-www.estrategiaconcursos.com.br
 / 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 k
 
@@ -6669,16 +5958,10 @@ I SWITCH: ESPECIFICA MUITOS BLOCOS ALTERNATIVOS DE CÓDIGO A SEREM EXECUTADOS
 NÃO ESQUEÇA DE AUMENTAR A VARIÁVEL USADA NA CONDIÇÃO, CASO CONTRÁRIO 0 LOOP NUNCA TERMINARÁ!
 
 
-
-www.estrategiaconcursos.com.br
 / 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Classes e Objetos
 
@@ -6703,12 +5986,6 @@ para criar
 objetos.
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Pessoal, uma classe é uma "coisa" mais generalista, por
 exemplo, fruta, carro... Já, o objeto consiste na
 "especificação" daquela "coisa". Como é o caso do carro
@@ -6729,15 +6006,8 @@ Quando os objetos individuais são criados, eles
 herdam todas as variáveis e métodos da classe.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 MODIFICADOR DE ACESSO - CONTROLA 0 NIVEL DE ACESSO.
 MODIFICADOR DE NÃO ACESSO - FORNECEM OUTRAS FUNCIONALIDADES
@@ -6787,16 +6057,10 @@ O valor de um atributo não é armazenado em cache localmente e é sempre lido n
 "memória principal"
 
 
-
-www.estrategiaconcursos.com.br
 / 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ENCAPSULAMENTO E OCULTAMENTO DE INFORMAÇÕES
 
@@ -6833,17 +6097,8 @@ Sincronismo e Multithreading
 A qualquer momento, diz-se que uma thread está em um de vários estados de thread
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 DESCRIÇÃO
 
@@ -6872,16 +6127,6 @@ período, não têm de realizar nenhuma tarefa. Por exemplo, um processador de t
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 pode conter uma thread que grave periodicamente backups (isto é, grava uma cópia)
 do documento atual no disco para fins de recuperação. Se a thread não dormisse
@@ -6939,15 +6184,8 @@ mais elementos.
 MÉTODOS ARRAYLISfJ DESCRIÇÃO
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Adiciona um elemento ao final do ArrayList.
 Remove todos os elementos do ArrayList.
@@ -7001,15 +6239,8 @@ GETl) Retorna o valor associado com a chave k;
 REMOVE(K) Remove a entrada que tiver chave igual a k;
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 UM SET É UMA COLLECTION NÃO ORDENADA QUE NÃO CONTÉM ELEMENTOS B^5B
 
@@ -7027,17 +6258,8 @@ A CLASSE TREESET IMPLEMENTA SORTEDSET.
 Streams e Serialização
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Code Conventions
 
@@ -7100,16 +6322,6 @@ arquivos de código, métodos ou algum algoritmo dentro de um método. Procure
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 sempre inserir uma linha em branco antes do bloco de comentários. Os
 comentários de linha são para comentários curtos, e devem ser precedidos com
@@ -7178,17 +6390,6 @@ diferentes PRNGs e torna mais fácil solicitar um algoritmo com base em
 requisitos, em vez de codificar uma implementação específica.
 
 
-
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 JEP 382: NOVO PIPELINE DE
@@ -7280,16 +6481,6 @@ equivalentes.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 QUESTõES CoMENTADAS - FCV
 
 í. (FGV / CGU - 2022) Observe o trecho de código a seguir.
@@ -7353,15 +6544,8 @@ Agora vamos
 analisaro código. No código há três interfaces, Segunda, Terca e Quarta além das classes Sexta e
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Quinta. Sendo que a classe Quinta é classe pai, ou superclasse, e a classe Sexta é
 classe filha, ou
@@ -7427,18 +6611,8 @@ public int promoveO
 {return classificacao + 1;}
 
 
-
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 public class Oficio extends DocumentoProcesso
 
@@ -7515,15 +6689,8 @@ enquanto um
 método setter o define ou atualiza seu valor.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra E
 
@@ -7597,17 +6764,8 @@ I. Deve receber o mesmo nome da classe a ele associada.
 II. Não deve ser especificado um tipo de retorno na sua declaração.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 III. É útil para a definição de valores iniciais para os atributos da classe.
 
@@ -7660,7 +6818,6 @@ String out = (aAb)==o ? "Sim": (a & b)!=0
 System.out.println(out);
 
 
-
 A execução do código acima produzirá
 
 a) um erro de compilação.
@@ -7674,16 +6831,10 @@ d) a linha "Não".
 e) a linha "Talvez".
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -7748,15 +6899,8 @@ superclasse
 Throwable. Uma imagem para lembrarda hierarquia de exceções.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra E
 
@@ -7792,16 +6936,10 @@ subclasses! Portanto nosso gabarito é apenas o item I.
 Gabarito: Letra A
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 8. (FGV / BANESTES - 2018) Considere a compilação de um ou mais programas por meio
 da linha
@@ -7863,9 +7001,6 @@ Item. 10. (FGV/ALE-RO-2018) No contexto da linguagem Java, assinale o modificado
 que
 se refere ao nível de acesso.
 
-
-
-www.estrategiaconcursos.com.br
 
 /
 
@@ -7941,15 +7076,8 @@ uma
 classe abstrata deve, necessariamente, ter subclasses, a classe abstrata precisa ter um construtor.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Já, o item I está incorreto: Construtores podem ter qualquer modificador de
 acesso: private,
@@ -8021,16 +7149,10 @@ e) JDBC.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Vamos traduzir essa sopa de letrinhas? JNDI - Java Naming and Directory Interface (Nomeação
 Java e Interface de Diretório); RMI - Remote Method Invocation (Invocação do Método Remoto);
@@ -8101,15 +7223,8 @@ tecnologias EJB, CDI e as outras features do Java EE dentro do Tomcat, ou seja,
 atualmente a
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 assertiva estaria errada. Porem foi considerada correta. Item II certo! Por fim,
 vejamos o item III.
@@ -8156,15 +7271,8 @@ deve receber o modificador static.
 Gabarito: Letra B
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - FCC
 
@@ -8245,13 +7353,8 @@ gabarito: public
 static int[] verificar(int vet[])
 
 
-* 
+*
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra E
 
@@ -8313,12 +7416,6 @@ enviada
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
 imediatamente ao DBMS, onde é compilada. Como resultado, o objeto
 PreparedStatement
 contém não apenas uma instrução SQL, mas uma instrução SQL que foi
@@ -8372,16 +7469,10 @@ Gabarito: Letra D
 ig.(FCC / AFAP - 2019) Considere o método Java abaixo.
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 public int conectar() {
 try {
@@ -8456,17 +7547,8 @@ o item
 a) IV está incorreto, pois não especifica o tamanho da array.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) V está incorreto, pois deve haver apenas um par de colchetes após o nome da array.
 
@@ -8513,7 +7595,6 @@ v[i + l] = v[i];
 }
 
 
-
 Para que a ordenação por inserção ocorra corretamente, as lacunas I e II
 devem ser
 corretamente preenchidas com
@@ -8529,15 +7610,8 @@ d) i=j-i; i >=o && v[i]>x; ++i e v[i]=x
 e) i=j-i; i >=o || v[i]>x; - -i e v[i+i]=x
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -8601,10 +7675,6 @@ private abstract int multiplica(double ni, int n2);
 private double multiplica(double ni, double n2){return m*n2;j
 public Calcula()
 
-
-
-
-www.estrategiaconcursos.com.br
 
 /
 
@@ -8676,16 +7746,10 @@ Connection con = DriverManager.getConnection
 ("jdbc:mysql://localhost:33o6/banco", "root", "");
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Statement st = con.createStatement();
 return i;
@@ -8763,15 +7827,8 @@ d) Colaborador c = new Colaborador(); c.setNome("Pedro");
 e) Colaborador c = new Colaborador().setNome("Pedro");
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -8847,16 +7904,8 @@ interface
 Gabarito: Letra A.
 
 
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 28.(FCC / TRF 3a Região - 2014) Herança e interfaces são conceitos da orientação a objetos que
 possibilitam a obtenção de polimorfismo. Em Java, uma interface pode
@@ -8933,15 +7982,8 @@ construir uma interface gráfica de usuário, (c) Conforme vimos em
 aula, ele permite
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 desenvolvimento de aplicações desktop e de interfaces gráficos (Swing e AWT); Vocês
 sabiam
@@ -9017,16 +8059,10 @@ e) PHP.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Java é também uma linguagem portável e multiplataforma! O Compilador é capaz de gerar
 um
@@ -9069,15 +8105,8 @@ Virtual Java. Conforme vimos em aula, trata-se da Java Virtual Machine (JVM)!
 Gabarito: Letra C
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - CESPE
 
@@ -9133,16 +8162,8 @@ out.println("</HTML>");
 out.close();
 
 
-
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 }
 
@@ -9197,15 +8218,8 @@ sistemas baseados em um padrão de Chamada de Procedimento Remoto (RPC), o siste
 mensageria usa principalmente um padrão de passagem de mensagem assíncrona sem relação
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 entre pedidos e respostas. Ou seja, o serviço é realizado de forma assíncrona, o que
 torna a
@@ -9270,9 +8284,6 @@ início
 
 ma <-a;
 
-
-
-www.estrategiaconcursos.com.br
 
 /
 
@@ -9358,13 +8369,8 @@ A }
 Com relação aos trechos de código precedentes, é correto afirmar que
 
 
-* 
+*
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) o parâmetro th is, na linha 7 da classe CarroEsportivo, é uma palavra reservada
 usada para
@@ -9441,15 +8447,8 @@ processos Java separados e sendo executados em portas separadas.
 Gabarito: Errado
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 4O.(CESPE — Ministério da Economia - 2020) Em Java 8, o método de limite de fluxo
 tem como
@@ -9519,16 +8518,6 @@ candidato. A letra d trata da JRE, camada de software que é executado sobre um 
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 sistema operacional de um computador e fornece as bibliotecas de classe e outros
 recursos que
 um programa específico do Java precisa executar. Porfim, JDK é um conjunto de
@@ -9561,8 +8550,6 @@ System.out.println(num[i][j]);
 apresentará, quando executado, o resultado a seguir.
 
 
-
-
 Comentários:
 
 Na verdade, a sequência que será apresentada é: 3, 5, 9, 7. Portanto a questão está
@@ -9581,15 +8568,8 @@ O código
 public class mpce {
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 public static int Funcao(int num, int resultado)!
 if(num<i)
@@ -9661,16 +8641,10 @@ int num;
 num = 36;
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 for(int i=o; i < num; i++) {
 if(i*i >= num) break;
@@ -9741,17 +8715,8 @@ a questão
 está incorreta!
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Errado
 
@@ -9817,15 +8782,8 @@ sobrescrito.
 Gabarito: Letra E
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 49.(CESPE / TCE-PA - 2016) O fato de as expressões lambda terem sido excluídas do
 Java 8
@@ -9884,16 +8842,10 @@ dispositivos e eletrodomésticos
 Gabarito: Letra A
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 52. (CESPE / TER-GO - 2015) Em um grupo do tipo Array, podem-se armazenar
 dados de
@@ -9958,15 +8910,8 @@ embarcados, i.e., aplicações que rodam em um dispositivo de
 propósito específico,
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 desempenhando alguma tarefa útil. Em geral, possuem limitações de recursos como memória
 ou
@@ -10034,16 +8979,10 @@ Comentários:
 Como o valor apresentado (5.000) é menor que 10.000, a assertiva está correta!
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Correto
 
@@ -10102,15 +9041,8 @@ Gabarito: Correto
 constar no programa, obrigatoriamente, os termos:
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) try e catch.
 
@@ -10172,17 +9104,8 @@ Vamos
 vê-los agora em mais detalhes:<public>: essa instrução indica que a classe, método ou atributo
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 assim declaradas podem ser acessadas em qualquer lugar e a qualquer momento da
 execução do
@@ -10191,15 +9114,8 @@ programa - é o modificador menos restritivo. Perfeito, são públicos para toda
 Gabarito: Correto
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - OUTRAS BANCAS
 
@@ -10264,15 +9180,8 @@ uma
 superclasse que não possui instâncias.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra A
 
@@ -10336,15 +9245,8 @@ Item. 70. (ESAF / Receita Federal - 2012) Em programação Java, o comando while
 a) executa um bloco exclusivamente de comandos de atribuição.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) executa um bloco de comandos enquanto sua condição for verdadeira.
 
@@ -10365,15 +9267,8 @@ existe; (e) Não, esse comando entra no bloco e só depois avalia a condição.
 Gabarito: Letra B
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - FCV
 
@@ -10433,17 +9328,8 @@ Item. 2. (FGV/TJDFT-2022) Observe as classes abaixo descritas na linguagem de pr
 public class DocumentoProcesso extends Object
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 private String docNumero;
 private int classificacao;
@@ -10507,12 +9393,6 @@ public int promoveO
 
 Com base nos conceitos de orientação a objetos, é correto afirmar que:
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) os atributos private de DocumentoProcesso são acessíveis por Oficio;
 
@@ -10585,15 +9465,8 @@ a) I e II;
 b) lie III;
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) III e IV;
 
@@ -10658,16 +9531,8 @@ b) II, apenas.
 c) III, apenas.
 
 
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) I e II, apenas.
 
@@ -10729,16 +9594,8 @@ III. Uma classe abstrata pode ter um construtor.
 Está correto o que se afirma em
 
 
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) I, somente.
 
@@ -10811,17 +9668,8 @@ c) somente III;
 d) somente I e II;
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) I, lie III.
 
@@ -10855,15 +9703,8 @@ deve receber o modificador static.
 Gabarito: Letra B
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - FCC
 
@@ -10933,8 +9774,7 @@ do tipo Connection, ambos em condições ideais para a execução do método sal
 classe Java.
 
 
-* 
-
+*
 
 
 st.setString{1, cliente.getCpf());
@@ -10988,16 +9828,10 @@ e) number renda = parseNumber(request.getParameter("renda"));
 ig.(FCC / AFAP - 2019) Considere o método Java abaixo.
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 public int conectar() {
 try {
@@ -11071,17 +9905,8 @@ inserção para rearranjar os valores em um vetor em ordem crescente.
 public class Organizaf
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 public static void main(String[] args) {
 int k[] = {88, 44, 42, 7, 72, 5};
@@ -11148,15 +9973,8 @@ considere a
 classe abstrata abaixo, criada na Linguagem Java.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 public abstract class Calcula {
 
@@ -11226,17 +10044,8 @@ isso seja
 permitido, deve-se inserir o comando
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 No método conectar podem ser lançadas duas exceções que o Analista de Informática
 deseja
@@ -11312,9 +10121,6 @@ d) possuir métodos abstratos e estáticos.
 e) conter declarações de constantes e de variáveis não inicializadas.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
 
@@ -11386,19 +10192,10 @@ d) Java Comunication Process (JCP).
 e) Java Enterprise Machine (JEM).
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - CESPE
 
@@ -11454,16 +10251,8 @@ out.println("</HTML>");
 out.close();
 
 
-
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 }
 
@@ -11519,15 +10308,8 @@ função avaliar( a, b)
 início
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ma <-a;
 
@@ -11611,16 +10393,8 @@ acessar atributos públicos da classe Carro.
 becapes, julgue o item a seguir.
 
 
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Apenas uma única instância do Tomcat pode existir em uma única JVM (Java virtual
 machine);
@@ -11679,18 +10453,7 @@ System.out.println(num[i][j]);
 apresentará, quando executado, o resultado a seguir.
 
 
-
-
-
-
-www.estrategiaconcursos.com.br
-
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 44.(CESPE/MPE-CE-2O2o) Com base na linguagem de programação Java, julgue o item a seguir.
@@ -11747,15 +10510,8 @@ b) 12 3 4 5 6
 c) 12 3 4 5
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) 012 345
 
@@ -11821,17 +10577,8 @@ convertido
 pelo contêiner JSP em um servlet, o que ajuda a separara apresentação do conteúdo.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 54. (CESPE / SERPRO - 2013) A tecnologia JSE (Java Small Editon) utilizada pela
 plataforma iOS
@@ -11893,16 +10640,10 @@ d) finally e retry.
 e) try e retry.
 
 
-
-www.estrategiaconcursos.com.br
 ./ 183
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 63.(CESPE /SERPRO-2008) A linguagem Java, orientada a objetos, tem como característica ser
 compilada em um código executado em máquina virtual.
@@ -11914,15 +10655,8 @@ utilizar componentes gráficos.
 pelos clientes da classe para manipular dados armazenados em objetos dessa classe.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - OUTRAS BANCAS
 
@@ -11989,15 +10723,8 @@ a) interface Futebol implements Esporte, Jogo{}.
 b) interface Futebol extends Esporte,Coletivofj
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) interface Futebol implements Esporte^
 
@@ -12018,15 +10745,8 @@ d) equivale ao comando what-if.
 e) é idêntico ao comando do while.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -12101,81 +10821,8 @@ Item. 23. Letra A 47. Correto
 Item. 24. Letra B 48.Letra E
 
 
-
 www. estra tegiaconcursos. com. br
 
 /
 
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

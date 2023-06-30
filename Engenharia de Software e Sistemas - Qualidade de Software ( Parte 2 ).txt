@@ -1,25 +1,5 @@
 Capítulo. Engenharia de Software e Sistemas - Qualidade de Software ( Parte 2 ).
 
-Concursos
-
-(Profs. Diego
-Carvalho e Fernando
-
-Pedrosa)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Engenharia de software -
-
-2023 (Pós-Edital)
-
-Autor:
-
-Diego Carvalho
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Índice
 
@@ -54,8 +34,6 @@ Diego Carvalho
 15) Listade Questões - Testes de Software - FGV
 
 16) Listade Questões - Testes de Software - Diversas.
-
-
 
 
 Conceitos Básicos
@@ -100,12 +78,6 @@ de teste
 para expor defeitos. Os casos de teste podem ser obscuros e não precisam refletir
 como o sistema
 é usado normalmente.
-
-
-
-
-
-
 
 
 (FCC - TRFZj - Analista Judiciário - Item III) A única meta do teste de software é
@@ -176,8 +148,6 @@ determinar se eles
 satisfazem os requisitos especificados e demonstrar que estão aptos para sua finalidade
 e
 detecção de defeitos.
-
-
 
 
 Interessante! No entanto, o que define um bom teste? Bem, existem quatro
@@ -252,16 +222,6 @@ Ao longo de diversos anos, a Engenharia de Software evoluiu bastante, de modo a
 sugerir
 alguns princípios que guiam os Testes de Software. Ao todo, são sete princípios fundamentais:
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 PRINCÍPIOS FUNDAMENTAIS | DESCRIÇÃO
 
@@ -346,12 +306,6 @@ encontrar novos defeitos após um determinado momento. Para superar esta condiç
 casos de testes necessitam ser frequentemente revisados e atualizados. Um conjunto de
 
 
-
-
-
-
-
-
 testes novo e diferente precisa ser escrito para exercitar diferentes partes do
 software ou
 sistema com objetivo de aumentar a possibilidade de encontrar mais erros.
@@ -412,12 +366,6 @@ ou produto
 tendo em mente a testabilidade. O que seria isso, Diego?
 
 
-
-
-
-
-
-
 Cara, a testabilidade é definida como a facilidade com que um programa de computador
 pode ser
 testado. As seguintes características levam a um software testável:
@@ -475,17 +423,6 @@ Comentários: a questão trata da operabilidade - "quanto melhorfunciona, mais e
 ser testado" (Letra C).
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 Processo de Teste
 
 INCIDÊNCIA EM PROVA: BAIXA
@@ -525,16 +462,6 @@ nesta etapa, temos as atividades de elaborar e revisar casos de testes e roteiro
 testes (scripts). Esse último descreve a relação dos casos de testes e a previsão de
 execução dos testes.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Nesta etapa, testes são executados conforme roteiros estabelecidos para os testes.
 Executa-se sempre que ocorrem mudanças na aplicação e analisam-se os testes
@@ -579,12 +506,6 @@ na matriz de responsabilidades.
 Comentários: organiza-se 0 ambiente de testes (infraestrutura, equipamentos,
 hardware, software, pessoal capacitado,
 ferramentas e massa de testes adequadas) justamente na etapa de preparação de testes (Correto).
-
-
-
-
-
-
 
 
 Plano de Testes
@@ -661,8 +582,6 @@ funcionalidades a serem testados, os responsáveis e os riscos.
 
 Comentários: todos esses realmente são atributos que podem ser contemplados em um plano de teste
 (Correto).
-
-
 
 
 Casos de Testes
@@ -752,8 +671,6 @@ RESULTADO ESPERADO
 - Sistema deve retornará página inicial
 
 
-
-
 (INFRAERO - 2011) A especificação de um caso de teste (test case spec/fication') deve
 conter, entre outros, identificador, itens constantes no teste, especificação de entrada,
 especificação de saída, definição do ambiente necessário, necessidades especiais e
@@ -788,8 +705,6 @@ delas em
 detalhes. Na imagem à direita, podemos vercomo essas dimensões de subdividem e qual é
 a função
 de cada uma delas: como, quando e 0 que testar?
-
-
 
 
 Estratégia/Níveis de Testes
@@ -853,8 +768,6 @@ software e em diferentes pontos no tempo.
 independente de teste.
 
 
-
-
 ■ O teste e a depuração são atividades diferentes, mas a depuração deve ser associada com
 alguma estratégia de teste.
 
@@ -902,8 +815,6 @@ sistema e o domínio de informação) e terminamos com o código em si.
 
 (UFG - 2017) Considere os diferentes níveis de teste de funcionalidade de um software.
 Os testes de sistema estão para a Engenharia de Sistemas, assim como:
-
-
 
 
 a) os testes de integração e de validação estão, respectivamente, para o código e o
@@ -970,8 +881,6 @@ integrado (construído e montado), é executada uma série de testes de ordem su
 critérios de validação - estabelecidos durante a análise de requisitos - devem ser avaliados.
 
 
-
-
 O teste de validação proporciona a garantia final de que o software
 satisfaz a todos os
 requisitos informativos, funcionais, comportamentais e de desempenho. A última
@@ -1019,12 +928,6 @@ a) Teste de unidade, Teste de estresse, Teste de aceitação.
 b) Teste de integração, Teste de estresse, Teste de sistema.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 c) Teste de aceitação, Teste Chinês, Teste de caixa branca.
 
 d) Teste de unidade, Teste de integração, Teste de aceitação.
@@ -1036,12 +939,6 @@ Comentários: (a) Errado, Teste de Estresse não é nível de teste; (b) Errado,
 Teste Chinês e Caixa Branca não são níveis de teste; (d) Correto, todos são níveis de teste; (e)
 Errado, Teste Caixa Branca e Preta
 não são níveis de teste (Letra D).
-
-
-
-
-
-
 
 
 Teste de Unidade
@@ -1108,12 +1005,6 @@ bastante similar, mas são testadas unidades de código-fonte.
 VIRABREQUIM BIELA
 PISTÃO
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 DEFINIÇÕES DE PROVA - TESTES DE UNIDADE
 
@@ -1182,12 +1073,6 @@ verificar se os fluxos de controle (ordem das
 instruções de um algoritmo) e de dados estão cobertos e conforme 0 esperado (Letra E).
 
 
-
-
-
-
-
-
 Teste de Integração
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
@@ -1252,12 +1137,6 @@ corretamente. Vejam como as três peças mencionadas nos testes
 de unidade se integram.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 DEFINIÇÕES DE PROVA - TESTES DE INTEGRAÇÃO
 
 Testes de Integração são caracterizados portestaras interfaces entre os componentes ou interações
@@ -1321,12 +1200,6 @@ Comentários: testes de integração ocorrem ainda no ambiente de desenvolviment
 (Errado).
 
 
-
-
-
-
-
-
 Teste de Validação
 
 INCIDÊNCIA EM PROVA: MÉDIA I
@@ -1380,8 +1253,6 @@ de entregar
 o motor para os próprios funcionários da Citrõen testarem se está tudo certo. O teste
 é também
 realizado em relação ao que estava especificado nos critérios de validação.
-
-
 
 
 Galera, nós sabemos que a verificação ocorre em relação à
@@ -1443,12 +1314,6 @@ objetivo
 principal a validação do software quanto aos requisitos.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários: ele faz a validação quanto aos requisitos e seus critérios de validação
 descritos no documento de requisitos
 (Correto).
@@ -1466,12 +1331,6 @@ Comentários: observem que 0 enunciado evidentemente trata de uma comparação, 
 tem por finalidade encontrar
 defeitos e inconsistências no programa em relação a sua especificação é 0 teste de verificação
 (Errado).
-
-
-
-
-
-
 
 
 Teste de Sistema
@@ -1530,8 +1389,6 @@ envia e
 recebe dados e deve se integrar da melhor maneira possível. O teste de
 integração verifica
 interfaces entre componentes do mesmo software, já o teste de sistema verifica interfaces
-
-
 
 
 entre componentes diferentes de um mesmo sistema - incluindo softwares, hardwares,
@@ -1599,27 +1456,11 @@ d) Teste de especificação
 e) Teste de operação
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários: a questão trata dos testes de sistema - eles buscam erros resultantes das
 interações e integrações do sistema
 como um todo e também dos problemas de interface. A questão foi tão genérica que, se houvesse a
 opção Teste de Integração,
 teríamos duas respostas (Letra A).
-
-
-
-
-
-
 
 
 Técnicas de Testes
@@ -1685,12 +1526,6 @@ a complexidade lógica de um código por meio do número
 de caminhos independentes.
 
 
-
-
-
-
-
-
 os procedimentos internos do componente. Outro nome é teste orientado à lógica! Porque?
 Porque
 eu consigo analisar sua lógica interna.
@@ -1748,12 +1583,6 @@ do componente de software.
 Comentários: a questão está perfeita - definição pura e simples de teste caixa-branca (Correto).
 
 
-
-
-
-
-
-
 (TRE/PI - 2009) Também conhecido por teste estrutural ou orientado à lógica, é uma
 técnica de teste de software que trabalha diretamente sobre o código fonte
 do
@@ -1791,12 +1620,6 @@ e) orientado a dado.
 Comentários: a técnica que trata do exame minucioso da estrutura interna e detalhes procedimentais
 é a técnica de teste caixa-
 branca (Letra B).
-
-
-
-
-
-
 
 
 Teste Caixa-Preta
@@ -1854,8 +1677,6 @@ Orientado a
 Dado! Por que? Porque eu não consigo analisar sua lógica, mas eu sei quais dados
 devem ser
 gerados como resultado - além disso, dada uma entrada, temos uma saída específica.
-
-
 
 
 Vamos voltar novamente ao nosso motor de carro? Fazendo uma comparação, o teste
@@ -1924,8 +1745,6 @@ d) condição.
 e) fluxo de dados.
 
 
-
-
 Comentários: teste comportamental é um teste caixa-preta (Letra A).
 
 (MPE/RO - 2012) Considerando a arquitetura de software convencional, a técnica
@@ -1986,19 +1805,7 @@ d) Ponto de Função.
 e) Não estrutural.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários: trata-se do teste caixa-preta ou orientado à entrada/saída (Letra B).
-
-
 
 
 Teste Caixa-Cinza
@@ -2056,8 +1863,6 @@ incorreta, tendo em vista que haverá maior menor diminuição da dependência d
 especificações arquiteturais de um
 sistema se o testador empregar a técnica de caixa-branca, em vez das técnicas de caixa-cinza e de
 caixa-preta (Errado).
-
-
 
 
 Tipos de Testes
@@ -2122,12 +1927,6 @@ ESTRATÉGIA CAST ASSINATURA VITALÍCIA
 5:00 AM_
 
 
-
-
-
-
-
-
 Eu sei, linguagem muito técnica! Vamos falar de maneira bem clara: teste de desempenho
 trata do
 esforço em assegurar que o sistema computacional pode operar sob a carga de
@@ -2188,12 +1987,6 @@ infraestrutura tecnológica de produção é suficiente para suportar a quantida
 de
 acessos simultâneos à aplicação web. Uma forma de realizar essa verificação é utilizar
 ferramenta com suporte à medição de teste de cobertura.
-
-
-
-
-
-
 
 
 Comentários: ele realmente é realizado para mensurar se a infra estrutura tecnológica
@@ -2262,12 +2055,6 @@ situações
 anormais. Essencialmente, o testador que executa teste por esforço pergunta: até onde podemos
 
 
-
-
-
-
-
-
 forçar o sistema até que ele falhe? Esse teste usa um sistema de maneira que demande
 recursos em
 quantidade, frequência ou volumes anormais. Podem ser realizados testes em condições de
@@ -2324,8 +2111,6 @@ a) payload.
 b) teste de estresse.
 
 c) teste de desempenho.
-
-
 
 
 d) latência da falha.
@@ -2385,12 +2170,6 @@ sistema
 sob condições especificadas ou acordadas. A carga pode ser, por exemplo, o número de usuários
 
 
-
-
-
-
-
-
 simultâneos esperados na aplicação. Em suma: testes de desempenho podem se dividir em
 teste
 de stress e teste de carga.
@@ -2430,12 +2209,6 @@ teste de carga é um tipo de teste de
 desempenho-logo, questão perfeita (Correto).
 
 
-
-
-
-
-
-
 Teste de Usabilidade
 
 INCIDÊNCIA EM PROVA: BAIXÍSSIMA
@@ -2460,12 +2233,6 @@ treinamento, acesso
 deve
 ser fácil de usar e de entender.
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Em suma, trata-se de um teste focado na experiência do usuário que avalia a
 facilidade de uso
@@ -2514,17 +2281,6 @@ Correto, ele realmente é capaz
 de obter indícios do nível de satisfação do usuário; (III) Errado, ele não tem nenhuma intenção de
 avaliar a integridade dos dados
 registrados no sistema (Letra D).
-
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 Teste de Regressão
@@ -2599,16 +2355,6 @@ nova funcionalidade que os alunos estão pedindo desesperadamente. Eu implemento
 funcionalidade e lanço a versão 1.1!
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Maaaaaaaaaaaaas... antes de lançar essa nova versão, eu faço um teste de regressão.
 Por que,
 Diego? Porque essa nova funcionalidade que eu implementei pode ter causado algum
@@ -2661,12 +2407,6 @@ testes de regressão, nós dizemos que 0
 sistema regrediu. Porque? Porque antes ele funcionava corretamente e, após a inserção de novas
 funcionalidades, ele parou de
 funcionar. Esse item é coisa linda! (Correto).
-
-
-
-
-
-
 
 
 Teste de Fumaça
@@ -2739,12 +2479,6 @@ após a conclusão da fase de desenvolvimento, e que visa testar se o software r
 provê suas funcionalidades e características básicas, de forma a estar habilitado para
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 recebertestes mais detalhados, ou se ele possui algum problema estrutural básico (ex. o
 software não roda) que deve ser corrigido antes de realizar outros tipos de testes:
 
@@ -2761,12 +2495,6 @@ e) Teste de desempenho (performance testing)
 Comentários: trata-se do teste de fumaça. Há apenas uma observação - ele não ocorre apenas após a
 fase de desenvolvimento,
 ele ocorre sempre que há uma nova integração, isto é, uma nova funcionalidade (Letra B).
-
-
-
-
-
-
 
 
 Teste de Comparação
@@ -2809,8 +2537,6 @@ protótipo e ao sistema em teste a fim de se produzir um relatório de diferenç
 Comentários: realmente é possível utilizar o teste back-to-back (ou comparação) para os mesmos
 casos deteste de entrada em
 sistemas diferentes a fim de gerar um relatório de diferenças (Correto).
-
-
 
 
 Testes Alfa e Beta
@@ -2887,8 +2613,6 @@ vocês
 mesmos...).
 
 
-
-
 Nightly
 
 Obtenha uma espreitadela do
@@ -2945,8 +2669,6 @@ a
 operação do sistema pelos usuários é denominado:
 
 
-
-
 a) Teste Alfa.
 
 b) Teste Beta.
@@ -2992,12 +2714,6 @@ e) Teste Alfa é feito sem os dados e o Teste Beta é feito com dados fictícios
 
 Comentários: testes alfa são realizados em ambiente controlado e testes beta são realizados no
 ambiente do usuário (Letra B).
-
-
-
-
-
-
 
 
 Testes de Recuperação
@@ -3059,12 +2775,6 @@ a) fazer com que o software falhe e verificar se ocorre, corretamente, sua recup
 1 Mean Time To Repair
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 b) rodar um teste de grande tempo de duração, esperando que não haja
 falhas
 registradas no software.
@@ -3100,12 +2810,6 @@ intervenção humana.
 
 Comentários: a questão está impecável - ademais, realmente pode ocorrer de forma automática ou
 manual (Correto).
-
-
-
-
-
-
 
 
 Testes de Compatibilidade
@@ -3147,8 +2851,6 @@ executado no sistema operacional Solaris.
 Comentários: eles realmente servem para testar um software em ambientes diferentes de hardware,
 software, sistema
 operacional, redes, entre outros (Correto).
-
-
 
 
 Testes de Segurança
@@ -3199,12 +2901,6 @@ incorporados a um sistema vão de fato protegê-lo de invasão imprópria.
 
 Comentários: a questão está perfeita - essa é a função de um teste de segurança (Correto).
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Testes Automatizados
 
@@ -3276,12 +2972,6 @@ repetitivos de teste e permitindo que os testes sejam executados de forma mais r
 Há uma série de critérios que você precisa levar em conta ao escolher a
 ferramenta de
 automação de teste perfeita Devem ser considerados critérios, tais como facilidade de utilização
-
-
-
-
-
-
 
 
 e criação de testes, suporte a múltiplas plataformas e navegadores, facilidade
@@ -3365,12 +3055,6 @@ seu aplicativo constantemente durante 0 desenvolvimento. Cada vez que um novo c�
 é enviado, você pode executar testes de fumaça. Qualquer novo recurso pode ser testado
 assim que estiver estável. Isso significa que todo 0 seu processo de lançamento se torna
 mais eficiente e simplificado.
-
-
-
-
-
-
 
 
 Vejamos na tabela seguinte uma comparação entre a realização de testes manuais e testes
@@ -3480,12 +3164,6 @@ vagam ou nos distraímos. Qualquer teste que envolva fazer repetidamente a mesma
 é melhor deixar para um computador automatizando-o.
 
 
-
-
-
-
-
-
 CRÍTICO
 
 Se um teste é absolutamente crítico, você deve tentar o seu melhor para automatizá-lo e
@@ -3570,8 +3248,6 @@ da maneira
 correta. As práticas recomendadas a seguir se aplicam ao teste de nível do sistema:
 
 
-
-
 ■ Planeje seus testes cuidadosamente. Certifique-se de que seus casos de
 teste estejam
 claramente definidos e bem escritos. Os casos de teste devem ser independentes e
@@ -3605,8 +3281,6 @@ for um bug sério, provavelmente é melhor abortar e corrigir o bug.
 medida que
 seu aplicativo se desenvolve e muda. Não adianta testar recursos herdados que não fazem
 mais parte dos aplicativos.
-
-
 
 
 Doubles
@@ -3685,8 +3359,6 @@ de método, bem
 como definir expectativas e verificar se elas foram atendidas durante o teste. Os mocks são
 
 
-
-
 usados para verificar interações específicas e garantir que o código em teste
 esteja se
 comunicando corretamente com a dependência simulada.
@@ -3761,12 +3433,6 @@ Um objeto
 sob teste pode ter dependências sobre outros objetos complexos.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Os mocks devem ter a mesma interface que os objetos reais, caso contrário não conseguirão se
 comunicar. Eles são utilizados quando temos objetos que geram resultados variáveis;
 objetos com
@@ -3790,16 +3456,6 @@ Os mocks possuem bibliotecas que ajudam em sua criação, tais como: EasyMock, J
 Mockito
 (para Java); NMock, TypeMock (para .NET), entre outros.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 RESUMo
 
@@ -3898,16 +3554,6 @@ Ex: um sistema bancário deve ser testado de maneira diferente de uma rede socia
 Assim como testes de aplicação web têm foco diferente do desktop.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Identificar e corrigir os problemas de um software não garantem que ele está p
 Os testes foram elaborados para identificar todas as possíveis falhas? O si:
 atende às necessidades e expectativas dos usuários? Logo, há outros fatores!
@@ -3936,16 +3582,6 @@ inteligente vamos testar".
 
 <1
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 ETAPAS DO PROCESSO | DESCRIÇÃO
 
@@ -4012,16 +3648,6 @@ TESTE DE VALIDAÇÃO Também chamado de Teste de Aceitação, é executado quand
 está todo
 montado como um pacote e os erros de interface já foram descobertos e corrigidos.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 TESTE DE SISTEMA O Teste de Sistema é na realidade uma série de diferentes testes cuja finali<
 primária é exercitar o sistema como um todo.
@@ -4114,17 +3740,6 @@ quando o desenvolvimento está praticamente concluído e quando o maior número
 possível de defeitos precisa ser encontrado antes do lançamento do produto.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 TESTE DE RECUPERAÇÃO
 
 TESTE DE COMPATIBILIDADE
@@ -4144,16 +3759,6 @@ conhecido como teste de ameaça ou teste de invasão.
 
 H PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - CESPE
 
@@ -4207,8 +3812,6 @@ e ambos são
 modalidades do teste de desempenho.
 
 Comentários:
-
-
 
 
 O teste de desempenho (ou performance) é projetado para testar o desempenho em tempo
@@ -4268,12 +3871,6 @@ interno do
 software, ou seja, os elementos relacionados ao código-fonte desse software.
 
 Comentários:
-
-
-
-
-
-
 
 
 Perfeito! A ideia da técnica de caixa-branca é testar a estrutura interna do software,
@@ -4337,16 +3934,6 @@ b) da caixa preta.
 c) da caixa branca.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 d) da caixa cinza.
 
 e) de integração.
@@ -4403,12 +3990,6 @@ seja, se o
 software funciona conforme foi proposto em seus requisitos.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Correto
 
 Item. 14. (CESPE/ABIN-2018) As ferramentas de execução do teste são classificadas como
@@ -4461,8 +4042,6 @@ enquanto, em processos de desenvolvimento iterativo, será testado apenas um inc
 ser entregue ao cliente.
 
 Comentários:
-
-
 
 
 De acordo com Sommerville: "Em um processo de desenvolvimento iterativo, o teste de
@@ -4522,12 +4101,6 @@ precisam
 de outras classes - então é do mais geral para o mais específico (no sentido
 de funcionalidades) e
 do menor para o maior (no sentido de tamanho). A abordagem top-down é o contrário, eu começo
-
-
-
-
-
-
 
 
 testando o sistema até chegar aos módulos, ou seja, do mais específico para o mais
@@ -4593,16 +4166,6 @@ simultâneos,
 a equipe de TI do órgão, ao preparar o ambiente de acesso eletrônico, deverá realizar o teste:
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 a) de estresse.
 
 b) unitário.
@@ -4663,8 +4226,6 @@ banca deu o item
 como correto, mas depois o anulou sob a justificativa de que "a redação do item prejudicou seu
 
 
-
-
 julgamento objetivo". Galera, na minha opinião, não há nada de errado com a redação -
 o item está
 completamente errado.
@@ -4717,16 +4278,6 @@ Comentários:
 
 Testes Caixa-Branca e Testes Caixa-Preta não são níveis de testes, mas técnicas de testes.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Errado
 
@@ -4790,8 +4341,6 @@ em que se trata de estruturas internas (Ex: Laços).
 Gabarito: Errado
 
 
-
-
 33- (CESPE / INPI - 2013) De modo geral, o teste de release é um processo de teste
 do tipo caixa-
 branca em que as funcionalidades são verificadas e validadas mediante a avaliação
@@ -4853,12 +4402,6 @@ se comportarão
 da mesma maneira. Galera, aqui estou sendo bem simplista por conta do exemplo, mas é possível
 
 
-
-
-
-
-
-
 especificar várias outras entradas, logo teríamos mais partições. As regras para
 utilizar essa técnica
 são:
@@ -4916,15 +4459,8 @@ requisitos
 do software são atendidos, sem verificar o código ou a lógica do componente testado.
 
 
-Q-Q 
+Q-Q
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -4979,8 +4515,6 @@ Gabarito: Errado
 43.(CESPE / SAD-PE - 2010) A respeito do plano de teste, um registro do
 processo de
 planejamento de testes de software, assinale a opção correta.
-
-
 
 
 a) O processo de planejamento de testes é usualmente descrito em um plano de testes.
@@ -5042,16 +4576,6 @@ implementados,
 estruturas de dados incorretas ou simples erros de programação.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 Testes Unitários são feitos um-a-um! Além disso, eles não forçam o software até a
@@ -5106,12 +4630,6 @@ conhecimento do código e da lógica interna do componente testado.
 
 Comentários:
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Pelo contrário, a questão trata dos testes caixa-preta.
 
@@ -5168,8 +4686,6 @@ dos limites do componente.
 Comentários:
 
 
-
-
 Quem concentra esforços de validação na menor unidade de projeto do software é o
 teste de
 unidade e, não, teste de integração.
@@ -5223,16 +4739,6 @@ inclusive as partes que não tenham sido modificadas.
 Comentários:
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Perfeito! O teste de regressão testará tudo...
 
 Gabarito: Correto
@@ -5282,8 +4788,6 @@ subdivisão de testes de sistema.
 Gabarito: Errado
 
 
-
-
 62.(CESPE / TRE-BA - 2009) A figura a seguir ilustra esquematicamente a técnica
 estrutural de
 teste de software (ou teste caixa-branca), que avalia o comportamento interno do
@@ -5329,12 +4833,6 @@ Comentários:
 De fato, todas essas são técnicas de teste caixa-preta.
 
 Gabarito: Correto
-
-
-
-
-
-
 
 
 6s.(CESPE / CEHAP-PB - 2009) Aplicado ao final do processo de teste, o teste
@@ -5394,12 +4892,6 @@ condições relevantes para as verificações dos cenários.
 Comentários:
 
 
-
-
-
-
-
-
 Ele - em geral - possui os seguintes campos: resumo, pré-condições, entradas, ações,
 resultados
 esperados e pós-condições.
@@ -5452,12 +4944,6 @@ são avaliações
 confiáveis.
 
 Gabarito: Correto
-
-
-
-
-
-
 
 
 -ji. (CESPE / TSE - 2007) Entre os artefatos produzidos por um processo de teste,
@@ -5517,16 +5003,6 @@ tarefas
 específicas.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Correto
 
 Item. 76. (CESPE / SESPA-PA - 2004) Para efeito de validação de um software, o beta
@@ -5555,16 +5031,6 @@ lançados no mercado.
 
 Gabarito: Correto
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - FCC
 
@@ -5626,12 +5092,6 @@ Item. 3. (FCC / SEMEF MANAUS-AM -2019) Ao realizartestes de unidade de módulos 
 um
 técnico de TI deve atentar que:
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 a) um módulo pseudocontrolador é um módulo que contém apenas o número da versão do
 módulo sob teste.
@@ -5697,16 +5157,6 @@ introduza erros até então inexistentes. Tal tipo de teste denomina-se:
 
 a) de regressão.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 b) ascendente.
 
@@ -5774,12 +5224,6 @@ testadores
 destacariam as áreas de aplicação que poderiam ser afetadas pelas recentes alterações de
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 código e selecionariam os casos de testes relevantes para o conjunto de testes.
 Procedendo
 desta forma, seriam realizados testes:
@@ -5820,8 +5264,6 @@ Teste.
 b) Log de Teste e II corresponde ao Relatório de Incidentes de Teste.
 
 c) Gap de Teste e II corresponde à Refatoração de Testes.
-
-
 
 
 d) Registro de Testes Funcionais e Não Funcionais e II corresponde ao Relatório de
@@ -5886,16 +5328,6 @@ Gabarito: Letra C
 um projeto com prazo crítico, sendo necessário que os desenvolvedores avaliem o software
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 frequentemente. A equipe envolvida decidiu utilizar uma abordagem de teste de integração
 que
 trabalha da seguinte maneira:
@@ -5958,12 +5390,6 @@ principal e
 os testes sejam conduzidos à medida que cada componente é inserido.
 
 
-
-
-
-
-
-
 O Auditor indicou em I e II, respectivamente, os testes de:
 
 a) caixa branca e de caixa preta, que são suficientes para validartodo o sistema.
@@ -6023,16 +5449,6 @@ d) testes de caixa preta.
 
 e) testes de desempenho para os 2 primeiros e de carga para os demais.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -6097,12 +5513,6 @@ conjuntos
 específicos de condições e/ou ciclos.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 O teste ...II... faz referência a testes realizados na interface do software. Esse
 tipo de teste
 examina alguns aspectos fundamentais de um sistema, com pouca preocupação em relação à
@@ -6159,12 +5569,6 @@ do
 código ou lógica interna do componente de software; (c) Errado, um teste bem-sucedido
 é aquele
 que encontra erros - se ele não encontrar erros, é mais provável que o teste tenha sido mal feito;
-
-
-
-
-
-
 
 
 (d) Correto, essa é a definição de Teste Caixa-Branca; (e) Errado, não são possíveis
@@ -6228,12 +5632,6 @@ entre ações e
 objetivos alcançados.
 
 
-
-
-
-
-
-
 b) Testes sempre podem mostrar a ausência de erros.
 
 c) Para que o resultado de um teste de software seja confiável, é preciso garantir
@@ -6281,9 +5679,6 @@ Comentários:
 
 0 0 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023
 (Pós-Edital)
-
-
-
 
 
 Bastava lembrar da espiral! Testes de Integração estão associados ao Projeto de Software.
@@ -6347,16 +5742,6 @@ processamento dentro de um tempo pré-estabelecido é claramente o Teste de Recu
 Gabarito: Letra C
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 21.(FCC / SEFAZ-SP - 2009) Garantir que um ou mais componentes de um sistema combinados
 funcionam corretamente é o objetivo do tipo de teste:
 
@@ -6419,16 +5804,6 @@ d) unidade.
 e) carga
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 Observem que a ÚNICA opção que contém uma Técnica de Teste de software é a primeira
@@ -6484,8 +5859,6 @@ do modo correto.
 Gabarito: Letra C
 
 
-
-
 26.(FCC /TRT-GO-2008) Uma sistemática para construção da arquitetura do software
 enquanto,
 ao mesmo tempo, conduz ao descobrimento de erros associados às interfaces é a
@@ -6536,16 +5909,6 @@ seu código-fonte! Logo, trata-se de uma técnica de teste baseada em código!
 
 Gabarito: Letra B
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADAS - FCV
 
@@ -6608,8 +5971,6 @@ Gabarito: Letra B
 Item. 3. (FGV / TCE-AM - 2021) A Equipe de Desenvolvimento de Software (EDS) de um
 tribunal de
 contas está trabalhando na construção de componentes de um novo sistema de software.
-
-
 
 
 Para verificar o funcionamento do software no nível de componente, a EDS deverá
@@ -6677,12 +6038,6 @@ aceitação, que verifica se o software está de acordo com os requisitos estabe
 Gabarito: Letra D
 
 
-
-
-
-
-
-
 5- (FGV / DPE-RJ - 2019) No processo de validação de software, quando os
 componentes
 individuais são avaliados para garantir que eles possam operar corretamente, sendo
@@ -6748,16 +6103,6 @@ estados.
 O sistema entrou em produção e, já na primeira semana de uso, ficou muito lento e diversas
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 vezes indisponível para os operadores das lojas. Diante deste cenário, assinale a opção
 que
 indica a técnica de teste que foi negligenciada:
@@ -6821,16 +6166,6 @@ d) são realizados em ambientes controlados pelo desenvolvedor;
 e) são realizados por usuários externos, em condições de uso semelhantes às de produção.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 (a) Errado, os testes de caixa-preta talvez estejam mais relacionados aos testes beta;
@@ -6889,8 +6224,6 @@ sistema
 computacional para garantir a qualidade e detectar falhas antes que ele seja
 disponibilizado
 para os seus usuários finais. Analise as afirmativas a seguir sobre tipos de teste de software:
-
-
 
 
 I. Teste de caixa preta é uma técnica de teste onde o código-fonte e a estrutura
@@ -6952,12 +6285,6 @@ hardwares e sob diferentes condições.
 Comentários:
 
 
-
-
-
-
-
-
 (a) Correto, em testes caixa-branca, teoricamente você deve testar todo caminho possível
 através
 do código - na prática, isso é meio inviável, (b) Errado, isso é um teste de
@@ -7017,12 +6344,6 @@ Gabarito: Letra E
 Item. 14. (FGV / IBGE -2016) Trata-se de um teste que desconhece o conteúdo do código
 fonte. Nesse
 teste o componente testado é tratado como uma caixa preta: são fornecidos dados de entrada
-
-
-
-
-
-
 
 
 e o resultado comparado com aquele esperado e previamente conhecido. Além disso, esse
@@ -7088,16 +6409,6 @@ avaliação, José está realizando testes do tipo:
 a) unitário.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 b) de integração.
 
 c) de aceitação.
@@ -7141,12 +6452,6 @@ esperado para
 o sistema.
 
 Comentários:
-
-
-
-
-
-
 
 
 (a) Errado, esse seria o teste de desempenho; (b) Correto, o teste unitário realmente
@@ -7218,16 +6523,6 @@ c) de fluxo de dados.
 d) de caminho básico.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 e) de lógica composta.
 
 Comentários:
@@ -7259,8 +6554,6 @@ implementação do
 software é o famoso teste caixa-branca ou teste caixa-clara.
 
 Gabarito: Letra B
-
-
 
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
@@ -7310,8 +6603,6 @@ Comentários:
 "Não cabia a essa equipe realizar testes na arquitetura do software e nem a validação
 de algoritmos,
 linguagem de programação ou quaisquer outras estruturas de dados, dessa funcionalidade".
-
-
 
 
 Essa é a dica para matar a questão: se não se avalia o funcionamento interno do
@@ -7373,16 +6664,6 @@ linguagem de programação; (V) Correto, trata-se de uma definição de testes d
 Gabarito: Letra E
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Item. 3. (IDHTEC / PREFEITURA DE MARAGOGI-AL - 2019) Quanto à Automação de Testes, julgue os
 itens a seguir:
 
@@ -7440,12 +6721,6 @@ Integração, cuja responsabilidade principal fica a cargo dos desenvolvedores d
 que
 são profissionais que conhecem bem o código-fonte desenvolvido e dessa forma conseguem
 planejar os casos de teste com maior facilidade.
-
-
-
-
-
-
 
 
 III. Teste Funcional é a Técnica de teste em que o componente de software a
@@ -7510,12 +6785,6 @@ e) As afirmativas I, II e III.
 Comentários:
 
 
-
-
-
-
-
-
 (I) Correto, é como funcionam os testes de software; (II) Correto, os testes de
 integração verificam
 o funcionamento em conjunto dos componentes do sistema; (III) Errado, os testes de
@@ -7567,12 +6836,6 @@ presente na tabela ASSOCIAÇÕES que define corretamente os elementos a definir 
 A com as definições ou caracterizações da TABELA B.
 
 
-
-
-
-
-
-
 TABELA A
 
 A definir
@@ -7620,8 +6883,6 @@ TABELA A
 Z
 
 
-
-
 TABELA B
 B
 
@@ -7637,7 +6898,6 @@ TABELA A
 Z
 
 
-
 TABELA B
 B
 
@@ -7650,8 +6910,6 @@ E
 TABELA A
 
 Z
-
-
 
 
 TABELA B
@@ -7668,8 +6926,6 @@ E
 TABELA A
 
 Z
-
-
 
 
 TABELA B
@@ -7705,12 +6961,6 @@ Gabarito: Letra B
 Item. 8. (IESES / SCGÁS - 2019) Identifique a alternativa que descreve inequivocamente a
 intenção do
 teste de verificação de software ou, mais genericamente, verificação e validação (V&V):
-
-
-
-
-
-
 
 
 a) O teste de verificação de software tem a intenção de mostrar que um software se
@@ -7770,12 +7020,6 @@ Gabarito: Letra A
 Item. 10. (IBADE / PREFEITURA DE VILHENA-RO - 2019) Sobre teste de software, podemos
 diferenciar
 teste da caixa preta e teste da caixa branca respectivamente da seguinte maneira:
-
-
-
-
-
-
 
 
 a) enquanto o primeiro ignora o código fonte, o segundo busca garantir que os
@@ -7844,12 +7088,6 @@ Errado, trata-se dos testes de caixa-preta em que o objetivo é testar se o soft
 não,
 
 
-
-
-
-
-
-
 ademais, nos testes de caixa-preta não há acesso às estruturas internas de um
 software, (d) Errado,
 trata-se dos de testes de Integração que são caracterizados por testar as
@@ -7915,16 +7153,6 @@ c) Apenas III.
 d) Apenas I e II.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 e) Apenas II e III.
 
 Comentários:
@@ -7985,12 +7213,6 @@ Gabarito: Correto
 antecedência e executadas sistematicamente. Deverá ser definido, para o processo de software,
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 um conjunto de etapas nas quais podem-se empregartécnicas específicas de projeto de
 caso de
 teste e métodos de teste. O processo de software pode ser visto como a espiral
@@ -8042,8 +7264,6 @@ a) A definição da saída ou resultado esperado é uma parte desnecessária em 
 b) Testes de software são tarefas repetitivas, pouco criativas ou desafiadoras, pois
 são fáceis de
 automatizar quando pensadas no início do projeto.
-
-
 
 
 c) Se muitos erros já foram encontrados em uma seção do programa, a
@@ -8111,16 +7331,6 @@ a definição do
 teste de partição; (e) Errado, a suposição de erros é um teste de caixa-preta.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Letra D
 
 ig.(COVEST-COPSET / UFPE-2019) Quanto aos tipos detestes de software, assinale a
@@ -8176,8 +7386,6 @@ funcionamento de tarefas críticas.
 b) executa-se a rotina com uma entrada pré-definida e compara-se a saída com um
 resultado
 pré-definido.
-
-
 
 
 c) executa-se o sistema inteiro com foco na especificação das funcionalidades para
@@ -8245,16 +7453,6 @@ do teste de
 sistema.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Software
 executável
 
@@ -8294,13 +7492,6 @@ usuário; (d) Errado, os testes de desempenho são utilizados testar o desempenh
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023
 (Pós-Edital)
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 execução do software dentro do contexto de um sistema integrado; (e) Errado, esses
 testes não são
@@ -8362,12 +7553,6 @@ impecavelmente.
 As lacunas das sentenças podem ser preenchidas CORRETAMENTE com a opção:
 
 
-
-
-
-
-
-
 a) Integração, Unidade, Fumaça, Integração, Regressão.
 
 b) Unidade, Integração, Regressão, Usabilidade, Regressão.
@@ -8426,16 +7611,6 @@ de exercitar o sistema como um todo.
 
 Gabarito: Letra A
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 26.(VUNESP / PREFEITURA DE ITAPEVI-SP - 2019) Um programador, após desenvolver
 um
@@ -8501,12 +7676,6 @@ a) o teste alfa é realizado nas instalações do desenvolvedor do software.
 b) o teste beta é realizado nas instalações do desenvolvedor do software.
 
 
-
-
-
-
-
-
 c) os testes alfa e beta são executados em um ambiente tercerizado.
 
 d) no teste alfa, participam apenas os desenvolvedores do software.
@@ -8570,16 +7739,6 @@ d) testes de integração focam na descoberta de erros associados com interfaces
 e) teste fumaça é uma abordagem de testes unitários.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 (a) Correto, é impossível testar todas as possibilidades de defeitos de um sistema;
@@ -8640,12 +7799,6 @@ assinale a
 alternativa correta:
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 a) É realizado no ambiente de desenvolvimento, onde somente os desenvolvedores envolvidos
 na escrita do código realizarão os testes.
 
@@ -8704,16 +7857,6 @@ d) Apenas as afirmações I e III são verdadeiras.
 e) Apenas as afirmações II e III são verdadeiras.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 (I) Errado, na verdade, são os defeitos que são encontrados após a liberação para o
@@ -8771,8 +7914,6 @@ Gabarito: Letra C
 
 Item. 35. (FAUGRS/ UFCSPA-RS-2018) No teste de, os módulos são combinados e testados
 em grupo. Ele sucede o teste de, em que os módulos são testados individualmente,
-
-
 
 
 e antecede o teste de, em que o sistema completo é testado em um
@@ -8837,12 +7978,6 @@ não foram
 introduzidos novos erros, trata-se do teste de regressão.
 
 Gabarito: Letra C
-
-
-
-
-
-
 
 
 37-(FUNDATEC / CIGA-SC - 2018) A equipe responsável pelo desenvolvimento de um software
@@ -8913,16 +8048,6 @@ o software foi
 implementado, o que importa é que o software é funcional.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Letra B
 
 39.(AOCP / UNIR - 2018) O projeto de casos de teste não possui eficácia para a
@@ -8977,12 +8102,6 @@ sistemática para construir a arquitetura de software ao mesmo tempo que
 conduz testes para
 descobrir erros associados com as interfaces.
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Gabarito: Errado
 
@@ -9043,12 +8162,6 @@ a) Um teste de regressão visa refazer os testes feitos anteriormente, visando
 garantir o
 funcionamento correto destes.
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 b) Um teste operacional tem como objetivo testar a aplicação em funcionamento no
 sistema
@@ -9117,16 +8230,6 @@ c) Teste de validação.
 d) Teste de unidade.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 e) Teste de projeto.
 
 Comentários:
@@ -9187,8 +8290,6 @@ d) 2-3-5-g.
 e) 5-4-6-8.
 
 Comentários:
-
-
 
 
 (2) O teste que verifica o software da forma como ele deve funcionar, ou seja se
@@ -9255,16 +8356,6 @@ linhas
 de código) com base nas definições e usos de cada variável.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Letra B
 
 Item. 51. (UFPR/COREN-PR-2018) Sobre testes de software, identifique como verdadeiras (V) ou
@@ -9322,12 +8413,6 @@ d) Casos de teste.
 
 e) Cronograma.
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -9398,12 +8483,6 @@ executado
 pelo grupo de desenvolvimento de testes, tendo também um papel importante para avaliar se
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 o produto pode ser liberado para os consumidores, o que é diferente do seu papel de
 expor
 falhas que são removidas para melhorar o produto.
@@ -9465,12 +8544,6 @@ teste
 de software.
 
 
-
-
-
-
-
-
 I - Descreve a relação entre ações de garantia da qualidade e as ações associadas à comunicação,
 modelagem e atividades iniciais de construção.
 
@@ -9511,12 +8584,6 @@ stakeholders
 (validação). O modelo em "V" ilustra os testes responsáveis por isso.
 
 
-
-
-
-
-
-
 Software
 executável
 
@@ -9550,16 +8617,6 @@ d) Apenas II e III.
 
 e) I, II, III.
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Comentários:
 
@@ -9622,12 +8679,6 @@ a) Linguagem de desenvolvimento.
 b) Usabilidade.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 c) Localização geográfica do dispositivo.
 
 d) Volume de dados.
@@ -9687,8 +8738,6 @@ d) 2-1-3-4.
 e) i-3-4-2.
 
 Comentários:
-
-
 
 
 (2) O Teste que detecta falhas nas interfaces é o teste de integração; (4) O teste
@@ -9751,16 +8800,6 @@ c) I e III, apenas.
 d) II e III, apenas.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 (I) Correto, esse é o objetivo de um teste de segurança; (II) Errado, na verdade essa é a
@@ -9820,8 +8859,6 @@ controlado? Porque o
 programadorfica olhando o usuário utilizar o software e registra os erros que ocorrem.
 
 Gabarito: Letra A
-
-
 
 
 65-(IADES / CFM - 2018) A respeito dos processos de verificação, de validação e de teste de
@@ -9885,16 +8922,6 @@ verificação nas menores unidades de projeto do software, como métodos e class
 
 Gabarito: Letra B
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 67.(COPEREVE / UFSC - 2018) Considere as seguintes afirmativas a respeito de teste de
 software
@@ -9961,12 +8988,6 @@ d) Testes de Integração.
 Comentários:
 
 
-
-
-
-
-
-
 Questão polêmica, a meu ver não há como definirem qual estágio os testes de
 caixa-branca e caixa-
 preta pertencem. Por exemplo, não há nada que impeça que um teste de caixa-preta seja
@@ -10030,16 +9051,6 @@ seja, os
 componentes já foram testados a nível de unidade, agora eles devem ser testados todos juntos.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Letra A
 
 Item. 71. (CESGRANRIO / TRANSPETRO - 2018) Entre as técnicas de teste de software, aquela
@@ -10101,8 +9112,6 @@ d) Refatoração
 e) Teste de integração
 
 Comentários:
-
-
 
 
 Quem verifica novamente os casos de teste aprovados em versões prévias do software e
@@ -10174,16 +9183,6 @@ a) estresse
 b) volume
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 c) usabiIidade
 
 d) regressão
@@ -10243,8 +9242,6 @@ haver uma modificação.
 II - O teste de desempenho tem porfinalidade elaborar casos de teste que possam
 subverter as
 verificações de segurança do programa.
-
-
 
 
 III - O teste de caixa branca trabalha diretamente sobre o código fonte do
@@ -10309,16 +9306,6 @@ Gabarito: Letra B
 características:
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 ■ Realizado na instalação dos desenvolvedores.
 
 ■ Conduzido em um ambiente controlado.
@@ -10379,12 +9366,6 @@ importância e podem, dependendo do porte do sistema, ser bastante complexos, ex
 que
 seu planejamento e realização sejam divididos em fases. Em uma dessas fases, os testes são
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 realizados por um grupo restrito de usuários finais do sistema, que simulam operações
 de rotina
@@ -10451,16 +9432,6 @@ b) testes de integração.
 c) testes de usabilidade.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 d) testes de regressão.
 
 Comentários:
@@ -10522,8 +9493,6 @@ teste de regressão; (e) Errado, isso não é teste de regressão.
 Gabarito: Letra B
 
 
-
-
 85-(CESGRANRIO / EPE - 2012) Em uma discussão sobre testes, um grupo de programadores
 emitiu as afirmativas a seguir.
 
@@ -10578,12 +9547,6 @@ b) É uma técnica que tem por objetivo primário reduzir o número de casos de 
 c) É uma técnica que trabalha por dedução indutiva.
 
 d) É uma técnica que tem por objetivo primário ampliar o número de casos de testes.
-
-
-
-
-
-
 
 
 e) É uma técnica que tem por objetivo primário montar um conjunto de regras de decisão a
@@ -10644,16 +9607,6 @@ d) I e II
 e) I, lie III
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Comentários:
 
 (a) Correto, ele realmente reexecuta os testes já executados anteriormente para
@@ -10665,12 +9618,6 @@ validação realmente
 focalizam ações e saídas tais como percebidas pelo usuário final.
 
 Gabarito: Letra E
-
-
-
-
-
-
 
 
 LISTA DE QUESTõES - CESPE
@@ -10737,8 +9684,6 @@ foram
 sugeridos os testes de release e de cenário. Nessa situação, será correto aplicar testes de
 
 
-
-
 cenários, que são incompatíveis com os de release, devendo a aplicação desses últimos
 ser
 descartada.
@@ -10801,12 +9746,6 @@ Item. 18. (CESPE/CGM DE JOÃO PESSOA-PB-2018) O particiona mento de equivalênci
 de teste caixa-preta caracterizada por dividir o domínio de entrada de um módulo em
 classes de
 equivalência, a partir das quais casos de teste são derivados.
-
-
-
-
-
-
 
 
 ig.(CESPE / STM - 2018) Testes de regressão servem ao propósito de verificar se o
@@ -10879,12 +9818,6 @@ de uma falha e
 esteja apto a retomar o processamento em um prazo preestabelecido.
 
 
-
-
-
-
-
-
 b) Efetuar testes de regressão consiste em reexecutar testes já finalizados para
 garantir que
 eventuais alterações não tenham impactado funções que antes funcionavam corretamente.
@@ -10948,12 +9881,6 @@ construção estejam
 funcionando de acordo com as especificações.
 
 
-
-
-
-
-
-
 35- (CESPE / MPE-PI - 2012) Em teste funcional, o conjunto de valores de entrada
 válidos pode ser
 reduzido por meio de partição em classes de equivalência, o que torna a quantidade de
@@ -11015,12 +9942,6 @@ teste de
 módulo.
 
 d) A produção de scripts de teste deve preceder a eventual construção de casos de teste.
-
-
-
-
-
-
 
 
 e) Ao se inspecionar o conteúdo de um plano de testes, devem-se encontrar,
@@ -11091,13 +10012,6 @@ focaliza o
 esforço de validação na menor unidade de projeto do software e, com o uso de técnicas de
 
 
-
-
-
-
-
-
-
 componentização, caminhos de controle relevantes são testados para descobrir
 erros dentro
 dos limites do componente.
@@ -11151,12 +10065,6 @@ condição, de fluxo de dados, de ciclos e de caminhos lógicos.
 ►
 
 ►
-
-
-
-
-
-
 
 
 Item. 63. (CESPE / TRE-PR - 2009) Enquanto o teste caixa-preta é estrutural ou orientado à
@@ -11226,13 +10134,6 @@ integração, testes
 beta empregam apenas desenvolvedores.
 
 
-
-
-
-
-
-
-
 74-(CESPE /TSE-2006) Um teste de unidade pode ser projetado usando-se uma estratégia
 caixa
 branca. Nesse caso, há um foco nos mecanismos internos da unidade sendo
@@ -11256,8 +10157,6 @@ normalmente
 deve ser testado por usuários reais do sistema. Nessa etapa, configura-se a realização
 de beta
 testes.
-
-
 
 
 GABARITo
@@ -11340,8 +10239,6 @@ Item. 76. ERRADO
 Item. 26. CORRETO 52. CORRETO
 
 
-
-
 LISTA DE QUESTõES - FCC
 
 í. (FCC / SANASA CAMPINAS - 2019) Considere que está em desenvolvimento um projeto de
@@ -11407,8 +10304,6 @@ b) reduzir o tamanho do código fonte do software sob análise.
 c) detectar falhas ou defeitos no software, de acordo com o estabelecido em sua especificação.
 
 d) demonstrar que o software sob análise não é cópia de outro software.
-
-
 
 
 e) verificar se o software sob análise não contém dados sigilosos.
@@ -11485,8 +10380,6 @@ d) de Regressão.
 e) de Caixa-preta.
 
 
-
-
 Item. 8. (FCC/SEFAZ-BA-2019) Considere o procedimento apresentado na figura a seguir, no
 qual são
 utilizados documentos consistentes e adequados capazes de definir,
@@ -11535,8 +10428,6 @@ a) I e IV, apenas.
 b) I, II e III, apenas.
 
 c) I, II e IV, apenas.
-
-
 
 
 d) II, III e IV, apenas.
@@ -11597,8 +10488,6 @@ os testes sejam conduzidos à medida que cada componente é inserido.
 O Auditor indicou em I e II, respectivamente, os testes de:
 
 a) caixa branca e de caixa preta, que são suficientes para validar todo o sistema.
-
-
 
 
 b) unidade e de integração; na sequência, indicou os testes de validação e de sistema
@@ -11666,12 +10555,6 @@ d) o software completo em seu ambiente final de operação, já com o hardware b
 e) apenas componentes ou módulos de software cujo código fonte tenha mais de 100 linhas.
 
 
-
-
-
-
-
-
 I4-(FCC / DPE-SP - 2013) Para aplicações convencionais, o software é testado a partir
 de duas
 perspectivas diferentes: a lógica interna do programa é exercitada usando técnicas de
@@ -11728,12 +10611,6 @@ entre ações e
 objetivos alcançados.
 
 b) Testes sempre podem mostrar a ausência de erros.
-
-
-
-
-
-
 
 
 c) Para que o resultado de um teste de software seja confiável, é preciso garantir
@@ -11798,13 +10675,6 @@ c) de volume, de integridade e de aceitação.
 d) da caixa-branca, de carga e de configuração.
 
 e) de unidade, de carga e de integridade.
-
-
-
-
-
-
-
 
 
 Item. 20. (FCC/TRT9-2oIo) O teste de sistema que força o software a falhar de diversos modos e verifica
@@ -11873,8 +10743,6 @@ d) de desempenho.
 e) de estresse.
 
 
-
-
 25-(FCC / AFR-SP - 2009) Garantir que um ou mais componentes de um sistema combinados
 funcionam corretamente é o objetivo do tipo de teste:
 
@@ -11919,12 +10787,6 @@ d) no uso da aplicação.
 e) na intuição e experiência do engenheiro.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 GABARITo
 
 Item. 1. LETRA A 10. LETRA A
@@ -11953,8 +10815,6 @@ Item. 26. LETRA E
 
 9- LETRA C 18. LETRA B
 27- LETRA B
-
-
 
 
 LISTA DE QUESTõES - FC V
@@ -12019,8 +10879,6 @@ expectativas da
 empresa.
 
 Conclui-se que está sendo realizado o teste de:
-
-
 
 
 a) unidade;
@@ -12094,8 +10952,6 @@ a) empregam primordialmente técnicas conhecidas como "White box";
 b) são equivalentes aos testes conhecidos pelo termo "Alfa teste";
 
 
-
-
 c) focam em pontos críticos, cujas correções são providenciadas de
 imediato pelos
 desenvolvedores;
@@ -12160,8 +11016,6 @@ III.Teste de desempenho foca na experiência do usuário, ergonomia da interface
 funcionalidades.
 
 
-
-
 Está correto o que se afirma em:
 
 a) somente I.
@@ -12223,8 +11077,6 @@ usuários finais;
 c) o teste de aceitação formal utiliza todo o conjunto de casos de teste aplicados
 durante o teste
 do sistema, para procurar novos problemas;
-
-
 
 
 d) o teste beta é focado na busca de defeitos e seu progresso é facilmente medido;
@@ -12293,8 +11145,6 @@ e) de carga.
 Item. 17. (FGV / DPE-RJ - 2014) Testes unitários são amplamente empregados no
 desenvolvimento de
 software. Sua função principal é:
-
-
 
 
 a) testar o desempenho do software e de seus componentes.
@@ -12371,22 +11221,8 @@ c) teste caixa-preta.
 d) teste de aceitação.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 e) teste de integração.
 
-
-
-www.estrategiaconcursos.com.br
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -12409,12 +11245,6 @@ Item. 6. LETRA D 13- LETRA E
 Item. 20. LETRA B
 
 7- LETRAC 14. LETRA A
-
-
-
-
-
-
 
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
@@ -12462,8 +11292,6 @@ V para afirmativa verdadeira e F para falsa:
 () Análise de requisito - Através da análise de requisito é o momento onde efetua a
 programação
 do código fonte para desenvolver o software (JALOTE, 2005).
-
-
 
 
 () Design do software - Pelo design do software é o momento que o engenheiro de
@@ -12523,12 +11351,6 @@ e) Somente II.
 
 Item. 4. (IDHTEC / PREFEITURA DE MARAGOGI-AL - 2019) Sobre testes, analise as afirmativas a
 seguir:
-
-
-
-
-
-
 
 
 I. Teste de regressão corresponde a um nível de teste, mas não é uma estratégia
@@ -12594,8 +11416,6 @@ c) Apenas a afirmativa III.
 d) Apenas as afirmativas I e II.
 
 e) As afirmativas I, II e III.
-
-
 
 
 Item. 6. (AVANÇA SP / CÂMARA MUNICIPAL DE TABOÃO DA SERRA-SP - 2019) No que se refere às
@@ -12674,8 +11494,6 @@ TABELA A
 Z
 
 
-
-
 TABELA B
 B
 
@@ -12690,7 +11508,6 @@ TABELA A
 Z
 
 
-
 TABELA B
 B
 
@@ -12703,8 +11520,6 @@ E
 TABELA A
 
 Z
-
-
 
 
 TABELA B
@@ -12718,12 +11533,7 @@ E
 □
 
 
-
-
 TABELA A
-
-
-
 
 
 TABELA B
@@ -12785,8 +11595,6 @@ no segundo é feito de forma clara, analisando as entradas e saídas esperadas p
 d) enquanto que no primeiro há a necessidade de conhecer a estrutura do código, no
 segundo
 há apenas a necessidade de saber o resultado esperado para cada entrada de dados.
-
-
 
 
 e) enquanto que no primeiro teste não se conhece a entrada de dados, mas se
@@ -12860,12 +11668,6 @@ b) Apenas II.
 c) Apenas III.
 
 
-
-
-
-
-
-
 d) Apenas I e II.
 
 e) Apenas II e III.
@@ -12919,8 +11721,6 @@ encontra. A
 alternativa que corresponde corretamente às respectivas fases de teste numeradas
 na figura
 como 1, 2, 3 e 4 é:
-
-
 
 
 a) Recuperação - Esforço - Segurança - Desempenho.
@@ -12989,8 +11789,6 @@ de objeto
 são testadas. O foco é testar a funcionalidade de objetos ou métodos.
 
 
-
-
 b) Teste de componente é onde várias unidades individuais são integradas
 para criar
 componentes compostos. O foco é testar as interfaces de componentes.
@@ -13053,8 +11851,6 @@ b) de sistema; unitário/de integração; de aceitação.
 c) unitário/de integração; de sistema; de aceitação.
 
 d) unitário/de integração; de aceitação; de sistema.
-
-
 
 
 e) de sistema; de aceitação; unitário/de integração.
@@ -13126,8 +11922,6 @@ As lacunas das sentenças podem ser preenchidas CORRETAMENTE com a opção:
 a) Integração, Unidade, Fumaça, Integração, Regressão.
 
 
-
-
 b) Unidade, Integração, Regressão, Usabilidade, Regressão.
 
 c) Interação, Configuração, Regressão, Unidade, Utilidade.
@@ -13192,8 +11986,6 @@ c) teste de condição é um método de teste de caixa preta.
 d) fluxo de dados é um método de teste de caixa preta.
 
 e) particionamento de equivalência é um método de teste de caixa preta.
-
-
 
 
 Item. 28. (VUNESP / PREFEITURA DE VALINHOS-SP - 2019) Há dois tipos de testes de validação
@@ -13263,12 +12055,6 @@ todas as
 funcionalidades e alterações demandadas foram desenvolvidas.
 
 
-
-
-
-
-
-
 d) Os testes funcionais procuram verificar se o sistema está seguindo a
 sua especificação
 (requisitos), sem se preocupar com a estrutura adotada na implementação do sistema.
@@ -13327,8 +12113,6 @@ c) Apenas a afirmação III é verdadeira.
 d) Apenas as afirmações I e III são verdadeiras.
 
 e) Apenas as afirmações II e III são verdadeiras.
-
-
 
 
 34-(FUMARC / CÂMARA DE CARMO DO CAJURU-MG - 2018) Em relação aos tipos de testes de
@@ -13397,8 +12181,6 @@ recebeu
 novamente as funcionalidades e confirmou que os erros foram devidamente corrigidos.
 Apesar
 disso, essa equipe irá realizar mais um ciclo de teste com o objetivo de verificar se a nova versão
-
-
 
 
 do software, ajustada pelos desenvolvedores, não introduziu novos defeitos, em outros
@@ -13476,12 +12258,6 @@ análise de
 resultados.
 
 
-
-
-
-
-
-
 Item. 41. (A0CP / UNIR-2018) Os defeitos no processo de desenvolvimento, em sua maior parte,
 são de
 origem humana, pois são gerados na comunicação e na transformação de
@@ -13550,8 +12326,6 @@ carga de usuários simultâneos.
 Item. 46. (INSTITUTO AOCP / PRODEB - 2018) Qual é o objetivo da realização de testes funcionais?
 
 
-
-
 a) Visualizar o sistema como caixa branca.
 
 b) Convencer de que o sistema é bom o suficiente para uso.
@@ -13618,8 +12392,6 @@ a) 5-3-9-6.
 b) 2-4-6-1.
 
 
-
-
 c) 4-6-9-i.
 
 d) 2-3-5-g.
@@ -13677,8 +12449,6 @@ c) V-F-F-V.
 d) F-V-V-F.
 
 e) V-V-V-V.
-
-
 
 
 Item. 52. (FAURGS / BANRISUL - 2018) No desenvolvimento de software, o processo de teste
@@ -13754,12 +12524,6 @@ d) Teste de regressão
 e) Teste de integração
 
 
-
-
-
-
-
-
 55- (FAURGS/ BANRISUL-2018)é o teste que tem como foco as menores
 unidades
 de um programa, que podem ser funções, procedimentos, métodos ou classes. Neste
@@ -13827,8 +12591,6 @@ possam ser
 acordados entre o cliente e o desenvolvedor.
 
 
-
-
 II - O processo de teste deve demonstrar ao desenvolvedor e ao cliente que o
 software atende
 aos requisitos propostos.
@@ -13892,8 +12654,6 @@ c) Localização geográfica do dispositivo.
 d) Volume de dados.
 
 
-
-
 e) Variedade de dispositivos e sistemas operacionais.
 
 6o.(FAURGS/ BANRISUL-2018) Numere a segunda coluna de acordo com a primeira, associando
@@ -13954,13 +12714,6 @@ Item. 62. (FUMARC / COPASA - 2018) Analise as seguintes afirmativas sobre os tip
 I. O "Teste de Segurança" verifica se os mecanismos de proteção incorporados a um sistema
 vão
 de fato protegê-lo de invasão imprópria.
-
-
-
-
-
-
-
 
 
 II. O "Teste de Desempenho" é projetado para submeter o software a situações anormais
@@ -14032,8 +12785,6 @@ acordo com o que foi especificado.
 e) Os testes devem ser executados antes das atividades de verificação.
 
 
-
-
 Item. 66. (CS / SANEAGO-GO - 2018) No âmbito da Engenharia de Software, testes de unidade
 são
 aqueles realizados:
@@ -14100,8 +12851,6 @@ b) Testes de Unidade.
 c) Testes de Aceitação.
 
 d) Testes de Integração.
-
-
 
 
 Item. 69. (PR4 / UFRJ - 2018) Com relação a teste de software, quando questionado sobre
@@ -14177,8 +12926,6 @@ b) Teste de sistema
 c) Inspeção
 
 
-
-
 d) Refatoração
 
 e) Teste de integração
@@ -14249,8 +12996,6 @@ d) Teste beta.
 e) Teste funcional.
 
 
-
-
 76.(FCM / IF Farroupilha-RS - 2016) O teste de software pode ser realizado de
 diversas formas.
 Mesmo assim, existem técnicas que podem ser utilizadas para encontrar falhas no
@@ -14314,8 +13059,6 @@ características:
 Esse tipo de teste é chamado de:
 
 a) Teste alfa
-
-
 
 
 b) Teste beta
@@ -14387,8 +13130,6 @@ d) Teste de integração —> Arquitetura do sistema
 e) Teste de caixa preta —> Desenho das estruturas de dados
 
 
-
-
 Item. 82. (IBFC / TRE-AM - 2014) Assinale o nome do teste de software que consiste
 tipicamente na
 aplicação de versões mais recentes do software, para garantir que não surgiram novos
@@ -14454,12 +13195,6 @@ d) I e III, apenas.
 e) I, lie III.
 
 
-
-
-
-
-
-
 Item. 86. (ESAF / CVM - 2010) Teste de Equivalência de Classe é:
 
 a) É uma técnica que trabalha por dedução física.
@@ -14512,16 +13247,6 @@ d) I e II
 
 e) I, lie III
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -14613,78 +13338,4 @@ Item. 88. LETRA E
 
 Item. 30. LETRA E 60. LETRA A
 
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

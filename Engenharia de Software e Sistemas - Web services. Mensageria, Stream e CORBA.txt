@@ -28,11 +28,6 @@ Capítulo. Engenharia de Software e Sistemas - Web services. Mensageria, Stream 
 12) Lista de Questões - WS e REST - Diversas
 
 
-
-
-Diego Carvalho
-
-
 Mensageria e CORBA
 
 INCIDÊNCIA EM PROVA: BAIXÍSSIMA
@@ -100,11 +95,6 @@ comunicação
 entre os dois sistemas com o intuito e, por conta desse middleware, diz-se que a
 comunicação é
 indireta. A mensageria permite, portanto, o processamento de requisições de forma assíncrona
-
-
-
-
-Diego Carvalho
 
 
 - além de integrar sistemas desenvolvidos em tecnologias diferentes (Ex: Java e .NET).
@@ -177,11 +167,6 @@ nuvem e
 muitas outras aplicações onde a troca assíncrona de mensagens é necessária. Já o CORBA1 é uma
 
 1 CORBA = Common Object Request Broker Architeture
-
-
-
-
-Diego Carvalho
 
 
 arquitetura padrão para estabelecer e simplificar a troca de dados entre sistemas
@@ -262,11 +247,6 @@ LANGUAGE (IDL)
 e as operações dos objetos CORBA. A IDL permite que desenvolvedores descrevam a
 
 
-
-
-Diego Carvalho
-
-
 interface de um objeto CORBA de forma independente da linguagem de programação
 usada para implementá-lo. A partir da IDL, é possível gerar código-fonte em diferentes
 linguagens para a implementação do objeto e a criação dos stubs e skeletons
@@ -336,19 +316,9 @@ se adaptar a
 flutuações de carga, atrasos de rede ou falhas pontuais, garantindo a continuidade do fluxo de
 
 
-
-
-Diego Carvalho
-
-
 dados. Galera, esses assuntos não caem muito em prova, mas não são assuntos complexos,
 então
 vale a leitura.
-
-
-
-
-Diego Carvalho
 
 
 Conceitos Básicos
@@ -421,11 +391,6 @@ através de uma rede.
 Web Services são componentes de software com baixo fator de acoplamento, utilizado por meio de
 padrões de
 internet.
-
-
-
-
-Diego Carvalho
 
 
 Web Services representam uma função/lógica de negócio ou um serviço que pode ser acessado por uma
@@ -512,11 +477,6 @@ internet), no
 qual o acesso é fornecido por meio de uma interface descrita e exercitada consistentemente de
 
 
-
-
-Diego Carvalho
-
-
 acordo com restrições e políticas especificadas pela descrição do
 serviço (contrato). A
 disponibilização de um serviço ocorre por meio de um contrato, que é uma interface
@@ -584,11 +544,6 @@ serviço (URL). Notem que a página informa o endereço do endpoint-.
 EndPoint
 
 https://www.camara.gov.br/SitCamaraWS/Deputados.asrTix7wsdl
-
-
-
-
-Diego Carvalho
 
 
 Esse endpoint exibe todos os serviços oferecidos, mas é possível acessar cada um
@@ -706,11 +661,6 @@ is shown below.
 </deputado»
 
 
-
-
-Diego Carvalho
-
-
 O resultado veio em formato XML (formato de dados adotado pela W3C para troca de
 informações
 entre aplicações distribuídas). Note que ele trouxe diversos dados da deputada Benedita
@@ -804,11 +754,6 @@ Entrada em
 15/04/2015 e saída em 02/02/2016). Caso eu não informe o parâmetro da legislatura,
 será retornado
 o histórico de todas as legislaturas de que a deputada participou.
-
-
-
-
-Diego Carvalho
 
 
 This XML file does not appear to have any style information associated with it. The document tree
@@ -929,11 +874,6 @@ negativa
 a integração e a comunicação entre os dois sistemas.
 
 
-
-
-Diego Carvalho
-
-
 O ideal, portanto, seria fazer a integração dos sistemas por meio de um Web Service.
 A utilização
 de serviços web permite que todas essas mudanças ocorram indiscriminadamente desde que a
@@ -964,11 +904,6 @@ acoplamento, reduz os custos, não requer a interação de usuários finais1, en
 1 Há implementações de Web Services que tratam da interação máquina-máquina ou
 aplicação-aplicação - sem a obrigatoriedade de interferência
 humana.
-
-
-
-
-Diego Carvalho
 
 
 Arquitetura de Web Services
@@ -1004,11 +939,6 @@ serviços que o
 satisfaçam. É importante destacar que quando um fornecedor e um solicitante
 entram em
 acordo, ocorre o que chamamos de Bind (Vínculo).
-
-
-
-
-Diego Carvalho
 
 
 Paradigma SOAP
@@ -1100,11 +1030,6 @@ que o
 escopo foi aumentando cada vez mais...
 
 
-
-
-Diego Carvalho
-
-
 SOAP
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
@@ -1175,11 +1100,6 @@ alguns
 pontos mais concretos...
 
 
-
-
-Diego Carvalho
-
-
 0 que é o SOAP? É um protocolo! Para quê? Para a troca estruturada de dados entre
 serviços web
 em redes de computadores. Ele não é um formato? Sim, esse protocolo especifica um
@@ -1241,11 +1161,6 @@ OPCIONAL
 ou processamento de mensagens, informando localização e formato dos erros
 encontrados. Quando estiver presente deve aparecer como um elemento filho do
 elemento Body.
-
-
-
-
-Diego Carvalho
 
 
 Vamos ver como é uma Mensagem SOAP? No exemplo a seguir, temos uma requisição em que
@@ -1331,11 +1246,6 @@ WSDL
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
 
 
-
-
-Diego Carvalho
-
-
 DEFINIÇÃO DE WSDL
 
 Trata-se de uma linguagem de descrição de web services, escrita emXML, para descrever serviços web,
@@ -1398,11 +1308,6 @@ outras palavras, descreve como o serviço é feito: protocolos de
 comunicação, codificação de dados, localização, portas, endereço de
 rede, etc. Ela também adiciona informações sobre como o serviço se
 comunicará e quem pode alcançá-lo.
-
-
-
-
-Diego Carvalho
 
 
 Professor, qual a vantagem de fazer essa separação? A vantagem é que, caso a
@@ -1469,11 +1374,6 @@ web,
 implementações e metadados básicas sobre eles.
 
 
-
-
-Diego Carvalho
-
-
 Vamos testar a faixa etária dos meus alunos agora! Alguém
 sabe o que é esse livro da imagem ao lado? Galera, isso é
 uma lista telefônica. Quando o telefone fixo começou a se
@@ -1511,11 +1411,6 @@ essas informações, é possível encontrar algum serviço sobre o qual já se p
 informações. Há também informações de contato do negócio (Ex: Endereço,
 Telefone, Fax,
 Identificadores, etc).
-
-
-
-
-Diego Carvalho
 
 
 A Páginas Amarelas contêm uma classificação do serviço ou negócio disponíveis baseado em
@@ -1578,11 +1473,6 @@ Interface de
 Publicação (Publisher) para publicar e atualizar um serviço.
 
 
-
-
-Diego Carvalho
-
-
 Vamos agora fazer um resumão do Paradigma SOAP! Uma aplicação
 (Cliente/Solicitante de
 Serviço) utiliza um serviço de diretórios (Agente de Serviço)-como o UDDI-para localizar
@@ -1602,11 +1492,6 @@ escreve
 uma Mensagem SOAP respondendo a requisição inicial com o resultado e envia para o
 Cliente
 SOAP. Por fim, este último lê a mensagem e repassa o resultado para a aplicação requisitante.
-
-
-
-
-Diego Carvalho
 
 
 Paradigma REST
@@ -1678,11 +1563,6 @@ alteração.
 Dessa forma, GET é utilizado para leitura e POST é utilizado para criação! Ambos permitem o
 
 
-
-
-Diego Carvalho
-
-
 envio de parâmetros, no entanto há uma diferença fundamental entre eles: GET
 deixa os
 parâmetros visíveis na URL; POST esconde os parâmetros no corpo da mensagem. No exemplo
@@ -1752,11 +1632,6 @@ mais
 fracos). Além disso, as redes móveis de internet ainda suportavam baixa velocidade - a tecnologia
 
 
-
-
-Diego Carvalho
-
-
 3G original possuía uma velocidade máxima de download de 0.3 Mbps; o 4G atual suporta
 até 900
 Mbps; e o 5G promete chegar aos sGbps.
@@ -1807,11 +1682,6 @@ No primeiro caso, se você quiser enviar um dado de um ponto para outro,
 você pode
 simplesmente subir no cavalo e cavalgar. No segundo caso, também temos uma pessoa e um
 cavalo, mas junto temos uma carroça. Vocês lembram que nós falamos sobre 0 overhead? Pois é, a
-
-
-
-
-Diego Carvalho
 
 
 carroça é a carga extra (sobrecarga) para transportar uma pessoa entre dois
@@ -1903,11 +1773,6 @@ arquitetura e
 responsabilidades em dois ambientes.
 
 
-
-
-Diego Carvalho
-
-
 STATELESS
 (SEM ESTADO)
 
@@ -1976,15 +1841,6 @@ diferentes clientes podem se comportar de maneiras específicas mesmo que utiliz
 exatamente os mesmos serviços providos pelo servidor.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 Todas aplicações que siga essas restrições são consideradas Aplicações RESTful. Como
 vocês
 devem ter notado, essas restrições não ditam a tecnologia a ser utilizada para o
@@ -2036,11 +1892,6 @@ Se testarmos
 com Klaus, retornará 28.9% de ser da Alemanha (DE); 27.2% de ser da Áustria (AT); e 25% de ser da
 
 
-
-
-Diego Carvalho
-
-
 Dinamarca (DK). Se testarmos com Sato, retornará 97.2% de ser do Japão (JP); 1.5% de
 ser da
 Turquia (TR); e 0.006% de ser da Itália (IT).
@@ -2072,11 +1923,6 @@ XML,
 etc). Então, fechamos aqui a nossa aula... eu sei que se trata de um assunto
 complexo e técnico,
 mas vocês vão ver que os exercícios não são tão complicados. Vamos lá...
-
-
-
-
-Diego Carvalho
 
 
 RESUMo
@@ -2168,15 +2014,6 @@ informações podem ser organizadas.
 DEFINIÇÃO DE SOAP
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 Trata-se de uma das formas de comunicação para encapsular dados transferidos no formato XML para Web
 Services.
 
@@ -2231,15 +2068,6 @@ Trata-se do elemento contido no corpo responsável por relatar possíveis erros 
 ou processamento de mensagens, informando localização e formato dos erros
 encontrados. Quando estiver presente deve aparecer como um elemento filho do
 elemento Body.
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 DEFINIÇÃO DE WSDL
@@ -2327,15 +2155,6 @@ Services
 com sucesso (Sim, alguns o chamam de protocolo!).
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 Trata-se de um padrão de descoberta que define como são organizadas as informações de descrição do
 serviço,
 permitindo que os solicitantes descubram os serviços.
@@ -2390,15 +2209,6 @@ requisição.
 POST Esse método é utilizado para submeter uma entidade a um recurso específico,
 frequentemente
 causando uma mudança no estado do recurso ou efeitos colaterais no servidor.
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 DELETE
@@ -2509,15 +2319,6 @@ todas as informações necessárias na requisição para que o servidor possa en
 processá-la.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 SISTEMA EM
 CAMADAS
 
@@ -2575,15 +2376,6 @@ Assim, diferentes clientes podem se comportar de maneiras específicas mesmo que
 utilizando exatamente os mesmos serviços providos pelo servidor.
 
 H PARA MAIS DICAS: WWW.INSTA6RAM.COM/PROFESSORDIEGOCARVALHO
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 QUESTõES CoMENTADAS - CESPE
@@ -2644,11 +2436,6 @@ a) options
 b) get
 
 c) trace
-
-
-
-
-Diego Carvalho
 
 
 d) connect
@@ -2715,11 +2502,6 @@ padrão utilizado em SOA para a criação de repositórios de descrição de ser
 Comentários:
 
 
-
-
-Diego Carvalho
-
-
 Perfeito! O UDDI trata-se de um diretório/registro para armazenamento de informações
 sobre Web
 Services - é um repositório de interfaces de Web Services descritas por WSDL. Em uma
@@ -2773,15 +2555,6 @@ diversas
 linguagens, como HTML, XML, JSON, YAML, já o SOAP suporta apenas o XML.
 
 Gabarito: Errado
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 Item. 9. (CESPE / Petrobrás - 2022) Os protocolos SOAP e REST são os padrões mais
@@ -2847,15 +2620,6 @@ atual de um
 recurso quanto a exclusão do próprio recurso.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 Gabarito: Correto
 
 i2.(CESPE / SERPRO - 2021) O protocolo de comunicação HTTP e a identificação de
@@ -2913,15 +2677,6 @@ conecta
 ao servidor final.
 
 Comentários:
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 Na verdade, é recomendado que-entre o cliente e o servidor-haja um balanceadorde carga
@@ -2983,15 +2738,6 @@ O padrão utilizado para descrever a estrutura de Mensagens SOAP é o WSDL.
 Gabarito: Letra B
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 i8.(CESPE ITRT-CE - 2019) Assinale a opção que apresenta o método HTTP que deve ser
 usado
 para a busca de recursos por meio do web service RESTful.
@@ -3042,11 +2788,6 @@ Comentários:
 Perfeito! Ele realmente permite integrar sistemas e realizar a comunicação entre aplicações.
 
 Gabarito: Correto
-
-
-
-
-Diego Carvalho
 
 
 22.(CESPE / STJ -2018) Os serviços Web RESTful utilizam o HTTP como um meio de
@@ -3102,11 +2843,6 @@ que se
 mantenha sua interface. No entanto, eventualmente eu posso precisar alterar a interface
 de um
 serviço - e, nesse caso, não dá para evitar a transformação do contrato do serviço.
-
-
-
-
-Diego Carvalho
 
 
 Logo, o contrato não é imutável, deve-se realmente evitar modificá-lo, mas ele não é
@@ -3169,15 +2905,6 @@ Gabarito: Letra C
 Item. 27. (CESPE / TRE-PE - 2017) REST (Representational State Transfer) é:
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 a) um estilo de desenvolvimento que utiliza o protocolo HTTP e se baseia na
 interação simples
 entre cliente e servidor.
@@ -3234,11 +2961,6 @@ restrições ao
 formato da mensagem; (d) Errado, essa frase sequer faz sentido; (e) Correto.
 
 
-
-
-Diego Carvalho
-
-
 Gabarito: Letra E
 
 2g.(CESPE / TRE-MT - 2016) Acerca de REST (representational state transfer), assinale a
@@ -3286,11 +3008,6 @@ Comentários:
 Na verdade, independe de tecnologias - inclusindo as linguagens de programação.
 
 Gabarito: Errado
-
-
-
-
-Diego Carvalho
 
 
 Item. 32. (CESPE/ TCE-PA - 2016) Ao se usar o protocolo SOAP (Simple Object Access
@@ -3343,11 +3060,6 @@ Gabarito: Correto
 utilizada são relevantes para os clientes.
 
 Comentários:
-
-
-
-
-Diego Carvalho
 
 
 Na verdade, é independe de tecnologia - logo a linguagem de implementação e a
@@ -3407,11 +3119,6 @@ limitadas ao
 tipo request-response.
 
 
-
-
-Diego Carvalho
-
-
 Comentários:
 
 TIPO | DEFINIÇÃO
@@ -3467,11 +3174,6 @@ variedade de
 plataformas e(ou) frameworks.
 
 Comentários:
-
-
-
-
-Diego Carvalho
 
 
 Perfeito! Web Services são independentes de plataforma, sistema operacional,
@@ -3533,15 +3235,6 @@ compatibilidade, essas
 extensões não afetam os cabeçalhos do envelope SOAP.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 Comentários:
 
 Na verdade, ele propõe extensões para aprimorar a segurança dos Web Services no SOAP!
@@ -3597,11 +3290,6 @@ Comentários:
 REST não é um protocolo e não é embasado em XML.
 
 
-
-
-Diego Carvalho
-
-
 Gabarito: Errado
 
 Item. 51. (CESPE / MPU - 2013) Web services é um método de comunicação entre serviços na
@@ -3652,15 +3340,6 @@ Comentários:
 REST não utiliza WSDL!
 
 Gabarito: Errado
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 55.(CESPE / MEC - 2011) O UDDI (Universal Description Discovery and
@@ -3715,11 +3394,6 @@ máquina-máquina ou
 aplicação-aplicação - sem a obrigatoriedade de interferência humana.
 
 Gabarito: Correto
-
-
-
-
-Diego Carvalho
 
 
 58.(CESPE / MEC - 2011) Em formulários HTML, apenas o método post é suportado; o
@@ -3777,11 +3451,6 @@ envolvendo
 servlets, JSP (Java server pages), Ajax, JSF (Java server faces) 2.0, Hibernate 3.5,
 SOA e web
 services.
-
-
-
-
-Diego Carvalho
 
 
 O líder da equipe iniciou, então, um extenso processo de coleta de dados com o
@@ -3842,15 +3511,6 @@ troca
 de informações entre aplicações em um ambiente distribuído.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 c) UDDI (Universal Description, Discovery and Integration) é um diretório para
 armazenamento
 de informações a respeito de web sevices. Essas informações são descritas em SOAP.
@@ -3905,15 +3565,6 @@ Na verdade, todos são baseados em XML e, não, HTTP!
 Gabarito: Errado
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 Item. 66. (CESPE / INMETRO - 2009) Na SOA, a descrição do serviço é mantida em um
 repositório
 WSDL, em formato UDDI (Universal Description, Discovery and Integration).
@@ -3965,15 +3616,6 @@ Inclusive, ele utiliza
 o Protocolo HTTP.
 
 Gabarito: Anulada
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 7O.(CESPE / TRT-BA - 2008) O UDDI é uma especificação técnica que tem
@@ -4039,15 +3681,6 @@ em outras linguagens. Em teoria, elas podem ser escritas em outras linguagens qu
 Gabarito: Errado
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 73.(CESPE / STJ - 2008) O SOAP encapsula mensagens que podem ser transmitidas via
 HTTP;
 permite o modelo de interação cliente-servidor; define como usar XML para
@@ -4088,11 +3721,6 @@ forneça os dados
 solicitados.
 
 Gabarito: Errado
-
-
-
-
-Diego Carvalho
 
 
 QUESTõES CoMENTADAS - FCC
@@ -4157,11 +3785,6 @@ d) XML/JSON/RSS/Atom - URLs - CRUD stateless: Create, Read, Update, Delete
 e) HTTP/HTTPS - caches - CRUD stateless: Create, Read, Update, Delete
 
 
-
-
-Diego Carvalho
-
-
 Comentários:
 
 Pela sua simplicidade e facilidade de entendimento, praticamente qualquer cliente ou
@@ -4211,11 +3834,6 @@ utilizado para
 enviar grandes quantidades de dados por meio de um formulário; (IV) Correto.
 
 Gabarito: Letra B
-
-
-
-
-Diego Carvalho
 
 
 QUESTõES CoMENTADAS - FG V
@@ -4276,11 +3894,6 @@ b) código sob demanda;
 c) interface uniforme;
 
 d) sistema em camadas;
-
-
-
-
-Diego Carvalho
 
 
 e) capacidade de cache.
@@ -4344,9 +3957,6 @@ lista
 que contém dois dos métodos desse protocolo.
 
 
-Diego Carvalho
-
-
 b) GETePOST.
 
 c) OPEN e CLOSE.
@@ -4406,9 +4016,6 @@ Gabarito: Letra A
 Item. 6. (FGV/AL-RO-2018) O padrão REST define um conjunto de restrições e propriedades
 baseado
 em HTTP. Sobre REST, analise as afirmativas a seguir.
-
-
-Diego Carvalho
 
 
 I. Web services que obedecem ao padrão REST precisam utilizar o formato
@@ -4472,11 +4079,6 @@ e) I, lie III.
 Comentários:
 
 
-
-
-Diego Carvalho
-
-
 (I) Correto; (II) Errado, Header é opcional; (III) Errado, quando estiver presente deve
 aparecer como
 um elemento filho do elemento Body.
@@ -4529,11 +4131,6 @@ d) WSDL
 e) UDDI
 
 Comentários:
-
-
-
-
-Diego Carvalho
 
 
 A linguagem baseada em XML utilizada para descrever um web service, suas operações e
@@ -4597,11 +4194,6 @@ transferir as
 mensagens, descrevera disponibilidade do serviço.
 
 
-
-
-Diego Carvalho
-
-
 Gabarito: Letra C
 
 i2.(FGV / IBGE - 2017) SOAP (Simple Object Access Protocol) é um protocolo de
@@ -4657,15 +4249,6 @@ Está correto somente o que se afirma em:
 a) I;
 
 b) H;
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 C) III;
@@ -4727,9 +4310,6 @@ a) Title e Meta;
 b) Envope e Body;
 
 
-Diego Carvalho
-
-
 c) Headere Fault;
 
 d) Model e Control;
@@ -4783,9 +4363,6 @@ d) linguagem de programação para serviços SOAP;
 e) linguagem de programação para XML.
 
 Comentários:
-
-
-Diego Carvalho
 
 
 (a) WSDL não executa nada, apenas descrever serviços web; (b) Correto; (c) Errado,
@@ -4853,11 +4430,6 @@ verdadeira e F para a falsa.
 () O elemento "SOAP HEADER" é obrigatório em qualquer mensagem SOAP.
 
 
-
-
-Diego Carvalho
-
-
 () A especificação SOAP fornece um modelo de processamento distribuído, o qual assume
 que
 uma mensagem SOAP é originada em um remetente inicial SOAP e é enviada para um
@@ -4921,15 +4493,6 @@ empregando o
 Remote Procedure CaIIs (RPC) entre objetos como DCOM e CORBA. Atualmente, SOAP provê
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 um caminho de comunicação entre aplicações "rodando" em diferentes sistemas operacionais,
 com diferentes tecnologias e linguagens de programação.
 
@@ -4985,11 +4548,6 @@ linguagem Java;
 (d) Errado, SOA é Service Oriented Architecture e não utiliza obrigatoriamente serviços
 web; (e)
 Errado, esse seria o UDDI.
-
-
-
-
-Diego Carvalho
 
 
 Gabarito: Letra B
@@ -5051,15 +4609,6 @@ d) somente II e III.
 e) I, lie III.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 Comentários:
 
 (I) Correto; (II) Errado, é utilizado para descrever serviços web; Errado, é diretório
@@ -5067,15 +4616,6 @@ para descrição de
 serviços web.
 
 Gabarito: Letra A
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
@@ -5134,11 +4674,6 @@ c) WSDL
 d) X.500
 
 e) LDAP
-
-
-
-
-Diego Carvalho
 
 
 Comentários:
@@ -5204,11 +4739,6 @@ relacionado
 ao modelo entidade relacionamento.
 
 
-
-
-Diego Carvalho
-
-
 Gabarito: Letra D
 
 Item. 6. (IBFC / EMDEC -2016) Quanto as tecnologias aplicadas em um Web Service temos:
@@ -5267,15 +4797,6 @@ Errado, ambos
 são recomendados pela W3C; (e) Errado, é claro que pode.
 
 Gabarito: Letra C
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 Item. 8. (IF-PI / IF-PI - 2016) Trata-se de um protocolo de comunicação de web services
@@ -5340,15 +4861,6 @@ e) Protocolo HTTP. XML. SOAP. WSDL. UDDI.
 Comentários:
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 Protocolo HTTP, XML, SOAP, WSDL e UDDI.
 
 Gabarito: Letra E
@@ -5402,15 +4914,6 @@ d) post-cat
 e) push - pull
 
 Comentários:
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 Os métodos que transferem dados do browser (cliente) para o servidor são denominados
@@ -5468,15 +4971,6 @@ distribuídos e muito
 adequada a Web.
 
 Gabarito: Correto
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 15.UFF / UFF - 2009) No tocante ao protocolo de transferência de hipertexto
@@ -5538,15 +5032,6 @@ e) utilizar os métodos HTTP: GET, POST, PUT e DELETE.
 Comentários:
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 (a) Errado, ele não utiliza RPC; (b) Errado, acelera a transferência do HTTP com a
 implementação
 de cache; (c) Errado, não há nenhuma relação com combate a SPAM; (d) Errado, não
@@ -5555,15 +5040,6 @@ utiliza SOAP;
 (e) Correto.
 
 Gabarito: Letra E
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 QUESTõES CoMENTADAS - CESPE
@@ -5623,11 +5099,6 @@ formato processável por máquina, especificamente o WSDL (web services descript
 Item. 8. (CESPE / Petrobrás - 2022) Uma das vantagens do SOAP é a sua utilização correta dos métodos
 HTML (PUT, GET, POST, DELETE), enquanto o REST utiliza apenas o método POST para
 realizar as requisições através de um arquivo XML.
-
-
-
-
-Diego Carvalho
 
 
 Item. 9. (CESPE / Petrobrás - 2022) Os protocolos SOAP e REST são os padrões mais
@@ -5697,15 +5168,6 @@ a) REST.
 b) WSDL.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 c) CORBA.
 
 d) RESTFUL.
@@ -5768,11 +5230,6 @@ b) Um dos componentes de um Web Service SOAP (Simple Object Access Protocol) é 
 (Universal Description, Discovery and Integration), a qual é um arquivo do tipo XML que
 
 
-
-
-Diego Carvalho
-
-
 descreve detalhadamente um Web Service, especificando como deve ser o formato de entrada
 e saída de cada operação.
 
@@ -5825,15 +5282,6 @@ d) Ao desenvolver uma aplicação, o recurso é transferido pela rede.
 e) As chamadas às URIs (uniform resource indicator) são feitas por meio de métodos
 HTTP, os
 quais indicam para o serviço a ação a ser realizada com o recurso.
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 2g.(CESPE / TRE-MT - 2016) Acerca de REST (representational state transfer), assinale a
@@ -5897,15 +5345,6 @@ que se
 comunique com o servidor, além de uma única requisição.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 3g.(CESPE / CNJ - 2013) Uma das formas de comunicação para encapsular dados
 transferidos no
 formato XML para aplicações serviço web (Webservice) é o SOAP (Simple Object
@@ -5967,11 +5406,6 @@ Protocol), utilizando-se os serviços RESTfull (Representational State Transfer)
 Item. 50. (CESPE / STF - 2013) A REST (Representational State Transfer), protocolo de
 comunicação
 embasado em XML, permite a comunicação de mensagens entre aplicações por meio de
-
-
-
-
-Diego Carvalho
 
 
 qualquer protocolo de comunicação em rede. Normalmente, esse protocolo é
@@ -6038,11 +5472,6 @@ incumbência de
 desenvolver um sistema com as características apresentadas a seguir.
 
 
-
-
-Diego Carvalho
-
-
 - 0 sistema deverá ser integrado, interoperável, portável e seguro.
 
 - O sistema deverá apoiar tanto o processamento online, quanto o suporte a decisão e
@@ -6105,11 +5534,6 @@ e) Segundo o W3C (World Wide Web Consortium), web services são apropriados some
 aplicações em que componentes de um sistema distribuído são executados em
 plataformas
 semelhantes de um mesmo fornecedor.
-
-
-
-
-Diego Carvalho
 
 
 Item. 64. CESPE / ANATEL - 2009) Os três padrões fundamentais que possibilitam comunicações
@@ -6182,11 +5606,6 @@ HTTP;
 permite o modelo de interação cliente-servidor; define como usar XML para representar
 
 
-
-
-Diego Carvalho
-
-
 mensagens de requisição e resposta. Um documento XML é transportado no corpo de uma
 mensagem SOAP; no modelo cliente-servidor, o corpo de uma mensagem SOAP pode conter
 uma requisição, mas não uma resposta.
@@ -6196,11 +5615,6 @@ GET é
 utilizado em solicitações enviadas pelo servidor ao navegador para que este solicite
 dados ao
 usuário de uma página ou para que o próprio navegador forneça os dados solicitados.
-
-
-
-
-Diego Carvalho
 
 
 GABARITo
@@ -6292,11 +5706,6 @@ Item. 40. ERRADO
 4i- CORRETO
 
 
-
-
-Diego Carvalho
-
-
 í. (CESPE / TRT8 - 2022) Em uma API RESTful, cada solicitação deve conter todos os
 dados
 necessários ao seu atendimento para não depender de informações armazenadas em outras
@@ -6354,10 +5763,7 @@ comunicação entre os sistemas por meio do web service; esses protocolos, unido
 estrutura
 básica XML, compõem a estrutura básica dos web services.
 
-0 0 
-
-
-Diego Carvalho
+0 0
 
 
 Item. 9. (CESPE / DPE-RO - 2021) O REST emprega um protocolo universal, o HTTP, para
@@ -6427,15 +5833,6 @@ d) RESTFUL.
 e) HTML.
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 Item. 17. (CESPE / TRT-CE - 2019) Assinale a opção que apresenta o método HTTP que deve
 ser usado
 para a busca de recursos por meio do web service RESTful.
@@ -6498,16 +5895,6 @@ a um
 Web Service são One-Way Messaging e Request-Response Messaging.
 
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-
 d) O WSDL (Web Services Description Language) é uma linguagem para o desenvolvimento
 de
 Web Services similar ao XML.
@@ -6559,11 +5946,6 @@ Item. 28. (CESPE / TRE-MT - 2016) Acerca de REST (representational state transfe
 correta.
 
 a) O protocolo REST utiliza SOAP e XML.
-
-
-
-
-Diego Carvalho
 
 
 b) REST utiliza recurso não identificável baseado em PUT e GET.
@@ -6625,11 +6007,6 @@ transferidos no
 formato XML para aplicações serviço web (Webservice) é o SOAP (Simple Object
 Access
 Protocol).
-
-
-
-
-Diego Carvalho
 
 
 Item. 39. (CESPE / CNJ - 2013) A linguagem WSDL é utilizada para descrever web services
@@ -6699,16 +6076,6 @@ baseada na
 interface da arquitetura REST.
 
 
-
-
-
-
-
-
-
-Diego Carvalho
-
-
 Item. 51. (CESPE / PEFOCE - 2012) SOAP é um protocolo leve destinado à troca
 de informações
 estruturadas em um ambiente distribuído e descentralizado. Uma mensagem SOAP,
@@ -6775,11 +6142,6 @@ SOA e web
 services.
 
 
-
-
-Diego Carvalho
-
-
 0 líder da equipe iniciou, então, um extenso processo de coleta de dados com o
 objetivo de
 identificar as condições limitantes da solução a ser desenvolvida e tomar decisões
@@ -6840,11 +6202,6 @@ Language (WSDL) — protocolo que define como as interfaces dos Web Services pod
 representadas; Universal Description, Discovery And Integration (UDDI) —
 padrão de
 descoberta que define como são organizadas as informações de descrição do serviço,
-
-
-
-
-Diego Carvalho
 
 
 permitindo que os solicitantes descubram os serviços. Um desses padrões não utiliza a
@@ -6910,25 +6267,11 @@ mensagem SOAP; no modelo cliente-servidor, o corpo de uma mensagem SOAP pode con
 uma requisição, mas não uma resposta.
 
 
-
-
-Diego Carvalho
-
-
 Item. 73. (CESPE / MPE-AM -2008) No protocolo HTTP (Hypertext Transfer Protocol), o método
 GET é
 utilizado em solicitações enviadas pelo servidor ao navegador para que este solicite
 dados ao
 usuário de uma página ou para que o próprio navegador forneça os dados solicitados.
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 GABARITo
@@ -7016,11 +6359,6 @@ Item. 40. CORRETO
 Item. 41. ERRADO
 
 
-
-
-Diego Carvalho
-
-
 QUESTõES CoMENTADAS - FC V
 
 í. (FGV / TJDFT - 2022) No âmbito de Web services, analise as afirmativas a seguir
@@ -7079,11 +6417,6 @@ são
 chamadas de métodos. Kátia, então, testa o envio da página pelo servidor, cria uma
 coleção de
 páginas web em um servidor remoto e instrui o servidor a enviar de volta a solicitação.
-
-
-
-
-Diego Carvalho
 
 
 Para implementar a página web, Kátia deve usar, respectivamente, os métodos:
@@ -7153,11 +6486,6 @@ JSON para
 encapsular os dados da resposta às requisições dos sistemas solicitantes.
 
 
-
-
-Diego Carvalho
-
-
 II. Os métodos GET, POST, PUT e DELETE do protocolo de comunicação HTTP são
 compatíveis
 com operações CRUD para a persistência de dados.
@@ -7215,11 +6543,6 @@ necessárias para ser compreendida pelo servidor.
 Está correto o que se afirma em:
 
 a) somente I;
-
-
-
-
-Diego Carvalho
 
 
 b) somente II;
@@ -7293,9 +6616,6 @@ analise
 as afirmativas a seguir:
 
 
-Diego Carvalho
-
-
 I. A mensagem SOAP é definida em um documento XML que contém um elemento
 raiz
 denominado Envelope.
@@ -7353,11 +6673,6 @@ elemento-raiz da
 mensagem.
 
 II. O elemento <Header> é opcional e o elemento <Body> obrigatório.
-
-
-
-
-Diego Carvalho
 
 
 III. O elemento <Fault> é utilizado para transportar informações de erro
@@ -7423,16 +6738,6 @@ c) descrever os objetos de um Serviço REST;
 d) linguagem de programação para serviços SOAP;
 
 e) linguagem de programação para XML.
-
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 i8.(FGV / TJ-GO - 2014) Mensagem utilizada para comunicação com um Serviço Web (Web
@@ -7502,11 +6807,6 @@ d) V, V e F.
 e) F, F e V.
 
 
-
-
-Diego Carvalho
-
-
 Item. 20. (FGV / Senado Federal - 2012) A respeito de mensagens SOAP, assinale a alternativa correta.
 
 a) O elemento Envelope deve usar o namespace "http://www.w3.org/2oo1/12/soap-envelope".
@@ -7570,11 +6870,6 @@ localizar
 informações sobre Web Services.
 
 
-
-
-Diego Carvalho
-
-
 Item. 23. (FGV / MEC - 2009) A respeito das tecnologias relacionadas a Web Services, analise as
 afirmativas a seguir:
 
@@ -7623,11 +6918,6 @@ d) somente II e III.
 e) I, lie III.
 
 
-
-
-Diego Carvalho
-
-
 GABARITo
 
 Item. 1. LETRAC 9- LETRA B
@@ -7653,17 +6943,6 @@ Item. 22. LETRA A
 
 Item. 8. LETRA A i6. LETRA A
 24- LETRA B
-
-
-
-
-Diego Carvalho
-
-
-
-
-
-Diego Carvalho
 
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
@@ -7729,11 +7008,6 @@ e) XDR.
 Item. 5. (IBFC / EBSERH - 2017) Conforme o W3C (World Wide Web Consortium) pode-se definir
 um
 Web Service como sendo:
-
-
-
-
-Diego Carvalho
 
 
 a) uma estrutura conceituai para reger projetos de engenharia de software.
@@ -7804,11 +7078,6 @@ d) DHCP.
 e) DNS.
 
 
-
-
-Diego Carvalho
-
-
 Item. 9. (FUNIVERSA / IF-AP - 2016) SOAP (Simple Object Access Protocol) é um
 protocolo de
 comunicação que permite a troca de mensagens entre aplicações Web, geralmente
@@ -7876,15 +7145,6 @@ c) push - pop
 d) post-cat
 
 
-
-
-
-
-
-
-Diego Carvalho
-
-
 e) push - pull
 
 13.(MPE-RS / MPE-RS - 2012) Considere as seguintes afirmações a
@@ -7948,11 +7208,6 @@ d) SGML e HTML
 e) B2B e B2C
 
 
-
-
-Diego Carvalho
-
-
 i7.(CESGRANRIO / REFAP-ES - 2007) O estilo arquitetural REST (Representational State
 Transfer) para WEB tem como característica:
 
@@ -7965,15 +7220,6 @@ c) combater o SPAM, utilizando redes neurais como técnica de aprendizagem.
 d) usar SOAP para interoperabilidade entre sistemas heterogêneos.
 
 e) utilizar os métodos HTTP: GET, POST, PUT e DELETE.
-
-
-
-
-
-
-
-
-Diego Carvalho
 
 
 GABARITo
@@ -7995,84 +7241,4 @@ Item. 16. LETRA A
 
 Item. 6. LETRA D 12. LETRA B
 
-
-
-
-Diego Carvalho
-
-
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

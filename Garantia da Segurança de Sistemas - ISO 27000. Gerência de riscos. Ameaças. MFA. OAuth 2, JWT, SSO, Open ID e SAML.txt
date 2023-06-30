@@ -8,9 +8,6 @@ Capítulo. Garantia da Segurança de Sistemas - ISO 27000. Gerência de riscos. 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-I
 
 
-André Castro
-
-
 Sumário
 
 Princípios de Segurança
@@ -50,11 +47,6 @@ Questões Comentadas
 Princípios de Segurança
 
 
-
-
-André Castro
-
-
 Diretrizes para Software Seguro
 Questões Comentadas Complementares
 
@@ -78,9 +70,6 @@ Considerações Finais
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-I
 
 ww. estrategiaconcursos. com. br
-
-
-André Castro
 
 
 Considerando a era da Informação em que nos encontramos atualmente, aspectos
@@ -140,14 +129,8 @@ a divulgação não
 autorizada desses dados
 
 
-Item. 0.0 
+Item. 0.0
 www. estra tegiaconcursos. com. br
-
-
-
-
-
-André Castro
 
 
 A) integridade.
@@ -215,15 +198,6 @@ experiência
 por diversos usuários da violação do princípio da disponibilidade caso estes não consigam acessar o
 
 
-
-
-
-
-
-
-André Castro
-
-
 site ou enviar suas requisições por falha no sistema ou volume de acesso que consomem
 todos os
 recursos disponíveis, impedindo a utilização por novos usuários.
@@ -268,10 +242,7 @@ utilização de uma impressão digital ou reconhecimento facial, logins e senhas
 tradicionais, utilização de
 cartões físicos ou digitais de acesso, entre muitos outros.
 
-0-0 
-
-
-André Castro
+0-0
 
 
 r.................................................... 7........................
@@ -338,9 +309,6 @@ PRATICAR!
 *
 
 
-André Castro
-
-
 (Ano: 2022 Banca: FGV Órgão: TJDFT Prova: Suporte em TI) Lucas é um trader
 profissional que trabalha
 em uma corretora de valores. Ele efetua muitas operações durante o período em que a bolsa negocia
@@ -397,15 +365,10 @@ A) Autenticidade.
 B) Completude.
 
 
-0 0 
+0 0
 
 
 *
-
-
-
-
-André Castro
 
 
 C) Confidencialidade.
@@ -468,11 +431,6 @@ recuperar a intervenção realizada.
 * Integridade de conexão sem recuperação
 
 
-
-
-André Castro
-
-
 o Como vimos, neste caso, não há capacidade de recuperação, mas tão somente de detecção.
 
 * Integridade de conexão de campo seletivo
@@ -528,15 +486,6 @@ identidade
 do atacante;
 
 
-
-
-
-
-
-
-André Castro
-
-
 * Varredura: um atacante pode fazer varreduras na rede, a fim de
 descobrir outros
 computadores e, então, tentar executar ações maliciosas, como ganhar acesso e
@@ -575,11 +524,6 @@ de rede
 para induzir outros a se conectarem a este, ao invés do dispositivo legítimo,
 permitindo a
 captura de senhas de acesso e informações que por ele passem a trafegar.
-
-
-
-
-André Castro
 
 
 Furto de dados: dados
@@ -684,11 +628,6 @@ i infectado ou invad ido
 de se comunicar F
 
 
-
-
-André Castro
-
-
 SEGURANçA FÍSICA, LóGICA E CoNTRoLE DE ACESSo
 
 Quando falamos de Segurança da Informação, há uma diferenciação clássica no que tange
@@ -730,15 +669,6 @@ combustível como
 fonte de energia.
 
 
-
-
-
-
-
-
-André Castro
-
-
 Item. 3. Site físico redundante - Busca-se criar outro ambiente que seja capaz de assumir
 a operação em
 caso de catástrofe que prejudique o ambiente principal. Para tanto, é muito importante
@@ -762,15 +692,6 @@ através das conhecidas
 chaves kensington, que, literalmente, "prendem" o equipamento em uma localidade.
 
 
-
-
-
-
-
-
-André Castro
-
-
 Item. 6. Alarmes - Temos aqui um sistema de aviso que pode ser considerando no seu
 aspecto físico, como
 
@@ -785,15 +706,6 @@ seguro para datacenters,
 implementando diversos tipos de controles de segurança, de acesso, mecanismos de reação
 a
 catástrofes, entre outros.
-
-
-
-
-
-
-
-
-André Castro
 
 
 Segurança Lógica
@@ -825,9 +737,6 @@ portanto, um recurso de
 segurança lógica.
 
 *
-
-
-André Castro
 
 
 [ Ano: 2021 Banca: CESPE / CEBRASPE Órgão: PG-DF
@@ -909,15 +818,6 @@ existente no sistema operacional e aplicações. Assim, deve-se manter e instala
 mais atualizadas.
 
 
-
-
-
-
-
-
-André Castro
-
-
 Segurança Lógica
 
 Acesso de ROOT: Não se deve possibilitar a utilização do
@@ -968,13 +868,7 @@ B física, lógica, lógica e física.
 
 C lógica, física, lógica e física.
 
-0 0 
-
-
-
-
-
-André Castro
+0 0
 
 
 D lógica, física, física e lógica.
@@ -1028,9 +922,6 @@ sistemas estão
 rodando.
 
 *
-
-
-André Castro
 
 
 ........................................ .................... ....................
@@ -1105,11 +996,6 @@ comparado com o MAC
 e considerando o usuário que necessita compartilhar o recurso com outros usuários. Nesta técnica,
 
 
-
-
-André Castro
-
-
 o usuário tem o controle de garantir privilégios de acesso a recursos aos que estão
 sob seu domínio.
 Como exemplo desta técnica, podemos citar o próprio sistema de permissão do linux ou
@@ -1156,10 +1042,7 @@ Comentários:
 Vejam a palavra chave, pessoal. De acordo com as suas funções ou papeis. Logo, temos o modelo
 RBAC, que é, embasado em papéis.
 
-0-0 
-
-
-André Castro
+0-0
 
 
 r
@@ -1224,15 +1107,6 @@ e) Aqui, temos o descritivo do modelo RBAC, dado o trecho focado nas funções o
 sujeitos.
 
 Gabarito: B
-
-
-
-
-
-
-
-
-André Castro
 
 
 AUTENTICAçÃo E SEUS MECANISMoS
@@ -1303,9 +1177,6 @@ i authorization e accounting).
 *
 
 
-André Castro
-
-
 INDO MAIS
 
 FUNDO!
@@ -1349,13 +1220,7 @@ mesmo princípio, e pode ter 2 ou mais fatores.
 CESPE / CEBRASPE - 2022 - TCE-SC - Auditor Fiscal de Controle Externo - Ciência da Computação
 
 
-Q-Q 
-
-
-
-
-
-André Castro
+Q-Q
 
 
 No controle de acesso, somente os usuários que tenham sido especificamente autorizados
@@ -1410,13 +1275,7 @@ Conforme nós vimos pessoal, há a necessidade de conhecimento de algo que VOCÊ
 com ALGO QUE VOCÊ POSSUI (celular). Logo, temos aí o 2FA.
 
 
-0 0 
-
-
-
-
-
-André Castro
+0 0
 
 
 Gabarito: D
@@ -1463,15 +1322,6 @@ esses dois como
 pré-requisitos.
 
 Gabarito: C
-
-
-
-
-
-
-
-
-André Castro
 
 
 SAML - Security Assertion Markup Language
@@ -1537,15 +1387,6 @@ utiliza o conceito de
 reconhecimento do usuário por meio da comprovação de documentos, sejam físicos ou
 digitais. Assim,
 caso haja esse reconhecimento em alguma medida, o usuário terá sua credencial nível prata.
-
-
-
-
-
-
-
-
-André Castro
 
 
 Por fim, o nível Ouro, que envolve reconhecimento biométrico. Basicamente, o principal
@@ -1619,13 +1460,7 @@ fator de autenticação
 ser realizado, ou, no
 
 
-Q-Q 
-
-
-
-
-
-André Castro
+Q-Q
 
 
 mínimo, a confirmação da segunda camada de segurança. Ainda, a título de
@@ -1683,15 +1518,6 @@ logins simplificados
 e integrados a múltiplos serviços na Internet. O processo por trás é muito semelhante
 ao SAML que
 mencionamos.
-
-
-
-
-
-
-
-
-André Castro
 
 
 Client
@@ -1763,15 +1589,6 @@ mais restrito, como foi =
 
 = o caso do serviço do Acesso.Gov que mencionamos, que pode ser utilizado apenas por órgãos de
 Governo. =
-
-
-
-
-
-
-
-
-André Castro
 
 
 i O que importa é que, nesse processo, é necessário que o serviço que realiza
@@ -1849,9 +1666,6 @@ L....................... ■■■■■■■..................................
 ■■■■■■..................................... ■■■■■■.....................................
 
 *
-
-
-André Castro
 
 
 ....................................................................................................
@@ -1935,15 +1749,6 @@ coloridos do olho, sendo este mais rápido que aquele);
 Item. 5. Reconhecimento de voz;
 
 
-
-
-
-
-
-
-André Castro
-
-
 Desse modo, os filmes futuristas, bem como aqueles que retratam assaltos a
 cofres muito seguros
 necessariamente passam pelo processo de biometria.
@@ -1969,15 +1774,6 @@ Item. 2. Extração - Remoção da amostra com informações únicas para poster
 
 Item. 3. Comparação - Comparação com as informações armazenadas em uma base de dados. Caso a
 comparação seja positiva, tem-se um "match", dando o resultado como positivo.
-
-
-
-
-
-
-
-
-André Castro
 
 
 Ano: 2021 Banca: CESPE / CEBRASPE Órgão: SEFAZ-AL
@@ -2027,13 +1823,7 @@ retina e =
 
 : Comentários:
 
-Item. 0.0 
-
-
-
-
-
-André Castro
+Item. 0.0
 
 
 ....................................................................................................
@@ -2079,15 +1869,6 @@ Corporativos.
 A título de referência, podemos extrair de um dos grandes fornecedores de soluções de
 segurança a nível
 mundial, a Mcafee, que extrapola ainda mais o conceito de Endpoints:
-
-
-
-
-
-
-
-
-André Castro
 
 
 Q
@@ -2172,15 +1953,6 @@ disseminação de informações.
 Entretanto, mesmo essas medidas não são suficientes no processo.
 
 
-
-
-
-
-
-
-André Castro
-
-
 Assim, surgem as técnicas de análise de comportamento por meio de inteligência
 artificial e aprendizado
 de máquina que traçam linhas de base com base em heurísticas, redes neurais e muitas
@@ -2250,13 +2022,7 @@ tem-se a questão
 da ofuscação do código ou trecho dele que procederá exatamente com as funcionalidades maliciosas.
 
 
-Q-Q 
-
-
-
-
-
-André Castro
+Q-Q
 
 
 Nesse contexto, portanto, dentro de uma sandbox, pode-se executar o
@@ -2334,13 +2100,7 @@ segurança de endpoints precisam ser implementadas e ter como características:
 
 A redução de custos e facilidade de atualização;
 
-0-0 
-
-
-
-
-
-André Castro
+0-0
 
 
 B configuração simplificada e fácil instalação de API;
@@ -2400,9 +2160,6 @@ Outros assuntos que constantemente caem em prova em termos conceituais e suas
 aplicações, é a auditoria
 
 e conformidade.
-
-
-André Castro
 
 
 Já mencionamos na aula de hoje alguns instrumentos e mecanismos utilizados para fins de auditoria.
@@ -2495,13 +2252,7 @@ que devem ser seguidas.
 Assim, espera-se que os órgãos estejam em conformidade com essas questões que mencionamos.
 
 
-Q-Q 
-
-
-
-
-
-André Castro
+Q-Q
 
 
 r*"""""*........................... ..
@@ -2566,15 +2317,6 @@ infeliz atentado
 de 11 de setembro.
 
 
-
-
-
-
-
-
-André Castro
-
-
 Sem entrar no mérito da causa e, obviamente, ciente de que as vidas eram os bens
 mais precioso nesse
 contexto, vamos focar na nossa análise de Continuidade de Negócio.
@@ -2606,15 +2348,6 @@ reavaliar seus
 processos de gestão de continuidade de negócios. Muitas empresas até tinham seus planos
 e soluções
 alternativas, mas sofreram para voltarem ao seu funcionamento.
-
-
-
-
-
-
-
-
-André Castro
 
 
 Aqui cabe mais um caso clássico que é o uso de nobreaks e geradores em soluções de
@@ -2724,9 +2457,6 @@ Informação.
 *
 
 
-André Castro
-
-
 ** ACORDE!
 
 * ISO 27001
@@ -2780,11 +2510,6 @@ prejudicado, gerando a continuidade necessária.
 * NBR 22301
 
 Esta norma trata dos requisitos para criação de um sistema de gestão de continuidade de negócios.
-
-
-
-
-André Castro
 
 
 * NBR 31000
@@ -2851,13 +2576,7 @@ anteriormente.
 
 Resumindo, portanto, temos:
 
-Q-Q 
-
-
-
-
-
-André Castro
+Q-Q
 
 
 r
@@ -2928,11 +2647,6 @@ maiores
 que os dados ou informação em análise. Desse modo, aceita-se o risco em caso de ocorrência.
 
 
-
-
-André Castro
-
-
 r ■■■■■■■................................. .........................................
 ....................................................................................................
 . .................... .................... .................... ....................
@@ -2971,15 +2685,6 @@ assim, pode-se ter uma
 catástrofe que impacte os dois ambientes.
 
 Gabarito: E
-
-
-
-
-
-
-
-
-André Castro
 
 
 DIRETRIZES PARA o DESENVoLVIMENTo DE SoFTwARE SEGURo
@@ -3045,13 +2750,7 @@ extremamente fortes para os usuários.
 
 * Atualização de aplicações
 
-Item. 0.0 
-
-
-
-
-
-André Castro
+Item. 0.0
 
 
 Temos aqui mais um ponto amplamente difundido, entretanto, mais uma vez, negligenciado
@@ -3118,15 +2817,6 @@ importante no
 desenvolvimento de aplicações seguras. Essas aplicações sempre estarão sujeitas a erros
 e,
 por medida de segurança, é importante que haja um padrão de mensagem de erro para o
-
-
-
-
-
-
-
-
-André Castro
 
 
 usuário que não vaze informações a respeito da aplicação, evitando assim que um
@@ -3215,9 +2905,6 @@ Suporte e
 manutenção
 
 
-André Castro
-
-
 O SDL tem relação direta com as fases do ciclo de vida para desenvolvimento de
 software. Esse processo
 segue o modelo espiral para aqueles que já estudaram metodologias de desenvolvimento de software.
@@ -3271,13 +2958,7 @@ software.
 Vamos explorar um pouco mais os aspectos de segurança considerados em cada uma das fases.
 
 
-Q-Q 
-
-
-
-
-
-André Castro
+Q-Q
 
 
 Item. 1. FASE DE REQUISITOS
@@ -3329,13 +3010,7 @@ I
 :* Definir as diretivas de design e arquitetura de segurança;
 
 
-oo 
-
-
-
-
-
-André Castro
+oo
 
 
 r
@@ -3406,13 +3081,7 @@ recém-descobertas no software
 fornecido aos clientes.
 
 
-0 0 
-
-
-
-
-
-André Castro
+0 0
 
 
 PRESTE MAIS
@@ -3475,13 +3144,7 @@ vulnerabilidades a serem
 consideradas no desenvolvimento do software.
 
 
-0 0 
-
-
-
-
-
-André Castro
+0 0
 
 
 A Visão Conceituai apresenta uma visão geral de como funciona o processo CLASP e como seus
@@ -3541,15 +3204,6 @@ Implementação
 
 Visão de
 Vulnerabilidades
-
-
-
-
-
-
-
-
-André Castro
 
 
 SAST (Static Application Security Testing)
@@ -3628,9 +3282,6 @@ compartilhamento contínuo.
 *
 
 
-André Castro
-
-
 Um ponto de observação a ser considerado diz respeito aos critérios a serem
 considerados na escolha de
 uma ferramenta do tipo SAST:
@@ -3667,15 +3318,6 @@ em termos de
 resultados das diversas ferramentas:
 
 
-
-
-
-
-
-
-André Castro
-
-
 DAST (Dynamic Application Security Testing)
 
 Dando continuidade à nossa discussão, quando falamos de ferramentas
@@ -3697,15 +3339,6 @@ Assim, a partir de
 um comportamento que gere risco, deve-se fazer o processo reverso para buscar mapear
 uma forma de
 evitar o devido comportamento.
-
-
-
-
-
-
-
-
-André Castro
 
 
 Um outro viés que se constrói com esse tipo de ferramenta é o teste de penetração.
@@ -3735,15 +3368,6 @@ j a) Atuação tardia no processo do Ciclo de Vida de Desenvolvimento;
 
 Na prática, o que se busca é a utilização conjugada das aplicações de teste que possuem os dois
 recursos.
-
-
-
-
-
-
-
-
-André Castro
 
 
 OWASP Secure Coding Practices
@@ -3788,15 +3412,6 @@ Abaixo, você encontra o link com todas as práticas que são recomendadas nesse
 https://www.owasp.org/índex.php/Testing Guide lntroduction#Principles of Testing
 
 
-
-
-
-
-
-
-André Castro
-
-
 HORA DE
 
 PRATICAR!
@@ -3835,10 +3450,7 @@ e) fluxo de tráfego.
 
 Comentários:
 
-* 
-
-
-André Castro
+*
 
 
 Pessoal, os únicos itens que tratam da integridade são as letras "A" e "D". As
@@ -3882,15 +3494,6 @@ por intermédio de
 funções HASH.
 
 Gabarito: E
-
-
-
-
-
-
-
-
-André Castro
 
 
 5.(CESPE - TJDFT/Analista Judiciário - Análise de Sistemas/2015) Se um colaborador
@@ -3943,16 +3546,6 @@ integridade.
 Gabarito: E
 
 
-
-
-
-
-
-
-
-André Castro
-
-
 8.(CESPE - TCE-RO/Analista de lnformática/2013) Se um sítio da web sofrer
 comprometimento devido a
 problemas de hardware no servidor, impossibilitando a visualização do conteúdo pelos
@@ -3992,10 +3585,7 @@ confidencialidade.
 
 Gabarito: E
 
-* 
-
-
-André Castro
+*
 
 
 ll.(CESPE - TRE-RJ/Analista Judiciário - Análise de Sistemas/2012)Na atualidade, os
@@ -4037,16 +3627,6 @@ de grande quantidade
 de novos empregados para a empresa é um incidente grave para a segurança da
 informação, que deve ser
 comunicado ao setor competente e tratado rapidamente.
-
-
-
-
-
-
-
-
-
-André Castro
 
 
 Comentários:
@@ -4100,16 +3680,6 @@ computacional, deve-se considerar que medidas de segurança devem ser
 atribuídas aos sistemas
 
 
-
-
-
-
-
-
-
-André Castro
-
-
 corporativos e aos bancos de dados, formas de proteção ao código-fonte, preservação de
 arquivos de log
 de acesso ao sistema, incluindo-se o sistema de autenticação de usuários.
@@ -4155,15 +3725,6 @@ esse é um procedimento de segurança da informação.
 Gabarito: C
 
 
-
-
-
-
-
-
-André Castro
-
-
 2O.(CESPE - TJ-SE/Analista Judiciário - Segurança da lnformação/2014) Separação
 de tarefas, privilégio
 mínimo e necessidade de saber são conceitos que identificam os três principais tipos de controle de
@@ -4206,15 +3767,6 @@ Comentários:
 Conforme vimos, de fato, estes são os três principais métodos.
 
 Gabarito: C
-
-
-
-
-
-
-
-
-André Castro
 
 
 23.(CESPE - SUFRAMA/Analista de Sistemas - Desenvolvimento/2014) O controle de
@@ -4267,16 +3819,6 @@ d) A área de segurança da informação deve preocupar-se em proteger todos os 
 de informação de uma
 organização, governo, indivíduo ou empresa, empregando, em todas as situações, o mesmo nível de
 proteção.
-
-
-
-
-
-
-
-
-
-André Castro
 
 
 e) Entre as características básicas da segurança da informação estão a
@@ -4342,16 +3884,6 @@ o emprego de
 firewalls, detectores de intrusões, antivírus, filtros anti-spam e controle de acesso.
 
 
-
-
-
-
-
-
-
-André Castro
-
-
 Comentários:
 
 Vamos aos itens:
@@ -4410,16 +3942,6 @@ criptografia, os dados não
 estarão mais disponíveis.
 
 
-
-
-
-
-
-
-
-André Castro
-
-
 Gabarito: E
 
 29.(CESPE - SUFRAMA/Analista de Sistemas/2014) A lentidão e a paralisação do
@@ -4467,15 +3989,6 @@ invasor não fez qualquer
 alteração no conteúdo da planilha, ou seja, não houve prejuízo à integridade desta planilha.
 
 
-
-
-
-
-
-
-André Castro
-
-
 Gabarito: D
 
 31.(CESPE - TRT17/Técnico Judiciário - TI/2013) A segurança da informação tem por
@@ -4519,16 +4032,6 @@ prática se utiliza funções
 HASH que possuem um caráter um pouco diferente. Veremos isso com mais calma em um outro momento.
 
 Gabarito: E
-
-
-
-
-
-
-
-
-
-André Castro
 
 
 34.(CESPE - DEPEN/Área 07/2015) O principal objetivo da segurança da informação
@@ -4575,10 +4078,7 @@ executá-lo.
 
 Comentários:
 
-* 
-
-
-André Castro
+*
 
 
 Como mencionamos, a auditoria pode atuar em qualquer etapa, fase ou tipo de processo,
@@ -4631,16 +4131,6 @@ aspectos, a administração da política de segurança e os procedimentos de rec
 desastres;
 
 
-
-
-
-
-
-
-
-André Castro
-
-
 além disso, é de responsabilidade dessa gerência a constante atualização com
 respeito a problemas e
 riscos de segurança.
@@ -4688,16 +4178,6 @@ externas quanto internas.
 Gabarito: C
 
 
-
-
-
-
-
-
-
-André Castro
-
-
 42.(CESPE - 2014 - TJ-SE - Analista Judiciário - Segurança da Informação) Atividades
 de usuários, exceções
 e outros eventos são registros ou logs de eventos produzidos e mantidos
@@ -4712,15 +4192,6 @@ para as auditorias e
 investigações.
 
 Gabarito: E
-
-
-
-
-
-
-
-
-André Castro
 
 
 Diretrizes para Software Seguro
@@ -4769,10 +4240,7 @@ fase:
 
 Gabarito: E
 
-* 
-
-
-André Castro
+*
 
 
 45.(CESPE - CNJ/Analista Judiciário - Análise de Sistemas/2013) O SDL é um processo de
@@ -4802,15 +4270,6 @@ software, conforme
 vimos em nossa teoria.
 
 Gabarito: C
-
-
-
-
-
-
-
-
-André Castro
 
 
 HORA DE
@@ -4850,10 +4309,7 @@ d) disponibilidade -confidencialidade -integridade - legalidade -autenticidade.
 
 e) confidencialidade -integridade -disponibilidade - autenticidade -legalidade.
 
-* 
-
-
-André Castro
+*
 
 
 Comentário;
@@ -4901,15 +4357,6 @@ de alteração não autorizada, ou seja, impactando o princípio de integridade.
 Gabarito: A
 
 
-
-
-
-
-
-
-André Castro
-
-
 3.(FCC - TRE-CE/Técnico Judiciário - Programação de Sistemas/2012) A propriedade que
 garante que nem
 o emissor nem o destinatário das informações possam negar a sua transmissão,
@@ -4954,16 +4401,6 @@ Comentário:
 Lembrando que o controle de acesso envolve tanto a autenticaçõo quanto a autorização.
 Entretanto, o processo
 de identificação está relacionado à autenticaçõo.
-
-
-
-
-
-
-
-
-
-André Castro
 
 
 Gabarito: A
@@ -5022,15 +4459,6 @@ desse usuário e do recurso
 desejado conferem. O usuário só conseguirá o acesso se essa verificação for positiva.
 
 
-
-
-
-
-
-
-André Castro
-
-
 E) limitar o número de tentativas de logon sem sucesso e limitar o horário de uso
 dos recursos computacionais
 de acordo com a real necessidade de acesso aos sistemas. Pode-se, por exemplo, desabilitar o uso
@@ -5080,16 +4508,6 @@ segurança da informação
 inclui o uso de diversos tipos e recursos de segurança. Um recurso de
 segurança categorizado como
 mecanismo de controle de acesso lógico é
-
-
-
-
-
-
-
-
-
-André Castro
 
 
 a) a função hash.
@@ -5145,16 +4563,6 @@ e) teclar.
 Comentários:
 
 
-
-
-
-
-
-
-
-André Castro
-
-
 Como vimos em nossa teoria:
 
 Item. 7. Retina - Analisa os vasos sanguíneos do fundo do olho;
@@ -5189,15 +4597,6 @@ Ora, estamos falando,
 portanto, das questões atreladas ao controle físico.
 
 Gabarito: B
-
-
-
-
-
-
-
-
-André Castro
 
 
 HORA DE
@@ -5235,15 +4634,6 @@ apresentadas por
 colaboradores para acessar as informações do sistema da organização por mais de dois
 dias indicam de
 violação da autenticidade das informações.
-
-
-
-
-
-
-
-
-André Castro
 
 
 4.(CESPE - TJDFT/Analista Judiciário - Análise de Sistemas/2015) Se, para
@@ -5289,10 +4679,7 @@ ll.(CESPE - TRE-RJ/Analista Judiciário - Análise de Sistemas/2012) Na atualida
 ativos físicos de uma
 organização são mais importantes para ela do que os ativos de informação.
 
-* 
-
-
-André Castro
+*
 
 
 12.(CESPE - TRE-RJ/Analista Judiciário - Análise de Sistemas/2012) O termo de
@@ -5343,10 +4730,7 @@ recomendável não apenas a instalação de procedimentos relacionados a sistema
 manipulação de dados
 eletrônicos, mas também daqueles pertinentes ao controle de acesso físico.
 
-* 
-
-
-André Castro
+*
 
 
 19.(CESPE - TJ-SE/Analista Judiciário - Segurança da lnformação/2014) Considere que uma
@@ -5397,16 +4781,6 @@ negócios, assinale a opção correta.
 a) Os principais atributos da segurança da informação são a autenticidade, a
 irretratabilidade e o não
 repúdio.
-
-
-
-
-
-
-
-
-
-André Castro
 
 
 b) No contexto atual do governo e das empresas brasileiras, a segurança da informação
@@ -5466,16 +4840,6 @@ criptografia garante a
 disponibilidade e a autenticidade de informações em ambientes de tecnologia da informação.
 
 
-
-
-
-
-
-
-
-André Castro
-
-
 29.(CESPE - SUFRAMA/Analista de Sistemas/2014) A lentidão e a paralisação do
 funcionamento de um
 sítio de comércio eletrônico que provê transações para venda de produtos é
@@ -5519,15 +4883,6 @@ que garante a confidencialidade do documento.
 34.(CESPE - DEPEN/Área 07/2015) O principal objetivo da segurança da informação
 é preservar a
 confidencialidade, a autenticidade, a integridade e a disponibilidade da informação.
-
-
-
-
-
-
-
-
-André Castro
 
 
 35.(CESPE - TCU/Auditor Federal de Controle Externo - TI/2015)Confidencialidade é
@@ -5574,10 +4929,7 @@ organizacionais de segurança da informação.
 
 41.(CESPE - 2014 - TJ-SE - Analista Judiciário - Segurança da Informação)
 
-* 
-
-
-André Castro
+*
 
 
 A execução correta dos procedimentos de segurança da informação, em conformidade com
@@ -5624,15 +4976,6 @@ para análise estática de
 código.
 
 
-
-
-
-
-
-
-André Castro
-
-
 HORA DE
 
 PRATICAR!
@@ -5674,10 +5017,7 @@ e) confidencialidade -integridade -disponibilidade - autenticidade -legalidade.
 da informação,
 considere:
 
-* 
-
-
-André Castro
+*
 
 
 I. Capacidade do sistema de permitir que alguns usuários acessem determinadas
@@ -5729,16 +5069,6 @@ informação. Esse processo é denominado
 a) autenticação.
 
 b) auditoria.
-
-
-
-
-
-
-
-
-
-André Castro
 
 
 c) autorização.
@@ -5797,16 +5127,6 @@ dos recursos
 nos fins de semana ou à noite.
 
 
-
-
-
-
-
-
-
-André Castro
-
-
 7.(FCC - TCE-GO/Analista de Controle Externo/2014) Pedro trabalha na área que cuida da
 Segurança da
 Informação de uma empresa. Frente ao risco de indisponibilidade de uma aplicação, criou
@@ -5862,15 +5182,6 @@ b) da íris
 c) da retina.
 
 
-
-
-
-
-
-
-André Castro
-
-
 d) cognitiva.
 
 e) teclar.
@@ -5922,15 +5233,6 @@ Gabarito - Questões CESPE
 9 C
 
 10 E
-
-
-
-
-
-
-
-
-André Castro
 
 
 r....................
@@ -6009,10 +5311,7 @@ r....................
 
 Gabarito - Questões FCC
 
-* 
-
-
-André Castro
+*
 
 
 -----------
@@ -6074,15 +5373,6 @@ disseminar spam, propagar códigos maliciosos, desferir ataques e esconder a rea
 identidade do atacante;
 
 
-
-
-
-
-
-
-André Castro
-
-
 o Varredura: um atacante pode fazer varreduras na rede, a fim de descobrir
 outros
 computadores e, então, tentar executar ações maliciosas, como ganhar acesso e explorar
@@ -6131,11 +5421,6 @@ de equipamentos, alarmes, catracas, sala cofre.
 * Segurança Lógica:
 
 
-
-
-André Castro
-
-
 * Controle de Acesso: método aplicado tanto no contexto físico e lógico, com vistas a
 estabelecer
 barreiras que podem restringir determinados acessos a locais, equipamentos, serviços e dados
@@ -6170,10 +5455,7 @@ físicas ou comportamentais.
 capacidade de
 processar informação e trafegar dados, poderá ser classificado como um ENDPOINT.
 
-* 
-
-
-André Castro
+*
 
 
 * Dentre alguns recursos e contextos de aplicação das soluções voltadas para
@@ -6236,16 +5518,6 @@ para
 a seguradora.
 
 
-
-
-
-
-
-
-
-André Castro
-
-
 o Mitigar - Objetiva-se atuar em prol da minimização dos riscos. Como
 exemplo, pode-se
 restringir o acesso de determinados usuários a sites controlados.
@@ -6298,93 +5570,11 @@ Vamos juntos?
 
 Um grande abraço.
 
-* 
-
-
-
-André Castro
+*
 
 
 Prof. André Castro.
 
 Instagram: @ProfAndreCastro Telegram: t.me/ProfessorAndreCastro
 
-
-
-
-
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

@@ -1,24 +1,5 @@
 Capítulo. Desenvolvimento de Software - PHP.
 
-Concursos
-
-(Profs. Paolla
-Ramos e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Desenvolvimento de
-software - 2023 (Pós-Edital)
-
-Autor:
-
-Paolla Ramos e Silva
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Índice
 
@@ -27,13 +8,6 @@ Paolla Ramos e Silva
 2) PHP - Questões Comentadas
 
 3) PHP - Lista de Questões
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -101,8 +75,6 @@ dentro de outras linguagens e/ou programas.
 Voltando, então! O PHP é uma linguagem de programação de scripts, isto é,
 escreve scripts que
 estendem as funcionalidades de outra linguagem de programação e/ou programas. Ok! Mas a
-
-
 
 
 definição diz que ela é interpretada! Bem, isso só complementa o que
@@ -173,16 +145,6 @@ como uma linguagem de propósito geral, sendo útil em interfaces gráficas ou e
 1 Está instalado em mais de 244 milhões de websites e 2.1 milhões de web servers.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Agora veremos seu funcionamento! Primeiramente, para que ele funcione, é
 preciso que esteja
 instalado em um Servidor Web. Professor, eu não sei o que é um servidor web! Grosso
@@ -209,16 +171,10 @@ encontra-se a tag
 </head>
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <body>
 
@@ -274,16 +230,6 @@ código abaixo:
 <script language = "php"> // Código aqui.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 </script>
 
 <? php
@@ -325,16 +271,10 @@ Letra|Underscore + Letra|Número|Underscore
 $var //Correto = Pode começar com letra!
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 $_var //Correto = Pode-se começar com underscore!
 
@@ -377,16 +317,10 @@ $var6 = FALSE;
 ?>
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Agora uma coisa muito maneira em PHP: variáveis podem ter seu nome
 designado em tempo de
@@ -448,16 +382,10 @@ OPERADORES COMPARATIVOS
 ANOTAÇÃO | SIGNIFICADO DESCRIÇÃO
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Verdadeiro (true) se $a é igual a $b.
 
@@ -514,17 +442,13 @@ ademais o intuito
 aqui não é ensinar ninguém a programar. Portanto, não vou explicar para
 cada linguagem como
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 funciona conceitos básicos (Ex: laço condicional, laço de repetição),
 porque eles funcionam quase
@@ -576,16 +500,10 @@ $var2 = FALSE;
 $var3 = TRUE;
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 $var 1? $var2 : $var3;
 
@@ -639,16 +557,6 @@ echo $i;
 
 }
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 /* exemplo 2 */
 
@@ -705,16 +613,10 @@ echo $i;
 } while ($i > 0);
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ?>
 
@@ -768,16 +670,6 @@ $array = array (10,20,30);
 //Idêntico ao anterior
 
 
-00 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 $array [0] = 10;
 
 $array [1] = 20;
@@ -819,16 +711,6 @@ Por fim, temos os arrays multidimensionais, que podem ter índices/chaves
 numéricos ou
 textuais e valores de qualquer tipo. Ademais, também se pode utilizar o operador
 
-
-00 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <?php
 
@@ -894,16 +776,10 @@ nesse contexto também! Por exemplo, uma das principais características do PHP
 é que ele sabe
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 lidar muito bem com formulários. É legal, porque qualquer elemento
 desses formulários fica
@@ -958,16 +834,6 @@ uma variável global
 $_REQUEST que consiste em uma array associativo que, por padrão,
 contém informações de
 
-
-00 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 $_GET, $_POST e $_COOKIE. Trata-se de uma variável automática, isto é, ela
 está disponível em
@@ -1032,16 +898,10 @@ de sistemas.
 Guardem essas características básicas do framework e parte para o abraço na hora da prova.
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - DIVERSAS BANCAS
 
@@ -1108,16 +968,6 @@ echo " ".$v[$i];
 }
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 O resultado a ser informado ao usuário após a execução do programa acima é:
 a) íoo 70 30 20 4
 
@@ -1180,16 +1030,10 @@ a) I, II, III e IV.
 b) III e IV, apenas.
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) I e II, apenas.
 
@@ -1253,16 +1097,6 @@ banco de
 dados era aquela que tinha o nome "query". Essa função envia uma consulta/comando MySQL.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Gabarito: Letra B
 
 Item. 5. (FCC / TRE-SP - 2012) Na linguagem PHP é possível utilizar o protocolo SOAP por
@@ -1323,16 +1157,6 @@ Gabarito: Letra A
 
 Item. 7. (FCC / TRE-AP - 2011) Em relação a PHP e JSP é correto afirmar:
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) Em JSP o conceito de classes e objetos não leva em conta os princípios de proteção
 de dados
@@ -1397,16 +1221,10 @@ nome em um arquivo com um padrão.
 Gabarito: Letra E
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 9. (CESPE / MPE-RN -2010) Na linguagem PHP, a função fputs:
 
@@ -1472,16 +1290,10 @@ c) _GET$["nome_text"]
 d) _$GET["nome_text"]
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) _$_GET["nome_text"]
 
@@ -1543,16 +1355,6 @@ C/C++
 e Perl. Em C, a passagem de parâmetros por referência é feita por meio da utilização do caractere
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Nas funções PHP, a passagem por valor é o padrão. Caso você necessite passar um
 parâmetro
 por referência, utilize o caractere &. Veja no exemplo abaixo:
@@ -1611,16 +1413,10 @@ e) &email.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questão decoreba que não avalia conhecimento! A função responsável pelo envio de
 e-mails é a
@@ -1686,16 +1482,10 @@ exceto
 $data-nascimento, na medida em que possui um traço (que é diferente de underscore).
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra C
 
@@ -1758,16 +1548,6 @@ d) somente gravação e coloca o ponteiro no final do arquivo, depois de todos o
 e) somente gravação, deleta todo o conteúdo e coloca o ponteiro no início do arquivo.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Comentários:
 
 O argumento "a+" abre o arquivo para leitura e escrita; coloca o ponteiro no final
@@ -1821,16 +1601,6 @@ Gabarito: Letra C
 Item. 23. (IBFC - Prefeitura de divinópolis - 2018) Dado o loop PHP:
 for ($x = o; $x <= "5"; $x++)
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A variável $x assumirá os valores:
 
@@ -1888,16 +1658,6 @@ Item. 25. (IF-RJ / BIO-RIO - 2015) Considere o seguinte script encontrado em uma
 
 Sidade - array("Paulo"=>"4o", "Pedro"=>"62", "Ana"=>"43", "Marcos"=>"i8");
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 arsort($idade);
 
@@ -1965,16 +1725,6 @@ d) sort(ínomes);
 e) krsort(snomes);
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Comentários:
 
 Esse é um array do tipo indexado, com índices numéricos. Portanto o método é o sort simples.
@@ -2036,16 +1786,6 @@ e) mysql_connect ou mysql_pconnect
 Comentários:
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 O comando de acesso a uma base de dados MySQL é mysql_connect ou
 mysql_pconnect. A
 diferença entre os dois é que no segundo, a conexão é persistente. Essas funções
@@ -2106,8 +1846,6 @@ CLONENEW
 ++ - - [INT] (FLOAT) (STRINGJ [ARRAY] [OBJECT] [BOOL] @
 
 
-
-
 */ah
 
 + -.
@@ -2165,16 +1903,6 @@ Comentários:
 
 A variável superglobal $_COOKIE["ck"] recupera cookies armazenados no cliente.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra E
 
@@ -2237,16 +1965,6 @@ d) $nome = string( $_POST['nome'])
 e) parseHTML($nome, utf8( $_POST['nome'])
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Comentários:
 
 Para resolver essa questão, precisamos saber qual é a forma de ler um campo do
@@ -2287,16 +2005,6 @@ Gabarito: Letra B
 
 Item. 35. (FGV/ TJ-PI - 2015) Analise o código PHP mostrado a seguir.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <?php
 
@@ -2355,9 +2063,9 @@ Gabarito: Letra C
 programação
 PHP, assinale a opção correta.
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 121
 
 /
@@ -2394,16 +2102,6 @@ uma variável;
 
 (e) Errado, PHP é case-sensitive.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 PHP Version 5.3.0
 
@@ -2526,16 +2224,10 @@ requisição. Historicamente, sistemas baseados em Unix utilizam processos
 para lidar com
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 concorrência. Já quando se trata de Windows, a maioria dos Webservers irá tratar
 diferentes cliente
@@ -2599,16 +2291,10 @@ podemos ver na imagem fornecida na questão no item Loaded Configuration File.
 Gabarito: Correto
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 4O.(CESPE / ABIN - 2010) Para que possa depurar os scripts PHP que construirá, o
 programador
@@ -2671,16 +2357,10 @@ em uma comunicação mais poderosa e eficiente com banco de dados.
 Gabarito: Correto
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 42.(CESPE / ABIN - 2010) Caso o programador deseje criar, gerenciar e distribuir
 internamente à
@@ -2746,8 +2426,6 @@ formatação do
 código para facilitar a leitura por outros desenvolvedores, algumas das indicações são:
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
@@ -2811,16 +2489,6 @@ Gabarito: Correto
 45.(CESPE / ABIN - 2010) Scripts de teste funcional devem conter a extensão .phpt, conforme
 prescreve o padrão de distribuição de módulos PHP; os diversos artefatos de teste relacionados
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a um módulo desenvolvido devem ser armazenados em subdiretório de nome tests, dentro do
 diretório do módulo ou package; dados de configuração específicos do ambiente de teste
@@ -2893,16 +2561,6 @@ especificar o modo é
 de escrita (poderíamos usar 'r+', 'w', 'w+', 'a', 'a+').
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 MODO DESCRIÇÃO
 
 ABRE SOMENTE PARA LEITURA; COLOCA 0 PONTEIRO DO ARQUIVO NO COMEÇO DO
@@ -2955,16 +2613,10 @@ echo $_GET['nome'];
 Imprime para usuário o valor da variável nome passado na requisição do tipo GET.
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Vale notar que as variáveis $_GET, $_POST e $_REQUEST são ditas 'superglobais', ou
 globais
@@ -3040,16 +2692,6 @@ SORT_REGULAR - compara os elementos normalmente
 SORT_NUMERIC - compara os elementos como itens numéricos
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 SORT_STRING - compara os elementos como strings
 
 Não podem existir dois sinais de ordenação do mesmo tipo especificados para um mesmo
@@ -3121,16 +2763,6 @@ $ar[i], SORT_NUMERIC, SORT_DESC);
 Gabarito: Correto
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 48.(CESPE / ABIN - 2010) A execução bem sucedida do script apresentado abaixo produz
 como
 saída o valor 900.
@@ -3200,17 +2832,8 @@ bem sucedida ao script apresentado abaixo, então a saída de dados deverá cont
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
 /
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 deve preencher os campos. É correto afirmar, ainda, que uma conexão de
 socket foi
@@ -3271,14 +2894,10 @@ imgi2.png
 depois da segunda ocorrência da string img2.png.
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -3342,12 +2961,6 @@ quer mais
 segurança na página ou quando se querter um controle de usuário.
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Também alguns programadores se utilizam deste recurso para guardar informações e ou
 montar
 um carrinho de compras de um site de vendas, pois assim vão armazenando-se os itens
@@ -3409,16 +3022,10 @@ isso evita que
 memória fique alocada para consultas que já passaram.
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Correto
 
@@ -3477,16 +3084,6 @@ que começam com endereço zero.
 
 Gabarito: Errado
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 56.(CESPE/ ABIN-2010) O formato JSON (javascript object notation) permite
 representar objetos
@@ -3552,17 +3149,13 @@ onde a
 colisão é intolerável (por exemplo, nas funções de dispersão da
 criptografia), ou quando
 
- x53
+x53
 
-www.estrategiaconcursos.com.br
+
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 conhecemos previamente o conteúdo da tabela armazenada. Nas tabelas de dispersão comuns
 a
@@ -3622,16 +3215,10 @@ a) ínome = "João"; $sql = "SELECT nome, sobrenome, senha FROM tb_usuario WHERE
 nome=$nome;"; sresultado - pg_query($conn, $sql);
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) $nome = $_GET["nome"]; $sql = "SELECT nome, sobrenome, senha FROM
 tb_usuario
@@ -3690,17 +3277,13 @@ e) <?php if (strncasecmp ($email, 7A[a-zA-Z-' ]*$ @./")) {echo "Valid email form
 else {
 echo "Invalid email format";} ?>
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -3751,16 +3334,6 @@ para o desenvolvimento web e que pode ser embutida dentro do HTML.
 
 Comentários:
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Perfeito! O PHP (um acrônimo recursivo para PHP: Hypertext Preprocessor) é
 uma linguagem
@@ -3816,16 +3389,6 @@ de árvore de expressão.
 Gabarito: Errado
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 67.(CESPE / TJ-AM - 2019) Após a configuração de um servidor Apache com módulo PHP,
 uma
 forma de validar o seu funcionamento é criar uma página HTML e inserir a função
@@ -3878,16 +3441,10 @@ Gabarito: Errado
 Item. 71. (SELECON / EMGEPRON - 2021) A figura mostra um código em PHP.
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <!DOCTYPE html>
 
@@ -3965,13 +3522,6 @@ PHP são feitos com "require", "include" ou suas variantes.
 (Pós-Edital)
 
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Gabarito: Errado
 
 73.(APICE / DPE-PB - 2021) Um array no PHP é tipo que relaciona valores a chaves.
@@ -4024,16 +3574,6 @@ Gabarito: Correto
 Figura 7
 abaixo, escrito em PHP 5.5:
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <?php
 
@@ -4115,16 +3655,6 @@ Se utilizamos 0 === estamos comparando o valor e o tipo. Logo:
 Item. 1. $fai===$fi: FALSE
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Item. 2. $fai==$fi: FALSE
 
 Item. 3. $fai===$fa2: FALSE
@@ -4189,16 +3719,6 @@ c) getPrevious(), getTrace(), getSuppressed().
 d) try(), catch(), finaIly().
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 e) getStackTraceStringO, getCode(), getMessage().
 
 Comentários:
@@ -4255,12 +3775,6 @@ d) mssql_fetch_row
 
 Comentários:
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Estou trazendo esse tipo de questão pessoal, porque realmente não tem como sair fora,
 as bancas
@@ -4319,16 +3833,10 @@ entre
 várias páginas, permitindo, assim, uma padronização visual muito simplificada e lógica.
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ( ) É uma linguagem de marcação, que é interpretada pelo browser para dar formatação
 e
@@ -4398,16 +3906,10 @@ echo " finally-
 > Imprime " finally". Assim, será impressa na tela a sequência: catch exception finally
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra C
 
@@ -4467,16 +3969,6 @@ b) <p>Parágrafo.</p>
 c) Parágrafo.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 d) <p class="$destaque">Parágrafo</p>
 
 e) <px/p>
@@ -4533,16 +4025,6 @@ public function setNome($Nome) {
 $this->Nome = $Nome;
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 A partir de outra classe, um objeto na classe Cliente foi instanciado por meio da
 instrução $cli =
 new Cliente;. Para chamar o método acima e passar o nome 'Paulo' como parâmetro,
@@ -4598,12 +4080,6 @@ não o
 tipo.
 
 Gabarito: Letra A
-
-
-
-
-
-
 
 
 92.(FUNDATEC / CIGA-SC - 2020) Qual dos trechos de código abaixo, em linguagem PHP
@@ -4664,16 +4140,6 @@ estruturada
 e orientada a objetos, portável, robusta e eficiente utilizada para desenvolvimento web.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Comentários:
 
 Perfeito! PHP é uma linguagem de programação de scripts, interpretada, de
@@ -4729,17 +4195,13 @@ de árvore de expressão.
 
 Gabarito: Errado
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 98. (ADMTEC / PREFEITURA DE RIO LARGO - 2019) Analise o código abaixo e responda, a qual
 linguagem de programação melhor se enquadra essa sintaxe:
@@ -4799,16 +4261,6 @@ pages, será apresentado um waming, indicando que o arquivo não foi encontrado,
 permitindo
 ainda a execução do script.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -4870,16 +4322,10 @@ $subject = $_REQUEST['subject'];
 $comment = $_REQUEST['comment'];
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 mail($admi n_emai1₃ "$subject", $comment ₃ "From:".
 
@@ -4927,17 +4373,13 @@ Item. 103. (CESPE / MEC - 2015) De acordo com o trecho de código
 apresentado, julgue o
 item subsequente.
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <?php
 
@@ -5009,12 +4451,6 @@ caso em que é necessário apenas o interpretador; e escrever aplicações para 
 situação
 em que é necessária a extensão PHP-GTK.
 
-00 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -5073,17 +4509,13 @@ Item. 109. (CESPE / STM - 2018) O comando INCLUDE interromperá a execução do 
 assim que
 ocorrer um erro, enquanto o comando REQUIRE continuará a executar o código após o erro.
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -5133,16 +4565,6 @@ Comentários:
 
 Pessoal, ambos são interpretados do lado servidor.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Errado
 
@@ -5200,16 +4622,6 @@ ZEND é um framework e não uma biblioteca PHP.
 
 Gabarito: Errado
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 117. (CESPE / EBSERH - 2018) Julgue o item que se segue a respeito das
 características da
@@ -5271,16 +4683,6 @@ PHP.
 $final = "abc". "efg";
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Comentários:
 
 Exato! Para concatenar, utiliza-se o operador (.) Logo, o comando sfinal = "abc".
@@ -5333,16 +4735,10 @@ podem se estender em mais de uma linha.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Perfeito! Nos programas PHP, os comentários podem ser usados utilizando-se os caracteres
 "#",
@@ -5399,8 +4795,6 @@ interpretará variáveis inicializadas.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
@@ -5457,12 +4851,6 @@ Perfeito! Na declaração de uma função, na linguagem PHP, as variáveis envia
 referência
 devem ser identificadas pelo símbolo &.
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Correto
 
@@ -5523,16 +4911,10 @@ Comentários:
 A saída será:
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 The number is: o
 The number is: 1
@@ -5602,9 +4984,6 @@ no browser do cliente que o acessar.
 (Pós-Edital)
 
 
-
-
-
 Comentários:
 
 Perfeito! O programa deve ser executado em um servidor web com PHP instalado e seu
@@ -5669,12 +5048,6 @@ recebido.
 e) tem apenas dois diferentes escopos de variáveis: local e global.
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Comentários:
 
 Sobre PHP, é correto afirmar que o operador de concatenação (.) é usado
@@ -5735,16 +5108,6 @@ Ao executar o script será exibido na página:
 a) Ana = 43 Marcos = 18 Paulo = 40 Pedro = 62
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 b) Marcos = 18 Paulo = 40 Ana = 43 Pedro = 62
 
 c) o = 62 1 = 43 2 = 40 3 = 18
@@ -5762,16 +5125,10 @@ Paulo (40) e a Marcos (18) com ordenação de valor (arsort) do maior para o men
 Gabarito: Letra E
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - DIVERSAS BANCAS
 
@@ -5832,12 +5189,6 @@ e) 10 50 2 15 35
 
 Item. 3. (FCC / MPE-AP - 2012) Analise os exemplos de criação de array em PHP.
 I.
-
-
-
-
-
-
 
 
 $ idade = array("Paulo"=>32, "Pedro"=>3O, "Ana"=>34);
@@ -5909,16 +5260,6 @@ d) SoapClient.
 e) SoapAccess.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Item. 6. (FCC / TRE-SP - 2012) A linguagem PHP permite a instalação de
 extensões que podem
 aumentar sua gama de funcionalidades. Uma das funcionalidades extras que podem
@@ -5983,16 +5324,10 @@ d) cria um link físico.
 e) posiciona o ponteiro em um arquivo.
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 io.(FCC/TCE-SP-2Oio) NÃO se trata de uma característica do PHP:
 
@@ -6057,8 +5392,6 @@ d) Apache.
 e) Netscape.
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
@@ -6131,16 +5464,6 @@ d) oi/Jul/2009.
 e) Wed, oi/Jul/2009
 
 
-00 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Item. 20. (FEPESE / JUCESC - 2013) A função fopen ( ), utilizada em um script PHP, que recebe o
 argumento de modo igual a "a+", abre um arquivo existente para:
 
@@ -6199,16 +5522,10 @@ e) o, 1, 2, 3, 4 e 5.
 desenvolvimento de sites da World Wide Web. A seu respeito é correto afirmar que:
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) o código de uma aplicação JavaScript deve ser interpretado pelo servidor HTTP ao
 passo que
@@ -6259,16 +5576,10 @@ e) Pedro = 62 Ana = 43 Paulo = 40 Marcos = 18
 26.(IF-RJ / BIO-RIO - 2015) Considere o código PHP a seguir:
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <?php
 
@@ -6336,8 +5647,6 @@ a) mysqL&connect ou mysql_&pconnect
 b) mysql_&&connect ou mysql_&&pconnect
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
@@ -6409,17 +5718,6 @@ $argo2 = 38 - (5 * 11);
 sargRetorno = $argoi - $argo2;
 
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 $argoi = 343;
 
 $argo2 - 38;
@@ -6468,16 +5766,6 @@ d) svar = (100 > 10 ? 100 :10);
 
 Item. 35. (FGV/ TJ-PI - 2015) Analise o código PHP mostrado a seguir.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <?php
 
@@ -6536,16 +5824,10 @@ sistema
 operacional oferta, e não, das características do zend engine.
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 38.(CESPE / ABIN - 2010) Considere que determinada aplicação web a ser desenvolvida em
 PHP
@@ -6616,16 +5898,6 @@ aplicado de
 forma bem sucedida ao script apresentado a seguir, então, após o processamento do pedido, a
 
 
-00 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 saída de dados para o usuário deverá conter a string joao e um arquivo de nome
 joao.txt,
 contendo a palavra joao, existirá no computador onde se encontra o serviço HTTP
@@ -6692,8 +5964,6 @@ pelas informações
 apresentadas.
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
@@ -6765,12 +6035,6 @@ contém parte das instruções e dados executados por um script em determinado i
 tempo. Assim, o script não precisa estar armazenado simultaneamente na memória principal e
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 no disco; com isso, a memória total disponível para um script ou programa pode
 exceder o
 tamanho da memória principal do sistema.
@@ -6836,8 +6100,6 @@ desenvolvedor
 realizar a referida validação, tendo como referência que a variável a sertestada é $email.
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
@@ -6892,16 +6154,6 @@ qual
 linguagem de programação melhor se enquadra essa sintaxe:
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Svl = 40;
 
 Sv2 - 20;
@@ -6950,16 +6202,6 @@ acessar diretamente a memória para acionar os ponteiros em uma implementação.
 
 Item. 71. (SELECON / EMGEPRON - 2021) A figura mostra um código em PHP.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <!DOCTYPE html>
 
@@ -7031,16 +6273,10 @@ Figura 7
 abaixo, escrito em PHP 5.5:
 
 
-
-www.estrategiaconcursos.com.br
 / 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <?php
 
@@ -7123,16 +6359,6 @@ echo"SIM";
 } else {
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 echo"NÃO";
 
 }
@@ -7197,16 +6423,6 @@ d) V,F,V,F
 o Microsoft SQL Server". A afirmativa se refere a:
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 a) mssqljnit
 
 b) mssql_bind
@@ -7266,12 +6482,6 @@ e) 3-i-2
 Item. 84. (OBJETIVA / Prefeitura de Santa Maria-RS - 2021) Considere o seguinte código
 escrito na
 linguagem PHP.
-
-
-
-
-
-
 
 
 <?php function inversa($x) { if ($x==o) { throw new Exceptionf exception'); }
@@ -7342,16 +6552,6 @@ a) active()
 b) cookie_value()
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 c) exists()
 
 d) isset()
@@ -7417,12 +6617,6 @@ contrário
 apenas o primeiro caractere é considerado.
 
 
-
-
-
-
-
-
 e) "NÃO", pois a comparação de variáveis com tipos diferentes sempre retorna "falso".
 
 g2.(FUNDATEC / CIGA-SC - 2020) Qual dos trechos de código abaixo, em linguagem PHP
@@ -7482,16 +6676,6 @@ Apache.
 Item. 98. (ADMTEC / PREFEITURA DE RIO LARGO - 2019) Analise o código abaixo e responda, a qual
 linguagem de programação melhor se enquadra essa sintaxe:
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <?
 
@@ -7560,16 +6744,6 @@ email
 format";} ?>
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 d) <?php if (ctype_alnum ($email)) {echo "Valid email format";} else {echo "Invalid email
 format";} ?>
 
@@ -7632,11 +6806,6 @@ item subsequente.
 00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software -
 2023 (Pós-Edital)
 
-
-
-
-
-Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -7712,12 +6881,6 @@ Item. 108. (CESPE / ANATEL - 2014) No que se refere à linguagem PHP, julgue os 
 $_4dias, $ãripãev e $margem_são variáveis válidas no PHP.
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Item. 109. (CESPE / STM - 2018) O comando INCLUDE interromperá a execução do script
 assim que
 ocorrer um erro, enquanto o comando REQUIRE continuará a executar o código após o erro.
@@ -7776,16 +6939,6 @@ linguagem PHP e de compiladores.
 
 O código PHP
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 < ?php
 
@@ -7852,16 +7005,6 @@ Item. 125. (QUADRIX / CRN 9 - 2018) Uma das utilidades do safe_mode é a proteç
 scripts PHP
 contra acessos remotos.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 126. (QUADRIX / CRN 9 - 2018) A PHP é considerada como uma linguagem de
 programação
@@ -7937,10 +7080,6 @@ Z 121
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <!D0CTYPE html>
 
@@ -8020,13 +7159,6 @@ a) MARTE.
 2023 (Pós-Edital)
 
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 b) TERRA.
 
 c) JÚPITER.
@@ -8094,16 +7226,6 @@ d) Pedro = 62 Paulo = 40 Marcos = 18 Ana = 43
 
 e) Pedro = 62 Ana = 43 Paulo = 40 Marcos = 18
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo - DIVERSAS BANCAS
 
@@ -8228,16 +7350,6 @@ Item. 40. CORRETO 80. LETRA B
 Item. 120. ERRADO
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Item. 121. CORRETO 128. CORRETO 135-
 CORRETO
 
@@ -8258,79 +7370,4 @@ Item. 140. LETRA E
 
 Item. 127. CORRETO 134- ERRADO
 
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inreste soo tempo
-paro elaborar os cursos e o
-site os colo ca ã venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDF (justamente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e cm flagrante desrespeite à
-Lei de Direitos Autorais
-
-(Lai 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está ao o n tecendo
-c esperando se tornar servidor
-público para exigir o
-
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

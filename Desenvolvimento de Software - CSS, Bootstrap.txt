@@ -1,24 +1,5 @@
 Capítulo. Desenvolvimento de Software - CSS, Bootstrap.
 
-Concursos
-
-(Profs. Paolla
-Ramos e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Desenvolvimento de
-software - 2023 (Pós-Edital)
-
-Autor:
-
-Paolla Ramos e Silva
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Índice
 
@@ -34,12 +15,6 @@ Paolla Ramos e Silva
 
 6) Desenvolvimento Front-End - Bootstrap - Lista de Questões - Multibancas
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Sumário
 
@@ -126,17 +101,6 @@ Cor de fundo
 Botões de link.
 
 
-
-www.estrategiaconcursos.com.br
-/' 257
-
-/
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Listas de CSS
 
 Listas HTML e propriedades da lista CSS
@@ -222,16 +186,10 @@ Barra de Navegação Horizontal
 Menus suspensos em CSS
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Galeria de imagens.
 
@@ -291,16 +249,10 @@ Seletores de atributos CSS
 Referências.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 APRESENTAçÃo DA AULA
 
@@ -312,17 +264,13 @@ conteúdo de forma mais simples. Aproveitem o material, além dos esquemas,
 resumos e
 mnemónicos. Vamos ao que importa! (S)
 
- x-"'
+x-"'
 
-www.estrategiaconcursos.com.br
+
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Conceitos Básicos
 
@@ -386,17 +334,8 @@ color: white;
 text-align: center;
 
 
-0 0 
+0 0
 
-www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 p {
 
@@ -459,16 +398,10 @@ Quando tags como <font> e atributos de cor foram adicionados à especificação 
 começou um pesadelo para os desenvolvedores da web. O desenvolvimento de grandes sites,
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 onde fontes e informações de cores foram adicionadas a cada página, tornou-se um
 processo
@@ -485,15 +418,11 @@ arquivo!
 
 x-""' 9
 
-www.estrategiaconcursos.com.br
+
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Sintaxe CSS
 
@@ -546,18 +475,8 @@ id, atributo e
 pseudoclasse para direcionar elementos específicos na página.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Seletores de CSS
 
@@ -617,18 +536,8 @@ um elemento com a classe "my-class" que é descendente de um elemento com o id "
 id".
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 í (FCC - TJ-CE - 2022) Para colocar a cor de fundo vermelha apenas dos campos
 (inputs) do tipo
@@ -708,16 +617,9 @@ elementos com
 class=" intro"
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 p.intro
@@ -735,16 +637,10 @@ Seleciona todos os elementos <div> e
 todos os elementos <p>
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Como adicionar CSS
 
@@ -807,16 +703,10 @@ CSS. A diretiva
 @import é usada para incluir uma folha de estilo externa chamada aleap.css.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O uso de uma folha de estilo externa é considerado uma prática recomendada, pois
 permite uma
@@ -867,16 +757,10 @@ Das opções, a correta é semelhante ao nosso exemplo <style type="text/css">
 = url("aleap.css"); </style>. Portanto, nosso gabarito é a letra C. (Gabarito: Letra C)
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários CSS
 
@@ -918,16 +802,10 @@ a regra e */
 no final da linha, sem precisar removê-la completamente.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Cores CSS
 
@@ -977,18 +855,8 @@ isso é
 uma boa prática.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 I <H1 STYLE="BACKGR0UND-C0L0R:RGB[255,99,71);">...</H1>
 
@@ -1008,17 +876,8 @@ UMA COR HEXADECIMAL É ESPECIFICADA COM: ARRGGBB, ONDE OS INTEIROS HEXADECIMAIS 
 HSL SIGNIFICA MATIZ, SATURAÇÃO E LEVEZA: HSL [MATIZ, SATURAÇÃO, LUMINOSIDADE)
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Fundos CSS
 
@@ -1088,16 +947,10 @@ do background em uma linha.
 plano de fundo: cor de fundo - imagem de fundo repetição de fundo posição de fundo
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 PLANO DE FUNDO: COR DE FUNDO - IMAGEM DE FUNDO - REPETIÇÃO DE FUNDO - POSIÇÃO DE FUNDO
 
@@ -1106,16 +959,10 @@ HTML,
 tornando-o uma ferramenta poderosa para criar designs da Web atraentes e envolventes.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Imagem de Fundo CSS
 
@@ -1182,16 +1029,10 @@ definir todas as
 propriedades do background em uma linha.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 body {
 background:
@@ -1259,16 +1100,9 @@ Especifica a área de pintura do fundo
 Define a cor de fundo de um elemento
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 background-image
@@ -1286,16 +1120,10 @@ Define como uma imagem de fundo será repetida
 Especifica o tamanho da(s) imagem(ns) de fundo
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Propriedades de Borda do CSS
 
@@ -1355,16 +1183,10 @@ Vejamos um exemplo e seu respectivo resultado.
 <!D0CTYPE html>
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <html>
 
@@ -1421,12 +1243,8 @@ p.mix {border-style: dotted dashed solid double;}
 
 </html>
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A propriedade border-style
 
@@ -1502,12 +1320,6 @@ border-width: 2px;
 p.four {
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 border-style: dotted;
 border-width: thick;
 
@@ -1563,12 +1375,8 @@ The border-width Property
 
 This property' specifies the width of the four borders:
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A propriedade border-width pode ter de um a quatro valores (para a borda
 superior, borda
@@ -1647,16 +1455,10 @@ border-color: red;
 }
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 p.two {
 
@@ -1722,12 +1524,8 @@ Note que se você usar a propriedade border curta, você pode definir a cor, lar
 estilo de
 borda de uma só vez.
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 /* Definir a cor, largura e estilo da borda como vermelho, 5 pixels e
 sólido*/
@@ -1788,17 +1586,13 @@ border-right-style, border-right-color, border-bottom-width,
 border-bottom-style, border-
 bottom-color, border-left-width, border-left-style, and border-left-color.
 
- s'"
+s'"
 
-www.estrategiaconcursos.com.br
+
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Há muitas propriedades a serem consideradas ao lidar com bordas, entretanto, para
 encurtar o
@@ -1859,12 +1653,8 @@ border-top-left-radius: 30px;
 
 /* Definir raio de borda arredondada superior direita como 10 pixels */
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 border-top-right-radius: 10px;
 
@@ -1920,16 +1710,9 @@ border-top Define todas as propriedades da borda superior em uma declaração
 border-top-color Define a cor da borda superior
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 border-top-style
@@ -1941,14 +1724,8 @@ Define a largura da borda superior
 Define a largura das quatro bordas
 
 
-
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Margens CSS
 
@@ -2009,16 +1786,10 @@ margin-right: 20px;
 /* Definir margem inferior como 30 pixels */
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 margin-bottom: 30px;
 
@@ -2061,16 +1832,10 @@ para
 seu site.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Preenchimento CSS
 
@@ -2125,16 +1890,10 @@ padding-right: 20px;
 padding-bottom: 30px;
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 /* Definir preenchimento esquerda como 40 pixels */
 padding-left: 40px;
@@ -2171,16 +1930,10 @@ de um
 elemento, e pode ser usado para criar uma aparência mais atraente e organizada para seu site.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Altura, largura e largura máxima do CSS
 
@@ -2240,18 +1993,8 @@ As propriedades heighte width podem ter os seguintes valores:
 * auto- Este é o padrão. O navegador calcula a altura e a largura
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * length- Define a altura/largura em px, cm, etc.
 
@@ -2282,17 +2025,13 @@ página web e podem ser usadas para criar uma aparência mais organizada e estru
 para
 seu site.
 
- s'"
+s'"
 
-www.estrategiaconcursos.com.br
+
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Modelo de Caixa CSS
 
@@ -2348,18 +2087,8 @@ CSS tem as seguintes propriedades de contorno:
 * outline-offset
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * outline
 
@@ -2420,17 +2149,8 @@ independentemente da cor do fundo)
 Abreviação do Contorno do CSS
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A propriedade outline é uma propriedade de abreviação CSS que permite definir
 todas as
@@ -2478,16 +2198,10 @@ outline-style Define o estilo de um contorno
 outline-width Define a largura de um contorno
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Texto CSS
 
@@ -2537,16 +2251,10 @@ filhos, a menos que seja especificamente sobrescrita para um elemento filho.
 Cor do texto
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A propriedade color é usada para definir a cor do texto. A cor pode ser especificada
 como uma
@@ -2611,16 +2319,10 @@ hl {
 text-align: centen;
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 }
 
@@ -2687,18 +2389,11 @@ sublinhado, riscado, entre outros.
 aplicada ao texto.
 
 
-0 0 
+0 0
 
-www.estrategiaconcursos.com.br
+
 /
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * A propriedade text-decoration-color é usada para especificar a cor da decoração de texto.
 
@@ -2768,16 +2463,10 @@ text-transform: uppercase;
 p.lowercase {
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 text-transform: lowercase;
 
@@ -2843,16 +2532,10 @@ text-indent Especifica o recuo da primeira linha em um bloco de texto
 white-space Especifica como lidar com espaço em branco dentro de um elemento
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 word-spacing Especifica o espaço entre as palavras em um texto
 
@@ -2879,16 +2562,10 @@ Descrição
 text-shadow Especifica o efeito de sombra adicionado ao texto
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Fontes CSS
 
@@ -2953,17 +2630,8 @@ font-family: "Times New Roman", Times, serif;
 .p2 {
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 font-family: Arial, Helvética, sans-serif;
 
@@ -3007,17 +2675,13 @@ A lista a seguir apresenta as melhores fontes seguras da Web para HTML e CSS:
 
 * Garamond (serifa)
 
- s'"
+s'"
 
-www.estrategiaconcursos.com.br
+
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Courier New (monoespacial)
 
@@ -3078,17 +2742,8 @@ font-weight: bold;
 }
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A propriedade font-variant especifica se um texto deve ou não ser exibido
 em uma fonte
@@ -3153,18 +2808,8 @@ hl {
 font-size: 2.5em; /* 40px/16=2.5em */
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 }
 
@@ -3229,17 +2874,8 @@ font-weight: bold;
 </style>
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Nesse exemplo, estamos incorporando a fonte "Open Sans" do Google e definindo sua
 família
@@ -3297,17 +2933,13 @@ font-size: 30px;
 
 </body>
 
- x-'"
+x-'"
 
-www.estrategiaconcursos.com.br
+
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 9Tlu£tl|arte> Síiadoiu Effect
 
@@ -3352,16 +2984,6 @@ pode ser conseguido variando o tamanho, peso e cor.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 5. Escolha fontes que tenham uma altura de linha semelhante: Isso ajuda a manter a consistência
 e legibilidade em todo o texto.
@@ -3418,17 +3040,12 @@ font-family Especifica a família de fontes para texto
 font-size Especifica o tamanho da fonte do texto
 font-style Especifica o estilo de fonte do texto
 
- s'"
+s'"
 
-www.estrategiaconcursos.com.br
+
 /' 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 font-variant
@@ -3441,16 +3058,6 @@ Especifica o peso de uma fonte
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ícones de CSS
 
@@ -3525,17 +3132,13 @@ fa-bars"x/i>
 
 </html>
 
- s"''
+s"''
 
-www.estrategiaconcursos.com.br
+
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ícones do Bootstrap
 
@@ -3599,17 +3202,8 @@ CSS PSEUDO-ELEMENTOS: UTILIZANDO PSEUDO-ELEMENTOS COMO :BEFORE OU :AFTER PARA CR
 ÍCONES USANDO CSS.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Links CSS
 
@@ -3674,12 +3268,8 @@ Ao definir o estilo para vários estados de link, existem algumas regras de orde
 
 * a:active DEVE vir depois de a:hover
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Decoração de texto
 
@@ -3741,17 +3331,8 @@ Este exemplo demonstra um exemplo mais avançado onde combinamos várias proprie
 para exibir links como caixas/botões:
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a:linkj a:visited {
 
@@ -3825,14 +3406,8 @@ II. Chá
 III. Coca Cola
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Listas HTML e propriedades da lista CSS
 
@@ -3903,17 +3478,8 @@ list-style-image: url('sqpurple.gif');
 }
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Posicione os Marcadores de Item da Lista
 
@@ -3974,12 +3540,8 @@ padding: 0;
 
 Lista - Propriedade abreviada
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A propriedade list-style é uma propriedade abreviada. É usado para definir todas as
 propriedades
@@ -4029,16 +3591,10 @@ list-style-position Especifica a posição dos marcadores de item de lista (marc
 list-style-type Especifica o tipo de marcador de item de lista
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Tabelas CSS
 
@@ -4098,16 +3654,10 @@ background-color: #í2f2f2;
 }
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Neste exemplo, as bordas da tabela são definidas como "collapse", com uma largura de
 1 px e cor
@@ -4174,16 +3724,10 @@ e 8px de padding. A célula de cabeçalho tem uma cor de fundo cinza claro.
 Recolher bordas da tabela (border-collapse)
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 As bordas da tabela podem ser colapsadas usando a propriedade "border-collapse" em CSS.
 A
@@ -4249,16 +3793,10 @@ padding: 8px;
 th {
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 background-color: #í2f2f2;
 
@@ -4324,17 +3862,13 @@ pretas com largura de 1 px e 8px de padding. A célula de cabeçalho tem uma cor
 fundo cinza
 claro.
 
- x'
+x'
 
-www.estrategiaconcursos.com.br
+
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Estilo de Tabela CSS
 
@@ -4401,18 +3935,8 @@ cabeçalho tem uma
 cor de fundo azul e a cor do texto é branca.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Tabela Responsiva CSS
 
@@ -4448,15 +3972,11 @@ table-layout Define o algoritmo de layout a ser usado para uma tabela
 
 ^1
 
-www.estrategiaconcursos.com.br
+
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Layout CSS - A propriedade de exibição
 
@@ -4505,15 +4025,11 @@ elemento dinamicamente.
 
 x-""' 72
 
-www.estrategiaconcursos.com.br
+
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Note que o elemento com display: none ainda existe no DOM, mas não é visível na
 página. Se
@@ -4578,16 +4094,10 @@ propriedade
 display: none.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 display:flex é um valor de CSS que transforma um elemento HTML em um container
 flexível. Isso
@@ -4646,16 +4156,10 @@ pelo
 navegador. Isso é importante ao tornar um site utilizável em pequenos dispositivos.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A propriedade de posição
 
@@ -4717,17 +4221,8 @@ não deixa
 uma lacuna na página onde normalmente estaria localizado.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 position: absolute;
 
@@ -4784,23 +4279,13 @@ right Define a borda da margem direita para uma caixa posicionada
 top Define a borda da margem superior para uma caixa posicionada
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
 
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A propriedade z-index
 
@@ -4869,16 +4354,10 @@ alto são exibidos "acima" de elementos com um valor de "z-index" mais baixo.
 A)
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Overflow
 
@@ -4942,15 +4421,10 @@ longas, caso elas transbordem seu contêiner
 
 x-"'" 79
 
-www.estrategiaconcursos.com.br
+
 /' 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 overflow-x
@@ -4964,16 +4438,10 @@ Especifica o que fazer com as bordas superior/inferior do
 se ele ultrapassar a área de conteúdo do elemento
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Layout CSS: Float and clear
 
@@ -5022,8 +4490,6 @@ ocorre para
 o "floatright".
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
@@ -5088,12 +4554,6 @@ flutuantes
 anteriores. Valores possíveis são "left", "right", "both" ou "none".
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Observe que estas são as duas principais propriedades relacionadas a
 "float". Há outras
 propriedades menos comuns, como "float-offset", que são usadas em situações
@@ -5127,16 +4587,10 @@ overflow-y Especifica o que fazer com as bordas superior/inferior do conteúdo
 se ele ultrapassar a área de conteúdo do elemento
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Layout CSS: display: inline-block
 
@@ -5202,8 +4656,6 @@ elemento HTML
 ou links. Isso significa que eles não podem ter uma largura ou altura definida e não podem
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
@@ -5238,18 +4690,8 @@ usado para
 elementos que devem ser exibidos em blocos separados, ocupando toda a largura disponível.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Alinhamento
 
@@ -5315,14 +4757,10 @@ horizontalmente um elemento.
 transform: translate(-50%, -50%);
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -5350,17 +4788,8 @@ place-items: center;
 }
 
 
-0 0 
+0 0
 
-www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 CSS Combinators
 
@@ -5428,17 +4857,13 @@ por um
 
 elemento <p>
 
- x-'"
+x-'"
 
-www.estrategiaconcursos.com.br
+
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Pseudo-classes
 
@@ -5503,15 +4928,10 @@ filho de seu pai
 
 x-"'" 89
 
-www.estrategiaconcursos.com.br
+
 /' 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 :first-of-type
@@ -5622,16 +5042,10 @@ Seleciona elementos <input> sem atributo
 "obrigatório"
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Seleciona elementos <input> com um valor
 fora de um intervalo especificado
@@ -5657,16 +5071,10 @@ valor válido
 Seleciona todos os links visitados
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Opacidade /Transparência
 
@@ -5696,12 +5104,6 @@ A propriedade opacity é útil para criar efeitos de transparência e para
 tornar elementos menos
 opacos, permitindo que o fundo da página seja visto através deles.
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Pseudo-elementos
 
@@ -5772,18 +5174,8 @@ texto. As seguintes propriedades se aplicam ao pseudoelemento ::first-letter:
 * text-decoration
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * vertical-align (only if "float" is "none")
 
@@ -5847,16 +5239,10 @@ um
 todo com base em seu estado.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Barra de Navegação
 
@@ -5926,17 +5312,7 @@ display: block;
 }
 
 
-
-
 www. estra tegiaconcursos. com. br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 nav a:hover {
@@ -6010,17 +5386,8 @@ margin-bottom: 20px;
 }
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 aside a {
 color: #fff;
@@ -6082,17 +5449,13 @@ com boa aparência
 
 * background-color: #dddddd; - Adicione uma cor de fundo cinza a cada elemento <a>
 
- x'
+x'
 
-www.estrategiaconcursos.com.br
+
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Menus suspensos em CSS
 
@@ -6156,12 +5519,8 @@ de fundo, sombreamento e z-index. Quando o mouse é posicionado sobre a div
 com classe
 "dropdown", o conteúdo do menu é exibido.
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Galeria de imagens
 
@@ -6173,12 +5532,8 @@ atraente. O CSS
 layout, tamanho
 das imagens, bordas, espaçamentos, entre outros aspectos visuais.
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Sprites de imagem
 
@@ -6193,13 +5548,8 @@ apenas uma
 imagem.
 
 
-* 
+*
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Seletores de atributos CSS
 
@@ -6242,16 +5592,10 @@ específicos
 em uma página web.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Formulários CSS
 
@@ -6297,16 +5641,10 @@ formulários únicos
 e atraentes que funcionem perfeitamente com o resto do seu site.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 RESUMo
 
@@ -6376,16 +5714,10 @@ um documento HTML usando uma tag <link> na seção head. Por exemplo,
 <head>
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <link rel="stylesheet" type="text/css" href="styles.css">
 
@@ -6447,16 +5779,10 @@ estilizar.
 Podemos dividir os seletores CSS em cinco categorias:
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Seletores simples (selecionar elementos com base no nome, id, classe)
 
@@ -6514,16 +5840,10 @@ vermelha pode ser
 especificada como rgb(255, 0, 0 ).
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 UM VALOR DE COR RGB REPRESENTA AS FONTES DE LUZ VERMELHA, VERDE E AZUL
 
@@ -6576,16 +5896,9 @@ Define se a imagem de fundo rola com o resto do conteúdo (scroll) ou
 é fixa no lugar (fixed).
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 background-clip
@@ -6649,16 +5962,10 @@ propriedade
 border-style especifica que tipo de borda exibir. Os seguintes valores são permitidos:
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Estilo de Borda CSS Descrição
 
@@ -6717,16 +6024,10 @@ A propriedade principal para controlar o preenchimento é a padding. A sintaxe g
 padding: top right bottom left;
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Altura, largura e largura máxima do CSS
 
@@ -6784,17 +6085,8 @@ font-family Define a fonte para o texto.
 font-size Define o tamanho da fonte.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Define o peso da fonte (normal, bold, etc.).
 Define a altura da linha.
@@ -6848,16 +6140,9 @@ Os ícones podem ser facilmente adicionados à sua página HTML, usando uma bibl
 ícones usando CSS.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Links CSS
@@ -6915,12 +6200,6 @@ padrão para a maioria dos elementos é blockou inline.
 Elementos de nível de bloco
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Um elemento de nível de bloco sempre começa em uma nova linha e ocupa
 toda a largura
 disponível (estende-se para a esquerda e para a direita o máximo possível).
@@ -6969,16 +6248,10 @@ estática (se não houver, será posicionado em relação à janela do navegador
 certa posição na tela, a partir daí ele se comporta como "fixed".
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Os elementos são então posicionados usando as propriedades superior, inferior,
 esquerda e
@@ -7046,8 +6319,6 @@ uma
 * visible: o conteúdo é exibido fora do elemento, sem cortar ou rolar.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
@@ -7100,33 +6371,17 @@ todos
 os links que apontam para arquivos PDF.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 REFERÊNCIAS
 
 https://www.w3schools.com/css/default.asp
 
 
-
 www. estra tegiaconcursos. com. br
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Questões CESPE
@@ -7181,18 +6436,8 @@ Gabarito: Errado
 Item. 3. (CESPE - DP DF - 2022) Julgue o item a seguir, acerca de CSS3, JMS, JSON e JUnit.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Quando se utiliza CSS3, para que os flex items sejam apresentados na mesma ordem em
 que
@@ -7253,16 +6498,10 @@ hexadecimal, existem outras notações funcionais, como RGB e HSL.
 Gabarito: Errado
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 5. (CESPE - ALECE -2021) Web designers costumam usar CSS e HTML na construção de um
 sítio
@@ -7327,16 +6566,10 @@ cores mais
 cobradas. Dessa forma, nosso gabarito é a alternativa c) background-color: #OOffOO.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra C
 
@@ -7400,16 +6633,10 @@ variedade de dispositivos.
 Gabarito: Correto
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 8. (CESPE - MPC TCE-PA - 2019) O uso de CSS permite a criação de padrões para a
 publicação
@@ -7479,18 +6706,8 @@ aspectos. Com
 o CSS 3, é possível ainda adicionar efeitos visuais como sombras, rotações, animações, entre
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 outros. Além disso, ele permite que você aplique estilos a elementos específicos com
 base em sua
@@ -7521,16 +6738,10 @@ especificidade mais alta têm prioridade sobre as regras de estilo com a especif
 Gabarito: Correto
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões FCC
 
@@ -7595,12 +6806,6 @@ na tela. Elementos com um valor de "z-index" mais alto são exibidos "acima" de
 elementos com
 um valor de "z-index" mais baixo.
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra A
 
@@ -7667,16 +6872,10 @@ correta: input
 [type=text]. Portanto, temos aí nosso gabarito!
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra A
 
@@ -7740,18 +6939,8 @@ href="aleap.css"/> pode ser também escrita na forma:
 a) <style rel="link" type="text/css"> @include url("aleap.css"); </style>
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) <link lang="css" type="stylesheet" href="aleap.css"/>
 
@@ -7822,16 +7011,10 @@ o display:inIine-block
 a) exibe parte do elemento da página na horizontal e parte na vertical.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) não adiciona quebra de linha após o elemento, permitindo que este se ajuste ao
 lado de
@@ -7896,16 +7079,10 @@ dependendo das características do dispositivo ou do tamanho da tela.
 Gabarito: Letra C
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 1O.(FCC- Prefeitura de Manaus - AM - 2019) Para que, ao se posicionar o ponteiro do
 mouse
@@ -7977,16 +7154,10 @@ medida são úteis para ajudar a tornar o site mais responsivo, já que elas per
 que você
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 especifique medidas relativas ao tamanho da janela do navegador, em vez de medidas
 absolutas
@@ -8052,16 +7223,10 @@ Gabarito: Letra E
 tamanho pelo qual os elementos são renderizados na página web quando aberta na janela do
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 navegador. Algumas dessas unidades de medida são relativas e adequam o
 tamanho do
@@ -8128,16 +7293,10 @@ ele, você pode selecionar um elemento que está imediatamente adjacente a
 outro elemento,
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 especificado antes do seletor adjacente. Nesse caso, o elemento <p> está
 sendo selecionado
@@ -8201,18 +7360,8 @@ c) width-dimension: fixed;
 d) box-sizing: border-box;
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) padding-render: none;
 
@@ -8276,17 +7425,8 @@ font-size:300%;
 }
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 </style>
 
@@ -8355,18 +7495,8 @@ text-align:center
 </head>
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <body>
 
@@ -8427,16 +7557,10 @@ border:solid #c0c0c0; 1px
 background-color: #c0c0c0;
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 margin: 10px;
 padding: 20px;
@@ -8503,18 +7627,8 @@ d) <style content="with=auto, height=auto, scale=responsive"/>
 e) <meta name="responsive" content="width=device-width, max-scale=100%">
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -8575,16 +7689,10 @@ e) @animation
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para que a animação chamada metro mude a cor de fundo do contêiner de vermelho para
 azul, a
@@ -8659,16 +7767,10 @@ iniciada pela
 palavra carro.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -8683,16 +7785,10 @@ selecionados e a borda será aplicada a eles.
 Gabarito: Letra C
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões FCV
 
@@ -8757,16 +7853,10 @@ demais alternativas, a) O
 seletor "ul.li" casa elementos com a classe "li" que são descendentes de um elemento de lista não
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ordenada (ul). c) O seletor "ul + li" corresponde ao primeiro elemento da lista de
 irmãos (li) que
@@ -8832,18 +7922,8 @@ color: blue;
 }
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Sobre esse trecho, é correto afirmar que a cor e o alinhamento serão aplicados
 
@@ -8900,16 +7980,10 @@ os seletores
 utilizados no trecho a seguir.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * { font-family: Tahoma, Verdanaj sans-serifj
 
@@ -8978,18 +8052,8 @@ com base em valores específicos de seus atributos. "E" representa o nome do
 elemento que
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 desejamos selecionar. Já, "xxx" representa o nome do atributo que desejamos selecionar.
 Por fim,
@@ -9060,16 +8124,10 @@ d) <p> { font-size: 20px; color: blue}
 e) :p { font-size: 20px; color: blue}
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -9129,18 +8187,8 @@ define
 corretamente a formatação para todos os elementos h1 de um documento.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) .h1 { color: white; text-align: center;}
 
@@ -9204,16 +8252,10 @@ Pt
 color: red;
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 text-align: center;
 
@@ -9274,17 +8316,8 @@ uma só vez.
 Gabarito: Letra E
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 15.(FGV-IMBEL-2021) No contexto do CSS numa página Web, assinale o script que estabelece
 que todos os elementos <p> serão exibidos de acordo com a definição dos estilos.
@@ -9336,16 +8369,9 @@ utilizado.
 Gabarito: Letra C
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Questões CESPE
@@ -9397,16 +8423,10 @@ conforme exemplificado no código a seguir.
 <head>
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <style type="text/css">
 
@@ -9463,16 +8483,10 @@ e) line-boxes
 Item. 7. (CESPE - ME- 2020) Acerca de desenvolvimento de sistemas web, julgue o item a seguir.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 No CSS 3, o uso da propriedade box-shadow e da função linear-gradient possibilita a
 criação
@@ -9518,16 +8532,10 @@ especificidade
 mais alta têm prioridade sobre as propriedades com especificidade mais baixa.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões FCC
 
@@ -9592,16 +8600,10 @@ b) input type='text' {colonblue}
 c) input.text {color:blue}
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) inputltext {color:#0000ff}
 
@@ -9669,17 +8671,8 @@ pode
 ser utilizada, em todos eles, a instrução CSS:
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) align:inline
 
@@ -9745,13 +8738,7 @@ d) a:over {color: #00FF00}.
 e) a:hover {color: #FF0000}
 
 
-
-
-
 ,
-
-
-
 
 
 Item. 11. (FCC -TRF - 4a REGIÃO - 2019) As unidades de medida usadas em CSS para
@@ -9818,18 +8805,8 @@ I e II referem-se, respectivamente, às unidades de medida
 a) pw e ph.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) ex e ey.
 
@@ -9889,17 +8866,8 @@ contêiner
 a) weight-width: fixed;
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) max-width:300px;
 
@@ -9966,17 +8934,8 @@ d) h1#tit::first-letter
 e) h1 ,tit::captive-letter
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 19. (FCC - ATTIFM Pref Manaus - 2019) Um programador desenvolveu a página web abaixo.
 
@@ -10036,16 +8995,10 @@ Os códigos CSS e HTML são mostrados abaixo,
 .conteiner {
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 border:solid #c0c0c0; 1 px
 
@@ -10111,18 +9064,8 @@ height: 200px;
 background-color: red;
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 animation-name: metro;
 animation-duration: 4s;
@@ -10187,8 +9130,6 @@ title
 s.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
@@ -10208,16 +9149,6 @@ palavra carro.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões FCV
 
@@ -10276,16 +9207,10 @@ Item. 4. (FGV-TRT - 16a REGIÃO (MA) - 2022) No contexto do HTML e CSS, analise 
 numa página Web.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 p.centro {
 
@@ -10352,16 +9277,6 @@ e) Todos os elementos da página; elementos <h1 >; elementos com id= "xpto".
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Item. 7. (FGV -SEMSA Manaus - 2022) Dentre os formatos de seletores que podem ser
 definidos no
 CSS3, a expressão
@@ -10422,16 +9337,10 @@ a) classe xxxx / tag / classe xxxx / classe xxxx
 b) classe xxxx / classe xxxx / classe xxxx / tag
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) tag / classe xxxx / id "xxxx" / tag
 
@@ -10490,16 +9399,10 @@ Item. 14. (FGV -IMBEL - 2021) Com relação às regras escritas em CSS3, o papel
 padding em um box é definir
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) o padrão de preenchimento.
 
@@ -10538,18 +9441,8 @@ d) <p> { font-size: 20px; color: blue}
 e) :p { font-size: 20px; color: blue}
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -10605,15 +9498,9 @@ Item. 16. LETRA C
 Item. 5. LETRA C 23. LETRA C
 
 
-
 www. estra tegiaconcursos. com. br
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -10670,16 +9557,10 @@ de sites
 e aplicativos web mais fácil e eficiente.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Uau! Incrível, não é? mas vamos voltar o foco para o Bootstrap? Bora ©! O Bootstrap
 é altamente
@@ -10756,19 +9637,10 @@ próprio estilo a partir dos componentes pré-construídos.
 Certo, e depois Paolla, o que devo fazer?
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Layout
 
@@ -10828,16 +9700,10 @@ Extra extra large
 >1400px
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 sm ig
 
@@ -10889,17 +9755,8 @@ quaisquer
 pontos de interrupção personalizados. As seis camadas de grade padrão são as seguintes:
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Extra small (xs)
 
@@ -10979,16 +9836,10 @@ largura
 entre 768px e 992px.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A tabela de breakpoints do Bootstrap permite que você visualize como cada contêiner se
 compara
@@ -11053,16 +9904,10 @@ tela,
 oferecendo uma excelente experiência de usuário em todos os dispositivos.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ....................................................................................................
 ............................................................................■
@@ -11138,16 +9983,9 @@ uniformemente o dimensionamento de colunas e classes de medianiz
 para alterar o espaçamento de seu conteúdo.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 As colunas são
@@ -11217,16 +10055,10 @@ documentação:
 <div class="col">col</div>
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <div class="col">col</div>
 
@@ -11312,13 +10144,8 @@ indicam que
 cada coluna ocupará 4 das 12 colunas disponíveis na tela pequena (sm). Lembre-se de que, para
 
 
-* 
+*
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 criar um layout de grade responsivo, você pode usar diferentes classes
 "col-*" para ajustar o
@@ -11397,16 +10224,10 @@ largura da tela.
 Quando a tela for maior que o "breakpoint" definido pela classe "col-md-", as colunas ocuparão
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 1/3 da largura da tela. No terceiro exemplo, há uma grade com duas colunas que
 sempre ocupam
@@ -11495,16 +10316,10 @@ I
 : e) "container" em um elemento div e adicionar as classes "row" e "col-*" para criar o layout. =
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -11568,16 +10383,10 @@ Use classes específicas de ponto de quebra para modificar os gutters horizontai
 todos.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Utilitários
 
@@ -11647,16 +10456,10 @@ column, o texto será
 alinhado à direita da linha.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 text-right, por outro lado, é uma classe de alinhamento de texto que pode ser usada
 em qualquer
@@ -11720,16 +10523,10 @@ classes de grid do Bootstrap para criar layouts mais complexos e personalizados.
 Alinhamento de Texto
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para alinhamento à esquerda, direita e central, estão disponíveis classes responsivas
 que usam os
@@ -11796,16 +10593,10 @@ contêiner flex. Todas essas classes de alinhamento podem ser usadas em conjunto
 outras
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 classes do Bootstrap para criar layouts responsivos e visualmente agradáveis. Vejamos de
 forma
@@ -11876,16 +10667,9 @@ posicionamento.
 position-relative Posiciona um elemento em relação à sua posição normal.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 position-absolute
@@ -11957,16 +10741,10 @@ de borda, de gradiente e de foco de elementos HTML, senão, vejamos.
 Propriedades Descrição
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Define a cor do texto para a cor primária do tema;
 Define a cor do texto para a cor secundária do tema;
@@ -12018,16 +10796,9 @@ Define a cor de fundo para a cor azul clara usada para fornecer
 informações;
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 *bg-light
@@ -12042,16 +10813,6 @@ fundo claro.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Componentes
 
@@ -12113,16 +10874,10 @@ estilo padrão do Bootstrap. A classe adiciona uma fonte em negrito e uma cor de
 preta para esses elementos.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * .form-inline: essa é uma classe Bootstrap utilizada para criar formulários
 horizontais. Com
@@ -12202,16 +10957,10 @@ type="radio" name="exampleRadio"
 for="exampleRadio2">
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Exemplo de radio button 2
 
@@ -12296,16 +11045,10 @@ id="exampleRadio2">
 <label class="fonm-check-label" for="exampleRadio2">
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Exemplo de radio button 2
 
@@ -12368,16 +11111,10 @@ tanto visualmente
 atraentes quanto fáceis de usar.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Carousel
 
@@ -12443,17 +11180,8 @@ data-ride="carousel">
 <img class="d-block w-100" src="..." alt="First slide">
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 </div>
 
@@ -12524,16 +11252,10 @@ Cada imagem é
 definida da mesma maneira que a primeira imagem, mas sem a classe active.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Em resumo, este código HTML cria um carrossel de imagens no Bootstrap, com três
 imagens que
@@ -12606,16 +11328,10 @@ role="button" data-slide="next">
 A imagem abaixo apresenta um carousel com controles
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A imagem abaixo apresenta um carousel com indicadores
 
@@ -12628,16 +11344,9 @@ funcionalidade desejada. Alguns desses elementos são:
 Classe Descrição
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 .carousel
@@ -12694,16 +11403,9 @@ destino seja exibido (ou seja, antes que o slid.bs.carouselevento
 ocorra).
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 .carouselfprev')
@@ -12756,16 +11458,10 @@ to O índice do próximo item
 Buttons
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Primary Secondary Success Danger Warning Info
 Link
@@ -12831,16 +11527,10 @@ Define um estilo de botão com fundo escuro e texto claro para um
 botão com design mais forte e dramático.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 As classes.btn são projetadas para serem usadas com o elemento <button>. No
 entanto, você
@@ -12900,17 +11590,8 @@ spinner está em uso.
 Border spinner
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <span class="spinner-border spinner-border-sm"x/span> é uma tag HTML que representa
 um
@@ -12965,12 +11646,7 @@ caixa de ferramentas flutuante que exibe informações adicionais ou contextuais
 usuário
 passa o mouse sobre um elemento, sem precisar clicar ou navegar para outra página.
 
-* 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
+*
 
 
 Bootstrap Tooltip Demo
@@ -13035,16 +11711,10 @@ shadow
 DOM.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Z-index
 
@@ -13113,16 +11783,10 @@ tamanho SM (pequeno) ou
 maior.</p>
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <p class = "text-md-left">Texto alinhado à esquerda em viewports de
 tamanho MD (médio) ou
@@ -13197,16 +11861,10 @@ align-items-end
 elementos filhos verticalmente na parte inferior do contêiner pai. É
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 usada em contêineres flex e pode ser aplicada ao elemento pai
 aos elementos filhos dentro dele.
@@ -13273,16 +11931,9 @@ my-auto
 Centraliza um elemento verticalmente em seu contêiner.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 float-right
@@ -13355,16 +12006,10 @@ Classes de cor
 No Bootstrap, há diversas classes para definir a cor dos elementos, dentre elas:
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Propriedades Descrição
 
@@ -13423,16 +12068,10 @@ column, o texto será
 alinhado à direita da linha.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 text-right, por outro lado, é uma classe de alinhamento de texto que pode ser usada
 em qualquer
@@ -13465,16 +12104,9 @@ Glyphicons no seu
 ; Errado)
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Bootstrap
@@ -13518,16 +12150,10 @@ Extra extra large
 Infixo de classe I Dimensões I
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 sm ig
 
@@ -13605,17 +12231,8 @@ XX-Large
 px
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 .container-lg 100% 100% 100% 960px
 1140px 1320 px
@@ -13684,16 +12301,10 @@ controlar o espaço entre elas. Isso paddingé então neutralizado nas
 linhas com margens negativas para garantir que o conteúdo em suas
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 colunas esteja visualmente alinhado no lado esquerdo. As linhas
 também oferecem suporte a classes modificadoras para aplicar
@@ -13752,16 +12363,9 @@ de borda mais comuns são:
 Propriedades Descrição
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 .border-top, .border-
@@ -13825,16 +12429,10 @@ relação a um
 determinado ponto na tela. Algumas das principais classes são:
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Propriedades Descrição
 
@@ -13886,16 +12484,10 @@ de borda, de gradiente e de foco de elementos HTML, senão, vejamos.
 Propriedades Descrição
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Define a cor do texto para a cor primária do tema;
 Define a cor do texto para a cor secundária do tema;
@@ -13947,16 +12539,9 @@ Define a cor de fundo para a cor azul clara usada para fornecer
 informações;
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 *bg-light
@@ -14038,16 +12623,10 @@ data-ride="carousel">
 <img class="d-block w-100" src="..." alt="Third slide">
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 </div>
 
@@ -14110,16 +12689,9 @@ Percorre os itens do carrossel da esquerda para a direita.
 .carouself pause') Impede que o carrossel percorra os itens.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 .carousel(number)
@@ -14171,16 +12743,10 @@ Descrição
 direction A direção na qual o carrossel está deslizando (ou "left"ou "right").
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O elemento DOM que está sendo deslizado para o lugar como o i
 ativo.
@@ -14232,27 +12798,12 @@ dicas de
 ferramentas e popovers, modais e muito mais.
 
 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 REFERÊNCIAS
 
 https://www.w3schools.com/bootstrap/bootstrap_ver.asp
 
 
-
 www. estra tegiaconcursos. com. br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Diversas Bancas
@@ -14309,16 +12860,10 @@ d) form-line
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para estilizar um formulário em linha, usamos o form-inline que é uma classe Bootstrap
 utilizada
@@ -14387,16 +12932,10 @@ d) button-link, btn-primary.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Pessoal, essa questão foi anulada pois a classe btn-default é uma classe descontinuada,
 ou seja,
@@ -14465,18 +13004,8 @@ web criada com Bootstrap 5, em condições ideais.
 <div class="containen-fluid">
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <div class="now">
 
@@ -14544,12 +13073,8 @@ centralizado na página,
 
 container-fluid: classe para definir um contêiner com largura total e preenchimento completo do
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 espaço disponível. As outras opções mencionadas (container-flex, container-grid,
 container-box,
@@ -14616,16 +13141,10 @@ sistema
 de flexbox do Bootstrap 5.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra A
 
@@ -14685,18 +13204,8 @@ entre
 a) col-small-25 e col-small-75.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) col-sm-3 e col-sm-9.
 
@@ -14767,16 +13276,10 @@ e) column-small-25 e column-small-75
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 CONHEÇA A BANCA! Gente, olha como a FCC gosta desse tipo de questão! São muito
 parecidas
@@ -14848,8 +13351,6 @@ dispositivos
 com largura de tela maior ou igual a 576 pixels e irá empilhar as colunas uma sobre a outra em
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
@@ -14927,12 +13428,6 @@ usuário
 passa o mouse sobre o elemento.
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 No código da questão, o atributo data-toggle="a" indica que o elemento é um
 acionador de
 tooltip e o atributo data-placement="bottom" especifica que a caixa de
@@ -15006,16 +13501,10 @@ segundo contêiner terá 6/12 da largura da linha (ou seja, 50%). Dispositivos g
 (992px ou
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 mais): o primeiro contêiner terá 4/12 da largura da linha (ou seja, 33,33%) e o
 segundo contêiner
@@ -15076,17 +13565,8 @@ levar algum tempo.
 Gabarito: Letra D
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 18.(FCC - TJ MA - 2019) O Bootstrap 4 usa flexbox em vez de float para manipular o
 layout da
@@ -15170,12 +13650,8 @@ b) data-alternate="show-hide"
 
 c) data-toggle="collapse"
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) data-alternate="true"
 
@@ -15245,16 +13721,10 @@ médias e
 30%/70% para dispositivos de telas grandes.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -15325,16 +13795,10 @@ desenvolvimento web ideal.
 </head>
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <body>
 
@@ -15400,16 +13864,10 @@ d) col-small-3 e col-small-7
 e) col-lg-3 e col-lg-9
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -15471,17 +13929,8 @@ site
 responsivo.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <!DOCTTPE
 
@@ -15551,16 +14000,6 @@ Gabarito: Letra D
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 26.(FEPESE - CELESC - 2022) O sistema de grid Bootstrap permite até quantas colunas?
 
 a) 16
@@ -15629,16 +14068,10 @@ cada linha
 tenha a mesma largura, criando uma margem adicional entre as palavras.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Letra E
 
@@ -15702,16 +14135,10 @@ o correto é a letra a)"row" em um elemento div e adicionar classes "col-*" para
 Gabarito: Letra A
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 3O.(FGV -Sefaz AM - 2022) O Bootstrap é um framework web com código-fonte aberto
 amplamente utilizado em desenvolvimento de aplicações web.
@@ -15780,16 +14207,6 @@ Gabarito: Letra A
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Assinale o framework usualmente associado à classe utilizada.
 
 a) Angular Material.
@@ -15849,16 +14266,10 @@ e plataformas.
 Gabarito: Letra B
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 33.(Instituto AOCP - PRODEB - 2018) A tipografia é muito importante em
 qualquer trabalho
@@ -15928,16 +14339,10 @@ fundo verde e letra branca, deve-se alterar a declaração BOOTSTRAP para:
 a) badge success
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) btn badge-success
 
@@ -15986,16 +14391,9 @@ necessidades específicas de cada projeto.
 Gabarito: Correto
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Diversas Bancas
@@ -16054,16 +14452,10 @@ funcionalidade em
 todos esses casos.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 5. (IFSUL- IF SUL-2019) O Bootstrap é uma estrutura popular de HTML, CSS e
 JavaScript para
@@ -16129,16 +14521,10 @@ as telas, exceto nas extra pequenas, as lacunas I e II devem ser corretamente pr
 a) col-left-50 e col-right-50
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) col-half-screen e col-half-screen
 
@@ -16203,13 +14589,8 @@ Bootstrap
 </div>
 
 
-* 
+*
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para definir que este contêiner será responsivo, de largura fixa e aparecerá
 centralizado na tela,
@@ -16274,16 +14655,10 @@ e II devem ser
 preenchidas, correta e respectivamente, com os nomes de classe
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) col-sm-3 e col-sm-9
 
@@ -16359,13 +14734,8 @@ abaixo, a
 lacuna I deve ser preenchida por
 
 
-* 
+*
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Cadastrar
 
@@ -16430,16 +14800,8 @@ em que a imagem de um pequeno círculo fica girando no interior do botão.
 Q Carregando..
 
 
-
 www. es tra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Usando Bootstrap 4, em condições ideais, este botão pode ser criado por
 meio do bloco de
@@ -16518,13 +14880,8 @@ integra. a AâAlnlstraç3o Direta do Poder Executivo...
 < /ntml >
 
 
-* 
+*
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para que, ao clicar uma vez no botão, o texto contido no contêiner com id="a1"
 apareça abaixo
@@ -16586,16 +14943,10 @@ médias e
 definir que um container deve usar toda a largura da tela.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para isso, terá que utilizar na tag <div> o atributo class igual a
 
@@ -16671,13 +15022,8 @@ pixels por 991 pixels. A coluna da esquerda deve ocupar aproximadamente 33,3% e 
 Para obter o layout desejado, as lacunas I e II devem conter, respectivamente, os valores
 
 
-* 
+*
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) col-md-3 e col-md-9
 
@@ -16749,16 +15095,6 @@ C./htmlj-
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Para que este código crie dois botões para paginação, "Anterior" e "Próximo", um ao
 lado do
 outro, utilizando Bootstrap, a lacuna I deve ser corretamente preenchida com.
@@ -16823,16 +15159,10 @@ b) "grid" em um elemento div e adicionar classes "row-*" para criar as linhas.
 c) "responsive " em um elemento div e adicionar classes "col-*" para criar as colunas.
 
 
-
-www.estrategiaconcursos.com.br
 /' 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) "flex" em um elemento div e adicionar classes "grid-*" para criar as linhas.
 
@@ -16889,12 +15219,6 @@ c) CSS.
 d) JSON.
 
 e) SpringBoot.
-
-
-
-
-1 www.estrategiaconcursos.com.br
-
 
 
 
@@ -16961,18 +15285,8 @@ d) btn btn-success
 e) btn success
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 35. (QUADRIX - CRM PR - 2018) No que se refere às tecnologias de desenvolvimento para webz
 julgue o item a seguir.
@@ -16982,16 +15296,10 @@ desenvolvimento
 de interfaces de usuários em sistemas web.
 
 
-
-www.estrategiaconcursos.com.br
 / 257
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -17031,79 +15339,6 @@ Item. 35. CORRETO
 Item. 12. LETRA B 24. LETRA B
 
 
-* 
+*
 
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

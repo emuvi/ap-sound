@@ -1,24 +1,5 @@
 Capítulo. Desenvolvimento de Software - Especificações JEE ( JPA, EJB, JSF, JMS e JTA ) , JVM. Hibernate ( Parte 2 ).
 
-Concursos
-
-(Profs. Paolla
-Ramos e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Desenvolvimento de
-software - 2023 (Pós-Edital)
-
-Autor:
-
-Paolla Ramos e Silva
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Índice
 
@@ -42,16 +23,11 @@ Paolla Ramos e Silva
 
 10) Java EE - CDI e Injeção de Dependência - Teoria
 
- x
+x
 
-www.estrategiaconcursos.com.br
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 JAVA TRANSACTION API (JTA)
 
@@ -94,16 +70,10 @@ Transaction Manager,
 Transaction, XA Resource e Xid.
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - JTA - MULTIBANCAS
 
@@ -155,17 +125,13 @@ Comentários:
 
 Não, essa questão tenta confundir JTA e JMS! Gabarito: E
 
- x' 4
+x' 4
 
-www.estrategiaconcursos.com.br
+
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 4. (FUMARC - 2011 - BDMG - Analista de Sistemas - III) JTA é uma API que padroniza o
 tratamento de transações dentro de uma aplicação Java.
@@ -187,14 +153,8 @@ dentro de uma
 Aplicação Java. Gabarito: C
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - JTA - MULTIBANCAS
 
@@ -217,16 +177,10 @@ padroniza o
 tratamento de transações dentro de uma aplicação Java.
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -240,12 +194,6 @@ Item. 3. E
 
 Item. 4. C
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 JAVA MESSACE SERVICE (JMS)
 
@@ -306,16 +254,10 @@ para receber as mensagens enviadas para essa fila. Há um relacionamento um-para
 entre o cliente emissor e o cliente receptor.
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Nesse caso, apenas um receptor irá ler a mensagem. Como se trata de uma
 comunicação
@@ -363,14 +305,8 @@ mensagens. Qualquer aplicação Java EE pode ser um cliente.
 em si.
 
 
-
-
 , 51
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - JMS - MULTIBANCAS
 
@@ -418,16 +354,10 @@ enviada
 para uma fila deve ser recebida por um único consumidor (Unicast). Gabarito: A
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 2. (CESGRANRIO - 2006 - PETROBRÁS - Analista de Sistemas - D) Para se garantir a entrega de
 uma mensagem para um único destinatário, o modelo de troca de mensagens publish/subscribe
@@ -481,16 +411,10 @@ integrada
 Conforme vimos em aula, a questão está perfeita! Gabarito: C
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES -JMS - MULTIBANCAS
 
@@ -533,15 +457,8 @@ mensageria
 publish-subscribe.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -554,14 +471,8 @@ Item. 2. E
 Item. 3. C
 
 
-
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Enterprise JavaBeans (EJB) é uma arquitetura para aplicações corporativas orientada à transação e
 baseada em componentes. Além de uma arquitetura, eles são também componentes server-side
@@ -632,16 +543,10 @@ negócio sob uma única interface - e o EJB é o núcleo da Tecnologia Java
 EE. Bem, esse
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 componente é executado no Container EJB de um Servidor de Aplicação! Professor, o que
 tem
@@ -701,15 +606,8 @@ programação ou serviço em nível de sistema, tais como transações ou segura
 oferecido pelo Container EJB.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 OBJETIVOS GERAIS DA ARQUITETURA EJB
 
@@ -744,16 +642,10 @@ A Arquitetura EJB será compatível com as plataformas de servidores existentes.
 Fornecedores serão capazes de estender seus produtos para apoiar EJBs.
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A Arquitetura EJB será compatível com outras APIs da linguagem de programação
 Java.
@@ -786,16 +678,10 @@ Chamadas assíncronas a métodos - Uma alternativa simplificada à MDBs para
 chamada assíncrona que pode ser utilizada em cenários menos complexos.
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Nomes JNDI globais padronizados - Esse recurso facilita ainda mais a
 portabilidade.
@@ -845,16 +731,10 @@ de MDBs concorrentemente. Eles podem ser Stateless, apenas. Ademais, devem ser
 invocados
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 por meio de programação por um cliente local ou remoto. Como são não-persistentes, o
 cliente
@@ -911,14 +791,8 @@ sessão.
 Decorem isso: são objetos que mantém o estado entre as chamadas de métodos.
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 1. Create
 
@@ -1000,8 +874,6 @@ módulos,
 pode-se ganhar em extensibilidade e reusabilidade.
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
@@ -1024,16 +896,10 @@ e
 interajam de uma maneira fracamente acoplada e flexível, iniciando e observando eventos.
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - EJB - MULTIBANCAS
 
@@ -1085,14 +951,6 @@ fácil de acessar e simples de usar.
 
 LOCAL CONTÊINER COMPONENTE
 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 CLIENTE Aplicação Cliente Componentes de Aplicação
 
@@ -1149,16 +1007,10 @@ de
 dados. Atualmente, os Entity Beans são opcionais, mas continuam existindo! Gabarito: C
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 5. (FCC - 2011 - TCE/PR - Analista de Sistemas) Sobre o Java EE 6 é correto afirmar:
 
@@ -1208,17 +1060,13 @@ destinatário.
 
 (d) Conforme vimos em aula, é de forma assíncrona.
 
- x'
+x'
 
-www.estrategiaconcursos.com.br
+
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Um Session Bean encapsula a lógica de negócio que pode ser invocada programaticamente
 por
@@ -1268,14 +1116,8 @@ JavaServer Faces (JSF)
 EJB Enterprise Beans
 
 
-
-
 , 51
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Conforme podemos ver na tabela, apresentação e tratamento de eventos
 são tipicamente
@@ -1335,16 +1177,10 @@ a) Transações. Persistência. Ciclo de Vida. Segurança.
 b) Transições. Pertinência. Ciclo de Vida. Risco
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) Transformações. Persistência. Ciclo de Projeto. Segurança.
 
@@ -1404,16 +1240,10 @@ componente é executado no Container EJB de um Servidor de Aplicação! Professo
 tem
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 de tão especial nessa tecnologia? Cara, ela permite o desenvolvimento rápido e
 simplificado de
@@ -1465,14 +1295,6 @@ Comentários:
 LOCAL CONTÊINER COMPONENTE
 
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 CLIENTE Aplicação Cliente Componentes de Aplicação
 
 Applet Applet
@@ -1522,15 +1344,8 @@ correspondente, e a invocação assíncrona de beans de sessão.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 NOVIDADES DO EJB 3.1
 
@@ -1559,16 +1374,10 @@ Embeddable EJB - Possibilidade de executar EJBs no ambiente JavaSE.
 Conforme vimos em aula, todos estão perfeitos! Gabarito: C
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 17. (CESGRANRIO - 2013 - BNDES - Analista de Sistemas) Cada tipo de enterprise bean passa por
 diferentes fases durante seu ciclo de vida. Um desses tipos possui um estado denominado
@@ -1614,14 +1423,6 @@ controle de concorrência, etc. Vejamos:
 
 LOCAL CONTÊINER COMPONENTE
 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 CLIENTE Aplicação Cliente Componentes de Aplicação
 
@@ -1676,15 +1477,8 @@ comércio eletrônico construído na plataforma J2EE, a lógica do negócio pode
 em EJBs (Enterprise JavaBeans).
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -1736,16 +1530,9 @@ CLIENTE Aplicação Cliente Componentes de Aplicação
 Applet Applet
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 SERVIDOR Web
@@ -1809,15 +1596,8 @@ Conforme vimos em aula, o item está perfeito! Gabarito: C
 seguintes assertivas sobre os tipos de EJB existentes:
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 I Process beans são excelentes opções para a implementação da lógica do negócio, dos
 processos de negócio e dos fluxos de trabalho.
@@ -1874,16 +1654,10 @@ providas pelo JMS.
 Pode-se dizer que eles são executados após o recebimento de uma única mensagem do cliente.
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 (II) Conforme vimos em aula, trata-se - na verdade - dos Message-driven Beans. Gabarito: B
 
@@ -1935,16 +1709,10 @@ reusáveis; e são
 executados em Servidores de Aplicação - como o JBoss. Gabarito: C
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 26. (CESPE-2006-CENSIPAM-Analista de Sistemas) Um EJB tem as seguintes características: um
 stateless session bean não pode ter variáveis de instância, pois não mantém informações de
@@ -1995,15 +1763,8 @@ Item. 28. (CESPE - 2008 - SERPRO - Analista - Desenvolvimento de Sistemas) A tec
 JavaBeans (EJB) é uma arquitetura de componentes do tipo cliente que atua na plataforma J2EE.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -2057,14 +1818,6 @@ Enterprise JavaBeans (EJB) é uma arquitetura para aplicações corporativas ori
 transação
 e baseada em componentes. Além de uma arquitetura, eles são também componentes server-side
 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 que oferecem uma infraestrutura para o desenvolvimento e implantação de
 aplicações
@@ -2120,16 +1873,10 @@ inicializado e oferece serviços como: gerenciamento de ciclo de vida, geração
 de código,
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 gerenciamento de persistência, gerenciamento de segurança, gerenciamento de
 transações,
@@ -2140,15 +1887,8 @@ intrínseco ao
 componente. Gabarito: D
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - EJB - MULTIBANCAS
 
@@ -2203,16 +1943,10 @@ assíncrona
 entre aplicações.
 
 
-
-www.estrategiaconcursos.com.br
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 6. (CESPE - 2009 - TRE/PA - Analista de Sistemas) O EJB (Enterprise JavaBeans) é responsável por
 aspectos de apresentação e tratamento de eventos.
@@ -2259,17 +1993,13 @@ Enterprise JavaBeans (EJB), cujos os principais objetivos são fornecer um desen
 rápido e simplificado de aplicações Java baseado em componentes distribuídos, transacionais,
 seguros e portáveis.
 
- x'
+x'
 
-www.estrategiaconcursos.com.br
+
 / 51
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 12. (CESPE - 2009 - CEHAP/PB - Analista de Sistemas - C) A camada EJB não hospeda os serviços
 em nível de sistema como o gerenciamento de transações, o controle de concorrência e a
@@ -2313,15 +2043,8 @@ Item. 18. (CESPE - 2010 - TRE/MT - Analista de Sistemas - B) Em uma aplicação 
 criado, controlado e destruído pela aplicação cliente.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 19. (CESGRANRIO - 2009 - BNDES - Analista de Sistemas - C) Enterprise JavaBeans é um modelo
 de componentes padronizado, executado no lado do cliente e que facilita a construção de
@@ -2372,16 +2095,11 @@ seguintes assertivas sobre os tipos de EJB existentes:
 I Process beans são excelentes opções para a implementação da lógica do negócio, dos
 processos de negócio e dos fluxos de trabalho.
 
- , <
+, <
 
-www.estrategiaconcursos.com.br
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 II Entity beans representam os objetos persistentes em uma aplicação EJB.
 
@@ -2428,14 +2146,6 @@ deve ser usada para criar, procurar e remover objetos EJB?
 a) javax.ejb.EJBLocalObject
 
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 b) javax.ejb.EJBHome
 
 c) javax.ejb.EJBObject
@@ -2471,15 +2181,8 @@ d) Transações, Persistência, Segurança, Remotabilidade.
 e) Remotabilidade, gerenciamento de telas, faces server.
 
 
-
-www.estrategiaconcursos.com.br
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -2517,16 +2220,11 @@ Item. 32. B
 
 Item. 11. C 22. C
 
- , <
+, <
 
-www.estrategiaconcursos.com.br
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 INVERSÃo DE CoNTRoLE E INJEçÃo DE DEPENDÊNCIA
 
@@ -2585,14 +2283,8 @@ Injeção
 de Dependências (não confundam, são conceitos independentes!).
 
 
-
-
 , 51
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 VlhaViS
 
@@ -2637,9 +2329,9 @@ O que acontece? Passa-se a responsabilidade de criar um objeto para o container 
 funciona
 como o builder), indicando qual interface desejamos que seja implementada. Ele criará a o objeto
 
- x'
+x'
 
-www.estrategiaconcursos.com.br
+
 / 51
 
 /
@@ -2704,80 +2396,6 @@ de dados
 usando como persistência alguma especificação do JPA.
 
 
-
-
 , 51
 
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

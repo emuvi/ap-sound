@@ -27,11 +27,6 @@ Security) - FCC 63
 10) Lista de Questões - SSL (Security Socket Layer) e TLS (Transport Layer Security) - FCC
 
 
-
-
-André Castro
-
-
 PRoToCoLoS E TECNoLoGIAS DA CAMADA DE APLICAçÃo
 
 Chegamos na etapa que será uma verdadeira sopa de letrinhas com diversos protocolos vinculados
@@ -76,11 +71,6 @@ servidores e clientes.
 Para efeito de concurso, o HTTP possui 2 versões:
 
 
-
-
-André Castro
-
-
 * HTTPvl.O - Não realiza conexões persistentes. Isto é, para cada troca de
 informação entre
 cliente e servidor, necessita-se estabelecer e encerrar uma nova conexão TCP;
@@ -108,11 +98,6 @@ Server
 
 Short-lived connections Persistent connection
 HTTP Pipelining
-
-
-
-
-André Castro
 
 
 Além disso, o protocolo HTTP é considerado um protocolo sem estado (stateless), pois
@@ -150,11 +135,6 @@ cliente
 envia informações ao servidor para preenchimento do objeto de resposta.
 
 A figura abaixo é um exemplo de composição da mensagem HTTP:
-
-
-
-
-André Castro
 
 
 GET /index.html HTTP/1.1
@@ -244,9 +224,6 @@ Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação 
 (Pós-Edital)
 
 
-André Castro
-
-
 * GET - Solicitação de leitura de determinado objeto. A requisição de páginas WEB
 pode ser
 feita através desse método;
@@ -303,11 +280,6 @@ explicação da situação do erro e se esta é permanente ou temporária.
 sintaxe.
 
 
-
-
-André Castro
-
-
 401 (UNAUTHORIZED) - A requisição depende de autenticação por parte do usuário.
 
 403 (FORBIDDEN) - O servidor entendeu a requisição, mas se recusa a atendê-la. Pode
@@ -347,13 +319,6 @@ Sua implementação pode se dar:
 de tal forma que as consultas necessariamente passem pelo nó intermediário antes de chegar
 
 
-
-
-
-
-André Castro
-
-
 ao destino. Esse nó, é chamado de Proxy e armazena as últimas informações requisitas
 pelos
 clientes aos servidores.
@@ -381,22 +346,10 @@ apresenta o
 modelo comentado:
 
 
-
-
-
-
-André Castro
-
-
 * Cache Local - Os browsers possuem a capacidade de armazenar as informações recebidas
 do
 servidor de tal forma que uma nova requisição idêntica à anterior não enseje uma nova
 consulta ao servidor. Desse modo, a requisição será atendida diretamente pelo Browser.
-
-
-
-
-André Castro
 
 
 Acrescento ainda a informação de que o protocolo HTTP pode ser utilizado de forma
@@ -433,13 +386,6 @@ A Imagem abaixo nos dá uma visão das fases envolvidas no processo de conexão,
 finalmente, troca dos dados:
 
 
-
-
-
-
-André Castro
-
-
 Receiver
 
 K=J
@@ -467,13 +413,6 @@ já estão
 apresentando questões que exigem conhecimento da referida versão e como o nosso
 objetivo é
 sempre estar atualizado, nada mais certo do que abordarmos tal assunto.
-
-
-
-
-
-
-André Castro
 
 
 O surgimento dessa versão veio com o objetivo de contemplar a nova forma de navegação
@@ -530,13 +469,6 @@ implementação do
 HTTPv2.0, inclusive em conjunto com protocolos auxiliares como o TLS.
 
 
-
-
-
-
-André Castro
-
-
 * Compressão Automática
 
 Nas implementações padrões das versões anteriores do HTTP, quando se almejava incremento
@@ -590,12 +522,7 @@ traz essa representação em que não é necessário aguardar a resposta
 específica para uma
 requisição, antes de enviar uma nova requisição:
 
-Q-Q 
-
-
-
-
-André Castro
+Q-Q
 
 
 Diante do modelo proposto, o controle de fluxo em cada um desses streams é
@@ -629,13 +556,6 @@ demais informações.
 Assim, busca-se dar agilidade e trazer um caráter mais ágil na construção da página
 no lado do
 cliente.
-
-
-
-
-
-
-André Castro
 
 
 A figura a seguir nos traz essa representação:
@@ -672,13 +592,6 @@ de
 conexão.
 
 
-
-
-
-
-André Castro
-
-
 Dessa forma, vamos checar quais são os requisitos que devem ser atendidos:
 
 Desabilitar a COMPRESSÃO
@@ -695,13 +608,6 @@ terminais
 devem tratar a renegociação como um erro de conexão. A renegociação deve ser utilizada
 exclusivamente para fins de confidencialidade na troca de informações de credenciais no
 estabelecimento da conexão e não conectividade.
-
-
-
-
-
-
-André Castro
 
 
 EXERCÍCIOS COMENTADOS
@@ -753,13 +659,6 @@ consultas ou fornecer um serviço personalizado.
 Gabarito: D
 
 
-
-
-
-
-André Castro
-
-
 Item. 3. CESPE - TJ TRE MS/Apoio Especializado/Programação de Sistemas/2013
 
 Com referência ao Hyper Text Transfer Protocol (HTTP) — protocolo de aplicação
@@ -807,11 +706,6 @@ completo com muito mais recursos. Dizemos que um servidor WEB integra um servido
 um servidor de aplicações.
 
 
-
-
-André Castro
-
-
 Gabarito: E
 
 Item. 6. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
@@ -849,11 +743,6 @@ partir da data, extrai-se a informação do cache. Caso tenha havido mudança, o
 envia o objeto atualizado.
 
 Gabarito: C
-
-
-
-
-André Castro
 
 
 Item. 8. CESPE - MPU/Analista Judiciário - Suporte e lnfraestrutura/2013
@@ -918,13 +807,6 @@ utilizado na sessão.
 Comentários:
 
 
-
-
-
-
-André Castro
-
-
 A porta 80 é utilizada pelo protocolo HTTP padrão. A implementação segura fica a carga
 do protocolo HTTPS na porta TCP/443. A definição de critérios de criptografia ocorre no
 momento do estabelecimento da conexão.
@@ -965,13 +847,6 @@ lnfraestrutura/2013
 A primeira versão do serviço HTTP utiliza conexões não persistentes; a persistência foi
 
 acrescentada na versão subsequente desse serviço.
-
-
-
-
-
-
-André Castro
 
 
 Comentários:
@@ -1017,13 +892,6 @@ Gabarito: C (Gabarito do Professor: E)
 16.CESPE - TCU/Analista de Controle Externo - TI/2007
 
 
-
-
-
-
-André Castro
-
-
 O protocolo HTTP, definido nas RFCs 1945 e 2616, não permite a utilização de conexões persistentes.
 
 Comentários:
@@ -1061,11 +929,6 @@ mensagem "not found", ou seja, tem-se um URI inválida.
 Gabarito: E
 
 19.CESPE - TRE-GO/Técnico Judiciário - Programação de Sistemas/2015
-
-
-
-
-André Castro
 
 
 Por meio do protocolo chave HTTP, é possível utilizar o método PUTpara se criar um
@@ -1106,11 +969,6 @@ Vimos que essa é uma das recomendações apresentadas a respeito do HTTP 2.0.
 Gabarito: C
 
 22.CESPE - TJDFT/Analista Judiciário - Suporte em TI/2015
-
-
-
-
-André Castro
 
 
 Na implementação do HTTP versão 2 sobre o protocolo TLS 1.2, é mandatário desabilitar a
@@ -1184,13 +1042,6 @@ E Hypertext Transfer Protocol.
 Comentários:
 
 
-
-
-
-
-André Castro
-
-
 Temos aí o MIME, certo pessoal? Questão bem tranquila passível de ser resolvida por
 eliminação. O MIME surgiu exatamente no contexto em que o padrão de codificação ASCII
 não era mais suficiente para representação de anexos de binários e conteúdos
@@ -1232,13 +1083,6 @@ MX - Mail Exchange - Fornece o nome do servidor de e-mail de maior prioridade
 que responde por determinado domínio de e-mail. Após a obtenção desse nome, é
 
 
-
-
-
-
-André Castro
-
-
 preciso ainda realizar uma consulta do tipo address para se determinar o endereço
 IP;
 
@@ -1277,11 +1121,6 @@ Gabarito: E
 
 O protocolo SMTP, ao utilizar a porta 25 para enviar e receber mensagens, é capaz de
 criptografar o cabeçalho da mensagem transmitida.
-
-
-
-
-André Castro
 
 
 Comentários:
@@ -1328,13 +1167,6 @@ forma inversa estaria errado.
 Gabarito: C
 
 
-
-
-
-
-André Castro
-
-
 31.CESPE - STF/Apoio Especializado/Suporte em Tecnologia da lnformação/2013
 
 Ainda que uma mensagem de email com SMTP possua diversos destinatários, o comando
@@ -1378,13 +1210,6 @@ de realizar o download das mensagens. Detalhe para o software cliente que pode s
 software específico ou o próprio browser com acesso web.
 
 
-
-
-
-
-André Castro
-
-
 Gabarito: C
 
 34.CESPE - TRE-RJ/Analista Judiciário - Análise de Sistemas/2012
@@ -1422,11 +1247,6 @@ Comentários:
 
 Pessoal, vimos que essas duas são possibilidades de atuação de um MTA frente a um
 possível email malicioso ou considerado SPAM.
-
-
-
-
-André Castro
 
 
 Gabarito: C
@@ -1472,11 +1292,6 @@ O SMTP é um protocolo de envio, enquanto o POP3 e IMAP são para recebimento.
 Gabarito: E
 
 
-
-
-André Castro
-
-
 40.CESPE - TJDFT/Analista Judiciário - Análise de Sistemas/2015
 
 PGP (Pretty Good Privacy) é um pacote que fornece recursos de compactação, privacidade
@@ -1510,11 +1325,6 @@ Somente os protocolos IP e ARP fazem parte da camada de rede. O SNMP e SMTP faze
 parte da camada de aplicação.
 
 Gabarito: E
-
-
-
-
-André Castro
 
 
 EXERCÍCIOS COMENTADOS COMPLEMENTARES
@@ -1568,13 +1378,6 @@ b) IMAP.
 c) HTTP.
 
 
-
-
-
-
-André Castro
-
-
 d) TCP.
 ej IP.
 
@@ -1620,9 +1423,6 @@ um correto relacionamento identificado por Pedro é:
 a) FTP - Camada de Transporte.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-I
-
-
-André Castro
 
 
 b) HTTP - Camada de Transporte.
@@ -1674,11 +1474,6 @@ protocolo TCP na porta 80. INCORRETO
 b) Vimos que as informações referentes ao nome da página, estado corrente da conexão,
 informações do navegador (User Agent) e língua aceitas, entre outros, fazem parte da
 estrutura do cabeçalho HTTP. CORRETO
-
-
-
-
-André Castro
 
 
 c) Essa é uma característica das conexões não persistentes, ou seja, da versão 1.0. As
@@ -1733,13 +1528,6 @@ d) Servidores WEB implementam o lado do servidor e não do cliente. O resto da q
 está conforme esperado. INCORRETO
 
 
-
-
-
-
-André Castro
-
-
 e) Conforme já conversamos, o HTTP possui uma estrutura completa de requisição e
 resposta. INCORRETO
 
@@ -1791,13 +1579,6 @@ d} filtro de logs.
 e)proxy reverso.
 
 
-
-
-
-
-André Castro
-
-
 Comentário:
 
 Vimos que essas são as características do proxy reverso, conforme figura abaixo:
@@ -1825,11 +1606,6 @@ e) protocolos com estados exigem que cada mensagem trocada entre cliente e servi
 contenha informação respectiva ao estado da transação.
 
 Comentário:
-
-
-
-
-André Castro
 
 
 Vimos que o HTTP é um protocolo sem estados. Vale lembrar que o conceito de
@@ -1881,11 +1657,6 @@ Gabarito: C
 12.FCC - TRE-CE/Técnico Judiciário - Operação de Computador/2012
 
 
-
-
-André Castro
-
-
 0 protocolo HTTPS é uma implementação do protocolo HTTP utilizando um meio de
 comunicação seguro entre dois computadores, como por exemplo TLS/SSL. Por padrão, a
 porta TCP utilizada para a comunicação HTTPS é a porta
@@ -1929,11 +1700,6 @@ fato de ser persistente ou não (conexão). O HTTP, seja ele persistente ou não
 será sem estados ou stateless.
 
 Gabarito: A
-
-
-
-
-André Castro
 
 
 LISTA DE EXERCÍCIOS
@@ -1988,13 +1754,6 @@ Item. 4. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 como do tipo stateless.
 
 
-
-
-
-
-André Castro
-
-
 Item. 5. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 
 Um servidor HTTP consiste em um servidor de aplicações.
@@ -2038,13 +1797,6 @@ pacote de sincronismo da conexão o responsável por indicar o tipo de cifra que
 utilizado na sessão.
 
 11.CESPE - TJ TRT17/Apoio Especializado/Tecnologia da lnformação/2013
-
-
-
-
-
-
-André Castro
 
 
 Como maneira de se evitar o desenvolvimento de novos protocolos de camada de
@@ -2092,13 +1844,6 @@ produto é encontrado, o protocolo HTTP retorna um HTTP/1.1 404, o que facilita 
 tratamento do pedido no programa cliente.
 
 
-
-
-
-
-André Castro
-
-
 19.CESPE - TRE-GO/Técnico Judiciário - Programação de Sistemas/2015
 
 Por meio do protocolo chave HTTP, é possível utilizar o método PUT para se criar um
@@ -2125,13 +1870,6 @@ renegociação da conexão.
 No HTTP, a técnica geral do controle de fluxo garante que não haja interferência entre as
 conexões independentes. Entretanto essa técnica foi abandonada na versão 2 do HTTP, que
 criou o conceito de WINDOWJJPDATEframe.
-
-
-
-
-
-
-André Castro
 
 
 GABARITO
@@ -2183,11 +1921,6 @@ GABARITo - QUESTõES CESPE
 22 c
 
 23 E
-
-
-
-
-André Castro
 
 
 LISTA DE EXERCÍCIOS COMPLEMENTARES
@@ -2243,13 +1976,6 @@ d) Transporte, Aplicação e Enlace de dados.
 e) Física, Transporte e Enlace de dados.
 
 
-
-
-
-
-André Castro
-
-
 Item. 4. FCC - TRF - 4^ Região/Técnico Judiciário - TI/2014
 
 Pedro, técnico em informática do TRF da 4ã Região, deve comprovar os seus conhecimentos
@@ -2301,13 +2027,6 @@ b) É implementado em dois programas: um programa cliente e outro servidor. Os d
 programas, implementados em sistemas finais diferentes, conversam um com o outro por
 meio da troca de mensagens HTTP. 0 HTTP não define a estrutura dessas mensagens, mas
 define 0 modo como cliente e servidor as trocam.
-
-
-
-
-
-
-André Castro
 
 
 c) 0 HTTP usa o TCP como seu protocolo de transporte subjacente. 0 cliente HTTP
@@ -2364,13 +2083,6 @@ Item. 9. FCC - TRT - 65 Região (PE)/Analista Judiciário - TI/2012
 
 Protocolos de rede podem ser classificados como "sem estados" (stateless) ou "com
 estado" (stateful). A este respeito é correto afirmar que
-
-
-
-
-
-
-André Castro
 
 
 a) protocolos sem estados exigem que tanto cliente como servidor mantenham um
@@ -2431,11 +2143,6 @@ e) 512.
 13.FCC - AL-SP/Agente Técnico Legislativo Especializado - Segurança de Redes/2010
 
 
-
-
-André Castro
-
-
 Protocolos de rede podem ser classificados como "sem estados" (stateless) ou "com
 estado" (stateful). Um exemplo de protocolo "sem estados" é o protocolo
 
@@ -2448,13 +2155,6 @@ c) SMTP.
 d) DHCP.
 
 e) NFS.
-
-
-
-
-
-
-André Castro
 
 
 GABARITO
@@ -2486,11 +2186,6 @@ GABARITo - QUESTõES FCC
 12 B
 
 13 A
-
-
-
-
-André Castro
 
 
 SSL(SECURITY SoCKET LAYER) E TLS (TRANSPoRT LAYER
@@ -2560,13 +2255,6 @@ Navigatoc
 releascd
 
 
-
-
-
-
-André Castro
-
-
 SSL
 
 Falando agora especificamente das características do SSL, é importante
@@ -2605,13 +2293,6 @@ Ao trazermos os principais objetivos a serem alcançados pelo SSL, podemos lista
 
 * Garantia da Integridade dos dados (caso estes sejam alterados, pode-se detectar
 facilmente);
-
-
-
-
-
-
-André Castro
 
 
 * Garantia da Confidencialidade: As informações transmitidas não podem ser interceptadas
@@ -2661,13 +2342,6 @@ troca de
 mensagens vinculadas ao funcionamento e transmissão de dados na conexão. Faz
 algo
 semelhante ao protocolo ICMP em relação ao IP. Possui duas identificações clássicas:
-
-
-
-
-
-
-André Castro
 
 
 "Warning" e "Fatal". Ao ser enviado uma mensagem do tipo FATAL, a
@@ -2721,13 +2395,6 @@ segurança e
 autenticação.
 
 Traduzindo em termos de fluxo a dinâmica apresentada, vejamos a imagem a seguir:
-
-
-
-
-
-
-André Castro
 
 
 Ainda, com vistas a materializar ainda mais essa dinâmica, podemos perceber em um
@@ -2822,13 +2489,6 @@ isto é, eles
 não interoperam entre si.
 
 
-
-
-
-
-André Castro
-
-
 Abordando então as diferenças entre esses protocolos, podemos citar:
 
 * O TLS tem a capacidade de trabalhar em portas diferentes e usa algoritmos de
@@ -2866,13 +2526,6 @@ CAST128, DES, IDEA, RC2, RC4, RC5, Triple DES, GOST 28147-89
 Suporta ainda outros protocolos agregados como o S/MIME, bastante utilizado para
 assinatura e
 cifragem de mensagens de e-mail.
-
-
-
-
-
-
-André Castro
 
 
 EXERCÍCIOS COMENTADOS
@@ -2916,13 +2569,6 @@ HTTPS — o HTTP usado sobre o SSL (secure socket layer) — é uma alternativa 
 para suprir a necessidade de segurança em alguns serviços a serem disponibilizados no
 sítio do tribunal em questão. O HTTPS usa como padrão a porta 443, sendo tarefa do SSL,
 após o estabelecimento da conexão segura, compactar e criptografar os dados.
-
-
-
-
-
-
-André Castro
 
 
 Comentários:
@@ -2969,11 +2615,6 @@ Item. 5. CESPE - PC-DF/Agente de Polícia/2013
 Os protocolos TLS (Transport Layer Security) e SSL (Secure Sockets LayerJ possuem
 propriedades criptográficas que permitem assegurar a confidencialidade e a integridade
 da comunicação.
-
-
-
-
-André Castro
 
 
 Comentários:
@@ -3024,21 +2665,9 @@ Item. 9. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformaçã
 Comentários:
 
 
-
-
-
-
-André Castro
-
-
 Reforçando mais uma vez a nossa lista de protocolos suportados pelo OpenSSL.
 
 Gabarito: C
-
-
-
-
-André Castro
 
 
 EXERCÍCIOS COMENTADOS COMPLEMENTARES
@@ -3110,11 +2739,6 @@ HTTP sim usufruirá desses recursos através do encapsulamento dos dados pelo SS
 Gabarito: E
 
 
-
-
-André Castro
-
-
 LISTA DE EXERCÍCIOS
 
 SSL/TLS
@@ -3161,13 +2785,6 @@ Item. 7. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformaçã
 0 OpenSSL usa algoritmos de hash, como o SHA1 e MD5.
 
 
-
-
-
-
-André Castro
-
-
 Item. 8. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformação/2013
 
 0 OpenSSL não suporta S/MIME, o qual é utilizado para assinar e cifrar mensagens de
@@ -3176,13 +2793,6 @@ email.
 Item. 9. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformação/2013
 
 0 OpenSSL usa o padrão AES com chaves de 128,192 e 256 bits.
-
-
-
-
-
-
-André Castro
 
 
 GABARITO
@@ -3208,11 +2818,6 @@ GABARITo - QUESTõES CESPE
 9 c
 
 
-
-
-André Castro
-
-
 SSL (SECURITY SoCKET LAYER) E TLS (TRANSPoRT LAYER SECURITY)
 
 Item. 1. FCC - TRT-MG/Analista Judiciário/2015
@@ -3231,85 +2836,6 @@ desse protocolo, o SSL, originando assim o HTTPS. 0 HTTPS
 (E) provê recursos de autenticação de sites visitados.
 
 
-
-
-André Castro
-
-
 GABARITo - QUESTõES FCC
 
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

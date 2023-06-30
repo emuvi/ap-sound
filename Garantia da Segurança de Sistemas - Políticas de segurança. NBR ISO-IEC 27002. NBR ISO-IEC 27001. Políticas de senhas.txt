@@ -42,15 +42,6 @@ Capítulo. Garantia da Segurança de Sistemas - Políticas de segurança. NBR IS
 19) Lista de Questões - ISO 27001 e ISO 27002 - FCC
 
 
-
-
-
-
-
-
-André Castro
-
-
 ISO 27001 E ISO 27002
 
 A norma ISO 27001 de define os requisitos de um Sistema de Gestão de Segurança da Informação
@@ -93,13 +84,7 @@ Item. 10. MELHORIA;
 ESCOPO
 
 
-Item. 0.0 
-
-
-
-
-
-André Castro
+Item. 0.0
 
 
 Nesta parte da norma é onde encontramos, além dos itens já apresentados no objetivo,
@@ -149,12 +134,6 @@ Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação 
 (Pós-Edital)
 
 
-
-
-
-André Castro
-
-
 Por isso é importante ENTENDER A ORGANIZAÇÃO E SEU CONTEXTO, bem como as NECESSIDADES
 E EXPECTATIVAS DAS PARTES INTERESSADAS. Obviamente, deve-se determinar também quem são
 as partes interessadas.
@@ -180,15 +159,6 @@ autoridades,
 responsabilidades e papéis organizacionais que serão os atores diretos relacionados a
 assuntos de
 Segurança da Informação.
-
-
-
-
-
-
-
-
-André Castro
 
 
 A
@@ -233,15 +203,6 @@ seguimentos às demais ações.
 Assim, o planejamento é importante para mapear os riscos e oportunidades no âmbito do
 SGSI, com
 rotinas de avaliação contínua nesse processo.
-
-
-
-
-
-
-
-
-André Castro
 
 
 Quando se conhece os riscos e oportunidades, é possível acompanha-los e medi-los, com
@@ -299,12 +260,6 @@ Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação 
 (Pós-Edital)
 
 
-
-
-
-André Castro
-
-
 Antes disso, vamos aproveitar para também termos uma visão da estrutura da norma 27002.
 
 AISO 27002 apresenta um código de boas práticas com controles de Segurança da Informação para
@@ -349,15 +304,6 @@ necessidade de
 rotinas de backup... O porquê é necessário se preocupar com funcionário antes, durante
 e depois
 da contratação...
-
-
-
-
-
-
-
-
-André Castro
 
 
 Então quando uma questão cair na prova, ainda que você não lembre a literalidade da
@@ -437,15 +383,6 @@ c. Tratamento de Mídias
 i. Gerenciamento de mídias removíveis
 
 ii. Descarte de mídias
-
-
-
-
-
-
-
-
-André Castro
 
 
 iii. Transferência física de mídias
@@ -535,15 +472,6 @@ ix. Política de mesa limpa e tela limpa
 Item. 8. Segurança nas operações
 
 
-
-
-
-
-
-
-André Castro
-
-
 a. Responsabilidades e procedimentos operacionais
 
 i. Documentação dos procedimentos de operação
@@ -630,15 +558,6 @@ iv. Restrições sobre mudanças em pacotes de software
 v. Princípios para projetar sistemas seguros
 
 
-
-
-
-
-
-
-André Castro
-
-
 vi. Ambiente seguro para desenvolvimento
 
 vii. Desenvolvimento terceirizado
@@ -723,15 +642,6 @@ ii. Conformidade com as políticas e procedimentos de segurança da informação
 iii. Análise crítica da conformidade técnica
 
 
-
-
-
-
-
-
-André Castro
-
-
 UFAAAÜH Chegamos ao término da lista topicalizada que já nos ajuda a responder boa
 parte das
 questões.
@@ -749,15 +659,6 @@ considerando os
 controles, podemos perceber a norma utilizar o termo "CONVÉM", justamente porque são
 ações e
 controles que merecem a atenção por parte das organizações.
-
-
-
-
-
-
-
-
-André Castro
 
 
 ESTRUTURA
@@ -797,12 +698,6 @@ Item. 1. Orientação da Direção para a Segurança da Informação
 (Pós-Edital)
 
 
-
-
-
-André Castro
-
-
 OBJETIVO
 
 Prover orientação da Direção e apoio para a segurança da
@@ -837,15 +732,6 @@ instituição, seja
 internamente, seja externamente.
 
 
-
-
-
-
-
-
-André Castro
-
-
 Além disso, diz-se que a POSIC é um documento vivo. Em sua construção, deve-se conter
 um tópico
 específico que determine a periodicidade de revisão e atualização, podendo ser de 2 em
@@ -856,15 +742,6 @@ Entretanto, como a POSIC deve representar o contexto estratégico da
 organização, caso haja
 mudanças significativas, obviamente a POSIC também deve acompanhar essa realidade, podendo
 ser, nesse horizonte, atualizada a qualquer tempo.
-
-
-
-
-
-
-
-
-André Castro
 
 
 ORGANIZAÇAO DA SEGURANÇA DA
@@ -907,15 +784,6 @@ Esse objetivo é dividido em cinco controles:
 /'. Responsabilidades e papéis pela Segurança da Informação;
 
 
-
-
-
-
-
-
-André Castro
-
-
 CONTROLE
 
 Convém que todas as responsabilidades pela segurança da
@@ -950,11 +818,6 @@ informação sejam mantidos.
 v. Segurança da Informação no gerenciamento de projetos;
 
 
-
-
-André Castro
-
-
 CONTROLE
 
 Convém que a segurança da informação seja considerada no
@@ -962,11 +825,6 @@ gerenciamento de projetos, independentemente do tipo de
 projeto.
 
 F
-
-
-
-
-André Castro
 
 
 Dispositivos móveis e trabalho remoto
@@ -994,11 +852,6 @@ Convém que uma política e medidas que apoiam a segurança da
 informação sejam implementadas para proteger as informações
 acessadas, processadas ou armazenadas em locais de trabalho
 remoto.
-
-
-
-
-André Castro
 
 
 SEGURANÇA EM RECURSOS HUMANOS
@@ -1041,15 +894,6 @@ Esse objetivo é dividido em dois controles:
 /. Seleção
 
 
-
-
-
-
-
-
-André Castro
-
-
 CONTROLE
 
 Convém que verificações do histórico sejam realizadas para
@@ -1078,15 +922,6 @@ Esse objetivo é dividido em três controles:
 /. Responsabilidades da Direção
 
 
-
-
-
-
-
-
-André Castro
-
-
 CONTROLE
 
 Convém que a Direção solicite a todos os funcionários e partes
@@ -1113,15 +948,6 @@ cometido uma violação de segurança da informação.
 Encerramento e mudança da contratação
 
 
-
-
-
-
-
-
-André Castro
-
-
 OBJETIVO
 
 Proteger os interesses da organização como parte do processo de
@@ -1137,11 +963,6 @@ Convém que as responsabilidades e obrigações pela segurança da
 informação que permaneçam válidas após um encerramento ou
 mudança da contratação sejam definidas, comunicadas aos
 funcionários ou partes externas e cumpridas.
-
-
-
-
-André Castro
 
 
 GESTÃO DE ATIVOS
@@ -1181,11 +1002,6 @@ Esta Seção possui três objetivos:
 Item. 1. Responsabilidade pelos Ativos
 
 
-
-
-André Castro
-
-
 OBJETIVO
 
 Identificar os ativos da organização e definir as devidas
@@ -1220,11 +1036,6 @@ informação sejam identificadas, documentadas e implementadas.
 iv. Devolução dos ativos
 
 
-
-
-André Castro
-
-
 CONTROLE
 
 Convém que todos os funcionários e partes externas devolvam todos
@@ -1245,11 +1056,6 @@ CONTROLE
 Convém que a informação seja classificada em termos do seu valor,
 requisitos legais, sensibilidade e criticidade para evitar modificação
 ou divulgação não autorizada.
-
-
-
-
-André Castro
 
 
 Esse controle específico recorrentemente cai em prova, seja no âmbito da ISO 27002,
@@ -1302,15 +1108,6 @@ com o esquema de classificação da informação adotada pela
 organização.
 
 
-
-
-
-
-
-
-André Castro
-
-
 Item. 777. Tratamento dos ativos
 
 CONTROLE
@@ -1339,11 +1136,6 @@ classificação adotado pela organização.
 //. Descarte de mídias
 
 
-
-
-André Castro
-
-
 iii. Transferência física de mídias
 
 CONTROLE
@@ -1351,11 +1143,6 @@ CONTROLE
 Convém que mídias contendo informações sejam protegidas contra
 acesso não autorizado, uso impróprio ou corrupção, durante o
 transporte.
-
-
-
-
-André Castro
 
 
 CONTROLE DE ACESSO
@@ -1411,11 +1198,6 @@ Esta Seção possui quatro objetivos:
 Requisitos do negócio para controle de acesso
 
 
-
-
-André Castro
-
-
 OBJETIVO
 
 Limitar o acesso à informação e aos recursos de processamento da
@@ -1446,13 +1228,7 @@ tratados na Seção de SEGURANÇA FÍSICA E DO AMBIENTE, que veremos logo mais.
 //. Acesso às redes e aos serviços de rede
 
 
-0 0 
-
-
-
-
-
-André Castro
+0 0
 
 
 CONTROLE
@@ -1491,11 +1267,6 @@ de sistemas e serviços.
 iii. Gerenciamento de direitos de acesso privilegiados
 
 
-
-
-André Castro
-
-
 CONTROLE
 
 Convém que a concessão e o uso de direitos de acesso privilegiado
@@ -1526,11 +1297,6 @@ atividades, contratos eou acordos, ou ajustados após a mudança
 destas atividades.
 
 Responsabilidades dos Usuários
-
-
-
-
-André Castro
 
 
 OBJETIVO
@@ -1566,14 +1332,7 @@ acesso.
 //. Procedimentos seguros de entrada no sistema (log-on)
 
 
-0 0 
-
-
-
-
-
-André Castro
-
+0 0
 
 
 CONTROLE
@@ -1639,12 +1398,6 @@ Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação 
 (Pós-Edital)
 
 
-
-
-
-André Castro
-
-
 I) restrinja os tempos de conexão para fornecer segurança adicional nas aplicações de
 alto risco e
 reduzir a janela de oportunidade para acesso não autorizado.
@@ -1674,30 +1427,12 @@ A norma traz algumas orientações que merecem destaque:
 gerenciamento de LOG's;
 
 
-
-
-
-
-
-
-André Castro
-
-
 * Evitar manter as bibliotecas de programas-fonte no mesmo ambiente dos sistemas
 operacionais;
 
 * Não permitir um controle irrestrito das equipes de suporte aos programas-fonte;
 
 * A listagem dos programas seja mantida em ambiente seguro;
-
-
-
-
-
-
-
-
-André Castro
 
 
 CRIPTOGRAFIA
@@ -1734,15 +1469,6 @@ A norma traz um rol de objetivos dos controles criptográficos. A saber:
 
 Confidencialidade - Usa a criptografia para proteger informações sensíveis ou críticas,
 armazenadas ou transmitidas;
-
-
-
-
-
-
-
-
-André Castro
 
 
 Integridade/Autenticidade - Referência ao uso de assinaturas digitais;
@@ -1784,15 +1510,6 @@ deve ser conduzido;
 Item. 6. lidar com chaves comprometidas;
 
 
-
-
-
-
-
-
-André Castro
-
-
 Item. 7. revogar chaves, incluindo regras de como elas são retiradas ou desativadas, por exemplo
 quando chaves tiverem sido comprometidas ou quando um usuário deixa a organização (é
 recomendável, também neste caso, que as chaves sejam guardadas);
@@ -1804,15 +1521,6 @@ Item. 9. realizar cópias de segurança ou guardar as chaves;
 Item. 10. destruir chaves;
 
 Item. 11. manter registro e auditoria das atividades relacionadas com o gerenciamento de chaves;
-
-
-
-
-
-
-
-
-André Castro
 
 
 SEGURANÇA FÍSICA E DO AMBIENTE
@@ -1869,15 +1577,6 @@ organização.
 Esse objetivo é dividido em cinco controles:
 
 
-
-
-
-
-
-
-André Castro
-
-
 /. Perímetro de segurança física
 
 CONTROLE
@@ -1923,15 +1622,6 @@ todos os
 acessos seja mantida e monitorada de forma segura;
 
 
-
-
-
-
-
-
-André Castro
-
-
 d) convém que seja exigido que todos os funcionários, fornecedores e partes externas, e
 todos os visitantes, tenham alguma forma visível de identificação, e que eles avisem
 imediatamente ao pessoal de segurança, caso encontrem visitantes não acompanhados ou
@@ -1972,15 +1662,6 @@ trabalho em áreas seguras.
 vi. Áreas de entrega e de carregamento
 
 
-
-
-
-
-
-
-André Castro
-
-
 CONTROLE
 
 Convém que pontos de acesso, como áreas de entrada e de
@@ -2007,11 +1688,6 @@ locais para reduzir os riscos de ameaças e perigos do meio ambiente,
 bem como as oportunidades de acesso não autorizado.
 
 //. Utilidades
-
-
-
-
-André Castro
 
 
 CONTROLE
@@ -2045,11 +1721,6 @@ retirados do local sem autorização prévia.
 vi. Segurança de equipamentos e ativos fora das dependências da organização
 
 
-
-
-André Castro
-
-
 CONTROLE
 
 Convém que sejam tomadas medidas de segurança para ativos que
@@ -2080,11 +1751,6 @@ CONTROLE
 Convém que sejam adotadas políticas de mesa limpa para papéis e
 mídias de armazenamento removíveis e uma política de tela limpa
 para os recursos de processamento da informação.
-
-
-
-
-André Castro
 
 
 SEGURANÇA NAS OPERAÇOES
@@ -2143,11 +1809,6 @@ nncirlnrnr Anc niinnt-n ò o i i/-I i-F/-» r i o
 Esta Seção é dividida em sete objetivos:
 
 
-
-
-André Castro
-
-
 Responsabilidades e procedimentos operacionais
 
 OBJETIVO
@@ -2179,11 +1840,6 @@ CONTROLE
 Convém que a utilização dos recursos seja monitorada e ajustada, e
 que as projeções sejam feitas para a necessidade de capacidade
 futura para garantir o desempenho requerido do sistema.
-
-
-
-
-André Castro
 
 
 iv. Separação dos ambientes de desenvolvimento, teste e produção
@@ -2221,11 +1877,6 @@ Proteger contra perda de dados.
 F
 
 
-
-
-André Castro
-
-
 Esse objetivo possui um único controle:
 
 /. Cópias de segurança das informações
@@ -2255,11 +1906,6 @@ produzidos, mantidos e analisados criticamente, a intervalos
 regulares.
 
 ii. Proteção das informações dos registros de eventos (logs)
-
-
-
-
-André Castro
 
 
 CONTROLE
@@ -2296,11 +1942,6 @@ Esse objetivo possui um único controle:
 /. Instalação de software nos sistemas operacionais
 
 
-
-
-André Castro
-
-
 CONTROLE
 
 Convém que procedimentos para controlar a instalação de software
@@ -2332,11 +1973,6 @@ Convém que sejam estabelecidas e implementadas regras definindo
 critérios para a instalação de software pelos usuários.
 
 
-
-
-André Castro
-
-
 Considerações quanto à auditoria de sistemas da informação
 
 OBJETIVO
@@ -2355,11 +1991,6 @@ Convém que as atividades e requisitos de auditoria envolvendo a
 verificação nos sistemas operacionais sejam cuidadosamente
 planejados e acordados para minimizar interrupção dos processos do
 negócio.
-
-
-
-
-André Castro
 
 
 SEGURANÇA DAS COMUNICAÇÕES
@@ -2405,15 +2036,6 @@ Convém que as redes sejam gerenciadas e controladas para proteger
 as informações nos sistemas e aplicações.
 
 
-
-
-
-
-
-
-André Castro
-
-
 //. Segurança dos serviços de rede
 
 CONTROLE
@@ -2441,11 +2063,6 @@ e com quaisquer entidades externas.
 Esse objetivo é dividido em quatro controles:
 
 /. Políticas e procedimentos para transferência de informações
-
-
-
-
-André Castro
 
 
 CONTROLE
@@ -2477,11 +2094,6 @@ Convém que os requisitos para confidencialidade ou acordos de não
 divulgação que reflitam as necessidadess da organização para a
 proteção da informação sejam identificados, analisados criticamente
 e documentados.
-
-
-
-
-André Castro
 
 
 AQUISIÇAO, DESENVOLVIMENTO E MANUTENÇÃO
@@ -2519,15 +2131,6 @@ Esta Seção é dividida em dois objetivos:
 Requisitos de Segurança de sistemas de informação
 
 
-
-
-
-
-
-
-André Castro
-
-
 OBJETIVO
 
 Garantir que a segurança da informação seja parte integrante de
@@ -2555,11 +2158,6 @@ fraudulentas, disputas contratuais e divulgação e modificações não
 autorizadas.
 
 iii. Protegendo as transações nos aplicativos de serviços
-
-
-
-
-André Castro
 
 
 CONTROLE
@@ -2591,15 +2189,6 @@ aspectos de
 segurança dentro da política de segurança de desenvolvimento seguro, e, constantemente,
 há itens
 dessa lista que aparecem na prova:
-
-
-
-
-
-
-
-
-André Castro
 
 
 a) segurança do ambiente de desenvolvimento;
@@ -2642,15 +2231,6 @@ operação da organização ou na segurança.
 /v. Restrições sobre mudanças em pacotes de software
 
 
-
-
-
-
-
-
-André Castro
-
-
 CONTROLE
 
 Convém que modificações em pacotes de software sejam
@@ -2682,11 +2262,6 @@ Convém que a organização supervisione e monitore as atividades de
 desenvolvimento de sistemas terceirizado.
 
 viii. Teste de segurança do sistema
-
-
-
-
-André Castro
 
 
 CONTROLE
@@ -2724,11 +2299,6 @@ Convém que os dados de teste sejam selecionados com cuidado,
 protegidos e controlados.
 
 
-
-
-André Castro
-
-
 RELACIONAMENTO NA CADEIA DE SUPRIMENTO
 
 Segurança da informação na cadeira de suprimento
@@ -2762,15 +2332,6 @@ pelos fornecedores.
 Esse objetivo é dividido em três controles:
 
 /. Política de segurança da informação no relacionamento com os fornecedores
-
-
-
-
-
-
-
-
-André Castro
 
 
 CONTROLE
@@ -2811,11 +2372,6 @@ Esse objetivo é dividido em dois controles:
 /. Monitoramento e análise crítica de serviços com fornecedores
 
 
-
-
-André Castro
-
-
 CONTROLE
 
 Convém que as organizações monitorem, analisem criticamente e
@@ -2833,11 +2389,6 @@ existentes, sejam gerenciadas, levando-se em conta a criticidade
 
 das informações do negócio, dos sistemas e processos envolvidos, e
 a reavaliação dos riscos.
-
-
-
-
-André Castro
 
 
 GESTÃO DE INCIDENTES DE SEGURANÇA DA
@@ -2876,15 +2427,6 @@ Esse objetivo é dividido em sete controles:
 /. Responsabilidades e procedimentos
 
 
-
-
-
-
-
-
-André Castro
-
-
 CONTROLE
 
 Convém que responsabilidades e procedimentos de gestão sejam
@@ -2908,12 +2450,6 @@ notificar e registrar quaisquer fragilidades de segurança da
 informação, observada ou suspeita, nos sistemas ou serviços.
 
 iv. Avaliação e decisão dos eventos de segurança da informação
-
-
-
-
-André Castro
-
 
 
 CONTROLE
@@ -2945,11 +2481,6 @@ CONTROLE
 Convém que a organização defina e aplique procedimentos para a
 identificação, coleta, aquisição e preservação das informações, as
 quais podem servir como evidências.
-
-
-
-
-André Castro
 
 
 ASPECTOS DA SEGURANÇA DA INFORMAÇÃO NA
@@ -2985,15 +2516,6 @@ organização.
 Esse objetivo é dividido em três controles:
 
 /. Planejando a continuidade da segurança da informação
-
-
-
-
-
-
-
-
-André Castro
 
 
 CONTROLE
@@ -3032,15 +2554,6 @@ Assegurar a disponibilidade dos recursos de processamento da
 informação.
 
 
-
-
-
-
-
-
-André Castro
-
-
 Esse objetivo possui um único controle:
 
 /. Disponibilidade dos recursos de processamento da informação
@@ -3050,11 +2563,6 @@ CONTROLE
 Convém que os recursos de processamento da informação sejam
 implementados com redundância suficiente para atender aos
 requisitos de disponibilidade.
-
-
-
-
-André Castro
 
 
 CONFORMIDADE
@@ -3095,15 +2603,6 @@ Esse objetivo é dividido em cinco controles:
 /'. Identificação da legislação aplicável e de requisitos contratuais
 
 
-
-
-
-
-
-
-André Castro
-
-
 CONTROLE
 
 Convém que todos os requisitos legislativos estatutários,
@@ -3135,11 +2634,6 @@ do negócio.
 iv. Proteção e privacidade de informações de identificação pessoal
 
 
-
-
-André Castro
-
-
 CONTROLE
 
 Convém que a privacidade e a proteção das informações de
@@ -3164,11 +2658,6 @@ operada de acordo com as políticas e procedimentos da organização.
 Esse objetivo é dividido em três controles:
 
 /. Análise crítica independente da segurança da informação
-
-
-
-
-André Castro
 
 
 CONTROLE
@@ -3201,11 +2690,6 @@ Convém que os sistemas de informação sejam analisados
 criticamente, a intervalos regulares, para verificar a conformidade
 com as normas e políticas de segurança da informação da
 organização.
-
-
-
-
-André Castro
 
 
 ISO 27001
@@ -3247,11 +2731,6 @@ escrito na
 norma.
 
 Gabarito: C
-
-
-
-
-André Castro
 
 
 Item. 3. CESPE - CGM/PB - Auditor Municipal de Controle Interno - Desenvolvimento de
@@ -3309,15 +2788,6 @@ questão, você acaba errando. Então vamos lá, avaliando cada item e onde enco
 informação:
 
 
-
-
-
-
-
-
-André Castro
-
-
 A) verificar o histórico de candidatos em processo de seleção antes da
 contratação.
 (Segurança de recursos humanos - Antes da Contratação)
@@ -3363,15 +2833,6 @@ e
 operacional, enquanto a letra "A" possui um caráter mais de diretriz...
 
 Gabarito: A
-
-
-
-
-
-
-
-
-André Castro
 
 
 Item. 6. CESPE - TRE-BA/Analista Judiciário - Análise de Sistemas/2017
@@ -3428,9 +2889,6 @@ propriedade, uso aceitável e devolução. CERTO
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-I
 
 
-André Castro
-
-
 Item IV - Conforme já mencionamos no item anterior. E o último ponto... CERTO
 Como a questão é focada na gestão de ativos, vamos relembrar a estrutura:
 
@@ -3475,15 +2933,6 @@ essas versões sem
 quaisquer critérios. Longe de ser razoável, certo?
 
 Gabarito: E
-
-
-
-
-
-
-
-
-André Castro
 
 
 Item. 8. CESPE - SEDF/Analista de Gestão Educacional/2017
@@ -3544,11 +2993,6 @@ item a seguir à
 luz da norma ISO/IEC 27001:2013.
 
 
-
-
-André Castro
-
-
 Para reivindicar conformidade com a referida norma, uma organização poderá
 excluir, sem
 justificativas formais, requisitos especificados nas seções de análise crítica
@@ -3584,15 +3028,6 @@ divulgada para todos da
 organização, inclusive para os stakeholders.
 
 Gabarito: E
-
-
-
-
-
-
-
-
-André Castro
 
 
 ISO 27002
@@ -3653,11 +3088,6 @@ o setor de TI.
 c) manter os rótulos de classificação originais nos documentos oriundos de outras organizações.
 
 
-
-
-André Castro
-
-
 d) manter o princípio de equidade que garante aos funcionários com funções similares
 o mesmo
 direito de acesso às informações classificadas.
@@ -3710,15 +3140,6 @@ sistemas, certo? Ter rotinas para restringir o acesso; Ter
 rotinas para definir
 procedimentos seguros de acesso (log-on); Criar um sistema de
 gerenciamento de
-
-
-
-
-
-
-
-
-André Castro
 
 
 senhas (como os conhecidos cofres de senhas para geração randômica); Tratar o
@@ -3777,15 +3198,6 @@ ser alterados justamente para não adulterarem eventuais evidências para fins d
 auditoria, certo pessoal?
 
 
-
-
-
-
-
-
-André Castro
-
-
 Gabarito: C
 
 16.CESPE - ABIN - Oficial Técnico de Inteligência - Área 8/2018
@@ -3830,15 +3242,6 @@ Comentários:
 Questão bem maldosa e sutil do CESPE. Realmente a lógica aqui acaba levando o
 candidato ao erro por não
 saber os detalhes.
-
-
-
-
-
-
-
-
-André Castro
 
 
 A norma zela pela política de descarte como medida de segurança. Desse modo, ela
@@ -3895,11 +3298,6 @@ em
 uma organização e ancoradas na POSIC, a saber:
 
 a) controle de acesso;
-
-
-
-
-André Castro
 
 
 b) classificação e tratamento da informação;
@@ -3964,9 +3362,6 @@ para, só então, iniciar a recuperação.
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-I
 
 
-André Castro
-
-
 É uma tendência natural de questões desse tipo quando se começa a realizar
 muitos
 exercícios.
@@ -4010,15 +3405,6 @@ Pessoal, questão bem tranquila, certo? Não envolver a direção da organizaç�
 demais. Os demais aspectos estão corretos em seus apontamentos.
 
 Gabarito: E
-
-
-
-
-
-
-
-
-André Castro
 
 
 EXERCÍCIOS COMENTADOS COMPLEMENTARES
@@ -4073,15 +3459,6 @@ separadas para reduzir riscos futuros de perda ou dano.
 
 e) quando necessário e prático, seja requerida a autorização verbal para remoção de
 qualquer mídia da organização. ERRADO
-
-
-
-
-
-
-
-
-André Castro
 
 
 Gabarito: C
@@ -4139,15 +3516,6 @@ ej é recomendável que estas políticas contenham requisitos oriundos de
 regulamentações, legislação e contratos.
 
 
-
-
-
-
-
-
-André Castro
-
-
 Comentário:
 
 Vamos comentar os itens:
@@ -4200,11 +3568,6 @@ estão corretos. ERRADO
 
 b) Mais uma vez, não há o que se falar MUDANÇA e INFORMAL na mesma frase.
 ERRADO
-
-
-
-
-André Castro
 
 
 c) Pessoal, não há qualquer restrição para contratação de terceirizadas para tal
@@ -4264,15 +3627,6 @@ e) Para verificarmos a tendência da banca. Já mencionarmos esse item
 recentemente. ERRADO
 
 
-
-
-
-
-
-
-André Castro
-
-
 Gabarito: C
 
 Item. 6. FCC - TRT-11- Região (AM e RR)/Analista Judiciário/2017
@@ -4322,11 +3676,6 @@ e) Mais uma vez, não se deve deixar de considerar o processo formal para apura�
 dos aspectos relacionados à Segurança da Informação. ERRADO
 
 Gabarito: C
-
-
-
-
-André Castro
 
 
 Item. 7. FCC - TRE-SP/Analista Judiciário/2017
@@ -4379,11 +3728,6 @@ condições e restrições para uso em trabalho remoto. Assim, quando entendidos
 aplicáveis e permitidos por lei, convém considerar:
 
 
-
-
-André Castro
-
-
 I. Acordos de licenciamento de software que podem tornar as organizações responsáveis
 pelo licenciamento do software cliente em estações de trabalho particulares de
 propriedade de funcionários, fornecedores ou terceiros.
@@ -4431,15 +3775,6 @@ de funcionários, fornecedores ou terceiros;
 Gabarito: A
 
 
-
-
-
-
-
-
-André Castro
-
-
 Item. 9. FCC - PGE-MT/Analista de Sistemas/2016
 
 A norma ABNTNBRISO/IEC 27002:2013 traz uma seção que trata da organização da
@@ -4482,11 +3817,6 @@ e) Estamos tratando de aspectos de recursos humanos, durante a prestação de
 serviços. Logo, estamos na seção DURANTE A CONTRATAÇÃO. ERRADO
 
 Gabarito: B
-
-
-
-
-André Castro
 
 
 LISTA DE EXERCÍCIOS
@@ -4536,15 +3866,6 @@ fundamental
 no sistema de gestão de segurança da informação (SGSI). Nesse contexto, ela deve
 estabelecer uma
 política de segurança da informação que
-
-
-
-
-
-
-
-
-André Castro
 
 
 a) inclua o comprometimento com a melhoria contínua do SGSI.
@@ -4602,15 +3923,6 @@ de agilizar o
 tempo de resposta e prevenir incidentes futuros.
 
 
-
-
-
-
-
-
-André Castro
-
-
 Item. 9. CESPE - SEDF/Analista de Gestão Educacional/2017
 
 Um analista de TI foi designado para promover ações que, mediante recursos
@@ -4643,11 +3955,6 @@ de uma
 organização deve estar disponível, como informação documentada, exclusivamente para
 a alta
 gerência.
-
-
-
-
-André Castro
 
 
 ISO 27002
@@ -4703,11 +4010,6 @@ Item. 14. CESPE - ABIN - Oficial Técnico de Inteligência - Área 8/2018
 As bibliotecas das fontes dos programas de uma organização devem ser mantidas
 no mesmo
 ambiente computacional do sistema operacional, com o objetivo de facilitar atividades de auditoria.
-
-
-
-
-André Castro
 
 
 Item. 15. CESPE - ABIN - Oficial Técnico de Inteligência - Área 8/2018
@@ -4767,11 +4069,6 @@ c) listar as lições aprendidas para a divulgação entre os integrantes da org
 d) voltar ao nível de segurança normal e, então, iniciar a recuperação.
 
 
-
-
-André Castro
-
-
 e) suspender as atividades até que os fatos relacionados ao incidente sejam apurados.
 
 20.CESPE - SEDF - Analista de Gestão Educacional - TI/2017
@@ -4790,15 +4087,6 @@ organização deve considerar as características técnicas de seu negócio, e o
 de segurança da informação) deve ser documentado dentro do contexto de suas
 atividades
 operacionais, sem, contudo, envolver a direção da organização.
-
-
-
-
-
-
-
-
-André Castro
 
 
 HORA IX
@@ -4850,13 +4138,7 @@ GABARITo - QUESTõES CESPE
 21 E
 
 
-0 0 
-
-
-
-
-
-André Castro
+0 0
 
 
 ISO 27002
@@ -4909,11 +4191,6 @@ organização.
 
 cj é recomendável contemplar requisitos oriundos de ações operacionais, independente
 da estratégia do negócio.
-
-
-
-
-André Castro
 
 
 d) só devem ser contemplados requisitos oriundos do ambiente de ameaça da segurança
@@ -4973,15 +4250,6 @@ informação no TRTpara o controle e a prevenção de ataques de malwares. Consi
 se a Norma NBR ISO/IEC27002:2013, é recomendável que o código de segurança inclua
 
 
-
-
-
-
-
-
-André Castro
-
-
 a) a implementação de controles para prevenir o uso de software não autorizado, como o
 whitelisting que lista os softwares não permitidos.
 
@@ -5037,15 +4305,6 @@ pelo licenciamento do software cliente em estações de trabalho particulares de
 propriedade de funcionários, fornecedores ou terceiros.
 
 
-
-
-
-
-
-
-André Castro
-
-
 II. Ambiente físico proposto para o trabalho remoto que inclui ambientes de trabalho não
 tradicionais, como aqueles referidos como: "ambientes de telecommuting", "local de
 trabalho flexível" e "trabalho remoto", excetuando-se, em todas as suas formas, o
@@ -5087,15 +4346,6 @@ e) exista um processo disciplinar formal implantado e comunicado, para tomar aç
 contra funcionários que tenham cometido violações de segurança da informação.
 
 
-
-
-
-
-
-
-André Castro
-
-
 GABARITO
 
 GABARITO
@@ -5120,83 +4370,4 @@ GABARITo - QUESTõES FCC
 
 9 B
 
-
-
-
-
-
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

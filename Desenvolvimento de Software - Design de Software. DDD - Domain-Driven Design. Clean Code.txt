@@ -1,24 +1,5 @@
 Capítulo. Desenvolvimento de Software - Design de Software. DDD - Domain-Driven Design. Clean Code.
 
-Concursos
-
-(Profs. Paolla
-Ramos e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Desenvolvimento de
-software - 2023 (Pós-Edital)
-
-Autor:
-
-Paolla Ramos e Silva
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Índice
 
@@ -34,12 +15,6 @@ Paolla Ramos e Silva
 
 6) Clean Code - Lista de Questões
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 DoMAIN-DRIvEN DESIGN - DDD
 
@@ -106,8 +81,6 @@ de software? Na
 verdade, não. Ele sabe analisar um determinado tema, quando lhe são dados todos os ingredientes
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
@@ -182,14 +155,8 @@ livro é um
 chamado às boas práticas de programação que já existem desde a época remota do SmalITalk.
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Quando se fala em Orientação a Objetos pensa-se logo em classes, heranças,
 polimorfismo,
@@ -259,16 +226,10 @@ i termos que fazem parte das conversas diárias entre especialistas de negócio
 e times de
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 i desenvolvimento. Todos devem usar os mesmos termos tanto na linguagem
 falada quanto no i
@@ -341,16 +302,10 @@ princípios DDD
 é mais fácil dizer do que fazer. Com a estrutura Naked Objects de software livre, você constrói seu
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 aplicativo Java escrevendo apenas as classes de domínio principais, deixando que ele
 cuide do
@@ -366,16 +321,10 @@ seu aplicativo
 em tempo de execução completo do Naked Objects ou em sua infraestrutura de aplicativo existente.
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - DDD
 
@@ -430,16 +379,10 @@ outro lado, difícil de aplicar.
 Gabarito: Errado
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 4. (CESPE - Telebras - 2022 - Adaptada) Acerca de aspectos diversos pertinentes a objetos de
 avaliação associados à análise de sistemas, julgue o item que se segue.
@@ -497,16 +440,10 @@ modelo deve preceder a implementação do código-fonte.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Pessoal, na verdade, a modelagem e a implementação atuam de forma dependente ou
 conjunta.
@@ -574,16 +511,10 @@ contribuir de
 forma satisfatória nas discussões sobre o domínio. Portanto, nosso gabarito é a letra c) Ubiquitous
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Language é considerada uma linguagem do projeto de desenvolvimento de software utilizada
 para
@@ -641,16 +572,10 @@ planejamento especulativo para um futuro que pode mudar.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Perfeita definição! De fato, 0 foco principal do DDD deve ser o domínio e domínios
 complexos devem
@@ -717,16 +642,10 @@ operações que permite acesso a uma funcionalidade da aplicação.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para ter um software que atenda perfeitamente a um determinado domínio, é necessário
 que se
@@ -797,16 +716,10 @@ c) do modelo, da visualização e de controle.
 d) domínio de usuário, domínio de negócio e domínio de dados.
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) interface com usuário, aplicação, domínio e infraestrutura.
 
@@ -863,16 +776,10 @@ cria-
 se uma camada entre os dois sistemas denominada camada anticorrupção.
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -888,12 +795,6 @@ Gabarito: Correto
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - DDD
 
@@ -946,16 +847,10 @@ a) client/server architecture
 b) federal enterprise architecture
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) service-oriented architecture
 
@@ -1019,8 +914,6 @@ assim
 como os programadores que irão escrever o software, e isso chamamos de linguagem:
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
@@ -1095,8 +988,6 @@ d) domínio de usuário, domínio de negócio e domínio de dados.
 e) interface com usuário, aplicação, domínio e infraestrutura.
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
@@ -1128,16 +1019,10 @@ cria-
 se uma camada entre os dois sistemas denominada camada anticorrupção.
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -1178,16 +1063,9 @@ Item. 17. CORRETO
 Item. 18. CORRETO
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -1250,16 +1128,10 @@ Clean Code: A Handbook of Agile Software Craftsmanship
 Bjarne Stroustrup, criador do C++ e autor do livro A linguagem de programação C++.
 
 
-
-www.estrategiaconcursos.com.br
 ,.Z 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 permitem que as outras janelas se quebrem também. No final das contas, as próprias
 pessoas as
@@ -1323,16 +1195,10 @@ Michael Feathers, autor de Working Effectively with Legacy Code
 Ron Jeffries autor de Extreme Programming Installed and Extreme Programming Adventures in C#
 
 
-
-www.estrategiaconcursos.com.br
 ,.Z 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Dessas quatro, Jeffries foca mais na de duplicação. Quando a mesma coisa é feita repetidas vezes, é
 sinal de que uma ideia em sua cabeça não está bem representada no código. Tento
@@ -1397,12 +1263,6 @@ código.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 consistência de expressão? Nomes significativos? Não né? Portanto essa questão
 está errada.
@@ -1483,16 +1343,10 @@ i dependências. (Gabarito: Letra A)
 i
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 3 R's da Arquitetura de software
 
@@ -1577,14 +1431,6 @@ que outras funcionalidades sejam afetadas. Nesta etapa são priorizados os segui
 * Refinamento sucessivo.
 
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Readability (legibilidade) - Nomes Significativos
 
 A partir desta introdução aos conceitos da Arquitetura de Software vamos
@@ -1648,16 +1494,9 @@ Também devemos evitar palavras muito comuns ou vagas,
 pois podem passar ao leitor vários significados e permitir
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Use Nomes Pronunciáveis
@@ -1722,14 +1561,6 @@ esperto e um programador profissional é o entendimento
 sobre a clareza em que expressa seu código.
 
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Classes e objetos devem ter nomes com substantivo(s),
 como Cliente, PaginaWiki, Conta e AnaliseEndereco. Evite
 palavras como Gerente, Processador, Dados ou Info no
@@ -1777,14 +1608,8 @@ pois a busca resultará um resultado enorme de todas as
 classes que tenham o prefixo.
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Nomes curtos geralmente são melhores, apenas precisam
 ser claros. Sempre revize seu código e melhore os nomes
@@ -1804,16 +1629,10 @@ nome que facilite o entendimento.
 demais nomes no padrão CamelCase.
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Reusability (Reuso) - Reutilização de funcionalidades
 
@@ -1873,16 +1692,10 @@ abstração. O nível de abstração diz respeito aos conceitos
 implementados dentro da função, deve-se deixar bem claro
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 o nível de importância sobre aquele trecho separando
 meros detalhes de conceitos extremamente importantes.
@@ -1939,14 +1752,6 @@ prática horrível, pois viola a regra de que a função deve ter
 apenas uma responsabilidade, caso o valor seja falso ela
 
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 terá um comportamento, caso contrário será outro
 comportamento diferente. O ideal é que sejam divididas em
 duas funções que são responsáveis para cada estado da flag.
@@ -1996,14 +1801,8 @@ conceito.
 i (CESPE - TJ AM - 2019) De acordo com Clean Code, julgue o item subsecutivo.
 
 
-
-www.estrategiaconcursos.com.br
 ,.Z 60
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 i Independentemente da linguagem de programação, uma função deve
 executar todos os i
@@ -2016,17 +1815,13 @@ devem ser ;
 
 í pequenas, devem fazer apenas uma coisa. Portanto, essa questão está errada! (Gabarito: Errado) i
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 ,.Z 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Refatoring (refatoração) - Otimização da estrutura
 
@@ -2079,13 +1874,6 @@ if ((employee.flags & HOURLY_FLAG) &&
 if (employee. is EligibleFor FullBenefitsQ)
 
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Passe algum tempo pensando em como ter expressividade no seu código, com certeza não
 será um
 tempo perdido. Muitas das vezes a mudança é apenas nomear as funções com o que você
@@ -2135,16 +1923,10 @@ devem ser efetuadas, mas por alguma razão não podem
 implementá-las no momento. Podem ser um lembrete
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 sobre uma alteração que deve ser feita, um pedido para a
 verificação de outro membro.
@@ -2207,16 +1989,10 @@ certas funções, mas de modo geral eles são aglomerações e
 devemos excluí-los. Tenha em mente que indicadores são
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 chamativos no código, use-os esporadicamente para não se
 tornarem ruídos.
@@ -2272,16 +2048,10 @@ explicado.
 case demorado.
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * TODO Comments: não é uma desculpa para deixar código ruim no sistema. Serve como
 um
@@ -2343,16 +2113,10 @@ const songs = ['Back In Black', 'Stairway to Heaven',
 const Artists = ['ACDC, ' Led Zeppelin', 'The Beatles'];
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 function eraseDatabase() {}
 function restore_database() {}
@@ -2408,16 +2172,9 @@ código devemos separar por uma linha em branco, isso
 facilita a leitura e cria uma separação entre os conceitos.
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Continuidade Vertical
@@ -2469,16 +2226,10 @@ caracteres, nestes projetos os desenvolvedores claramente
 preferem linhas curtas.
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 É aceitável que o tamanho de uma linha seja de 100 a 120
 caracteres, porém é totalmente desnecessário ter de rolar a
@@ -2524,16 +2275,9 @@ Sugestões para criar um código que seja limpo, robusto, que trate erros com el
 Exceções Descrição
 
 
-
-www.estrategiaconcursos.com.br
 ,.Z 60
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Use exceções ao invés de retornar
@@ -2608,16 +2352,10 @@ em vez de j
 i
 
 
-
-www.estrategiaconcursos.com.br
 ,.Z 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 i Comentários: Pessoal, de acordo com o que vimos no conteúdo, algumas das
 recomendações são:
@@ -2683,16 +2421,10 @@ estruturas de dados expõem seus dados e não possuem
 funções significativas.
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Note a natureza complementar das duas definições. Elas são
 praticamente opostas. Essa diferença pode parecer trivial,
@@ -2747,15 +2479,6 @@ confuso cujos autores não tinham certeza - ou pior, não
 sabiam se precisavam se proteger de funções ou tipos.
 
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-
 Estruturas Ocultas
 
 Objetos de transferência de dados
@@ -2801,16 +2524,10 @@ ocultem seus dados internos (que provavelmente são
 apenas instâncias do Active Record).
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - CLEAN CoDE
 
@@ -2877,14 +2594,6 @@ não subjetivo.
 Por fim, a alternativa e está errada. Um teste limpo não deve contemplar todas as dependências.
 
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Gabarito: Letra C
 
 Item. 3. (CESPE - MPE CE - 2020) Julgue o seguinte item, relativo a métricas de qualidade de código,
@@ -2934,16 +2643,10 @@ internos e as funções que manipulam tais dados.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questão errada! Vocês se lembram do conceito de Encapsulamento? Aquela técnica que faz
 com
@@ -3015,16 +2718,10 @@ corretamente as regras de Clean Code o trecho de código:
 a) Trecho 1:
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 var a = (b + c)/d -10; // coloca o resultado em a
 
@@ -3088,16 +2785,10 @@ essa regra.
 Gabarito: Correto
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 10. (CESPE -TCE-PA- 2016) Acerca de análise estática de código-fonte, uma das práticas que verifica
 a qualidade do código e pode ser realizada antes da execução do software, julgue o
@@ -3162,16 +2853,10 @@ e até
 dois níveis de indentação.
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -3232,16 +2917,10 @@ comentários desnecessários e supérfluos, no máximo os comentários são um m
 Gabarito: Correto
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 15. (CESPE - STJ- 2015) Julgue o próximo item, referente a criptografia, clean code e refatoração.
 
@@ -3304,16 +2983,10 @@ Por outro
 lado, os nomes de métodos devem ter verbos, como postarPagamento, excluirPagina ou salvar.
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Devem-se nomear métodos de acesso, alteração e autenticação segundo seus valores e
 adicionar os
@@ -3342,16 +3015,10 @@ produzido
 Gabarito: Errado
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - CLEAN CoDE
 
@@ -3410,8 +3077,6 @@ caracterizam um
 código ruim.
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
@@ -3480,17 +3145,13 @@ e) Trecho 5:
 var textoContrato = RemoveHtml(contrato); //conforme ETC
 EnviaContratoPorEmail(textoContrato);
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 ,.Z 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 textoContrato = textoContrato.FTC(".", 11,11 ii ii ii_n)
 11 11 11
@@ -3550,16 +3211,10 @@ refatoração
 de códigos, permite aumentar a produtividade de desenvolvimento de códigos.
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 15. (CESPE - STJ- 2015) Julgue o próximo item, referente a criptografia, clean code e refatoração.
 
@@ -3599,19 +3254,10 @@ que será
 validado pela equipe de teste e, posteriormente, refatorado
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo - CLEAN CoDE
 
@@ -3652,83 +3298,8 @@ Item. 17. ERRADO
 Item. 18. ERRADO
 
 
-
-www.estrategiaconcursos.com.br
 / 60
 
 /
 
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

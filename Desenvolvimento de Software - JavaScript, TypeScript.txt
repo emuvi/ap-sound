@@ -1,24 +1,5 @@
 Capítulo. Desenvolvimento de Software - JavaScript, TypeScript.
 
-Concursos
-
-(Profs. Paolla
-Ramos e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Desenvolvimento de
-software - 2023 (Pós-Edital)
-
-Autor:
-
-Paolla Ramos e Silva
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Índice
 
@@ -39,13 +20,6 @@ Paolla Ramos e Silva
 8) TypeScript - Questões Comentadas
 
 9) TypeScript - Lista de Questões
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -81,17 +55,13 @@ foi
 criado pela Netscape em parceria com a Sun Microsystems, com a finalidade de fornecer
 um
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 meio de adicionar interatividade a uma página web. A primeira versão, denominada
 JavaScript
@@ -158,16 +128,10 @@ precisa ser compilada.
 disso, ela não é utilizada apenas em Páginas HTML.
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 IMPORTANTE
 
@@ -233,17 +197,13 @@ criação de uma imensa diversidade de bibliotecas e frameworks, como: ReactJS, 
 Meteor,
 Electron, etc;
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para escrever código Javascript, não há necessidade de instalar um
 software especial.
@@ -282,14 +242,6 @@ Externo: escrever o script em um arquivo externo com extensão .js e inserir com
 
 </html>
 
-00 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ■ Incorporado: também conhecida como interna, insere-se o script na seção <head> do
 documento.
@@ -365,16 +317,10 @@ evitada pelo
 desenvolvedor comprometido com os Padrões Web. Ao escrevermos scripts dentro da marcação
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 HTML, estaremos misturando as camadas de marcação e comportamento,
 dificultando a
@@ -446,16 +392,10 @@ c = a + b;
 a = 5; b = 6; c = a + b;
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A sintaxe determina que o ponto-e-vírgula seja obrigatório para separar
 declarações em uma
@@ -517,16 +457,10 @@ var carros = new Array("Volks", "Ford", "BMW");
 2 Strings podem vir com aspas simples ou duplas.
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 JS: SAÍDA DE DADOS
 
@@ -600,17 +534,13 @@ que poderá ser a de abrir uma nova página. Ao colocar o ponteiro do mouse sobr
 elemento,
 podemos alterar sua opacidade.
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Eventos são bastante utilizados em Javascript e viabilizam a interatividade em uma
 página web. Na
@@ -673,16 +603,10 @@ elemento qualquer da página) ou independente de interferência do
 usuário (Ex: onload - quando um documento é carregado).
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Eu sei, isso é tudo muito abstrato. Vamos ver um exemplo para vocês entenderem melhor: imagine um
 carrinho de compras de uma página de e-commerce (Ex: Netshoes). Quando o usuário
@@ -740,14 +664,6 @@ c) 125
 
 d) 532110
 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) null
 
@@ -815,17 +731,13 @@ então 0 correto é:
 
 (Letra C).
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - JS
 
@@ -887,14 +799,6 @@ d) PHP e Java;
 
 e) C++ePHP.
 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -958,17 +862,12 @@ Indica um clique em algum objeto.
 
 Indica alteração em um campo de um objeto.
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 y 79
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 onreload
@@ -1035,16 +934,10 @@ correta em
 Javascript para trocar a palavra "usuário" pelo conteúdo da variável é:
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) document.getElementByld(cliente).innerHTML - "meuNome"
 
@@ -1105,16 +998,10 @@ polegadas até um celular. Para isso, podemos destacar algumas propriedades de
 um website
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 responsivo. Grades (divs e outros elementos) fluidas e proporcionais, distribuindo o
 conteúdo de
@@ -1161,16 +1048,10 @@ Gabarito: Letra D
 io.(FGV/TCM-SP -2015) Em Javascript, considere o trecho de código a seguir:
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 fimction base (x)
 
@@ -1225,16 +1106,10 @@ II. A maneira mais comum de se instanciar um objeto em JavaScript a partir da cl
 "Cachorro" seria da seguinte forma: Cachorro cachorro = new Cachorro;
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 III. Tanto comentários de uma linha com barras duplas (//...) quanto comentários em
 blocos
@@ -1290,16 +1165,10 @@ Gabarito: Letra B
 13.OESES / IFSC-2015) Observe o código javascript abaixo:
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <script type="text/java5cript">
 
@@ -1364,16 +1233,10 @@ uma string, ele irá converter qualquer outro operando em string. Isso se chama 
 Gabarito: Letra A
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 i5.(FGV/TCE-SP-20i5) Em uma página HTML, é declarado o seguinte formulário:
 
@@ -1436,14 +1299,8 @@ d) While.
 e) Do/while.
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -1500,14 +1357,6 @@ b) Apenas 2.
 
 c) Apenas 3.
 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) Apenas 1 e 3.
 
@@ -1569,16 +1418,10 @@ o Resultado: "Um", "Dois", "Tres", "Dez".
 shift() remove o primeiro element do array (Um).
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Resultado: "Dois", "Tres", "Dez".
 
@@ -1647,14 +1490,6 @@ document.write(y.idade + "");
 document.write(x.getDados(). idade);
 
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 - Aqui está a verdadeira questão, o fato de mudar o valor de y.idade
 afetará o valor de
 x.dados.idade? A resposta é sim, e vamos ver o porque.
@@ -1693,16 +1528,10 @@ Gabarito: Letra B
 2o.(MPE-RS / MPE-RS -2015) Quais são os valores de saída do código Javascript abaixo?
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Cscript ty pe="text/j avascri pt " >
 
@@ -1771,16 +1600,10 @@ c) divide um objeto em três strings e atribui dados a elas.
 d) concatena três arrays em um objeto e atribui dados a ele.
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) cria um array com três objetos e atribui ciados a eles
 
@@ -1841,12 +1664,6 @@ lo. Vejamos um exemplo:
 (Pós-Edital) 28
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 var a = {};
 
 var b = [1, 2, 3];
@@ -1906,16 +1723,10 @@ b) 013
 c) 125
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) 532110
 
@@ -1974,16 +1785,10 @@ do comando para receber a data corrente é:
 a) <p "demo">H</p>
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) <p class="demo">H</p>
 
@@ -2041,17 +1846,13 @@ todavia a banca desconsiderou esse fato e entendeu como certa a apresentação d
 respectivos
 resultados (5,2, 52) em formato de tabela.
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Correto
 
@@ -2106,14 +1907,6 @@ resultando em 2. Se fosse utilizado o Match.round () teríamos o arredondamento 
 inteiro mais
 próximo, ou seja, 2.0.
 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Correto
 
@@ -2173,14 +1966,8 @@ document.getElementByld("demo").innerHTML = "Minha primeira função JavaScript!
 </script>
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Ou seja, a função se inicia pelo function e não pela palavra public, com argumento
 (no exemplo
@@ -2245,16 +2032,10 @@ e) MouseOut.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 PROPRIEDADES DESCRIÇÃO
 
@@ -2329,16 +2110,10 @@ JavaScript e será aberto por um navegador que as suporte.
 <hi>Página Principal</hi>
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <form>
 comando y
@@ -2396,16 +2171,10 @@ Comentários:
 Trata-se da última opção: alert, confirm e prompt.
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 MÉTODOS DESCRIÇÃO
 
@@ -2466,17 +2235,13 @@ positiva ou negativa
 
 Gabarito: Letra E
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 /fO.(FCC -TRT-20 - 2010) É um método do objeto History:
 
@@ -2504,16 +2269,10 @@ go() Carrega uma URL específica do histórico.
 Gabarito: Letra D
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - JS
 
@@ -2579,16 +2338,10 @@ quando o ponteiro do mouse sairdessa região. Os eventos que compreendem carrega
 janela e alteração em um campo são representados respectivamente pelos comandos:
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) onload e onclick
 
@@ -2654,8 +2407,6 @@ Item. 8. (FGV / IBGE - 2016) Para a produção de um website responsivo com gran
 textos e imagens, as técnicas mais eficientes se baseiam na aplicação de:
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
@@ -2709,16 +2460,10 @@ Web Display)
 Item. 10. (FGV/TCM-SP -2015) Em Javascript, considere o trecho de código a seguir:
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 fimction base (x)
 
@@ -2777,16 +2522,10 @@ i2.(IESES / IFSC -2015) Uma determinada linha de código JavaScript 1.8 se lê d
 var novoCachorro = new Cachorro();
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Assinale a alternativa que apresenta um trecho de código que deve ser inserido antes
 da linha
@@ -2849,16 +2588,10 @@ e) o mesmo de antes da execução do comando, devido a um erro referente à conv
 Item. 15. (FGV/TCE-SP-2O15) Em uma página HTML, é declarado o seguinte formulário:
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <form id—"dados" action-"script.php"
 
@@ -2906,14 +2639,6 @@ e) Do/while.
 
 Item. 17. (MPE-RS / MPE-RS -2015) Dado o código HTML abaixo:
 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <!DOCTYPE html>
 
@@ -2975,16 +2700,10 @@ d oc u me nt. wri te (n um ei os) ;
 </script>
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Quando o bloco for inserido no corpo de uma página HTML e executado no navegador, o
 que será
@@ -3050,16 +2769,10 @@ e) undefined 18 18
 20.(MPE-RS / MPE-RS-2015) Quais são os valores de saída do código Javascript abaixo?
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Cscript ty pe="text/j avascri pt " >
 
@@ -3120,16 +2833,10 @@ e) cria um array com três objetos e atribui dados a eles
 Item. 22. (UFG / AL-GO - 2015) Leia o trecho em Javacript a seguir:
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Qual é a saída da execução desse trecho de código Javascript?
 a) 123
@@ -3171,16 +2878,10 @@ e) null
 Item. 24. (FGV / BANESTES -2021) Considere o código javascript a seguir:
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 document.getElementByld('demo').innerHTML = Date()
 
@@ -3239,14 +2940,8 @@ Item. 27. (CESPE / SEED-PR - 2021) JavaScript trabalha com números usando os op
 fornecidos pela própria linguagem. No entanto, a linguagem aceita operações matemáticas
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 mais complexas por meio de um conjunto de funções e constantes definidas como
 propriedades
@@ -3314,16 +3009,10 @@ a) string.
 b) eval.
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) number.
 
@@ -3383,17 +3072,13 @@ e) alert, confirm e prompt.
 38.(FCC / DPE-SP - 2010) As tecnologias Web utilizam linguagem de scripting JavaScript,
 linguagem de scripting ASP e applets Java para incluir aplicações, respectivamente, no lado:
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) servidor, cliente e servidor.
 
@@ -3429,14 +3114,6 @@ d) Forward
 
 e) Hostname
 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo - JS
 
@@ -3480,17 +3157,12 @@ Item. 40. LETRA D
 
 14- LETRA A 28. CORRETO
 
- x53
+x53
 
-www.estrategiaconcursos.com.br
+
 y 79
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -3539,16 +3211,10 @@ simples para expor funcionalidades para o ambiente de programação. Lembre-se
 que qualquer
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 linguagem de script se destina ao uso por programadores profissionais e não
 profissionais, para
@@ -3589,17 +3255,13 @@ era o ECMAScript. Foi assim então que surgiu o nome ECMAScript.
 Porém, como o
 nome JavaScript sempre foi mais famoso, continuamos chamando a linguagem assim até hoje.
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Galera, agora vamos começar a falar de termos mais técnicos! O documento do
 ECMAScript
@@ -3686,17 +3348,13 @@ objetos derivados.
 Um método de expressão regular que divide uma string nos índices que
 correspondem à expressão regular. Chamado pelo método String.prototype.split.
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Um método que converte um objeto em um valor primitivo corres
 Chamado pela operação abstrata ToPrimitive.
@@ -3735,17 +3393,13 @@ Symbol e closures.
 Comentários: os tipos primitivos são no ECMAScript: string, number, null, undefined, boolean e
 symbol (Errado).
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - ECMASCRIPT
 
@@ -3812,14 +3466,8 @@ navegador com
 suporte à ECMAScript versão ES6 ou superior?
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <'DOCTYPE httnl>
 
@@ -3866,14 +3514,6 @@ Item. 3. (UFC / CCV - 2018) O que acontece quando executamos o código abaixo em
 navegador com
 suporte à ECMAScript versão ES6 ou superior?
 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <!DOCTYPE litml-*
 
@@ -3924,16 +3564,10 @@ assinale a
 alternativa correta.
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 1 var a ■ 5;
 
@@ -3997,12 +3631,6 @@ que calcula
 a raiz quadrada de x.
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 b) Template literais ou template strings são literais string que permitem expressões
 embutidas,
 nas quais os textos são delimitados por aspas simples e as expressões indicadas e
@@ -4042,16 +3670,10 @@ função focus adiciona foco e não remove o foco da janela atual.
 Gabarito: Letra C
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - ECMASCRIPT
 
@@ -4098,14 +3720,8 @@ navegador com
 suporte à ECMAScript versão ES6 ou superior?
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 <'DOCTYPE httnl>
 
@@ -4172,16 +3788,9 @@ seguinte texto:
 {"name":"Joao","age":2O,"city":"Fortaleza"}.
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 e) Será exibido no console do
@@ -4252,29 +3861,15 @@ ser "arri.push(...arr2);".
 d) No ECMAScript 6, os tipos de dados primitivos são: bool, number, String, Symbol e closures.
 
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 e) A função focus do objeto Window, quando o script é executado nos navegadores da
 web,
 remove o foco da janela atual.
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo - ECMASCRIPT
 
@@ -4290,16 +3885,9 @@ Item. 4. LETRA A
 Item. 5. LETRA C
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -4348,16 +3936,10 @@ deficiência.
 Vejamos um exemplo de código escrito em TypeScript e depois em Javascript:
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 CONDIÇÃO DE APROVAÇÃO EM TYPESCRIPT
 
@@ -4425,16 +4007,10 @@ b) TypeScript é um subconjunto de JavaScript.
 c) Em um enum não é possível misturar membros de tipos baseados em string e number.
 
 
-
-www.estrategiaconcursos.com.br
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) Em uma classe TypeScript é possível utilizar herança múltipla por meio da palavra
 chave extends.
@@ -4454,17 +4030,13 @@ paradigma orientado a objeto, logo não cabe herança múltipla conforme vimos;
 arquivo tsconfig.json em um diretório indica que o diretório é a raiz de um projeto TypeScript
 (Letra E).
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 í. (CESGRANRIO / BB - 2021) Considere o fragmento de código TypeScript a seguir.
 const a=<T extends {b:string}> (obj:T)=>{<códigoremovido>};
@@ -4525,14 +4097,6 @@ onload = (event) => {
 const texto = document.querySelector('???') as HTMLInputElement;
 console.log('Texto inicial: texto.value);
 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Que texto o programador deverá utilizar no lugar de ???, no código do arquivo
 TypeScript script.ts,
@@ -4595,14 +4159,8 @@ Nome [2] = Mariana
 Gabarito: Letra B
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 4. (UFC / CCV - 2019) Para o desenvolvimento de aplicações Web, qual item abaixo
 contém
@@ -4661,17 +4219,13 @@ Gabarito: Letra E
 
 Item. 6. (FCC / MPE-PE - 2018) Considere o fragmento de código TypeScript abaixo.
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 interface CriaArrayString {
 (Índice: number]: string;
@@ -4708,16 +4262,10 @@ comando document.body.innerHTML = nomesfi];
 Gabarito: Letra B
 
 
-
-www.estrategiaconcursos.com.br
 / 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - TYPESCRIPT
 
@@ -4786,15 +4334,11 @@ c) #texto
 
 d) .idTexto
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 79
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) .texto
 
@@ -4855,15 +4399,11 @@ projeto TypeScript.
 
 Item. 6. (FCC / MPE-PE - 2018) Considere o fragmento de código TypeScript abaixo.
 
- x76
+x76
 
-www.estrategiaconcursos.com.br
+
 / 79
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 interface CriaArrayString {
 (Índice: number): string;
@@ -4887,17 +4427,13 @@ d) Será exibido na tela o nome Ana.
 
 e) Ocorrerá um erro na linha que contém o comando document.body.innerHTML = nomesfi];
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 y 79
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo - TYPESCRIPT
 
@@ -4914,80 +4450,4 @@ Item. 5. LETRA E
 
 Item. 6. LETRA B
 
-
-
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

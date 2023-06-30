@@ -32,7 +32,6 @@ Capítulo. Desenvolvimento de Informação - Álgebra relacional, SQL~ANSI e lin
 14) Lista de Questões - Linguagem SQL - CESGRANRIO1<
 
 
-
 INTRoDUçÃo A SQL
 
 
@@ -73,11 +72,6 @@ uma numeração separa os conteúdos específicos em diversos documentos.
 Por exemplo, a norma produzida pelo comitê com a numeração ISO/IEC 9075-1
 descreve a estrutura
 conceituai usada para especificar a gramática de SQL e o resultado das instruções de processamento
-
-
-
-
-
 
 
 nessa linguagem. A norma também define os termos e a notação utilizados nos
@@ -141,11 +135,6 @@ você precisa descrever
 o passo a passo para execução de uma determinada tarefa.
 
 
-
-
-
-
-
 Imagine que eu te faça a seguinte pergunta: Estou ao lado do supermercado
 Pão de
 Açúcar, como eu faço para chegar na sua casa?
@@ -203,11 +192,6 @@ Nascimento.
 Colunas da tabela
 
 2 Esse não é meu endereço. Se você estiver pensando em me mandar um presente entre em contato.
-
-
-
-
-
 
 
 r
@@ -279,11 +263,6 @@ funcionalidades que cada comando executa sobre o banco de dados. Vejam a lista a
 DESPENCA NA
 
 PROVA!
-
-
-
-
-
 
 
 * DDL - Data Definition Language - A linguagem de definição de dados
@@ -358,11 +337,6 @@ apresentado pela banca.
 Gabarito: B.
 
 
-
-
-
-
-
 Figura 2 - Sublinguagem de SQL
 
 UMA EXTENSÃo DE SQL: LINGUAGEM PRoCEDURAL
@@ -389,11 +363,6 @@ Estes dialetos comumente evoluem mais rapidamente do que o padrão SQL
 ANSI, pois, um
 determinado banco de dados de uma comunidade de usuários ou de um
 fornecedor requer
-
-
-
-
-
 
 
 funcionalidades para a utilização do banco de dados antes do comitê da ANSI/ISO criar
@@ -465,11 +434,6 @@ início na
 década de 1990 foi dividida, suas implementações de agora
 também divergem,
 produzindo dois dialetos distintos de Transact-SQL.
-
-
-
-
-
 
 
 SQL PL - extensão processual do IBM DB2 para SQL, introduzido na versão 7.0 do SGBD,
@@ -552,11 +516,6 @@ Usados para criar aplicações. Usados para manutenção
 dos dados.
 
 
-
-
-
-
-
 Uma extensão de SQL, é permitido o uso de código
 
 SQL dentro do código PL/SQL Não pode conter código
@@ -632,15 +591,6 @@ usados para criação
 e alteração das estruturas, em especial das tabelas.
 
 
-
-
-
-
-
-
-
-
-
 LINGUAGEM DE DEFINIçÃo DE DADoS (DDL)
 
 Quando estamos construindo um modelo de dados, precisamos ter em mente que
@@ -712,15 +662,6 @@ informação sobre os nomes
 das colunas e respectivos tipos de dados.
 
 
-
-
-
-
-
-
-
-
-
 Os demais esquemas estão relacionados aos seus modelos de dados e podem ser
 vistos como um
 modo de agrupar as tabelas e outros construtores que pertencem à mesma
@@ -783,11 +724,6 @@ Segundo a documentação
 do SQL/ANSI, as tabelas são coleções de linhas que possuem uma ou mais
 linhas. Uma linha é uma
 instância do tipo descrito pela tabela. Todas as linhas de uma tabela possuem o mesmo tipo.
-
-
-
-
-
 
 
 O grau de uma tabela é o número de colunas existentes nessa tabela. Já
@@ -854,12 +790,6 @@ Neste exemplo,
 estamos criando uma tabela empregando vários atributos e descrevendo
 algumas restrições de
 integridade. Cada atributo possui um tipo de dado associado. Vejamos:
-
-
-
-
-
-
 
 
 CREATE TABLE N0ME_DA_
@@ -939,15 +869,6 @@ relação, dando-lhe um
 nome e especificando seus atributos e restrições iniciais. Vejam que os atributos são definidos
 
 
-
-
-
-
-
-
-
-
-
 primeiro e a cada atributo é dado um nome, um tipo para especificar o
 domínio de seus valores e
 alguma restrição de atributo. As restrições de chave, de integridade, de
@@ -1019,11 +940,6 @@ constraint pk_matricula primary key (aluno, disciplina, ano),
 constraint fk_matricula_aluno foreign key (aluno) references aluno,
 
 
-
-
-
-
-
 constraint fkjnatricula_disciplina foreign key (disciplina) references disciplina);
 
 Comentários: O comando CREATE TABLE criará uma tabela inicialmente vazia no banco de
@@ -1089,11 +1005,6 @@ RESULTADO DO COMANDO
 ALUNO
 
 
-
-
-
-
-
 NOME |I ÇPf I| EMAIL || DATANASCIMENTO | |
 CIDADE || VALOR—PAGO |
 
@@ -1157,21 +1068,7 @@ como o
 SQL Server da Microsoft, o DB2 da IBM e MySQL.
 
 
-
-
-
-
-
 Figura 3 - Resumo dos comandos DDL.
-
-
-
-
-
-
-
-
-
 
 
 TIPoS DE DADoS
@@ -1229,15 +1126,6 @@ caracteres, mas o valor contém
 apenas seis caracteres, os quatro caracteres restantes serão completados com
 espaços em branco.
 Um exemplo da sintaxe do comando seria:
-
-
-
-
-
-
-
-
-
 
 
 CONCURSO_NOME CHAR (100).
@@ -1309,12 +1197,6 @@ de dados de
 caracteres associados às colunas. Vejamos:
 
 
-
-
-
-
-
-
 BINARY STRINC
 
 Figura 1 - Tipos de dados textuais
@@ -1346,11 +1228,6 @@ Existem três
 tipos diferentes BINARY, BINARY VARYING e BINARY LARGE OBJECT. BINARY LARGE OBJECT é
 
 conhecido como BLOB. O BLOB armazena grandes grupos de bytes, até o valor especificado.
-
-
-
-
-
 
 
 Se você definir o tipo de dados de uma coluna como BINARY, poderá especificar o
@@ -1398,9 +1275,6 @@ Vamos, agora, tratar dos tipos de dados numéricos. Eles são divididos em duas 
 categorias:
 
 números exatos (exact numbers] e números aproximados (approximate).
-
-
-
 
 
 Thiago Cavalcanti)
@@ -1470,11 +1344,6 @@ Carvalhus, R$
 1110 1000 (binário). Sobrando, portanto, 3 bits para armazenar o valor fracionário.
 Como 23 em
 decimal é equivalente a 10111 em binário, não temos espaço para armazenar esse valor. Assim o
-
-
-
-
-
 
 
 SGBD vai arredondar o número 0,23 para 0,2, truncando a segunda casa decimal. Neste
@@ -1555,11 +1424,6 @@ observamos
 na tabela acima.
 
 
-
-
-
-
-
 HORA DE
 
 PRATICAR!
@@ -1626,16 +1490,6 @@ ESQU EM ATIZAN DO
 Tipo de dado Tamanho em Bytes Range
 
 
-
-
-
-
-
-
-
-
-
-
 SMALLINT
 INTERGER
 
@@ -1646,9 +1500,6 @@ REAL
 FLOAT
 
 DOUBLE
-
-
-
 
 
 4 até 8 bytes
@@ -1721,11 +1572,6 @@ e segundos
 col3 TIMESTAMP(9), -- armazena um selo de tempo.
 
 
-
-
-
-
-
 col4 TIMESTAMP WITH TIME ZONE -- exemplo de timestamp com timezone
 
 );
@@ -1789,11 +1635,6 @@ sequência. Perceba que ela está na raiz da árvore abaixo. Dentro da sequênci
 possível ter vários conteúdos em formato XML. Estes, por sua vez, podem ser
 
 
-
-
-
-
-
 Por fim, é importante lembrar que o valor nulo é membro de todos os tipos de
 domínios. Se você
 declarar o domínio de um atributo como NOT NULL, o SGBD vai proibir a inserção de
@@ -1838,11 +1679,6 @@ Cidade CHARACTER VARYING (20),
 Estado CHARACTER (2),
 
 CEP CHARACTER VARYING (9)
-
-
-
-
-
 
 
 Depois que ele é definido, um novo tipo de linha pode ser usado em uma definição de tabela:
@@ -1921,27 +1757,12 @@ mais restrito,
 podemos especificá-los como públicos, privados ou protegidos. Vejamos um exemplo de um UDT:
 
 
-
-
-
-
-
-
-
-
-
-
 CREATE TYPE livro_udt AS
 titulo CHAR(40)j
 precodecompra DECIMAL(9,2),
 ISBN varchar(40);
 
 -- o nome da UDT será livro_udt
-
-
-
-
-
 
 
 e.e.'.
@@ -2001,11 +1822,6 @@ restrições de
 integridade que compõem o padrão SQL e vão fazer parte dos comandos de criação de tabelas.
 
 
-
-
-
-
-
 RESTRIçõES DE INTEGRIDADE
 
 Restrições de integridade SQL, que são geralmente referidas como restrições, podem ser
@@ -2037,15 +1853,6 @@ comandos de acordo
 com a classificação acima.
 
 Figura 1 - Tipos de restrições de integridade
-
-
-
-
-
-
-
-
-
 
 
 Falaremos um pouco sobre cada uma delas. A primeira seria a restrição de chave
@@ -2104,13 +1911,6 @@ valor seja passado como parâmetro no momento da inserção;
 Item. 4. CHECK utilizado para restringir os valores de domínio, verificando se eles estão
 contidos no
 conjunto de valores especificados.
-
-
-
-
-
-
-
 
 
 O CHECK é a restrição mais flexível de todas. Sua sintaxe básica é relativamente
@@ -2199,21 +1999,7 @@ constraint, com suas
 respectivas sintaxes.
 
 
-
-
-
-
-
-
-
-
-
 Figura 2 - Exemplos de restrições de integridade em SQL
-
-
-
-
-
 
 
 DATA MANIPULATIoN LANGUAGE (DML)
@@ -2272,15 +2058,6 @@ FROM <table reference> [ {, ctable reference> }.. . ]
 [ HAVING <search condition> ]
 
 [ ORDER BY <order conditior» ]
-
-
-
-
-
-
-
-
-
 
 
 Sobre o comando acima, a primeira informação importante é que o * (asterisco) é
@@ -2355,11 +2132,6 @@ uma data ou
 uma string de caracteres onde devem ser usadas as aspas simples.
 
 
-
-
-
-
-
 SELECT employeeid, lastname, salary, departmentid
 F ROM emp1oye e s
 
@@ -2405,11 +2177,6 @@ PRATICAR!
 (Ano: 2017 Órgão: MPE-BA Prova: Analista Técnico - Tecnologia)
 
 Atenção: Tabelas R e S referentes a um banco de dados relacional.
-
-
-
-
-
 
 
 F s
@@ -2495,15 +2262,6 @@ conhecidos
 como variáveis de tuplas.
 
 
-
-
-
-
-
-
-
-
-
 Existem diversos modificadores de consulta que nos ajudam a adequar o retorno da nossa
 consulta.
 Para forçar a eliminação de tuplas duplicadas, devemos inserir a declaração DISTINCT
@@ -2564,11 +2322,6 @@ Existem dois curingas geralmente usados em conjunto com o operador LIKE:
 Gabarito: CERTO.
 
 
-
-
-
-
-
 Quando construímos um predicado com vários operadores, precisamos entender que existe uma
 precedência na avaliação dos operadores. Você pode usar parênteses para sobrescrever as
 regras
@@ -2621,11 +2374,6 @@ FROM employees
 ORDER BYim
 
 Vejamos um exemplo de questão de provas anteriores.
-
-
-
-
-
 
 
 HORA DE
@@ -2702,11 +2450,6 @@ em um
 banco.
 
 
-
-
-
-
-
 ATENÇÃO
 
 DECORE!
@@ -2773,11 +2516,6 @@ cláusula SELECT que não aparecem como parâmetros nas funções agregadas e a 
 predicados que são aplicados após a formação dos grupos.
 
 
-
-
-
-
-
 Outra opção de subconsultas que retornam uma única linha é quando usamos funções de
 agregação
 como MIN e MAX. Vejam o exemplo abaixo para entendermos melhor a ideia:
@@ -2842,15 +2580,6 @@ e.«?
 ESQUEMATIZANDO
 
 
-
-
-
-
-
-
-
-
-
 É interessante perceber que a união é feita sobre o resultado de duas relações, ou
 seja, é possível
 duas consultas sobre tabelas distintas passarem por uma operação de união. É importante
@@ -2885,16 +2614,6 @@ Observem a figura com as condições e os tipos de junção abaixo:
 RESUMINDO
 
 Tipos de junção Condição de Junção
-
-
-
-
-
-
-
-
-
-
 
 
 LEFT OUTER JOIN
@@ -2961,11 +2680,6 @@ uma coluna.
 I, II e III correspondem, em SQL, respectivamente, aos comandos:
 
 a) INNER JOIN, UNION e LIKE.
-
-
-
-
-
 
 
 b) INNER JOIN, JOIN e DISTINCT.
@@ -3079,11 +2793,6 @@ EXEMPLOS DO COMANDO I
 INSERT INTO ALUNO ESTRATÉGIA
 
 
-
-
-
-
-
 VALUES (fELIS\ 55555555555, cELIS@ELIS.C0M? , 05-05-2005, fBRASÍLIAJ, 50.00);
 
 EXEMPLOS DO COMANDO II
@@ -3193,12 +2902,6 @@ mudanças a
 serem executas são definidas na cláusula SET. Vejam a sintaxe do comando abaixo:
 
 
-
-
-
-
-
-
 UPDATE NOME_DA_TABELA
 
 SET NOME_DA_COLUNA_1 = VALORJL, NOMEJ2OLUNA2 = VALOR_2 . . .
@@ -3279,15 +2982,6 @@ SET department_id = 110;
 22 rows updated
 
 
-
-
-
-
-
-
-
-
-
 HORA DE
 
 PRATICAR!
@@ -3341,16 +3035,6 @@ linhas de
 uma tabela. Veja que, se nenhuma condição for definida na cláusula WHERE do comando,
 todas as
 linhas serão removidas da tabela. A sintaxe do comando é apresentada a seguir:
-
-
-
-
-
-
-
-
-
-
 
 
 DELETE FROM NOME_DA_TABELA WHERE LISTA_DE_CONDICOES
@@ -3419,11 +3103,6 @@ NOME | CPF | SEXO | DATA_NASCIMENTO | CIDADE | VALQR_PAGo'
 Acima, foi possível observar o comando TRUNCATE com a sintaxe específica do POSTGRES.
 Nele é
 possível remover um conjunto de tabelas ao mesmo tempo. O primeiro parâmetro permite reiniciar,
-
-
-
-
-
 
 
 ou não, as sequências associadas às colunas das tabelas cujos dados serão removidos,
@@ -3498,15 +3177,6 @@ resposta na letra E.
 Gabarito: E.
 
 
-
-
-
-
-
-
-
-
-
 DDL CoMPLEMENToS: VIEW
 
 Outro objeto SQL que podemos criar dentro dos nossos bancos de dados são as VIEWs. A view é um
@@ -3568,15 +3238,6 @@ atualizada.
 Primeiramente, a visão deve ser construída com base em apenas uma tabela. As cláusulas GROUP
 
 
-
-
-
-
-
-
-
-
-
 BY, HAVING e SELECT DISTINCT não podem estar presentes. Não podem existir nenhuma função de
 agregação ou colunas calculadas (atributos derivados).
 
@@ -3636,15 +3297,6 @@ alternativa II está errada!
 Gabarito: C E.
 
 
-
-
-
-
-
-
-
-
-
 SQL EMBUTIDo
 
 O padrão SQL define que a SQL será embutida em uma variedade de linguagens de
@@ -3695,15 +3347,6 @@ mantida
 para o resultado da consulta.
 
 EXEC SQL close c END-EXEC
-
-
-
-
-
-
-
-
-
 
 
 TRANSAçõES EM SQL
@@ -3769,12 +3412,6 @@ Se a transação SQL estiver executando, estabelece o modo de restrições
 para a transação SQL na sessão corrente. Se não existe nenhuma transação
 em andamento na sessão, determina ao SQL Agent o modo de execução
 para a próxima transação.
-
-
-
-
-
-
 
 
 SAVEPOINT
@@ -3854,11 +3491,6 @@ sobre um conjunto
 de dados ou tuplas de uma relação que satisfação a uma condição descrita na cláusula WHERE.
 
 
-
-
-
-
-
 Suponha que entre a primeira e a segunda leitura seja inserido um registro que também
 satisfaz a
 essa condição de busca. Esse registro é considerado um fantasma!
@@ -3910,15 +3542,6 @@ UNDO: EXEC SQL ROLLBACK;
 I THE_END: ..
 
 X
-
-
-
-
-
-
-
-
-
 
 
 INDEX (DDL)
@@ -3978,11 +3601,6 @@ garantir a
 unicidade do valor da coluna, implicitamente criada para a(s) coluna(s) da chave
 primária. Porém,
 foi descontinuada na maioria dos SGBDs, agora, usamos a restrição de UNIQUE para coluna.
-
-
-
-
-
 
 
 EXTENSõES PRoCEDURAIS
@@ -4052,15 +3670,6 @@ pode
 invocá-lo com uma instrução CALL semelhante à seguinte declaração:
 
 CALL MatchScore ('1-0', winner);
-
-
-
-
-
-
-
-
-
 
 
 O primeiro argumento é um parâmetro de entrada que alimenta o procedimento MatchScore.
@@ -4145,15 +3754,6 @@ RETURN purch ;
 END ;
 
 
-
-
-
-
-
-
-
-
-
 Esta definição de função cria uma lista de compras feitas por um cliente, baseada em
 um número de
 cliente especificado, extraída da tabela TRANSACTIONS e separada por vírgulas. A instrução UPDATE
@@ -4221,11 +3821,6 @@ acionadas sejam executadas antes (BEFORE) dos dados serem inseridos na tabela. A
 é particularmente útil quando uma das tabelas é configurada com uma restrição
 de integridade
 referencial.
-
-
-
-
-
 
 
 Na terceira linha da sintaxe, você especifica se o gatilho é de inserção, exclusão ou
@@ -4300,11 +3895,6 @@ inicial que foi
 executada contra a tabela em questão; somente as instruções SQL acionadas na definição
 do gatilho
 são afetadas.
-
-
-
-
-
 
 
 Finalmente, o último componente que seu CREATE TRIGGER deve incluir é uma ou mais
@@ -4382,11 +3972,6 @@ especial ocorre no banco de dados (inserir, excluir, atualizar).
 Figura 1 - Extensões procedurais
 
 
-
-
-
-
-
 SEGURANçA (UTILIZANDo A DCL)
 
 As instruções SQL que você usa para criar bancos de dados formam um grupo conhecido
@@ -4435,15 +4020,6 @@ mais alto nível e
 o PUBLIC no menor.
 
 
-
-
-
-
-
-
-
-
-
 Autorizados Autorizados
 Autorizados
 
@@ -4486,11 +4062,6 @@ PRIVILEGES.
 Este último vai garantir o privilégio em todo o conjunto dos nove
 privilégios que tratamos
 anteriormente, são eles:
-
-
-
-
-
 
 
 SELECT
@@ -4569,15 +4140,6 @@ da seguinte
 forma:
 
 
-
-
-
-
-
-
-
-
-
 GRANT balconista TO Jose;
 
 Você pode conceder privilégios a um papel exatamente da mesma maneira que você
@@ -4642,14 +4204,8 @@ restrição
 ajuda o DBA ou o proprietário da tabela a manter o controle sobre o objeto. Apenas os usuários que
 
 
-0-0 
+0-0
 www. estratégia concursos. com.br
-
-
-
-
-
-
 
 
 o DBA ou o proprietário do objeto atribui competência para executar a operação em
@@ -4714,11 +4270,6 @@ REVOKE [GRANT OPTION FOR] privilege-list
 ON object
 
 FROM user-list [RESTRICT| CASCADE];
-
-
-
-
-
 
 
 Você pode usar essa estrutura para revogar os privilégios especificados. A principal
@@ -4789,11 +4340,6 @@ usuários são,
 respectivamente:
 
 
-
-
-
-
-
 a) INSERT PRIVILEGES e DELETE PRIVILEGES.
 
 b) CREATE ROLE e DROP ROLE.
@@ -4813,11 +4359,6 @@ Então, muito cuidado! © Para a
 questão em voga não precisamos deste detalhe, conseguimos observar nossa resposta na alternativa D.
 
 Gabarito: D.
-
-
-
-
-
 
 
 QUESTõES CoMENTADAS CESPE
@@ -4870,11 +4411,6 @@ CAIU
 na prova!
 
 
-
-
-
-
-
 Item. 2. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário -
 Suporte Técnico
 
@@ -4924,11 +4460,6 @@ INNER JOIN Departamentos ON
 Funcionários.CodigoDep =
 Departamentos.CodigoDep
 ORDER BY Funcionários.Nome;
-
-
-
-
-
 
 
 Comentário: Veja que a junção utilizada na questão é um INNER JOIN, logo os
@@ -4988,11 +4519,6 @@ AND endereço LIKE '%BRASILIA,DF%';
 Tendo como referência o código SQL precedente, julgue os itens a seguir.
 
 
-
-
-
-
-
 144 Na cláusula WHERE, a condição de seleção area = 'INTELIGÊNCIA' escolhe
 a tupla de interesse em particular na tabela funcionário, pois area é um atributo
 de funcionário.
@@ -5045,15 +4571,6 @@ subsecutivos.
 
 64 Em uma coluna definida como NUMBER (7,2), o valor 34567.2255 será
 armazenado como 34567.23.
-
-
-
-
-
-
-
-
-
 
 
 Comentários: Vamos comentar cada uma das alternativas acima.
@@ -5110,11 +4627,6 @@ ideia é a seguinte. Pense que a tabela empregados terá um identificador para
 departamento e função. Esses podem ter suas descrições e outros atributos
 
 
-
-
-
-
-
 descritos em suas tabelas. Desta forma, na tabela empregados teríamos apenas
 o identificador. Alternativa errada.
 
@@ -5168,15 +4680,6 @@ CAIU
 na prova!
 
 
-
-
-
-
-
-
-
-
-
 Item. 9. BANCA: CESPE ANO: 2016 ÓRGÃO: TRT-08 CARGO: ANALISTA DE TI -
 QUESTÃO 13
 
@@ -5226,15 +4729,6 @@ executada de forma mais rápida, vai depender, por exemplo, do perfil dos dados,
 do algoritmo utilizado pelo SGBD na execução das consultas e da forma como os
 índices são criados para cada uma delas. Desta forma, a alternativa está
 incorreta.
-
-
-
-
-
-
-
-
-
 
 
 D A normalização é uma atividade que reduza a redundância dos dados dentro
@@ -5289,11 +4783,6 @@ REFERENCES prédio (mnemonico)
 );
 
 
-
-
-
-
-
 Considerando os algoritmos acima, em que são criadas as tabelas prédio e salas,
 assinale a opção cuja expressão SQL apresenta informações do registro da maior
 sala existente.
@@ -5343,11 +4832,6 @@ group by. Vejam também que não temos nenhuma função agregada descrita na
 cláusula select, por fim, a sintaxe do comando "having max(c2.area)" está
 incorreta, seria necessário comparar o valor de max(coluna) com uma constante
 ou outra variável, por exemplo max(c2.area) > 200;
-
-
-
-
-
 
 
 B Veja que na alternativa B existe um erro lógico na comparação
@@ -5401,11 +4885,6 @@ os atributos de junção fariam uma restrição no resultado durante o
 processamento da consulta.
 
 
-
-
-
-
-
 O item 92 trata da função agregada max() que de fato retorna o valor máximo
 de uma determinada coluna de uma tabela. Vamos aproveitar para falarmos um
 pouco mais sobre as funções de agregação.
@@ -5453,15 +4932,6 @@ SUM (x) - Resume todos os números.
 VARIANCE (x) - Retorna a variância estatística.
 
 Gabarito: E C
-
-
-
-
-
-
-
-
-
 
 
 CAIU
@@ -5519,11 +4989,6 @@ produto cartesiano é uma operação advinda da teoria dos conjuntos relaciona
 todos os elementos de um conjunto aos elementos de outro conjunto. Quando
 
 
-
-
-
-
-
 pensamos no modelo relacional, o relacionamento é feito entre as tuplas das
 tabelas ou relações participantes da operação. Não existe a necessidade de
 uma coluna em comum.
@@ -5576,15 +5041,6 @@ Confesso que gostei da questão.
 
 Na alternativa "A" ele trata de manipular dados, essas operações seriam feitas
 apenas com DML. Alternativa incorreta, portanto.
-
-
-
-
-
-
-
-
-
 
 
 A alternativa "B" é a resposta. Essa ideia de que os banco de dados objetos
@@ -5653,11 +5109,6 @@ Considerando as tabelas tl e t2, assinale a opção que apresenta a expressão
 SQL que gera o conteúdo da tabela resultado.
 
 
-
-
-
-
-
 A select tl.codigo, tl.descricao, sum(t2.valor) as soma
 from tl join t2 on tl.codigo=t2.codigo
 
@@ -5697,12 +5148,6 @@ Gabarito: B.
 Texto para as próximas duas questões: a seguir, são apresentados um
 modelo entidade-relacionamento conceituai e, na tabela, características dos seus
 atributos.
-
-
-
-
-
-
 
 
 pessoa
@@ -5761,15 +5206,6 @@ QUESTÃO 29 - Considerando que os relacionamentos do modelo mostrado
 tenham sido mapeados, assinale a opção que apresenta comando em linguagem
 
 
-
-
-
-
-
-
-
-
-
 SQL capaz de criar fisicamente a tabela encontro, incluindo-se as chaves
 estrangeiras necessárias.
 
@@ -5818,11 +5254,6 @@ REFERENCES 'local' ('idlocal'));
 D CREATE TABLE encontro (
 
 'idencontro' INT(5) NOT NULL, 'idpessoa_marca' INT(5) NULL,
-
-
-
-
-
 
 
 'idpessoa_atende' INT(5) NULL, 'data_encontro' DATE NULL,
@@ -5874,15 +5305,6 @@ Gabarito: C.
 CAIU
 
 na prova!
-
-
-
-
-
-
-
-
-
 
 
 17.Ano: 2016 Banca: CESPE Órgão: TRE-PE - Cargo 2 TÉCNICO
@@ -5937,11 +5359,6 @@ Item. 18. Ano: 2016 Banca: CESPE Órgão: PCPE Cargo: PERITO CRIMINAL
 Questão: 38.
 
 
-
-
-
-
-
 Na linguagem SQL, o comando create table é usado para criar uma tabela no
 banco de dados; enquanto o relacionamento entre duas tabelas pode ser criado
 pela declaração
@@ -5994,15 +5411,6 @@ quisermos fazer restrições sobre valores das funções agregadas utilizamos a
 cláusula having.
 
 
-
-
-
-
-
-
-
-
-
 Mais uma vez a resposta está na alternativa C.
 
 Gabarito: C
@@ -6053,15 +5461,6 @@ na prova!
 21.Ano: 2015 Banca: CESPE Órgão: TRE-PI - Questão 58
 
 
-
-
-
-
-
-
-
-
-
 O modelo lógico apresentado dá origem às tabelas ALUNO, INSCRICAO e
 DISCIPLINA. Considerando esse modelo e sabendo que não há nenhum
 procedimento armazenado no banco de dados, assinale a opção que apresenta
@@ -6107,11 +5506,6 @@ AND inscricao.codigo=disciplina.codigo
 GROUP BY aluno.matricula, aluno.nome
 
 
-
-
-
-
-
 Comentários: Para resolver essa questão basta perceber que vamos precisar
 agrupar os alunos de acordo com a quantidade de disciplinas que eles cursam.
 Logo precisamos agrupar pelo nome e matrícula e em seguida fazer uma
@@ -6147,11 +5541,6 @@ finalidade o comando DELETE FROM tabela WHERE restrição; que pode ser
 verificado na alternativa E.
 
 Gabarito: E
-
-
-
-
-
 
 
 QUESTõES CoMENTADAS CESGRANRIo
@@ -6262,11 +5651,6 @@ associação.
 Suas colunas são autoexplicativas.
 
 
-
-
-
-
-
 * A Tabela PARTICIPACAO informa as competições das quais participaram os cães
 registrados na
 associação. Cada linha dessa tabela indica a colocação obtida por um cão em uma
@@ -6364,15 +5748,6 @@ na inserção pois
 o tamanho do campo DESCR da tabela competição é de no máximo 20 caracteres (VARCHAR (20)) e
 
 
-
-
-
-
-
-
-
-
-
 o valor passado como parâmetro possui 30 caracteres. Já a alterativa b) comete um
 equívoco na
 integridade referencial. O código do cão 8877 não existe na tabela CAO.
@@ -6444,11 +5819,6 @@ desnecessário, e na
 Gabarito: C
 
 
-
-
-
-
-
 CAIU
 
 na prova!
@@ -6510,11 +5880,6 @@ c) LIST* FROM ALUNO
 d) SELECT nome WHERE ALUNO
 
 e) LIST nome FROM ALUNO
-
-
-
-
-
 
 
 Comentário: Essa questão também é relativamente tranquila. Veja que ela pede o nome de
@@ -6625,11 +5990,6 @@ CAIU
 na prova!
 
 
-
-
-
-
-
 Item. 6. Ano: 2014 Banca: CESGRANRIO Órgão: CEFET-RJ Prova: Técnico de Tecnologia da Informação
 
 Aluno
@@ -6667,12 +6027,6 @@ Dados
 Para responder à questão, tenha como referência o diagrama de
 entidades e relacionamentos,
 apresentado abaixo, que representa parte do modelo de dados de uma instituição financeira.
-
-
-
-
-
-
 
 
 Tipo Conta
@@ -6789,15 +6143,6 @@ descricaojipo_conta VARCHAR (256));
 Tal comando está presente na alternativa a) que é a nossa resposta.
 
 
-
-
-
-
-
-
-
-
-
 Gabarito: A
 
 CAIU
@@ -6869,11 +6214,6 @@ SET "coluna 1" = [novo valor]
 WHERE "condição";
 
 
-
-
-
-
-
 Gabarito: B
 
 CAIU
@@ -6939,11 +6279,6 @@ Gabarito: D.
 CAIU
 
 na prova!
-
-
-
-
-
 
 
 Item. 10. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico -
@@ -7038,11 +6373,6 @@ Qual comando irá modificar o estado corrente da Tabela ALUNO?
 a) INSERT INTO ALUNO (MATRIC, CPF, NOME) VALUES (66666,'TIAGO MENEZES')
 
 
-
-
-
-
-
 b) DELETE FROM ALUNO WHERE CPF IS NULL
 
 c) UPDATE ALUNO SET CPF=23565677789 WHERE NOME ='GABRIEL LOPES1
@@ -7119,11 +6449,6 @@ PRIMARY KEY (MATRIC,COD_DISC,ANO,SEMESTRE),
 CONSTRAINT HIST_FK FOREIGN KEY (MATRIC)
 
 REFERENCES ALUNO (MATRIC))
-
-
-
-
-
 
 
 Observações:
@@ -7203,11 +6528,6 @@ GROUP BY A.NOME
 b) SELECT A.NOME, AVG(H.NOTA)
 
 
-
-
-
-
-
 FROM ALUNO A
 INNERJOIN HISTORICO H
 ON A.MATRIOH.MATRIC
@@ -7251,11 +6571,6 @@ na prova!
 
 Item. 12. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
 de Sistemas
-
-
-
-
-
 
 
 As Tabelas pertencem ao esquema de um banco de dados acadêmico de uma universidade.
@@ -7353,15 +6668,6 @@ a) SELECT DISTINCT A.NOME
 FROM ALUNO A, HISTORICO H
 
 
-
-
-
-
-
-
-
-
-
 WHERE A.MATRIC=H.MATRIC AND H.NOTA >= 5.0
 
 b) SELECT NOME FROM ALUNO
@@ -7410,11 +6716,6 @@ Item. 13. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Co
 da Informação
 
 As informações presentes abaixo devem ser usadas para responder às questões de nos 50 a 52.
-
-
-
-
-
 
 
 Pessoa
@@ -7494,15 +6795,6 @@ nome da Mãe é
 Hilda e o da Filha Fabiana. Por fim, seleciona o ld de cada uma delas e insere na
 tabela parentesco.
 Isso nos leva resposta na alternativa B.
-
-
-
-
-
-
-
-
-
 
 
 Gabarito: B
@@ -7591,11 +6883,6 @@ ID da filha é igual ao IF da Mãe) e P.ld=R.FilhoFilha (o ID da mãe é igual a
 Veja que isso
 
 
-
-
-
-
-
 está invertido. Logo não pode ser nossa resposta. Veja que o ID de Ana
 não aparece nenhuma vez
 na coluna FIlhoFIlha. Logo, nosso resultado será, provavelmente, vazio.
@@ -7654,11 +6941,6 @@ estoque da empresa
 relativo a um tipo de produto controlado por unidade.
 
 
-
-
-
-
-
 Qual consulta SQL irá exibir o código, a descrição e a quantidade em
 estoque relativos a cada um
 dos produtos comercializados pelo supermercado?
@@ -7710,15 +6992,6 @@ e) SELECT COD, DESCRICAO, QTD_ESTOQUE
 FROM PRODUTO
 
 WHERETIPO = 1
-
-
-
-
-
-
-
-
-
 
 
 UNION
@@ -7782,11 +7055,6 @@ COD NUMBER(5) NOT NULL,
 DESCRICAO VARCHAR2(100) NOT NULL,
 
 
-
-
-
-
-
 PRECO NUMBER(8,2) NOT NULL,
 QTD_ESTOQUE NUMBER(5),
 TIPO NUMBER(l) NOT NULL,
@@ -7845,11 +7113,7 @@ e) INSERT INTO PRODUTO (COD,DESCRICAO,PRECO,TIPO,QTD_ESTOQUE)
 VALUES(7777,'COMPUTADOR BLUEX',1000.00,2)
 
 
-
 www. estra tegiaconcursos. com. br
-
-
-
 
 
 Comentário: Veja que a nossa resposta se encontra na alternativa A. A letra B está
@@ -7923,11 +7187,6 @@ que não existia
 no banco de dados relacional da empresa qualquer representação da entidade PRODUTO que
 
 
-
-
-
-
-
 aparecia em seu modelo de dados. Para corrigir essa falha, preparou um
 comando SQL que alteraria
 o esquema do banco de dados.
@@ -7986,11 +7245,6 @@ comando:
 ALTER TABLE table_name
 
 ADD column_name datatype;
-
-
-
-
-
 
 
 Veja que o nome e o tipo são informações passadas pelo enunciado, desta
@@ -8061,11 +7315,6 @@ na prova!
 Item. 21. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
 
 
-
-
-
-
-
 CREATE TABLE Inquilino(
 
 nome VARCHAR(20) NUL
@@ -8130,15 +7379,6 @@ associação de
 criadores de cães para organizar informações sobre os torneios que ela promove.
 
 
-
-
-
-
-
-
-
-
-
 CREATE TABLE CAO (
 
 COD NUMRERC5) NOT NULL,
@@ -8257,15 +7497,6 @@ competição. Suas colunas são autoexplicativas.
 * A Tabela ARBITRO contém os dados dos árbitros que julgam os cães que
 participam de
 competições. Suas colunas são autoexplicativas.
-
-
-
-
-
-
-
-
-
 
 
 * Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
@@ -8326,11 +7557,6 @@ GROUP BYC.NOME
 ORDER BY SUM(N.NOTA_ARBTR)
 
 
-
-
-
-
-
 Comentário: Vejam que nesta questão precisamos apresentar os nomes dos cães
 participantes e o
 somatório das notas que cada um deles. Vejam que são apenas 2 atributos.
@@ -8364,11 +7590,6 @@ Considere as Tabelas a seguir para responder a questão.
 
 Essas Tabelas fazem parte do esquema de um banco de dados usado por uma associação de
 criadores de cães para organizar informações sobre os torneios que ela promove.
-
-
-
-
-
 
 
 CREATE TABLE CAO (
@@ -8489,15 +7710,6 @@ competição. Suas colunas são autoexplicativas.
 * A Tabela ARBITRO contém os dados dos árbitros que julgam os cães que
 participam de
 competições. Suas colunas são autoexplicativas.
-
-
-
-
-
-
-
-
-
 
 
 * Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
@@ -8559,15 +7771,6 @@ restrições para
 transformas o produto cartesiano em uma junção. Para finalizar, temos que agrupar pelo
 nome.
 Desta forma, temos nossa resposta na alternativa E.
-
-
-
-
-
-
-
-
-
 
 
 Gabarito: E
@@ -8684,15 +7887,6 @@ KEY
 (COD_ARBTR)
 
 
-
-
-
-
-
-
-
-
-
 * A Tabela CAO contém os dados dos cães inscritos na referida associação. A coluna
 NOME_PAI
 indica o nome do pai de um cão, a coluna RACA indica a raça do mesmo, e a coluna NOME_PROPR
@@ -8751,15 +7945,6 @@ HAVING COUNT(*) >0
 e) SELECT C.NOME
 
 
-
-
-
-
-
-
-
-
-
 FROM CAO QPARTICIPACAO P
 
 WHERE C.COD=P.COD_CAO AND COUNT(*) > 0
@@ -8805,15 +7990,6 @@ Veja que
 somente com essa informação já conseguimos marcar a alternativa correta.
 
 Gabarito: A
-
-
-
-
-
-
-
-
-
 
 
 LISTA DE QUESTõES - CEBRASPE (CESPE)
@@ -8866,15 +8042,6 @@ SQL, Delphi e desenvolvimento mobile.
 funcionários de uma empresa. Para aqueles em que seja verdadeira a condição
 
 
-
-
-
-
-
-
-
-
-
 Funcionários.CodigoDep = Departamentos. CodigoDep, será apresentado
 também o nome do departamento.
 
@@ -8924,11 +8091,6 @@ cidade de BRASÍLIA,DF.
 
 146 A palavra INTELIGÊNCIA está entre aspas simples por pertencer a um
 atributo, area, o qual tem o tipo de dados definido como caractere.
-
-
-
-
-
 
 
 147 Em LIKE '%BRASILIA,DF%', o recurso LIKE foi definido de forma incorreta,
@@ -8983,11 +8145,6 @@ WHERE id_departamento = 40
 ORDER BY sobrenome
 
 
-
-
-
-
-
 CAIU
 
 na prova!
@@ -9040,11 +8197,6 @@ o processo mais eficiente e rápido é executar o comando SELECT e aplicar uma
 estrutura de loop para contar as linhas resultantes.
 
 
-
-
-
-
-
 CAIU
 
 na prova!
@@ -9095,11 +8247,6 @@ having max(c2.area)
 
 B select cl.local, cl.nome, c2.descricao, max(c2.area)
 from prédio as cl, salas as c2
-
-
-
-
-
 
 
 where c2.local=cl.id
@@ -9155,15 +8302,6 @@ na prova!
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 
-
-
-
-
-
-
-
-
-
 Quanto a bancos de dados, sistemas gerenciadores de bancos de dados e
 técnicas correlacionadas de modelagem de dados, julgue os próximos itens.
 
@@ -9217,15 +8355,6 @@ implementadas nos bancos de dados orientados a objetos.
 C) A restrição de asserção de um banco de dados permite a execução de ações
 automáticas a partir de eventos previamente definidos, por exemplo, a
 entrada de um CPF com formatação incorreta.
-
-
-
-
-
-
-
-
-
 
 
 D) Uma view representa uma tabela em forma física consolidada a partir de
@@ -9291,11 +8420,6 @@ group by tl.codigo, tl.descricao;
 C select tl.codigo, tl.descricao, sum(t2.valor) as soma
 
 
-
-
-
-
-
 from tl right join t2 on tl.codigo=t2.codigo
 group by tl.codigo, tl.descricao;
 
@@ -9313,12 +8437,6 @@ group by tl.codigo, tl.descricao;
 Texto para as próximas duas questões: a seguir, são apresentados um
 modelo entidade-relacionamento conceituai e, na tabela, características dos seus
 atributos.
-
-
-
-
-
-
 
 
 pessoa
@@ -9399,15 +8517,6 @@ B CREATE TABLE encontro (
 'idpessoa_marca' INT(5) NULL,
 
 
-
-
-
-
-
-
-
-
-
 'idpessoa_atende' INT(5) NULL,
 'data_encontro' DATE NULL,
 
@@ -9457,11 +8566,6 @@ E CREATE TABLE encontro (
 
 'idpessoa_marca' INT(5) NULL FOREIGN KEY ('idpessoa_marca')
 REFERENCES 'pessoa' ('idPessoa'),
-
-
-
-
-
 
 
 'idpessoa_atende' INT(5) NULL FOREIGN KEY ('idpessoa_atende')
@@ -9518,15 +8622,6 @@ Item. 18. Ano: 2016 Banca: CESPE Órgão: PCPE Cargo: PERITO CRIMINAL
 Questão: 38.
 
 
-
-
-
-
-
-
-
-
-
 Na linguagem SQL, o comando create table é usado para criar uma tabela no
 banco de dados; enquanto o relacionamento entre duas tabelas pode ser criado
 pela declaração
@@ -9576,11 +8671,6 @@ D update.
 E insert.
 
 
-
-
-
-
-
 CAIU
 
 na prova!
@@ -9624,15 +8714,6 @@ WHERE inscricao. matricu la=aluno. matricu la
 AND quantidade > 2
 
 
-
-
-
-
-
-
-
-
-
 GROUP BY inscricao, aluno, disciplina
 
 E SELECT aluno.matricula, aluno.nome, SUM() > 2
@@ -9660,15 +8741,6 @@ C FROM pessoa WHERE sexo='M' DELETE sexo
 
 D DELETE sexo FROM pessoa WHERE sexo='M'
 E DELETE FROM pessoa WHERE sexo='M'
-
-
-
-
-
-
-
-
-
 
 
 GABARITo
@@ -9716,11 +8788,6 @@ Item. 20. C
 Item. 21. A
 
 Item. 22. E
-
-
-
-
-
 
 
 LISTA DE QUESTõES - CESCRANRIO
@@ -9832,15 +8899,6 @@ FOREIGN KEY (COD_ ARBTR)
 Observações:
 
 
-
-
-
-
-
-
-
-
-
 * A Tabela CAO contém os dados dos cães inscritos na referida associação.
 A coluna NOME_PAI
 indica o nome do pai de um cão, a coluna RACA indica a raça do mesmo, e a coluna
@@ -9941,15 +8999,6 @@ c) INSERT INTO PARTICIPACAO (COLOCACAO, COD_COMP, COD_CAO) VALUES (1,1111,8888)
 d) INSERT INTO CAO (COD, NOME, RACA, NOME_PAI)
 
 
-
-
-
-
-
-
-
-
-
 VALUES (1130,'TUTU','BULDOG FRANCÊS','PEPEU')
 
 e) INSERT INTO PARTICIPACAO VALUES (2222,1111,7)
@@ -10007,11 +9056,6 @@ na prova!
 
 Item. 4. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
 Júnior - Informática
-
-
-
-
-
 
 
 ALUNO (cpf : string , nome : string , endereço : string, telefone : string)
@@ -10136,11 +9180,6 @@ CAIU
 na prova!
 
 
-
-
-
-
-
 Item. 6. Ano: 2014 Banca: CESGRANRIO Órgão: CEFET-RJ Prova: Técnico de Tecnologia da Informação
 
 Aluno
@@ -10216,11 +9255,6 @@ Que comando SQL deve ser dado para criar a Tabela Tipo_Conta?
 a) CREATE TABLE Tipo_Conta ( codigo_tipo_conta NUMERIC PRIMARY KEY,
 descricao_tipo_conta
 VARCHAR(256))
-
-
-
-
-
 
 
 b) CREATE TABLE TipoJZonta (
@@ -10303,11 +9337,6 @@ c) UPDATE Conta SET VALUES (id_conta,"S") WHERE id_conta=123456
 d) UPDATE credito_bloqueado_sn="S" From Conta WHERE id_conta=123456
 
 
-
-
-
-
-
 e) UPDATE INTO Conta VALUES (123456,"S")
 
 CAIU
@@ -10361,11 +9390,6 @@ na prova!
 
 Item. 10. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
 de Sistemas
-
-
-
-
-
 
 
 As Tabelas pertencem ao esquema de um banco de dados acadêmico de uma universidade.
@@ -10481,11 +9505,6 @@ a) INSERT INTO ALUNO (MATRIC, CPF, NOME) VALUES (66666,'TIAGO MENEZES')
 b) DELETE FROM ALUNO WHERE CPF IS NULL
 
 
-
-
-
-
-
 c) UPDATE ALUNO SET CPF=23565677789 WHERE NOME ='GABRIEL LOPES'
 
 d) INSERT INTO ALUNO VALUES (66666,'TIAGO MENEZES')
@@ -10534,11 +9553,6 @@ PRIMARY KEY (MATRIC,COD_DISC,ANO,SEMESTRE),
 CONSTRAINT HIST_FK FOREIGN KEY (MATRIC)
 
 REFERENCES ALUNO (MATRIC))
-
-
-
-
-
 
 
 Observações:
@@ -10616,15 +9630,6 @@ ON A.MATRIC=H.MATRIC
 GROUP BY A.NOME
 
 
-
-
-
-
-
-
-
-
-
 b) SELECT A.NOME, AVG(H.NOTA)
 FROM ALUNO A
 
@@ -10658,11 +9663,6 @@ na prova!
 
 Item. 12. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
 de Sistemas
-
-
-
-
-
 
 
 As Tabelas pertencem ao esquema de um banco de dados acadêmico de uma universidade.
@@ -10757,11 +9757,6 @@ a) SELECT DISTINCT A.NOME
 FROM ALUNO A, HISTORICO H
 
 
-
-
-
-
-
 WHERE A.MATRIC=H.MATRIC AND H.NOTA >= 5.0
 
 b) SELECT NOME FROM ALUNO
@@ -10802,11 +9797,6 @@ Item. 13. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Co
 da Informação
 
 As informações presentes abaixo devem ser usadas para responder às questões de nos 50 a 52.
-
-
-
-
-
 
 
 Pessoa
@@ -10878,11 +9868,6 @@ Item. 14. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Co
 da Informação
 
 As informações presentes abaixo devem ser usadas para responder às questões de nos 50 a 52.
-
-
-
-
-
 
 
 Pessoa
@@ -10964,11 +9949,6 @@ QTD_ESTOQUE NUMBER(5),
 TIPO NUMBER(l) NOT NULL,
 
 
-
-
-
-
-
 CONSTRAINT PRODUTO_PK PRIMARY KEY (COD))
 CREATE TABLE ITEM (
 
@@ -11027,15 +10007,6 @@ WHERETIPO = 1
 UNION
 
 
-
-
-
-
-
-
-
-
-
 SELECT P.COD, P.DESCRICAO, COUNT(I.COD_PROD)
 FROM PRODUTO P
 
@@ -11089,11 +10060,6 @@ CREATE TABLE PRODUTO (
 
 COD NUMBER(5) NOT NULL,
 DESCRICAO VARCHAR2(100) NOT NULL,
-
-
-
-
-
 
 
 PRECO NUMBER(8,2) NOT NULL,
@@ -11152,11 +10118,6 @@ VALUES(7777,'COMPUTADOR BLUEX',1000.00, ,2)
 
 e) INSERT INTO PRODUTO (COD,DESCRICAO,PRECO,TIPO,QTD_ESTOQUE)
 VALUES(7777,'COMPUTADOR BLUEX',1000.00,2)
-
-
-
-
-
 
 
 CAIU
@@ -11222,11 +10183,6 @@ c) CREATE PRODUTO : TABLE
 d) CREATE PRODUTO AS TABLE
 
 e) CREATE TABLE PRODUTO
-
-
-
-
-
 
 
 CAIU
@@ -11299,11 +10255,6 @@ a) add column telefone varchar(12) on table Inquilino;
 b) alter table Inquilino add column telefone varchar(12);
 
 
-
-
-
-
-
 c) alter table Inquilino insert column telefone varchar(12);
 
 d) insert column telefone varchar(12) on table Inquilino;
@@ -11368,11 +10319,6 @@ Considere as Tabelas a seguir para responder a questão.
 Essas Tabelas fazem parte do esquema de um banco de dados usado por uma
 associação de
 criadores de cães para organizar informações sobre os torneios que ela promove.
-
-
-
-
-
 
 
 CREATE TABLE CAO (
@@ -11496,15 +10442,6 @@ cães que participam de
 competições. Suas colunas são autoexplicativas.
 
 
-
-
-
-
-
-
-
-
-
 * Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão,
 por um determinado
 árbitro em uma determinada competição. Suas colunas são autoexplicativas.
@@ -11560,15 +10497,6 @@ WHERE P.DESCR='ABERTO DO RIO' AND P.COD=N.COD_COMP AND
 N.COD_CAO=C.COD
 
 GROUP BYC.NOME
-
-
-
-
-
-
-
-
-
 
 
 ORDER BYSUM(N.NOTA ARBTR)
@@ -11686,15 +10614,6 @@ KEY
 (COD_ARBTR)
 
 
-
-
-
-
-
-
-
-
-
 * A Tabela CAO contém os dados dos cães inscritos na referida associação.
 A coluna NOME_PAI
 indica o nome do pai de um cão, a coluna RACA indica a raça do mesmo, e a coluna
@@ -11756,15 +10675,6 @@ WHERE C.NOME='GINGER' AND C.COD=P.COD_CAO AND P.COD_CAO=N.COD_CAO
 AND N.COD_ARBTR=A.COD AND A.COD=1111
 
 e) SELECT A.NOME, SUM(N.NOTA_ARBTR) / COUNT(*)
-
-
-
-
-
-
-
-
-
 
 
 FROM CAO C,AVALIACAO N,ARBITRO A
@@ -11887,15 +10797,6 @@ KEY
 (COD_ARBTR)
 
 
-
-
-
-
-
-
-
-
-
 Observações:
 
 * A Tabela CAO contém os dados dos cães inscritos na referida associação.
@@ -11955,15 +10856,6 @@ GROUP BY C.NOME
 HAVING COUNT(*) >0
 
 
-
-
-
-
-
-
-
-
-
 e) SELECT C.NOME
 
 FROM CAO QPARTICIPACAO P
@@ -11992,15 +10884,6 @@ c) DROP DELETE ON RH05_FUNCIONARIO FROM USER RH5678
 d) DROP FUNCTION DELETE ON RH05_FUNCIONARIO FROM RH5678
 
 e) DELETE FUNCTION DELETE FROM RH5678 ON RH05 FUNCIONARIO
-
-
-
-
-
-
-
-
-
 
 
 GABARITo
@@ -12055,78 +10938,4 @@ Item. 24. D
 
 Item. 25. A
 
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

@@ -1,24 +1,5 @@
 Capítulo. Desenvolvimento de Software - Lógica de Programação.
 
-Concursos
-
-(Profs. Paolla
-Ramos e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Desenvolvimento de
-software - 2023 (Pós-Edital)
-
-Autor:
-
-Paolla Ramos e Silva
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Índice
 
@@ -43,12 +24,6 @@ Paolla Ramos e Silva
 10) Lógica de Programação - Lista de Questões - Multibancas
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 APRESENTAçÃo
 
 Faaaala, galera! Aqui quem vos fala é o Prof. Diego Carvalho e nós vamos
@@ -69,17 +44,12 @@ sobre as tecnologias mais recentes também estão a caminho :)
 
 @professordiegocarvalho
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 X 244
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -114,16 +84,10 @@ L H'STI'R£ Í CM
 5 -Wdte tó/UAfc
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Professor, você pode dar um exemplo? Sim, o exemplo mais comum da bibliografia é
 mostrado acima: uma
@@ -208,12 +172,8 @@ de programação do
 
 mercado.
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Pessoal... se eu não souber uma linguagem de programação, eu posso escrever um
 algoritmo utilizando um
@@ -277,16 +237,6 @@ alguns =
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Comentários: Os comandos genéricos ou primitivos são utilizados em pseudocódigo, e não
 em fluxogramas.
 O fluxograma é uma das formas de se representar as instruções de programa, mas
@@ -335,12 +285,6 @@ abaixo correspondem, :
 
 = respectivamente, a dados armazenados, processo, documento e entrada manual.
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários: Os símbolos em questão significam, respectivamente: dados externos,
 documento, processo
@@ -412,12 +356,7 @@ i.e., a forma com que o programa recebe os dados a serem processados do mundo re
 e devolve uma
 resposta. Esse é um conceito básico da primeira aula de um curso de computação.
 
-* 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
+*
 
 
 Éiírf Vrfw FUybâík Hdp
@@ -523,12 +462,6 @@ copa é Brazuca, é possível decompor esse nome? Sim, basta dividi-lo em caract
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
 o Cadeia de Caracteres: também conhecido como String, são representações de
 sequências de
 caracteres, incluindo ou não símbolos. Pode ser uma palavra, frase, código, etc, por
@@ -553,12 +486,6 @@ busca do Google). A Escrita é uma Saída de Dados (Output) que busca mostrar
 informações ao usuário na
 tela do computador (Ex: resultado da busca do Google).
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Todas Imagens Vídeos Shopping Notícias IMais Configurações Ferramentas
 
@@ -621,16 +548,6 @@ disso, parênteses possuem sempre a maior prioridade!
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Menor ou igual a
 
 Operadores Lógicos: servem para combinar resultados de expressões,
@@ -687,18 +604,9 @@ para decisões diferentes. Bacana?
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
 * 05152001900 - Everton Murilo
 Vieira
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O contrário dessa afirmação é a execução sequencial das instruções, sem loops
 ou desvios. Quando
@@ -733,18 +641,8 @@ Se (Média >= 5.0) Então
 Aluno = Aprovado
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Senão
 
@@ -788,12 +686,7 @@ Aluno = Recuperação
 
 Aluno = Reprovado
 
-* 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
+*
 
 
 Aluno = Reprovado I
@@ -861,12 +754,8 @@ Isso é uma forma diferente de falar a mesma coisa que está sendo dita no enunc
 Portanto, está correto.
 (Gabarito: Correto)
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 (FCC - 2017 - ARTESP) Considere o fluxograma abaixo.
 
@@ -891,12 +780,8 @@ nova senha. Falso.
 
 somente o usuário com a senha admin consegue alterar a variável SENHA.
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 : Como o passo pra informar a variável SENHA ocorre antes da verificação da "SENHA =
 admin", então ;
@@ -924,12 +809,8 @@ Não. Ele volta para o "Entre com a senha", pois há uma seta ligando "Acesso OK
 "Entre com a senha".
 Falso. (Gabarito: Letra C)
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 CASO 4:
 
@@ -1000,16 +881,6 @@ me <-a;
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Atribui à variável me o valor de a, ou seja, 120.
 se (me > b) então me <- b;
 
@@ -1039,12 +910,8 @@ pode ser definida, indefinida, ou enquanto um estado se mantenha ou seja alcanç
 Parece confuso, mas
 não é! Vamos ver, pessoal...
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Nao
 
@@ -1066,12 +933,8 @@ Votos = Votos + 1
 
 Fim-Enquanto
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Sim
 
@@ -1115,12 +978,8 @@ imprimi r(Votos)
 
 Fi m-Enquanto
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Esse tipo de estrutura é um pouco diferente da primeira, já que define de antemão
 quantas vezes será
@@ -1154,13 +1013,6 @@ Votos = Votos + 1
 
 Enquanto (Votos < 1.000)
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O último caso é o pós-testado. Como sugere o nome, nessa estrutura a instrução do
 bloco é executada
@@ -1208,12 +1060,6 @@ parte da letra cantar. Vamos nessa?
 
 21 imprimir("into your heart")
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 22 Senão
 
@@ -1272,12 +1118,8 @@ escape. Todo mundo cantou bem alto para o vizinho ouvir? Ficou difícil? Tirei d
 diagrama abaixo, assim
 acho mais fácil de visualizar. Abraços e até a próxima.
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 hey Jude
 
@@ -1297,13 +1139,8 @@ better better better better better waaaaa —
 lyncs *- $ony .Mv
 
 
-
 www. estra tegiaconcursos. com. br
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Funções e Procedimentos
 
@@ -1357,12 +1194,8 @@ decomposição de problemas grandes em pequenas partes; melhorar a interpretaç�
 visual; esconder ou
 regular uma parte de um programa; reduzir o acoplamento; entre outros.
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Quando uma sub-rotina termina, ela é desalocada das estruturas internas do programa,
 i.e., seu tempo de
@@ -1415,12 +1248,8 @@ quando o módulo
 principal chama uma função ou procedimento, ele passa alguns valores chamados Argumentos de
 Entrada.
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Esse negócio costuma confundir muita gente, portanto vou explicar por meio de um
 exemplo, utilizando a
@@ -1485,12 +1314,8 @@ Valor 2 = 20
 
 Valores depois de chamar a Função:
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Valor 1 = 5
 
@@ -1557,12 +1382,8 @@ Valor 1 = 10
 
 Valor 2 = 20
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Valores depois de chamar a Função:
 
@@ -1612,12 +1433,6 @@ recursividade por
 meio de imagens como as apresentadas abaixo.
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 RECURSION
 
 heie vm aiat*
@@ -1648,16 +1463,6 @@ os inteiros positivos menores ou iguais a n.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 5!
 
@@ -1719,18 +1524,8 @@ uma referência a um =
 ;
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) Py é categorizado como diretamente recursivo.
 
@@ -1807,16 +1602,10 @@ longe do código de
 máquina e mais próximo à linguagem humana. Desse modo, as linguagens de alto nível não estão
 
 
-
-www.estrategiaconcursos.com.br
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 diretamente relacionadas à arquitetura do computador. O programador de uma linguagem de
 alto nível não
@@ -1848,16 +1637,6 @@ COBOL (COmmon Business Oriented Language).
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 THE PERIODIC TABLE OF PROGRAMMING LANGUAGES
 
@@ -1926,16 +1705,6 @@ com fins educativos. Conheciam? Eu também não!
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 ■s
 
 FM rwo Mcts w ANt> i sm
@@ -1992,12 +1761,6 @@ muitas
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
 linguagens para suportar o Desenvolvimento Rápido de Aplicações (RAD). Em geral, elas
 vieram com uma
 IDE, Garbage Collector, e tudo que aumentasse a produtividade do programador.
@@ -2036,16 +1799,6 @@ crescendo, tanto na indústria quanto na pesquisa.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - CESPE
 
@@ -2097,19 +1850,10 @@ Comentários:
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
 *
 05152001900 - Everton Murilo
 Vieira
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 As estruturas se e senão são estruturas de seleção ou de decisão, e não estruturas
 de repetição. Fora este
@@ -2177,16 +1921,6 @@ estado para cada entrada. Portanto, ele não permite nem zero e nem n transiçõ
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) consegue estar em vários estados ao mesmo tempo.
 Somente um estado. Falso. Gabarito: Letra C.
@@ -2260,16 +1994,6 @@ valor = valor * atual
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 atual = atual + 1
 
 }
@@ -2341,16 +2065,6 @@ Consideremos a = 3, b = 7, c = 3 e d = 9.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Consideremos os significados dos sinais de operação:
 
@@ -2424,18 +2138,7 @@ c) "\(d==12&&a !=10)éfalso"
 * a != 10: a variável "a" é "3", o que é igual a "3". Verdadeiro.
 
 
-
-
-
 ,
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 * A expressão fica
@@ -2478,16 +2181,6 @@ Item. 8. (CESPE / CEBRASPE - 2021-SEED-PR)
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 1. var
 
@@ -2549,18 +2242,8 @@ Já na linha 10, ele divide o valor da soma de todos os itens do vetor por 5, qu
 vetor.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Somar todos os itens de um vetor e dividir pela quantidade de itens no vetor é
 calcular a sua média. Gabarito:
@@ -2626,16 +2309,6 @@ Existem números inteiros pares menores do que 2, e que, portanto, escrevem Y. E
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) igual a 2, escreve Y.
 
@@ -2712,16 +2385,6 @@ início do bloco.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 O trecho acima lê do usuário um valor, e vai somando esse valor na variável
 "resultado" para sempre... Desde
 que o valor seja diferente de zero. Ou seja, ele vai sair do loop se o valor for 0.
@@ -2793,16 +2456,6 @@ variável resultado o valor de cont.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Assim, se o valor de num for 4, ele vai multiplicar i*i*2*3*4 = 24.
 Essa é a definição de fatorial.
 
@@ -2872,16 +2525,6 @@ Finalmente, podemos usar a distributiva mais uma vez: F(X, Y, Z) = Z(X + X') + X
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Como X + X' é sempre verdadeiro (pois é a negação de X ou a negação de não X,
 que são complementares),
 podemos simplificar a expressão para F(X, Y, Z) = Z + XZ + YZ.
@@ -2947,16 +2590,6 @@ se (ma < b) então ma <- b;
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Realizada uma condicional. Como ma = 120 e b = 30, 120 < 30 é falso. Portanto, não
 entra na condicional,
@@ -3031,16 +2664,6 @@ Assinale a opção que apresenta o resultado da expressão anterior.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) 2
 
@@ -3139,16 +2762,6 @@ verdadeiro or verdadeiro
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 verdadeiro
 
 Gabarito: Letra E.
@@ -3212,15 +2825,6 @@ d) 51
 e) 19
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-
-
-
 Comentários:
 
 O que este algoritmo faz é ordenar os números do vetor, o Bubble Sort. É um algoritmo clássico e a
@@ -3282,16 +2886,6 @@ Para i = 3:
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Testa o if: se vetor[i] > vetor [i+1], ou seja, se vetor[3] > vetor[4], ou seja, se 81 > 19
 naosei = vetor[i] = vetor[3] = 81
@@ -3361,12 +2955,8 @@ Para i = 1:
 
 Testa o if: se vetor[i] > vetor [i+1], ou seja, se vetorfl] > vetor[2], ou seja, se 51 > 19
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 naosei = vetor[i] = vetor[l] = 51
 
@@ -3440,16 +3030,6 @@ Como achou = true, então entra no "enquanto".
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Define achou = false.
 
 Entra no "para", que irá rodar de 0 a 3, cada iteração com um valor para a variável i.
@@ -3520,16 +3100,6 @@ comando LABEL.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Seu uso indiscriminado pode gerar problemas de legibilidade no programa,
 dificultando, especialmente, a
 sua compreensão, e, consequentemente, sua manutenibilidade.
@@ -3586,16 +3156,6 @@ Comentários:
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Como as variáveis A e B têm escopo global, elas são visíveis em qualquer ponto do algoritmo.
 Gabarito:
@@ -3662,16 +3222,6 @@ subtrai 1 ao x".
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 No caso de x ser igual a zero, nada ocorre.
 
 Isso é uma forma diferente de falar a mesma coisa que está sendo dita no enunciado.
@@ -3722,14 +3272,6 @@ Antes do loop, nossas variáveis valem:
 
 a = O;b = l;f=l;
 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Após entrar no loop, não sai enquanto i <= 6. Então, temos que:
 
@@ -3785,16 +3327,6 @@ Terceira instrução: b = f; b = 8;
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Quarta instrução: Saída = 12358;
 
@@ -3856,16 +3388,6 @@ H 0 16 -1, mod é o resto da divisão, 25 mod 4 = 1;
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Portanto, H 0 15. Gabarito: C
 
 Item. 26. (CESPE- 2017 - SEDF - DF - Professor de Educação Básica - Informática) Considere o algoritmo
@@ -3921,18 +3443,8 @@ y = y-l = 3-l = 2
 x=x+l=2+l=3
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 x < y -> 3< 2? Não! Sai do loop e escreve z = 6. Gabarito: B
 
@@ -3982,16 +3494,6 @@ manual. Portanto, está errado. Gabarito: Errado.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Item. 30. (CESPE - 2014 - ANATEL - Analista de Sistemas) A recursividade é uma técnica que pode ser
 utilizada
 na implementação de sistemas de lógica complexa, com a finalidade de minimizar riscos de ocorrência
@@ -4039,16 +3541,6 @@ resultado que será computado para Área é igual a 32.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Comentários:
 
 Vamos lá:
@@ -4081,16 +3573,6 @@ propósito! Gabarito: Certo
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 34. (CESPE - 2010 - DETRAN/ES - Analista de Sistemas) O método de recursividade deve ser utilizado
 para
@@ -4151,16 +3633,6 @@ de uma condição de saída ou de encerramento.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Comentários:
 
 Por fim, gostaria de mencionar que existem dois tipos de recursividade: direta e
@@ -4177,16 +3649,6 @@ um caso-base, que
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - FCC
 
@@ -4243,18 +3705,8 @@ falso, será executado o Comando4. Falso.
 b) se B2 for verdadeiro, somente o Comando3 será executado.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Se B2 for verdadeiro, mas B1 for verdadeiro, ele entrará na
 primeira condicional, e executará
@@ -4325,18 +3777,8 @@ d) II deve ser preenchida com imprima ("Valor valido = ", vetor[indice])
 e) I deve ser preenchida com numero>=1900 ou numero<=2017
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -4378,16 +3820,6 @@ erros.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 var varl=l, var2=2: inteiro
 funcaol()
@@ -4471,16 +3903,6 @@ funcaol. Ou seja, vai imprimir:
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 As variáveis globais não vão ser alteradas aqui porque as variáveis usadas
 são as locais do escopo
 da funcaol.
@@ -4540,15 +3962,11 @@ Para converter decimal em binário, temos que dividir por 2 e pegar o resto.
 
 x-""' 72
 
-www.estrategiaconcursos.com.br
+
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 (1)/2 0 1
 
@@ -4607,18 +4025,8 @@ apresentado abaixo,
 em que o operador mod retorna o resto da divisão inteira
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Programa Sabesp
 Var ano, n: inteiro
@@ -4677,22 +4085,9 @@ ano. Observe:
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-
 1945
 
 1900
-
-
 
 
 Portanto, falso.
@@ -4758,16 +4153,6 @@ Comentários:
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Vamos comentar item a item:
 
 a. o tipo básico inteiro para ambas as variáveis.
@@ -4814,16 +4199,6 @@ De acordo com a lógica expressa pelo fluxograma, conclui-se que:
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 a) a solicitação da senha é encerrada quando o usuário fornece a senha admin.
 
 b) somente o usuário com a senha admin consegue alterar a variável SENHA.
@@ -4846,18 +4221,8 @@ mas, sim, pede
 para entrar nova senha. Falso.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) somente o usuário com a senha admin consegue alterar a variável SENHA.
 
@@ -4877,18 +4242,8 @@ nunca chegará no "ACESSO OK". Verdadeiro.
 d) quando a SENHA_ATUAL não confere, esta é inicializada com "x".
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 À variável SENHA_ATUAL é sempre atribuído o valor "x", sendo este
 o segundo passo do
@@ -4951,18 +4306,8 @@ v3 <- v3 - 1 = 4 -1 = 3
 v3 > 1 -> 3>1
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 v1 <- v1 * v2 = 9*3 = 27
 v3 <- v3 - 1 = 3 -1 = 2
@@ -5020,17 +4365,8 @@ a) não poderia usar a categoria 0 no comando escolha, nem atribuir zero ao valo
 b) apresenta erro de lógica na condição do comando condicional se.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) teria que usar uma condição no comando enquanto (verdadeiro) faça, pois este não pode
 avaliar apenas o valor lógico verdadeiro.
@@ -5082,16 +4418,10 @@ pseudocódigo, que
 implementam uma lógica.
 
 
-
-www.estrategiaconcursos.com.br
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 função fl (N: inteiro): real
 Início
@@ -5160,16 +4490,6 @@ chamada dentro dela mesma. Falso.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) recursiva faz cálculos e apresenta resultados totalmente diferentes da função iterativa.
 
@@ -5259,16 +4579,6 @@ Da análise do algoritmo, podemos deduzir que:
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 o Usando o número informado (0, 1, 2 ou 3), armazenado na variável voto, o sistema
 incrementa o valor em vetor[voto]. Se o valor informado for menor que zero, ou
 maior que 3, ele incrementa o valor de vetor[4],
@@ -5316,16 +4626,10 @@ Não, pois o objetivo do loop é mostrar os votos válidos nos candidatos 1, 2 e
 13.(FCC - 2017 - TRT-24) Considere o algoritmo em pseudocódigo abaixo.
 
 
-
-www.estrategiaconcursos.com.br
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 var vl, v2, v3 : inteiro
 início
@@ -5393,16 +4697,10 @@ Irá mostrar o valor de v1 atual, que é 81. Gabarito: D
 Item. 14. (FCC - 2017 - ARTESP) Considere o algoritmo em pseudocódigo abaixo:
 
 
-
-www.estrategiaconcursos.com.br
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 função dígitos (n: inteiro): inteiro
 início
@@ -5490,16 +4788,6 @@ se (n < 10)
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Novamente a função recursiva, n/10 = 65/10 = 6. Rodemos novamente diqitos(ó). Quinta vez.
 se (n < 10)
 
@@ -5534,16 +4822,10 @@ Imprima o
 resultado encontrado
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Analisando o raciocínio lógico e as estruturas lógicas utilizadas no diagrama, é correto afirmar
 que:
@@ -5603,17 +4885,13 @@ por 2.
 
 Não, isso somente ocorrerá se os dois números forem diferentes de zero. Falso. Gabarito: C
 
- x-'"
+x-'"
 
-www.estrategiaconcursos.com.br
+
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 16.(FCC - 2015 - DPE-SP) Considere o algoritmo em pseudocódigo no qual DIV calcula o
 quociente da divisão inteira e MOD o resto da divisão inteira:
@@ -5691,16 +4969,6 @@ Dito isso, o algoritmo ele funciona da seguinte maneira:
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 * Dependendo do resto da divisão calculada, ele vai definir novos valores para as variáveis
 "cinco" e "tres".
 
@@ -5755,18 +5023,10 @@ quociente será 0, e o valor de cinco não tem como ser maior do que 1. Falso. G
 Item. 17. (FCC - 2015 - DPE-SP) Considere o algoritmo a seguir, na forma de pseudocódigo:
 
 
-0 0 
+0 0
 
-www.estrategiaconcursos.com.br
+
 /
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Var n, i, j , k,
@@ -5849,16 +5109,6 @@ Então, quando j = 7, ele coloca em v[7] o valor de v[6], e sai do loop.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Até aí, note que ele transpôs para frente os valores do vetor, certo? E daí vem a
 seguinte instrução:
 v[k] x;
@@ -5887,15 +5137,11 @@ e) 20.
 
 x-""' 92
 
-www.estrategiaconcursos.com.br
+
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -5980,16 +5226,6 @@ CB <- CB + 1
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Inicialmente E = 4 e B = 4. Portanto E <- 64*4 = 256. Então, E = 256. CB = 3 +
 1 =4. Volta para
 o teste.
@@ -6069,16 +5305,6 @@ Comentários:
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Da análise do algoritmo, nota-se que seu comportamento é o seguinte:
 
 * Temos um vetor de 10 posições.
@@ -6143,16 +5369,6 @@ Item. 20. (FCC - 2014 - TRT-16) No algoritmo há:
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 tipo V= vetor [1..10] inteiro
 var i, k: inteiro
@@ -6227,18 +5443,8 @@ em
 diversas linguagens de programação.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Sim, há um tipo homogêneo de dados, que é o vetor. No caso, é implementado um vetor
 de
@@ -6310,16 +5516,6 @@ estejam entre 0 e 10. Falso.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 c) (n1 >= 0 OU n1 <=10) E (n2 >= 0 OU n2 <=10)
 
 Isso também vai permitir que n1 ou n2 sejam maiores do que 0, e inclusive maior do que 10.
@@ -6370,18 +5566,8 @@ c) 0, 1 e 0 no caso de passagem de parâmetros por valor e.
 d) 0, 1 e 1 no caso de passagem de parâmetros por valor e.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 0, 1 e 1 no caso de passagem de parâmetros por referência.
 
@@ -6450,15 +5636,11 @@ logo seu valor
 
 x-""' 99
 
-www.estrategiaconcursos.com.br
+
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 23.(FCC - 2012 - BANESE) Dadas as variáveis reais (K e M), inteiras (X e Y) e lógicas (W e Z),
 produz um resultado correto o comando de atribuição:
@@ -6531,16 +5713,6 @@ inteiros (X + Y). Falso. Gabarito: B
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Item. 24. (FCC - 2010 - TJ-PA) Considere a seguinte e somente a seguinte
 situação: Se um
 procedimento Px contiver uma referência a um outro procedimento Py que por sua vez
@@ -6602,18 +5774,8 @@ b) lf...Then...Else
 c) While
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) Do...While
 
@@ -6680,18 +5842,8 @@ diferentes
 tipos, sendo normalmente utilizado quando um objeto tem diferentes atributos.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 É correto o que consta APENAS em
 
@@ -6759,18 +5911,8 @@ c) Máquina de Turing.
 d) Sistema de Post.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) Máquina com Pilhas.
 
@@ -6829,16 +5971,10 @@ e) pode chamar a si mesma.
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Por fim, vamos falar sobre recursividade! O que é isso, professor? Formalmente, é uma
 maneira
@@ -6852,16 +5988,6 @@ Conforme vimos em aula, ela pode chamar a si mesma. Gabarito: E
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - FCV
 
@@ -6898,16 +6024,10 @@ exibido a
 seguir.
 
 
-
-www.estrategiaconcursos.com.br
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a : = 1 ;
 
@@ -6972,16 +6092,6 @@ Falso. Entra no "else".
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Realiza o teste: if a + b < c. 1 + 3 < 7.
 Verdadeiro. Entra dentro do if.
 
@@ -7022,16 +6132,6 @@ Realiza o teste: 3 > 9
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Falso. Entra no "else".
 
@@ -7074,16 +6174,6 @@ Falso. Entra no "else".
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Realiza o teste: ifa + b<c. 4 + 9<15.
 Verdadeiro. Entra dentro do if.
 
@@ -7122,12 +6212,6 @@ Verdadeiro. Entra dentro do loop.
 if a > c {
 
 Realiza o teste: 6 > 17
-
-
-
-
-1 www.estrategiaconcursos.com.br
-
 
 
 
@@ -7172,12 +6256,6 @@ Assinale a opção que exibe o conteúdo integral do resultado que seria produzi
 hipotética
 execução desse código.
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) 2 20
 
@@ -7226,16 +6304,6 @@ Verdadeiro. Entra no "então", e imprime "8 20"
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Fora dos ifs, mas ainda dentro do loop, executa a = a + 3 = 8 + 3 = 11.
 Fim do loop. Valores: a = 11, b = 20. Volta pro teste do while.
@@ -7295,16 +6363,10 @@ e) {2,10,10,10,10,12}
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Primeiro, algumas considerações.
 
@@ -7356,16 +6418,6 @@ Valor de L = 2,2,40,53,28,12.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Para k = 1:
 
 Testa L[k] > L[k+1 ], ou seja, L[1 ] > L[2], ou seja, 2 > 40.
@@ -7406,16 +6458,10 @@ L[k+1] = L[k], ou seja, L[5] = L[4], ou seja, L[5] = 28.
 Define trocou = true.
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Valor de L = 2,2,40,28,12,12.
 
@@ -7455,16 +6501,10 @@ Define trocou = true.
 Valor de L = 2,2,28,28,12,12.
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para k = 3:
 
@@ -7502,16 +6542,10 @@ Falso. Não entra no loop.
 Valor de L = 2,2,28,12,12,12.
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para k = 1:
 
@@ -7549,16 +6583,10 @@ Valor de L = 2,2,12,12,12,12.
 Volta para o while.
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Realiza o teste, trocou é true, então entra no while.
 Iteração do while número 4
@@ -7596,18 +6624,8 @@ Falso. Não entra no loop.
 Valor de L = 2,2,12,12,12,12.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para k = 4:
 
@@ -7664,16 +6682,10 @@ Comentários:
 * O algoritmo itera x e y sempre do valor inicial até 9.
 
 
-
-www.estrategiaconcursos.com.br
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Primeiro ele itera incrementando o valor de x; e dentro da iteração do x, ele itera y,
 incrementando o valor de y, e printando os valores de x e y.
@@ -7749,16 +6761,10 @@ Os prints seriam os seguintes:
 2 5
 
 
-
-www.estrategiaconcursos.com.br
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 2 6
 
@@ -7792,7 +6798,6 @@ Paolla Ramos e Silva
 5 9
 
 
-
 7 9
 
 Ou seja, 28 vezes.
@@ -7801,12 +6806,6 @@ Gabarito: Letra A.
 Item. 6. (FGV - 2016 - Prefeitura de Paulínia - SP) Analise o pseudocódigo de uma função recursiva
 exibido a seguir.
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 function f(x as integer) as integer:
 if x = 1 then
@@ -7855,16 +6854,6 @@ Entrou na função com f(7).
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Testa o if x = 1.
 
@@ -7933,14 +6922,8 @@ ou seja, return 3
 
 Entrou na função com f(2).
 
-Ô.O 
+Ô.O
 
-www.estrategiaconcursos.com.br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Testa o if x = 1.
 
@@ -7967,14 +6950,8 @@ Item. 7. (FGV - 2016 - SEE-PE) Analise a função ff definida pelo trecho de pse
 exibido a
 seguir.
 
-OO 
+OO
 
-www.estrategiaconcursos.com.br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 function ff (N as integer) as integer
 
@@ -8031,16 +7008,6 @@ Entrou na função com ff(10).
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Testa o if N = 5.
 
 Como N é 10, entra no "senão".
@@ -8079,16 +7046,6 @@ Entrou na função com ff(5).
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Testa o if N = 5.
 
@@ -8135,17 +7092,8 @@ f para n
 igual a 8.
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) 25
 
@@ -8194,16 +7142,6 @@ Item. 9. (FGV - 2016 - SEE-PE) Analise o trecho de pseudocódigo a seguir.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 function f(a as integer, b as integer, c as
 integer) as integer
@@ -8267,18 +7205,8 @@ Dito isso, vamos seguir o algoritmo a partir da chamada da função:
 Testar o while "while b <= c"
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b <= c" é "2 <= 3. Verdadeiro, então entra no loop.
 a=b+c=2+3=5
@@ -8311,18 +7239,7 @@ Os parâmetros de entrada da função são sua IDADE e PROFISSÃO. A conversão 
 fluxograma em pseudolinguagem de programação é:
 
 
-
-
-
 ,
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 (A)
@@ -8410,16 +7327,6 @@ Agora, se não for, mas for estudante, ele tem ingresso a 10 reais.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 E, se não for estudante, ele tem ingresso a 10 reais também.
 
 Ou seja, a condição para ter ingresso a 10 reais é uma dessas 3 possibilidades!
@@ -8452,17 +7359,8 @@ c)
 d)
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e)
 
@@ -8502,13 +7400,6 @@ k Conec 1
 Portanto, o de decisão é o C.
 Gabarito: Letra C.
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 QUESTõES CoMENTADAS - MULTIBANCAS
 
@@ -8572,16 +7463,6 @@ Nessas condições, ao final da execução, os valores para SD, NR e VL serão, 
 a) GUAPORÉ, 2023 e VERDADEIRO
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 b) BURITI, 2022 e VERDADEIRO
 
 c) GUAPORÉ, 2022 e FALSO
@@ -8631,15 +7512,11 @@ função recursiva.
 
 1^6
 
-www.estrategiaconcursos.com.br
+
 X 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 algoritmo "PL_2022"
 var
@@ -8706,16 +7583,10 @@ false.
 é retornado ao RP.
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 o Escreve o valor de RP, que é 0.
 
@@ -8775,16 +7646,10 @@ Vamos analisar o código linha a linha.
 As variáveis x, y e z são declaradas como inteiro.
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Atribui x = 100.
 Atribui z = 3.
@@ -8823,12 +7688,6 @@ Valores parciais: x = 110 y = 276 z = 6. Volta para o "enquanto".
 Como z <= 7, ou seja, 6 <= 7 é verdadeiro, então segue no "enquanto".
 x = x-15 = 110-15 = 95
 
-00 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Chega no "if x % 2 = 0 então".
 
@@ -8889,16 +7748,6 @@ c) 51,47,87,29,91.
 d) 47,61,87,29,91.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Comentários:
 
 Novamente, temos um código que você precisa saber identificar de cara, pois aparece muito. É
@@ -8935,16 +7784,10 @@ x = vetor[2] = 91
 vetor[2] = vetor[3] = 61
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 vetor[3] = x = 91
 
@@ -8980,14 +7823,8 @@ i = i + 1 = 4 + 1 = 5
 
 Valores parciais do vetor: [47,61,87,29,91]. Volta pro "enquanto".
 
-0 0 
+0 0
 
-www.estrategiaconcursos.com.br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Como i < 5, ou seja, 5 < 5, é falso, então, sai "enquanto".
 
@@ -9041,16 +7878,10 @@ b) x^v[j]
 v[j] v[j - 1]
 
 
-
-www.estrategiaconcursos.com.br
 X 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 v[j-1]^x
 j^j-1
@@ -9109,16 +7940,6 @@ v[j-1]^x
 j^j-1
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Este é o correto, com todas as características que mencionei anteriormente.
 
 c) x <—v[j]
@@ -9153,16 +7974,9 @@ estruturas de controle dos tipos seleção e repetição e correspondem às tabe
 mostradas, respectivamente, em
 
 
-
-www.estrategiaconcursos.com.br
 X 244
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 A) /a/so
@@ -9321,16 +8135,10 @@ Item. 8. (CESPE/CEBRASPE - 2021 - SEED-PR) Assinale a opção que apresenta o re
 algoritmo apresentado.
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 programa {
 
@@ -9386,17 +8194,10 @@ e) 19
 Comentários:
 
 
-OO 
+OO
 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O que este algoritmo faz é ordenar os números do vetor, o Bubble Sort. É um algoritmo clássico
 e a melhor forma de resolver essa questão é conhecendo-o previamente, para já responder sem
@@ -9433,16 +8234,10 @@ Testa o if: se vetor[i] > vetor [i+1], ou seja, se vetor[1] > vetor[2], ou seja,
 naosei = vetor[i] = vetor[1] = 81
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Agora, troca os valores de vetor[1 ] e vetor[2].
 vetor[1 ] = vetorfi + 1 ] = vetor[2] = 51
@@ -9479,16 +8274,10 @@ Define achou = true.
 Valores do vetor: [37,51,77,19,81].
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Volta para o enquanto.
 
@@ -9524,16 +8313,8 @@ Define achou = true.
 Valores do vetor: [37,51,19,77,81].
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para i = 3:
 
@@ -9569,16 +8350,8 @@ Define achou = true.
 Valores do vetor: [37,19,51,77,81].
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para i = 2:
 
@@ -9614,16 +8387,8 @@ Define achou = true.
 Valores do vetor: [19,37,51,77,81].
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para i = 1:
 
@@ -9658,16 +8423,8 @@ Testa o if: se vetorfi] > vetor [i+1], ou seja, se vetor[0] > vetorfi], ou seja,
 Falso. Não entra no if.
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Valores do vetor: [19,37,51,77,81 ].
 
@@ -9703,16 +8460,10 @@ Item. 9. (QUADRIX - 2017 - SEDF/DF - Professor - Informática) É correto afirma
 algoritmos eficientes está relacionado ao emprego de estruturas de dados adequadas.
 
 
-
-www.estrategiaconcursos.com.br
 X 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -9757,16 +8508,10 @@ e) 1,3, 5, 7, 8
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Para cada número de 1 a 9, se o resto da divisão desse número por 2 for igual a 1, escreva esse
 número. Logo:
@@ -9808,16 +8553,10 @@ e às linguagens de programação, funcionando como uma boa ferramenta na valida
 de tarefas a serem automatizadas.
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Estão CORRETAS as proposições:
 
@@ -9863,16 +8602,6 @@ b) O comando retorne pode ser retirado do código e a função terá o mesmo efe
 c) Exemplo clássico de recursividade.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 d) Não é possível chamar a função fatorial dentro dela mesma.
 
 e) O resultado da função sempre retornará um valor elevado a ele mesmo (valor A valor).
@@ -9912,16 +8641,10 @@ provavelmente seria por valor. Gabarito: D
 a%b representa o resto da divisão de a por b.
 
 
-
-www.estrategiaconcursos.com.br
 X 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 inicio
 
@@ -9976,16 +8699,8 @@ Então, vamos testar?
 x= 128
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 y = 56
 
@@ -10025,16 +8740,8 @@ Pessoa, nós podemos continuar fazendo na mão até descobri o valor final de r,
 perceberam que esse algoritmo está querendo descobrir o Máximo Divisor Comum (MDC) entre
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 128 e 56? Ele sempre está decompondo os dois números e fará isso até descobrir qual será o
 MDC entre eles. Uma vez descoberto isso, eu não preciso fazer na mão. Sabemos 128 é divisível
@@ -10076,16 +8783,10 @@ Que número seria impresso caso esse programa executasse?
 a) 0
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) 10
 
@@ -10128,16 +8829,8 @@ descobri a resposta :) Gabarito: E
 abaixo para as entradas 100 e 20, respectivamente, é
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 inicio
 inteiro X, Y
@@ -10185,17 +8878,10 @@ kWu
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
 
 ~ 05152001900 - Everton Murilo
 Vieira /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 X0X-1,ou seja, X097;
 Y0Y + 2, ou seja, Y 0 26;
@@ -10241,16 +8927,8 @@ X = 83, Y = 54;
 X = 82, Y = 56;
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 X = 81,Y = 58;
 X = 80, Y = 60;
@@ -10281,16 +8959,8 @@ apresentado na forma de uma pseudolinguagem (Português Estruturado). Esse algor
 deverá ser utilizado para responder às questões.
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Inicio
 
@@ -10338,16 +9008,10 @@ x2 0 x1 + x3 = 5 + 3 = 8 (x1, x2, x3 = 5, 8, 3)
 x3 0 x1 - x2 = 5 - 8 = -3 (x1, x2, x3 = 5, 8, -3)
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Quando i = 2, temos que:
 
@@ -10384,16 +9048,10 @@ Repetir
 Atribuir X - 2 a X;
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Imprimir (X);
 Até que X < -1;
@@ -10432,14 +9090,8 @@ Portanto, a estrutura é executada até X = -3. Gabarito: B
 pseudocódigo, que mostra o emprego da estrutura de controle enquanto ... faça ...
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 atribuir 0 a n;
 enquanto n < 7 faça
@@ -10480,16 +9132,8 @@ se AUX <=2
 então atribuir 5 a FF
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 senão atribuir AUX*FF(AUX-1) a FF;
 fim; {fim da função FF}
@@ -10527,16 +9171,6 @@ AZUL tem o valor retornado por FF(4)
 AUX tem o valor 4 (passagem de parâmetro na chamada do programa principal)
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 VERDE RECEBE VERDE + 1, ou seja, VERDE RECEBE 1
 
 AUX <= 2? Ou ainda, 4 <= 2? Não! Bloco senão é executado
@@ -10567,16 +9201,10 @@ FF retorna 5
 /* Agora é hora de voltar nas chamadas recursivas, do último para o primeiro
 
 
-
-www.estrategiaconcursos.com.br
 X 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Isso lembra alguma coisa?? LIFO?? Pilhas! São utilizadas nas chamadas
 recursivas para voltar a execução na hierarquia das chamadas */
@@ -10606,16 +9234,10 @@ escreva ("Seu nome é:", nome)
 escreva ("Sua idade é:", idade)
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 se (nome = "João") então
 se (idade > 18) então
@@ -10645,15 +9267,9 @@ leia (tecla)
 escreva ("Tecla digitada: ")
 escreva (tecla)
 
-0 0 
+0 0
 ' 173
 
-www.estrategiaconcursos.com.br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 leia (nome)
 
@@ -10689,16 +9305,8 @@ leia (nome)
 num <— 0
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 se (nome = "José") então
 num <— (num + 1)
@@ -10735,15 +9343,9 @@ escreva (idade)
 
 fim algoritmo
 
-0 0 
+0 0
 ' 175
 
-www.estrategiaconcursos.com.br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -10781,16 +9383,8 @@ a) 162 e 110.
 b) 110 e 121.
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) 110e 162.
 
@@ -10826,16 +9420,10 @@ instruções do bloco da estrutura
 N2 recebe 32 + 6
 
 
-
-www.estrategiaconcursos.com.br
 X 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 N1 recebe 6*3
 
@@ -10868,16 +9456,10 @@ N1 é igual a 162
 N2 é igual a 110
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Teste: N1 < N2? Não (finalmente :D), visto que 162 não é menor que 110!! Desse
 modo, saímos
@@ -10919,16 +9501,10 @@ b) O número de constantes deve ser menor ou igual ao número de procedimentos e
 programa.
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) O número de constantes deve ser igual ao número de variáveis em um programa.
 
@@ -10941,16 +9517,10 @@ Comentários:
 Galera, não há essa relação! O número de constantes e variáveis são independentes. Gabarito: D
 
 
-
-www.estrategiaconcursos.com.br
 X 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - CESPE
 
@@ -10990,16 +9560,10 @@ e) consegue estar em vários estados ao mesmo tempo.
 Item. 6. (CESPE/CEBRASPE - 2022 - SEED-PR)
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 programa
 
@@ -11055,16 +9619,10 @@ e) O resultado da expressão (a == 3 || b > 10 || d == 8 ) é verdadeiro.
 Item. 8. (CESPE / CEBRASPE - 2021 - SEED-PR)
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 1. var
 
@@ -11130,16 +9688,6 @@ todo valor de num
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 a) maior que 2, escreve Y.
 
 b) menor que 2, escreve X.
@@ -11194,16 +9742,6 @@ e) 16.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 1. var
 
@@ -11266,12 +9804,6 @@ e) pelo teorema da identidade.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
 função avaliar( a, b )
 início
 
@@ -11319,12 +9851,6 @@ e) Verdadeiro
 17.(CESPE/CEBRASPE - 2021 - SEED-PR) Assinale a opção que apresenta o resultado do
 algoritmo apresentado.
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 programa {
 
@@ -11390,16 +9916,6 @@ programação estruturada.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 a) IF-THEN-ELSE
 
 b) CASE
@@ -11448,16 +9964,6 @@ Item. 21. (CESPE / CEBRASPE - 2019 - TJ-AM]
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 programa TROCA_VALORES
 var
@@ -11521,17 +10027,8 @@ document.write(b);
 }
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) 123456
 
@@ -11602,18 +10099,8 @@ passagem por
 valor, alteram-se os valores dos parâmetros que foram passados para a função.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 28. (CESPE/CEBRASPE - 2016 - TCE/PA) Em se tratando de linguagens
 procedimentais, os
@@ -11642,12 +10129,7 @@ repetições.
 4 e C = 8, o resultado que será computado para Área é igual a 32.
 
 
-
-
 www. estra tegiaconcursos. com. br
-
-
-
 
 
 Fim
@@ -11686,12 +10168,6 @@ desse tipo de estrutura por meio de estrutura de repetição pós-testada.
 a indireta
 necessitam de uma condição de saída ou de encerramento.
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo - CESPE
 
@@ -11770,16 +10246,10 @@ Item. 36. ERRADO
 Item. 37. CORRETO
 
 
-
-www.estrategiaconcursos.com.br
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - FCC
 
@@ -11826,16 +10296,10 @@ e) o Comando5 sempre será executado.
 Item. 2. (FCC - 2022 - DPE-RS) Considere o seguinte algoritmo em pseudocódigo:
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Algoritmo Valida
 
@@ -11888,16 +10352,6 @@ erros.
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 var varl=l, var2=2: inteiro
 funcaol()
@@ -11980,18 +10434,8 @@ d) 479.
 e) 482
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 6. (FCC - 2018 - SABESP) Antes de se escrever um programa em uma
 linguagem de
@@ -12068,16 +10512,10 @@ Valor da Tarifa
 acima de 50 7,89/m3
 
 
-
-www.estrategiaconcursos.com.br
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Foi solicitado a um estagiário propor a lógica de programação para a
 solução do seguinte
@@ -12121,16 +10559,6 @@ Considere o algoritmo em pseudocódigo abaixo.
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 var vl, v2, v3: inteiro
 início
 
@@ -12164,13 +10592,6 @@ e) 128
 
 1O.(FCC - 2017 - ARTESP) Considere o algoritmo em pseudocódigo abaixo.
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Var pedágio, tm: real
 categoria: inteiro
@@ -12228,16 +10649,10 @@ Item. 11. (FCC - 2017 - TRE-SP) Considere as duas funções, abaixo, escritas em
 implementam uma lógica.
 
 
-
-www.estrategiaconcursos.com.br
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 função fl (N: inteiro): real
 Início
@@ -12287,16 +10702,10 @@ Item. 12. (FCC - 2017 - TRE-SP) Considere a lógica do algoritmo, abaixo, expres
 pseudocódigo.
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Var
 
@@ -12387,16 +10796,10 @@ c) 27
 d) 81
 
 
-
-www.estrategiaconcursos.com.br
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) 128
 
@@ -12442,8 +10845,6 @@ e) 6
 1£.(FCC - 2016 - CREMESP) Considere o diagrama abaixo:
 
 
-
-www.estrategiaconcursos.com.br
 /' 244
 
 /
@@ -12469,18 +10870,8 @@ por 2.
 quociente da divisão inteira e MOD o resto da divisão inteira:
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Var taxa, cinco, tres, quociente, resto: inteiro
 Início
@@ -12538,17 +10929,6 @@ Item. 17. (FCC - 2015 - DPE-SP) Considere o algoritmo a seguir, na forma de pseu
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-
 Var n, i, j , k,
 Var v: vetor[0.
 
@@ -12601,16 +10981,10 @@ e) insere o valor de k entre v[x] e v[x+1 ] no vetor v.
 18.(FCC - 2015 - MANAUSPREV) Considere o fluxograma abaixo:
 
 
-
-www.estrategiaconcursos.com.br
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Se forem lidos para as variáveis A e B, respectivamente, os valores 4 e 4 será exibido o valor
 a) 47994.
@@ -12625,16 +10999,10 @@ d) 4372.
 algoritmo em pseudo-código abaixo.
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 tipo V= vetor [1..10] inteiro
 var i, k: inteiro
@@ -12722,16 +11090,10 @@ imprima("Insucesso"
 fim
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) diferentes estruturas de dados, de diferentes tipos básicos, que são encontrados em
 linguagens de programação procedurais.
@@ -12804,16 +11166,6 @@ Considere agora o seguinte trecho de código que invoca a função f definida ac
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 escreva a
 
 escreva f(a)
@@ -12867,18 +11219,8 @@ produz um resultado correto o comando de atribuição:
 a) X «— K = M
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) W <—X > Y
 
@@ -12940,18 +11282,8 @@ por valor, o valor real é passado e uma variável local é criada para armazen�
 processo sempre será efetuada a cópia dessa variável.
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 II. Pilha é uma estrutura de dados com acesso restrito aos seus elementos ordenados pelo
 princípio FIFO; a pilha pode ser usada na avaliação de expressões numéricas, na
@@ -13006,16 +11338,10 @@ d) chama uma outra função.
 e) pode chamar a si mesma.
 
 
-
-www.estrategiaconcursos.com.br
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo - FCC
 
@@ -13080,10 +11406,6 @@ Item. 29. LETRA E
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
 
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 LISTA DE QUESTõES - FGV
 
 Item. 1. (FGV - 2018 - Câmara de Salvador-BA) Expressões lógicas são frequentemente utilizadas
@@ -13143,16 +11465,10 @@ print a, b, c;
 Numa hipotética execução desse código, os valores exibidos seriam:
 
 
-
-www.estrategiaconcursos.com.br
 /' 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) 2,5,7;
 
@@ -13195,16 +11511,10 @@ elementos de um array e que L assume o tipo de um array de inteiros, indexados a
 de zero, analise o pseudocódigo a seguir.
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 L := {10,2,40,53,28,12};
 
@@ -13267,16 +11577,10 @@ x = x+1;
 };
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 De acordo com o pseudocódigo acima, assinale a opção que indica o número de vezes que o
 comando print é executado.
@@ -13339,17 +11643,8 @@ else
 Assinale a opção que indica o valor correto da expressão ff(12).
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) 12
 
@@ -13401,16 +11696,10 @@ e) 587
 Item. 9. (FGV - 2016 - SEE-PE) Analise o trecho de pseudocódigo a seguir.
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 function f(a as integer, b as integer, c as
 integer) as integer
@@ -13457,17 +11746,8 @@ e) 10, 8, 5 e 2.
 fornece ao usuário o valor do ingresso que deverá ser cobrado para a entrada no cinema
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Sim
 
@@ -13481,13 +11761,7 @@ Os parâmetros de entrada da função são sua IDADE e PROFISSÃO. A conversão 
 fluxograma em pseudolinguagem de programação é:
 
 
-
 www. estra tegiaconcursos. com. br
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 (A)
@@ -13568,12 +11842,6 @@ uma decisão
 a)
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 b)
 
 c)
@@ -13582,10 +11850,6 @@ e)
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo - FCV
 
@@ -13612,16 +11876,10 @@ Item. 10. LETRA A
 Item. 11. LETRA C
 
 
-
-
 ,
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA DE QUESTõES - MULTIBANCAS
 
@@ -13686,10 +11944,6 @@ observe o pseudocódigo abaixo, referente a um algoritmo que contém uma funçã
 *
 
 
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 algoritmo "PL_2022"
 var
 
@@ -13728,17 +11982,8 @@ d) 112358
 Item. 4. (UFV - 2022 - UFV-MG) Considere o algoritmo em pseudocódigo a seguir
 
 
-OO 
+OO
 
-www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 «— é o comando de atribuição
 
@@ -13786,16 +12031,10 @@ d) 110, 276, 6.
 Item. 5. (UFV - 2022 - UFV-MG) Considere o algoritmo em pseudocódigo a seguir
 
 
-
-www.estrategiaconcursos.com.br
 X 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 «— é o comando de atribuição
 
@@ -13870,14 +12109,10 @@ enquanto j > 0 e v[j-l] > v[j] faça
 i *— i + 1
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -13926,14 +12161,7 @@ mostradas,
 respectivamente, em
 
 
-
-
 05152001900 --Evertroton MurirlioloVieieiriara
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 A) falso
@@ -14120,20 +12348,11 @@ escreva (vetor[i]+ "\n")
 }
 
 
-00 
 www. estra tegiaconcursos. com. br
 
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 a) 81
 5i
-
 
 
 b) 81
@@ -14141,20 +12360,14 @@ b) 81
 5i
 
 
-
 c) 19
 5i
-
 
 
 d) 51
 
 
-
-
 e) 19
-
-
 
 
 5i
@@ -14166,16 +12379,8 @@ Item. 10. (IF/CE-2017-IF/CE-Técnico de Tecnologia da Informação) Observe a se
 programação.
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Inicio algoritmo
 var
@@ -14226,16 +12431,10 @@ diferenciado de
 instruções em mais ou menos tempo, espaço ou esforço do que outros.
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 V. Serve como modelo para programas, pois sua linguagem é intermediária à linguagem humana e às
 linguagens de programação, funcionando como uma boa ferramenta na validação da lógica de tarefas
@@ -14279,16 +12478,10 @@ d) Não é possível chamar a função fatorial dentro dela mesma.
 e) O resultado da função sempre retornará um valor elevado a ele mesmo (valorA valor).
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 13. (VUNESP -2015 -TCE/SP - Analista de Sistemas) Um usuário implementou uma rotina de um
 programa, denominada Fatorial, e passou para essa rotina um parâmetro com 0 va lor 6, mas deseja
@@ -14334,16 +12527,10 @@ a) 2
 b) 8
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) 56
 
@@ -14387,14 +12574,8 @@ c) 15
 d) 100
 
 
-
-
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) 150
 
@@ -14443,8 +12624,6 @@ d) 8
 e) 11
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
@@ -14491,16 +12670,8 @@ programa PPRRGG;
 variáveis
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 VERDE, AZUL: numérica;
 
@@ -14542,16 +12713,8 @@ Assinale a alternativa que apresenta apenas um tipo de estrutura de controle:
 a)...
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 escreva ("Digite seu nome: ")
 leia (nome)
@@ -14593,10 +12756,6 @@ escreva ("Pressione qualquertecla para
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
 
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 terminar...")
 leia (tecla)
 
@@ -14633,10 +12792,6 @@ nome: literal
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 num: inteiro
 inicio
@@ -14679,10 +12834,6 @@ escreva ("Seu nome é:")
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
 
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 escreva (nome)
 
 escreva ("Sua idade é:")
@@ -14723,16 +12874,8 @@ c) 110 e 162.
 d) 121e110.
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 e) 173 e110.
 
@@ -14768,16 +12911,8 @@ d) O número de constantes independe da quantidade de variáveis em um programa.
 e) O número de constantes deve ser igual ao número de procedimentos em um programa.
 
 
-00 
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo - MULTIBANCAS
 
@@ -14830,82 +12965,8 @@ Item. 23. LETRA E
 Item. 24. LETRA D
 
 
-
-www.estrategiaconcursos.com.br
 / 244
 
 /
 
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

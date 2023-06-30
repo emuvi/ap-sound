@@ -5,11 +5,6 @@ Capítulo. Engenharia de Computadores e Redes - IaaS - Infraestrutura com Servi�
 
 1) Computação em Nuvem
 
-SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-I
-
-
-André Castro
-
 
 Sumário
 
@@ -48,7 +43,6 @@ Nuvem Híbrido
 
 Arquiteturas de Cloud Computing
 
-1 3
 
 Infrastruture as a Service (laaS)
 
@@ -116,14 +110,6 @@ Computação em Nuvem
 Gabarito.
 
 
-
-
-
-
-
-André Castro
-
-
 Gabarito - Questões CESPE
 
 
@@ -134,12 +120,6 @@ Resumo
 
 
 Considerações Finais
-
-
-
-
-
-André Castro
 
 
 CLUSTER, GRID E BALANCEAMENTo DE CARCA
@@ -203,11 +183,6 @@ Algumas outras características que são muito importantes a respeito do Grid:
 dispositivos pessoais dos usuários que participam do Grid, mas sim os próprios donos;
 
 
-
-
-André Castro
-
-
 * As capacidades de processamento sâo diversificadas e heterogêneas. Pode-se ter
 computadores
 individuais de alta capacidade de processamento, bem como se pode ter
@@ -255,13 +230,6 @@ ou dispositivos sem que o serviço seja afetado.
 Podemos dividir a implementação do balanceamento de carga em duas categorias:
 
 
-
-
-
-
-André Castro
-
-
 * Balanceamento de carga por software: Consiste na instalação e configuração
 de um Software,
 podendo ser inclusive a nível de sistema operacional, em servidores que fazem parte de
@@ -287,13 +255,6 @@ figura a seguir, temos
 uma implementação de balanceamento de carga em software:
 
 
-
-
-
-
-André Castro
-
-
 Podemos verificar a utilização do IP virtual, algo semelhante ao VRRP. No caso em
 questão, não há a
 utilização de um balanceador de carga a nível de hardware, pois se utiliza o conceito
@@ -303,14 +264,9 @@ os servidores se comunicam para atender de forma alternada às requisições.
 Já na figura abaixo, temos a implementação de um balanceamento em hardware:
 
 
-
-www.estrategiaconcursos.com.br
 ,s"'
 
 /
-
-
-André Castro
 
 
 (CESPE - BACEN - Analista de Sistemas/2013) O usuário pode acessar, seus dados
@@ -372,9 +328,6 @@ e backups, entre
 muitas outras coisas.
 
 *
-
-
-André Castro
 
 
 HoSTING
@@ -439,10 +392,7 @@ pagamento sob demanda (Pay-per-use). Abaixo algumas características de um
 ambiente de nuvem de
 forma objetiva:
 
-Item. 0.0 
-
-
-André Castro
+Item. 0.0
 
 
 FIQUE
@@ -492,11 +442,6 @@ Eles podem ser
 divididos em 4 categorias: Nuvem Privada, Nuvem Pública, Nuvem Comunitária e Nuvem
 Híbrida. Vamos ver
 cada uma delas:
-
-
-
-
-André Castro
 
 
 NUVEM PRIVADA
@@ -567,9 +512,6 @@ B FPRESTE MAIS
 T ATENÇÃO!
 
 *
-
-
-André Castro
 
 
 Vamos ver novamente, a definição do NIST:
@@ -654,11 +596,6 @@ e :
 :
 
 
-
-
-André Castro
-
-
 Pessoal, é salutar conhecer o nome comercial
 mercado atualmente, tais como:
 
@@ -705,12 +642,7 @@ Dropbox
 
 Reparem que todos os serviços acima podem ser utilizados de forma gratuita ou
 
-0 0 
-
-
-
-
-André Castro
+0 0
 
 
 pago. Neste último caso, são fornecidos alguns recursos adicionais que permitem
@@ -769,11 +701,6 @@ aplicações hospedadas na
 nuvem. E disponibilizado um ambiente completo de desenvolvimento para o usuário como um sistema
 
 
-
-
-André Castro
-
-
 operacional, linguagens de programação e bancos de dados. Toda a estrutura para
 controle de versões e
 testes é fornecido na plataforma em tese.
@@ -823,13 +750,6 @@ da base de dados.
 Esse tipo de arquitetura de nuvem ainda é um pouco incipiente.
 
 Exemplo: SimpleBD e Amozon Relational Dotobose Service.
-
-
-
-
-
-
-André Castro
 
 
 FUNCTIoN AS A SERVICE (FAAS)
@@ -894,10 +814,7 @@ mercado e às necessidades dos clientes.
 
 \ tipos de serviços podem ser disponibilizados aos usuários. O serviço
 
-0-0 
-
-
-André Castro
+0-0
 
 
 que fornece uma infraestrutura de integração para implementar e testar aplicações elaboradas
@@ -950,11 +867,6 @@ de trabalho, ou ainda cargas de trabalho. Basicamente, trata-se do recurso que d
 trabalhado ou
 
 
-
-
-André Castro
-
-
 suportado pela nuvem. Na prática, será uma base de dados que precisará
 funcionar em backup, uma
 aplicação que precisará ser disponibilizada, um contêiner que precisa ser migrado, entre outros.
@@ -983,12 +895,7 @@ workloads abaixo, e seus comportamentos. Assim, temos, como base, os tipos a seg
 Vamos comentar um pouco sobre cada um deles e seus desdobramentos.
 
 
-
-
 dos
-
-
-André Castro
 
 
 Item. 1. Static Workload
@@ -1039,9 +946,6 @@ V ESCLARECENDO!
 
 
 ww. estrategiaconcursos. com.br
-
-
-André Castro
 
 
 Ou seja, percebemos, claramente, uma dinâmica periódica nesse exemplo. Podemos
@@ -1097,10 +1001,7 @@ de usuários passa a
 diminuir é que começa o processo de desprovisionamento, até retornar para a linhar de base
 original.
 
-0 0 
-
-
-André Castro
+0 0
 
 
 Item. 4. Unpredictable Workload
@@ -1129,11 +1030,6 @@ Item. 5. Continuously Changing Workload
 Por fim, o úlitmo tipo de workload, aquele referenciado sempre com "mudança contínua".
 Aqui, a ideia reside
 também em dois pontos básicos:
-
-
-
-
-André Castro
 
 
 TOME
@@ -1179,13 +1075,6 @@ Item. 1. Migração lift-and-shift
 Item. 2. Improve-and-move
 
 Item. 3. Remover e substituir (às vezes chamado de rip-and-replace)
-
-
-
-
-
-
-André Castro
 
 
 Nas seções a seguir, cada tipo de migração é definido com exemplos de quando usar cada tipo.
@@ -1267,13 +1156,6 @@ avaliar o tempo e o esforço
 extra como parte do ciclo de vida do aplicativo.
 
 
-
-
-
-
-André Castro
-
-
 Uma migração improve-and-move também exige que as equipes dominem os
 conhecimentos dos novos
 produtos e tecnologias a serem utilizadas.
@@ -1346,13 +1228,6 @@ chaves e
 o mero conhecimento de inglês ajudaria, pois vejam que o enunciado destaca o modo de
 
 
-
-
-
-
-André Castro
-
-
 modernização durante a migração de modo a aprimorar o desempenho. Ou seja, temos aí um
 improve-and-move.
 
@@ -1400,11 +1275,6 @@ termos e as chamadas
 técnicas que podem ser referenciadas pelas bancas nos seus termos originais. E a
 segunda, caso tenha
 dificuldade na tradução, em português para entender as características básicas dos serviços.
-
-
-
-
-André Castro
 
 
 Item. 1. AWS
@@ -1458,11 +1328,6 @@ em destaque
 apresentados.
 
 
-
-
-André Castro
-
-
 QUESTõES CoMENTADAS
 
 CLUSTER E GRID
@@ -1503,13 +1368,6 @@ cooperativamente como um recurso unificado. Nos clusters, cada nó tem seu geren
 Os nós em clusters são autônomos e não o são nos GRIDs.
 
 Comentários:
-
-
-
-
-
-
-André Castro
 
 
 Falou em GRID, temos uma gerência descentralizada. Além disso, o recurso não é
@@ -1556,13 +1414,6 @@ diversos hardwares como
 um único dispositivo lógico, sendo infactível a utilização de SO's distintos.
 
 Gabarito: E
-
-
-
-
-
-
-André Castro
 
 
 CoMPUTAçÃo EM NUVEM
@@ -1631,12 +1482,7 @@ recursos, com geração de relatórios e medições online. Tal princípio busca
 
 MENSURADOS transparência ao cliente
 
-0-0 
-
-
-
-
-André Castro
+0-0
 
 
 Gabarito: C
@@ -1694,11 +1540,6 @@ cada usuário acesse
 recursos de forma compartilhada sob a ótica de uma arquitetura SaaS".
 
 
-
-
-André Castro
-
-
 Logo, o item está incorreto por dizer que é exclusiva!
 
 Ainda que não soubéssemos o que é isso, convenhamos que é estranho dizer que o
@@ -1749,13 +1590,6 @@ principais suítes de soluções para tal.
 Gabarito: E
 
 
-
-
-
-
-André Castro
-
-
 Item. 15. (CESPE- SUFRAMA - Analista de Sistemas/2014) O modelo de implantação de
 computação em
 nuvem do tipo híbrido é executado por terceiros. Nesse modelo, as aplicações dos usuários ficam
@@ -1799,10 +1633,7 @@ trocou o perfil híbrido por restrito.
 
 Gabarito: E
 
-0 0 
-
-
-André Castro
+0 0
 
 
 Item. 18. (CESPE - ANATEL - Analista de Sistemas/2013) A DaaS (Database as a Service), uma
@@ -1855,11 +1686,6 @@ caso
 danos aos computadores.
 
 
-
-
-André Castro
-
-
 Comentários;
 
 Conforme vimos em aula, esse é um dos benefícios do Cloud Computing. Vale lembrar que
@@ -1908,11 +1734,6 @@ sistema
 operacional utilizados.
 
 Comentários:
-
-
-
-
-André Castro
 
 
 Essas características estão presentes no laaS e não no PaaS. O PaaS já assume uma configuração de
@@ -1972,13 +1793,6 @@ Comentários:
 Vamos aos itens:
 
 
-
-
-
-
-André Castro
-
-
 a) Temos aqui a descrição do laaS. INCORRETO
 
 b) Mais uma vez a descrição do laaS. INCORRETO
@@ -2029,11 +1843,6 @@ permitem a computação em nuvem.
 Comentários:
 
 
-
-
-André Castro
-
-
 Temos uma questão extremamente nova, com um alto grau de dificuldade que com certeza
 pegou a maioria
 dos candidatos. Para quem nunca leu a respeito, não havia alternativa a não ser
@@ -2057,13 +1866,6 @@ distintas,
 processando diversos blocos de informações.
 
 Gabarito: C
-
-
-
-
-
-
-André Castro
 
 
 QUESTõES CoMENTADAS CoMPLEMENTARES
@@ -2114,12 +1916,7 @@ III. O usuário tem um melhor controle de gastos ao usar aplicativos, pois a mai
 computação em nuvem fornecem aplicações gratuitamente e, quando cobrado, o usuário paga somente
 pelo tempo de utilização dos recursos.
 
-0 0 
-
-
-
-
-André Castro
+0 0
 
 
 IV. A Computação em nuvem é uma tendência integrante da Web 2.0 de se levar todo tipo de dados de
@@ -2175,11 +1972,6 @@ PaaS.
 Gabarito: D
 
 
-
-
-André Castro
-
-
 Item. 4. (FCC - CNMP/Analista de Suporte/2015) A computação em nuvem distribui os recursos
 na forma
 de serviços. Esses serviços, por sua vez, podem ser
@@ -2220,12 +2012,7 @@ interessante reparar que laaS distintos podem servir como base para um mesmo sis
 
 Gabarito: B
 
-O. 
-
-
-
-
-André Castro
+O.
 
 
 Item. 5. (FCC - INFRAERO - Analista de redes e comunicação de dados/2011) Em cloud
@@ -2283,11 +2070,6 @@ Comentários:
 Temos aí a principal característica da computação em nuvem do tipo laaS:
 manipulação a nível de
 hardware, rede, entre outros elementos característicos de uma infraestrutura de rede e datacenters.
-
-
-
-
-André Castro
 
 
 Alguns conceitos mais modernos trazem o PaaS restrito a uma plataforma específica,
@@ -2351,11 +2133,6 @@ Gabarito: C
 (Pós-Edital) 43
 
 
-
-
-André Castro
-
-
 Item. 8. (FCC - TJ TRT15/Apoio Especializado/Tecnologia da lnformação/2015) Os serviços de
 edição de
 texto online, como o do Google Does, são serviços disponibilizados na internet por
@@ -2379,11 +2156,6 @@ Comentário;
 Temos aí o exemplo clássico de aplicação do tipo SaaS.
 
 Gabarito: E
-
-
-
-
-André Castro
 
 
 Item. 1. (CESPE - ANTT/Analista Administrativo/2013) A computação em grade difere da
@@ -2419,11 +2191,6 @@ simular a
 existência de diversos computadores utilizando-se de um único hardware, o que torna
 factível a
 execução de sistemas operacionais diferentes.
-
-
-
-
-André Castro
 
 
 CoMPUTAçÃo EM NUVEM
@@ -2476,10 +2243,7 @@ provedores de serviço oferecem banco de dados e servidores de aplicação. No
 caso de
 ferramentas de desenvolvimento, o único modelo funcional é o de software como serviço (SaaS).
 
-0 0 
-
-
-André Castro
+0 0
 
 
 Item. 15. (CESPE- SUFRAMA - Analista de Sistemas/2014) O modelo de implantação de computação
@@ -2528,10 +2292,7 @@ computing permite a utilização de diversas aplicações por meio da Internet,
 com a mesma
 facilidade obtida com a instalação dessas aplicações em computadores pessoais.
 
-0 0 
-
-
-André Castro
+0 0
 
 
 Item. 23. (CESPE - Policia Federal/Perito Criminal Federal/2013) O GAE (Google App Engine)
@@ -2590,11 +2351,6 @@ operacional
 utilizado pela nuvem.
 
 
-
-
-André Castro
-
-
 28.(CESPE - TJDFT/Analista Judiciário - Suporte em TI/2015) A possibilidade de
 monitorar e
 controlar os recursos utilizados na computação na nuvem proporciona maior transparência
@@ -2608,11 +2364,6 @@ permitem a computação em nuvem.
 Item. 30. (CESPE - FUNPRESP/ Área 8/2016) A computação em nuvem permite o processamento de
 dados
 de maneira distribuída em máquinas com diferentes arquiteturas físicas.
-
-
-
-
-André Castro
 
 
 LISTA DE QUESTõES CoMPLEMENTARES
@@ -2660,13 +2411,6 @@ usuários a servidores online, tornando desnecessário o uso de dispositivos de 
 É correto o que consta em
 
 
-
-
-
-
-André Castro
-
-
 a) I, II e III, apenas.
 
 b) I, III e IV, apenas.
@@ -2711,11 +2455,6 @@ A figura apresenta um exemplo da relação entre os cenários de uma arquitetura
 dois
 
 I são usados para
-
-
-
-
-André Castro
 
 
 a construção de umII, que, por sua vez, é utilizado para a implementação de duas aplicações
@@ -2774,13 +2513,6 @@ d) SaaS.
 e) PaaS.
 
 
-
-
-
-
-André Castro
-
-
 Item. 7. (FCC - AJ TRT15/Apoio Especializado/Tecnologia da lnformaçâo/2013)
 Luiza trabalha no
 Tribunal Regional do Trabalho da 15a Região e suas responsabilidades incluem assegurar
@@ -2837,11 +2569,6 @@ c) CaaS Communication as a Service.
 d) DBaas - Data Base as a Service.
 
 e) SaaS - Software as a Service.
-
-
-
-
-André Castro
 
 
 GABARITO
@@ -2906,11 +2633,6 @@ GABARITo - QUESTõES FCC
 7 C
 
 
-
-
-André Castro
-
-
 RESUMo
 
 ■ Cluster, Grid e Balanceamento de Carga
@@ -2937,13 +2659,6 @@ de Datacenter para os clientes. Ele contempla ainda critérios de segurança fí
 
 o Hosting - O serviço de hosting está muito mais voltado para o conceito de hospedagem em termos
 de serviço.
-
-
-
-
-
-
-André Castro
 
 
 r
@@ -2991,9 +2706,6 @@ Unpredictable Workload ou Carga de Trabalho Imprevisível
 ww. estrategiaconcursos. com.br
 
 
-André Castro
-
-
 o Serverless - Trata-se de um conceito atualmente utilizado e muito explorado por
 startups e pequenas
 empresas, que geralmente não possuem equipes de tecnologia suficientes para
@@ -3021,78 +2733,4 @@ Prof. André Castro.
 
 @ProfAndreCastro t.me/ProfessorAndreCastro
 
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

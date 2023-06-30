@@ -3,14 +3,6 @@ Capítulo. Desenvolvimento de Informação - Visão computacional. Deep learning
 
 Índice
 
-....................................................................................................
-......................................................................................... 3
-
-
-
-
-
-
 
 Visão computacional
 
@@ -37,11 +29,6 @@ Redes Perceptron multicamadas recorrentes.
 Máquinas de Boltzmann
 
 Deep belief networks.
-
-
-
-
-
 
 
 VISÃo CoMPUTACIoNAL.
@@ -89,11 +76,6 @@ fotografias de
 outras margaridas usadas para reconhecer o padrão estético da flor.
 
 
-
-
-
-
-
 Figura 2 - Um modelo de aprendizado de máquina de classificação de imagens imito o sistema
 cognitivo humano.
 
@@ -132,11 +114,6 @@ de acordo com técnicas e problemas, veja a figura abaixo:
 1 Denoising é qualquer método de processamento de sinal que reconstrói um sinal de
 um sinal ruidoso.
 Seu objetivo é remover o ruído e preservar informações úteis.
-
-
-
-
-
 
 
 Artificial intelligence
@@ -182,11 +159,6 @@ margarida. Da
 mesma forma, projetaríamos e aplicaríamos diferentes conjuntos de regras para
 rosas, tulipas,
 girassóis e assim pordiante. Para classificar uma nova imagem.
-
-
-
-
-
 
 
 Esta descrição ilustra o considerável trabalho sob medida que foi necessário para criar
@@ -271,11 +243,6 @@ em fiscalizações
 alfandegárias e de segurança. Na área da saúde, tem sido usado para identificar doenças oculares
 
 
-
-
-
-
-
 e encontrar sinais precoces de câncer em mamografias. Na agricultura, tem
 sido usado para
 detectar bombas de irrigação que não funcionam bem, avaliar a produtividade
@@ -356,11 +323,6 @@ imagem da pessoa pode ser de frente ou de perfil.
 Etapa 2: Análise do rosto
 
 
-
-
-
-
-
 Depois, uma imagem do rosto é capturada e analisada. A maioria das
 tecnologias de
 reconhecimento facial conta com imagens 2D em vez de 3D, porque é mais conveniente
@@ -432,11 +394,6 @@ para que não
 possam sercorrigidas pela média ponderada dos valores RGB de pixel.
 
 
-
-
-
-
-
 Na figura acima temos à esquerda os gatos podem ser capturados em uma
 foto em uma
 variedade de poses, com diferentes cenários e condições de iluminação. Já a
@@ -474,11 +431,6 @@ objeto eles constituem.
 Conv. Module #1 Conv. Module #2 Classification
 
 Input
-
-
-
-
-
 
 
 No final de uma rede neural convolucional (RNC) há uma ou mais camadas totalmente
@@ -547,12 +499,7 @@ conjunto de
 tarefas desafiadoras de visão computacional.
 
 
-
-
 no
-
-
-
 
 
 Figura 4 - Visão geral das tarefas de visão computacional para reconhecimento de objetos
@@ -589,11 +536,6 @@ entre os termos
 inteligência artificial, aprendizado de máquina, aprendizagem profunda e redes neurais
 
 
-
-
-
-
-
 profundas. A figura abaixo demonstra que um redes neurais profundas é um
 subconjunto das
 soluções de DL. Vejamos:
@@ -623,12 +565,6 @@ indicação de que tipo de objeto está na imagem
 2 Os tamanhos das diferentes formas ovais não representam o tamanho
 relativo de um campo em
 comparação com outro.
-
-
-
-
-
-
 
 
 I am a student
@@ -709,11 +645,6 @@ aplicamos função
 nenhuma; simplesmente passamos a soma ponderada adiante. No caso de regressão logística,
 
 
-
-
-
-
-
 aplicamos à soma ponderada uma função sigmoide (ou logística), que transforma o sinal
 de forma
 que possamos interpretá-lo como uma probabilidade. Esses dois exemplos de
@@ -767,11 +698,6 @@ têm sido
 usados no reconhecimento de imagens desde a década de 1980. Nos últimos anos, graças
 ao
 aumento do poder computacional, à quantidade de dados de treinamento disponíveis e a alguns
-
-
-
-
-
 
 
 truques feitos para treinar redes profundas, as CNNs conseguiram atingir um desempenho
@@ -840,11 +766,6 @@ todos os pontos por uma
 distância fixa na mesma direção em um sistema de coordenadas.
 
 
-
-
-
-
-
 compartilhamento de peso entre os neurônios, além de torná-los escassamente
 conectados.
 Esses conceitos são descritos a seguir.
@@ -876,11 +797,6 @@ Conforme
 ilustra a figura a seguir, uma camada convolucional para processamento de
 imagem tem uma
 topologia diferente, onde os neurônios são organizados em três dimensões.
-
-
-
-
-
 
 
 4 ►
@@ -932,11 +848,6 @@ com um tamanho de kernel de 3 x 3 agora terá 3 x 3 x 3 = 27 entradas.
 A figura abaixo ilustra três exemplos de como o campo receptivo de três neurônios
 distintos pode
 ser organizado para cobrir um subconjunto de pixels de uma imagem com três canais de cores.
-
-
-
-
-
 
 
 2x2 kernel, stride = 1
@@ -1012,11 +923,6 @@ seria muito
 limitante. Para classificar diferentes tipos de objetos, a rede também precisa ser capaz de
 
 
-
-
-
-
-
 identificar linhas horizontais, linhas diagonais e talvez manchas coloridas ou
 outros blocos de
 construção primitivos. Isso é resolvido organizando a camada convolucional em
@@ -1076,11 +982,6 @@ todos os
 canais de saída juntos formam uma única camada convolucional. Cada camada
 convolucional
 recebe entradas de vários canais de entrada e produz vários canais de saída. Todos os canais em
-
-
-
-
-
 
 
 uma única camada convolucional têm o mesmo número de neurônios e todos os neurônios
@@ -1158,11 +1059,6 @@ cada
 observação no tempo tiver muitas variáveis, defasá-las gerará um vetor x tão grande
 que talvez
 não caiba na memória!
-
-
-
-
-
 
 
 Não seria ótimo então um modelo que pudesse operarem sequências independentemente do seu
@@ -1248,11 +1144,6 @@ many, lemos
 os dados uma única vez para o estado oculto e então passamos esse estado oculto adiante por
 
 
-
-
-
-
-
 vários períodos, nos quais também lemos informações contidas nele. Um exemplo
 de aplicação
 desse tipo é quando queremos criar um modelo para descrever imagens (image-captioning).
@@ -1321,11 +1212,6 @@ neurônios não
 estão ligados a si mesmos.
 
 
-
-
-
-
-
 Como a saída dos neurônios está ligada à entrada de todos os outros, elas são aqui
 chamadas de
 estados. Esses estados seguem a lógica booleana. A saída dos estados é dada
@@ -1343,11 +1229,6 @@ problema. Esse
 problema pode ser modelado como um problema de otimização, que busca minimizar a
 função de
 energia de uma rede baseada em um modelo de contorno ativo.
-
-
-
-
-
 
 
 Uma aplicação importante para esse tipo de problema é a caracterização de tumores
@@ -1385,11 +1266,6 @@ usada em diversos cenários de Processamento de Linguagem Natural. Nos últimos
 anos, tem
 
 4 Para saber mais acesse: fonte: http://dlia.ir/Scientific/IEEE/iell/42/11977/00552055.pdf
-
-
-
-
-
 
 
 havido um incrível sucesso ao aplicar as RNNs a uma variedade de problemas:
@@ -1438,11 +1314,6 @@ Forget Gate: As informações que não são mais úteis no estado da célula sã
 com o
 forget gate. Duas entradas: xt (entrada no momento específico) e ht-i (saída de célula anterior)
 são
-
-
-
-
-
 
 
 alimentadas ao gate e multiplicadas por matrizes de peso, seguidas pela
@@ -1507,11 +1378,6 @@ Algumas das famosas aplicações das LSTMs incluem:
 * Chatbots
 
 
-
-
-
-
-
 REDES PERCEPTRoN MULTICAMADAS RECoRRENTES.
 
 
@@ -1552,11 +1418,6 @@ disparador do
 operador XOR quando a entrada exibe uma característica ou outra, mas não ambas,
 significa "OR
 exclusivo").
-
-
-
-
-
 
 
 Um Multilayer Perceptron (MLP) é uma rede neural artificial composta por mais
@@ -1607,11 +1468,6 @@ continua jogando aquele jogo de ping-pong até que o erro não possa mais ser re
 mínimo possível). Este estado é conhecido como convergência.
 
 
-
-
-
-
-
 MÁQUINAS DE BoLTZMANN.
 
 Uma Máquina de Boltzmann é um tipo de rede neural recorrente estocástica. Pode ser
@@ -1653,11 +1509,6 @@ mais paralelas.
 Isso é chamado de Deep Boltzmann Machines (DBM), uma Máquina de Boltzmann geral, mas
 com
 muitas conexões ausentes.
-
-
-
-
-
 
 
 Em 2014, Salakhutdinov e Hinton apresentaram outra atualização para seu modelo,
@@ -1730,11 +1581,6 @@ camadas
 anterior e posterior. Os nós de qualquer camada única não se comunicam lateralmente.
 
 
-
-
-
-
-
 Esta pilha de RBMs pode terminar com uma camada Softmax para criar um
 classificador, ou
 simplesmente pode ajudar a agrupar dados não gravados em um cenário de
@@ -1755,78 +1601,4 @@ vídeos e dados de captura de movimento. Outra aplicação das Deep Belief
 Networks é no
 Processamento de Linguagem Natural.
 
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

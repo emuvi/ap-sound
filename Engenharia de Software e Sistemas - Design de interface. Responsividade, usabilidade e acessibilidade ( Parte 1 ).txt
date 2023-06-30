@@ -1,25 +1,5 @@
 Capítulo. Engenharia de Software e Sistemas - Design de interface. Responsividade, usabilidade e acessibilidade ( Parte 1 ).
 
-Concursos
-
-(Profs. Diego
-Carvalho e Fernando
-
-Pedrosa)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Engenharia de software -
-
-2023 (Pós-Edital)
-
-Autor:
-
-Diego Carvalho
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Índice
 
@@ -50,8 +30,6 @@ Diego Carvalho
 13) Lista de Questões - Engenharia de Usabilidade - FGV
 
 14) Lista de Questões - Engenharia de Usabilidade - Diversas.
-
-
 
 
 ENGENHARIA DE USABILIDADE
@@ -122,8 +100,6 @@ quem
 são usuários finais e do envolvimento de usuários nos requisitos, no design de interface do
 
 
-
-
 usuário e nos esforços de testes, incluindo subcategorias: fatores humanos, estética,
 consistência
 na interface do usuário, ajuda online e contextuai, assistentes e agentes,
@@ -185,13 +161,6 @@ melhorada, custos de treinamento reduzidos, custos de documentação reduzidos, 
 reduzida de litígio por clientes insatisfeitos".
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 LEARNABILITY
 (FACILIDADE DE
 APRENDIZADO)
@@ -251,8 +220,6 @@ de
 como seu produto ficará parecido visualmente e como o sistema vai reagir às entradas do usuário.
 
 
-
-
 Não importa como você obtém seus requisitos, você deve se certificar de
 avaliar os seguintes
 pontos abaixo para garantir que você tenha todas as opções cobertas. Vejamos:
@@ -299,8 +266,6 @@ algum trabalho
 de engenharia de usabilidade realizado no sistema, em vez de se concentrar demais nos
 métodos
 de usabilidade para alcançar o - talvez inalcançável - "ótimo" em questão. Lembrem-se que
-
-
 
 
 frequentemente projetos mais bem desenhados também são mais caros. Essa introdução toda
@@ -397,10 +362,6 @@ do mundo real, tornando as informações que aparecem em uma ordem natural e
 lógica.
 
 
-
-
-
-
 Os usuários não precisam adivinhar que diferentes palavras, situações ou ações
 significam a mesma coisa. Siga as convenções da plataforma e mantenha a
 previsibilidade do sistema.
@@ -463,8 +424,6 @@ testes
 e avaliações. Deve-se observar usuários interagindo com o sistema e responder
 uma série de
 questões, entre elas: O sistema é usável sem ajuda ou instrução contínua? As regras de interação
-
-
 
 
 ajudam um usuário bem informado sobre como o sistema funciona eficientemente? A
@@ -530,8 +489,6 @@ fatores aqui podem ser treinamento, alta frequência de uso ou alta motivação
 emprego). Algumas dessas questões e seus efeitos no design da interface de usuário são
 mostrados
 na tabela a seguir:
-
-
 
 
 BAIXA ALTA
@@ -634,8 +591,6 @@ garantir que as
 experiências dos usuários finais sejam as melhores possíveis.
 
 
-
-
 E como garantir que todos esses usuários tenham uma excelente experiência com os seus
 designs?
 
@@ -703,14 +658,6 @@ Por exemplo: o botão de volume mostra barras mais longas conforme o volume aume
 barras mais curtas conforme o volume diminui. Apesar de parecer óbvio, o mapeamento
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 requer bastante atenção e testes com usuários reais. Uma maneira interessante de saber
 se
 o mapeamento está correto é observar o design de um controle e pensar na expectativa
@@ -754,10 +701,6 @@ aumenta a
 coerência entretelas; porque reduz otempo de desenvolvimento; e porque melhora a
 qualidade da
 interface. Entendido?
-
-
-
-
 
 
 Guias de Estilo de Usabilidade
@@ -805,8 +748,6 @@ padrões de
 comportamento da interface; elementos de interação; mensagens; dispositivos de
 interface de
 hardware; e padrões específicos.
-
-
 
 
 Usabilidade Para Aplicativos em Dispositivos Móveis
@@ -876,8 +817,6 @@ implica dizer
 que, mais uma vez, o design do sistema deve estar organizado da melhor forma possível
 para que
 o usuário não seja obrigado a dedicar muito esforço em cada tarefa, considerando as limitações já
-
-
 
 
 citadas. Já a satisfação do usuário deve ser conseguida bem mais rapidamente em um
@@ -953,19 +892,9 @@ específico
 para cada plataforma, o qual segue cada respectivo padrão de interface e de forma de uso.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Isso faz com que sejam agregados mais recursos e o usuário aprenda a usar o sistema
 mais
 rapidamente, elevando a usabilidade e consequentemente as suas vendas.
-
-
-
-
 
 
 Folhas de Estilo
@@ -1014,8 +943,6 @@ entenda as várias maneiras pelas quais o resultado pode parecer diferente do qu
 Se a usabilidade é a capacidade que um sistema oferece ao usuário de realizar
 tarefas, é claro que
 as folhas de estilo -que cuidam da apresentação de uma página -tem influência em sua usabilidade.
-
-
 
 
 e-PWG: Cartilha de Usabilidade do Governo Eletrônico
@@ -1085,8 +1012,6 @@ técnico
 utilizado em usabilidade para referir-se a cada pessoa que utiliza o objeto em questão
 por meio de
 uma interface. No caso, temos o cidadão como usuário e o objeto são as páginas, informações
-
-
 
 
 e serviços disponibilizados eletronicamente pelo governo federal. A interface é o meio
@@ -1161,8 +1086,6 @@ têm como
 foco de atenção o usuário (cidadão) e, muitas vezes, se sobrepõe como áreas de saber.
 No
 entanto, acessibilidade trata do acesso a locais, produtos, serviços ou informações efetivamente
-
-
 
 
 disponíveis ao maior número e variedade possível de pessoas independente de suas
@@ -1240,10 +1163,6 @@ um serviço
 e teremos a certeza de que ele escolherá a web como seu canal de comunicação com o governo.
 
 
-
-
-
-
 Vamos ver agora algumas diretrizes recomendadas para desenvolvimento
 de sítios. Diretrizes
 devem ser tomadas como ponto de partida no desenvolvimento e teste de
@@ -1319,8 +1238,6 @@ Item. 1.14 Formulários amigáveis.
 ■ Diretriz 2 - Carga de Informação
 
 
-
-
 A carga de informação é a soma de todos os elementos da
 interface: textos, links, ícones,
 funcionalidades, cores, etc. Até o menor elemento decorativo adiciona carga de
@@ -1393,8 +1310,6 @@ Item. 1.31 Permitir a cópia de trechos de documentos.
 Item. 1.32 Quando possível, oferecer a personalização da página.
 
 ■ Diretriz 4-Erros
-
-
 
 
 Errar é humano. O cidadão pode não entender como proceder em determinado
@@ -1473,8 +1388,6 @@ Item. 1.50 Esquema consistente de cores e fontes.
 Item. 1.51 Respeitar a velocidade de conexão do público-alvo.
 
 
-
-
 Item. 1.52 Utilizar de forma consciente plug-ins e multimídia.
 
 ■ Diretriz 6-Redação
@@ -1545,8 +1458,6 @@ sobre métodos de
 investigação; sobre os tipos de testes possíveis no ciclo de desenvolvimento;
 o processo de teste de
 usabiIidade; protótipos; custos de avaliação de usabilidade; entre outros, recomendo ler a cartilha
-
-
 
 
 de usabilidade do governo eletrônico com maior profundidade. Vamos falar um
@@ -1623,13 +1534,6 @@ e descobrir como determinadas tarefas são realizadas. Através da análise das
 verbalizações dos participantes, o pesquisador pode obter um melhor entendimento das
 questões de usabilidade associadas com a interface - geralmente os participantes são
 amigos ou, no mínimo, conhecidos.
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 DIÁRIOS DE INCIDENTES
@@ -1715,14 +1619,6 @@ possível. A maioria dos questionários é classificada como fechado (uma opçã
 alternativas) ou aberto (não tem alternativas).
 
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 REGISTRO DE
 CONVERSAÇÕES
 
@@ -1798,14 +1694,6 @@ especialista a partir de um determinado padrão previamente escolhido, tal como:
 foi preconizado pelo padrão escolhido anteriormente.
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 RESUMo
 
 USABILIDADE
@@ -1877,14 +1765,6 @@ DESCRIÇÃO
 Trata-se da observação de usuários utilizando o sistema para descobrir nível de
 utilização, desentendimentos, entre outros.
 
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 CENÁRIOS DE USO Trata-se de uma espécie de prototipação para obterfeedback sobre a usabilidade
 do sistema.
@@ -1988,14 +1868,6 @@ Mesmo que seja melhor que um sistema possa ser usado sem documentação,
 pode ser necessário fornecer uma ajuda e documentação. Qualquer informação
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 deve serfácil de ser pesquisada, com foco na atividade do usuário, lista de
 concretos a serem realizados, e não ser muito grande.
 
@@ -2072,14 +1944,6 @@ RECOMENDAÇÕES DE AUTONOMIA
 
 Item. 1.24 Mantenha a função do botão de retrocesso (back/voltar) do navegador.
 
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Item. 1.25 Não crie páginas que abram e funcionem em tela cheia.
 
@@ -2162,13 +2026,6 @@ Item. 1.60 Use ênfase e negrito.
 Item. 1.61 Evitar o uso de caixa alta.
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 Item. 1.62 Usar convenções.
 
 RECOMENDAÇÕES DE CONSISTÊNCIA E FAMILIARIADADE
@@ -2247,15 +2104,6 @@ de observações controladas; realizadas em uma situação artificial; através 
 manipulação deliberadas de algumas variáveis; e com o objetivo de testar uma ou
 mais hipóteses específicas. É uma avaliação formalmente projetada através de
 controles e balanços muito bem ajustados.
-
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 
 LISTAS DE VERIFICAÇÃO
@@ -2343,15 +2191,6 @@ necessários para completar a mesma. Logo, quanto menos passos, mais simples é
 a tarefa. O método de análise da tarefa pode ser utilizado para o desenvolvimento
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 AVALIAÇÃO HEURÍSTICA
 
 AVALIAÇÃO DE PERITOS
@@ -2400,14 +2239,6 @@ conformidade com o que foi preconizado pelo padrão escolhido anteriormente.
 
 D PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADoS - CESPE
 
@@ -2470,8 +2301,6 @@ c) feedback (retorno).
 d) visibilidade.
 
 e) mapeamento.
-
-
 
 
 Comentários:
@@ -2537,8 +2366,6 @@ critérios. Recomenda-
 se projetar bem a interface com o usuário para reduzir a carga de memória do usuário.
 
 Gabarito: Correto
-
-
 
 
 Item. 6. (CESPE / TCU - 2005) A variabilidade do tempo de resposta
@@ -2611,8 +2438,6 @@ como de boa
 acessibilidade.
 
 
-
-
 Comentários:
 
 Seguir as normas de sintaxe de linguagem de programação não credencia página
@@ -2660,10 +2485,6 @@ de usabilidade durante
 a fase de desenvolvimento.
 
 Gabarito: Correto
-
-
-
-
 
 
 io.(CESPE / CNJ - 2013) A usabilidade consiste em extrair informações a
@@ -2723,10 +2544,6 @@ financeiro que ela pode
 proporcionar.
 
 Comentários:
-
-
-
-
 
 
 A usabilidade evita perdas e proporciona Return On Investment (ROI),
@@ -2797,8 +2614,6 @@ acordo com princípios reconhecidos de usabilidade.
 Gabarito: Correto
 
 
-
-
 i6.(CESPE/ SERPRO-2008) De acordo com Jakob Nielsen, um dos cinco atributos da usabilidade
 é a facilidade com que o sistema é lembrado.
 
@@ -2848,10 +2663,6 @@ pode ter níveis
 significativamente diferentes de usabilidade quando usado em diferentes contextos.
 
 Comentários:
-
-
-
-
 
 
 A Norma ISO/IEC 9241-11 define usabiIidade como medida na qual um produto pode ser
@@ -2915,8 +2726,6 @@ sistema.
 Comentários:
 
 
-
-
 Nunca entendi por que essa questão está errada! O máximo que eu consigo elucubrar é
 que a
 facilidade de uso é uma das funções mais importantes da interface do usuário e, não,
@@ -2971,8 +2780,6 @@ estão entre os
 benefícios mensuráveis que podem ser obtidos de um sistema usável.
 
 Gabarito: Correto
-
-
 
 
 Item. 25. (CESPE / TCU - 2010) Identificar categorias e definir os objetivos de teste para
@@ -3033,8 +2840,6 @@ usabilidade é a que permite o conhecimento do usuário ao qual o software se de
 Comentários:
 
 
-
-
 ANÁLISE DO PERFIL
 
 DO USUÁRIO
@@ -3072,10 +2877,6 @@ para conhecer
 melhor o usuário ao qual o software se destina.
 
 Gabarito: Correto
-
-
-
-
 
 
 QUESTõES CoMENTADoS - FCC
@@ -3164,10 +2965,6 @@ d) intuitividade.
 e) erro.
 
 
-
-
-
-
 Comentários:
 
 Também conhecida como Intuitividade, o sistema deve serde fácil aprendizado e
@@ -3237,15 +3034,6 @@ algum
 resultado satisfatório. Trata-se do atributo mais importante de acordo com Jakob Nielsen.
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
 EFFICIENCY
 (EFICIÊNCIA)
 
@@ -3313,8 +3101,6 @@ RECOMENDAÇÕES DE DESENHO
 Item. 1.40 Utilizar um projeto padrão de páginas (Letra E).
 
 Item. 1.41 Agrupar e hierarquizar, de forma clara, as áreas de informação (Letra D).
-
-
 
 
 Item. 1.42 Usar espaço em branco para separar conteúdos ou assuntos diferentes (Letra C).
@@ -3387,14 +3173,6 @@ Desenho
 Redação
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Autonomia (Letra C)
 
 Não existe a diretriz Documentação. E, mesmo que você não soubesse disso, não faz
@@ -3437,12 +3215,6 @@ Inspeção de Padrões e Avaliação de Peritos.
 
 Gabarito: Letra B
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 QUESTõES CoMENTADoS - FCV
 
@@ -3503,8 +3275,6 @@ d) criatividade
 e) eficiência
 
 Comentários:
-
-
 
 
 Também conhecida como Intuitividade, o sistema deve serde fácil aprendizado e
@@ -3570,17 +3340,7 @@ exija menos recursos.
 A questão trata da Avaliação Cooperativa.
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 Gabarito: Letra D
-
-
 
 
 QUESTõES CoMENTADoS - DIvERSAS BANCAS
@@ -3636,10 +3396,6 @@ aprendizado e assimilação, de forma que um usuário - mesmo sem experiência
 rapidamente obter algum resultado satisfatório. Trata-se do atributo mais
 importante de acordo
 com Jakob Nielsen.
-
-
-
-
 
 
 i. (ESAF/CVM -2oio) No ciclo da Engenharia da Usabilidade, as atividades da fase de análise
@@ -3709,10 +3465,6 @@ Item. 3. (ESAF / CVM - 2010) São heurísticas de usabilidade:
 a) Coerência e padrões. Prevenção de erros. Relembrar em vez de Reconhecer.
 Flexibilidade e
 eficiência de mapeamento. Ajuda e documentação.
-
-
-
-
 
 
 b) Visibilidade do estado do sistema. Mapeamento entre o sistema e o mundo real.
@@ -3793,10 +3545,6 @@ mundo real; liberdade e controle ao usuário; prevenção de erros; e reconhecer
 Gabarito: Letra B
 
 
-
-
-
-
 4- (CESGRANRIO / BACEN - 2009) Uma empresa, contratada para desenvolver uma aplicação
 standalone de análise financeira, deve utilizar um manual de orientações para construção
 da
@@ -3857,8 +3605,6 @@ e
 fornecem informações úteis antes mesmo de o usuário pedir.
 
 
-
-
 b) documentos para download devem ser sempre disponibilizados em formatos especiais ou
 proprietários.
 
@@ -3912,14 +3658,6 @@ necessidades especiais das páginas, pois o usuário deve ter autonomia na utili
 
 Gabarito: Letra E
 
-
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 LISTA DE QUESTõES - CESPE
 
@@ -3983,12 +3721,6 @@ d) cenários de uso e informações na tela do sistema.
 
 e) verbalização simplificada e helps online.
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 Item. 8. (CESPE / CNJ - 2013) Uma página desenvolvida em conformidade com as normas
 sintáticas de
@@ -4054,10 +3786,6 @@ contam com a participação direta dos usuários e compreendem, basicamente, os 
 usuários por meio do monitoramento de sessões de uso do produto, ou protótipo, em
 
 
-
-
-
-
 consideração. Em geral, ostestes de usabilidade com a participação dos usuários são
 avaliações
 confiáveis.
@@ -4106,14 +3834,6 @@ engenharia de
 usabilidade é a que permite o conhecimento do usuário ao qual o software se destina.
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 GABARITo
 
 Item. 1. ERRADO li. CORRETO
@@ -4143,8 +3863,6 @@ Item. 28. CORRETO
 9- CORRETO 19- ERRADO
 
 Item. 10. ERRADO 20. CORRETO
-
-
 
 
 LISTA DE QUESTõES - FCC
@@ -4212,8 +3930,6 @@ tema
 do site. Um fundo de impacto imprime uma personalidade diferenciada ao site.
 
 
-
-
 c) Não se deve usar espaço em branco para separar conteúdos ou assuntos diferentes.
 Devem-
 se usar linhas grossas para permitir uma percepção melhor da separação de conteúdo.
@@ -4275,14 +3991,6 @@ d) Arranjo de Cartões (card-sorting) e Avaliação Cooperativa.
 e) Co-descoberta e Diário de Incidentes.
 
 
-
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 GABARITo
 
 
@@ -4297,8 +4005,6 @@ Item. 4. LETRA A
 Item. 5. LETRA E
 
 Item. 6. LETRA B
-
-
 
 
 LISTA DE QUESTõES - FC V
@@ -4366,29 +4072,13 @@ c) análise do especialista;
 d) avaliação cooperativa;
 
 
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
 e) walkthrough heurístico.
 
-
-
-www.estrategiaconcursos.com.br
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
 Item. 1. LETRA A 2. LETRA A
 Item. 3. LETRA D
-
-
 
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
@@ -4442,8 +4132,6 @@ Item. 3. (ESAF / CVM - 2010) São heurísticas de usabilidade:
 
 a) Coerência e padrões. Prevenção de erros. Relembrar em vez de Reconhecer. Flexibilidade e
 eficiência de mapeamento. Ajuda e documentação.
-
-
 
 
 b) Visibilidade do estado do sistema. Mapeamento entre o sistema e o mundo real.
@@ -4512,8 +4200,6 @@ b) documentos para download devem ser sempre disponibilizados em formatos especi
 proprietários.
 
 
-
-
 c) páginas de transição, de abertura (splash-pages) ou "em construção" devem ser usadas
 para
 melhorara navegação.
@@ -4526,12 +4212,6 @@ e) o comportamento e as funcionalidades do navegador não devem ser alterados pa
 satisfazer
 necessidades especiais das páginas, pois o usuário deve ter autonomia na utilização do site.
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
 
 GABARITo
 
@@ -4548,85 +4228,4 @@ Item. 5. LETRA E
 
 Item. 6. LETRA E
 
-
-
-
-Diego Carvalho
-
-(Profs. Diego Carvalho e Fernando Pedrosa)
-
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

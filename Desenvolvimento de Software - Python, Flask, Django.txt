@@ -1,24 +1,5 @@
 Capítulo. Desenvolvimento de Software - Python, Flask, Django.
 
-Concursos
-
-(Profs. Paolla
-Ramos e Raphael
-
-Lacerda)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Desenvolvimento de
-software - 2023 (Pós-Edital)
-
-Autor:
-
-Paolla Ramos e Silva
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Índice
 
@@ -28,12 +9,6 @@ Paolla Ramos e Silva
 
 3) Python Flask - Teoria
 
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 APRESENTAçÃo DA AUUX
 
@@ -61,17 +36,12 @@ conteúdo de forma mais simples. Aproveitem o material, além dos esquemas,
 resumos e
 mnemónicos. Vamos ao que importa! lí
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 174
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Conceitos Básicos
@@ -132,12 +102,6 @@ licença
 de código aberto.
 
 
-
-
-
-
-
-
 Alguns recursos de linguagem de programação do Python são:
 
 * Uma variedade de tipos de dados básicos está disponível: números (ponto
@@ -165,17 +129,13 @@ lista.
 liberar
 memória manualmente em seu código.
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Python é uma linguagem com uma filosofia de simplicidade no seu design, é uma
 linguagem de
@@ -223,16 +183,10 @@ do
 programa.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 (CEBRASPE - PC PB- 2022) Na linguagem Python, o tipo de uma variável em tempo de
 execução é definido pelo interpretador pelo recurso denominado
@@ -305,17 +259,6 @@ ELSE com a ramificação "if", tenta as ramificações "elif" e termina com a ra
 (até ser avaliada como True)
 
 
-
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 EXCEPT
@@ -413,14 +356,6 @@ impresso para o usuário.
 Sai de uma função e retornar um valor.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
 (Profs. Paolla Ramos e Raphael L
 
 Valor booleano e resultado de uma operação de comparação. A palavra-chave True é
@@ -463,17 +398,8 @@ https://www.w3schools.com/python/trypython Msp?filename=demo_default
 o link
 
 
-QQ 
+QQ
 
-www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Principais Características
 
@@ -517,16 +443,6 @@ colchetes
 para essa finalidade.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Python é uma linguagem de programação interpretada, isso significa que, como
 desenvolvedor,
 você escreve arquivos Python (.py) em um editor de texto e depois coloca esses
@@ -539,16 +455,10 @@ C:\Users\Your Namexpython helloworld.py
 Em que "helloworld.py" é o nome do seu arquivo python.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Sintaxe do Python
 
@@ -582,12 +492,8 @@ Você precisa usaro mesmo número de espaços no mesmo bloco de código, caso co
 o Python
 fornecerá um erro: IndentationError: unexpected indent
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Variáveis em Python
 
@@ -638,16 +544,10 @@ que você precisa,
 não é? @
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 x = y = z = "Laranja"
 
@@ -693,16 +593,10 @@ executar a
 concatenação usando o operador +. (tí
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Se você criar uma variável com o mesmo nome dentro de uma função, essa variável será local e só
 poderá ser usada dentro da função. A variável global com o mesmo nome permanecerá como
@@ -740,16 +634,6 @@ global x
 
 x = "fantastic"
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Tipos de dados Python
 
@@ -829,16 +713,10 @@ uma linha
 usando três aspas - três aspas duplas () ou três aspas simples ('"):
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a = """Estratégia Concursos é referência na preparação de
 alunos para Concursos
@@ -895,12 +773,8 @@ possível retornar um
 intervalo de caracteres usando a sintaxe de slice. Slice consiste em "fatiar", ou
 seja, cortar uma
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 parte da string. É necessário especificar o índice inicial e o índice final, separados por dois
 pontos,
@@ -957,16 +831,10 @@ d) 0 -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
 e) -1 -2 -3 -4 -5 -6 -7 -8 -9 -10.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários: Pessoal, as bancas gostam muito de índices negativos, para dificultar um
 pouco. No caso da questão, é gerada
@@ -1027,12 +895,8 @@ problema, use
 o caractere de escape \", da seguinte forma: txt = "O Estratégia Concursos é uma \"fabrica\" de
 ois."
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 CARACTER DE ESCAPE DESCRIÇÃO
 
@@ -1117,16 +981,6 @@ Retorna True se todos os caracteres da string forem numéricos
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 ISPRINTABLEÍl Retorna True se todos os caracteres da string forem imprimíveis
 ISSPACEU Retorna True se todos os caracteres na string forem espaços em branco
 ISTITLEO Retorna True se a string seguiras regras de um título
@@ -1184,16 +1038,10 @@ Python retorna a resposta booleana:
 print(10 > 9) #Retorna True
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 print(10 == 9)#Retorna False
 print(10 < 9) #Retorna False
@@ -1245,16 +1093,9 @@ operadores nos seguintes grupos:
 Operadores aritméticos Python
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Exponenciação
@@ -1287,17 +1128,6 @@ EXEMPLO
 AND Retorna True se ambas as declarações forem verdadeiras x < 5 and x < io
 
 
-
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 OR
@@ -1367,16 +1197,6 @@ binário 0
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Coleções em Python
 
 Listas Python
@@ -1434,16 +1254,10 @@ print(len(lista3))
 Os itens da lista podem ser de qualquertipo de dados:
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 listai = ["maçã", "banana", "cereja"]
 lista2 = [1, 5, 7, 9, 3]
@@ -1496,16 +1310,10 @@ A partir da versão 3.7 do Python, os dicionários são ordenados. No Python 3.6
 dicionários não são ordenados.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Você pode especificar um intervalo de índices especificando onde começar e
 onde terminar o
@@ -1574,16 +1382,10 @@ INSERTO Adiciona um elemento na posição especificada
 POPO Remove o elemento na posição especificada
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Remove o primeiro item com o valor especificado
 Inverte a ordem da lista
@@ -1644,16 +1446,10 @@ for i in range(len(listal)):
 print(listal[i])
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Outra forma de percorrer a lista é usando um loop while. Use a função len() para
 determinar o
@@ -1670,16 +1466,10 @@ print(listal[i])
 i = i + 1
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 List Comprehension
 
@@ -1731,16 +1521,10 @@ Outra maneira de fazer uma cópia é usar o método interno Iist().
 frutas = ["maçã", "banana", "laranja"]
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 minhalista = list(frutas)
 print(minhalista)
@@ -1777,16 +1561,10 @@ coleção ordenada e
 imutável .Tuplas são escritas com colchetes.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Os itens de tupla são indexados, o primeiro item possui índice [o], o segundo item
 possui índice
@@ -1835,16 +1613,6 @@ Da mesma forma que ocorre na lista, é possível acessar tuplas com índice nega
 Lembrando
 que o -1 pega o último item, -2refere-se ao penúltimo item, etc.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 tuplal = ("maça", "banana", "laranja")
 print(tuplal[-1]) #imprime laranja
@@ -1903,16 +1671,10 @@ tupla2 = (1, 2, 3)
 tupla3 = tuplal + tupla2
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 print(tupla3)
 
@@ -1980,16 +1742,10 @@ A partir da versão 3.7 do Python, os dicionários são ordenados. No Python 3.6
 dicionários não são ordenados.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 thisset = {"maça", "banana", "cereja"}
 for x in thisset:
@@ -2037,12 +1793,8 @@ completamente.
 
 Vejamos agora as várias maneiras de unir dois ou mais conjuntos em Python.
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Você pode usar o método union() que retorna um novo conjunto contendo todos os itens
 de
@@ -2117,16 +1869,10 @@ em conjuntos.
 MÉTODO DESCRIÇÃO
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 ADD[] Adiciona um elemento ao conjunto
 CLEARO Remove todos os elementos do conjunto
@@ -2162,16 +1908,6 @@ UPDATEU Atualize o conjunto com a união deste conjunto e outros
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Dicionários Python
 
@@ -2233,8 +1969,6 @@ UPDATEU Atualiza o dicionário com os pares de valores-chave especificados
 VALUESO Retorna uma lista de todos os valores no dicionário
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
@@ -2306,16 +2040,6 @@ tuplas. A
 respeito desses tipos de dados, julgue os itens a seguir.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 I O conjunto permite o armazenamento de uma tupla, mas não o de uma lista.
 
 II A tupla é idêntica à lista, exceto pela forma mais simples com que sua declaração é
@@ -2350,16 +2074,6 @@ listas. Por fim, o item III está correto,
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Condições do Python
 
@@ -2421,16 +2135,10 @@ print("A e B são iguais")
 Neste caso, será impresso na tela que "a e b são iguais".
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Pessoal, o if é muito utilizado na prática, além disso cai muito em provas! Além
 dele, temos o else,
@@ -2496,16 +2204,10 @@ b = 330
 print("A") if a > b else print("=") if a == b else print("B")
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A palavra-chave and é um operador lógico e é usada para combinar instruções
 condicionais:
@@ -2558,12 +2260,8 @@ x> i orx < 5
 
 not(x > i and x < 5)
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Python While Loops
 
@@ -2621,16 +2319,10 @@ def F (a, b):
 while a != b:
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 if a > b:
 
@@ -2660,16 +2352,6 @@ receber a - b. a = 46 e b = 36. A vai receber = 12 e retorna esse valor que ser�
 nosso gabarito é a letra B.
 (Gabarito: Letra B).
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Loop for em Python
 
@@ -2725,16 +2407,6 @@ Note que o for itera sobre o conjunto de valores que se inicia em 2 (incluso) at
 20 (não incluso),
 pulando de três em três unidades. Agora vejamos a quantidade de questões sobre loop for
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 (FGV - TCU - 2022) A execução desse código na IDLE Shell produz, na
 ordem e
@@ -2792,16 +2464,6 @@ e) -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários: Pessoal, as bancas gostam muito de índices negativos, para dificultar um
 pouco. No caso da questão, é gerada
@@ -2864,16 +2526,6 @@ seguinte forma: -16 -14 e -12 que gera como resultado -42.(Gabarito: Letra D).
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Funções do Python
 
 Uma função é um bloco de código que só é executado quando é chamado. Você pode
@@ -2928,16 +2580,6 @@ def minhafuncao (*professores):
 print( professoresfl] + " é um professor de TI do Estratégia")
 minhafuncao("Diego Carvalho", "Raphael Lacerda")
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 No exemplo anterior, será impresso Raphael Lacerda é professor de TI do
 Estratégia. A tupla
@@ -3006,16 +2648,10 @@ função que nunca termina, ou uma que usa quantidades excessivas de memória ou
 do
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 processador. No entanto, quando escrita corretamente, a recursão pode ser uma abordagem
 de
@@ -3038,12 +2674,8 @@ while (valor > 1):
 fatorial = fatorial * valor
 valor = valor - 1
 
-* 
+*
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Python Lambda
 
@@ -3080,18 +2712,8 @@ dobravalor = minhafuncao (2)
 print(dobravalor(10)) #imprime 20
 
 
-
-
-
 ,
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Matrizes ou Arrays Python
 
@@ -3141,11 +2763,6 @@ removeO e o pop() é que o primeiro remove apenas a primeira ocorrência do valo
 MÉTODO DESCRIÇÃO
 
 *
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 APPENDÍJ
@@ -3217,16 +2834,6 @@ lo livremente. NumPy significa Python Numérico. Em Python temos listas que serv
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 de arrays, mas são lentas para processar. O NumPy visa fornecer um objeto array até
 50X mais
 rápido que as listas tradicionais do Python.
@@ -3239,17 +2846,13 @@ Os arrays são usados com muita frequência na ciência de dados, onde a velocid
 os recursos
 são muito importantes.
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Classes/objetos Python
 
@@ -3304,16 +2907,6 @@ Objetos também podem conter métodos. Métodos em objetos são funções que
 pertencem ao
 objeto.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 class Person:
 
@@ -3370,17 +2963,13 @@ com as opções a e b. Além de init, é necessário usar o self, que é uma ref
 da classe. Portanto, o correto
 é a letra A. (Gabarito: Letra A).
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Herança Python
 
@@ -3438,30 +3027,10 @@ class Student(Person):
 def init(self, fname, lname):
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 super().init(fname., lname)
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Iteradores Python
 
@@ -3503,16 +3072,6 @@ No métodonext(), podemos adicionar uma condição de término para gerar um err
 se a
 iteração for feita um número especificado de vezes:
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Escopo do Python
 
@@ -3566,16 +3125,6 @@ função) e outra
 disponível no escopo local (dentro da função):
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 x = 300
 
 def myfunc():
@@ -3598,16 +3147,10 @@ global x
 x = 300
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Módulos Python
 
@@ -3642,16 +3185,6 @@ import platform
 x = dir(platform)
 print(x)
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Datas em Python
 
@@ -3713,16 +3246,10 @@ Wednesday
 Dec
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 December
 
@@ -3730,9 +3257,7 @@ December
 2018
 
 
-
 PM
-
 
 
 548513
@@ -3746,8 +3271,6 @@ semana, 00-53
 
 %w Número da semana do ano, segunda-feira como 0 primeiro dia da
 semana, 00-53
-
-
 
 
 Mon Dec 31 17:41:00
@@ -3764,18 +3287,6 @@ Mon Dec 31 17:41:00
 
 
 
-
-
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Matemática Python
 
@@ -3847,16 +3358,9 @@ Retorna E elevado à potência de x
 Retorna Ex -1
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 MATH.FABSO
@@ -3957,16 +3461,6 @@ Retorna as partes inteiras truncadas de um número
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Python RegEx
 
 Um RegEx, ou Expressão Regular, é uma sequência de caracteres queforma um padrão de
@@ -4034,16 +3528,10 @@ Ou
 Capturare agrupar
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Uma sequência especial é \seguida por um dos caracteres na lista abaixo e tem um
 significado
@@ -4135,17 +3623,6 @@ alfabética entre a e n
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-
 [0-5H0-9]
 
 Retorna uma correspondência para qualquer número de dois dígitos de 00 a 59
@@ -4159,16 +3636,6 @@ retornar uma correspondência para qualquer caractere + na string
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 RESUMO
 
@@ -4190,17 +3657,12 @@ Usada ao depurar o código. Permite testar se uma condição em seu código reto
 Truez caso contrário, o programa gerará um AssertionError. Você pode escrever uma
 mensagem a ser escrita caso o código retorne false
 
- x
+x
 
-www.estrategiaconcursos.com.br
+
 / 174
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 BREAK
@@ -4301,17 +3763,6 @@ deve pertencer à função interna. Use a palavra-chave nonlocal para declarar q
 variável não é local.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-
 RAISE
 RETURN
 
@@ -4368,17 +3819,8 @@ PROGRAMAÇÃO ORIENTADA A OBJETOS
 PROGRAMAÇÃO FUNCIONAL
 
 
-
-
 www. estra tegiaconcursos. com. br
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 TIPO DE DADO DESCRIÇÃO
 EXEMPLO
@@ -4456,16 +3898,6 @@ V
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Barra invertida
 Nova linha
@@ -4556,17 +3988,6 @@ Retorna True se todos os caracteres da string forem maiúsculos
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-
 JOINÜ
 LJUST(]
 LOWER(]
@@ -4646,16 +4067,6 @@ FUNÇÃO DESCRIÇÃO
 IGUALA
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 x = 5
 
 x = x + 3
@@ -4716,17 +4127,6 @@ x in y
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-
 Retorna True se uma sequência com o valor especificado não
 estiver presente no objeto
 
@@ -4781,16 +4181,6 @@ Inverte a ordem da lista
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GO
 
@@ -4856,16 +4246,10 @@ Remove os itens neste conjunto que também estão incluídos em outro conjunto
 especificado
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 DISCARDO Remove o item especificado
 
@@ -4919,16 +4303,6 @@ VALUESO Retorna uma lista de todos os valores no dicionário
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 LISTA E UMA COLEÇÃO ORDENADA E MUTÁVEL. PERMITE MEMBROS DUPLICADOS.
 
@@ -5020,16 +4394,9 @@ OR Retorna True se uma das condições for verdadeiras, caso contrário x > i or
 retorna False
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 NOT Inverte o resultado: se o resultado da expressão for True,
@@ -5114,17 +4481,6 @@ CST
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-
 Número do dia do ano 001-366
 
 Número da semana do ano, domingo como 0 primeiro dia
@@ -5148,8 +4504,6 @@ Dia da semana ISO 8601 (1-7)
 Número da semana ISO 8601 (01-53)
 
 
-
-
 Mon Dec 31 17:41:00
 
 2018
@@ -5161,7 +4515,6 @@ Mon Dec 31 17:41:00
 
 %
 2018
-
 
 
 DIRETIVA DESCRIÇÃO
@@ -5223,17 +4576,6 @@ Retorna E elevado à potência de x
 Retorna Ex -1
 
 
-
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 MATH.FABSO
@@ -5338,16 +4680,6 @@ FUNÇÃO DESCRIÇÃO
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Retorna uma lista contendo todas as correspondências
 
 Retorna um objeto Match se houver uma correspondência em qualquer lugar da string
@@ -5437,17 +4769,6 @@ caractere de espaço em branco
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
-
 \w Retorna uma correspondência em que a string contém qualquer
 caractere de palavra (caracteres de a a Z, dígitos de o a 9 e o
 caractere sublinhado _)
@@ -5493,16 +4814,6 @@ retornar uma correspondência para qualquer caractere + na string
 
 
 
-
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Automação de Scripts
 
@@ -5561,16 +4872,6 @@ limitações e vantagens, bem como os principais métodos que serão usados.
 Saiba mais com o conteúdo a seguir. Falaremos sobre o Selenium Python e mostraremos um
 tutorial simples de como conseguir a sua primeira automação na web com essa biblioteca.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O Selenium Python é uma biblioteca com diversos métodos que ajudam na automação web.
 Em suma, as funções permitem controlar o funcionamento de uma página e a interação
@@ -5632,16 +4933,10 @@ e confiável
 sem lutar contra a ferramenta.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Poderoso: Projetado para casos de uso do mundo real, protege contra
 peculiaridades de
@@ -5704,16 +4999,10 @@ configuração em várias camadas de testes. A estrutura pytest oferece recursos
 como
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 regravação de assert, parametrização, marcadores, plug-ins, execução de teste paralelo e
 relatórios
@@ -5778,16 +5067,10 @@ PDFMiner é uma ferramenta de extração de texto para documentos PDF.
 * Suporta linguagens CJK e scripts de escrita vertical.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Possui um analisador de PDF extensível que pode ser usado para outros fins.
 
@@ -5842,19 +5125,10 @@ um dos
 cursos da Formação Desenvolvedor RPA.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 REFERÊNCIAS
 
@@ -5876,17 +5150,6 @@ https://docs.reportlab.com/rmlfornewbies/
 https://borbpdf.com/
 
 https://blog.dsacademy.com.br/15-pacotes-python-para_automacao/
-
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Questões Cespe
@@ -5947,16 +5210,6 @@ I O conjunto permite o armazenamento de uma tupla, mas não o de uma lista.
 
 II A tupla é idêntica à lista, exceto pela forma mais simples com que sua declaração é realizada.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 III A lista é um tipo de dados variável que permite a alteração de seus
 elementos após a sua
@@ -6024,16 +5277,10 @@ resultado que
 deveria ser True, e não "True"". Enfim, vamos para o código: x,y e z são possuem o valor "True".
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Quando utilizamos a clase bool para conversões temos uma "regra". Essa regra nos diz
 que quando
@@ -6100,16 +5347,10 @@ de jogar
 damas. P = a probabilidade de o programa vencer o próximo jogo.".
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Gabarito: Correta
 
@@ -6172,16 +5413,6 @@ resto
 
 Gabarito: Letra B
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 n.(CEBRASPE - SEED PR- 2021) Na linguagem de programação Python, existem 3
 estruturas
@@ -6253,16 +5484,10 @@ Gabarito: Errada
 Item. 13. (CEBRASPE - PF- 2018) Considere o programa a seguir, na linguagem Python.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 letras == ["P", "F"]
 forx in letras
@@ -6323,16 +5548,6 @@ construtor
 (que é um método que cria um objeto, mas vocês não precisam saber disso).
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Gabarito: Correta
 
 i6.(CESPE - 2011 - ECT - Analista de Sistemas) A linguagem Python e seu interpretador
@@ -6390,12 +5605,6 @@ operacionais que possuam um software interpretador de Python.
 Gabarito: Correta
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 ig.(CESPE - 2008 - SERPRO - Analista de Sistemas) Python é uma linguagem livre de
 alto nível,
 orientada a objetos e de difícil leitura, pois não permite identação de linhas de código.
@@ -6431,16 +5640,10 @@ Uma função é definida por meio da palavra-chave def.
 Gabarito: Letra A
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões FGV
 
@@ -6500,16 +5703,10 @@ Assinale o resultado exibido pela execução desse código, na IDLE Shell 3.9.9.
 a) 1, 2, 5,13
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) o, í, 3, 8, 21, í, 2, 5,13, 21
 
@@ -6578,8 +5775,6 @@ Gabarito: Letra E
 Item. 24. ( FGV - MPE GO- 2022) Considere o código Python a seguir.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
@@ -6656,16 +5851,6 @@ pouco. No caso da
 questão, é gerada uma sequência de números negativos iniciando em -1 e parando antes do -10 (ou
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 seja, o for para no -9). O For é incrementado de -1 em -1 formando a sequência -1 -2 -3 -4 -5 -6 -7
 -8
 
@@ -6731,16 +5916,10 @@ possivelmente
 é produzida pelo comando print na execução do código acima é:
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) ['AA', 'BB', 'CC, 'BB', {'C, 'A', 'B'}]
 
@@ -6811,16 +5990,6 @@ except:
 print("Deu erro!")
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 else:
 
 print("Ok")
@@ -6884,16 +6053,6 @@ c) [3]
 d) [i, 2, 3]
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 e) [3, 2,1]
 
 Comentários:
@@ -6948,16 +6107,10 @@ Gabarito: Letra B
 Item. 32. (FGV - IMBEL- 2021) Analise o código Python a seguir.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 x= [1,23,4,5]
 
@@ -7024,16 +6177,10 @@ for x in teste(10):
 print x
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 A execução desse código:
 
@@ -7098,16 +6245,10 @@ e) 50
 Comentários:
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Pessoal, o while irá executar até que m != n2, ou seja, m diferente de n2. Dessa
 forma, ele vai
@@ -7164,15 +6305,11 @@ def F (a, b):
 
 1 1 1
 
-www.estrategiaconcursos.com.br
+
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 while a != b:
 if a > b:
@@ -7230,16 +6367,6 @@ d) 4, -1,1;
 
 e) 4, 2, 2.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Comentários:
 
@@ -7304,16 +6431,6 @@ d) U A E I
 e) U O I E A
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Comentários:
 
 Mais uma questão com valores negativos! Vejamos o que ela faz! range(-i, -5, -1). Na
@@ -7376,8 +6493,6 @@ c) uva, laranja;
 d) banana, laranja, manga;
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
@@ -7445,16 +6560,6 @@ executado
 no Python 2.7:
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 a) Produz uma mensagem de erro, porque tenta executar uma operação inválida.
 
 b) Exibe "[io, 20, 30, [40, 50]]".
@@ -7517,12 +6622,6 @@ penúltima); (3) não fornecido - primeira posição do array (posição 0).
 Stop - última posição a ser acessada:
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Pode ser: (1) valor positivo - posição de acesso (por exemplo, o é a primeira, 1 é a segunda); (2)
 valor
 negativo - posição a partir do final do array (por exemplo, -íéa última posição, -2
@@ -7577,16 +6676,10 @@ teria como imprimir L[4] porque esse valor sequer existe, L só vai de 0 a 3.
 Gabarito: Letra A
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões FCC
 
@@ -7649,16 +6742,6 @@ Gabarito: Letra E
 4g.(FCC-TRF4-2019) Considere o código Python abaixo.
 def oper(l, item):
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 pos = O
 x = False
@@ -7727,12 +6810,6 @@ biblioteca padrão da
 linguagem Python; aiml: biblioteca para inteligência artificial com aprendizado de máquina; scapy:
 
 
-
-
-
-
-
-
 biblioteca que suporta envio de pacotes em rede, portanto nosso gabarito, numpy:
 biblioteca para
 uso científico, trabalha com vetores multidimensionais.
@@ -7792,8 +6869,6 @@ deve ser
 substituída por:
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
@@ -7858,16 +6933,6 @@ Gabarito: Letra D
 import ..I.. as b
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 import matplotlib.pyplot as a
 x = b.linspace(o, 3, 20)
 
@@ -7930,16 +6995,6 @@ Comentários:
 Pessoal, vejamos o que cada operação gera na lista a:
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 a.insert(2, -5) # [99.15, 323, -5, 323, 2,12.5]
 
 a.append(323) # [99.15, 323, -5, 323, 2,12.5, 323]
@@ -7998,16 +7053,10 @@ a, b = o, 1
 while a < n:
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 resultado, append(a)
 a, b = b, a+b
@@ -8065,16 +7114,6 @@ a) o Fragmento 1 está in Correta, pois laços não podem ter uma cláusula else
 
 b) no Fragmento 2, a instrução for está incorreta, pois ela não pode iterar sobre a.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 c) o Fragmento 1 está in Correta, pois não é possível iterar sobre
 sequências numéricas
@@ -8138,16 +7177,6 @@ testar a letra (e)! Antes de entrar na estrutura de repetição while, nós temo
 a = o
 b = 1
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Depois, temos que:
 
@@ -8225,12 +7254,6 @@ Gabarito: Letra A
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
 a) é uma linguagem compilada, ou seja, o código-fonte de um programa é lido pelo
 compilador,
 que cria um arquivo binário, executável diretamente pelo hardware.
@@ -8267,14 +7290,10 @@ possui restrição de tamanho.
 Gabarito: Letra C
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -8335,16 +7354,9 @@ dobra(x)
 0 0 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023
 (Pós-Edital)
 
-www.estrategiaconcursos.com.br
+
 y
 
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 dobra(x)
 printx
@@ -8403,16 +7415,6 @@ PYTHON, marque a alternativa INCORRETA.
 
 a) Python suporta a maioria das técnicas da programação orientada a objetos.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 b) Python suporta e faz uso constante de tratamento de exceções como uma forma de
 testar
@@ -8475,16 +7477,10 @@ b) range(5) gera a lista [1,2,3,4,5].
 c) range(4,6) gera a lista [4,5,6,7,8,9].
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 d) range(5,i) gera a lista [5].
 
@@ -8549,12 +7545,6 @@ também é muito utilizado como linguagem script em vários softwares.
 Gabarito: Letra E
 
 
-
-
-
-
-
-
 7O.(IFPI - 2012 - IFPI) Com relação à linguagem de programação Python, é INCORRETA a
 afirmação:
 
@@ -8596,13 +7586,6 @@ simples ou duplas;
 (d) Correta, a indentação delimita blocos de código; (e) Correta, esse é um identificador válido.
 
 Gabarito: Letra C
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Questões Cespe
@@ -8664,16 +7647,6 @@ Item. 4. (CEBRASPE-(CODEVASF-2021) Na linguagem Python, as listas são coleçõe
 de objetos, com exceção das próprias listas, e seus elementos são alteráveis.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Item. 5. (CEBRASPE-PF-2021) O código Python a seguir apresenta como resultado "True".
 x = bool(-3)
 
@@ -8725,16 +7698,10 @@ para os
 comandos em questão.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) i
 
@@ -8789,16 +7756,6 @@ um objeto
 do tipo int, que recebe 1 como parâmetro no seu construtor.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Item. 15. (CESPE - 2013 - MPOG - Analista de Sistemas) Em Python, o comando int("i") cria
 um objeto
 do tipo int, que recebe 1 como parâmetro no seu construtor.
@@ -8848,16 +7805,10 @@ d) procedure calcular (a,b):
 e) sub calcular (a,b):
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões FGV
 
@@ -8909,14 +7860,10 @@ e) o, 1, 3, 8
 Item. 23. (FGV- SEFAZ AM- 2022) Analise o código a seguir em linguagem de programação Python:
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -8929,7 +7876,6 @@ wtiile ip > 0 and array[p - 1] > element:
 
 6 ãrray(p) = arrayfp =- 1]
 p -= 1
-
 
 
 return array
@@ -8984,14 +7930,6 @@ d) Executa, mas produz erro de execução na quinta chamada da função X.
 
 e) Executa, mas calcula erradamente o fatorial de 4.
 
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 25. (FGV-MPE GO-2022) Assinale a lista de números produzida pela execução, na IDLE Shell 3.9.9,
 do código Python a seguir.
@@ -9057,16 +7995,10 @@ possivelmente
 é produzida pelo comando print na execução do código acima é:
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) ['AA', 'BB', 'CC, 'BB', {'C, 'A', 'B'}]
 
@@ -9131,16 +8063,6 @@ Ok
 
 
 
-1 www.estrategiaconcursos.com.br
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 d) Ok
 The end
 
@@ -9191,16 +8113,10 @@ print(next(xptolter))
 No resultado produzido pela execução do código acima, a quinta linha contém exatamente:
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) [o, 1,1, 2, 2, 3]
 
@@ -9260,16 +8176,6 @@ print: x
 A execução desse código:
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 a) não tem efeito, pois nenhum comando print é acionado;
 
 b) provoca a exibição do número 10 na saída;
@@ -9323,12 +8229,6 @@ Lappend(len(L) ** 2)
 print ABC([2o],Io)
 
 
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 O resultado da execução desse código é:
 
 a) [1, 4, g, 16, 25, 36, 49, 64]
@@ -9375,16 +8275,6 @@ print k ** c
 Dado que uma execução da função F exibiu os números
 16, 9, 4,1, o, 1,
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 é Correta afirmar que os valores dos parâmetros a, b, c empregados foram, respectivamente:
 a) -4, í, 2;
@@ -9445,16 +8335,10 @@ for k in range(o,len(L)):
 print (L[4-kJ)
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Assinale a opção que indica a saída produzida pela execução desse código.
 
@@ -9513,16 +8397,6 @@ e) a exibição dos valores 43,2,1 nessa ordem.
 44-(FGV - 2015 - CM/Caruaru - Analista Legislativo - Informática) Analise o código Python a
 seguir.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Li=[io,20,30]
 I_2=[4O,5O]
@@ -9585,16 +8459,6 @@ d) a exibição de 8 valores, 16,14,12,10,16,14,12,10, nessa ordem.
 e) a exibição do valor 16, somente.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Questões FCC
 
 47.(FCC- PGE AM-2O22)Em um programa escrito em Python, uma série de dados foram
@@ -9655,16 +8519,6 @@ v = [1, 2, 32, 8,17,19, 42,13, o]
 print(oper(v, 8))
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 Para que o código exiba na tela o valorTrue se o item buscado no vetor por meio da
 função oper
 for encontrado, a lacuna I deve ser corretamente preenchida por
@@ -9723,16 +8577,10 @@ d) throw: e catch(err)
 e) try: e except ZeroDivisionError:
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Item. 52. (FCC - TJ MA- 2019) Considere o programa Python abaixo:
 I..
@@ -9793,16 +8641,10 @@ import matplotlib.pyplot as a
 x - b.linspace(o, 3, 20)
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 y = b.linspace(o, 9, 20)
 a.plot(x, y)
@@ -9859,16 +8701,6 @@ Considere a saída gerada pelo programa:
 0ARSETE
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 iPRODATER
 2 SEMEST
 
@@ -9923,16 +8755,10 @@ if n % x == o:
 print n, x, n/x
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 break
 else:
@@ -9994,16 +8820,6 @@ a, b = a, a+b
 e) resultado.append(a)
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 a, b = a+b, b
 
 6o.(FCC - 2012 - MPE/PE - Analista de Sistemas) Em Python, os métodos de lista
@@ -10046,16 +8862,6 @@ e) Uma String Python é uma sequência imutável, alocada estaticamente, com
 restrição de
 tamanho.
 
-
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Questões Comentadas - Diversas Bancas
 
@@ -10107,16 +8913,10 @@ d) 25
 65.(UERJ - UERJ - Analista De Sistemas) A linguagem Python possui a seguinte característica:
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 a) é uma linguagem compilada.
 
@@ -10177,16 +8977,6 @@ Python,
 assinale a alternativa correta.
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 a) A Python é uma linguagem de alto nível e robusta. Ela possui seu próprio
 framework e é
 incompatível com frameworks de terceiros.
@@ -10239,16 +9029,10 @@ conhecidos como
 identificadores. O identificador_quantidade é Correta em Python.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 GABARITo
 
@@ -10323,16 +9107,6 @@ Item. 24. Letra B 49.Letra E
 Item. 25. Letra A 50.Letra D
 
 
-
-
-
-
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
-
 FRAMEWoRkS PYTHoN: DJANGo
 
 Conceitos Básicos
@@ -10392,16 +9166,10 @@ banco de dados. Ele é responsável por lidar com a parte lógica da aplicação
 os dados são armazenados no banco de dados.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Views: Esta é uma interface de usuário. Ele é responsável por exibir os dados dos bancos de
 dados
@@ -10453,16 +9221,10 @@ uma URL
 específica, porque essa função de retorno de chamada descreve quais dados são apresentados.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Além disso, é sensato separar o conteúdo da apresentação - que é onde os templates
 entram. No
@@ -10533,16 +9295,10 @@ codigo em Python.
 * Internacionalização - esse framework tem suporte a aplicações multi-linguagem.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * NewForms - é possível gerar e manipular formulários facilmente através dos modelos de
 dados definidos.
@@ -10607,8 +9363,6 @@ conexão do banco de dados. Por padrão, o Django trabalha com SQLite, banco de 
 a configuração para outros bancos de dados também.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
@@ -10676,16 +9430,10 @@ tratamento da solicitação.
 Modelos Django
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 Um modelo é a fonte única e definitiva de dados sobre seus dados. Ele contém os
 campos e
@@ -10754,16 +9502,9 @@ EmailField que assegura-se de que seu dado é um
 endereço de e-mail válido.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 Form
@@ -10818,8 +9559,6 @@ várias vezes. O Django tenta tirar um pouco dessa monotonia nas camadas de mode
 mas os desenvolvedores web também experimentam esse tédio na camada da view.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
@@ -10888,16 +9627,10 @@ como
 sistema de arquivos, abertura e leitura de arquivos, etc.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O sistema de armazenamento padrão do Django é dado pela
 configuração
@@ -10966,16 +9699,10 @@ aplicações Web não são o washingtonpost.com oouslashdot.org; são simplesmen
 sites
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 pequenos a médio com tráfico equivalente. Mas para aplicações de porte médio para
 grande, é
@@ -11040,16 +9767,10 @@ interessados
 nos mesmos eventos.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 O Django fornece um conjunto de sinais embutidos que deixam o código do usuário ser
 notificado pelo próprio Django sobre certas ações. Estas incluem algumas notificações úteis:
@@ -11119,16 +9840,9 @@ projeto. Seu nome não importa para o Django; você
 pode renomeá-lo para o que quiser.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
-
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 
 manage.py
@@ -11186,8 +9900,6 @@ django-admin
 startproject mysite (Gabarito: Letra C)
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
@@ -11221,16 +9933,10 @@ View -» é a camada que traz consigo a lógica do negócio. É o que determina 
 no projeto.
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 FRAMEWoRkS PYTHoN: FLASk
 
@@ -11286,16 +9992,10 @@ impossíveis de fazer mudança. Características do Flask:
 * Suporte para Cookies seguros;
 
 
-
-www.estrategiaconcursos.com.br
 / 174
 
 /
 
-
-Paolla Ramos e Silva
-
-(Profs. Paolla Ramos e Raphael Lacerda)
 
 * Extensa documentação;
 
@@ -11338,82 +10038,4 @@ rastreamento, etc. Inclui uma biblioteca estatística de aprendizado de máquina
 contém redes
 neurais, árvore de decisão e algoritmos de maximização.
 
-
-
-
-
-
-
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 

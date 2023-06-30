@@ -1,24 +1,5 @@
 Capítulo. Engenharia de Computadores e Redes - Servidores Web.
 
-Concursos
-
-Aula única (Prof.
-
-Evandro)
-
-SERPRO (Analista - Especialização:
-Tecnologia) Servidores Web e de
-Aplicação - 2023 (Pós-Edital) Somente
-
-PDF
-
-Autor:
-
-Evandro Dalla Vecchia Pereira
-
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Índice
 
@@ -49,13 +30,6 @@ Aula única (Prof. Evandro)
 
 Somente 2
 
-www.estrategiaconcursos.com.br
-
-/
-
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 SISTEMAS DISTRIBUÍDoS
 
@@ -123,15 +97,6 @@ localização enquanto em uso.
 
 Semente 3
 
-www.estrategiaconcursos.com.br
-/ 72
-
-/
-
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
-
 
 Replicação
 Concorrência
@@ -168,14 +133,11 @@ Computação em Nuvem:
 
 Spmênte 4
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Alguns conceitos recorrentes em provas de concurso são:
 
@@ -246,14 +208,11 @@ componentes mais importantes, o qual utiliza um algoritmo de escalonamento.
 
 Spménte 5
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 As principais características de um sistema distribuído são:
 
@@ -309,14 +268,11 @@ no mesmo sistema distribuído.
 
 Spménte 6
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Funções, Modelos/Arquiteturas e Plataformas
 
@@ -386,14 +342,11 @@ Vamos ver algumas plataformas que dão suporte aos sistemas e aplicações distr
 
 Spménte 7
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 São inúmeras as soluções tecnológicas para implementar a distribuição:
 
@@ -452,14 +405,11 @@ remover máquinas para reparos sem interromper a aplicação;
 
 Spmênte 8
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Resumindo, cluster é um agregado de computadores, um recurso de processamento utilizado
 em
@@ -510,14 +460,11 @@ e a localização dos equipamentos é transparente para os usuários.
 
 Spménte 9
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 ......... ........................................................
 ...................................................... ..... ....................... .......
@@ -556,14 +503,11 @@ linear, masz sim, concorrentemente, em função de eventos assíncronos.
 
 Spmênte 10
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 = Comentários:
 
@@ -584,14 +528,11 @@ Gabarito: Correta ■
 
 Spménte 11
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 SERVIDoR DE APLICAçÃo JBoSS/WILDFLY
 
@@ -649,11 +590,6 @@ distribuídos.
 
 Spmênte 12
 
-www.estrategiaconcursos.com.br
-
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Core Infrastructure
 
@@ -709,14 +645,11 @@ terminar os
 
 Spménte 13
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 processos que rodam em cada servidor, interagindo com o Domain Controller
 para ajudar no
@@ -771,14 +704,11 @@ servidor.
 
 Spménte 14
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Instalação, Configuração e Implantação
 
@@ -841,14 +771,11 @@ controler (master) e para os host controllers (slave), baseados no modo Domain e
 
 Spménte 15
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 # cp -Rap /EAP_HOME/domain /EAP_HOME/master
 # cp -Rap /EAP_HOME/domain /EAP_HOME/slave01
@@ -945,14 +872,11 @@ ele precisa
 
 Spménte 16
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 ser montado em uma estrutura que o container possa entender e executar. No
 JBoss/Wildfly, a
@@ -1019,14 +943,11 @@ instância em um domínio gerenciado.
 
 Spménte 17
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 ESTA É
 
@@ -1089,9 +1010,6 @@ Q-Q SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplica�
 / 72
 
 
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
-
 C) na linha de endereço do navegador, http://localhost:8084/settings.
 
 D) em linha de comando, jboss -a mode=console.
@@ -1121,14 +1039,11 @@ Gabarito: Letra A
 
 Spménte 19
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 QUESTõES CoMENTADAS - SISTEMAS DISTRIBUÍDoS -
 MULTIBANCAS
@@ -1187,14 +1102,11 @@ a transparência, portanto o usuário não tem ideia qual servidor será utiliza
 
 Spmênte 20
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 (B) Em um sistema distribuído não há a figura fixa dos servidores dedicados a atender requisições.
 
@@ -1253,14 +1165,11 @@ Gabarito: Letra D
 
 Spménte 21
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Item. 4. (CESPE/SERPRO - 2013) Com relação à arquitetura de sistemas distribuídos, julgue os
 próximos itens. Na arquitetura distribuída, os sistemas orientados a eventos
@@ -1322,14 +1231,11 @@ a assertiva
 
 Spmênte 22
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 afirmou que as rotinas são executadas em função de eventos assíncronos! Portanto, a
 questão está
@@ -1388,14 +1294,11 @@ A) cluster paralelo - cluster de alta disponibilidade - cluster de três camadas
 
 Spmênte 23
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 B) cluster de alto desempenho - cluster virtual - cluster matricial
 
@@ -1458,14 +1361,11 @@ outro nó defeituoso;
 
 Spmênte 24
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 ( ) monitoramento dos nós feito por eles mesmos, por uma rede diferente da rede de dados.
 A sequência correta é:
@@ -1521,14 +1421,11 @@ Portanto, a questão está correta.
 
 Spménte 25
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Gabarito: Correta
 
@@ -1583,14 +1480,11 @@ problema (ex.: quebrar uma senha por força bruta).
 
 Spménte 26
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 (IV) Grid é fracamente acoplado, geralmente "espalhado pelo mundo",
 tendo os recursos
@@ -1646,14 +1540,11 @@ Gabarito: Letra C
 
 Spmênte 27
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 A) no máximo 2 servidores para redundância ou tolerância a falhas e
 fontes de energia
@@ -1688,12 +1579,9 @@ Gabarito: Letra B
 
 Spménte 28
 
-www.estrategiaconcursos.com.br
+
 / 72
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 QUESTõES CoMENTADAS - SERVIDoR DE APLICAçÃo
 JBoSS/WILDFLY - MULTIBANCAS
@@ -1748,14 +1636,11 @@ E) standalone controler.
 
 Spménte 29
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Comentários:
 
@@ -1801,14 +1686,11 @@ Comentários:
 
 Spmênte 30
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 O deploy varia conforme o tipo de perfil (profile) definido para o JBoss/Wildfly.
 Vamos ver como
@@ -1870,14 +1752,11 @@ disponíveis são denominados:
 
 Spmênte 31
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 A) Domain e Standalone;
 
@@ -1939,14 +1818,11 @@ E) bundles.
 
 Spménte 32
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Comentários:
 
@@ -2011,14 +1887,11 @@ Note que a porta
 
 Spménte 33
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 utilizada pelo servidor é a 9990, mas roda a aplicação na 8080. Ou seja, o
 JBoss/Wildfly roda em
@@ -2029,14 +1902,11 @@ Gabarito: Letra C
 
 Spmênte 34
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 LISTA DE QUESTõES - SISTEMAS DISTRIBUÍDoS -
 MULTIBANCAS
@@ -2089,14 +1959,11 @@ E) COM.
 
 Spmênte 35
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Item. 4. (CESPE/SERPRO - 2013) Com relação à arquitetura de sistemas distribuídos, julgue os
 próximos itens. Na arquitetura distribuída, os sistemas orientados a eventos
@@ -2152,14 +2019,11 @@ carga
 
 Spmênte 36
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 1O.(FGV/IBGE - 2017) Keyse é gerente de um centro de dados que hospeda distintos
 tipos de
@@ -2212,11 +2076,6 @@ computadores com processadores e sistemas operacionais heterogêneos.
 
 Spmênte 37
 
-www.estrategiaconcursos.com.br
-
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 II. Um sistema de processamento paralelo em massa visa resolver problemas que exigem
 capacidade de utilização de memória compartilhada usando um único conjunto de núcleos de
@@ -2270,14 +2129,11 @@ outros dispositivos.
 
 Spménte 38
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 D) um único servidor com diversas fontes de energia redundantes ligados a um gerador
 para que
@@ -2304,14 +2160,11 @@ GABARITO
 
 Spmênte 39
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 LISTA DE QUESTõES - SERVIDoR DE APLICAçÃo
 JBoSS/WILDFLY - MULTIBANCAS
@@ -2363,14 +2216,11 @@ D) em linha de comando, jboss -a mode=console.
 
 Spménte 40
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 E) na linha de endereço do navegador, http://localhost:80/server-console.
 
@@ -2421,14 +2271,11 @@ A) server://127.0.0.1:0800
 
 Spmênte 41
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 B) ftp://localhost:0800
 
@@ -2460,14 +2307,11 @@ GABARITO
 
 Spménte 42
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 APACHE
 
@@ -2495,7 +2339,7 @@ Existem dois tipos de páginas que podem ser adicionadas ao Apache: a página ra
 subpáginas.
 A página raiz é especificada através da diretiva DocumentRoot e será mostrada quando
 se entrar
-no domínio principal, como http://www.estrategiaconcursos.com.br. Na configuração
+no domínio principal, como http://. Na configuração
 padrão do
 Apache, DocumentRoot aponta para o diretório /var/www. Esse diretório será assumido como
 raiz
@@ -2529,14 +2373,11 @@ se utilizar "-k" antes do argumento):
 
 Spménte 43
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 * stop: finaliza o daemon httpd;
 
@@ -2606,14 +2447,11 @@ Options Indexes FollowSymLinks
 
 Spménte 44
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 <Files> limita o escopo das diretrizes pelos de nomes de arquivos. Funciona igual ao
 <Directory>,
@@ -2664,14 +2502,11 @@ DocumentRoot /var/www/www_site2_com_br
 
 Spménte 45
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 CustomLog /var/log/apache/site2/access.log combined
 ErrorLog /var/log/apache/site2/error.log
@@ -2733,10 +2568,6 @@ Q-Q SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplica�
 
 lente 46
 
-
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 KeepAlive On
 MaxKeepAliveRequests 50
@@ -2814,14 +2645,11 @@ Gabarito: Letra C ■
 
 Spmênte 47
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 IIS (INTERNET INFoRMATIoN SERVICES)
 
@@ -2888,14 +2716,11 @@ usando o IIS;
 
 Spménte 48
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Vamos falar um pouco sobre pool de aplicativos (app/ication pool- IIS7/7.5):
 
@@ -2976,14 +2801,11 @@ Mais duas informações importantes, que valem para os outros servidores Web tam
 
 Spménte 49
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 A porta padrão para requisições HTTPS (HTTP seguro) é a 443.
 
@@ -3036,11 +2858,6 @@ característica do servidor de aplicação IIS.
 A) Gera páginas HTML dinâmicas.
 
 
-
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
-
 B) Também é um servidor de aplicativo.
 
 C) Executa códigos PHP, Perl, Javascript e ASP.
@@ -3060,14 +2877,11 @@ Gabarito: Letra C
 
 Spménte 51
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 QUESTõES CoMENTADAS - APACHE - MULTIBANCAS
 
@@ -3123,14 +2937,11 @@ Portanto, a questão está correta.
 
 Spménte 52
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Gabarito: Correta
 
@@ -3180,14 +2991,11 @@ Comentários:
 
 Spménte 53
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 A diretiva Indexlgnore adiciona à lista de arquivos a serem escondidos quando listar
 um diretório.
@@ -3244,14 +3052,11 @@ persistentes?
 
 Spmênte 54
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 A) Mutex.
 
@@ -3309,14 +3114,11 @@ Gabarito: Letra C
 
 Spmênte 55
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Item. 9. (SUGEP-UFRPE/UFRPE - 2018) Numa instalação com o Servidor Apache existe a
 necessidade
@@ -3377,14 +3179,11 @@ simultaneamente, com o uso do método chamado de Virtual hosting.
 
 Spménte 56
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Comentários:
 
@@ -3440,16 +3239,13 @@ se entrar
 
 Spmênte 57
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
 
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
-
-no domínio principal, como http://www.estrategiaconcursos.com.br. Na configuração
+no domínio principal, como http://. Na configuração
 padrão do
 Apache, DocumentRoot aponta para o diretório /var/www. Esse diretório será assumido como
 raiz
@@ -3508,14 +3304,11 @@ Gabarito: Letra A
 
 Spménte 58
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 QUESTõES CoMENTADAS - IIS (INTERNET INFoRMATIoN
 SERVICES) - MULTIBANCAS
@@ -3568,14 +3361,11 @@ B) prover serviços WEB.
 
 Spménte 59
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 C) prover serviços de WEB e e-mail, respectivamente.
 
@@ -3636,14 +3426,11 @@ Gabarito: Letra C
 
 Spmênte 60
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Item. 5. (Colégio Pedro ll/Colégio Pedro II - 2016) Assinale a alternativa que
 NÃO apresenta uma
@@ -3697,14 +3484,11 @@ Gabarito: Letra B
 
 Spmênte 61
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Item. 7. (FCC/TRE-SP - 2017) Hipoteticamente, o Técnico, responsável pela administração do
 servidor
@@ -3764,14 +3548,11 @@ Comentários:
 
 Spménte 62
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 Segurança: No Windows Server, durante a instalação do IIS, há opção de segurança
 "Filtragem de
@@ -3831,14 +3612,11 @@ Gabarito: Letra B
 
 Spmênte 63
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 LISTA DE QUESTõES - APACHE - MULTIBANCAS
 
@@ -3896,14 +3674,11 @@ linux RedHat e Ubuntu, respectivamente:
 
 Spménte 64
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 A) service apache restart ou /etc/init.d/http restart.
 
@@ -3957,14 +3732,11 @@ C) http.confg
 
 Spmênte 65
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 D) apache.ini
 
@@ -4024,14 +3796,11 @@ D) start -s graceful-stop
 
 Spmênte 66
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 E) runserver -j restart
 
@@ -4056,14 +3825,11 @@ GABARITO
 
 Spmênte 67
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 LISTA DE QUESTõES - IIS (INTERNET INFoRMATIoN
 SERVICES) - MULTIBANCAS
@@ -4117,11 +3883,6 @@ A) apenas II e III estão corretas.
 
 Spmênte 68
 
-www.estrategiaconcursos.com.br
-
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 B) apenas I e II estão corretas.
 
@@ -4176,14 +3937,11 @@ B) ftp://10.0.0.1
 
 SpmêntE 69
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 C) https://192.168.0.1
 
@@ -4228,14 +3986,11 @@ D) F, F, V
 
 Spmênte 70
 
-www.estrategiaconcursos.com.br
+
 y 72
 
 /
 
-
-Evandro Dalla Vecchia Pereira
-Aula única (Prof. Evandro)
 
 GABARITo
 
@@ -4263,81 +4018,9 @@ GABARITO
 
 Spménte 71
 
-www.estrategiaconcursos.com.br
+
 / 72
 
 /
 
-
-Mas é sempre bom revisar o porquê e como você pode ser prejudicado com essa prática.
-
-
-Professor inresteseo tempo
-paro elaborar os cursos e o
-site os colo ca à venda.
-
-Pirata divulga ilicitamente
-
-(grupos dc ratão), 11 til iz ando-se
-do anonimato, nomes falsos ou
-laranjas (geral mente o pirata se
-anuncia como forma dor de
-"grupos solidários" de rateio
-
-que não visam lucro).
-
-
-Pirata cria a [unos fake
-praticando falsidade
-ideológica, comprando
-cursos do site em nome de
-pessoas aleatórias [usando
-
-nome, CPEcndereçoe telefone
-de terceiros sem autorização].
-
-Pirata fero os Termos de Uso,
-adultero as aulas e retira a
-identificação dos arquivos
-PDH justam ente porque a
-atividade é ilegal e ele não
-quer que seus fakcs
-
-sejam identificados).
-
-Pirata compra, muitas vezes,
-danando cartões de crédito
-
-(por vezes o sistema antifraud e
-não consegue identificar
-
-o golpe a tempo).
-
-Pirata revende as aulas
-protegidas por direitos autorais,
-praticando concorrência desleal
-e em flagrante desrespeito à
-Lei de Direitos Autorais
-
-(Lei 9.610/98).
-
-
-Concursciro(a) d cs informa d o
-participa de rateio, achando
-
-que nada disso está acontecendo
-c esperando se tornar servidor
-público para exigir o
-cumprimento das leis.
-
-0 professor que elaborou o
-curso não ganha nada, o sito
-não recebe nada, e a pessoa
-que praticou todos os ilícitos
-anteriores (pirata) fica
-
-como lucro.
-
-Deixando de lado esse mar de sujeira, aproveitamos para agradecer a todos
-JJI" que adquirem os cursos honestamente e permitem que o site continue existindo.
 
