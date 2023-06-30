@@ -497,7 +497,6 @@ macOS
 Windows
 
 
-
 Solaris
 
 BSD
@@ -9213,7 +9212,6 @@ interpretar o padrão utilizando a definição de expressão regular do padrão 
 
 B é uma expressão condicional genérica, semelhante às declarações if/else de outras
 linguagens.
-
 
 
 C é uma declaração SELECT arbitrária, ou uma subconsulta. A subconsulta é

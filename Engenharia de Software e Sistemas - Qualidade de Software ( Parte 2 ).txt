@@ -754,21 +754,21 @@ Bem, muitas estratégias de teste de software já foram propostas na
 literatura. Todas elas
 fornecem um modelo para o teste e todas têm as seguintes características genéricas:
 
- Para executar um teste eficaz, proceder a revisões técnicas eficazes. Fazendo isso, muitos
+Para executar um teste eficaz, proceder a revisões técnicas eficazes. Fazendo isso, muitos
 erros
 serão eliminados antes do começo do teste.
 
- O teste começa no nível de componente e progride em direção à integração do sistema
+O teste começa no nível de componente e progride em direção à integração do sistema
 computacional como um todo.
 
- Diferentes técnicas de teste são apropriadas para diferentes abordagens de engenharia de
+Diferentes técnicas de teste são apropriadas para diferentes abordagens de engenharia de
 software e em diferentes pontos no tempo.
 
- O teste é feito pelo desenvolvedor do software e (para grandes projetos) por um grupo
+O teste é feito pelo desenvolvedor do software e (para grandes projetos) por um grupo
 independente de teste.
 
 
- O teste e a depuração são atividades diferentes, mas a depuração deve ser associada com
+O teste e a depuração são atividades diferentes, mas a depuração deve ser associada com
 alguma estratégia de teste.
 
 Nós sabemos que uma estratégia de teste de software deve acomodar testes de
@@ -1350,18 +1350,18 @@ Em vez de adotar essa postura sem sentido, você deve se antecipar aos problemas
 potenciais de
 interface e realizar as seguintes atividades:
 
- Criar caminhos de manipulação de erro que testem todas as informações vindas de
+Criar caminhos de manipulação de erro que testem todas as informações vindas de
 outros
 elementos do sistema;
 
- Executar uma série de testes que simulem dados incorretos ou outros
+Executar uma série de testes que simulem dados incorretos ou outros
 erros potenciais na
 interface de software;
 
- Deve registrar os resultados dos testes para utilizar como evidência se ocorrera caça ao
+Deve registrar os resultados dos testes para utilizar como evidência se ocorrera caça ao
 culpado;
 
- Participar do planejamento e projeto de testes do sistema para assegurar que o
+Participar do planejamento e projeto de testes do sistema para assegurar que o
 software seja
 testado adequadamente.
 
@@ -1500,11 +1500,11 @@ componentes. As técnicas principais são: Testes de Caminho Básico e Testes de
 Estruturas de
 Controle - não vamos entrar em detalhes sobre cada uma delas.
 
- Caminho Básico: permite derivar uma medida de complexidade lógica de um procedimento
+Caminho Básico: permite derivar uma medida de complexidade lógica de um procedimento
 e
 a utiliza para definir um conjunto de caminhos de execução1.
 
- Estruturas de Controle: permite validar estruturas de controle como
+Estruturas de Controle: permite validar estruturas de controle como
 estruturas de condição,
 estruturas de fluxo de dados ou estruturas de laços.
 
@@ -1649,16 +1649,16 @@ As técnicas principais são: Testes Baseados em Grafos, Particionamento de Equi
 Análise
 de Valor Limite e Teste de Matriz Ortogonal.
 
- Baseado em Grafos: permite identificar os objetos e gera grafos para representá-los, testando-
+Baseado em Grafos: permite identificar os objetos e gera grafos para representá-los, testando-
 os e seus relacionamentos com o intuito de descobrir erros.
 
- Partição de Equivalência: permite agrupar os valores de entrada em categorias de dados para
+Partição de Equivalência: permite agrupar os valores de entrada em categorias de dados para
 evitar redundância e aumentar a cobertura de testes do sistema.
 
- Análise de Valor Limite: permite exercitar os limites do domínio de entrada, tendo em vista que
+Análise de Valor Limite: permite exercitar os limites do domínio de entrada, tendo em vista que
 a maioria dos erros se encontram nas extremidades da entrada.
 
- Matriz Ortogonal: utilizado com entradas relativamente pequenas, casos de testes são
+Matriz Ortogonal: utilizado com entradas relativamente pequenas, casos de testes são
 espalhados uniformemente pelo domínio do teste para detectar falhas.
 
 Galera, uma caixa-preta não permite que eu veja seus componentes internos.
@@ -2387,7 +2387,7 @@ percebeu que algumas
 funcionalidades antigas começaram a apresentar falhas em seus resultados. Logo, a medida inicial
 mais adequada a ser adotada
 
- é 0 teste de regressão (Letra D).
+é 0 teste de regressão (Letra D).
 
 (FUNPRESP/JUD - 2016) O teste de regressão visa garantir a integridade de um
 software já testado que tenha recebido uma nova implementação.
@@ -3248,36 +3248,36 @@ da maneira
 correta. As práticas recomendadas a seguir se aplicam ao teste de nível do sistema:
 
 
- Planeje seus testes cuidadosamente. Certifique-se de que seus casos de
+Planeje seus testes cuidadosamente. Certifique-se de que seus casos de
 teste estejam
 claramente definidos e bem escritos. Os casos de teste devem ser independentes e
 fáceis de
 entender.
 
- Teste o mais cedo e com a maior frequência possível durante o desenvolvimento.
+Teste o mais cedo e com a maior frequência possível durante o desenvolvimento.
 Quanto
 mais cedo você identificar um bug, mais fácil será corrigi-lo. Por outro lado, bugs
 encontrados
 tardiamente exigem muito mais esforço para serem corrigidos.
 
- Planeje a ordem em que os testes são executados. Muitas vezes, você pode usar um teste para
+Planeje a ordem em que os testes são executados. Muitas vezes, você pode usar um teste para
 criar o estado necessário para um segundo teste. Por exemplo, criar um usuário antes
 de testar
 a página da conta.
 
- Se possível, use ferramentas que possam agendar testes automaticamente, seja quando
+Se possível, use ferramentas que possam agendar testes automaticamente, seja quando
 um
 novo código for enviado por push ou de acordo com uma agenda. Isso garante que seu
 código
 seja sempre bem testado.
 
- Configure alertas para que você seja informado assim que um teste falhar. Em
+Configure alertas para que você seja informado assim que um teste falhar. Em
 seguida,
 decida se você deve abortar a execução de teste atual ou deixá-la completar. Por
 exemplo, se
 for um bug sério, provavelmente é melhor abortar e corrigir o bug.
 
- Lembre-se de que você precisa reavaliar constantemente seus planos de teste à
+Lembre-se de que você precisa reavaliar constantemente seus planos de teste à
 medida que
 seu aplicativo se desenvolve e muda. Não adianta testar recursos herdados que não fazem
 mais parte dos aplicativos.
@@ -4309,7 +4309,6 @@ todo o
 domínio.
 
 Comentários:
-
 
 
 Particionamento de Equivalência é um dos critérios de teste caixa-preta e, não, teste de unidade!
@@ -9306,11 +9305,11 @@ Gabarito: Letra B
 características:
 
 
- Realizado na instalação dos desenvolvedores.
+Realizado na instalação dos desenvolvedores.
 
- Conduzido em um ambiente controlado.
+Conduzido em um ambiente controlado.
 
- Conta com a participação de usuários e desenvolvedores.
+Conta com a participação de usuários e desenvolvedores.
 
 Esse tipo de teste é chamado de:
 
@@ -10385,7 +10384,6 @@ qual são
 utilizados documentos consistentes e adequados capazes de definir,
 registrar e prover
 condições de análise dos resultados obtidos ao longo do processo de testes de software.
-
 
 
 —A---------------------
@@ -11890,7 +11888,6 @@ d) Caixa Funcional.
 e) Cobertura Funcional.
 
 
-
 Item. 24. (IF / MT - 2019) Analise as sentenças presentes em Pressmann (2006) relacionadas
 abaixo,
 acerca de estratégias de teste para software convencional:
@@ -13050,11 +13047,11 @@ Item. 78. (CESGRANRIO/ Banco da Amazônia-2014) Um tipo deteste de validação p
 seguintes
 características:
 
- Realizado na instalação dos desenvolvedores.
+Realizado na instalação dos desenvolvedores.
 
- Conduzido em um ambiente controlado.
+Conduzido em um ambiente controlado.
 
- Conta com a participação de usuários e desenvolvedores.
+Conta com a participação de usuários e desenvolvedores.
 
 Esse tipo de teste é chamado de:
 

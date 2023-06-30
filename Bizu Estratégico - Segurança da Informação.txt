@@ -696,7 +696,7 @@ digital de A
 
 o Certificado de Assinatura Digital (Al, A2, A3 e A4)
 
- São os certificados usados para confirmação da identidade na web, correio eletrônico,
+São os certificados usados para confirmação da identidade na web, correio eletrônico,
 transações
 online, redes privadas virtuais, transações eletrônicas, informações eletrônicas,
 cifração de chaves
@@ -704,13 +704,13 @@ de sessão e assinatura de documentos com verificação da integridade de suas i
 
 o Certificado de Sigilo (Sl, S2, S3 e S4)
 
- São os certificados usados para cifração de documentos, bases de dados, mensagens e
+São os certificados usados para cifração de documentos, bases de dados, mensagens e
 outras
 informações eletrônicas.
 
 o Certificado do Tipo Al e Sl
 
- É o certificado em que a geração das chaves criptográficas é feita por
+É o certificado em que a geração das chaves criptográficas é feita por
 software e seu
 armazenamento pode ser feito em hardware ou repositório protegido por senha,
 cifrado por
@@ -720,7 +720,7 @@ no máximo de
 
 o Certificado do Tipo A2 e S2
 
- É o certificado em que a geração das chaves criptográficas é feita em software e
+É o certificado em que a geração das chaves criptográficas é feita em software e
 as mesmas são
 armazenadas em Cartão Inteligente ou Token, ambos sem capacidade de geração
 de chave e
@@ -736,7 +736,7 @@ o Certificado do Tipo A3 e S3
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
 
- É o certificado em que a geração e o armazenamento das chaves criptográficas são
+É o certificado em que a geração e o armazenamento das chaves criptográficas são
 feitos em cartão
 Inteligente ou Token, ambos com capacidade de geração de chaves e protegidos
 por senha, ou
@@ -750,7 +750,7 @@ conclusão do processo de revogação de 36 horas.
 
 o Certificado do Tipo A4 e S4
 
- É o certificado em que a geração e o armazenamento das chaves criptográficas são
+É o certificado em que a geração e o armazenamento das chaves criptográficas são
 feitos em cartão
 Inteligente ou Token, ambos com capacidade de geração de chaves e protegidos
 por senha, ou

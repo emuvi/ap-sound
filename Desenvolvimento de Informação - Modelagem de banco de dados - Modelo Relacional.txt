@@ -1629,7 +1629,7 @@ F | Ceara
 —
 
 
- | W Fvm'"ense
+| W Fvm'"ense
 
 29 27 8 5 14 58 28 -10 36
 ------------
@@ -7292,7 +7292,7 @@ Agora que temos conhecimento do conjunto de regras de inferência, vamos analisa
 uma
 
 y - y yT 7.1/
-das alternativas baseada nas dependências funcionais iniciais:  ' '
+das alternativas baseada nas dependências funcionais iniciais: ' '
 
 A X -> YZ-Se Y é subconjunto de X podemos garantir que X->Y. Como Y->Z, pela
 transitividade

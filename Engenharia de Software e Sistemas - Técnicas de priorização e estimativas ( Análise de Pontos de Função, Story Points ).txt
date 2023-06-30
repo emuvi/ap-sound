@@ -701,7 +701,7 @@ Externa (SE); e Consulta Externa (CE). Essas funções se dividem basicamente em
 tipos: as
 funções de dados e as funções de transação - conforme apresenta o esquema a seguir:
 
- Funções do Tipo Dado: representam requisitos de armazenamento do usuário. Galera,
+Funções do Tipo Dado: representam requisitos de armazenamento do usuário. Galera,
 quando
 vocês virem um ícone em formato de cilindro, provavelmente está representando
 algum
@@ -715,7 +715,7 @@ o ALI - Arquivo Lógico Interno
 
 o AIE-Arquivo de Interface Externa
 
- Funções do Tipo Transação: representam requisitos de processamento do usuário.
+Funções do Tipo Transação: representam requisitos de processamento do usuário.
 Galera,
 quando vocês virem uma seta, provavelmente está representando uma transação. Em outras
 palavras, uma transação trata de um processamento de criação, modificação ou exclusão de
@@ -1224,7 +1224,6 @@ fora da fronteira da aplicação são
 classificadas como entrada externa (Letra C).
 
 
-
 (TCE-SP - 2015) A análise por pontos de função constitui uma técnica utilizada para
 
 medição da estimativa de esforço no desenvolvimento de software. Um dos tipos
@@ -1510,13 +1509,13 @@ Pessoal, as etapas são basicamente as mesmas, mas divididas de uma forma difere
 toda
 forma, existem duas fases extras na última versão do processo de contagem. São elas:
 
- Reunir a Documentação: trata-se da etapa que reúne toda a documentação
+Reunir a Documentação: trata-se da etapa que reúne toda a documentação
 disponível. A
 documentação de suporte de uma contagem deve descrever a funcionalidade
 entregue pelo
 software ou a funcionalidade impactada pelo projeto de software medido.
 
- Documentar e Reportar: Trata-se da etapa em que a contagem de pontos de função
+Documentar e Reportar: Trata-se da etapa em que a contagem de pontos de função
 deve ser
 documentada, registrando todas as informações anteriores (o propósito, o tipo da
 contagem, o
@@ -1781,10 +1780,10 @@ cada subgrupo de dados de um ALI/AIE independentemente de ser o subgrupo
 opcional ou
 mandatório. Professor, 0 que seria um subgrupo opcional ou mandatário? Vamos ver...
 
- Mandatórios: são subgrupos de dados que o usuário deve usar pelo menos uma vez durante o
+Mandatórios: são subgrupos de dados que o usuário deve usar pelo menos uma vez durante o
 processo elementar de criação de um item num AIE.
 
- Opcionais: são subgrupos de dados que o usuário tema opção de usar ou não durante o processo
+Opcionais: são subgrupos de dados que o usuário tema opção de usar ou não durante o processo
 elementar de criação de um item em um AIE.
 
 Agora alguns sinônimos: há provas que chamam Registro Lógico Referenciado de Item de
@@ -2242,23 +2241,23 @@ Vamos ver como isso é pontuado para a característica geral conhecida como Comu
 de
 Dados:
 
- Pontue o, se a aplicação é puramente batch ou uma estação de trabalho que se encontra
+Pontue o, se a aplicação é puramente batch ou uma estação de trabalho que se encontra
 isolada.
 
- Pontue if se a aplicação é puramente batch, mas possui entrada de dados ou impressão
+Pontue if se a aplicação é puramente batch, mas possui entrada de dados ou impressão
 remota.
 
 
- Pontue 2, se a aplicação é batch, mas possui alguma entrada de dados e alguma
+Pontue 2, se a aplicação é batch, mas possui alguma entrada de dados e alguma
 impressão remota.
 
- Pontue 3, se a aplicação possui entrada de dados on-line, front-end de
+Pontue 3, se a aplicação possui entrada de dados on-line, front-end de
 teleprocessamento para um processamento batch ou sistema de consulta.
 
- Pontue 4, se a aplicação é mais que um front-end, mas suporta apenas um tipo de
+Pontue 4, se a aplicação é mais que um front-end, mas suporta apenas um tipo de
 protocolo de comunicação.
 
- Pontue 5, se a aplicação é mais que um front-end, e suporta mais de um tipo de protocolo
+Pontue 5, se a aplicação é mais que um front-end, e suporta mais de um tipo de protocolo
 de comunicação.
 
 PONTUAÇÃO INFLUÊNCIA 00 SISTEMA
@@ -2668,7 +2667,7 @@ base de comparação.
 COMPONENTES
 
 
- Funções do Tipo Dado: representam requisitos de armazenamento do usuário. Galera,
+Funções do Tipo Dado: representam requisitos de armazenamento do usuário. Galera,
 quando
 vocês virem um ícone em formato de cilindro, provavelmente está representando
 algum
@@ -2682,7 +2681,7 @@ o ALI - Arquivo Lógico Interno
 
 o AIE-Arquivo de Interface Externa
 
- Funções do Tipo Transação: representam requisitos de processamento do usuário.
+Funções do Tipo Transação: representam requisitos de processamento do usuário.
 Galera,
 quando vocês virem uma seta, provavelmente está representando uma transação. Em outras
 palavras, uma transação trata de um processamento de criação, modificação ou exclusão de
@@ -5025,7 +5024,6 @@ d) I, II e III, apenas.
 e) I e III, apenas.
 
 
-
 Comentários:
 
 (I) Como é? Não! Considera as funcionalidades criadas mais importantes! (II) Perfeito,
@@ -6814,7 +6812,6 @@ e) Acervo de Livros Internos - Acervo de Interfaces Externas.
 Comentários:
 
 ALI é o Arquivo Lógico Interno; AIE é o Arquivo de Interface Externa.
-
 
 
 Gabarito: Letra B
@@ -10011,7 +10008,6 @@ e) deve-se contar apenas um ALR para cada Arquivo Lógico Interno que é lido e
 mantido por
 
 uma entidade externa.
-
 
 
 Item. 33. (ESAF / MPOG - 2010) Assinale a afi rmativa correta relativa à Análise por

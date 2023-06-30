@@ -73,15 +73,15 @@ mais ricas e interativas. Professor, que tecnologias são essas? Jessé Garret, 
 do AJAX,
 afirmou em um artigo que ela incorpora as seguintes tecnologias:
 
- Apresentação: utiliza XHTML e CSS;
+Apresentação: utiliza XHTML e CSS;
 
- Interação e Exibição dinâmicas: utiliza DOM;
+Interação e Exibição dinâmicas: utiliza DOM;
 
- Manipulação e Intercâmbio de Dados: utiliza XML e XSLT;
+Manipulação e Intercâmbio de Dados: utiliza XML e XSLT;
 
- Recuperação Assíncrona de Dados: utiliza XMLHttpRequest;
+Recuperação Assíncrona de Dados: utiliza XMLHttpRequest;
 
- e JavaScript para reunir todas essas tecnologias.
+e JavaScript para reunir todas essas tecnologias.
 
 Vamos ver rapidamente cada uma dessas tecnologias:
 
@@ -249,10 +249,10 @@ onreadystatechange, responsável por especificar o que vai acontecer quando o se
 processar a
 resposta. Há três propriedades:
 
- Onreadystatechange: armazena uma função a ser chamada de forma automática cada vez
+Onreadystatechange: armazena uma função a ser chamada de forma automática cada vez
 que a propriedade readyState mudar;
 
- readyState: armazena o status do XMLHttpRequest.
+readyState: armazena o status do XMLHttpRequest.
 
 o o: Requisição não iniciada;
 
@@ -264,7 +264,7 @@ o 3: Requisição processada;
 
 o 4: Requisição finalizada e resposta pronta.
 
- Status:
+Status:
 
 o 200: "Ok".
 
@@ -1124,7 +1124,7 @@ return funcao(a,b)
 
 }
 
-let resultado  executar(soma.1,2)
+let resultado executar(soma.1,2)
 console.log(resultado)
 
 
@@ -1136,7 +1136,7 @@ return funcao(a.b)
 
 }
 
-let resultado  executar(l,2»function(a,b){
+let resultado executar(l,2»function(a,b){
 
 return a+b
 
@@ -1884,7 +1884,7 @@ return funcao(a,b)
 
 }
 
-let resultado  executar(soma.1,2)
+let resultado executar(soma.1,2)
 console.log(resultado)
 
 
@@ -1895,7 +1895,7 @@ return funcao(a.b)
 
 }
 
-let resultado  executar(l,2»function(a,b){
+let resultado executar(l,2»function(a,b){
 return a+b
 
 ))
@@ -1959,7 +1959,7 @@ a.slice(0,3);
 
 a.spli ce(l,1);
 
- a.pop();
+a.pop();
 
 Qual o valor da variável a ao término da execução do código?
 
@@ -2361,7 +2361,7 @@ clabel for="B''>B</label>
 
 <script>
 
-var app  new Vue({
+var app new Vue({
 el: '#app',
 
 data: {
@@ -4604,7 +4604,7 @@ d) <p>Total: <script>Math.calc(a * b)</scriptx/p>
 
 e) <p>Total: <script ng-math="a * b"x/scriptx/p>
 
-Item. 7. (COPERV/ UFSC  2018) Considere a página web abaixo que utiliza Angular.
+Item. 7. (COPERV/ UFSC 2018) Considere a página web abaixo que utiliza Angular.
 
 <!DOCTYPE html>
 

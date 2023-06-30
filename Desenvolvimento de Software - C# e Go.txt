@@ -619,7 +619,7 @@ utilizado (where), como
 será feita a ordenação (orderby), e o quê será o retorno (retorno).
 
 int[] valores = new int[] {0, 12, 44, 36, 92, 54, 13, 8};
-var resultado  from v in valores
+var resultado from v in valores
 
 where v < 37
 orderby v

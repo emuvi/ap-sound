@@ -668,7 +668,6 @@ aguardar o
 preenchimento da barra de status da execução.
 
 
-
 Ao final, a verificação de compatibilidade do ambiente estará concluída e você deve continuar.
 
 A próxima janela da instalação será Instance Configuration e você irá fazer a
@@ -961,20 +960,20 @@ Circundantes a ele estão vários componentes adicionais que dependem do
 motor. Estes
 componentes incluem:
 
- Interface para programação T-SQL (implementação da Microsoft da linguagem padrão
+Interface para programação T-SQL (implementação da Microsoft da linguagem padrão
 SQLANSI)
 
- Subsistema de segurança
+Subsistema de segurança
 
- Replicação
+Replicação
 
- SQL Server Agent
+SQL Server Agent
 
- Ferramentas para alta disponibilidade e recuperação
+Ferramentas para alta disponibilidade e recuperação
 
- SQL Server Integration Services
+SQL Server Integration Services
 
- Ferramentas de gerenciamento do SQL Server
+Ferramentas de gerenciamento do SQL Server
 
 As seções a seguir fornecem uma breve explicação sobre cada componente.
 
@@ -4199,10 +4198,10 @@ Julgue os itens subsequentes, relativos ao Microsoft SQL Server.
 cadeia de strings de
 tamanho fixo e variável até 2A90.
 
-r 
+r
 
 
- ..
+..
 
 = Comentário: Primeiramente 2A90 (dois elevado a 90) é um número gigantesco para ser usado como i
 
@@ -4225,8 +4224,6 @@ Julgue os itens subsequentes, relativos ao Microsoft SQL Server.
 [1] VIEW é uma tabela virtual cujo conteúdo está definido por uma instrução SELECT.
 
 r*"*
-
-
 
 
 = Comentário: A cláusula SELECT dentro do comando de criação da visão vai
@@ -5008,7 +5005,7 @@ A respeito do banco de dados SQL Server e da linguagem SQL, julgue os itens segu
 Valorl 2.1000 como
 resultado.
 
-! 
+!
 
 i Comentário: Retorna um valor numérico, arredondado, para o
 comprimento ou precisão i
@@ -7543,7 +7540,7 @@ E o número médio de bytes lidos e escritos em um segundo.
 
 Item. 34. BANCA: VUNESP ANO: 2014 ÓRGÃO: PRODEST-ES PROVA: ANALISTA DE TECNOLOGIA DA
 
- INFORMAÇÃO - DESENVOLVIMENTO DE SISTEMAS
+INFORMAÇÃO - DESENVOLVIMENTO DE SISTEMAS
 
 No Transact SQL do sistema gerenciador de bancos de dados MS SQL Server 2008 R2, o
 comando geral para a criação de um procedimento armazenado é:

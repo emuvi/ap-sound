@@ -458,16 +458,16 @@ do uso,
 sendo a mais conhecida a usabilidade. De acordo com o RUP, o Design Centrado no Usuário possui
 quatro componentes:
 
- Foco nos Usuários: desenvolvedores devem decidir quem serão os usuários e devem envolvê-
+Foco nos Usuários: desenvolvedores devem decidir quem serão os usuários e devem envolvê-
 los o quanto antes no projeto;
 
- Integração com Design: tarefas de usabilidade devem ser realizadas em paralelo desde o início
+Integração com Design: tarefas de usabilidade devem ser realizadas em paralelo desde o início
 do desenvolvimento do software;
 
- Teste com o Usuário no Início: a criação inicial de protótipos, normalmente esboços e modelos
+Teste com o Usuário no Início: a criação inicial de protótipos, normalmente esboços e modelos
 de baixa fidelidade;
 
- Design Iterativo: um processo iterativo, que se adapta bem a problemas que necessitam de
+Design Iterativo: um processo iterativo, que se adapta bem a problemas que necessitam de
 refinamento de compreensão.
 
 Além disso, o framework afirma que o Design Centrado no Usuário fornece:
@@ -1186,7 +1186,7 @@ Erros
 Desenho
 Redação
 
- Diretriz í-Contexto e Navegação
+Diretriz í-Contexto e Navegação
 
 A internet é um ambiente não-linear, ou seja, ela não possui um fluxo
 único. Cada página possui
@@ -1235,7 +1235,7 @@ Item. 1.13 Resultados da caixa de busca.
 
 Item. 1.14 Formulários amigáveis.
 
- Diretriz 2 - Carga de Informação
+Diretriz 2 - Carga de Informação
 
 
 A carga de informação é a soma de todos os elementos da
@@ -1277,7 +1277,7 @@ Item. 1.22 A rolagem vertical ou horizontal de tela.
 
 Item. 1.23 O bom senso no número de filtros e opções disponíveis.
 
- Diretriz 3 - Autonomia
+Diretriz 3 - Autonomia
 
 Na internet, qualquer tipo de controle (não esperado) vindo do sitio
 é indesejado. Controlar o
@@ -1309,7 +1309,7 @@ Item. 1.31 Permitir a cópia de trechos de documentos.
 
 Item. 1.32 Quando possível, oferecer a personalização da página.
 
- Diretriz 4-Erros
+Diretriz 4-Erros
 
 
 Errar é humano. O cidadão pode não entender como proceder em determinado
@@ -1338,7 +1338,7 @@ Item. 1.38 As mensagens de erro devem ser sucintas e explicativas
 
 Item. 1.39 Não limpe 0 conteúdo do formulário inteiro porcausa de um erro.
 
- Diretriz 5 - Desenho
+Diretriz 5 - Desenho
 
 Um bom desenho (design, programação visual) tem um impacto significativo
 na credibilidade
@@ -1390,7 +1390,7 @@ Item. 1.51 Respeitar a velocidade de conexão do público-alvo.
 
 Item. 1.52 Utilizar de forma consciente plug-ins e multimídia.
 
- Diretriz 6-Redação
+Diretriz 6-Redação
 
 A comunicação em sítios do governo é, sobretudo utilitária, visando prestar
 serviços e informações
@@ -1421,7 +1421,7 @@ Item. 1.60 Use ênfase e negrito.
 
 Item. 1.61 Evitar o uso de caixa alta.
 
- Diretriz 7 - Consistência e Familiariadade
+Diretriz 7 - Consistência e Familiariadade
 
 O cidadão deve sentir-se bem-vindo ao entrar em um sítio do governo.
 O desempenho dos
@@ -2810,7 +2810,6 @@ Se o sistema é usável com instrução ou ajuda contínua, então não há usab
 tudo que 0 usuário quiser fazer, ele precisar abrir um manual? Isso é um indício de que há carência
 de
 usabilidade!
-
 
 
 Gabarito: Errado

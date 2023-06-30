@@ -2248,10 +2248,6 @@ um i
 descrito e a descrição =
 
 
-
-
-
-
 : propriamente dita são criados, respectivamente, pelas tags
 i
 
@@ -2265,10 +2261,6 @@ I
 = b) <dd> e <tt>
 
 
-
-
-
-
 : c) <ul> e <li>
 :
 
@@ -2280,10 +2272,6 @@ I
 : d) <tt> e <dd>
 
 = e) <dd> e <dt>
-
-
-
-
 
 
 I
@@ -2311,8 +2299,6 @@ I
 
 : (nome) e a tag <dd> descreve cada termo. <dt> define um termo em uma lista de
 descrição. ;
-
-
 
 
 I

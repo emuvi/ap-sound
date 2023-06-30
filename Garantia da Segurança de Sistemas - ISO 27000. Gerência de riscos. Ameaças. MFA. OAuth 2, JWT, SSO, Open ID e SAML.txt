@@ -250,7 +250,7 @@ r 7
 
 
 : (Ano: 2020 Banca: CESPE Orgâo: SEFAZ/AL Prova: Auditor de Finanças e Controle)
-Identificação e 
+Identificação e
 
 : autenticação são requisitos de segurança da informação que consistem em identificar usuários do
 sistema :
@@ -577,7 +577,6 @@ da
 n iformaçã FV
 
 
-
 Ataque de força
 
 bruta: computadores
@@ -592,7 +591,7 @@ autenticação estão
 
 expostos a ataques de
 
- força bruta
+força bruta
 
 
 Interceptação de
@@ -1051,9 +1050,6 @@ i
 
 L ..
 
- 
- 
-  
 
 (Ano: 2021 Banca: CESPE Órgão: PG-DF Prova: Técnico Jurídico - TI)
 
@@ -1656,11 +1652,10 @@ I
 
 i ETAPA 2 - O Dono do Recurso (resource owner) realiza a autorização.
 
-L 
+L
 
-  ..
+..
 
- 
 
 *
 
@@ -1813,8 +1808,6 @@ entre o que =
 retina e =
 
 = digitais).
-
- 
 
 
 : Comentários:
@@ -2252,9 +2245,8 @@ Q-Q
 
 r*"""""* ..
 
- 
- 
-  ,
+
+,
 
 : (CESPE - 2014 - TJ-SE - Analista Judiciário - Segurança da Informação) Atividades de usuários,
 exceções e i
@@ -2383,10 +2375,6 @@ matrizes de responsabilidades e ações por componente e recurso envolvido.
 i
 
 
-
-
-
-
 : 2. Falhas das soluções e componentes de TI;
 ;
 
@@ -2398,14 +2386,8 @@ I
 ; 3. Fenômenos da natureza que geram acidentes e catástrofes (furação, tempestades, maremotos);
 
 
-
-
-
-
 Ê 4. Interrupções de abastecimento;
 i
-
-
 
 
 :
@@ -2422,16 +2404,8 @@ i 6. Malwares e Vírus;
 ;
 
 
-
-
-
-
 : 7. Sabotagem;
 ;
-
-
-
-
 
 
 : 8. Terrorismo, etc.
@@ -2642,7 +2616,7 @@ maiores
 que os dados ou informação em análise. Desse modo, aceita-se o risco em caso de ocorrência.
 
 
-r 
+r
 
 .
 
@@ -3033,7 +3007,7 @@ ameaças estejam de fato bloqueadas ou atenuadas.
 Os elementos do SDL considerados nessa fase são:
 
 
- |
+|
 
 : * Aplicar padrões de codificação e teste.
 
@@ -3284,8 +3258,6 @@ uma ferramenta do tipo SAST:
 
 ; 2) Quais os principais tipos de vulnerabilidades que a ferramenta é capaz de detectar;
 ;
-
-
 
 
 I
@@ -5327,7 +5299,7 @@ Gabarito - Questões FCC
 
 RESUMo
 
- PRINCÍPIOS DE SEGURANÇA
+PRINCÍPIOS DE SEGURANÇA
 
 * Três principais pilares que compõem a base da Segurança da Informação, quais sejam:
 
@@ -5400,7 +5372,7 @@ rede para induzir outros a se conectarem a este, ao invés do dispositivo
 legítimo,
 permitindo a captura de senhas de acesso e informações que por ele passem a trafegar;
 
- SEGURANÇA FÍSICA, LÓGICA E CONTROLE DE ACESSO: A física diz respeito aos aspectos tangíveis
+SEGURANÇA FÍSICA, LÓGICA E CONTROLE DE ACESSO: A física diz respeito aos aspectos tangíveis
 e que, de fato, podem ser tocados, enquanto a lógica está relacionada aos dados em
 seu formato
 analógico ou digital, tanto no aspecto de transmissão, processamento e armazenamento.
@@ -5423,7 +5395,7 @@ autorização.
 Três técnicas de controle e gerenciamento de acesso: Mandatory Access Control (MAC), Role-Based
 Access Control (RBAC), Discretionary Access Control (DAC).
 
- AUTENTICAÇÃO E SEUS MECANISMOS: os mecanismos de autenticação são
+AUTENTICAÇÃO E SEUS MECANISMOS: os mecanismos de autenticação são
 procedimentos,
 rotinas, ferramentas ou soluções que implementam, de fato, o princípio de
 autenticação com o
@@ -5442,7 +5414,7 @@ permitindo assim logins simplificados e integrados a múltiplos serviços na Int
 características
 físicas ou comportamentais.
 
- SEGURANÇA EM ENDPOINTS
+SEGURANÇA EM ENDPOINTS
 
 * Na prática, se o dispositivo está conectado à rede em alguma medida, com a
 capacidade de
@@ -5457,7 +5429,7 @@ EndPoints, podemos citar Antivírus, Antimalwares, firewalls, HIDS e HIPS, Atual
 diversas
 de drivers, softwares e S.O., entre outros.
 
- AUDITORIA E CONFORMIDADE
+AUDITORIA E CONFORMIDADE
 
 * Auditoria: a auditoria em tecnologia da informação diz respeito à análise
 cuidadosa e sistemática
@@ -5473,7 +5445,7 @@ resultados esperados.
 políticas e às normas
 organizacionais de segurança da informação.
 
- CONTINUIDADE DE NEGÓCIOS
+CONTINUIDADE DE NEGÓCIOS
 
 * ISO 27002 sobre o objetivo da Gestão da Continuidade de Negócios: "não permitir
 a interrupção
@@ -5489,7 +5461,7 @@ impactos devem ser analisados. O PCN possui como foco tanto o capital intelectua
 (informações),
 bem como suas instalações.
 
- PRINCÍPIOS DE NORMAS E PADRÕES
+PRINCÍPIOS DE NORMAS E PADRÕES
 
 * Gerência de Riscos: Existem algumas formas básicas de como a organização deve reagir
 aos
@@ -5523,7 +5495,7 @@ quantitativos, são maiores que os dados ou informação em análise. Desse modo
 o
 risco em caso de ocorrência.
 
- DIRETRIZES PARA O DESENVOLVIMENTO DE SOFTWARE SEGURO
+DIRETRIZES PARA O DESENVOLVIMENTO DE SOFTWARE SEGURO
 
 * SDL (Security Development Lifecycle): metodologia criada pela Microsoft para o
 desenvolvimento

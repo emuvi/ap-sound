@@ -200,7 +200,7 @@ Requisitos de Usuário e Requisitos de Sistema-evidentemente que o primeiro é m
 abstrato que
 o segundo. Vejam só...
 
- Requisitos de Usuário: descrições, em linguagem natural e com diagramas, de quais
+Requisitos de Usuário: descrições, em linguagem natural e com diagramas, de quais
 serviços o
 sistema deve fornecer e as restrições sob as quais deve operar. São requisitos com
 alto nível de
@@ -212,7 +212,7 @@ Exemplo: o sistema deve gerar um relatório de acompanhamento mensal e enviar pa
 usuários
 por e-mail - notem que há poucos detalhes e nada muito técnico.
 
- Requisitos de Sistema: descrições detalhadas sobre as funções, operações e
+Requisitos de Sistema: descrições detalhadas sobre as funções, operações e
 restrições de
 sistema que definem exatamente o que deve ser implementado. São requisitos com baixo
 nível
@@ -303,7 +303,7 @@ requisitos que traduz as necessidades do cliente em requisitos técnicos buscand
 maximizar a
 satisfação do cliente e enfatizando o entendimento do que é valioso para o cliente.
 
- Requisitos Normais: refletem os objetivos e metas estabelecidos para um produto ou
+Requisitos Normais: refletem os objetivos e metas estabelecidos para um produto ou
 sistema
 durante reuniões com o cliente. Se esses requisitos estiverem presentes, o cliente fica
 satisfeito.
@@ -321,7 +321,7 @@ exemplo: "cadastrar livros recebidos" ou "permitir buscar um livro pelo seu
 título". Enfim... são
 requisitos completamente normais para o contexto do negócio.
 
- Requisitos Esperados: estão implícitos no produto ou sistema e podem sertão
+Requisitos Esperados: estão implícitos no produto ou sistema e podem sertão
 fundamentais
 que o cliente não os declara explicitamente. Sua ausência será causa de grande
 insatisfação.
@@ -349,7 +349,7 @@ cliente, porque esse é um requisito esperado que ele sequer precisa
 especificar para os
 desenvolvedores. Entenderam agora?
 
- Requisitos Fascinantes: esses recursos vão além da expectativa dos clientes e
+Requisitos Fascinantes: esses recursos vão além da expectativa dos clientes e
 demonstram ser
 muito satisfatórios quando presentes. Por exemplo, o software para um novo celular vem
 com
@@ -399,7 +399,7 @@ Agora nós vamos falar sobre a classificação de requisitos quanto à evoluçã
 essa
 classificação divide os requisitos em requisitos permanentes e requisitos voláteis. Vejamos...
 
- Requisitos Permanentes: também chamados de Requisitos Estáveis, estão
+Requisitos Permanentes: também chamados de Requisitos Estáveis, estão
 diretamente
 ligados a atividade principal da organização. São concebidos com a essência de um
 sistema e
@@ -425,7 +425,7 @@ continue existindo requisitos relacionados a ações, câmbio, cotações, índi
 etc. Pode mudar
 uma coisa ou outra, mas esses requisitos são mais estáveis com o passar do tempo.
 
- Requisitos Voláteis: também chamados de Requisitos Instáveis, são específicos
+Requisitos Voláteis: também chamados de Requisitos Instáveis, são específicos
 para a
 instanciação de um sistema em um ambiente ou um cliente particular e são mais
 propensos a
@@ -519,7 +519,7 @@ eu tivesse que apostar em algum assunto para cair na prova, eu apostaria nesse! 
 entanto, fiquem
 tranquilos porque é fácil;)
 
- Requisitos Funcionais: são ações ou funcionalidades que o sistema deve fornecer para
+Requisitos Funcionais: são ações ou funcionalidades que o sistema deve fornecer para
 atingir
 seus objetivos. Eles dependem do tipo de software, dos usuários esperados e do tipo
 de sistema
@@ -551,15 +551,15 @@ serviço; e há requisitos inconsistentes, que contradizem outros requisitos do 
 
 Exemplos de Requisitos Funcionais:
 
- Pensemos em um Requisito do Outlook: Sistema deverá fornecer opção de filtrar
+Pensemos em um Requisito do Outlook: Sistema deverá fornecer opção de filtrar
 e-mails por
 Assunto e Anexos.
 
- Pensemos em um Requisito do Youtube: Sistema deverá reagir com suspensão de
+Pensemos em um Requisito do Youtube: Sistema deverá reagir com suspensão de
 vídeos que
 ferem direito autoral.
 
- Pensemos em um Requisito do GoogleMaps: Sistema deverá procurar rua mais próxima,
+Pensemos em um Requisito do GoogleMaps: Sistema deverá procurar rua mais próxima,
 caso
 não encontre a desejada.
 
@@ -594,15 +594,15 @@ Exemplo: o cliente deseja um desempenho altíssimo, mas quer que o sistema tenha
 
 Exemplos de Requisitos Não-Funcionais:
 
- Pensemos em um Requisito do Whatsapp: Sistema deverá fornecer disponibilidade
+Pensemos em um Requisito do Whatsapp: Sistema deverá fornecer disponibilidade
 mínima de
 99,8%.
 
- Pensemos em um Requisito do Facebook: Sistema deverá ser desenvolvido
+Pensemos em um Requisito do Facebook: Sistema deverá ser desenvolvido
 utilizando a
 linguagem Java.
 
- Pensemos em um Requisito do Android: Sistema deverá ser capaz de rodar com apenas
+Pensemos em um Requisito do Android: Sistema deverá ser capaz de rodar com apenas
 íGb de
 RAM.
 
@@ -634,16 +634,16 @@ importantes, por acharem que são óbvias demais ou que já estão subentendidas
 
 Exemplos de Requisitos de Domínio:
 
- Pensemos em um Requisito da USP: Sistema deverá calculara nota final da prova de
+Pensemos em um Requisito da USP: Sistema deverá calculara nota final da prova de
 mestrado
 segundo a fórmula (1.74^+3.17^ + 2-5gN₃)/3 * IRA (Aluno).
 
- Pensemos em um Requisito da STN: Sistema deverá calcular o valor do Título
+Pensemos em um Requisito da STN: Sistema deverá calcular o valor do Título
 Público NTN-B
 multiplicado pelo valor da Taxa SELIC do mês corrente.
 
 
- Pensemos em um Requisito da NASA: Sistema deverá funcionar em uma Câmera 4K captando
+Pensemos em um Requisito da NASA: Sistema deverá funcionar em uma Câmera 4K captando
 infravermelho e resistente a variações de temperatura.
 
 De acordo com Sommerville: a distinção entre esses diferentes tipos de requisitos não
@@ -823,7 +823,7 @@ subclassificação dos requisitos não-funcionais em: requisitos de produto, req
 organizacionais
 e requisitos externos.
 
- Requisitos de Produto: especificam o comportamento do produto. Entre os
+Requisitos de Produto: especificam o comportamento do produto. Entre os
 exemplos, estão
 requisitos de desempenho quanto à rapidez com que o sistema deve operar e
 quanto de
@@ -831,7 +831,7 @@ memória ele requer, requisitos de confiabilidade que definem a taxa aceitável
 de falhas,
 requisitos de portabilidade e requisitos de usabilidade.
 
- Requisitos Organizacionais: são derivados de políticas e procedimentos da
+Requisitos Organizacionais: são derivados de políticas e procedimentos da
 organização do
 cliente e do desenvolvedor. Entre os exemplos, estão padrões de processo que
 devem ser
@@ -839,7 +839,7 @@ usados, linguagem de programação ou o método de projeto usado, e requisitos d
 que
 especificam quando o produto e a sua documentação devem ser entregues.
 
- Requisitos Externos: abrange todos os requisitos derivados de fatores externos ao
+Requisitos Externos: abrange todos os requisitos derivados de fatores externos ao
 sistema e
 seu processo de desenvolvimento. Entre os exemplos, estão a interoperabilidade
 que define
@@ -2316,19 +2316,19 @@ rastreabilidade que podem ser mantidas na matriz - elas são apresentadas como p
 visto a
 seguir:
 
- Informações de rastreabilidade da origem: ligam os requisitos aos
+Informações de rastreabilidade da origem: ligam os requisitos aos
 stakeholders que
 propuseram os requisitos e aos motivos desses requisitos. Quando uma mudança é proposta,
 usam-se essas informações para consultar os stakeholders sobre a mudança.
 
 
- Informações de rastreabilidade de requisitos: ligam os requisitos dependentes
+Informações de rastreabilidade de requisitos: ligam os requisitos dependentes
 dentro do
 documento de requisitos. Usam-se essas informações para avaliar quantos
 requisitos serão
 afetados pela mudança e a extensão das mudanças de requisitos necessárias.
 
- Informações de rastreabilidade de projeto: ligam os requisitos aos módulos de
+Informações de rastreabilidade de projeto: ligam os requisitos aos módulos de
 projeto, nos
 quais esses requisitos são implementados. Você usa essas informações para avaliar o
 impacto
@@ -3329,7 +3329,7 @@ a) diagrama de casos de uso e histórias de usuários.
 
 b) diagrama de sequência e diagrama de atividades.
 
- c) diagramas que representem eventos ou estados.
+c) diagramas que representem eventos ou estados.
 
 d) diagrama de classes e histórias de usuário.
 
@@ -9329,7 +9329,7 @@ a) de eficiência e de confiança.
 
 b) contábeis e de desempenho.
 
- c) legais e de usabilidade.
+c) legais e de usabilidade.
 
 d) reguladores e de proteção.
 

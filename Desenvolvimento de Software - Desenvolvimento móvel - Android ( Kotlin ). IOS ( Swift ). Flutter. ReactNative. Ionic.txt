@@ -533,7 +533,6 @@ e são os arquivos que os dispositivos desenvolvidos para Android usam para inst
 aplicativo.
 
 
-
 Cada app Android é ativado na própria sandbox de segurança, protegido pelos seguintes
 recursos
 de segurança do Android:
@@ -679,15 +678,6 @@ i
 =
 
 Comentários:
-
-
-
-
-
-
-
-
-
 
 
 : Perfeita questão! Vejam que há um alinhamento bem intenso em relação à documentação. O ;
@@ -4527,8 +4517,6 @@ interpolação =
 :
 
 
-
-
 : Portanto, a opção correta é a letra d): let saida = "valor total =
 \(quantidade*valor)". Essa opção =
 
@@ -5869,8 +5857,6 @@ d) criar uma enumeration que representa estados.
 e) manter um estado local em uma função de um componente funcional.
 
 
-
-
 : Comentários:
 =
 
@@ -6329,8 +6315,6 @@ simplificada.
 ..
 
 
-
-
 i (UFC - UFC / 2019 - Adaptada) Sobre o desenvolvimento de aplicações
 móveis, assinale a
 
@@ -6568,8 +6552,6 @@ programação Dart. ;
 : pouco tempo. Além disso, o Flutter é gratuito e de código aberto, o que significa que qualquer
 
 = pessoa pode usá-lo e contribuir para o seu desenvolvimento.
-
-
 
 
 : Agora, imagine que você quer construir uma casa que seja compatível com diferentes
@@ -7212,8 +7194,8 @@ x += 1
 
 }
 
- (Cesgranrio - Caixa / 2021) Na linguagem de programação Kotlin, é possível criar
-uma variável 
+(Cesgranrio - Caixa / 2021) Na linguagem de programação Kotlin, é possível criar
+uma variável
 
 = cujo valor nunca pode ser mudado, na prática, uma constante, com o nome
 idademinima, do tipo i
@@ -7224,8 +7206,6 @@ i
 I
 
 
-
-
 I
 
 
@@ -7234,8 +7214,6 @@ I
 : Para que isso aconteça, qual das seguintes instruções deve ser usada?
 
 I
-
-
 
 
 : a)vai idademinima : Int = 18
@@ -7597,8 +7575,6 @@ i
 I
 
 
-
-
 : val resposta = when (classe) {
 i
 
@@ -7621,10 +7597,6 @@ I
 
 : else->"Dado inválido."
 :
-
-
-
-
 
 
 :println(resposta)

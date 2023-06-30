@@ -3730,7 +3730,7 @@ pai. O acesso aos atributos da classe-pai independe do modificador utilizado.
 d) o conceito de herança estabelece que uma classe possa aproveitar a
 implementação,
 
- definições dos atributos e métodos de uma classe-base. A classe-filha pode ter acesso aos
+definições dos atributos e métodos de uma classe-base. A classe-filha pode ter acesso aos
 
 métodos e atributos públicos e protegidos da classe-base. O polimorfismo é aplicado ao
 caso
@@ -8728,7 +8728,7 @@ também o serão.
 c) Interfaces são como as classes abstratas, mas nelas não é possível implementar nenhum
 método, apenas declarar suas assinaturas; uma classe ao implementar uma interface deverá
 
- escrever todos os seus métodos.
+escrever todos os seus métodos.
 
 d) No contexto da herança, uma instância da subclasse é, também, uma
 instância da
@@ -10270,7 +10270,7 @@ programação de sistemas. Sobre esse tipo de paradigma, é correto afirmar:
 
 a) apenas classes abstratas podem referenciar métodos abstratos.
 
- b) uma classe pode ser abstrata sem possuir nem referenciar métodos abstratos.
+b) uma classe pode ser abstrata sem possuir nem referenciar métodos abstratos.
 
 c) um método é abstrato por possuir parâmetros com tipos abstratos ainda não definidos.
 

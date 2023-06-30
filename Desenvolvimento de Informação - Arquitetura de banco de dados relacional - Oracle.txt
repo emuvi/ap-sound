@@ -1074,7 +1074,6 @@ na tablespace
 A MAIN.
 
 
-
 B SYSTEM.
 C SYSAUX.
 D UNDO.
@@ -3208,10 +3207,10 @@ de um redo log para outro. Enquanto isso, o servidor permanece gravando novas
 transações em
 outro grupo de log;
 
- Durante um intervalo de tempo (definido no parâmetro LOG_CHECKPOINT_TIMEOUT do
+Durante um intervalo de tempo (definido no parâmetro LOG_CHECKPOINT_TIMEOUT do
 arquivo de parâmetros);
 
- Quando acontece um shutdown;
+Quando acontece um shutdown;
 
 * O DBA força um checkpoint;
 
@@ -3416,7 +3415,7 @@ não suportam. Em E/S assíncrona, não há nenhuma exigência para a transmiss�
 temporização,
 permitindo que outros processos possam começar antes que a transmissão tenha terminado.
 
- Ouando falamos de execução paralela ou processamento paralelo,
+Ouando falamos de execução paralela ou processamento paralelo,
 múltiplos processos
 trabalham juntos, simultaneamente, para executar uma única instrução SQL. Ao dividir o
 trabalho
@@ -4368,7 +4367,7 @@ Random
 
 Stored Data
 
-u  i
+u i
 
 10/09/1992
 

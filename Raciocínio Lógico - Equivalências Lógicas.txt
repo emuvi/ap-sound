@@ -181,7 +181,6 @@ Número de linhas = 2" = 22 = 4.
 Passo 2: desenhar o esquema da tabela-verdade.
 
 
-
 Devemos determinar:
 
 (p->q)A(q->p); (p->q); (q->p); p ; q
@@ -524,9 +523,6 @@ p->q = ~pVq
 Vamos resolver duas questões que utilizam essa equivalência.
 
 r
-
-
-
 
 
 i (BANESTES/2021) A frase a seguir é um conhecido ditado popular:
@@ -1414,7 +1410,6 @@ i * Troca-se a condicional (->) pela conjunção (A); e
 Aplicando para a condicional da questão, temos que a negação de e-»n é dada por:
 
 
-
 ~ (e-> n) = eA~n
 
 Temos, portanto, a seguinte negação:
@@ -1514,7 +1509,6 @@ equivalência já conhecida, a
 : negação da disjunção exclusiva:
 
 ~(pYq) E p<->q
-
 
 
 : Podemos negar os dois lados desse resultado da seguinte forma:
@@ -1663,7 +1657,6 @@ d) Ou João passa no concurso público ou João estuda.
 A proposição composta original é uma bicondicional p<->q cujos termos são:
 
 
-
 : p:" João passa no concurso
 público."
 
@@ -1695,7 +1688,6 @@ atenção deve ser dada à alternativa A, que apresenta uma equivalência do bic
 negação:
 
 p<H>q E (~p)o(~q)
-
 
 
 : Gabarito: Letra D.
@@ -3504,7 +3496,6 @@ aplicar essa equivalência, devemos realizar o seguinte procedimento:
 * Mantém-se o segundo termo.
 
 
-
 Para o caso em questão, temos:
 
 nV~a = ~n->~a
@@ -5176,8 +5167,6 @@ Gabarito: 44 - CERTO. 45 - ERRADO. 46 - ERRADO.
 Texto para as próximas questões
 
 
-
-
 I
 
 : Julgue os seguintes itens, considerando a proposição P: "Se o responsável pela
@@ -5270,8 +5259,6 @@ O gabarito, portanto, é ERRADO.
 Gabarito: 47 - CERTO. 48 - ERRADO.
 
 Texto para as próximas questões
-
-
 
 
 I
@@ -6694,7 +6681,6 @@ quadro de
 associados e está com os pagamentos em dia.".
 
 
-
 Item. 43. (CESPE/SEFAZ AL/2021) A proposição Q é uma negação da proposição "Se Marcos está
 com os
 pagamentos em dia, então ele figura no quadro de associados.".
@@ -6738,7 +6724,7 @@ indicação fizer sua parte e j
 L:
 s..e..u..s...a..l.ia...d..o..s..t.r..a.b..a..l.h..a..re..md..u..r.o..,..v..e.n..c..e..r.ã..o...
 ."
- I;
+I;
 
 Item. 47. (CESPE/MJSP/2021) A proposição P é equivalente a "Se não vencermos, o responsável pela
 indicação

@@ -1802,7 +1802,6 @@ i Independentemente da linguagem de programação, uma função deve
 executar todos os i
 i procedimentos que estão sintetizados no seu nome, gerando uma função com múltiplos passos.
 
- 
 
 i Comentários: Quando falamos sobre Reutilização de funcionalidades, vimos que funções
 devem ser ;
@@ -2327,7 +2326,7 @@ r«*
 * ..
 * ..
 .. ..
-.. .. 
+.. ..
 ****
 
 : (CESPE - MPE CE - 2020) Julgue o seguinte item, relativo a métricas de qualidade de código, clean
@@ -2335,8 +2334,6 @@ i
 i code e refactoring.
 
 I
-
-
 
 
 í Pela perspectiva do clean code, é recomendado usar exceções (try/catch, por exemplo)

@@ -3295,7 +3295,7 @@ log 2 '
 
 (E)
 
- 1 log 2 0
+1 log 2 0
 
 11 11
 
@@ -4090,7 +4090,7 @@ A submatriz da matriz de TF-IDF desses dois documentos correspondente aos termos
 
 log?
 
- 1 1 0
+1 1 0
 
 (B) 11 11 1
 
@@ -4120,7 +4120,7 @@ log 2
 
 (E)
 
- 1 log 2 0
+1 log 2 0
 
 11 11
 

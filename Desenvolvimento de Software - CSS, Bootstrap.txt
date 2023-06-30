@@ -545,7 +545,6 @@ id".
 = text de um formulário, utiliza-se a instrução CSS
 
 
-
 i a) input [type=text] {background-color: #OOffOO}
 
 : b) input.type [text] {background-color: #ffOOOO}
@@ -736,8 +735,6 @@ i pelas páginas do sítio/portal. Por exemplo, a instrução <link rel =
 : d) clink rel="externai" type="text/css" src="aleap.css"/>
 
 = e) <style rel="stylesheet" type="text/css" url("aleap.css")/>
-
-
 
 
 ; Comentários: Sabemos que há três formas de inserir CSS: Estilos embutidos, Folha de
@@ -1276,7 +1273,6 @@ Sem borda.
 Uma fronteira oculta.
 
 |Uma borda mista.
-
 
 
 Largura da Borda do CSS
@@ -3381,11 +3377,11 @@ o Chá
 
 o Coca Cola
 
- Café
+Café
 
- Chá
+Chá
 
- Coca Cola
+Coca Cola
 
 Listas Ordenadas:
 
@@ -6974,7 +6970,7 @@ a) align:inline
 
 b) floatdeft
 
- c) displaydeft
+c) displaydeft
 
 d) position:inline
 
@@ -9901,8 +9897,6 @@ oferecendo uma excelente experiência de usuário em todos os dispositivos.
 /
 
 
-
-
 i (CEBRASPE Órgão: STM - 2018) O sistema de grades do Bootstrap baseia-se em um
 leiaute de 12 i
 
@@ -10289,8 +10283,6 @@ I
 ;
 
 
-
-
 I
 
 : c) "responsive " em um elemento div e adicionar classes "col-*" para criar as colunas.
@@ -10298,10 +10290,6 @@ I
 
 = d) "flex" em um elemento div e adicionar classes "grid-*" para criar as linhas.
 ;
-
-
-
-
 
 
 : e) "container" em um elemento div e adicionar as classes "row" e "col-*" para criar o layout. =
@@ -13603,7 +13591,7 @@ l/cBB/bootAtrap.rãn.caB^^
 «flcript Hre=whttpjir//a]ax. googleapla. rom/ajax/libs/jqu.siy/3,. 3 .J/jquary ,min , Jb'
 sc/fierapt>
 
-«flcrxpt aro  Sir tpa: //ednj s. c loudf larB. coo./aj ax/1 ibs/poppar. j b/1.14 .7/uKl/poppsr.
+«flcrxpt aro Sir tpa: //ednj s. c loudf larB. coo./aj ax/1 ibs/poppar. j b/1.14 .7/uKl/poppsr.
 aio.. j »Hx/script »
 caeript Brc=*littp* i. / /majeeda.boot-&tra.pcdn. cora/ bootâtrap/ 4.3.1 / j b /bocta-trap. mi n. j
 f' / Bcri.pt >
@@ -13931,10 +13919,10 @@ www. estra tegiaconcursos. com. br
 
 <Mta cliarst = "htz — z "i-
 
-< 1 inlt xeL = " 13y ls ' hee t '' hze f ='' c oo t  t - ap . min. c " * 15-
-sc z i pt ' z c='' j q j. ± ry . ri r.. z " ?-<  sczip t >
+< 1 inlt xeL = " 13y ls ' hee t '' hze f ='' c oo t t - ap . min. c " * 15-
+sc z i pt ' z c='' j q j. ± ry . ri r.. z " ?-< sczip t >
 
-sc x i pt s z c='' h oot  cx ap . min . j s11 >-í  c - ir t>
+sc x i pt s z c='' h oot cx ap . min . j s11 >-í c - ir t>
 
 í /iieaõ>
 
@@ -14144,7 +14132,7 @@ rei-" íty. Imlieet*>
 U»dy>
 c/bady>
 
- </htwl5
+</htwl5
 
 Para alinhar o texto NOME à direita utilizado Bootstrap, versão 5, é suficiente
 utilizar na tag
@@ -14841,7 +14829,7 @@ L/cBB/bootAtrap.rj.n.caB''^
 «flcript 8rc="bttJ?*F//a]ax. gcoglaapi#. rom/ajax/libs/Jqu^i-y/l. 3 r3/jquery ,min , Ja" sc/acrapt
 >
 
-«acrxpt are-  Sir tpa : / /ednj s - cloiidf Laro. cca/a.3 ax/1 ibs/poppar. j >/l.
+«acrxpt are- Sir tpa : / /ednj s - cloiidf Laro. cca/a.3 ax/1 ibs/poppar. j >/l.
 14.7/umdi/pcppcr. ~ izi.. j a H ></«cript >
 
 *cacrípt arc= 'ht tpB1. / Zm&xcda.boctatrapcdn. cora/ boota-l rap/ 4.3.1 / j b /bocta-trap. rui n.
@@ -15054,7 +15042,7 @@ ClDOCTTPE
 
 ilini. ríZ = " -zyle-teez" ZnzEÍ="coot.min. cu11?
 
-í 5CILpt 3zc='' g-jery . min . j  11X_ 3Czipt>
+í 5CILpt 3zc='' g-jery . min . j 11X_ 3Czipt>
 
 i 5CZL pt 5 Z C = '' C 007 3 tZ ap . mi Cl . j 5 ' X - 0. - íp t>
 

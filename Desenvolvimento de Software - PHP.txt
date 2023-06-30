@@ -2203,7 +2203,7 @@ enaiMO
 php Fe gloti dM*. http tp ÜP campres» iib phar
 tcp udp
 
-ccrr.wrt ccn< itnrg rot 1J stmo touppw ífnrtq lc c  iSrwis itnp tegs ccn«ed
+ccrr.wrt ccn< itnrg rot 1J stmo touppw ífnrtq lc c iSrwis itnp tegs ccn«ed
 corwmod dechur* Xiifc *
 
 Gabarito: Letra D
@@ -2645,9 +2645,9 @@ abaixo produzirá o resultado indicado em seguida.
 
 <?php
 
-$arl  array(10, 100,
+$arl array(10, 100,
 
-$ar2  arrayll, 3, 2,
+$ar2 arrayll, 3, 2,
 array_multisort($arl,
 va r_dump($a rl);
 
@@ -2769,7 +2769,7 @@ saída o valor 900.
 
 <h tml Xbody >< ?php
 
-$num=*14; Sdeslocado  $num >> 2;
+$num=*14; Sdeslocado $num >> 2;
 
 $scrrBF$des locado; $valorl=10; $valor2«20; $valor3=30;
 
@@ -3595,7 +3595,7 @@ function construct($nome) {
 
 parent:: construct(Snome);
 
-$this->situacao  "ativo*;
+$this->situacao "ativo*;
 
 >
 
@@ -3607,13 +3607,13 @@ function Fundonariolnativo($nome) {
 
 parent:: construct(Snome);
 
-$this->situacao  "inativo";
+$this->situacao "inativo";
 
 >
 
 }
 
-$fal  new FuncionarioAtivo("João");
+$fal new FuncionarioAtivo("João");
 
 $fa2 = new FuncionarioAtivo("Joáo");
 
@@ -5096,7 +5096,7 @@ $idade » array("Paulo">"40" , "Pedro"«>"62"t
 arsort($idade);
 
 foreach($idade as $x => $x_valor) {
-echo $x . "  " . $x_valor . * *;
+echo $x . " " . $x_valor . * *;
 
 }
 
@@ -5749,7 +5749,7 @@ c) decode(snome)
 
 d) snome - string( $_POST['nome'])
 
- e) parseHTML($nome, utf8( $_POST['nome'])
+e) parseHTML($nome, utf8( $_POST['nome'])
 
 Item. 34. (1 ES ES / IFC-SC - 2015) Em um código PHP 5.6.2, qual das alternativas a seguir atribuiria o
 valor
@@ -6298,7 +6298,7 @@ function construct($nome) {
 
 parent:: construct(Snome);
 
-$this->situacao  "ativo*;
+$this->situacao "ativo*;
 
 >
 
@@ -6310,13 +6310,13 @@ function Funcionariolnativo($nome) {
 
 parent:: construct(Snome);
 
-$this->situacao  "inativo";
+$this->situacao "inativo";
 
 >
 
 }
 
-$fal  new FuncionarioAtivo("João");
+$fal new FuncionarioAtivo("João");
 
 $fa2 = new FuncionarioAtivo("João");
 
@@ -7207,7 +7207,7 @@ $idade » array("Paulo">"40" , "Pedro"«>"62"t
 arsort($idade);
 
 foreach($idade as $x => $x_valor) {
-echo $x . "  " . $x_valor . * *;
+echo $x . " " . $x_valor . * *;
 
 }
 

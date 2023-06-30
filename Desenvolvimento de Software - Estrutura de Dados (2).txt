@@ -772,8 +772,8 @@ mesmo nível, como mostram as imagens abaixo.
 
 i
 
- (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados) O tipo de dados
-árvore 
+(CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados) O tipo de dados
+árvore
 
 = representa organizações hierárquicas entre dados.
 ;
@@ -833,8 +833,7 @@ suponhamos que Fi tem dois filhos Ni e N2. Logo, reescrevemos a subárvore de Fi
 r* ..
 ..
 
-..  ..
-
+.. ..
 
 
 i (CETAP - 2010 - AL-RR - Analista de Sistemas - A) Uma árvore binária é aquela
@@ -927,15 +926,15 @@ como objetivo percorrer a árvore numa dada ordem, enumerando os seus nós.
 
 Quando um nó é enumerado, diz-se que ele foi "visitado". Vamos ver agora esses três percursos:
 
- Pré-Ordem (ou Profundidade): visita a raiz; percorre a subárvore esquerda em
+Pré-Ordem (ou Profundidade): visita a raiz; percorre a subárvore esquerda em
 pré-ordem; percorre a
 subárvore direita em pré-ordem.
 
- In-Ordem (ou Simétrica): percorre a subárvore esquerda em in-ordem; visita a raiz;
+In-Ordem (ou Simétrica): percorre a subárvore esquerda em in-ordem; visita a raiz;
 percorre a subárvore
 direita em in-ordem.
 
- Pós-Ordem: percorre a subárvore esquerda em pós-ordem; percorre a subárvore direita
+Pós-Ordem: percorre a subárvore esquerda em pós-ordem; percorre a subárvore direita
 em pós-ordem;
 visita a raiz.
 
@@ -1353,19 +1352,19 @@ utilizada. Seguem as premissas:
 *
 
 
- Nó, Nodo ou Vértice:
+Nó, Nodo ou Vértice:
 
 Qualquer elemento de um conjunto N.
 
- Aresta ou Arco:
+Aresta ou Arco:
 
 Qualquer elemento de um conjunto A.
 
- Nós Adjacentes (Relação de Adjacência):
+Nós Adjacentes (Relação de Adjacência):
 
 São aqueles nós ligados por um arco (Ex: A é adjacente a D).
 
- Arco Incidente (Relação de Incidência):
+Arco Incidente (Relação de Incidência):
 
 São aqueles arcos que levam a um nó (Ex: (C,D) é incidente em D).
 
@@ -1375,23 +1374,23 @@ São aqueles arcos que levam a um nó (Ex: (C,D) é incidente em D).
 /
 
 
- Grau:
+Grau:
 
 É a quantidade de arcos que partem ou chegam em/de um nó.
 
- Caminho:
+Caminho:
 
 Sequência de arcos que levam de um nó a outro (Ex: A->C <(A,B), (B,D), (D,C)>).
 
- Circuito ou Ciclo:
+Circuito ou Ciclo:
 
 É o caminho que leva ao mesmo nó do qual saiu (Ex: <(A,B), (B,D), (D,A)>).
 
- Laço:
+Laço:
 
 É o circuito de um único arco (<(C,C)>).
 
- Ordem:
+Ordem:
 
 É a quantidade de vértices totais do grafo.
 
@@ -1555,7 +1554,7 @@ j CONSULTA (x)
 
 1 while esquerda [x] £ NIL
 
- 2 do x <- esquerda [x]
+2 do x <- esquerda [x]
 
 i 3 return x
 

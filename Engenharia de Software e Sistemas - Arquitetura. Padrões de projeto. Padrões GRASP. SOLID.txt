@@ -5076,7 +5076,7 @@ CoJRJKIÇ FRoTEonet?
 *
 
 
- Expert:
+Expert:
 
 Também conhecido como Information Expert, esse padrão é utilizado para determinar para
 quem
@@ -5086,7 +5086,7 @@ Deve-se atribuir a responsabilidade ao especialista da informação, isto é., a
 que possui a
 informação necessária para satisfazer essa responsabilidade.
 
- C reator:
+C reator:
 
 A criação de objetos é uma das atividades mais comuns em sistemas orientados a
 objetos. Esse
@@ -5096,7 +5096,7 @@ relacionamento entre objetos em determinadas classes, i.e., possui a
 responsabilidade unívoca
 pela criação de uma nova instância de uma classe.
 
- High Cohesion:
+High Cohesion:
 
 Esse padrão busca manter objetos apropriadamente focados, gerenciáveis e
 compreensíveis.
@@ -5106,7 +5106,7 @@ de um dado elemento são fortemente relacionadas e altamente focadas. Eu sempre
 decorei assim:
 "Coesão é a divisão de responsabilidades".
 
- Low Coupling:
+Low Coupling:
 
 Esse padrão é responsável por ditar como atribuir responsabilidades para
 apoiar baixa
@@ -5115,7 +5115,7 @@ em outras classes, e maior potencial de reúso. O acoplamento está sempre assoc
 coesão.
 Eu sempre decorei assim: "Acoplamento é a dependência entre as partes".
 
- Controller:
+Controller:
 
 Esse padrão tem o objetivo de atribuir a responsabilidade de lidar com eventos de
 sistema a uma
@@ -5125,7 +5125,7 @@ de caso de uso. Um objeto Controller não é uma interface com o usuário, trata
 na verdade -
 de um objeto responsável por receber e tratar eventos do sistema.
 
- Polymorphism:
+Polymorphism:
 
 Esse padrão atribui a responsabilidade de definir a variação de comportamentos baseado
 em tipos
@@ -5135,7 +5135,7 @@ outras palavras, não se deve utilizar a lógica condicional para decidir qual
 comportamento será
 realizado, mas utilizar os próprios tipos. Galera, é o polimorfismo comum à orientação a objetos.
 
- Pure Fabrication:
+Pure Fabrication:
 
 Esse padrão apresenta uma classe que não representa um conceito real, mas artificial,
 no domínio
@@ -5146,7 +5146,7 @@ a uma classe
 artificial que não representa um conceito do domínio do problema.
 
 
- Indirection:
+Indirection:
 
 Esse padrão atribui responsabilidade a um objeto intermediário para mediar as mensagens
 entre
@@ -5158,7 +5158,7 @@ dependem da indireção. Um exemplo é o Componente Controller no MVC - ele faz 
 mediação
 entre Model e View.
 
- Protected Variations:
+Protected Variations:
 
 Esse padrão identifica pontos de variação ou instabilidades potenciais e atribui
 responsabilidades
@@ -5198,7 +5198,7 @@ a uma classe artificial que não representa um conceito do domínio do problema.
 
 Comentários:
 
- Pure Fabrication:
+Pure Fabrication:
 
 Esse padrão apresenta uma classe que não representa um conceito real, mas artificial,
 no domínio
@@ -5218,7 +5218,7 @@ responsabilidade.
 
 Comentários:
 
- Expert:
+Expert:
 
 Também conhecido como Information Expert, esse padrão é utilizado para determinar para
 quem
@@ -5241,7 +5241,7 @@ alternativas embasadas no tipo de componente.
 
 Comentários:
 
- Protected Variations:
+Protected Variations:
 
 Esse padrão identifica pontos de variação ou instabilidades potenciais e atribui
 responsabilidades
@@ -5251,7 +5251,7 @@ variações de outros elementos (objetos, sistemas, subsistemas) ao envolver o f
 instabilidade
 em uma interface e usando o polimorfismo para criar várias implementações desta interface.
 
- Polymorphism:
+Polymorphism:
 
 Esse padrão atribui a responsabilidade de definir a variação de comportamentos baseado
 em tipos
@@ -5334,7 +5334,7 @@ tipo de padrão GRASP, um mesmo método pode apresentar várias formas.
 
 Comentários:
 
- Polymorphism:
+Polymorphism:
 
 Esse padrão atribui a responsabilidade de definir a variação de comportamentos baseado
 em tipos
@@ -5409,7 +5409,7 @@ Padrões de Projeto GOF exploram soluções de projeto mais específicas, já os
 Projeto
 GRASP refletem práticas mais pontuais da aplicação de técnicas orientadas a objetos.
 
- Controller:
+Controller:
 
 Esse padrão tem o objetivo de atribuir a responsabilidade de lidar com eventos de
 sistema a uma
@@ -5431,7 +5431,7 @@ padrão Low Coupling.
 
 Comentários:
 
- Low Coupling:
+Low Coupling:
 
 Esse padrão é responsável por ditar como atribuir responsabilidades para
 apoiar baixa
@@ -5449,7 +5449,7 @@ classes.
 
 Comentários:
 
- Low Coupling:
+Low Coupling:
 
 Esse padrão é responsável por ditar como atribuir responsabilidades para
 apoiar baixa
@@ -5593,15 +5593,15 @@ mudanças; e para aumentar a adesão do código aos princípios da orientação 
 
 SOLID é um acrônimo para cada um dos cinco princípios que fazem parte desse grupo:
 
- Single Responsability Principie;
+Single Responsability Principie;
 
- Open/Closed Principie
+Open/Closed Principie
 
- Liskov Substitution Principie
+Liskov Substitution Principie
 
- Interface Segregation Principie
+Interface Segregation Principie
 
- Dependency Inversion Principie
+Dependency Inversion Principie
 
 Esses cinco princípios de desenvolvimento de software são diretrizes a serem seguidas
 ao criar
@@ -5772,13 +5772,13 @@ ABSTRAÇÕES.
 
 Em primeiro lugar, vamos definir os termos usados aqui de forma mais simples:
 
- Módulo/Classe de Alto Nível: classe que executa uma ação com uma ferramenta;
+Módulo/Classe de Alto Nível: classe que executa uma ação com uma ferramenta;
 
- Módulo/Classe de Baixo Nível: ferramenta necessária para executar uma ação;
+Módulo/Classe de Baixo Nível: ferramenta necessária para executar uma ação;
 
- Abstração: representa uma interface que conecta as duas classes;
+Abstração: representa uma interface que conecta as duas classes;
 
- Detalhes: como a ferramenta funciona .
+Detalhes: como a ferramenta funciona .
 
 Este princípio diz que uma classe não deve serfundida com a ferramenta que usa para
 executar uma

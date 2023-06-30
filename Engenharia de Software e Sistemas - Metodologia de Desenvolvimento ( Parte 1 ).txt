@@ -239,7 +239,7 @@ Flexibilização
 sua
 execução. Professor, como a formalidade pode reduzir inconsistências?
 
- Cenário 1: Estamos na fase de testes de software. O testador afirma que fez todos
+Cenário 1: Estamos na fase de testes de software. O testador afirma que fez todos
 os testes,
 você - líder de projeto - acredita nele sem pestanejar, e passa o software ao
 cliente homologar
@@ -248,7 +248,7 @@ estão com
 erros grosseiros de funcionamento. Viram como a ausência de uma formalidade pode gerar
 inconsistências?
 
- Cenário 2: Estamos na fase de testes de software. O testador afirma que fez todos
+Cenário 2: Estamos na fase de testes de software. O testador afirma que fez todos
 os testes e
 entrega um documento de testes com tudo que foi verificado no sistema. Você - líder
 de
@@ -829,7 +829,7 @@ ESPIRAL
 PROTOTIPAGEM
 
 EXPLORATÓRIA/ M THROW-AWAY/
-EVOLUCIONÁRIA  DESCARTÁVEL
+EVOLUCIONÁRIA DESCARTÁVEL
 
 Por fim, existe mais um conceito importante nessa aula! É o conceito de
 Metodologia de
@@ -1154,18 +1154,18 @@ O modelo cascata tem sofrido diversas críticas a que fizeram com que até mesmo
 mais
 ardentes defensores questionassem sua eficácia. Entre os problemas encontrados, temos:
 
- Projetos reais raramente seguem o fluxo sequencial que o modelo propõe. Embora o
+Projetos reais raramente seguem o fluxo sequencial que o modelo propõe. Embora o
 modelo
 linear possa conter iterações, ele o faz indiretamente. Como consequência, mudanças podem
 provocar confusão à medida que a equipe de projeto prossegue.
 
- Frequentemente, é difícil para o cliente estabelecer explicitamente todas as
+Frequentemente, é difícil para o cliente estabelecer explicitamente todas as
 necessidades. O
 modelo cascata requer isso e tem dificuldade para adequar a incerteza natural que
 existe no
 início de muitos projetos.
 
- O cliente deve ter paciência. Uma versão operacional do(s) programa(s) não estará
+O cliente deve ter paciência. Uma versão operacional do(s) programa(s) não estará
 disponível
 antes de estarmos próximos do final do projeto. Um erro grave, se não
 detectado até o
@@ -1444,19 +1444,19 @@ Foi quando surgiu o Modelo Iterativo e Incremental como uma tentativa de resolve
 esse
 problema de acúmulo de riscos. Vejamos as diferenças fundamentais:
 
- No Modelo em Cascata, caso haja cem requisitos, analisam-se os cem requisitos,
+No Modelo em Cascata, caso haja cem requisitos, analisam-se os cem requisitos,
 projetam-
 se os cem requisitos, codificam-se os cem requisitos, testam-se os cem requisitos, e
 assim
 por diante sequencialmente;
 
- No Modelo Incremental, caso haja cem requisitos, dividem-se os cem requisitos em
+No Modelo Incremental, caso haja cem requisitos, dividem-se os cem requisitos em
 vinte
 miniprojetos de cinco requisitos cada e utiliza-se o modelo em cascata para
 cada
 miniprojeto;
 
- No Modelo Iterativo, caso haja cem requisitos, analisam-se, projetam-se,
+No Modelo Iterativo, caso haja cem requisitos, analisam-se, projetam-se,
 codificam-se,
 testam-se os cem requisitos, porém os requisitos são entregues incompletos e eu repito
 esse
@@ -2184,7 +2184,7 @@ PROTOTIPAGEM
 
 TDD/ATDD !
 
-EVOLUCIONÁRIA  DESCARTÁVEL
+EVOLUCIONÁRIA DESCARTÁVEL
 
 MODELOS EM CASCATA
 
@@ -7671,7 +7671,7 @@ Item. 30. (FAURGS / UFRGS - 2018) Considere as afirmações abaixo sobre Engenha
 I- A Engenharia de Software não se preocupa apenas com os processos técnicos do
 desenvolvimento de software. Ela também inclui atividades como gerenciamento de projeto de
 
- software e desenvolvimento de ferramentas, métodos e teorias para apoiar a produção de
+software e desenvolvimento de ferramentas, métodos e teorias para apoiar a produção de
 software.
 
 II - Por ser uma abordagem sistemática para a produção de software, a Engenharia de

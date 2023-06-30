@@ -1836,7 +1836,7 @@ SYMMETRIC_DIFFERENCE_UPDATE(]
 
 itens presentes em ambos os conjuntos
 
-Manterá apenas os itens presentes em .  ,
+Manterá apenas os itens presentes em . ,
 
 , x.intersection update(y)
 
@@ -5699,7 +5699,7 @@ Item. 23. (FGV - SEFAZ AM- 2022) Analise o código a seguir em linguagem de prog
 7 p -= 1
 
 
-9 arrayfpj  element
+9 arrayfpj element
 
 11 return array
 
@@ -9186,7 +9186,6 @@ URL do Django.
 i (CESPE - SEFAZ CE- 2021) Com relação à arquitetura de desenvolvimento de software, julgue o i
 i item a seguir.
 
- 
 
 i O framework Django utiliza a estrutura MTV (model-template-view), sendo template a
 camada i
@@ -9680,7 +9679,6 @@ templates.
 
 0 objetivo da internacionalização é permitir que uma única aplicação web ofereça seus
 conteúdos e funcionalidades em múltiplas linguagens.
-
 
 
 0 desenvolvedor Django, pode conseguir isto adicionando uns poucos hooks ao seu código

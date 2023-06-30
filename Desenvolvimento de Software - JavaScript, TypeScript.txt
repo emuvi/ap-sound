@@ -243,7 +243,7 @@ Externo: escrever o script em um arquivo externo com extensão .js e inserir com
 </html>
 
 
- Incorporado: também conhecida como interna, insere-se o script na seção <head> do
+Incorporado: também conhecida como interna, insere-se o script na seção <head> do
 documento.
 
 <!DOCTYPE html>
@@ -276,7 +276,7 @@ cbutton type="button" onclick="myFunction()">Experimente!</button>
 
 </html>
 
- Inline: insere-se o script diretamente na seção <body> do documento. Não é recomendada, pelo
+Inline: insere-se o script diretamente na seção <body> do documento. Não é recomendada, pelo
 princípio da separação das camadas.
 
 <!DOCTYPE html>
@@ -2899,7 +2899,7 @@ d) <p js="demo">H</p>
 
 e) <p onclick=udemo">H</p>
 
-Item. 25. (CESPE / PGDF  2021) Julgue o item a seguir, referente a linguagem de scripts.
+Item. 25. (CESPE / PGDF 2021) Julgue o item a seguir, referente a linguagem de scripts.
 
 <input type='text' id='a' value=,5l>
 
@@ -3569,13 +3569,13 @@ y 79
 /
 
 
-1 var a  5;
+1 var a 5;
 
 2 var b = 10;
 
 3 xf (a —- 5) (
 
-4 let a  4;
+4 let a 4;
 
 5 var b - 1;
 
@@ -3805,7 +3805,7 @@ ECMAScript 6, e a respectiva numeração das linhas de código na coluna à esqu
 assinale a
 alternativa correta.
 
-1 var a  5;
+1 var a 5;
 
 2 var b = 10;
 
@@ -3813,7 +3813,7 @@ alternativa correta.
 
 4 let a - 4;
 
-5 var b  1;
+5 var b 1;
 
 6 console.log(a);
 
@@ -4130,7 +4130,7 @@ interface CriaArrayString {
 var nomes: CriaArrayString;
 
 nomes = ["Ana", "Pedro", "Mariana");
-document.body.ínnerHTXL  nomes[1];
+document.body.ínnerHTXL nomes[1];
 
 Ao executar esse código:
 
@@ -4235,7 +4235,7 @@ interface CriaArrayString {
 var nomes: CriaArrayString;
 
 nomes = ("Ana", "Pedro", "Mariana");
-document.body.innerHTML  nomes(1];
+document.body.innerHTML nomes(1];
 
 Ao executar esse código:
 
@@ -4352,7 +4352,7 @@ interface CriaArrayString {
 var nomes: CriaArrayString;
 
 nomes = ["Ana", "Pedro", "Mariana");
-document.body.ínnerHTXL  nomes[1];
+document.body.ínnerHTXL nomes[1];
 
 Ao executar esse código:
 
@@ -4413,7 +4413,7 @@ interface CriaArrayString {
 var nomes: CriaArrayString;
 
 nomes = ("Ana", "Pedro", "Mariana");
-document.body.innerHTML  nomes(1) ;
+document.body.innerHTML nomes(1) ;
 
 Ao executar esse código:
 

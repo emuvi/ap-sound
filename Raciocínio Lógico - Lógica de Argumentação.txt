@@ -432,7 +432,6 @@ Agora vamos resolver duas questões que apresentam afirmações falsas.
 r
 
 
-
 ..
 
 í (SEFAZ AM/2022) Considere as sentenças a seguir.
@@ -712,12 +711,12 @@ condômino chamado
 
 : Marcos.
 
-;  P: "Se Marcos figura no quadro de associados e está com os pagamentos em dia,
+; P: "Se Marcos figura no quadro de associados e está com os pagamentos em dia,
 então ele tem direito a
 
 : receber os benefícios providos pela associação de moradores de seu condomínio."
 
-:  Q: "Marcos não figura no quadro de associados, mas ele está com os pagamentos em dia."
+: Q: "Marcos não figura no quadro de associados, mas ele está com os pagamentos em dia."
 
 ; Tendo como referência essas proposições, julgue o item a seguir.
 
@@ -1667,7 +1666,7 @@ Nesse caso, temos a seguinte condicional associada ao argumento:
 
 (P1AP2A ... APn) -> C
 
- (Pref. Limoeiro de Anadia/2013) A afirmação "Umpode ser representado de
+(Pref. Limoeiro de Anadia/2013) A afirmação "Umpode ser representado de
 forma simbólica por
 Pl & P2 & P3 & ... & Pn -> Q, onde Pl, P2, ... Pn
 são denominadose Q é denominada
@@ -2166,7 +2165,6 @@ r ..
 
 
 ..
-
 
 
 í (SEFAZ ES/2022) Sabe-se que as 3 sentenças a seguir são verdadeiras.
@@ -3074,7 +3072,6 @@ b) p Aq,-p l--q
 í c) p -o q I- p->q
 
 
-
 d)p,p^qhq
 
 j e) q, p q I- p
@@ -3545,7 +3542,7 @@ Veja que as premissas presentadas correspondem ao dilema destrutivo, em que a te
 Sabemos que no dilema destrutivo uma conclusão que torna o argumento válido é a disjunção inclusiva
 da
 
- negação dos antecedentes das duas primeiras premissas: ~pV~r.
+negação dos antecedentes das duas primeiras premissas: ~pV~r.
 
 : Essa conclusão correta está presente na letra B:
 
@@ -3849,7 +3846,7 @@ chamado Marcos.
 direito a
 receber os benefícios providos pela associação de moradores de seu condomínio."
 
- Q: "Marcos não figura no quadro de associados, mas ele está com os pagamentos em dia."
+Q: "Marcos não figura no quadro de associados, mas ele está com os pagamentos em dia."
 Tendo como referência essas proposições, julgue o item a seguir.
 
 Mesmo que sejam verdadeiras as proposições P e Q, não se pode afirmar que Marcos não
@@ -4969,7 +4966,6 @@ de fato uma
 consequência obrigatória das premissas. Logo, temos um argumento válido.
 
 Gabarito: CERTO.
-
 
 
 12.(CESPE/STJ/2015) Mariana é uma estudante que tem grande apreço pela matemática,
@@ -6351,7 +6347,7 @@ chamado Marcos.
 direito a
 receber os benefícios providos pela associação de moradores de seu condomínio."
 
- Q: "Marcos não figura no quadro de associados, mas ele está com os pagamentos em dia."
+Q: "Marcos não figura no quadro de associados, mas ele está com os pagamentos em dia."
 Tendo como referência essas proposições, julgue o item a seguir.
 
 Mesmo que sejam verdadeiras as proposições P e Q, não se pode afirmar que Marcos não
