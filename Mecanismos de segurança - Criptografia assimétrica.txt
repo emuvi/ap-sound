@@ -21,3 +21,48 @@ Item. 3. DSA (Digital Signature Algorithm): É um algoritmo utilizado especifica
 
 A criptografia assimétrica é frequentemente combinada com a criptografia simétrica para obter uma solução de segurança mais robusta. Ela é amplamente utilizada em diversos cenários, como comunicação segura na Internet, autenticação de usuários, troca segura de chaves e garantia da integridade dos dados.
 
+
+Tópico. Como funciona o algoritmo de criptografia assimétrica DH.
+
+
+O algoritmo de criptografia assimétrica Diffie-Hellman (DH) é amplamente utilizado para estabelecer uma chave de sessão compartilhada entre duas partes que desejam se comunicar de forma segura em um canal inseguro. O DH é um algoritmo de troca de chaves, o que significa que seu objetivo é permitir que duas partes estabeleçam uma chave secreta compartilhada sem que a chave seja transmitida pela rede.
+
+Aqui está um resumo de como funciona o algoritmo de criptografia assimétrica DH:
+
+1. Parâmetros de chave pública: Antes da comunicação começar, as duas partes concordam em alguns parâmetros comuns, incluindo um número primo grande (p) e um número inteiro (g) chamado de gerador. Esses parâmetros são públicos e podem ser conhecidos por qualquer pessoa.
+
+2. Geração das chaves privadas: Cada parte gera sua própria chave privada, que é um número aleatório e secreto. Vamos chamar essas chaves privadas de "a" e "b" para as duas partes.
+
+3. Cálculo das chaves públicas: Com base nas chaves privadas geradas, cada parte calcula sua chave pública. A chave pública é calculada usando a fórmula: A = g^a mod p para a primeira parte e B = g^b mod p para a segunda parte.
+
+4. Troca das chaves públicas: As partes trocam suas chaves públicas através de um canal inseguro, como a internet.
+
+5. Cálculo da chave de sessão: Com base nas chaves públicas recebidas, cada parte calcula a chave de sessão compartilhada usando a fórmula: S = B^a mod p para a primeira parte e S = A^b mod p para a segunda parte.
+
+6. Chave de sessão compartilhada: Agora, as duas partes têm uma chave de sessão compartilhada que pode ser usada para criptografar e descriptografar a comunicação entre elas. A chave de sessão é única para a sessão atual e não é transmitida pela rede.
+
+O algoritmo DH é baseado no problema do logaritmo discreto, que é computacionalmente difícil de resolver. Isso significa que mesmo que um invasor conheça os parâmetros públicos, as chaves públicas trocadas e observe a comunicação, é computacionalmente impraticável para ele calcular a chave de sessão sem a chave privada correta.
+
+O algoritmo DH é amplamente utilizado em criptografia de chave pública, especialmente em protocolos de comunicação segura, como o SSL/TLS. Ele permite que duas partes estabeleçam uma chave de sessão compartilhada sem a necessidade de compartilhar a chave diretamente, tornando a comunicação segura e protegida contra ataques de interceptação e análise criptográfica.
+
+
+Tópico. Como funciona o algoritmo de criptografia assimétrica RSA.
+
+
+O algoritmo de criptografia assimétrica RSA (Rivest-Shamir-Adleman) é amplamente utilizado para criptografia e assinatura digital. Ele envolve o uso de um par de chaves, uma chave pública e uma chave privada, que são geradas juntas, mas têm propriedades matemáticas específicas que garantem sua segurança.
+
+Aqui está um resumo de como funciona o algoritmo de criptografia assimétrica RSA:
+
+1. Geração das chaves: O processo começa com a geração do par de chaves. Isso envolve a seleção de dois números primos grandes e distintos, p e q. A multiplicação desses dois primos produz um número chamado n, que será usado como parte da chave pública e privada. Além disso, é calculado o valor da função totiente de Euler, denotada como φ(n), que é usada para determinar a chave privada. O processo de geração das chaves também envolve a seleção de um número inteiro e primo menor que φ(n), conhecido como e, que será usado como parte da chave pública.
+
+2. Chave pública: A chave pública consiste no par (n, e). A chave pública é compartilhada com qualquer pessoa que queira enviar uma mensagem criptografada para o proprietário da chave privada. A chave pública é usada para criptografar a mensagem.
+
+3. Chave privada: A chave privada consiste no par (n, d). O valor de d é calculado usando a função totiente de Euler φ(n), o número primo e e. A chave privada é mantida em segredo e é usada para descriptografar a mensagem criptografada.
+
+4. Criptografia: Para criptografar uma mensagem usando a chave pública, o remetente converte a mensagem em um número inteiro e aplica uma fórmula matemática para calcular o valor criptografado. O valor criptografado é a mensagem criptografada que será enviada ao destinatário.
+
+5. Descriptografia: O destinatário recebe a mensagem criptografada e usa sua chave privada para descriptografar a mensagem. O destinatário aplica uma fórmula matemática para obter o valor original da mensagem.
+
+O algoritmo RSA é baseado na dificuldade de fatorar números inteiros grandes em seus fatores primos. A segurança do algoritmo depende da dificuldade de calcular a chave privada d a partir da chave pública (n, e) sem conhecer os fatores primos p e q.
+
+O RSA é amplamente utilizado em sistemas de segurança, como criptografia de dados, assinaturas digitais, autenticação e troca segura de chaves. É um dos algoritmos de criptografia assimétrica mais conhecidos e amplamente adotados na prática.

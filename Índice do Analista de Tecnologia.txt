@@ -410,11 +410,15 @@ Item. Produto mínimo viável (MVP).
 
 Item. Gestão de Dívida Técnica.
 
-Item. Técnicas de priorização, de estimativas (Análise de Pontos de Função, Story Points).
+Item. Técnicas de priorização, de estimativas.
 
-Item. Análise e projeto.
+Item. Análise de Pontos de Função.
 
-Item. Desenvolvimento de Software - Orientação a objetos, Estrutura de dados e Algoritmos.
+Item. Análise de Story Points.
+
+Item. Análise e projeto de software.
+
+Item. Desenvolvimento de Software.
 
 Item. Desenvolvimento de Software - Estrutura de Arquivos.
 
@@ -428,13 +432,13 @@ Item. Desenvolvimento de Software - Complexidade de Algoritmos.
 
 Item. Desenvolvimento de Software - Pesquisa de Dados.
 
-Item. Qualidade.
+Item. Qualidade de Software.
 
 Item. Análise estática de código.
 
-Item. Teste unitário.
+Item. Testes unitários.
 
-Item. Mock, stubs.
+Item. Testes com Mock e stubs.
 
 Item. Teste de integração.
 
@@ -462,11 +466,29 @@ Item. Infraestrutura.
 
 Item. Infraestrutura como código (IAC).
 
-Item. Linguagens de script (Ansible, Terraform, ShellScript).
+Item. Infraestrutura - Linguagens de script.
+
+Item. Infraestrutura - Linguagem de script - Ansible.
+
+Item. Infraestrutura - Linguagem de script - Terraform.
+
+Item. Infraestrutura - Linguagem de script - ShellScript.
 
 Item. Resiliência de aplicações.
 
-Item. Técnica (Cache, Fallback, Circuitbrake, Disaster Recovery, Contingência, Balanceamento de Carga Global de Servidores (GSLB), Site Ativo X Ativo).
+Item. Resiliência de aplicações - Técnica de Cache.
+
+Item. Resiliência de aplicações - Técnica de Fallback.
+
+Item. Resiliência de aplicações - Técnica de Circuitbrake.
+
+Item. Resiliência de aplicações - Técnica de Disaster Recovery.
+
+Item. Resiliência de aplicações - Técnica de Contingência.
+
+Item. Resiliência de aplicações - Técnica de Balanceamento de Carga Global de Servidores (GSLB).
+
+Item. Resiliência de aplicações - Técnica de Site Ativo X Ativo.
 
 Item. Monitoração e observabilidade.
 
@@ -490,11 +512,15 @@ Item. Arquitetura de Software - Código Limpo.
 
 Item. Tecnologias de integração.
 
-Item. Workflow.
+Item. Tecnologias de integração - Workflow.
 
 Item. Web services.
 
-Item. RESTful, SOAP e GraphQL.
+Item. Web service - RESTful.
+
+Item. Web service - SOAP.
+
+Item. Web service - GraphQL.
 
 Item. Mensageria, stream e CORBA.
 
@@ -504,19 +530,27 @@ Item. Design de software - Orientação ao Domínio - DDD (Domain-Driven Design)
 
 Item. Arquitetura hexagonal.
 
-Item. Microsserviços (orquestração de serviços e API gateway) e containers.
+Item. Microsserviços.
 
-Item. Padrões de microsserviços (SAGA e CQRS).
+Item. Microsserviços - orquestração de serviços.
 
-Item. Transações distribuídas.
+Item. Microsserviços - API gateway.
+
+Item. Padrões de microsserviços.
+
+Item. Padrões de microsserviços - SAGA.
+
+Item. Padrões de microsserviços - CQRS.
+
+Item. Microsserviços - Transações distribuídas.
 
 
-Tópico. Nuvem.
+Tópico. Aplicações em Nuvem.
 
 
-Item. 12 factories.
+Item. Aplicações em Nuvem - 12 factories.
 
-Item. Orientação a serviço.
+Item. Aplicações em Nuvem - Orientação a serviço.
 
 Item. IaaS - Infraestrutura com Serviço.
 
@@ -548,27 +582,27 @@ Item. Análise de dados - R.
 
 Item. Aprendizado de máquina.
 
-Item. Técnicas de classificação.
+Item. Aprendizado de máquina - Técnicas de classificação.
 
-Item. Técnicas de regressão.
+Item. Aprendizado de máquina - Técnicas de regressão.
 
-Item. Técnicas de agrupamento.
+Item. Aprendizado de máquina - Técnicas de agrupamento.
 
-Item. Técnicas de redução de dimensionalidade.
+Item. Aprendizado de máquina - Técnicas de redução de dimensionalidade.
 
-Item. Técnicas de associação.
+Item. Aprendizado de máquina - Técnicas de associação.
 
-Item. Sistemas de recomendação.
+Item. Aprendizado de máquina - Sistemas de recomendação.
 
 Item. Processamento de linguagem natural (PLN).
 
 Item. Visão computacional.
 
-Item. Deep learning.
+Item. Aprendizado de máquina profundo (Deep learning).
 
 Item. Ciência de dados.
 
-Item. Big Data.
+Item. Grandes Volumes de Dados (Big Data).
 
 Item. Big Data - Fundamentos.
 
@@ -588,7 +622,7 @@ Item. Big Data - Processamento distribuído.
 
 Item. Big Data - Conceitos de data lake.
 
-Item. Armazenamento de Dados.
+Item. Sistemas de Armazenamento de Dados.
 
 Item. Sistemas de arquivos distribuídos.
 
