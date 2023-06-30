@@ -66,3 +66,73 @@ Item. 5. Descriptografia: O destinatário recebe a mensagem criptografada e usa 
 O algoritmo RSA é baseado na dificuldade de fatorar números inteiros grandes em seus fatores primos. A segurança do algoritmo depende da dificuldade de calcular a chave privada d a partir da chave pública (n, e) sem conhecer os fatores primos p e q.
 
 O RSA é amplamente utilizado em sistemas de segurança, como criptografia de dados, assinaturas digitais, autenticação e troca segura de chaves. É um dos algoritmos de criptografia assimétrica mais conhecidos e amplamente adotados na prática.
+
+
+Tópico. Como funciona o algoritmo de criptografia assimétrica HMAC.
+
+
+O algoritmo HMAC (Hash-based Message Authentication Code) é uma forma de criptografia assimétrica que combina funções hash criptográficas e chaves secretas para autenticar a integridade e a autenticidade de dados transmitidos. Ele é amplamente utilizado para verificar a integridade de mensagens e proteger contra ataques de falsificação ou modificação de dados.
+
+O HMAC usa uma função hash criptográfica, como o SHA-256 ou o SHA-512, juntamente com uma chave secreta compartilhada entre o remetente e o destinatário. A chave secreta é conhecida apenas por essas partes e é usada para gerar o código de autenticação da mensagem.
+
+Aqui está uma visão geral de como o algoritmo HMAC funciona:
+
+1. Definição da chave: O remetente e o destinatário concordam em uma chave secreta compartilhada que será usada para gerar e verificar o HMAC. Essa chave deve ser mantida em segredo e não deve ser divulgada a terceiros.
+
+2. Divisão da mensagem: O remetente divide a mensagem em blocos de tamanho fixo (geralmente do tamanho do bloco de hash utilizado). Se a mensagem não for um múltiplo do tamanho do bloco, ela será preenchida com bytes adicionais.
+
+3. Geração do HMAC: O remetente aplica a função hash criptográfica (por exemplo, SHA-256) na primeira divisão da mensagem e combina o resultado com a chave secreta. O resultado é passado novamente pela função hash e novamente combinado com a chave secreta. Esse processo é repetido até que todas as divisões da mensagem tenham sido processadas. O resultado final é o HMAC.
+
+4. Transmissão: O remetente envia a mensagem e o HMAC ao destinatário.
+
+5. Verificação do HMAC: O destinatário recebe a mensagem e a chave secreta compartilhada. Ele executa o mesmo processo de geração do HMAC aplicando a função hash criptográfica na mensagem recebida e na chave secreta. O resultado final é comparado com o HMAC recebido do remetente. Se os HMACs coincidirem, isso indica que a mensagem não foi modificada e é autêntica. Caso contrário, pode-se concluir que a mensagem foi modificada ou que a chave secreta não coincide.
+
+O HMAC oferece uma forte garantia de integridade e autenticidade dos dados, pois o HMAC é calculado usando uma chave secreta que só é conhecida pelo remetente e pelo destinatário. Mesmo que um invasor intercepte a mensagem e o HMAC, ele não será capaz de gerar um HMAC válido sem a chave secreta. Isso ajuda a proteger a comunicação contra ataques de falsificação ou modificação.
+
+É importante ressaltar que o HMAC não fornece confidencialidade dos dados, ou seja, não criptografa a mensagem em si. Ele apenas garante a integridade e autenticidade dos dados transmitidos. Se você precisar de confidencialidade, é necessário utilizar criptografia adicional, como criptografia simétrica ou criptografia assimétrica.
+
+
+Tópico. Como funciona o algoritmo de criptografia assimétrica ECDSA.
+
+
+O ECDSA (Elliptic Curve Digital Signature Algorithm) é um algoritmo de criptografia assimétrica baseado em curvas elípticas. Ele é usado principalmente para assinaturas digitais, permitindo a verificação da autenticidade e integridade de dados, bem como a não repúdio das mensagens.
+
+Aqui está uma visão geral de como o algoritmo ECDSA funciona:
+
+1. Geração das chaves: O primeiro passo é gerar um par de chaves assimétricas. Isso envolve a escolha de uma curva elíptica e a geração de uma chave privada e uma chave pública correspondente. A chave privada é um número aleatório e secreto, enquanto a chave pública é derivada matematicamente da chave privada e pode ser divulgada publicamente.
+
+2. Assinatura digital: Para assinar uma mensagem, o remetente segue os seguintes passos:
+
+   a) Conversão da mensagem: A mensagem é convertida em um valor numérico adequado para cálculos.
+
+   b) Geração de um valor efêmero: Um valor efêmero aleatório, conhecido como "k", é gerado para cada assinatura.
+
+   c) Cálculo do ponto da curva elíptica: O remetente calcula um ponto na curva elíptica multiplicando o ponto gerador da curva pelo valor efêmero "k".
+
+   d) Derivação da coordenada x: A coordenada "x" do ponto calculado é obtida.
+
+   e) Cálculo do valor "r": O valor "r" é calculado a partir da coordenada "x" do ponto calculado. "r" é uma parte da assinatura digital.
+
+   f) Cálculo do valor "s": O remetente calcula o valor "s" usando a chave privada, a mensagem e o valor "r". "s" é outra parte da assinatura digital.
+
+   g) Combinação da assinatura: A assinatura digital é formada pelos valores "r" e "s".
+
+3. Verificação da assinatura: Para verificar a assinatura, o destinatário segue os seguintes passos:
+
+   a) Recebimento da mensagem e da assinatura.
+
+   b) Extração dos valores "r" e "s" da assinatura.
+
+   c) Conversão da mensagem recebida em um valor numérico adequado para cálculos.
+
+   d) Cálculo do valor "w": O destinatário calcula o valor "w" usando o inverso multiplicativo de "s" (módulo a ordem da curva elíptica).
+
+   e) Cálculo do valor "u1" e "u2": O destinatário calcula os valores "u1" e "u2" multiplicando o valor "w" pelo valor numérico da mensagem e pelo valor "w" pelo valor "r", respectivamente.
+
+   f) Cálculo do ponto da curva elíptica: O destinatário calcula um ponto na curva elíptica somando os pontos geradores da curva multiplicados pelos valores "u1" e "u2", respectivamente.
+
+   g) Derivação da coordenada x: O destinatário obtém a coordenada "x" do ponto calculado.
+
+   h) Verificação da assinatura: A assinatura é considerada válida se o valor "r" calculado anterior
+
+   
