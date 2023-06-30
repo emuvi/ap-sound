@@ -404,7 +404,7 @@ Cjírâgem modo Cipher Feedback - CFB
 1 1
 
 
-Chave —+■
+Chave —+
 
 Cifragem da
 Cifra de bloco
@@ -414,7 +414,7 @@ Chave
 Cifragem da
 Cifra de bloco
 
-Chave —+■
+Chave —+
 
 Cifragem da
 Cifra de bloco
@@ -889,7 +889,6 @@ A imagem a seguir retrata o fluxo de operações do algoritmo:
 64-bit plaintext
 64-bit key
 
-44.........1
 
 Permuted Choice 1
 
@@ -1015,7 +1014,7 @@ encryption
 
 W1 Encryption
 
-■jll Decryption
+jll Decryption
 
 Encryption
 

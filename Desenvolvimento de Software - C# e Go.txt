@@ -415,7 +415,7 @@ Uma classe que implementa a interface IEnumerable<T> permite que seus elementos
 sejam percorridos em ordem dentro de um, loop. Isso porque ela implementa o método
 GetEnumeratorO. 0 objeto retornado é o Enumerator. Este objeto é que permite ao
 
-■Foreach percorrer todos os elementos.
+Foreach percorrer todos os elementos.
 
 Vamos ver um trecho de código de exemplo?
 
@@ -619,7 +619,7 @@ utilizado (where), como
 será feita a ordenação (orderby), e o quê será o retorno (retorno).
 
 int[] valores = new int[] {0, 12, 44, 36, 92, 54, 13, 8};
-var resultado ■ from v in valores
+var resultado  from v in valores
 
 where v < 37
 orderby v

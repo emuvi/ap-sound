@@ -53,6 +53,7 @@ def adjust_chars(text):
     print('Ajustando caracteres...')
     result = []
     for line in text:
+        line = line.replace('■', '')
         line = line.replace('“', '"')
         line = line.replace('”', '"')
         line = line.replace('’', "'")

@@ -430,7 +430,7 @@ Nossa Senhora Aparecida
 CO
 
 
-■S
+S
 
 
 mal
@@ -3383,9 +3383,9 @@ Gabarito: Letra E
 
 Item. 8. (FCC / TRE-SP - 2012) Nos conceitos de orientação a objetos, ..I... é uma
 estrutura composta
-por ...II... que descrevem suas propriedades e também por ...III....
+por ...II... que descrevem suas propriedades e também por ...III
 que moldam seu
-comportamentoIV.... são ....V dessa estrutura e só existem em tempo de execução.
+comportamentoIV são V dessa estrutura e só existem em tempo de execução.
 
 Para completar corretamente o texto as lacunas devem ser preenchidas, respectivamente, por
 
@@ -3730,7 +3730,7 @@ pai. O acesso aos atributos da classe-pai independe do modificador utilizado.
 d) o conceito de herança estabelece que uma classe possa aproveitar a
 implementação,
 
-■ definições dos atributos e métodos de uma classe-base. A classe-filha pode ter acesso aos
+ definições dos atributos e métodos de uma classe-base. A classe-filha pode ter acesso aos
 
 métodos e atributos públicos e protegidos da classe-base. O polimorfismo é aplicado ao
 caso
@@ -8268,9 +8268,9 @@ e) encapsulamento.
 
 Item. 8. (FCC / TRE-SP - 2012) Nos conceitos de orientação a objetos, ..I... é uma
 estrutura composta
-por ...II... que descrevem suas propriedades e também por ...III....
+por ...II... que descrevem suas propriedades e também por ...III
 que moldam seu
-comportamentoIV.... são ....V dessa estrutura e só existem em tempo de execução.
+comportamentoIV são V dessa estrutura e só existem em tempo de execução.
 
 Para completar corretamente o texto as lacunas devem ser preenchidas, respectivamente, por
 
@@ -8728,7 +8728,7 @@ também o serão.
 c) Interfaces são como as classes abstratas, mas nelas não é possível implementar nenhum
 método, apenas declarar suas assinaturas; uma classe ao implementar uma interface deverá
 
-■ escrever todos os seus métodos.
+ escrever todos os seus métodos.
 
 d) No contexto da herança, uma instância da subclasse é, também, uma
 instância da
@@ -10270,7 +10270,7 @@ programação de sistemas. Sobre esse tipo de paradigma, é correto afirmar:
 
 a) apenas classes abstratas podem referenciar métodos abstratos.
 
-■ b) uma classe pode ser abstrata sem possuir nem referenciar métodos abstratos.
+ b) uma classe pode ser abstrata sem possuir nem referenciar métodos abstratos.
 
 c) um método é abstrato por possuir parâmetros com tipos abstratos ainda não definidos.
 

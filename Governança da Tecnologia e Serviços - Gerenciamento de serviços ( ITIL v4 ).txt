@@ -136,10 +136,10 @@ serviços de TI se tornou uma capacidade estratégica. Vejamos a definição de
 Gerenciamento de
 Serviço:
 
-r .. .......................................*.................*...................
-.......................................................*............................................
-. *.................*..................................................
-*.................*.....................................................................*
+r .. **
+*
+. **
+***
 
 ; Conjunto de recursos organizacionais especializados para gerar valor para os clientes na ;
 
@@ -163,14 +163,14 @@ básico. O básico para ITIL é o conceito de Serviço, afinal, a ITIL é um fra
 de Gerenciamento
 de Serviço. Vamos ao conceito:
 
-.. ............................... ..
-....................................................................................................
-.......*...................................*........................................................
-...............................................
-*...................................*...............................................................
-..................... ...
+.. ..
 
-■ Meio que permite a cocriação de valor ao facilitar a obtenção dos resultados que os clientes ;
+**
+
+**
+...
+
+ Meio que permite a cocriação de valor ao facilitar a obtenção dos resultados que os clientes ;
 
 : desejam, sem que eles precisem gerenciar custos e riscos específicos.
 :
@@ -1161,8 +1161,8 @@ ESTA CAI
 
 NA PROVA!
 
-. ........................... ............. ......... ..................
-......................................... ................ ........... .
+.
+.
 .
 
 = (SEFAZ/CE - 2021). Na ITIL 4, a cadeia de valor de serviço (CVS) é composta por
@@ -2194,9 +2194,8 @@ ESTA CAI
 
 NA PROVA!
 
-........................................ ................
-....................................................................................................
-....................................i
+
+i
 
 í (SEFAZ/AL - 2021 - Adaptada) A um auditor da SEFAZ foi solicitada avaliação acerca
 da necessidade de i
@@ -2322,9 +2321,7 @@ ESTA CAI
 NA PROVA!
 
 
-..........................................
-....................................................................................
-.................................................................. .
+.
 
 j (FGV / SEFAZ-AM - 2022) Segundo o ITIL versão 4, o objetivo da prática de
 gerenciamento de ativos de TI é i
@@ -2549,8 +2546,8 @@ o impacto negativo de incidentes, restaurando a operação normal do serviço o
 mais rápido possível
 (Gabarito: Errado).
 
-....................................................................................................
-....................................................................... ......................|
+
+|
 
 í (FGV / DPE - RJ - 2019) Em ITIL, o objetivo do gerenciamento de incidentes é restaurar a operação
 normal i
@@ -2586,13 +2583,12 @@ de rede falhou e o usuário não foi previamente notificado de quaisquer interru
 serviço. As demais
 alternativas são eventos normais. (Gabarito: Letra B).
 
-r*.................................................. ..
-...........................................................
-■■■■■.......................................................
-................................................................
-.........................................................
-................................................................
-........................................................... ..
+r* ..
+
+
+
+
+..
 
 í (FGV / COMPESA - 2018) A Incidentes registrados pelo Service Desk devem ser associados a códigos
 de i
@@ -2709,7 +2705,7 @@ gerenciando soluções
 de contorno e erros conhecidos. Portanto questão errada. (Gabarito: Errado)
 
 (Ministério da Economia - 2021) Na ITIL 4, o gerenciamento de incidentes e o
-gerenciamento de problemas ■
+gerenciamento de problemas 
 foram unidos em uma única prática que visa restaurar a operação normal do serviço o
 mais rapidamente ;
 possível, juntamente com a descoberta da causa raiz do problema.
@@ -3013,7 +3009,7 @@ As quatro dimensões são:
 Social
 factors
 
-.... Factors
+Factors
 
 : Every dimension is affected
 
@@ -6901,7 +6897,7 @@ organização a controlar custos.
 d) garantir que os serviços atinjam o desempenho acordado e esperado de maneira
 econômica.
 
-■ e) monitorar a infraestrutura e responder às condições que possam levar a possíveis falhas ou
+ e) monitorar a infraestrutura e responder às condições que possam levar a possíveis falhas ou
 incidentes.
 
 Item. 34. (FGV / TJDFT - 2022) A prática do ITIL versão 4 que tem por objetivo minimizar

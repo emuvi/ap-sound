@@ -268,9 +268,6 @@ diferente.
 
 = Portanto, é heterogêneo. Assim, Al - B2 - Cl. Gabarito: Letra D
 
-.......................................... .........
-.......................................................................................
-....................................................
 
 j (UFRPE - 2022 - UFRPE) Sobre algoritmos e estrutura de dados, assinale a afirmativa correta.
 
@@ -462,8 +459,6 @@ Uma vantagem desse tipo de alocação é que o tamanho do arquivo não precisa s
 conhecido antes de sua
 criação, já que cada bloco terá um ponteiro para o próximo bloco.
 
-....................................................................................................
-....................... .............. ......................................................
 
 í (CESPE/CEBRASPE - 2019 - MPC-PA) Assinale a opção que apresenta a denominação da estrutura de
 dados
@@ -526,8 +521,8 @@ Vetores? Eles são uma estrutura de acesso direto, i.e., pode-se acessar um elem
 diretamente. Portanto,
 não precisa percorrer elemento por elemento (Acesso O(l))3.
 
-.............. *................. *................................................................
-*................. *....... *........................................ *....................... .
+* *
+* * * * .
 
 í (CESPE/CEBRASPE - 2017 -TRT-7) Considere uma estrutura de dados em que cada elemento
 armazenado i
@@ -774,12 +769,11 @@ todos os nós têm grau 0 ou 2. E uma Árvore Binária Completa é aquela em que
 as folhas estão no
 mesmo nível, como mostram as imagens abaixo.
 
-.......................................... ............ ................. .........
-.................. ...................... ..............
-.......................................................i
 
-■ (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados) O tipo de dados
-árvore ■
+i
+
+ (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados) O tipo de dados
+árvore 
 
 = representa organizações hierárquicas entre dados.
 ;
@@ -836,12 +830,12 @@ transcrever isso para 0 desenho hierárquico de uma árvore, lemos da esquerda
 para a direita. Agora
 suponhamos que Fi tem dois filhos Ni e N2. Logo, reescrevemos a subárvore de Fi como (Fi (N1XN2)).
 
-r■■■■■■*■■.................................................. ..
-................................................................... ..
-.............................................................. ■■■■■■■■..........................
-............................... .. .................... ■■■■■■............................ ..
-...................................................................
-■■■■■■■■.......................... ....................
+r* ..
+..
+
+..  ..
+
+
 
 i (CETAP - 2010 - AL-RR - Analista de Sistemas - A) Uma árvore binária é aquela
 que tem como conteúdo
@@ -933,15 +927,15 @@ como objetivo percorrer a árvore numa dada ordem, enumerando os seus nós.
 
 Quando um nó é enumerado, diz-se que ele foi "visitado". Vamos ver agora esses três percursos:
 
-■ Pré-Ordem (ou Profundidade): visita a raiz; percorre a subárvore esquerda em
+ Pré-Ordem (ou Profundidade): visita a raiz; percorre a subárvore esquerda em
 pré-ordem; percorre a
 subárvore direita em pré-ordem.
 
-■ In-Ordem (ou Simétrica): percorre a subárvore esquerda em in-ordem; visita a raiz;
+ In-Ordem (ou Simétrica): percorre a subárvore esquerda em in-ordem; visita a raiz;
 percorre a subárvore
 direita em in-ordem.
 
-■ Pós-Ordem: percorre a subárvore esquerda em pós-ordem; percorre a subárvore direita
+ Pós-Ordem: percorre a subárvore esquerda em pós-ordem; percorre a subárvore direita
 em pós-ordem;
 visita a raiz.
 
@@ -1359,19 +1353,19 @@ utilizada. Seguem as premissas:
 *
 
 
-■ Nó, Nodo ou Vértice:
+ Nó, Nodo ou Vértice:
 
 Qualquer elemento de um conjunto N.
 
-■ Aresta ou Arco:
+ Aresta ou Arco:
 
 Qualquer elemento de um conjunto A.
 
-■ Nós Adjacentes (Relação de Adjacência):
+ Nós Adjacentes (Relação de Adjacência):
 
 São aqueles nós ligados por um arco (Ex: A é adjacente a D).
 
-■ Arco Incidente (Relação de Incidência):
+ Arco Incidente (Relação de Incidência):
 
 São aqueles arcos que levam a um nó (Ex: (C,D) é incidente em D).
 
@@ -1381,23 +1375,23 @@ São aqueles arcos que levam a um nó (Ex: (C,D) é incidente em D).
 /
 
 
-■ Grau:
+ Grau:
 
 É a quantidade de arcos que partem ou chegam em/de um nó.
 
-■ Caminho:
+ Caminho:
 
 Sequência de arcos que levam de um nó a outro (Ex: A->C <(A,B), (B,D), (D,C)>).
 
-■ Circuito ou Ciclo:
+ Circuito ou Ciclo:
 
 É o caminho que leva ao mesmo nó do qual saiu (Ex: <(A,B), (B,D), (D,A)>).
 
-■ Laço:
+ Laço:
 
 É o circuito de um único arco (<(C,C)>).
 
-■ Ordem:
+ Ordem:
 
 É a quantidade de vértices totais do grafo.
 
@@ -1529,7 +1523,7 @@ arestas que não estão presentes. Lembram-se da lista? Nós só representamos o
 nós adjacentes, em
 contraste com a Matriz de Adjacência. No entanto, quanto mais denso, isso pode mudar.
 
-....................................... ............................................... ....■■■■■
+
 I
 
 (CESPE/CEBRASPE - 2017 - TRF-1) Acerca dos conceitos de árvores e grafos, julgue o item que se
@@ -1561,7 +1555,7 @@ j CONSULTA (x)
 
 1 while esquerda [x] £ NIL
 
-■ 2 do x <- esquerda [x]
+ 2 do x <- esquerda [x]
 
 i 3 return x
 
@@ -1668,7 +1662,7 @@ o o £ O ? » § £ O
 
 SM^%°Aoo
 
-■BtÈr
+BtÈr
 
 oo r
 
@@ -1721,7 +1715,7 @@ Punk Rock
 Rock
 
 
-,■
+,
 
 /
 
@@ -1961,7 +1955,7 @@ conjunto de
 registros indexados por uma chave.
 
 
-,■
+,
 
 /
 
@@ -7837,7 +7831,7 @@ através de grafos. Professor, pode me passar um exemplo? Claro!
 
 Conforme vimos em aula, a definição está perfeita!
 
-■
+
 Gabarito: Correto
 
 Item. 17. (CESPE - 2012 - PEFOCE - Perito Criminal) Considere que um grafo G seja constituído por um

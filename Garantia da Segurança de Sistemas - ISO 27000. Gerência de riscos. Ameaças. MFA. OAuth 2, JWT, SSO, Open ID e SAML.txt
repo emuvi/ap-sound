@@ -245,12 +245,12 @@ cartões físicos ou digitais de acesso, entre muitos outros.
 0-0
 
 
-r.................................................... 7........................
-............................. ................\
-■
+r 7
+\
+
 
 : (Ano: 2020 Banca: CESPE Orgâo: SEFAZ/AL Prova: Auditor de Finanças e Controle)
-Identificação e ■
+Identificação e 
 
 : autenticação são requisitos de segurança da informação que consistem em identificar usuários do
 sistema :
@@ -576,7 +576,6 @@ da
 
 n iformaçã FV
 
-■ 1
 
 
 Ataque de força
@@ -593,7 +592,7 @@ autenticação estão
 
 expostos a ataques de
 
-■ força bruta
+ força bruta
 
 
 Interceptação de
@@ -744,8 +743,8 @@ segurança lógica.
 i As boas práticas da gestão dos controles de acesso lógico de uma organização incluem atribuir
 direitos de i
 
-■; acesso aos usuários, conforme necessidades reais de seu trabalho ou cargo,
-disponibilizar contas de ■i
+; acesso aos usuários, conforme necessidades reais de seu trabalho ou cargo,
+disponibilizar contas de i
 I: usuários apenas a pessoas autorizadas, armazenar senhas criptografadas e usar
 técnicas visíveis de Ii
 i identificação.
@@ -924,9 +923,7 @@ rodando.
 *
 
 
-........................................ .................... ....................
-.................... .................... .................... ....................
-.................... ...........i
+i
 
 = Comentários:
 
@@ -1052,11 +1049,11 @@ i
 
 : Gabarito: B
 
-L............................... ..
-...............................■■■■■■...............................
-■■■■■■............................... ■■■■■■...............................
-■■■■■■............................... ■■■■■■...............................
-■■■■■■............................... ■■■■■■............................... ■■■■■■
+L ..
+
+ 
+ 
+  
 
 (Ano: 2021 Banca: CESPE Órgão: PG-DF Prova: Técnico Jurídico - TI)
 
@@ -1559,8 +1556,8 @@ O OAuth atualmente está em sua versão 2.0 e possui compatibilidade completa co
 versão 1.0. Nesse
 processo, são definidos 4 papéis básicos. São eles:
 
-..........................................................................................■■■■■■....
-...■■■■■■.......■■■■■■.......■■■■■■.......■■■■■■........,
+
+...,
 
 : 1. Resource Owner - Basicamente é a pessoa que concede acesso aos seus dados. Quando clicamos na
 opção i
@@ -1578,7 +1575,7 @@ prática, temos aqui o DONO i
 
 = DO RECURSO.
 
-■; 2. Resource Server - Em resumo, é a camada de servico/integracão
+; 2. Resource Server - Em resumo, é a camada de servico/integracão
 disponibilizada oelo provedor de ia
 
 = identidades. Este serviço, com as devidas camadas de segurança, está exposto para a
@@ -1659,17 +1656,16 @@ I
 
 i ETAPA 2 - O Dono do Recurso (resource owner) realiza a autorização.
 
-L....................... ■■■■■■■................................... .................
-................................ ................. ................................
-■■■■■■■................................... ■■■■■■■................................... ..
-................................................■■■■■■.....................................
-■■■■■■..................................... ■■■■■■.....................................
+L 
+
+  ..
+
+ 
 
 *
 
 
-....................................................................................................
-.............................................................................................. i
+i
 
 i ETAPA 3 - De posse da autorização, esta é encaminhada pelo cliente ao Servidor de
 Autorização, responsável
@@ -1680,7 +1676,7 @@ Autorização, responsável
 i ETAPA 4 - O provedor de credenciais passa o TOKEN, por meio de uma comunicação
 segura. De posse desse ;
 I= token, a aplicação poderá acessar os recursos do usuário requisitante. Aqui é onde
-temos a referência ao i■
+temos a referência ao i
 
 : nosso BEARER TOKEN, que também será utilizado na etapa 5. São as credenciais em si
 usadas para acessar
@@ -1818,7 +1814,7 @@ retina e =
 
 = digitais).
 
-■ ■
+ 
 
 
 : Comentários:
@@ -1826,8 +1822,7 @@ retina e =
 Item. 0.0
 
 
-....................................................................................................
-.............................................................................................. i
+i
 
 = Conforme vimos, de fato, estes são os três principais métodos.
 =
@@ -2255,11 +2250,11 @@ Assim, espera-se que os órgãos estejam em conformidade com essas questões que
 Q-Q
 
 
-r*"""""*........................... ..
-................................................■■■■■■■■■■■■■......................
-■■■■■■■■■■■■■...................... ■■■■■■■■■■■■■......................
-■■■■■■■■■■■■■...................... ■■■■■■■■■■■■■......................
-■■■■■■■■■■■■■...................... ■■■■■■■■■■■■■ ■■■■■■■■■■■■■■■■,
+r*"""""* ..
+
+ 
+ 
+  ,
 
 : (CESPE - 2014 - TJ-SE - Analista Judiciário - Segurança da Informação) Atividades de usuários,
 exceções e i
@@ -2302,7 +2297,7 @@ mais sobre isso depois.
 
 Nesse contexto, a criticidade do negócio varia caso a caso. Uma coisa é falarmos de
 uma estrutura para
-continuidade de negócios de empresas como a GOOGLE, AMAZON, entre outros.... Nesses
+continuidade de negócios de empresas como a GOOGLE, AMAZON, entre outros Nesses
 casos, minutos
 são críticos para gerar qualquer tipo de indisponibilidade dos serviços.
 
@@ -2387,10 +2382,10 @@ matrizes de responsabilidades e ações por componente e recurso envolvido.
 ; 1. Falhas humanas;
 i
 
-■
 
 
-■
+
+
 
 : 2. Falhas das soluções e componentes de TI;
 ;
@@ -2402,15 +2397,15 @@ I
 
 ; 3. Fenômenos da natureza que geram acidentes e catástrofes (furação, tempestades, maremotos);
 
-■
 
 
-■
+
+
 
 Ê 4. Interrupções de abastecimento;
 i
 
-■
+
 
 
 :
@@ -2426,18 +2421,18 @@ I
 i 6. Malwares e Vírus;
 ;
 
-■
 
 
-■
+
+
 
 : 7. Sabotagem;
 ;
 
-■
 
 
-■
+
+
 
 : 8. Terrorismo, etc.
 ;
@@ -2605,12 +2600,12 @@ ou por uma série de
 
 = informação".
 
-L................................. ................................................ ..
-................................................ ..
-................................................ ..
-................................................ ..
-....................................................................................................
-................................................................. .
+L ..
+..
+..
+..
+
+.
 
 Muita atenção para o fato de ser indesejado e inesperado, pois são esses elementos
 que o diferenciam do
@@ -2647,11 +2642,10 @@ maiores
 que os dados ou informação em análise. Desse modo, aceita-se o risco em caso de ocorrência.
 
 
-r ■■■■■■■................................. .........................................
-....................................................................................................
-. .................... .................... .................... ....................
-.................... .................... .................... ....................
-.................... ............
+r 
+
+.
+
 
 i (FCC - TCE-GO/Analista de Controle Externo/2014) Pedro trabalha na área que cuida da
 Segurança da
@@ -3038,8 +3032,8 @@ ameaças estejam de fato bloqueadas ou atenuadas.
 
 Os elementos do SDL considerados nessa fase são:
 
-................................................ .................... ....................
-■■■■■................... .............................. .................... .................|
+
+ |
 
 : * Aplicar padrões de codificação e teste.
 
@@ -3188,7 +3182,7 @@ Erros Lógicos em Geral.
 ' 5i/isão de
 Papéis
 
-■Visão k
+Visão k
 
 cConceitue ll
 
@@ -3291,7 +3285,7 @@ uma ferramenta do tipo SAST:
 ; 2) Quais os principais tipos de vulnerabilidades que a ferramenta é capaz de detectar;
 ;
 
-■
+
 
 
 I
@@ -5212,7 +5206,6 @@ GABARITO
 
 Gabarito - Questões CESPE
 
-..........
 
 1 C
 
@@ -5235,7 +5228,7 @@ Gabarito - Questões CESPE
 10 E
 
 
-r....................
+r
 
 11 E
 
@@ -5334,7 +5327,7 @@ Gabarito - Questões FCC
 
 RESUMo
 
-■ PRINCÍPIOS DE SEGURANÇA
+ PRINCÍPIOS DE SEGURANÇA
 
 * Três principais pilares que compõem a base da Segurança da Informação, quais sejam:
 
@@ -5407,7 +5400,7 @@ rede para induzir outros a se conectarem a este, ao invés do dispositivo
 legítimo,
 permitindo a captura de senhas de acesso e informações que por ele passem a trafegar;
 
-■ SEGURANÇA FÍSICA, LÓGICA E CONTROLE DE ACESSO: A física diz respeito aos aspectos tangíveis
+ SEGURANÇA FÍSICA, LÓGICA E CONTROLE DE ACESSO: A física diz respeito aos aspectos tangíveis
 e que, de fato, podem ser tocados, enquanto a lógica está relacionada aos dados em
 seu formato
 analógico ou digital, tanto no aspecto de transmissão, processamento e armazenamento.
@@ -5430,7 +5423,7 @@ autorização.
 Três técnicas de controle e gerenciamento de acesso: Mandatory Access Control (MAC), Role-Based
 Access Control (RBAC), Discretionary Access Control (DAC).
 
-■ AUTENTICAÇÃO E SEUS MECANISMOS: os mecanismos de autenticação são
+ AUTENTICAÇÃO E SEUS MECANISMOS: os mecanismos de autenticação são
 procedimentos,
 rotinas, ferramentas ou soluções que implementam, de fato, o princípio de
 autenticação com o
@@ -5449,7 +5442,7 @@ permitindo assim logins simplificados e integrados a múltiplos serviços na Int
 características
 físicas ou comportamentais.
 
-■ SEGURANÇA EM ENDPOINTS
+ SEGURANÇA EM ENDPOINTS
 
 * Na prática, se o dispositivo está conectado à rede em alguma medida, com a
 capacidade de
@@ -5464,7 +5457,7 @@ EndPoints, podemos citar Antivírus, Antimalwares, firewalls, HIDS e HIPS, Atual
 diversas
 de drivers, softwares e S.O., entre outros.
 
-■ AUDITORIA E CONFORMIDADE
+ AUDITORIA E CONFORMIDADE
 
 * Auditoria: a auditoria em tecnologia da informação diz respeito à análise
 cuidadosa e sistemática
@@ -5480,7 +5473,7 @@ resultados esperados.
 políticas e às normas
 organizacionais de segurança da informação.
 
-■ CONTINUIDADE DE NEGÓCIOS
+ CONTINUIDADE DE NEGÓCIOS
 
 * ISO 27002 sobre o objetivo da Gestão da Continuidade de Negócios: "não permitir
 a interrupção
@@ -5496,7 +5489,7 @@ impactos devem ser analisados. O PCN possui como foco tanto o capital intelectua
 (informações),
 bem como suas instalações.
 
-■ PRINCÍPIOS DE NORMAS E PADRÕES
+ PRINCÍPIOS DE NORMAS E PADRÕES
 
 * Gerência de Riscos: Existem algumas formas básicas de como a organização deve reagir
 aos
@@ -5530,7 +5523,7 @@ quantitativos, são maiores que os dados ou informação em análise. Desse modo
 o
 risco em caso de ocorrência.
 
-■ DIRETRIZES PARA O DESENVOLVIMENTO DE SOFTWARE SEGURO
+ DIRETRIZES PARA O DESENVOLVIMENTO DE SOFTWARE SEGURO
 
 * SDL (Security Development Lifecycle): metodologia criada pela Microsoft para o
 desenvolvimento

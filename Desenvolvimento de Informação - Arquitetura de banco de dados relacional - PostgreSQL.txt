@@ -496,7 +496,7 @@ macOS
 
 Windows
 
-■■
+
 
 Solaris
 
@@ -1009,7 +1009,7 @@ identificado por seu DBNAME. Quando você se conectar, você só será capaz de 
 objetos
 do banco de dados criados dentro dessa base especificada na conexão.
 
-^■^FPRESTE MAIS
+^^FPRESTE MAIS
 
 ATENÇÃO!
 
@@ -3765,7 +3765,7 @@ test-> WHERE name = 'peach';
 
 lo_export
 
-......... -F
+-F
 
 i
 
@@ -7529,7 +7529,7 @@ dataAdm date
 
 I
 
-.... í
+í
 
 Para que codDep na tabela funcionário seja definido como chave estrangeira com
 relação à tabela departamento, a lacuna I deve ser preenchida com
@@ -9214,7 +9214,7 @@ interpretar o padrão utilizando a definição de expressão regular do padrão 
 B é uma expressão condicional genérica, semelhante às declarações if/else de outras
 linguagens.
 
-■
+
 
 C é uma declaração SELECT arbitrária, ou uma subconsulta. A subconsulta é
 

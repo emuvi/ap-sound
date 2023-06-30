@@ -492,19 +492,19 @@ gerenciamento de persistência, gerenciamento de segurança, gerenciamento de
 transações,
 controle de concorrência, etc. Vejamos:
 
-■ Ciclo de Vida: o desenvolvedor não precisa se preocupar com a criação de
+ Ciclo de Vida: o desenvolvedor não precisa se preocupar com a criação de
 processos, threads,
 ativação ou destruição de objetos.
 
-■ Segurança: o contêiner fornece suporte a autenticação e controle de acesso orientado a papéis.
+ Segurança: o contêiner fornece suporte a autenticação e controle de acesso orientado a papéis.
 
-■ Transações: o contêiner automaticamente gerencia o início, enrollment, commitment e
+ Transações: o contêiner automaticamente gerencia o início, enrollment, commitment e
 rollback
 de transações.
 
-■ Persistência: beans não precisam se preocupar com sua persistência em um banco de dados.
+ Persistência: beans não precisam se preocupar com sua persistência em um banco de dados.
 
-■ Estado: o estado conversacional de Beans (se houver) é gerenciado
+ Estado: o estado conversacional de Beans (se houver) é gerenciado
 (salvo/recuperado)
 automaticamente.
 
@@ -760,7 +760,7 @@ uma base de dados e eles podem ser de três tipos: stateful, stateless e singlet
 Vamos vê-los a
 seguir:
 
-■ Stateless Session Beans: são objetos de negócio que não mantém estado entre
+ Stateless Session Beans: são objetos de negócio que não mantém estado entre
 invocações de
 métodos. Após cada chamada de método, o contêiner pode escolher destruir,
 recriar ou
@@ -782,7 +782,7 @@ instâncias podem ser criadas e posicionadas em um pool - prontas para serem
 utilizadas.
 Percebam que ela nunca entra em modo passivo para economizar recursos.
 
-■ Stateful Session Beans: são objetos de negócio que mantém estado entre
+ Stateful Session Beans: são objetos de negócio que mantém estado entre
 chamadas de
 métodos. São projetados, em geral, para situações que requerem várias
 requisições
@@ -831,7 +831,7 @@ instância está
 vinculada a um determinado cliente e ocupada em uma conversação; no estágio Passive, a
 instância sai da memória principal para a memória secundária para economizar recursos.
 
-■ Singleton Session Beans: são objetos de negócio instanciados uma única vez pela
+ Singleton Session Beans: são objetos de negócio instanciados uma única vez pela
 aplicação e
 existem por todo ciclo de vida da aplicação. São utilizados quando um
 Enterprise Bean é

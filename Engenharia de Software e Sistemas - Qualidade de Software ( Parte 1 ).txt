@@ -2603,7 +2603,7 @@ Violação de sintaxe e de modelos.
 
 Os estágios envolvidos na análise estática incluem:
 
-■ Análise de Fluxo de Controle: identifica e enfatiza os loops com vários pontos de
+ Análise de Fluxo de Controle: identifica e enfatiza os loops com vários pontos de
 saída ou de
 entrada e código inacessível. Código inacessível é aquele código cercado por
 declarações
@@ -2611,14 +2611,14 @@ incondicionais 'goto' ou em uma ramificação de uma declaração condicional na
 condição
 de guarda nunca pode ser verdadeira, portanto nunca é acessada.
 
-■ Análise de Uso de Dados: enfatiza como as variáveis do programa são usadas. Detecta variáveis
+ Análise de Uso de Dados: enfatiza como as variáveis do programa são usadas. Detecta variáveis
 usadas sem prévia iniciação, variáveis escritas duas vezes sem uma tarefa de
 impedimento e
 variáveis declaradas mas que nunca são usadas. A análise de uso de dados também
 descobre
 testes não eficientes nos quais a condição do teste é redundante.
 
-■ Análise de Interface: verifica a consistência das declarações de rotina e de
+ Análise de Interface: verifica a consistência das declarações de rotina e de
 procedimento e seus
 usos. Ela é desnecessária se uma linguagem com tipagem forte for usada, uma vez que o
 compilador realiza essas verificações. Detecta erros de tipo em linguagens com tipagem
@@ -2626,7 +2626,7 @@ fraca;
 funções e procedimentos declarados e nunca chamados; ou resultados de funções que nunca
 são usados.
 
-■ Análise de Fluxo de Informações: identifica as dependências entre variáveis de
+ Análise de Fluxo de Informações: identifica as dependências entre variáveis de
 entrada e de
 saída. Embora não detecte anomalias, mostra como o valor de cada variável é derivada
 de
@@ -2634,7 +2634,7 @@ outros valores de variáveis. Com essas informações, a inspeção de código d
 capaz de
 encontrar valores que foram erroneamente computados.
 
-■ Análise de Caminho: identifica todos os caminhos possíveis por meio do qual o
+ Análise de Caminho: identifica todos os caminhos possíveis por meio do qual o
 fluxo de um
 programa pode passar durante sua execução e estabelece as declarações executadas naquele
 caminho. Essencialmente, ela elucida o controle do programa e permite que
@@ -4797,7 +4797,7 @@ ISO 15288*
 
 12207
 
-Internet ■-www.software.org> (coin adaptações).
+Internet -www.software.org> (coin adaptações).
 
 A figura acima, elaborada no ano de 1998, apresenta uma proposta de
 relacionamento de

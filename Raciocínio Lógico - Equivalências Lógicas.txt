@@ -180,14 +180,14 @@ Número de linhas = 2" = 22 = 4.
 
 Passo 2: desenhar o esquema da tabela-verdade.
 
-■
+
 
 Devemos determinar:
 
 (p->q)A(q->p); (p->q); (q->p); p ; q
 
 Podemos também incluir, de imediato, na nossa tabela a condicional p<->q, pois vamos compará-la com
-a■i
+ai
 expressão que estamos querendo obter.
 :
 
@@ -218,7 +218,7 @@ F V V F F F
 
 F F V V V V
 
-■i Podemos perceber da análise da tabela-verdade acima que (p->q)A(q->p) e
+i Podemos perceber da análise da tabela-verdade acima que (p->q)A(q->p) e
 poq assumem os exatos
 
 : mesmos valores lógicos para todas as possibilidades de p e q. Logo, as proposições são
@@ -523,11 +523,11 @@ p->q = ~pVq
 
 Vamos resolver duas questões que utilizam essa equivalência.
 
-r...............................................
-.........................................................
-....................................................................................................
-...................■................................................................................
-................................ ....................................................
+r
+
+
+
+
 
 i (BANESTES/2021) A frase a seguir é um conhecido ditado popular:
 
@@ -1409,13 +1409,11 @@ i * Troca-se a condicional (->) pela conjunção (A); e
 : * Nega-se o segundo termo.
 
 
-.......................................... .........
-....................................................................................................
-............................... .......... .
+.
 
 Aplicando para a condicional da questão, temos que a negação de e-»n é dada por:
 
-■
+
 
 ~ (e-> n) = eA~n
 
@@ -1510,14 +1508,14 @@ F V V
 
 V F F
 
-■i Podemos também demonstrar a equivalência ~(p<->q) E (pVq) utilizando outra
+i Podemos também demonstrar a equivalência ~(p<->q) E (pVq) utilizando outra
 equivalência já conhecida, a
 
 : negação da disjunção exclusiva:
 
 ~(pYq) E p<->q
 
-■
+
 
 : Podemos negar os dois lados desse resultado da seguinte forma:
 
@@ -1664,7 +1662,7 @@ d) Ou João passa no concurso público ou João estuda.
 
 A proposição composta original é uma bicondicional p<->q cujos termos são:
 
-■
+
 
 : p:" João passa no concurso
 público."
@@ -1698,7 +1696,7 @@ negação:
 
 p<H>q E (~p)o(~q)
 
-■
+
 
 : Gabarito: Letra D.
 
@@ -1711,9 +1709,6 @@ Existem duas maneiras de se negar a conjunção de modo que ela adquira a forma 
 
 ~(pAq) = q-»~p
 
-.......................................... .........
-....................................................................................................
-........................................
 
 í Mostre que ~(pAq) = p-»~q são equivalentes.
 
@@ -1891,10 +1886,6 @@ consequente.
 
 Podemos verificar as duas equivalências por tabela-verdade:
 
-
-..........................................
-....................................................................................
-.................................................................
 
 j (SEFAZ-AL/2020) Considere as proposições:
 
@@ -2621,7 +2612,7 @@ as proposições são
 
 Propriedade da identidade, da absorção e da idempotência
 
-■FPRESTE MAIS
+FPRESTE MAIS
 
 ATENÇÃO!
 
@@ -2896,7 +2887,7 @@ esse tipo de questão por tabela-verdade ou pelo método da conclusão falsa.
 
 Vamos resolver alguns exercícios do assunto utilizando equivalências lógicas.
 
-■l
+l
 
 HORA DE
 
@@ -3434,7 +3425,7 @@ e os catetos meçam a e b, então c2 = a2 + b2.
 
 Julgue o item que se segue, acerca de lógica proposicional.
 
-A proposição P será equivalente à proposição (-■R) V S, desde que R e S
+A proposição P será equivalente à proposição (-R) V S, desde que R e S
 sejam proposições
 convenientemente escolhidas.
 
@@ -3512,7 +3503,7 @@ aplicar essa equivalência, devemos realizar o seguinte procedimento:
 
 * Mantém-se o segundo termo.
 
-■
+
 
 Para o caso em questão, temos:
 
@@ -3910,7 +3901,7 @@ Gabarito: CERTO.
 
 20.(CESPE/DETRAN-DF/2009) Considerando que A, B e C sejam proposições, que os símbolos
 V e A
-representam os conectivos "ou" e "e", respectivamente, e que o símbolo -■ denota o modificador
+representam os conectivos "ou" e "e", respectivamente, e que o símbolo - denota o modificador
 negação,
 julgue o item a seguir.
 
@@ -3943,7 +3934,7 @@ Gabarito: CERTO.
 
 21.(CESPE/BNB/2018) Julgue o item que se segue, a respeito de lógica proposicional.
 
-Se P e Q forem proposições simples, então a proposição -■[PV(--Q)]o[(-'P)AQ] é uma tautologia.
+Se P e Q forem proposições simples, então a proposição -[PV(--Q)]o[(-'P)AQ] é uma tautologia.
 Comentários:
 
 Veja que, para resolver a questão, poderíamos montar a tabela-verdade e verificar que
@@ -5184,7 +5175,7 @@ Gabarito: 44 - CERTO. 45 - ERRADO. 46 - ERRADO.
 
 Texto para as próximas questões
 
-■
+
 
 
 I
@@ -5280,7 +5271,7 @@ Gabarito: 47 - CERTO. 48 - ERRADO.
 
 Texto para as próximas questões
 
-■
+
 
 
 I
@@ -5428,9 +5419,7 @@ A proposição equivalente pode ser escrita por:
 Gabarito: 51 - CERTO. 52 - CERTO.
 
 
-.......................................... .........
-....................................................................................................
-............................... .......... .
+.
 
 Texto para as próximas questões
 
@@ -5553,9 +5542,9 @@ O gabarito, portanto, é CERTO.
 
 Gabarito: 53 - CERTO. 54 - ERRADO. 55 - CERTO.
 
-.......................................... .....................................
-..............................*..........................
-*........................................... .......... .
+
+*
+* .
 
 Texto para as próximas questões
 
@@ -6410,7 +6399,7 @@ ser corretamente expressa por "O candidato não é pós-graduado nem sabe falar 
 
 20.(CESPE/DETRAN-DF/2009) Considerando que A, B e C sejam proposições, que os símbolos
 V e A
-representam os conectivos "ou" e "e", respectivamente, e que o símbolo -■ denota o modificador
+representam os conectivos "ou" e "e", respectivamente, e que o símbolo - denota o modificador
 negação,
 julgue o item a seguir.
 
@@ -6418,7 +6407,7 @@ A proposição (AVB)A[(--A)A(--B)] é sempre falsa.
 
 21.(CESPE/BNB/2018) Julgue o item que se segue, a respeito de lógica proposicional.
 
-Se P e Q forem proposições simples, então a proposição -■[PV(--Q)]o[(-'P)AQ] é uma tautologia.
+Se P e Q forem proposições simples, então a proposição -[PV(--Q)]o[(-'P)AQ] é uma tautologia.
 
 
 Negação da Condicional
@@ -6704,7 +6693,7 @@ benefícios providos pela associação de moradores de seu condomínio, então e
 quadro de
 associados e está com os pagamentos em dia.".
 
-■
+
 
 Item. 43. (CESPE/SEFAZ AL/2021) A proposição Q é uma negação da proposição "Se Marcos está
 com os
@@ -6738,8 +6727,8 @@ foi deficiente, as falhas construtivas foram corrigidas".
 corrigidas, os
 mutuários tiveram prejuízos".
 
-..........................*...............*....................................*....................
-............................................................... *........................... .
+***
+* .
 
 Texto para as próximas questões
 
@@ -6747,9 +6736,9 @@ Texto para as próximas questões
 indicação fizer sua parte e j
 
 L:
-s..e..u..s...a..l.ia...d..o..s..t.r..a.b..a..l.h..a..re..m.....d..u..r.o..,..v..e.n..c..e..r.ã..o...
+s..e..u..s...a..l.ia...d..o..s..t.r..a.b..a..l.h..a..re..md..u..r.o..,..v..e.n..c..e..r.ã..o...
 ."
-■■■■■■■■ I;
+ I;
 
 Item. 47. (CESPE/MJSP/2021) A proposição P é equivalente a "Se não vencermos, o responsável pela
 indicação
@@ -6759,9 +6748,8 @@ Item. 48. (CESPE/MJSP/2021) A negação da proposição P pode ser expressa por 
 indicação
 não fizer sua parte ou seus aliados não trabalharem duro, não vencerão.".
 
-. ...................... .................. .............
-........................................................................
-....................................... ..........................
+.
+
 
 Texto para as próximas questões
 
@@ -6784,9 +6772,8 @@ Item. 50. (CESPE/SEFAZ DF/2020) A proposição "O servidor não gosta do que faz
 fica
 satisfeito" é uma maneira correta de negar a proposição P.
 
-.......... ............... ................................ ........ ...................
-................................................................ .....................
-.................... |
+
+|
 
 Texto para as próximas questões
 
@@ -6803,9 +6790,7 @@ Item. 52. (CESPE/MPOG/2015) A proposição "Se João não conseguiu o que deseja
 o bastante" é logicamente equivalente à proposição P.
 
 
-..........................................
-....................................................................................
-.................................................................. .
+.
 
 Texto para as próximas questões
 
@@ -6832,9 +6817,8 @@ faz reportagem em benefício próprio, então ele deixa de fazer aquela reportag
 prejudica seus
 interesses".
 
-. ...................... ................................
-....................................................................................................
-............ ..........................
+.
+
 
 Texto para as próximas questões
 

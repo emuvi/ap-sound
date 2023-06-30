@@ -353,8 +353,6 @@ ATENTO!
 Não basta que a sentença apresente um verbo para que ela seja considerada uma
 proposição.
 
-....................................................................................................
-............ ........... .............. ............................................ .........
 
 í (PETROBRAS/2022) Acerca de lógica matemática, julgue o item a seguir.
 I
@@ -483,7 +481,7 @@ A questão a seguir apresenta uma aplicação muito interessante do que aprendem
 
 
 (ISS GRU/2019) Dentre as sentenças a seguir, aquela que é uma sentença aberta é
-a) 3 ■ x + 4- x- 3- 2 ■ x = 0
+a) 3  x + 4- x- 3- 2  x = 0
 
 b) 7 + 3 = 11
 
@@ -527,7 +525,7 @@ Vamos desenvolver a equação.
 
 Alternativa C
 
-0 ■ x = 5
+0  x = 5
 
 0 = 5
 
@@ -544,9 +542,7 @@ verdadeira e, caso atribuíssemos qualquer outro valor, ela seria falsa. Logo, o
 alternativa D.
 
 
-.......................................... .........
-....................................................................................................
-............................... .......... .
+.
 
 Alternativa E
 
@@ -576,8 +572,6 @@ ATENTO!
 Existem situações em que as bancas são bastante sutis quando querem indicar que uma
 frase é uma sentença aberta. Veja o exercício a seguir.
 
-....................................................................................................
-............ ........... .............. ............................................ .........
 
 í (TJ CE/2008) A frase "No ano de 2007, o índice de criminalidade da cidade caiu
 pela metade em relação ao
@@ -644,7 +638,7 @@ dos números naturais, x + 9 = 10".
 
 í (SEBRAE/2008) A proposição "Ninguém ensina ninguém" é um exemplo de sentença aberta.
 
-■
+
 
 : Comentários:
 
@@ -674,7 +668,7 @@ frase é falsa e, consequentemente, a frase é verdadeira. Novamente, chega-se a
 de que a frase é
 verdadeira e falsa ao mesmo tempo.
 
-r ■■■■■■
+r 
 
 
 |
@@ -758,8 +752,8 @@ afirmar
 
 : categoricamente que a filha de Telma é bonita?
 
-■
-■
+
+
 
 : Veja que não é possível atribuir um valor lógico V ou F para essa frase, pois ela emite uma
 opinião, que não :
@@ -1115,12 +1109,10 @@ verdadeiro ou falso. As demais
 ; frases não são sentenças declarativas (proposições):
 
 
-.......................................... .........
-....................................................................................................
-............................... .......... .
+.
 
-■ I. Sentença exclamativa;
-■
+ I. Sentença exclamativa;
+
 
 = II. Trata-se de uma expressão, pois não exprime um pensamento com sentido completo;
 
@@ -1157,15 +1149,15 @@ mesmo j
 tempo". Já o princípio do terceiro excluído nos diz que "uma proposição ou é verdadeira ou é
 falsa", não ;
 
-■ existe um terceiro valor.
+ existe um terceiro valor.
 :
 
-■
-■
+
+
 
 : Gabarito: Letra A
 
-■>
+>
 
 
 I
@@ -1778,7 +1770,7 @@ F
 V
 V
 
-Disjunção E■xclusiva
+Disjunção Exclusiva
 
 OU...C>u"
 
@@ -2146,7 +2138,7 @@ A tabela-verdade da disjunção exclusiva resume os valores lógicos que a propo
 composta pVq pode
 assumir em função dos valores assumidos por p e por q.
 
-Disjunção E■xclusiva
+Disjunção Exclusiva
 
 >u"
 
@@ -2165,7 +2157,7 @@ DECORE!
 A disjunção exclusiva pVq é |falsa somente quando ambas proposições apresentam o
 mesmo valor lógico. Nos demais casos, pVq é verdadeira.
 
-Disjunção E■xclusiva
+Disjunção Exclusiva
 
 >u"
 
@@ -2678,13 +2670,12 @@ Podemos reescrever a proposição composta apresentada nessa alternativa do segu
 "[Ana não ser engenheira] é condição necessária para [Bianca ser arquiteta]."
 
 
-....................................................................................................
-.......... ......................................... .............. ...........................i
+i
 
 í Essa proposição composta pode ser reescrita novamente da seguinte forma:
 i
 
-■
+
 
 
 I
@@ -2952,7 +2943,7 @@ p<->q: "Pedro ir ao parque é condição necessária e suficiente para Maria ir 
 
 p<->q: "Maria ir ao cinema é condição necessária e suficiente para Pedro ir ao parque."
 
-■ (MME/2013) A representação simbólica correta da proposição "O homem é
+ (MME/2013) A representação simbólica correta da proposição "O homem é
 semelhante à mulher assim
 
 = como o rato é semelhante ao elefante" é
@@ -2978,13 +2969,13 @@ P<->Q: "O homem é semelhante à mulher assim como o rato é semelhante ao elefa
 
 ; Gabarito: Letra A.
 
-li............. ■■■■■■■.................................................
-................................................................. ..
-................................................................. ..
-...........................................................................................
-■■■■■■■.................................... ..
-................................................................... ..
-.................................................
+li 
+..
+..
+
+ ..
+..
+
 
 : (TRF 1/2006) Se todos os nossos atos têm causa, então não há atos livres. Se não
 há atos livres, então todos
@@ -3254,7 +3245,7 @@ lógico. Logo, temos
 
 i Portanto, para J, A e Q verdadeiros, (~JAA)<->(~QV~A) é verdadeiro.
 
-■
+
 
 : Gabarito: ERRADO.
 
@@ -3374,7 +3365,7 @@ condicional é
 
 i verdadeiro e o consequente da condicional é falso. Logo:
 
-■ *sé verdadeiro; e
+ *sé verdadeiro; e
 
 : * mVc é falso.
 
@@ -3859,9 +3850,7 @@ seguir:
 
 (~P->~R)A~Q: "(Se [hoje não choveu], então [Maria não foi ao comércio]), e (José não foi à praia)."
 
-=L.G...a..b...a..r.i.t.o..:...C..E...R..T...O........... .........
-....................................................................................................
-............ .................. .........
+=L.G...a..b...a..r.i.t.o..:...C..E...R..T...O
 
 
 Conversão para a linguagem proposicional
@@ -3930,10 +3919,9 @@ Vamos analisar
 melhor suas componentes:
 
 
-....................................................................................
-.................................................................. .
+.
 
-:........................."Se [(sou aposentado) e (nunca faltei ao trabalho)], então [não sou
+:"Se [(sou aposentado) e (nunca faltei ao trabalho)], então [não sou
 aposentado]."
 
 = Note que como antecedente temos a conjunção pAq, e como consequente temos ~p.
@@ -3943,13 +3931,13 @@ Portanto, é correto ;
 
 : Gabarito: CERTO.
 
-I>................................................................
-.........................................
-........................................................................................... ..
-................................................................... ..
-................................................................... ..
-................................................................... ..
-.................................... .. ............................... ..
+I>
+
+..
+..
+..
+..
+.. ..
 
 i (CAU AC/2019) Considere as proposições a seguir.
 
@@ -4004,9 +3992,7 @@ consideram que o termo
 ; "não é verdade que" nega a proposição composta como um todo.
 
 
-.......................................... .........
-....................................................................................................
-............................... .......... .
+.
 
 i Observação 2: Será visto na aula de equivalências lógicas, se for pertinente ao seu
 edital, que existe uma i
@@ -4015,9 +4001,6 @@ edital, que existe uma i
 
 : Gabarito: Letra A.
 
-...........
-....................................................................................................
-............ ........................................ ..............................
 
 í (UFRJ/2022) Sejam as proposições "Marcos é ator", "É falso que Marcos é biólogo" e "Marcos é
 rico". A
@@ -4029,7 +4012,7 @@ rico". A
 
 í a) (~pAq) <-> (~qV~r)
 
-■
+
 
 I
 
@@ -4037,7 +4020,7 @@ b) (~pAq) -»(~qV~r)
 
 i c) (pV~q) <-> (qA~r)
 
-■
+
 
 I
 
@@ -4079,7 +4062,7 @@ proposição procurada é dada j
 
 por (~pAq) <-> (~qV~r):
 
-■
+
 
 I
 
@@ -4576,10 +4559,6 @@ n vezes, ou seja, 2n.
 
 2 x 2 x 2 x ... x 2 = 2n
 
-
-...................................... ........
-...................................................................
-...........................................................
 
 j (SEFAZ SE/2022) Proposição P: Se o auditor for diligente e a auditoria bem
 planejada, a fraude será
@@ -5805,12 +5784,12 @@ valores de p, q e r obtidos pelo método anterior (p falso, q falso e r verdadei
 Gabarito: ERRADO.
 
 
-r.............................................................
-...................................................................
-■■■■■■■■............................................................................................
-.......................................
-.............................................................. ■■■■■..............................
-.................................... ..............................................................
+r
+
+
+
+
+
 
 í (SEFAZ-SP/2006) Seja a sentença aberta A: (~ p V p) O [ ] e a sentença B: "Se
 o espaço [ ] for ocupado por
@@ -6973,7 +6952,7 @@ FAFVF
 
 Pela ordem de precedência dos conectivos, devemos executar a conjunção antes.
 
-■
+
 
 (F A F) VF
 F VF
@@ -10340,7 +10319,7 @@ verdadeiro e Q verdadeiro. Logo, a assertiva está errada.
 Gabarito: ERRADO.
 
 Item. 8. (CESPE/DETRAN-DF/2009) Considerando que A, B e C sejam proposições, que os símbolos V e A
-representam os conectivos "ou" e "e", respectivamente, e que o símbolo -■ denota o modificador
+representam os conectivos "ou" e "e", respectivamente, e que o símbolo - denota o modificador
 negação,
 julgue o item a seguir.
 
@@ -11992,7 +11971,7 @@ independentemente dos valores lógicos de P e Q.
 
 Item. 8. (CESPE/DETRAN-DF/2009) Considerando que A, B e C sejam proposições, que
 os símbolos V e A
-representam os conectivos "ou" e "e", respectivamente, e que o símbolo -■ denota o
+representam os conectivos "ou" e "e", respectivamente, e que o símbolo - denota o
 modificador negação,
 julgue o item a seguir.
 

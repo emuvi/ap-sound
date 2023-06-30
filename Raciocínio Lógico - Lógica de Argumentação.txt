@@ -429,11 +429,11 @@ j Gabarito: Letra D.
 
 Agora vamos resolver duas questões que apresentam afirmações falsas.
 
-r...............................................
-.........................................................
-....................................................................................................
-...................■................................................................................
-................................ .................................................. ..
+r
+
+
+
+..
 
 í (SEFAZ AM/2022) Considere as sentenças a seguir.
 
@@ -712,12 +712,12 @@ condômino chamado
 
 : Marcos.
 
-; ■ P: "Se Marcos figura no quadro de associados e está com os pagamentos em dia,
+;  P: "Se Marcos figura no quadro de associados e está com os pagamentos em dia,
 então ele tem direito a
 
 : receber os benefícios providos pela associação de moradores de seu condomínio."
 
-: ■ Q: "Marcos não figura no quadro de associados, mas ele está com os pagamentos em dia."
+:  Q: "Marcos não figura no quadro de associados, mas ele está com os pagamentos em dia."
 
 ; Tendo como referência essas proposições, julgue o item a seguir.
 
@@ -1667,7 +1667,7 @@ Nesse caso, temos a seguinte condicional associada ao argumento:
 
 (P1AP2A ... APn) -> C
 
-■ (Pref. Limoeiro de Anadia/2013) A afirmação "Umpode ser representado de
+ (Pref. Limoeiro de Anadia/2013) A afirmação "Umpode ser representado de
 forma simbólica por
 Pl & P2 & P3 & ... & Pn -> Q, onde Pl, P2, ... Pn
 são denominadose Q é denominada
@@ -2162,12 +2162,12 @@ todas as premissas/afirmações são simultaneamente verdadeiras; e
 linhas
 obtidas na etapa anterior.
 
-r................................................... ..
-...........................................................
-■■■■■■■■............................................................................................
-................... ..
-.......................................................■■■■■.......................
-.........................................................................................
+r ..
+
+
+..
+
+
 
 í (SEFAZ ES/2022) Sabe-se que as 3 sentenças a seguir são verdadeiras.
 
@@ -2834,9 +2834,8 @@ conclusão que
 Vejamos um exemplo.
 
 
-r.............................. ..................................................................
-.......................................................................................
-.................................. ......................................................
+r
+
 
 (BANESTES/2021) Considere como verdadeiras as sentenças a seguir.
 Se Priscila é paulista, então Joel é capixaba.
@@ -3074,7 +3073,7 @@ b) p Aq,-p l--q
 
 í c) p -o q I- p->q
 
-■
+
 
 d)p,p^qhq
 
@@ -3169,8 +3168,7 @@ Premissa 1: h-»a
 Premissa 2: ~a
 
 
-.............. ................................................................. ..................
-.............................................................................................. .
+.
 
 í Veja que o argumento apresentado é corresponde ao Modus Tollens: temos como
 premissas um condicional i
@@ -3238,8 +3236,7 @@ temos:
 ~(cV~t) = ~cA~(~t)
 
 
-.............. ................................................................. ..................
-.............................................................................................. .
+.
 
 A dupla negação corresponde à proposição original. Ficamos com
 i
@@ -3548,7 +3545,7 @@ Veja que as premissas presentadas correspondem ao dilema destrutivo, em que a te
 Sabemos que no dilema destrutivo uma conclusão que torna o argumento válido é a disjunção inclusiva
 da
 
-■ negação dos antecedentes das duas primeiras premissas: ~pV~r.
+ negação dos antecedentes das duas primeiras premissas: ~pV~r.
 
 : Essa conclusão correta está presente na letra B:
 
@@ -3852,7 +3849,7 @@ chamado Marcos.
 direito a
 receber os benefícios providos pela associação de moradores de seu condomínio."
 
-■ Q: "Marcos não figura no quadro de associados, mas ele está com os pagamentos em dia."
+ Q: "Marcos não figura no quadro de associados, mas ele está com os pagamentos em dia."
 Tendo como referência essas proposições, julgue o item a seguir.
 
 Mesmo que sejam verdadeiras as proposições P e Q, não se pode afirmar que Marcos não
@@ -4973,7 +4970,7 @@ consequência obrigatória das premissas. Logo, temos um argumento válido.
 
 Gabarito: CERTO.
 
-■
+
 
 12.(CESPE/STJ/2015) Mariana é uma estudante que tem grande apreço pela matemática,
 apesar de achar
@@ -6354,7 +6351,7 @@ chamado Marcos.
 direito a
 receber os benefícios providos pela associação de moradores de seu condomínio."
 
-■ Q: "Marcos não figura no quadro de associados, mas ele está com os pagamentos em dia."
+ Q: "Marcos não figura no quadro de associados, mas ele está com os pagamentos em dia."
 Tendo como referência essas proposições, julgue o item a seguir.
 
 Mesmo que sejam verdadeiras as proposições P e Q, não se pode afirmar que Marcos não
@@ -6561,9 +6558,9 @@ Item. 2. (CESPE/IBAMA/2013) Se o argumento apresentado não é um argumento vál
 premissas são
 proposições falsas.
 
-.................................................... *..........................
-*.......................... *.......................... *..........................
-*..............* i
+*
+* * *
+** i
 
 Texto para as próximas questões
 

@@ -3191,7 +3191,7 @@ tem, certo?
 
 Quando pensamos no objeto "CarroToyota" há uma
 visão mais elaborada, certo? Eu por exemplo já
-imagino um Corolla Cross ©■ Da mesma forma que
+imagino um Corolla Cross © Da mesma forma que
 a classe Carro possui quatro rodas, uma cor, uma
 marca, um modelo, o objeto especifica esses
 atributos. Assim, uma classe é um modelo para
@@ -5793,7 +5793,7 @@ outros. Por exemplo, na Álgebra podemos mostrar a seguinte ordem: primeiro
 divisão e
 multiplicação e depois soma e subtração.
 
-+, *, /, %■
++, *, /, %
 
 k
 
@@ -5876,7 +5876,6 @@ A
 
 &&
 
-7 ■
 
 = += -= *= /= %= & = A= |= «= »= >»=
 
@@ -8108,7 +8107,7 @@ request. getPara meter("endereco");
 String telefone -
 
 request. getPara meter("telefone");
-response.setContentType("text/html"),■
+response.setContentType("text/html"),
 PrintWriter out - response.getWriter( );
 out.println("<HTML>");
 out.println("<HEAD>");
@@ -8313,7 +8312,7 @@ a <
 
 7 thi5.modelo - modelo;
 
-8 this.cilindradas ■ cilindradas;
+8 this.cilindradas  cilindradas;
 
 ié' }
 
@@ -8330,7 +8329,7 @@ private String narca;
 
 6 superfiKdela, cilindradas);
 
-7 thís.mjrca ■ mãrça;
+7 thís.mjrca  mãrça;
 
 A }
 
@@ -10194,7 +10193,7 @@ String endereço -
 request. getPara meter("endereco");
 String telefone -
 request.getParameter("telefone");
-response.setContentType("text/html"),■
+response.setContentType("text/html"),
 PrintWriter out - response.getWriter( );
 out.println("<HTML>");
 out.println("<HEAD>");
@@ -10312,7 +10311,7 @@ a <
 
 7 this.modele - modelo;
 
-8 this.cilindradas ■ cilindradas;
+8 this.cilindradas  cilindradas;
 
 9 }
 
@@ -10332,7 +10331,7 @@ private String marca;
 
 6 super'!'modelo* cilindradas);
 
-7 thíS.marCã ■ mãrca;
+7 thíS.marCã  mãrca;
 
 A }
 

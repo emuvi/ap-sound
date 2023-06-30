@@ -97,7 +97,7 @@ que, neste caso, é uma ação no nível atômico. Outro ponto interessante é q
 apresenta a visão lógica e visão física na modelagem de um workflow.
 
 
-■
+
 
 Visão lógica
 
@@ -393,7 +393,7 @@ existente em uma atividade. Definimos, portanto, quem faz o que, não se refere 
 pessoas
 ou cargos, mas a papéis.
 
-■
+
 
 As regras (rules) são atributos que definem de que forma os dados que trafegam no
 fluxo de trabalho devem ser processados, roteados e controlados pelo sistema de

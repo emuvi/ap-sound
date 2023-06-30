@@ -1589,7 +1589,7 @@ RGB, HEX, HSL, or even transparent colors using RGBA or HSLA color values.
 
 </html>
 
-Same as color name ■'Tomato'':
+Same as color name 'Tomato'':
 
 rgb(255,99, 71)
 
@@ -1819,7 +1819,7 @@ Scalable Vector Graphics
 
 *png
 
-■svg
+svg
 
 Tag Descrição
 
@@ -2247,10 +2247,10 @@ um i
 : site utilizando listas de definições do HTML5. Nestas listas, o termo a ser
 descrito e a descrição =
 
-■
 
 
-■
+
+
 
 : propriamente dita são criados, respectivamente, pelas tags
 i
@@ -2264,10 +2264,10 @@ I
 
 = b) <dd> e <tt>
 
-■
 
 
-■
+
+
 
 : c) <ul> e <li>
 :
@@ -2281,10 +2281,10 @@ I
 
 = e) <dd> e <dt>
 
-■
 
 
-■
+
+
 
 I
 
@@ -2312,7 +2312,7 @@ I
 : (nome) e a tag <dd> descreve cada termo. <dt> define um termo em uma lista de
 descrição. ;
 
-■
+
 
 
 I
@@ -3995,8 +3995,8 @@ WINDOW.LOCALSTORAGE - ARMAZENA DADOS SEM DATA DE VALIDADE
 WINDOW.SESSIO NSTORAGE - ARMAZENA DADOS PARA UMA SESSÃO (OS DADOS SÃO
 PERDIDOS QUANDO A GUIA DO NAVEGADOR É FECHADA)
 
-....................................................................................................
-........................................................................................... .
+
+.
 
 í (CESPE - PGE RJ - 2022) Julgue o item que se segue, relacionado a
 desenvolvimento de j
@@ -4577,7 +4577,7 @@ Scalable Vector Graphics
 
 *png
 
-■svg
+svg
 
 
 /
@@ -6081,7 +6081,7 @@ e time são válidos como atributos de elementos de formulário, e apenas o camp
 <body>
 
 <form niGthod="post" action="tGste.
-ílabel ■Fot'="data,1>Data: </labaL>
+ílabel Fot'="data,1>Data: </labaL>
 
 cinput id="data,r type=date required name=data/>
 
@@ -7988,7 +7988,7 @@ Gabarito: Letra A
 
 Item. 71. (FGV -ALERO - 2018) Analise o código a seguir.
 
-■dDoertPE html>
+dDoertPE html>
 
 <head>
 
@@ -8738,7 +8738,7 @@ www. estra tegiaconcursos. com. br
 <bcdy>
 
 method="post'' action="tGste.
-ílabel ■Fon="data,1>Data: </labaL>
+ílabel Fon="data,1>Data: </labaL>
 
 cinput id="data,r type=date required name=data/>
 
@@ -9354,7 +9354,7 @@ Item. 55. (FCC - ALMS - 2016) Considere o fragmento de código HTML5 a seguir.
 
 <a.udio controls>
 
-» <i■ » <■
+» <i » <
 
 </audio>
 

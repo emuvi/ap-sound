@@ -544,7 +544,7 @@ id".
 
 = text de um formulário, utiliza-se a instrução CSS
 
-■
+
 
 i a) input [type=text] {background-color: #OOffOO}
 
@@ -714,8 +714,8 @@ melhor organização e capacidade de manutenção dos estilos e facilita a aplic
 mesmos
 estilos a várias páginas. Vejamos uma questão!
 
-....................................................................................................
-.........................................................................i
+
+i
 
 i (FCC - AL-AP - 2020) Segundo os padrões de acessibilidade na web definidos para
 sites do i
@@ -737,13 +737,13 @@ i pelas páginas do sítio/portal. Por exemplo, a instrução <link rel =
 
 = e) <style rel="stylesheet" type="text/css" url("aleap.css")/>
 
-■
-■
+
+
 
 ; Comentários: Sabemos que há três formas de inserir CSS: Estilos embutidos, Folha de
 estilo i
 
-■: i■nterna e Folha de estilo externa. Ainda, o uso de uma folha de estilo externa
+: interna e Folha de estilo externa. Ainda, o uso de uma folha de estilo externa
 é considerado uma =
 
 : prática recomendada, portanto, vamos lembrar como é inserir CSS usando tags! As tags
@@ -1254,7 +1254,7 @@ Esta propriedade especifica que tipo de borda exibir:
 
 :
 
-■Uma borda tracejada.
+Uma borda tracejada.
 
 ;
 
@@ -1277,7 +1277,7 @@ Uma fronteira oculta.
 
 |Uma borda mista.
 
-■
+
 
 Largura da Borda do CSS
 
@@ -3381,11 +3381,11 @@ o Chá
 
 o Coca Cola
 
-■ Café
+ Café
 
-■ Chá
+ Chá
 
-■ Coca Cola
+ Coca Cola
 
 Listas Ordenadas:
 
@@ -6974,7 +6974,7 @@ a) align:inline
 
 b) floatdeft
 
-■ c) displaydeft
+ c) displaydeft
 
 d) position:inline
 
@@ -9901,8 +9901,7 @@ oferecendo uma excelente experiência de usuário em todos os dispositivos.
 /
 
 
-....................................................................................................
-............................................................................■
+
 
 i (CEBRASPE Órgão: STM - 2018) O sistema de grades do Bootstrap baseia-se em um
 leiaute de 12 i
@@ -10289,7 +10288,7 @@ I
 = b) "grid" em um elemento div e adicionar classes "row-*" para criar as linhas.
 ;
 
-■
+
 
 
 I
@@ -10300,10 +10299,10 @@ I
 = d) "flex" em um elemento div e adicionar classes "grid-*" para criar as linhas.
 ;
 
-■
 
 
-■
+
+
 
 : e) "container" em um elemento div e adicionar as classes "row" e "col-*" para criar o layout. =
 
@@ -13455,7 +13454,7 @@ utiliza Bootstrap em condições ideais.
 
 <p>B</p>
 
-■</div>
+</div>
 
 </div>
 
@@ -13596,15 +13595,15 @@ clDDCTTFE Html>
 
 chMd>
 
-<ncta r.arc-''vicifpc-rt* cocr.tcnt-^width.-d.ovicc width., initial ■cala«la>
+<ncta r.arc-''vicifpc-rt* cocr.tcnt-^width.-d.ovicc width., initial cala«la>
 
 <liuk rel-'Btyleah.eet" bxef-^httpBj //euxcdzi.bookstrapcdn.ccxi/boot Btrap/4.3..
 l/cBB/bootAtrap.rãn.caB^^
 
-«flcript Hre=whttpjir//a]ax. googleapla. rom/ajax/libs/jqu.siy/3,. 3 ■.J/jquary ,min , Jb'
+«flcript Hre=whttpjir//a]ax. googleapla. rom/ajax/libs/jqu.siy/3,. 3 .J/jquary ,min , Jb'
 sc/fierapt>
 
-«flcrxpt aro ■ Sir tpa: //ednj s. c loudf larB. coo./aj ax/1 ibs/poppar. j b/1.14 .7/uKl/poppsr.
+«flcrxpt aro  Sir tpa: //ednj s. c loudf larB. coo./aj ax/1 ibs/poppar. j b/1.14 .7/uKl/poppsr.
 aio.. j »Hx/script »
 caeript Brc=*littp* i. / /majeeda.boot-&tra.pcdn. cora/ bootâtrap/ 4.3.1 / j b /bocta-trap. mi n. j
 f' / Bcri.pt >
@@ -13616,7 +13615,7 @@ c(üv class-'container">
 íbuccon typo="buttfiínB cLass="btn btn-prlrtary"
 data-tirgoi:=''#aL"^SKMEF</bLitton>
 
-■.-dlv id-*a.l" class- "colLapsc* >
+.-dlv id-*a.l" class- "colLapsc* >
 
 A Secretaria Municipal de Finanças. Tecnologia da Informação e Controle Interno {Semefi
 
@@ -13924,36 +13923,36 @@ www. estra tegiaconcursos. com. br
 
 <!DOCTTPE
 
-■íbtznl L;r.g=npt-òi11?-
+íbtznl L;r.g=npt-òi11?-
 
-■í
+í
 
 < t i t 1 e>IRE5</1 it 1 e >
 
-<Mta cliar■st = "htz — z "i-
+<Mta cliarst = "htz — z "i-
 
-< 1 inlt xeL = " 13y ls ' hee t '' hze f ='' c oo t ■ t - ap . min. c " * 15-
-sc z i pt ' z c='' j q j. ± ry . ri r.. z " ?-< ■ sczip t >
+< 1 inlt xeL = " 13y ls ' hee t '' hze f ='' c oo t  t - ap . min. c " * 15-
+sc z i pt ' z c='' j q j. ± ry . ri r.. z " ?-<  sczip t >
 
-sc x i pt s z c='' h oot ■ cx ap . min . j s11 >-í ■ c - ir t>
+sc x i pt s z c='' h oot  cx ap . min . j s11 >-í  c - ir t>
 
-■í /iieaõ>
+í /iieaõ>
 
 -Cboiy>
 
 <diw clas = = l'caÍMa">
 
-■í jL claaa=" . . -I . . . lr>
+í jL claaa=" . . -I . . . lr>
 
 -Cl iXa b r e f =' ' í 11 1-Antezi or < a X1 i>
 
-■CliXa hiez = ',í 11 /-rroximo-í aX/Z.i.5-
+CliXa hiez = ',í 11 /-rroximo-í aX/Z.i.5-
 
 </nl>
 
 </d L u>
 
-■í/body>
+í/body>
 
 Para que este código crie dois botões para paginação, "Anterior" e "Próximo", um ao
 lado do
@@ -14145,7 +14144,7 @@ rei-" íty. Imlieet*>
 U»dy>
 c/bady>
 
-■ </htwl5
+ </htwl5
 
 Para alinhar o texto NOME à direita utilizado Bootstrap, versão 5, é suficiente
 utilizar na tag
@@ -14834,7 +14833,7 @@ clDDCTTFE Html>
 
 chMd>
 
-<ncta nana-''vieiíport" cocr.t.ent-^width.-dfivicc width., initial ■cala-l*»
+<ncta nana-''vieiíport" cocr.t.ent-^width.-dfivicc width., initial cala-l*»
 
 <liuk rel-'Btyleah.eetH bxef-^https2 //cuxcda.bookBtrapcdn.coa/bootatEap/4.3 .
 L/cBB/bootAtrap.rj.n.caB''^
@@ -14842,7 +14841,7 @@ L/cBB/bootAtrap.rj.n.caB''^
 «flcript 8rc="bttJ?*F//a]ax. gcoglaapi#. rom/ajax/libs/Jqu^i-y/l. 3 r3/jquery ,min , Ja" sc/acrapt
 >
 
-«acrxpt are- ■ Sir tpa : / /ednj s - cloiidf Laro. cca/a.3 ax/1 ibs/poppar. j >/l.
+«acrxpt are-  Sir tpa : / /ednj s - cloiidf Laro. cca/a.3 ax/1 ibs/poppar. j >/l.
 14.7/umdi/pcppcr. ~ izi.. j a H ></«cript >
 
 *cacrípt arc= 'ht tpB1. / Zm&xcda.boctatrapcdn. cora/ boota-l rap/ 4.3.1 / j b /bocta-trap. rui n.
@@ -14854,7 +14853,7 @@ ediv class-'container">
 
 íbuccan typ*^"tiutcon* class="btn btn-prlrtary" ltJ._ data-targoc^fal^EKMEFc/buttans
 
-■.-dlv id-*a.l" class-"collapse">
+.-dlv id-*a.l" class-"collapse">
 
 A Secretaria Municipal de Finanças. Tecnologia da Informação e Controle Interno fSemef)
 integra. a AâAlnlstraç3o Direta do Poder Executivo...
@@ -15049,23 +15048,23 @@ ClDOCTTPE
 
 <h.ead>
 
-■í t i T 1 e>T RE' 5-í /1 z.t Z. e >
+í t i T 1 e>T RE' 5-í /1 z.t Z. e >
 
 <Mta chazsc7 = ",Jzf-8,>
 
-■ilini. ríZ = " -zyle-teez" ZnzEÍ="coot.min. cu11?
+ilini. ríZ = " -zyle-teez" ZnzEÍ="coot.min. cu11?
 
-■í 5CILpt 3zc=''■ g-jery . min . j ■ 11X_■ 3Czipt>
+í 5CILpt 3zc='' g-jery . min . j  11X_ 3Czipt>
 
-■i 5CZL pt 5 Z C = '' C 007 3 tZ ap . mi Cl . j 5 ' X - 0. - íp t>
+i 5CZL pt 5 Z C = '' C 007 3 tZ ap . mi Cl . j 5 ' X - 0. - íp t>
 
 c/Zieaã>
 
 -CboãyJ-
 
-■: ã í W Cli 5 2 =" 1 i ia a11 >
+: ã í W Cli 5 2 =" 1 i ia a11 >
 
-■ízil cl as 5 =11 . . -I ">
+ízil cl as 5 =11 . . -I ">
 
 -Cl iXa Zize:z = "$ 11 >.\ntcz-az</aX 1 i>
 

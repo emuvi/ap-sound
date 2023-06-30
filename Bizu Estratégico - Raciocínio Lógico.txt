@@ -285,7 +285,7 @@ F V V
 
 F F V
 
-■S Condição Suficiente e Condição Necessária (p —> q):
+S Condição Suficiente e Condição Necessária (p —> q):
 
 P é condição suficiente para Q.
 Q é condição necessária para P.
@@ -374,18 +374,18 @@ As operações entre parênteses possuem prioridade.
 
 Item. 5. Tautologia, Contradição e Contingência
 
-■S Tautologia: quando a coluna de resultado da tabela-verdade tem apenas valores V.
+S Tautologia: quando a coluna de resultado da tabela-verdade tem apenas valores V.
 
-■S Contradição: quando a coluna de resultado da tabela-verdade tem apenas valores F.
+S Contradição: quando a coluna de resultado da tabela-verdade tem apenas valores F.
 
-■S Contingência: quando a coluna de resultado da tabela-verdade tem valores V e F.
+S Contingência: quando a coluna de resultado da tabela-verdade tem valores V e F.
 
 Item. 6. Equivalências mais importantes
 
-■ Deve-se negar a primeira parte da proposição e trocar o conectivo "Se...
+ Deve-se negar a primeira parte da proposição e trocar o conectivo "Se...
 então" pelo conectivo "OU".
 
-■ Exemplo:
+ Exemplo:
 
 * Afirmação: Se viajo, então acordo cedo.
 
@@ -393,9 +393,9 @@ então" pelo conectivo "OU".
 
 o p -> q <=> ~q -> ~p
 
-■ Deve-se negar as duas partes e interver as posições das proposições obtidas.
+ Deve-se negar as duas partes e interver as posições das proposições obtidas.
 
-■ Exemplo:
+ Exemplo:
 
 
 LI
@@ -415,7 +415,7 @@ Item. 7. Negações mais importantes
 
 o 1a Lei de De Morgan
 
-■ Conectivo E
+ Conectivo E
 
 * Deve-se negar as duas proposições simples que a compõe e trocar o
 conectivo "E" pelo "OU".
@@ -430,7 +430,7 @@ o Negação: Rodrigo não está doente ou foi trabalhar.
 
 o 2a Lei de De Morgan
 
-■ Conectivo OU
+ Conectivo OU
 
 * Deve-se negar as duas proposições simples que a compõe e trocar o
 conectivo "OU" pelo "E".

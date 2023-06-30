@@ -466,9 +466,7 @@ Spménte 9
 /
 
 
-......... ........................................................
-...................................................... ..... ....................... .......
-....... .......... |
+|
 
 : 1. (CESPE/IPHAN - 2018) Cluster e GRID possuem características semelhantes, como o ;
 multiprocessamento distribuído, mas se distinguem pelas seguintes razões: cluster é uma j
@@ -478,7 +476,7 @@ disponibilidade e(ou) balanceamento de carga; o GRID, por sua vez, envolve a int
 
 gestão de recursos computacionais fracamente acoplados e geograficamente distribuídos.
 
-■ ■
+ 
 
 i Comentários:
 
@@ -497,7 +495,7 @@ i
 i
 Gabarito: Correta :
 
-;■2. (CESPE/TRE-PE - 2015) Os sistemas operacionais têm rotinas que não são executadas de forma ;I
+;2. (CESPE/TRE-PE - 2015) Os sistemas operacionais têm rotinas que não são executadas de forma ;I
 linear, masz sim, concorrentemente, em função de eventos assíncronos.
 
 
@@ -511,7 +509,7 @@ y 72
 
 = Comentários:
 
-■ ■
+ 
 
 As rotinas do sistema operacional são executadas conforme as características das tarefas (jobs). i
 
@@ -522,8 +520,8 @@ afirmou que as rotinas são executadas em função de eventos assíncronos! Port
 
 i correta.
 
-■
-Gabarito: Correta ■
+
+Gabarito: Correta 
 
 
 Spménte 11
@@ -993,7 +991,7 @@ encontramos o
 i
 Gabarito: Letra D
 
-;■2. (FCC/TRT11 - 2017) Após instalar o servidor JBoss AS 5 para Windows, deve-se entrar na pasta
+;2. (FCC/TRT11 - 2017) Após instalar o servidor JBoss AS 5 para Windows, deve-se entrar na pasta
 
 $JBOSS_HOME/bin e digitar run.bat para iniciá-lo. Com o servidor iniciado, para acessar a área
 de login do JBoss AS Administration Console deve-se digitar,
@@ -2578,17 +2576,17 @@ ESTA CAI NA
 
 PROVA!
 
-...............*.......... ............................................................
-............................................................................. .......... .
+*
+.
 
 : 1. (Quadrix/CRM-PR - 2018) Um servidor Apache pode hospedar muitos sites web diferentes, ;
 simultaneamente, com o uso do método chamado de Virtual hosting.
 
-■ ■
+ 
 
 Ê Comentários:
 
-■
+
 I
 
 : Exato! E através de diretivas, pode ser utilizada a <VirtualHost>. Portanto, a questão está
@@ -2610,10 +2608,10 @@ I
 A) executar em uma máquina virtual.
 i
 
-■
 
 
-■
+
+
 
 i B) executar em um servidor virtual em ambiente de nuvem
 :
@@ -2639,8 +2637,8 @@ gerenciar o site, i
 i Portanto, a alternativa C está correta e é o gabarito da questão.
 i
 
-■
-Gabarito: Letra C ■
+
+Gabarito: Letra C 
 
 
 Spmênte 47

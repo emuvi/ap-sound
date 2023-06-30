@@ -474,8 +474,6 @@ frente às bancas. Vejam a tradução literal da definição do NIST, em seu doc
 800-145, que trata dos
 conceitos de nuvem:
 
-............... ................................................ ............... .........
-................... .............. .............................
 
 : "A infraestrutura de nuvem é provisionada para uso exclusivo por uma
 única :
@@ -485,7 +483,7 @@ conceitos de nuvem:
 : Pode ser propriedade, gerida e operada pela organização, um terceiro, ou alguma :
 
 : combinação deles, e pode existir dentro ou fora das instalações.
-"............................................. :
+" :
 
 NUVEM PÚBLICA
 
@@ -516,8 +514,8 @@ T ATENÇÃO!
 
 Vamos ver novamente, a definição do NIST:
 
-............... ........... ..................................................................
-.................. ....................................... .
+
+.
 
 : "A infraestrutura de nuvem é provisionada para uso aberto pelo público em geral.
 Pode :
@@ -527,8 +525,8 @@ Pode :
 : acadêmica ou governamental, ou alguma combinação deles. Ele existe nas instalações :
 
 : do provedor de nuvem.
-"...................................................................................................
-............ :
+"
+:
 
 NUVEM CoMUNITÁRIA
 
@@ -2578,7 +2576,7 @@ GABARITo
 GABARITo - QUESTõES CESPE
 
 
-r............... ..
+r ..
 
 5 E
 
@@ -2635,7 +2633,7 @@ GABARITo - QUESTõES FCC
 
 RESUMo
 
-■ Cluster, Grid e Balanceamento de Carga
+ Cluster, Grid e Balanceamento de Carga
 
 o Cluster - É um agregado de computadores conectados entre si via hardware ou software que
 compartilham seus recursos passando a funcionar como uma única unidade lógica.
@@ -2652,7 +2650,7 @@ sistema operacional, em servidores que fazem parte de um cluster.
 * HARDWARE - Atua como intermediário e é responsável por efetuar a distribuição das requisições
 entre os dispositivos.
 
-■ Computação em Nuvem (Cloud Computing)
+ Computação em Nuvem (Cloud Computing)
 
 o Co-Location - O serviço de Co-Location (ou Colocation) contempla o fornecimento de infraestrutura
 de Datacenter para os clientes. Ele contempla ainda critérios de segurança física.
@@ -2666,7 +2664,7 @@ r
 Nuvem Nuvem
 Privada Comunitária
 
-k ■k1 J
+k k1 J
 
 r F
 
@@ -2676,7 +2674,7 @@ Pública Híbrida
 
 k J
 
-■ Arquiteturas de Cloud Computing
+ Arquiteturas de Cloud Computing
 
 o laaS - E caracterizada pelo provimento de toda a infraestrutura física e lógica de forma
 virtualizada

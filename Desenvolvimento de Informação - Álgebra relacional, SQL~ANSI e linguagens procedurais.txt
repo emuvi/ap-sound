@@ -745,7 +745,7 @@ WF
 
 uantidade c ie
 
-i ■ _ i_
+i  _ i_
 
 \7
 
@@ -3004,7 +3004,7 @@ iZ; ano
 123 nota
 
 ff disciplina
-a——-—■12fid
+a——-—12fid
 
 descricao
 
@@ -3132,7 +3132,7 @@ ano
 123 nota
 
 ff disciplina
-a——-—■I2fid
+a——-—I2fid
 
 ase descricao
 
@@ -6034,7 +6034,7 @@ codigo_tipo_conta
 
 descricao tipo conta
 
-■F-
+F-
 Agencia
 
 id_agencia
@@ -6065,7 +6065,7 @@ Cliente
 
 id_cliente
 
-■|~ nome_cliente
+|~ nome_cliente
 datajnicio
 data fim
 
@@ -9748,7 +9748,7 @@ MATRIC COD-DISC NOME-DISC ANO SEMESTRE NOTA
 
 33333 INF1001 PROGRAMAÇÃO II 2013 1
 
-* * ■
+* * 
 * * * > Qualconsulta
 
 exibe os nomes dos alunos que nunca foram reprovados?

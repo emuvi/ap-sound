@@ -28,7 +28,7 @@ Métricas de similaridade textual (similaridade do cosseno, distância euclidian
 similaridade de
 Jaccard, distância de Manhattan e coeficiente de Dice)
 
-Aplicações de PLN........
+Aplicações de PLN
 
 Questões Comentadas
 
@@ -316,7 +316,7 @@ abstrativa.
 Abaixo vamos listar algumas aplicações de PLN em grau de complexidade crescente:
 
 
->■
+>
 
 Verificação
 ortográfica
@@ -511,7 +511,7 @@ Lowercasing
 
 Parsing
 
-- -■
+- -
 
 Coreference
 Resolution
@@ -3295,7 +3295,7 @@ log 2 '
 
 (E)
 
-■ 1 log 2 0
+ 1 log 2 0
 
 11 11
 
@@ -4090,7 +4090,7 @@ A submatriz da matriz de TF-IDF desses dois documentos correspondente aos termos
 
 log?
 
-■ 1 1 0
+ 1 1 0
 
 (B) 11 11 1
 
@@ -4120,7 +4120,7 @@ log 2
 
 (E)
 
-■ 1 log 2 0
+ 1 log 2 0
 
 11 11
 

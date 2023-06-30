@@ -153,7 +153,7 @@ sintaxe de declaração de um atributo é a seguinte:
 [palavra-chave] tipoAtributo NomeAtributo [=expressão];
 A Palavra-Chave é opcional, podendo ser:
 
-■ Final, Volatile, Static ou Transient
+ Final, Volatile, Static ou Transient
 
 class Empregado {
 
@@ -172,7 +172,7 @@ transient Sexo; //Indica que Sexo não pode ser serializável;
 
 }
 
-■ Modificadores de Acesso:
+ Modificadores de Acesso:
 
 class Empregado {
 
@@ -207,7 +207,7 @@ A sintaxe de declaração de um método é apresentada acima. A Palavra-Chave é
 opcional,
 podendo ser:
 
-■ Abstract, Final, Static, Native e Synchronized
+ Abstract, Final, Static, Native e Synchronized
 
 //Indica que esse método não possui corpo
 abstract int soma (int a, int b) {//...//}
@@ -230,7 +230,7 @@ native int soma (int a, int b) {//...//}
 //Indica que esse método só é executável por uma thread por vez
 synchronized soma (int a, int b) {//...//}
 
-■ Modificadores de Acesso:
+ Modificadores de Acesso:
 
 public int soma (int a, int b) {//...//}
 private int soma (int a, int b) {//...//}
@@ -363,19 +363,19 @@ Pessoal, esses Modificadores de Acesso determinam quão acessíveis são esses e
 Vamos
 vê-los agora em mais detalhes:
 
-■ <public>: essa instrução indica que a classe, método ou atributo assim declaradas
+ <public>: essa instrução indica que a classe, método ou atributo assim declaradas
 podem ser
 acessadas em qualquer lugar e a qualquer momento da execução do programa -
 é o
 modificador menos restritivo.
 
-■ <private>: essa instrução indica que métodos ou atributos (classes, não)
+ <private>: essa instrução indica que métodos ou atributos (classes, não)
 assim declaradas
 podem ser acessadas apenas dentro da classe que os criou. Subclasses herdam-nos, mas
 não
 os acessam - é o modificador mais restritivo1.
 
-■ <protected>: essa instrução indica que métodos ou atributos (classes, não) assim
+ <protected>: essa instrução indica que métodos ou atributos (classes, não) assim
 declaradas
 somente podem ser acessadas dentro do pacote em que está contida ou por subclasses no
 mesmo pacote.
@@ -391,7 +391,7 @@ subdasses o f that dass".
 /
 
 
-■ <default>: também chamado friendly, não há palavra para esse modificador porque ele
+ <default>: também chamado friendly, não há palavra para esse modificador porque ele
 é, na
 verdade, a ausência de um modificador. Indica-se que a classe, método ou atributo
 podem ser
@@ -480,14 +480,14 @@ referimos a esse objeto!
 
 Existem dois tipos de polimorfismo:
 
-■ Polimorfismo Estático: ocorre quando uma classe possui métodos com mesmo
+ Polimorfismo Estático: ocorre quando uma classe possui métodos com mesmo
 nome,
 entretanto assinaturas diferentes, i.e., métodos de uma mesma classe se
 sobrecarregando.
 Pode ser chamada também de Sobrecarga ou Overloading. Ocorre em Tempo de Compilação
 e alguns não o consideram um tipo de polimorfismo, porque a assinatura é diferente.
 
-■ Polimorfismo Dinâmico: ocorre quando uma classe possui um método com mesmo nome e
+ Polimorfismo Dinâmico: ocorre quando uma classe possui um método com mesmo nome e
 mesma assinatura que um método de sua superclasse, i.e., o método da
 classe-filha
 sobrescreve o método da classe-pai. Pode ser chamada também de Sobrescrita,
@@ -521,7 +521,7 @@ public String EntendendoAssinatura(long A, long B);
 public String EntendendoAssinatura(long A, long B);
 public String EntendendoAssinatura(char A, long B);
 
-■
+
 
 //Assinatura Diferente: ordem diferente
 
@@ -1321,8 +1321,8 @@ public Funcionário() {
 
 public Funcionário(int id, String nome, double valorBase) {
 
-this.id ■ id;
-this.nome ■ nome;
+this.id  id;
+this.nome  nome;
 
 this.valorBase>valorBase;
 
@@ -1349,7 +1349,7 @@ public Mensalista(double descontos, int id, String nome, double
 valorBase) {
 
 super(id, nome, valorBase);
-this.descontos ■ descontos;
+this.descontos  descontos;
 
 }
 
@@ -2068,7 +2068,7 @@ public Funcionário() {
 public Funcionário(int id, String nome, double valorBase) {
 
 this.id « id;
-this.nome ■ nome;
+this.nome  nome;
 
 this.valorBase«valorBase;
 
@@ -2095,7 +2095,7 @@ public Mensalista(double descontos, int id, String nome, double
 valorBase) {
 
 super(id, nome, valorBase);
-this.descontos ■ descontos;
+this.descontos  descontos;
 
 }
 
@@ -2220,7 +2220,7 @@ Item. 11. C
 Item. 12. B
 
 
-,■
+,
 
 /
 

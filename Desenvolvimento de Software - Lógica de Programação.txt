@@ -97,8 +97,8 @@ sequência de passos finitos e predeterminados. No fim das contas, grosso modo, 
 software nada mais é
 do que a representação de um algoritmo.
 
-....................................................................................................
-...............................................................................................■
+
+
 
 í (Quadrix - 2022 - CRC-PR) A respeito dos diagramas de casos de uso, dos diagramas
 de classe, da análise i
@@ -221,10 +221,8 @@ a visualizá-los, compreendê-los mais facilmente e encontrar falhas ou problema
 eficiência, como mostra
 a imagem abaixo.
 
-r...................................................................................................
-....................................................................................................
-....................................................................................................
-..........................
+r
+
 
 í (CESPE / CEBRASPE - 2022 - BANRISUL) Julgue o próximo item, a respeito de lógica de programação.
 
@@ -258,7 +256,7 @@ Dados Externos
 
 L
 
-:■ Preparação
+: Preparação
 
 r 1
 
@@ -271,10 +269,9 @@ tor
 1 F
 
 .
-....................................................................................................
-....................................................................................................
-....................................................................................................
-....................... .
+
+
+.
 
 í (CESPE/CEBRASPE - 2015 - TER-GO) Julgue os itens a seguir, relativos a lógica de programação.
 
@@ -418,7 +415,7 @@ chamados de simples, básicos, nativos ou primitivos. Já os dados estruturados 
 podem ser chamados
 de compostos. Bacana? Vamos para as definições!
 
-■ Tipos Elementares: são aqueles que não podem ser decompostos. Ora, se eu disser que
+ Tipos Elementares: são aqueles que não podem ser decompostos. Ora, se eu disser que
 o Pedrinho tem
 
 10 anos, é possível decompor esse valor de idade? Não, logo é um tipo elementar. Há
@@ -449,7 +446,7 @@ verdadeiro/falso, ligado/desligado, sim/não, etc. São extremamente
 importantes na
 programação, principalmente na verificação de condições.
 
-■ Tipos Estruturados: são aqueles que podem ser decompostos. Ora, se eu disser que o
+ Tipos Estruturados: são aqueles que podem ser decompostos. Ora, se eu disser que o
 nome da bola da
 copa é Brazuca, é possível decompor esse nome? Sim, basta dividi-lo em caracteres:
 'B', 'r', 'a', 'z', 'u', 'c',
@@ -644,7 +641,7 @@ Aluno = Reprovado
 
 Início
 
-Aluno = Reprovado ■Não-
+Aluno = Reprovado Não-
 
 O segundo caso é só um pouquinho mais complexo, onde temos dois fluxos possíveis, um
 que passa pelo
@@ -911,7 +908,7 @@ Eduardo Jorge'
 
 ▼
 
-Numero = 45 Presidente ■
+Numero = 45 Presidente 
 'Aéoo Neves*
 
 Na
@@ -980,13 +977,13 @@ repetida as instruções dentro do bloco. No nosso exemplo, a instrução "impri
 simplificada,
 mas realiza várias instruções internas:
 
-■ Testa se Votos é igual a 1000;
+ Testa se Votos é igual a 1000;
 
-■ Se é igual, encerra a repetição;
+ Se é igual, encerra a repetição;
 
-■ Se é menor, soma 1 à variável de controle "Votos";
+ Se é menor, soma 1 à variável de controle "Votos";
 
-■ Mais uma repetição
+ Mais uma repetição
 
 Perceba que, como não há outros testes de condição de saída a não ser a contagem da
 variável de controle,
@@ -1690,7 +1687,7 @@ Code), que foi criada
 com fins educativos. Conheciam? Eu também não!
 
 
-■s
+s
 
 FM rwo Mcts w ANt> i sm
 
@@ -4505,12 +4502,12 @@ maior que 3, ele incrementa o valor de vetor[4],
 
 o Dessa forma:
 
-■ Nas posições 1, 2 e 3 são adicionados os votos referentes aos candidatos 1,
+ Nas posições 1, 2 e 3 são adicionados os votos referentes aos candidatos 1,
 2 e3.
 
-■ Na posição 0, são adicionados os votos em branco.
+ Na posição 0, são adicionados os votos em branco.
 
-■ Na posição 4, são adicionados os votos nulos (já que não são 0, 1, 2 ou 3).
+ Na posição 4, são adicionados os votos nulos (já que não são 0, 1, 2 ou 3).
 
 Vamos de item em item:
 
@@ -5227,16 +5224,16 @@ o No fim do loop, ele executa i <- i + 1, ou seja, incrementa o valor de i. Sign
 
 o loop vai rodar:
 
-■ De 1 a 10, em cada uma das iterações do loop;
+ De 1 a 10, em cada uma das iterações do loop;
 
-■ Ou até que o valor de "a" seja verdadeiro.
+ Ou até que o valor de "a" seja verdadeiro.
 
 o Em cada uma das iterações do loop, ele verifica se o vetor na posição i é igual ao
 valor k, que foi lido.
 
-■ Se for, então imprime "Sucesso", e define a = verdadeiro.
+ Se for, então imprime "Sucesso", e define a = verdadeiro.
 
-■ Se não for, imprime "Insucesso", e segue o fluxo.
+ Se não for, imprime "Insucesso", e segue o fluxo.
 
 * Na prática, o que o algoritmo faz é percorrer o vetor posição a
 posição. Vai imprimir
@@ -6326,7 +6323,7 @@ Para k = 3:
 
 Testa L[k] > L[k+1 ], ou seja, L[3] > L[4], ou seja, 53 > 28.
 
-■
+
 
 Verdadeiro. Entra no if.
 
@@ -6582,54 +6579,54 @@ incrementando o valor de y, e printando os valores de x e y.
 
 o Dessa forma, a 1a iteração de x irá de 1 até 9.
 
-■ Como y = x + 2, então a 1a iteração de y será de 3 até 9.
+ Como y = x + 2, então a 1a iteração de y será de 3 até 9.
 
-■ Portanto, ele entrará no print 7 vezes.
+ Portanto, ele entrará no print 7 vezes.
 
 o Na 2a iteração do x, irá de 2 até 9.
 
-■ Como y = x + 2, então a 2a iteração de y será de 4 até 9.
+ Como y = x + 2, então a 2a iteração de y será de 4 até 9.
 
-■ Portanto, ele entrará no print 6 vezes.
+ Portanto, ele entrará no print 6 vezes.
 
 o Na 3a iteração do x, irá de 3 até 9.
 
-■ Como y = x + 2, então a 3a iteração de y será de 5 até 9.
+ Como y = x + 2, então a 3a iteração de y será de 5 até 9.
 
-■ Portanto, ele entrará no print 5 vezes.
+ Portanto, ele entrará no print 5 vezes.
 
 o Na 4a iteração do x, irá de 4 até 9.
 
-■ Como y = x + 2, então a 4a iteração de y será de 6 até 9.
+ Como y = x + 2, então a 4a iteração de y será de 6 até 9.
 
-■ Portanto, ele entrará no print 4 vezes.
+ Portanto, ele entrará no print 4 vezes.
 
 o Na 5a iteração do x, irá de 5 até 9.
 
-■ Como y = x + 2, então a 5a iteração de y será de 7 até 9.
+ Como y = x + 2, então a 5a iteração de y será de 7 até 9.
 
-■ Portanto, ele entrará no print 3 vezes.
+ Portanto, ele entrará no print 3 vezes.
 
 o Na 6a iteração do x, irá de 6 até 9.
 
-■ Como y = x + 2, então a 6a iteração de y será de 8 até 9.
+ Como y = x + 2, então a 6a iteração de y será de 8 até 9.
 
-■ Portanto, ele entrará no print 2 vezes.
+ Portanto, ele entrará no print 2 vezes.
 
 o Na 7a iteração do x, irá de 7 até 9.
 
-■ Como y = x + 2, então a 7a iteração de y será de 9 até 9. Ou seja, apenas 9
+ Como y = x + 2, então a 7a iteração de y será de 9 até 9. Ou seja, apenas 9
 mesmo.
 
-■ Portanto, ele entrará no print 1 vez.
+ Portanto, ele entrará no print 1 vez.
 
 o Na 8a iteração do x, irá de 8 até 9.
 
-■ Como y = x + 2, então y inicial seria 10. Não entra no while. Não printa nada,
+ Como y = x + 2, então y inicial seria 10. Não entra no while. Não printa nada,
 
 o Na 9a iteração do x, irá de 9 até 9.
 
-■ Como y = x + 2, então y inicial seria 11. Não entra no while. Não printa nada.
+ Como y = x + 2, então y inicial seria 11. Não entra no while. Não printa nada.
 
 Os prints seriam os seguintes:
 1 3
@@ -7456,10 +7453,10 @@ o Executa RP <- FREC(CT) = FREC(O)
 
 o Entra na função FREC(O).
 
-■ Testa (AUX = 0) OU (AUX = 1), ou seja, (0 = 0) OU 0 = 1), ou seja, true OU
+ Testa (AUX = 0) OU (AUX = 1), ou seja, (0 = 0) OU 0 = 1), ou seja, true OU
 false.
 
-■ Verdadeiro, entra no "então" e retorna o valor de AUX = 0. O valor de AUX
+ Verdadeiro, entra no "então" e retorna o valor de AUX = 0. O valor de AUX
 é retornado ao RP.
 
 
@@ -7730,7 +7727,7 @@ i <- 1
 
 enquanto i < t faça
 
-{ ■
+{ 
 
 3 - 1
 
@@ -9685,7 +9682,7 @@ se (ma < b) então ma <- b;
 me <-a;
 
 se (me > b) então me <- b;
-resultado <■- ( ma % me ) 1;
+resultado <- ( ma % me ) 1;
 
 se (resultado = 0)
 então retorne me
@@ -11856,7 +11853,7 @@ inteiro y
 inteiro z
 
 
-z ■<—3
+z <—3
 
 x «— x + 40
 y«—5Z*4
@@ -12184,7 +12181,7 @@ se (vetor[i] > vetor[i+l])
 
 {
 
-naosei ■ vetor[i]
+naosei  vetor[i]
 vetor[i] = vetor[i+l]
 vetor[i+1] = naosei
 achou = verdadeiro

@@ -155,7 +155,7 @@ então a média ponderada é dada por:
 
 Média = XlPl + X2p2 + x3p3 + - + xnpn
 
-P1+P2+P3+ ■+Pn
+P1+P2+P3+ +Pn
 
 Item. 3. Média Geométrica
 
@@ -254,7 +254,7 @@ estudo apresentarem uma mesma frequência).
 
 > Moda para Dados Não-Agrupados:
 
-■J Para a identificação da moda em um conjunto ordenado de valores não
+J Para a identificação da moda em um conjunto ordenado de valores não
 agrupados em classe, basta verificar, no conjunto, aquele valor que aparece
 com maior frequência.
 
@@ -377,9 +377,9 @@ Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 Complementar de um evento: Considere um evento A. O evento complementar
 de A ocorre se e somente se não ocorre A.
 
-■S Se A U B = U, dizemos que A e B são eventos exclusivos.
+S Se A U B = U, dizemos que A e B são eventos exclusivos.
 
-■J Se A B = 0 , dizemos que A e B são eventos mutuamente exclusivos (ou
+J Se A B = 0 , dizemos que A e B são eventos mutuamente exclusivos (ou
 excludentes).
 
 Definição Axiomática de Probabilidade:
@@ -629,7 +629,7 @@ Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
 
 * Em que e é uma constante (número de Euler) e vale aproximadamente
-2,718....
+2,718
 
 Estimação Intervalar e Testes de Hipóteses
 
@@ -641,38 +641,38 @@ parâmetros populacionais que ainda não são conhecidos.
 
 ESTIMAÇÃO PONTUAL
 
-■ Nesta estimação o parâmetro populacional é obtido através de um único
+ Nesta estimação o parâmetro populacional é obtido através de um único
 número. Este número tende a ser bem próximo do verdadeiro valor do
 parâmetro.
 
-■ Existem dois tipos de estimação de um parâmetro populacional:
+ Existem dois tipos de estimação de um parâmetro populacional:
 
 estimação por ponto e a estimação por intervalo.
 
-■ Como é uma estimativa baseada em um único ponto, não é possível
+ Como é uma estimativa baseada em um único ponto, não é possível
 julgar a magnitude do erro que podemos estar cometendo.
 
 Z ESTIMAÇÃO POR INTERVALO
 
-■ Essa estimativa busca determinar um intervalo que possua o valor do
+ Essa estimativa busca determinar um intervalo que possua o valor do
 parâmetro populacional, obtendo através desta uma margem de
 segurança razoável, onde é possível julgar se estamos ou não
 cometendo um erro de amostragem.
 
 INTERVALO DE CONFIANÇA
 
-■ Na estimativa por intervalo de confiança é possível determinar dois
+ Na estimativa por intervalo de confiança é possível determinar dois
 limites para a amostragem populacional, ou seja, temos aqui uma
 margem de erro conhecida.
 
-■ Quando a margem de erro é baixa, temos que o nível de confiança
+ Quando a margem de erro é baixa, temos que o nível de confiança
 daquela pesquisa ou amostra é alto. Caso a margem de erro seja alta, a
 confiança tende a ser menor.
 
-■ Geralmente esses intervalos de confiança são expressos assim: (1 - a),
+ Geralmente esses intervalos de confiança são expressos assim: (1 - a),
 onde a é o grau de desconfiança.
 
-■ Encontramos em nosso dia a dia, desta forma a = grau de desconfiança,
+ Encontramos em nosso dia a dia, desta forma a = grau de desconfiança,
 nível de incerteza ou nível de significância. 1-a = coeficiente de
 confiança ou nível de confiabilidade;
 
@@ -698,17 +698,17 @@ hipótese alternativa.
 
 HIPÓTESE NULA
 
-■ É a hipótese que possui uma afirmação de igualdade, ou seja: <, =, >.
+ É a hipótese que possui uma afirmação de igualdade, ou seja: <, =, >.
 
-■ Só poderemos montar hipóteses nulas com estes três símbolos.
+ Só poderemos montar hipóteses nulas com estes três símbolos.
 
 HIPÓTESE ALTERNATIVA
 
-■ Utilizado como complemento da Hipótese nula, sendo a afirmação que
+ Utilizado como complemento da Hipótese nula, sendo a afirmação que
 deve ser verdadeira se HO for falsa. Na hipótese alternativa, teremos
 uma afirmação de desigualdade. Devemos utilizar os seguintes símbolos.
 
-■ <, >, *
+ <, >, *
 
 > Teremos os seguintes testes:
 

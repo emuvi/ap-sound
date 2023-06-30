@@ -532,7 +532,7 @@ app Android
 e são os arquivos que os dispositivos desenvolvidos para Android usam para instalar o
 aplicativo.
 
-■
+
 
 Cada app Android é ativado na própria sandbox de segurança, protegido pelos seguintes
 recursos
@@ -667,10 +667,8 @@ cada app tenha
 sua identidade de usuário exclusiva e que a interação entre os aplicativos seja controlada e
 segura.
 
-....................................................................................................
-....................................................................................................
-....................................................................................................
-......................................................... .
+
+.
 
 i (CEBRASPE - TCE-PA / 2016) O Android, sistema operacional Linux multiusuário em que cada
 
@@ -682,15 +680,15 @@ i
 
 Comentários:
 
-■
 
 
-■
-
-■
 
 
-■
+
+
+
+
+
 
 : Perfeita questão! Vejam que há um alinhamento bem intenso em relação à documentação. O ;
 
@@ -1434,8 +1432,6 @@ solicitadas pelo aplicativo no Manifest, é possível determinar quais recursos 
 aplicativo pode
 acessar.
 
-....................................................................................................
-.............................................................................
 
 í (FGV- Banestes / 2018) Sempre que um aplicativo precisa de acesso a um recurso
 protegido por :
@@ -4530,8 +4526,8 @@ interpolação =
 : de strings em Swift.
 :
 
-■
-■
+
+
 
 : Portanto, a opção correta é a letra d): let saida = "valor total =
 \(quantidade*valor)". Essa opção =
@@ -5844,8 +5840,6 @@ estado
 componente Text.
 Vejamos uma questão sobre o assunto.
 
-....................................................................................................
-.............................................................................
 
 i (CESGRANRIO - Banco do Brasil / 2023) O React Native 0.59 introduziu o conceito de
 Hooks.
@@ -5874,8 +5868,8 @@ d) criar uma enumeration que representa estados.
 
 e) manter um estado local em uma função de um componente funcional.
 
-■
-■
+
+
 
 : Comentários:
 =
@@ -6333,11 +6327,9 @@ simplificada.
 
 
 ..
-....................................................................................................
-....................................................................................................
-....................................................................................................
-....................................................................................................
-..................................................................................... ■
+
+
+
 
 i (UFC - UFC / 2019 - Adaptada) Sobre o desenvolvimento de aplicações
 móveis, assinale a
@@ -6545,8 +6537,8 @@ i
 i b) V, V, F
 i
 
-k■) v, F, V
-■i
+k) v, F, V
+i
 
 : d) F, F, V
 
@@ -6557,7 +6549,7 @@ Comentários:
 : Questão um pouco estranha, nao é? Mas é isso aí, pode cair na sua prova desse
 jeitinho... Então =
 
-:■vamos relembrar os conceitos de Flutter e conhecer os demais! Imagine que você está construindo ;
+:vamos relembrar os conceitos de Flutter e conhecer os demais! Imagine que você está construindo ;
 I
 
 : uma casa. O Flutter seria como uma máquina incrível que permite construir todas as
@@ -6577,8 +6569,8 @@ programação Dart. ;
 
 = pessoa pode usá-lo e contribuir para o seu desenvolvimento.
 
-■
-■
+
+
 
 : Agora, imagine que você quer construir uma casa que seja compatível com diferentes
 tipos de i
@@ -6791,7 +6783,7 @@ permite criar i
 = leiautes flexíveis nas direções horizontal e vertical, com design de objetos baseado
 no modelo de =
 
-:■le■iaute flexbox da Web é o
+:leiaute flexbox da Web é o
 i
 
 a) Text.
@@ -7220,8 +7212,8 @@ x += 1
 
 }
 
-■ (Cesgranrio - Caixa / 2021) Na linguagem de programação Kotlin, é possível criar
-uma variável ■
+ (Cesgranrio - Caixa / 2021) Na linguagem de programação Kotlin, é possível criar
+uma variável 
 
 = cujo valor nunca pode ser mudado, na prática, uma constante, com o nome
 idademinima, do tipo i
@@ -7232,7 +7224,7 @@ i
 I
 
 
-■
+
 
 I
 
@@ -7244,7 +7236,7 @@ I
 I
 
 
-■
+
 
 : a)vai idademinima : Int = 18
 ;
@@ -7605,7 +7597,7 @@ i
 I
 
 
-■
+
 
 : val resposta = when (classe) {
 i
@@ -7630,10 +7622,10 @@ I
 : else->"Dado inválido."
 :
 
-■
 
 
-■
+
+
 
 :println(resposta)
 =

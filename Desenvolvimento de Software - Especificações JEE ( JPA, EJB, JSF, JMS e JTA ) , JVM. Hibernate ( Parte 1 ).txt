@@ -164,13 +164,13 @@ Conforme mostra a imagem acima, existem duas aplicações multicamadas Java EE d
 em
 níveis descritos como se segue:
 
-■ Camada do Cliente: componentes rodam na Máquina Cliente;
+ Camada do Cliente: componentes rodam na Máquina Cliente;
 
-■ Camada Web: componentes rodam no Servidor Java EE;
+ Camada Web: componentes rodam no Servidor Java EE;
 
-■ Camada de Negócio: componentes rodam no Servidor Java EE;
+ Camada de Negócio: componentes rodam no Servidor Java EE;
 
-■ Camada EIS: software roda no Servidor EIS.
+ Camada EIS: software roda no Servidor EIS.
 
 Galera, a imagem abaixo apresenta um pouco da evolução do Java EE e a tabela que
 segue
@@ -591,7 +591,7 @@ ou duplicações desnecessárias entre anotações definidas em especificações
 diferentes, incluindo
 até mesmo aquelas utilizadas em plataformas distintas. 5aca/?a.7Vamos ver as anotações:
 
-■ javax.annotation.Generated:
+ javax.annotation.Generated:
 
 Essa anotação é utilizada para marcar o código-fonte que foi gerado. Ela pode ser
 especificada
@@ -603,7 +603,7 @@ value, que é o nome do gerador de código; date, que é a data de geração; e
 comments, que são
 simplesmente comentários.
 
-■ javax.annotation.Resource:
+ javax.annotation.Resource:
 
 Essa anotação é utilizada para declarar uma referência a um recurso. Ela pode ser
 especificada em
@@ -613,7 +613,7 @@ instância do recurso requisitado na aplicação quando ela for inicializada. Se
 aplicada a classes,
 ela declara um recurso que a aplicação procurará em tempo de execução.
 
-■ javax.annotation.Resources:
+ javax.annotation.Resources:
 
 Essa anotação é utilizada para declarar uma referência a um recurso. Ela age como um
 contêiner
@@ -623,7 +623,7 @@ e a outra é Resources. Quando se têm mais de uma declaração de referência a
 recurso,
 utilizamos a segunda! Não há muito segredo nessa anotação.
 
-■ javax.annotation.PostConstruct:
+ javax.annotation.PostConstruct:
 
 Essa anotação é utilizada em um método que necessita ser executado após uma
 injeção de
@@ -633,7 +633,7 @@ colocada em serviço. Essa anotação deve ser suportada em todas as classes que
 injeção
 de dependência. O método em que essa anotação é aplicada deve satisfazer diversos critérios.
 
-■ javax.annotation.PreDestroy:
+ javax.annotation.PreDestroy:
 
 Essa anotação é utilizada em métodos como uma notificação de retorno para sinalizar
 que uma
@@ -647,7 +647,7 @@ anotação
 ,
 
 
-■ javax.annotation.Priority:
+ javax.annotation.Priority:
 
 Essa anotação pode ser aplicada a classes para indicar em que ordem as classes devem
 ser
@@ -657,7 +657,7 @@ especificações que definem o uso de uma classe específica - cada classe espec
 dizer qual
 deverá ser a prioridade de chamada das outras classes. Entenderam?
 
-■ javax.annotation.security.RunAs:
+ javax.annotation.security.RunAs:
 
 Essa anotação define a função da aplicação durante a execução em um Contêiner Java
 EE. Ela
@@ -669,7 +669,7 @@ domínio de segurança do contêiner. O elemento value, nesse elemento, é uma
 função de
 segurança.
 
-■ javax.annotation.security.RolesAllowed:
+ javax.annotation.security.RolesAllowed:
 
 Essa anotação especifica as funções de segurança permitidas para acessar
 métodos em uma
@@ -679,7 +679,7 @@ anotação pode ser especificada em uma classe, quando se aplica a todos os mét
 dessa classe;
 ou em um método, quando se aplica apenas ao método específico.
 
-■ javax.annotation.security.PermitAII:
+ javax.annotation.security.PermitAII:
 
 Essa anotação especifica que todas as funções de segurança estão autorizadas a invocar
 métodos
@@ -689,7 +689,7 @@ Essa anotação pode ser especificada em uma classe, quando se aplica a todos os
 métodos dessa
 classe; ou em um método, quando se aplica apenas ao método específico.
 
-■ javax.annotation.security.DenyAII:
+ javax.annotation.security.DenyAII:
 
 Essa anotação especifica que nenhuma função de segurança está autorizada a invocar
 métodos
@@ -699,7 +699,7 @@ EE. Essas três últimas anotações definem quais funções de segurança estã
 acessar
 os métodos em que elas foram aplicadas.
 
-■ javax.annotation.security.DeclareRoles:
+ javax.annotation.security.DeclareRoles:
 
 Essa anotação é utilizada para especificar as funções de segurança de uma aplicação.
 Ela pode ser
@@ -713,7 +713,7 @@ papéis que não estão implicitamente declarados.
 ,
 
 
-■ javax.annotation.sql.DataSourceDefinition:
+ javax.annotation.sql.DataSourceDefinition:
 
 Essa anotação é utilizada para definir um contêiner DataSource e para ser registrada
 com JNDI
@@ -725,11 +725,11 @@ registrado sob o nome especificado no elemento name e determina a acessibilidade
 fonte de
 dados de outros componentes.
 
-■ javax.annotation.sql.DataSourceDefinitions:
+ javax.annotation.sql.DataSourceDefinitions:
 
 O mesmo que o anterior, porém é possível definir vários DataSource.
 
-■ javax.annotation.ManagedBean:
+ javax.annotation.ManagedBean:
 
 Essa anotação é utilizada para declarar um Managed Bean. O que é um Managed Bean? É
 um
@@ -1708,19 +1708,19 @@ Essas ações ajudam a controlar o comportamento da Engine da Servlet. As açõe
 famosas e
 conhecidas são:
 
-■ jsp:include: usada para inserir conteúdo dinâmico em tempo de solicitação;
+ jsp:include: usada para inserir conteúdo dinâmico em tempo de solicitação;
 
-■ jspdorward: usada para redirecionar requisições para outra Página JSP;
+ jspdorward: usada para redirecionar requisições para outra Página JSP;
 
-■ jsp:param: usada para passar parâmetros para outra Ação JSP;
+ jsp:param: usada para passar parâmetros para outra Ação JSP;
 
-■ jsp:useBean: usada quando se deseja invocar/instanciar um JavaBean5;
+ jsp:useBean: usada quando se deseja invocar/instanciar um JavaBean5;
 
-■ jsp:plugin: usada para executar e mostrar um objeto (Ex: Applet) no browser.
+ jsp:plugin: usada para executar e mostrar um objeto (Ex: Applet) no browser.
 
-■ jsp:setProperty: usada para setar o valor da propriedade de um JavaBean;
+ jsp:setProperty: usada para setar o valor da propriedade de um JavaBean;
 
-■ jsp:getProperty: usada para recuperar o valor da propriedade de um JavaBean.
+ jsp:getProperty: usada para recuperar o valor da propriedade de um JavaBean.
 
 Diretivas são instruções enviadas ao servidor contendo informações que
 definam algum
@@ -1780,13 +1780,13 @@ isScriptingEnabled Determina se elementos de script são permitidos.
 Buffer;
 AutoFIush; isThreadSafe; errorPage; isErrorPage.
 
-■ include - inclui recursos estáticos em uma Página JSP.
+ include - inclui recursos estáticos em uma Página JSP.
 
 //Diretiva INCLUDE
 
 <%@ include file = "teste.jsp" %>
 
-■ taglib - estende o conjunto de tags através de uma biblioteca de tags.
+ taglib - estende o conjunto de tags através de uma biblioteca de tags.
 
 //Diretiva TAGLIB
 
@@ -2672,7 +2672,7 @@ c) Exception.
 
 d) Application.
 
-■
+
 
 e) pageContext.
 
@@ -5313,7 +5313,7 @@ Conforme vimos em aula, ServIetRequest é uma interface e, não, uma classe! Vac
 Bem, essa interface funciona como a interface ServIetHttpRequest, porém não é específica para
 o Protocolo HTTP! Bem, ambas servem para manipular informações de uma requisição feito
 
-■ pelo cliente ao servlet.
+ pelo cliente ao servlet.
 
 Gabarito: E
 
@@ -6607,13 +6607,13 @@ usuário server-side.
 
 O Modelo de Componentes JSF define três taglibs:
 
-■ HTML: possui componentes que representam diversos elementos HTML.
+ HTML: possui componentes que representam diversos elementos HTML.
 o Namespace: xmlns:h = "http://java.sun.com/jsf/html"
 
-■ CORE: responsável por internacionalização, validação, conversão e outros.
+ CORE: responsável por internacionalização, validação, conversão e outros.
 o Namespace: xmlns:f="http://java.sun.com/jsf/core"
 
-■ FACELETS: fornece tags para criar templates para aplicações web.
+ FACELETS: fornece tags para criar templates para aplicações web.
 o Namespace: xmlns:ui="http://java.sun.com/jsf/facelets"
 
 Com o mínimo de esforço é possível criar uma página web; adicionar componentes em uma
@@ -6877,7 +6877,7 @@ o servidor responde com a página traduzida para HTML. Porém, ele é dividido e
 múltiplas fases,
 apresentando um modelo de componentes de interface com usuário mais sofisticado.
 
-■ Restore View: restauram-se os objetos e estruturas de dados que representam a
+ Restore View: restauram-se os objetos e estruturas de dados que representam a
 visão. Claro,
 se essa for a primeira visita à página, deve-se criar a visão. Quando o JSF cria e
 renderiza uma
@@ -6886,7 +6886,7 @@ visão. Os
 componentes são armazenados em uma árvore de componentes e o estado da visão é salvo
 para requisições futuras.
 
-■ Apply Request Values: qualquer dado que for enviado como parte da requisição é
+ Apply Request Values: qualquer dado que for enviado como parte da requisição é
 passado
 para os componentes apropriados. Essas visões atualizam seus estados com os valores dos
 
@@ -6902,7 +6902,7 @@ cabeçalhos da requisição. Alguns dados são validados e, se houver erro, são
 à
 FacesServIet.
 
-■ Process Validation: os dados que foram submetidos com o formulário são validados
+ Process Validation: os dados que foram submetidos com o formulário são validados
 (se já não
 o foram anteriormente). Assim como na fase anterior, isso ainda não atualiza os
 objetos de
@@ -6912,7 +6912,7 @@ com a validação dos dados e uma parte da validação falhar, o modelo será at
 com um
 estado inválido.
 
-■ Update Model Values: após todas essas validações terminarem, os objetos de negócio
+ Update Model Values: após todas essas validações terminarem, os objetos de negócio
 que
 criam a aplicação são atualizados com os dados validados da requisição. Ademais, se
 qualquer
@@ -6920,14 +6920,14 @@ um dos dados precisar ser convertido em um formato diferente para atualizar o mo
 (Ex:
 String para Data), a conversão ocorrerá nessa fase.
 
-■ Invoke Application: durante essa fase, os métodos de ação de qualquer botão ou
+ Invoke Application: durante essa fase, os métodos de ação de qualquer botão ou
 link que foi
 ativado serão chamados. Além disso, todos os eventos que foram gerados durante as fases
 anteriores e que ainda não tenham sido manipulados são passados para a Aplicação Web
 para
 que ela possa concluir qualquer outro processamento da requisição que seja necessário.
 
-■ Render Response: os Componentes UI de resposta são renderizados e a resposta é
+ Render Response: os Componentes UI de resposta são renderizados e a resposta é
 enviada
 para o cliente. O estado dos componentes é salvo de modo que a árvore de componente
 possa
@@ -8535,16 +8535,16 @@ Depois ele se transformou em JPA 2.0 no Java EE 6 (JSR 317) e, atualmente, temos
 JPA 2.1 -
 no Java EE 7 (JSR 338). De todo modo, ele consiste em quatro partes:
 
-■ Java Persistence API (JPA): define um mapeamento objeto/relacional para gerenciamento
+ Java Persistence API (JPA): define um mapeamento objeto/relacional para gerenciamento
 de dados relacionais;
 
-■ Java Persistence Query Language (JPQL): define queries, em geral, estáticas para
+ Java Persistence Query Language (JPQL): define queries, em geral, estáticas para
 entidades e seus estados persistentes;
 
-■ Java Persistence Criteria API (JPCA): define queries, em geral, dinâmicas para entidades
+ Java Persistence Criteria API (JPCA): define queries, em geral, dinâmicas para entidades
 e seus estados persistentes;
 
-■ Mapeamento de Metadados O/R: define um mapeamento por meio de Descritores de
+ Mapeamento de Metadados O/R: define um mapeamento por meio de Descritores de
 Implantação (XML) ou Anotações (Annotations).
 
 Há duas formas de mapear classes de negócio em entidades de um banco de dados:
@@ -8633,15 +8633,15 @@ javax.perslstence
 
 - ctosefj
 
-■ EntityManager.persist(Object): persiste o objeto Object;
+ EntityManager.persist(Object): persiste o objeto Object;
 
-■ EntityManager. remove (Object): remove o objeto Object;
+ EntityManager. remove (Object): remove o objeto Object;
 
-■ EntityManager.find(Object): busca o objeto Object;
+ EntityManager.find(Object): busca o objeto Object;
 
-■ EntityManager.refresh(Object): atualiza o objeto Object;
+ EntityManager.refresh(Object): atualiza o objeto Object;
 
-■ EntityManager.createQuery(String): realiza uma consulta String;
+ EntityManager.createQuery(String): realiza uma consulta String;
 
 Sabe quando você deseja realizar uma inserção no banco de dados? Pois é,
 o objeto do
@@ -10554,7 +10554,7 @@ public class Empregado {
 @ld @GeneratedValue
 @Column(name = "id")
 
-■private int id;
+private int id;
 
 @Column(name = "primeiro_nome")
 private String primeiroNome;
@@ -10766,7 +10766,7 @@ e) Transiente (Transient), Permanente (Permanent) e Resiliente (Resilient).
 Comentários:
 
 
-SaJc( ■)
+SaJc( )
 
 EvictC)
 
@@ -10991,13 +10991,13 @@ ver representado na imagem acima! Bem, vamos falar agora um pouquinho sobre
 cada um
 desses estados - eu recomendo que vocês entendam bem o funcionamento:
 
-■ Transiente: a instância não esteve nem está associada a um contexto persistente,
+ Transiente: a instância não esteve nem está associada a um contexto persistente,
 isto é, não há
 uma representação no banco de dados, nem um valor identificador. Ela é instanciada,
 utilizada,
 destruída e não pode ser reconstruída de forma automática.
 
-■ Persistente: a instância está atualmente associada a um contexto persistente, isto
+ Persistente: a instância está atualmente associada a um contexto persistente, isto
 é, há uma
 representação no banco de dados e um valor identificador. Qualquer mudança em um objeto
 nesse estado é detectada e sincronizada com a base de dados.
@@ -11008,7 +11008,7 @@ nesse estado é detectada e sincronizada com a base de dados.
 /
 
 
-■ Desanexado: a instância foi associada a um contexto persistente, no entanto
+ Desanexado: a instância foi associada a um contexto persistente, no entanto
 não está mais
 associada por alguma razão (Ex: Fim de sessão). Ainda existe uma referência, o objeto
 ainda
@@ -11478,7 +11478,7 @@ O objeto Session Factory do Hibernate mantém o mapeamento objeto relacional na 
 
 Comentários:
 
-■ SessionFactory (org.hibernate.SessionFactory): trata-se de um objeto pesado, thread-safe
+ SessionFactory (org.hibernate.SessionFactory): trata-se de um objeto pesado, thread-safe
 
 e imutável de coleções de mapeamentos objeto-relacional para um único banco de dados -
 deve
@@ -11926,14 +11926,14 @@ específico. O JDBC permite a conexão com praticamente qualquer SGBD (Oracle,
 DB2, SQL
 Server, MySQL, PostgreSQL, etc). Existem, atualmente, quatro tipos de Drivers:
 
-■ JDBC-ODBC Bridge: É o tipo mais simples. Utiliza ODBC para conectar-se com o
+ JDBC-ODBC Bridge: É o tipo mais simples. Utiliza ODBC para conectar-se com o
 banco de
 dados, convertendo métodos JDBC em chamadas às funções do ODBC. Esta ponte é
 normalmente usada quando não há um driver puro-Java para determinado banco de
 dados,
 pois seu uso é desencorajado devido à dependência de plataforma.
 
-■ Native API: converte chamadas JDBC na API do cliente em chamadas para o SGBD
+ Native API: converte chamadas JDBC na API do cliente em chamadas para o SGBD
 Oracle,
 Sybase, Informix, etc. São escritos parcialmente em Java e parcialmente em
 código nativo.
@@ -11943,7 +11943,7 @@ usa uma biblioteca nativa específica no cliente para a fonte de dados para
 que eles se
 conectem.
 
-■ Network Protocol: traduz chamadas JDBC em um protocolo de rede independente do
+ Network Protocol: traduz chamadas JDBC em um protocolo de rede independente do
 SGBD,
 que é então convertido para um protocolo específico do SGBD por um middleware. Em
 geral,
@@ -11951,7 +11951,7 @@ esta é a alternativa JDBC mais flexível de todas, em que fornecedores disponib
 produtos
 adequados para uso na internet.
 
-■ Database Protocol: permite chamada direta da máquina do cliente para o Servidor
+ Database Protocol: permite chamada direta da máquina do cliente para o Servidor
 SGBD.
 Converte as chamadas JDBC diretamente no protocolo do banco de dados. Implementado em
 Java, normalmente é independente de plataforma e escrito pelos próprios desenvolvedores.
@@ -11981,25 +11981,25 @@ java.sql - que contém uma biblioteca para acesso e processamento de dados em um
 fonte de
 dados. As classes, métodos e interfaces dele mais importantes são:
 
-■ Driver: interface pública abstrata que todo driver deve implementar para executar
+ Driver: interface pública abstrata que todo driver deve implementar para executar
 instruções SQL.
 
-■ DriverManager: classe que contém o registro de cada driver, oferecendo métodos estáticos
+ DriverManager: classe que contém o registro de cada driver, oferecendo métodos estáticos
 para gerenciá-los.
 
-■ Connection: interface que representa uma conexão com o banco de dados - possui diversos
+ Connection: interface que representa uma conexão com o banco de dados - possui diversos
 métodos importantes.
 
-■ Statement: interface pública abstrata que é utilizada para executar instruções SQL estáticas
+ Statement: interface pública abstrata que é utilizada para executar instruções SQL estáticas
 e obter os resultados de sua execução.
 
-■ ResuItSet: essa interface é uma tabela de dados que representa o resultado de uma
+ ResuItSet: essa interface é uma tabela de dados que representa o resultado de uma
 instrução SQL em um banco de dados.
 
-■ PreparedStatement: interface pública abstrata utilizada para estender a interface Statement
+ PreparedStatement: interface pública abstrata utilizada para estender a interface Statement
 e criar um objeto que represente uma instrução SQL.
 
-■ CalIableStatement: interface que permite executar funções ou procedimentos armazenados
+ CalIableStatement: interface que permite executar funções ou procedimentos armazenados
 no banco.
 
 try

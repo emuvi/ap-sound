@@ -1149,12 +1149,12 @@ Um código limpo é simples e direto. Ele é tão bem legível quanto uma prosa 
 escrita. Ele jamais torna confuso o objetivo do desenvolvedor, em vez disso, ele está
 repleto de abstrações claras e linhas de controle objetivas.3
 
-.. .................................... ...............
-................................................. .. ............................
-...................................................... .. ............................... ..
-.............................................. ............................... ..
-....................... .. .........................................
-............................... i
+..
+..
+.. ..
+..
+..
+i
 
 i Além de seu criador, um desenvolvedor pode ler e melhorar um código limpo. Ele
 
@@ -1290,9 +1290,9 @@ serão aplicados. Caso contrário, o código pode ficar complexo demais para ser
 ou até
 pode ser que o código não possa ser testado.
 
-r.................................................................................. ..
-................................................................................... ..
-............... ..■■■■■
+r ..
+..
+..
 
 
 >.l
@@ -1788,11 +1788,9 @@ programação orientada a objeto serve para centralizar o
 código em classes-base que seriam redundantes em outro
 conceito.
 
-....................................................................................................
-....................................................................................................
-.......................
-....................................*...............................................................
-.........................................................................
+
+*
+
 
 i (CESPE - TJ AM - 2019) De acordo com Clean Code, julgue o item subsecutivo.
 
@@ -1804,7 +1802,7 @@ i Independentemente da linguagem de programação, uma função deve
 executar todos os i
 i procedimentos que estão sintetizados no seu nome, gerando uma função com múltiplos passos.
 
-■ ■
+ 
 
 i Comentários: Quando falamos sobre Reutilização de funcionalidades, vimos que funções
 devem ser ;
@@ -2325,12 +2323,12 @@ assim poluindo a interface. Uma saída para o problema em
 utilizar exceções checadas é transformá-las em exceções
 não checadas por meio da RuntimeException.
 
-r■■■«■■■.................................................................................*
-*.................................................................................... ..
-............... *................................ .. ............................................
-.. ................................................. .. ............................
-............................... .. ............... .. .............■■■■■■
-****■
+r«*
+* ..
+* ..
+.. ..
+.. .. 
+****
 
 : (CESPE - MPE CE - 2020) Julgue o seguinte item, relativo a métricas de qualidade de código, clean
 i
@@ -2339,7 +2337,7 @@ i code e refactoring.
 I
 
 
-■
+
 
 í Pela perspectiva do clean code, é recomendado usar exceções (try/catch, por exemplo)
 em vez de j

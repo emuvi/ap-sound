@@ -11,7 +11,7 @@ Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relac
 
 4) Questões Comentadas - Microsoft SQL Server - CEBRASPE
 
-5) Questões Comentadas - Microsoft SQL Server - Multibancas ....
+5) Questões Comentadas - Microsoft SQL Server - Multibancas
 
 6) Lista de Questões - Microsoft SQL Server - CEBRASPE
 
@@ -393,7 +393,7 @@ gratuita
 
 Õ|
 
-■1 >1.1 li h
+1 >1.1 li h
 
 
 Developer
@@ -533,7 +533,7 @@ seguir as etapas indicadas para a instalação.
 
 Planejamento Requisitos de
 Hardware e Software
-Instalação ^■F Exibir os requisitos
+Instalação ^F Exibir os requisitos
 de hardware e software.
 
 Manutenção lxk Documentação de Segurança
@@ -562,7 +562,7 @@ atualizar para o SQL Server 2017.
 
 i; Ajuda Online para Instalação
 
-''■F Inicia a documentação de instalação online.
+''F Inicia a documentação de instalação online.
 
 Introdução ao Clustering de Failover do SQL Server 2017
 
@@ -570,7 +570,7 @@ w Leia as instruções de introdução ao clustering de failover do SQL Server 2
 
 Documentação da Atualização
 
-'^■F Exiba o documento sobre como fazer a atualização de uma versão anterior do SQL Server para o
+'^F Exiba o documento sobre como fazer a atualização de uma versão anterior do SQL Server para o
 SQL Server 2017.
 
 Baixar o Assistente de Migração do SQL Server (SSMA)
@@ -667,7 +667,7 @@ O próximo passo é a escolha dos componentes do SQL Server. Nesta etapa, você 
 aguardar o
 preenchimento da barra de status da execução.
 
-■
+
 
 Ao final, a verificação de compatibilidade do ambiente estará concluída e você deve continuar.
 
@@ -961,20 +961,20 @@ Circundantes a ele estão vários componentes adicionais que dependem do
 motor. Estes
 componentes incluem:
 
-■ Interface para programação T-SQL (implementação da Microsoft da linguagem padrão
+ Interface para programação T-SQL (implementação da Microsoft da linguagem padrão
 SQLANSI)
 
-■ Subsistema de segurança
+ Subsistema de segurança
 
-■ Replicação
+ Replicação
 
-■ SQL Server Agent
+ SQL Server Agent
 
-■ Ferramentas para alta disponibilidade e recuperação
+ Ferramentas para alta disponibilidade e recuperação
 
-■ SQL Server Integration Services
+ SQL Server Integration Services
 
-■ Ferramentas de gerenciamento do SQL Server
+ Ferramentas de gerenciamento do SQL Server
 
 As seções a seguir fornecem uma breve explicação sobre cada componente.
 
@@ -1424,7 +1424,7 @@ Object Explorer
 ▼ g >
 
 B LíJ XP VIRTUAL 1 (5QL Server 10.0.1600 - XPVIRTUAL 1 \Chris)
-*■
+*
 
 B J Databases
 
@@ -3023,7 +3023,7 @@ qualquer combinação de valores da coluna possui um critério determinado. Veja
 exemplo
 abaixo.
 
-*■ ■*
+* *
 
 ALTER TABLE Customers
 
@@ -3534,7 +3534,7 @@ TRUNCATE TABLE
 table_name
 
 [ WITH ( PARTITIONS ( { <partition_number_expression> | <range> }
-[ > ■■■n 1 ) } 1
+[ > n 1 ) } 1
 
 [ ; 1
 
@@ -3991,9 +3991,9 @@ julgue o item subsequente.
 Caso a senha de uma conta do SQL Server 2008 R2 seja alterada, a nova senha entrará em vigor
 imediatamente, sem a necessidade de reinicialização do SQL Server.
 
-r ................................
-............................................................................................
-...................... ............. .............................. .
+r
+
+.
 
 = Comentário: O Mecanismo de Banco de Dados do SQL Server e o
 SQL Server Agent são i
@@ -4062,9 +4062,9 @@ No MSSQL Server 2014, o recurso AlwaysOn é uma solução de alta disponibilidad
 recuperação de desastres que fornece uma alternativa, em nível corporativo, para o
 espelhamento de bancos de dados, a partir do gerenciamento de réplicas de bancos de dados.
 
-.................... *........................... ..............
-*...............................*...............................*...................
-*......................................... .
+*
+***
+* .
 
 = Comentário: AlwaysOn é um termo genérico para os recursos de disponibilidade do SQL Server e i
 
@@ -4116,8 +4116,8 @@ processamento de transações on-line e data warehousing. A única maneira de re
 
 de arquivos com otimização de memória é descartar o banco de dados.
 
-.....................................................*...............................*..............
-................................................. * i
+**
+* i
 
 j Comentário: O OLTP in-memory é a principal tecnologia disponível no SQL Server e Banco de i
 
@@ -4165,9 +4165,9 @@ Se, na modificação de determinada instância existente de SQL Server, for
 realizada a instalação de
 componentes de replicação, será necessário reiniciar o agente de SQL Server.
 
-.................... *........*.....................
-*........*................................................................. *................
-*.............*.............................
+**
+** *
+**
 
 = Comentário: Segundo a Microsoft, é possível instalar componentes de
 replicação usando o i
@@ -4199,11 +4199,10 @@ Julgue os itens subsequentes, relativos ao Microsoft SQL Server.
 cadeia de strings de
 tamanho fixo e variável até 2A90.
 
-r ■■■■■........................................................
-.........................................................
-....................................................................................................
-...... ............................. ................................... .........................
-■■■■■...................................................... ..
+r 
+
+
+ ..
 
 = Comentário: Primeiramente 2A90 (dois elevado a 90) é um número gigantesco para ser usado como i
 
@@ -4225,11 +4224,10 @@ Julgue os itens subsequentes, relativos ao Microsoft SQL Server.
 
 [1] VIEW é uma tabela virtual cujo conteúdo está definido por uma instrução SELECT.
 
-r*"*............................................................
-.............................................................
-....................................................................................................
-.................................................................................................
-■■■■■............................................................
+r*"*
+
+
+
 
 = Comentário: A cláusula SELECT dentro do comando de criação da visão vai
 definir o conteúdo que i
@@ -4260,9 +4258,9 @@ por meio do seguinte comando:
 
 CREATE SEQUENCE seqa START WITH 1;
 
-.................... *........................... ..............
-*...............................*...............................*...................
-*......................................... .
+*
+***
+* .
 
 = Comentário: O comando acima, quando executado no SQL Server cria uma SEQUENCE. Ou seja, i
 
@@ -4331,7 +4329,7 @@ Acerca do Microsoft SQL Server 2008, julgue os seguintes itens.
 ordem lógica dos
 valores da chave determina a ordem física das linhas correspondentes em uma tabela.
 
-r■■■■■■■■
+r
 
 
 j
@@ -4356,9 +4354,9 @@ cópias de segurança de dados.
 [1] No SQL Server 2012, a criação de índices em tabelas temporárias locais pode ser feito off-line,
 desde que a tabela não possua tipos de dados LOB (Large Object).
 
-r ................................
-............................................................................................
-...................... ............. .............................. .
+r
+
+.
 
 = Comentário: Se a tabela possuir LOB ela precisará ser criada
 off-line, quando você executa i
@@ -4409,9 +4407,8 @@ e) de logs de transações inclui todos os registros de log de forma
 cumulativa, independentemente
 de ter havido becape de log anterior ou becape completo.
 
-.....................................................................................
-................................................................ ............. ..................
-........... .
+
+.
 
 i Comentário: Vamos comentar cada uma das alternativas acima. Segundo a
 própria documentação i
@@ -4486,8 +4483,8 @@ permitindo que os dados sejam acessados e recuperados de forma
 distribuída, e, em caso de
 indisponibilidade em um dos nós da solução cluster, há recuperação automática dos dados.
 
-.................... *........*..................... *..........................................
-*................ *.............*..................... *........*............................. .
+** *
+* ** ** .
 
 j Comentário: Perceba que as definições das alternativas incorretas se referem
 a outras ferramentas ;
@@ -4591,11 +4588,10 @@ momento, um indicador de fila ou chave de clustering para pesquisar a
 linha correspondente na
 tabela ou índice clusterizado.
 
-!■■■..................... ................................. ................
-....................................................................................................
-.....................................
-................................................................. ............
-..................................................................................|
+!
+
+
+|
 
 ; Comentário: Vamos analisar cada uma das alternativa ...
 
@@ -4748,11 +4744,11 @@ a§ ACL (access control lists) em chaves de registro e em arquivos, devendo
 as ACL ser revisadas
 imediatamente após a conclusão da instalação.
 
-r ........................................................
-............................................. .
-....................................................................................................
-...... . ........ . ........................... .................... .
-................................................ .
+r
+.
+
+. . .
+.
 
 = Comentário: Durante a instalação, o SQL Server definirá ACLs apropriadas em
 chaves do Registro
@@ -4777,9 +4773,8 @@ do SQL Server
 
 instaladas na máquina.
 
-.................................. .................. .........
-.......................................
-.........................*................................................................. .
+
+* .
 
 = Comentário: Independentemente do número de instâncias do SQL Server, do
 Analysis Services ou
@@ -4823,9 +4818,9 @@ seguintes.
 se a tabela
 tiver uma coluna de identidade, provoca a reinicialização do contador de identidade.
 
-.................... *........................... ..............
-*...............................*...............................*...................
-*......................................... .
+*
+***
+* .
 
 = Comentário: O truncate remove todas as linhas de uma tabela ou partições especificadas de uma i
 
@@ -4857,8 +4852,8 @@ administração de dados.
 ser restaurados com
 o uso de versões anteriores.
 
-....................................................................................................
-.................................................. ................................ ........... .
+
+.
 
 i Comentário: Nenhum backup do SQL Server pode ser restaurado para uma versão anterior do SQL i
 
@@ -4886,9 +4881,8 @@ Considerando os sistemas de gerenciamento de bancos de dados, julgue o próximo 
 gerenciadores de bancos de
 dados.
 
-........................................................... .....................
-.......................................... ......................
-.............................................. |
+
+|
 
 i Comentário: MariaDB é um servidor de banco de dados que oferece a
 funcionalidade e substituição
@@ -4923,8 +4917,8 @@ Com relação a banco de dados, julgue os itens que se seguem.
 no mesmo
 escopo de consulta.
 
-.............................. .................................... ................ .............
-..................................................................................... ........... .
+
+.
 
 í Comentário: Use OFFSET e FETCH na cláusula ORDER BY em vez da cláusula TOP para implementar uma
 
@@ -4967,9 +4961,9 @@ Para se retornar um usuário qualquer conectado a uma base de dados, deve-se
 executar o comando
 SELECT SYSTEM_ADMIN.
 
-................................................................ *................
-*.............*...............................*................
-...............................................
+*
+***
+
 
 = Comentário: O GETDATE() está descrito corretamente. Já o SYSTEM_ADMIN não!
 O certo seria i
@@ -5014,7 +5008,7 @@ A respeito do banco de dados SQL Server e da linguagem SQL, julgue os itens segu
 Valorl 2.1000 como
 resultado.
 
-!■■■■ ■
+! 
 
 i Comentário: Retorna um valor numérico, arredondado, para o
 comprimento ou precisão i
@@ -7549,7 +7543,7 @@ E o número médio de bytes lidos e escritos em um segundo.
 
 Item. 34. BANCA: VUNESP ANO: 2014 ÓRGÃO: PRODEST-ES PROVA: ANALISTA DE TECNOLOGIA DA
 
-■ INFORMAÇÃO - DESENVOLVIMENTO DE SISTEMAS
+ INFORMAÇÃO - DESENVOLVIMENTO DE SISTEMAS
 
 No Transact SQL do sistema gerenciador de bancos de dados MS SQL Server 2008 R2, o
 comando geral para a criação de um procedimento armazenado é:

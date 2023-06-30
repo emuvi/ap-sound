@@ -814,11 +814,11 @@ podemos ver as possíveis interações na Arquitetura MVC!
 
 Para quem quiser conhecer melhor, recomendo os seguintes artigos:
 
-■ http://www.cfQigolo.com/2oo8/o1/mvc-model-view-controller-e-os-tres-macacos
+ http://www.cfQigolo.com/2oo8/o1/mvc-model-view-controller-e-os-tres-macacos
 
-■ https://r.je/views-are-not-templates.html
+ https://r.je/views-are-not-templates.html
 
-■ http://tableless.com.br/mvc-afinal-e-o-que
+ http://tableless.com.br/mvc-afinal-e-o-que
 
 
 Por fim, não podemos confundir MVC com MVP (Model-View-Presenter). O O MVP
@@ -1694,7 +1694,7 @@ overhead. No entanto, há casos em que isso não é válido! Portanto, essa ques
 Gabarito: Correto
 
 
-■l-j. (CESPE / STF-2013) Cada camada tem comunicação (interface) com todas as demais
+l-j. (CESPE / STF-2013) Cada camada tem comunicação (interface) com todas as demais
 camadas,
 tanto inferiores quanto superiores.
 
