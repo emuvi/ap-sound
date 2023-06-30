@@ -1,18 +1,5 @@
 Capítulo. Raciocínio Lógico - Teoria dos Conjuntos.
 
-SERPRO - Raciocínio Lógico - 2023
-
-(Pós-Edital)
-
-Autor:
-
-Equipe Exatas Estratégia
-
-Concursos
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Índice
 
@@ -29,11 +16,6 @@ Equipe Exatas Estratégia Concursos
 6) Lista de Questões - União, Intersecção, Complementar e Diferença - Cebraspe
 
 7) Lista de Questões - Princípio da Inclusão-Exclusão - Cebraspe
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 TEoRIA DoS CoNJUNToS
@@ -89,11 +71,6 @@ Essa relação de pertinência entre um elemento e um conjunto é representada p
 
 * 15 G C : Lemos: 15 pertence a C.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Atente-se à simbologia! Podemos dizer que um elemento não pertence a um determinado conjunto. Para
 isso, utilizamos o símbolo "não pertence": g.
@@ -129,11 +106,6 @@ inteiramente contido em A. Nessas condições, dizemos que (a, e] está contido 
 e] é
 um subconjunto de A. Algumas vezes, você poderá ver o termo "parte" sendo usado como sinônimo de
 subconjunto. Agora, imagine a seguinte situação:
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Nesse caso, temos que {a, e} í B : Lemos: [a, e] não está contido em B ou {a, e] não é um
@@ -181,11 +153,6 @@ ESQUEMATIZANDO
 A 7) {a,e,f} B Ti {1,3,5} E 0 (Sicrano,
 Beltrano}
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 HORA DE
 
@@ -231,11 +198,6 @@ Não importa! O importante é que todos elementos de A são os mesmos elementos 
 HORA DE
 
 PRATICAR!
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 (MPE-GO/2022) Sejam x e y números tais que os conjuntos {0,8,2} e {x, y, 2} são iguais, podemos
@@ -294,11 +256,6 @@ verificar que ela é inválida.
 
 Gabarito: LETRA B.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Subconjuntos
 
@@ -338,11 +295,6 @@ Seja X um conjunto genérico, então:
 Observe que [a,b] c A, indicando que qualquer conjunto é também um subconjunto de si mesmo! Seja
 
 B = [a, b, c). Vamos listar os seus subconjuntos também?
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Quando um subconjunto de B é diferente do próprio B, chamamos ele de subconjunto próprio de B. Por
@@ -401,11 +353,6 @@ Passo 4: Ir para os trios.
 
 0, {1}, {2}, {3}, {1, 2}, {1,3}, {2,3}, {1,2,3}
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Como o conjunto C só possui 3 elementos, encerramos por aqui! Listamos todos os subconjuntos dele.
 Observe que quando tínhamos um conjunto com 2 elementos, obtivemos 4 subconjuntos. Ao aumentar um
@@ -456,11 +403,6 @@ não podemos dizer que P₂ é um subconjunto de uma vez que podem existir eleme
 estejam em P±.
 
 Gabarito: ERRADO.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 : (IDAF-AC/2020) Quantos subconjuntos possui o conjunto das vogais?
@@ -528,11 +470,6 @@ C) {1,{0,1}}
 
 D) {</>,{</>}}
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Comentários:
 
@@ -580,11 +517,6 @@ listado juntamente com os demais elementos!
 * {W} G F
 
 E nesses casos, quando usaremos a relação de inclusão? Veja alguns exemplos de subconjuntos de F:
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 * {1,2}cF
@@ -659,11 +591,6 @@ Com isso, a única alternativa que pode estar errada é a letra B, pois Sl é um
 portanto, o
 correto seria Sl G A.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 União, Intersecção, Complementar e Diferença
 Representação por Diagramas
@@ -709,11 +636,6 @@ x, tal que x é vogal. Lemos essa barrinha vertical como "tal que". Não esqueç
 
 Por fim, temos a representação por diagramas que estudamos agora a pouco! Fechou?
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 União
 
@@ -744,11 +666,6 @@ e
 D. Logo, o conjunto intersecção será formado apenas pelo elemento 2: C A D = {2}. Veja mais um
 exemplo
 abaixo.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Temos que X = {A,B,C,D} e Z = {B,C,D,E}. São dois conjuntos distintos, mas que
@@ -830,11 +747,6 @@ dos dois. ;
 
 ; Gabarito: Letra A.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Quando dois conjuntos possuem elementos em comum, podemos representá-los assim:
 
@@ -854,11 +766,6 @@ PRATICAR!
 
 (CM MONTE ALTO/2019) Observe o diagrama de conjuntos e considere que há elementos em todas as suas
 regiões.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 A partir dessa disposição, é correto afirmar que
@@ -906,11 +813,6 @@ D) qualquer elemento que esteja em três desses conjuntos, certamente está em C
 Alternativa incorreta. D só faz intersecção com E. Desse modo, um elemento de D só poder estar, no
 máximo, em dois conjuntos.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 E) há elemento de G que também é elemento de A, mas não é elemento de B.
 
@@ -930,11 +832,6 @@ Observe que A = {1,2,3,4, 5, 6} e B = [1,3,5}. Para encontrar A — B, devemos s
 elementos
 
 de A que não são elementos de B! Ou seja, aqueles elementos que são apenas elementos de A! Observe
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 que A e B possuem em comum os seguintes elementos: A n B = {1, 3,5}. Logo, se A = {1,2,3,4, 5, 6},
@@ -964,11 +861,6 @@ Ora, nesse nosso exemplo, todos os elementos de A não são elementos de Bü Sen
 escrever que:
 
 A-B = {10,20,30} = A
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 HORA DE
@@ -1025,11 +917,6 @@ todos os três elementos do nosso conjunto diferença. Portanto, coincidentement
 
 Gabarito: Letra A.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 (PREF. SÃO GONÇALO/2022) Sejam A e B conjuntos definidos da seguinte maneira:
 A = {pessoas que moram em São Gonçalo}
@@ -1072,11 +959,6 @@ determinado grupo
 dentro de um universo maior. Por exemplo, podemos formar um conjunto dos funcionários
 especializados
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 em RH de uma empresa. Esse grupo de funcionários foi retirado de um conjunto maior:
 o conjunto formado
@@ -1118,11 +1000,6 @@ OU X. Representamos o
 conjunto complementar com esse "expoente" C ou uma barra em cima. Ademais,
 podemos definir o
 conjunto complementar utilizando o que acabamos de ver sobre conjunto diferença.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 TOME
@@ -1172,11 +1049,6 @@ Vamos analisar cada uma das alternativas tendo em mente que:
 
 * A é o conjunto das pessoas que dominam ESPANHOL;
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 * B é o conjunto das pessoas que dominam INGLÊS.
 
@@ -1214,11 +1086,6 @@ idiomas.
 Alternativa incorreta. U é o conjunto universo e representa todos aqueles que dominam ou não os
 idiomas.
 Gabarito: Letra B.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Princípio da Inclusão-Exclusão
@@ -1283,11 +1150,6 @@ pois:
 
 n(A n B) = 0.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 HORA DE
 
@@ -1345,11 +1207,6 @@ A verdade é que não precisamos decorar fórmulas para responder questões que 
 esse princípio.
 Utilizando um pouco de lógica e diagramas de Venn, podemos encontrar a quantidade de elemento de
 cada
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 conjunto envolvido em um problema típico de Princípio da Inclusão-Exclusão. Antes disso,
@@ -1413,11 +1270,6 @@ fazer
 frequentam nenhum
 dos cursos. Em diagramas, podemos representar essa informação da seguinte maneira:
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Observe que a questão não informou a quantidade de alunos que fazem os dois cursos
 simultaneamente.
@@ -1449,11 +1301,6 @@ alunos não
 fazem nenhum dos cursos, então:
 
 n(Z U F) = 150 - 15 = 135
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 São 135 alunos que fazem pelo menos um dos cursos. A questão diz ainda que: n(7) = 90 e n(F) = 72.
@@ -1513,11 +1360,6 @@ Região de elementos
 comuns apenas aos
 conjuntos B e C.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Observe que o número de regiões com três conjuntos aumenta bastante em
 relação à análise
@@ -1573,11 +1415,6 @@ de paciência e
 resolução de exercícios, ela se tornará mais amigável e bastante intuitiva! Além disso, também
 ensinarei
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 um jeito que vocês poderão utilizar caso não lembrem da fórmula. Algumas vezes, no
 entanto, a questão
@@ -1631,11 +1468,6 @@ francês.
 
 B) 50 candidatos falam somente inglês.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 C) 46 candidatos falam pelo menos dois idiomas.
 
@@ -1684,11 +1516,6 @@ Errado. Não temos informações suficientes que nos permitam concluir isso.
 
 B) 50 candidatos falam somente inglês.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Errado. Pelo diagrama que desenhamos, vemos que 46 candidatos falam apenas inglês.
 
@@ -1716,11 +1543,6 @@ pois já a calculamos anteriormente. Assim, 46 + 80 = 126. Logo, são 126 candid
 idioma.
 
 Gabarito: LETRA E.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Em algumas questões não precisaremos aplicar diretamente a fórmula acima. Será
@@ -1787,11 +1609,6 @@ matriculados em
 ; Microeconomia e Cálculo ao mesmo tempo. Sendo assim, se não existe aluno matriculado nas duas, não
 j pode ter aluno matriculado nas 3.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Sabemos ainda que 12 deles cursam simultaneamente Microeconomia e Estatística.
 
@@ -1800,11 +1617,6 @@ Sabemos ainda que 12 deles cursam simultaneamente Microeconomia e Estatística.
 Como temos 80 alunos que fazem somente Cálculo, então devemos ter 16 alunos que fazem
 Cálculo e
 Estatística para poder completar os 96 alunos da turma.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 São 35 alunos de Estatística e no diagrama temos 12 + 16 = 28. Logo, 7 alunos cursam somente
@@ -1820,11 +1632,6 @@ x + 115 = 150
 
 x — 35
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 = Cuidado aqui! 35 é a quantidade de alunos que fazem APENAS Microeconomia. Para
 descobrir o total de
@@ -1834,11 +1641,6 @@ descobrir o total de
 n(M) = 35 + 12 -► n(M) = 47
 
 = Gabarito: Letra B.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 QUESTõES CoMENTADAS - CEBRASPE
@@ -1899,11 +1701,6 @@ Comentários:
 
 É possível representar os conjuntos A e B conforme o diagrama abaixo.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Observe que não há intersecção entre A e B, pois, uma mesma pessoa não pode
 pertencer aos dois
@@ -1938,11 +1735,6 @@ Por exemplo, C\^4 está representada por toda região de azul. A U B por toda a
 região marrom. Por fim,
 quando tiramos a intersecção desses dois conjuntos, ficamos com a área verde. Esse é o lado
 esquerdo da
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 equação do enunciado. Para que a equação seja verdadeira, o lado direito deve
@@ -1984,11 +1776,6 @@ Não tem como escolher um subconjunto de 12 e a soma dos elementos dele fornecer
 resultado maior
 
 que a soma dos elementos de 12. Concorda? Da mesma forma, se pegarmos um subconjunto de B, digamos
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 A, a soma dos elementos de A vai ser menor ou igual a soma dos elementos de B.
@@ -2042,11 +1829,6 @@ que
 A UB = í2eS(A) = S(B).
 
 Comentários:
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Nada disso, pessoal. O primeiro passo é perceber que a $(12) = 55 é um número
@@ -2109,11 +1891,6 @@ todo mundo devemos ter a totalidade dos servidores. Dessa forma, o item encontra
 
 Gabarito: CERTO.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Item. 8. (CESPE/PF/2014) Existem dois números inteiros, a e b, distintos e positivos, tais que Sa O Sb
 é não vazio.
@@ -2137,11 +1914,6 @@ vazia,
 contrariando as informações do enunciado.
 
 Gabarito: ERRADO.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Princípio da Inclusão-Exclusão
@@ -2188,10 +1960,7 @@ concluir que "650 - x"
 possuem nenhuma das
 aplicações financeiras.
 
-0 0 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
+0 0
 
 
 A pesquisa foi realizada com 1.000 pessoas. Sendo assim, quando somamos cada uma das
@@ -2240,11 +2009,6 @@ pediram férias e
 licença, simultaneamente. Como a questão não informou esse valor, suponha que
 seja x. O diagrama,
 portanto, é o seguinte:
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 15 — x representa a quantidade de pessoas que pediram APENAS férias. 23 — x
@@ -2309,11 +2073,6 @@ E) Todos os itens estão certos.
 
 Comentários:
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Não esqueça que, nesse tipo de questão, a primeira coisa que você deve se perguntar
 é: qual a quantidade
@@ -2362,11 +2121,6 @@ CORRETO. Essa informação está no próprio enunciado, quando ele diz que os tu
 visitaram pelo menos
 duas das praias.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 III. Nenhum dos turistas participantes da pesquisa visitou todas as três praias citadas.
 
@@ -2406,11 +2160,6 @@ sempre começar com a quantidade de elementos na intersecção dos três conjunt
 acordo com a tabela,
 temos 4 conselheiros que atuam nos três conselhos.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Uma vez com a quantidade de elementos da intersecção dos três conjuntos, partimos para
 a análise dos
@@ -2443,11 +2192,6 @@ conselheiros que atuam em apenas um dos conselhos.
 N = 17 + 11 + 8 -► N = 36
 
 Gabarito: LETRA B.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Item. 5. (CESPE/IFF/2018) Em uma consulta a 600 estudantes de uma escola acerca da preferência
@@ -2491,11 +2235,6 @@ nosso conjunto
 universo é formado por 600 estudantes, a soma das quantidades de cada uma das partes
 do diagrama deve
 totalizar esse mesmo número.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 (420 -%)+% + (370 - x) + 50 = 600
@@ -2553,11 +2292,6 @@ bovina;
 
 Comentários Iniciais:
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Antes de julgar as questões, vamos fazer alguns comentários iniciais. É preciso
 desenvolver o diagrama de
@@ -2591,11 +2325,6 @@ contabilizando 150 + 100 = 250 contêineres com carne suína. Isso significa que
 temos 200 contêineres
 APENAS com carne suína.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Carne Carne
 
@@ -2622,11 +2351,6 @@ realmente temos 50
 contêineres carregados apenas com carne bovina.
 
 Gabarito: CERTO.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Item. 9. (CESPE/EMAP/2018) Nessa situação hipotética, a carga de 400 contêineres continha frango
@@ -2673,11 +2397,6 @@ Note que se 25 dos 30 passageiros estiveram em A ou em B, então 5 passageiros e
 C, então o número
 de elementos na intersecção dos três conjuntos é nulo, bem como qualquer intersecção com C.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 O enunciado ainda fala que 6 dos 25 passageiros estiveram em A e em B.
 
@@ -2694,11 +2413,6 @@ foi
 Sabemos que 25 pessoas visitaram A ou B e que já contabilizamos 11 delas no diagrama. As 14 pessoas
 que
 estão faltando para completar essas 25 pessoas são aquelas que estiveram APENAS no país A.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Por fim, podemos ver que 14 + 6 = 20 pessoas estiverem em A e, portanto, o item está correto.
@@ -2735,11 +2449,6 @@ Além disso, o
 enunciado mostra que 180 dos 200 papiloscopistas sentem-se satisfeitos ao executar pelo
 menos uma
 delas.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Com isso, sobra 20 papiloscopistas que não se sentem satisfeitos identificando vítimas
@@ -2787,11 +2496,6 @@ I. 18 contribuintes com pendências de IPTU;
 II. 23 contribuintes com pendências de IPVA;
 
 III. 8 contribuintes com pendências de IPTU e IPVA.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Nesse caso, a quantidade de contribuintes atendidos cujas pendências não se referiam a IPTU nem a
@@ -2847,11 +2551,6 @@ Iracema e o Centro
 Cultural Dragão do Mar, 35 visitaram o Mercado Central e o Espigão de Iracema, e 20 visitaram esses
 três
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 pontos turísticos. Considerando que todos os participantes tenham visitado, pelo menos,
 um desses três
@@ -2897,11 +2596,6 @@ Observe que disseram que 95 visitaram o Mercado Central e contabilizamos 30
 + 15 + 20 = 65. A
 diferença de 30 é o número de pessoas que visitaram APENAS o Mercado Central e o Dragão do Mar.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Mercado Espigão
 
@@ -2932,11 +2626,6 @@ Dragão do Mar
 Item. 14. (CESPE/BNB/2018) Mais de 15 dos participantes do evento visitaram somente o Centro Cultural
 Dragão
 do Mar.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Comentários:
@@ -2981,11 +2670,6 @@ Mar. O número de pessoas que não visitaram esse ponto turístico é dado por 3
 + 15 = 60. O item
 afirma que mais de 50 pessoas não visitaram o Dragão do Mar, portanto, está correto.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Mercado Espigão
 
@@ -3023,11 +2707,6 @@ A = {casais com pelo menos um filho com mais de 20 anos de idade};
 B = {casais com pelo menos um filho com menos de 10 anos de idade};
 C = {casais com pelo menos 4 filhos}.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Considerando que n(P) indique a quantidade de elementos de um conjunto P, suponha que:
 
@@ -3058,11 +2737,6 @@ de A (são 2) ou
 somente fazem parte de B (são 3). Esses 5 casais possuem pelo menos um filho. Logo,
 podemos contar
 3x5 = 15 pessoas nesse grupo.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Os outros 5 casais que estão tanto no conjunto A e no conjunto B, possuem, no
@@ -3109,11 +2783,6 @@ mínimo, 2 filhos. A
 explicação é a seguinte: como estão no grupo A, elas possuem pelo menos um filho com mais
 de 20 anos
 de idade.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Mas, como também estão no grupo B, eles possuem pelo menos um filho com menos de 10 anos de idade.
@@ -3172,11 +2841,6 @@ o item afirma que existem mais de 15, então ele está errado.
 
 Gabarito: ERRADO.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Item. 21. (CESPE/DPU/2015) Na zona rural de um município, 50% dos agricultores cultivam
 soja; 30%, arroz;
@@ -3206,11 +2870,6 @@ dos agricultores
 cultivam milho e não 30%.
 
 Gabarito: ERRADO.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 LISTA DE QUESTõES - CEBRASPE
@@ -3270,11 +2929,6 @@ Item. 5. (CESPE/SUFRAMA/2014) Se A c íl, e se Í2\/1 é o complementar de A em
 fi, então S(J2\.4) =
 S(Í2)-S(X).
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Item. 6. (CESPE/SUFRAMA/2014) É possível encontrar conjuntos A e B, subconjuntos de Q,
 disjuntos, tais que
@@ -3297,10 +2951,7 @@ Item. 7. (CESPE/PF/2014) O conjunto Si U S₂ U S₃ U... contém todos os servi
 Item. 8. (CESPE/PF/2014) Existem dois números inteiros, a e b, distintos e positivos, tais que Sa n Sb
 é não vazio.
 
-0 0 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
+0 0
 
 
 GABARITo
@@ -3320,11 +2971,6 @@ Item. 6. ERRADO
 Item. 7. CERTO
 
 Item. 8. ERRADO
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 LISTA DE QUESTõES - CEBRASPE
@@ -3385,11 +3031,6 @@ I. Menos de 40 turistas visitaram a praia de Atalaia.
 
 II. Nenhum dos turistas participantes da pesquisa visitou apenas uma das praias citadas.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 III. Nenhum dos turistas participantes da pesquisa visitou todas as três praias citadas.
 
@@ -3446,11 +3087,6 @@ D) 240.
 
 E) 370.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Item. 6. (CESPE/IFF/2018) Para um conjunto qualquer X, n(X) representa a quantidade de
 elementos de X.
@@ -3505,11 +3141,6 @@ julgue os itens a seguir.
 
 Item. 10. (CESPE/PF/2018) Se 11 passageiros estiveram em B, então mais de 15 estiveram em A.
 Texto para as próximas questões
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 O resultado de uma pesquisa acerca da satisfação de 200 papiloscopistas, no que diz
@@ -3571,10 +3202,7 @@ pontos turísticos. Considerando que todos os participantes tenham visitado, pel
 um desses três
 pontos turísticos, julgue os itens a seguir.
 
-0 0 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
+0 0
 
 
 Item. 14. (CESPE/BNB/2018) Mais de 15 dos participantes do evento visitaram somente o Centro Cultural
@@ -3620,11 +3248,6 @@ comerciais que são classificados como Bar ou Restaurante e naqueles que são
 considerados ao mesmo
 tempo Bar e Restaurante. Sabe-se que, ao todo, são 96 estabelecimentos a serem visitados, dos quais
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 são classificados como Bar e 60 são classificados como Restaurante. Nessa situação, há
 mais de 15
@@ -3638,10 +3261,7 @@ arroz e 15% deles cultivam milho e soja. Considerando essa situação, julgue o 
 que segue: em
 exatamente 30% das propriedades, cultiva-se apenas milho.
 
-0 0 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
+0 0
 
 
 GABARITo
@@ -3666,7 +3286,5 @@ Item. 6. LETRA C 14. ERRADO
 Item. 7. ERRADO 15. ERRADO
 
 Item. 8. CERTO 16. CERTO
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 

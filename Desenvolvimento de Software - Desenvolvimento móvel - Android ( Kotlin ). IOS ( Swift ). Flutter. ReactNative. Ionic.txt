@@ -1240,8 +1240,6 @@ condições
 a seguir for verdadeira:
 
 
-
-
 * Ele tem uma atividade visível, independentemente de ela estar em andamento ou pausada.
 
 * Ele tem um serviço de primeiro plano.
@@ -1307,8 +1305,6 @@ todos os
 aplicativos no dispositivo.
 
 Guia de migração
-
-
 
 
 A partir da versão 8.0 do Android, houve mudanças que afetam a forma como os
@@ -1777,8 +1773,6 @@ CARDVIEW
 Visualização que permite criar cartões estilizados com sombras, cantos
 arredondados e outros efeitos visuais. É útil para destacar visualmente
 certos elementos na interface do usuário.
-
-
 
 
 VIEWPAGER
@@ -2591,7 +2585,6 @@ Support Library são suportados no dispositivo.
 
 WebViewRenderProcess fornece um identificador opaco para
 um renderizador WebView.
-
 
 
 /
@@ -4652,8 +4645,6 @@ diferentes partes do
 aplicativo, preenchendo cada uma delas com diferentes conjuntos de dados.
 
 
-
-
 Para cada página distinta, defina um view controller para representar essa página e
 gerenciar suas
 visualizações correspondentes. Definir um view controller sempre envolve a
@@ -5488,8 +5479,6 @@ UITABBAR
 
 Uma barra exibida na parte inferior da janela que contém os itens de cada
 aba do UlTabBarController.
-
-
 
 
 UIPAGEVIEWCONTROLLER
@@ -8433,8 +8422,6 @@ semana")
 }
 
 
-
-
 System.out.println( "Terça-feira");
 
 break;
@@ -8491,8 +8478,6 @@ annotation
 
 N/A (não há)
 Byte
-
-
 
 
 REFERÊNCIAS
@@ -11239,8 +11224,6 @@ d) a casa eh forte
 e) o carro eh forte
 
 Comentários:
-
-
 
 
 O algoritmo apresentado é um exemplo de código escrito em Swift,

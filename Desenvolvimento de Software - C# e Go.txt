@@ -147,8 +147,6 @@ Declaramos uma nova variável no formato:
 Tipo nome_da_variavel [ = valorjnicial ];
 
 
-
-
 O valorjnicial está entre colchetes pois é opcional. Simples não é? Essa é a
 estrutura básica de
 um programa C#! Agora vamos aprender mais alguns conceitos.
@@ -533,8 +531,6 @@ até 100, a
 diferença é que a cada rodada do loop eu já retorno o objeto que está sendo inserido na lista.
 
 
-
-
 Dessa forma há um ganho de desempenho, imagine se o loop não fosse só até 100, mas
 fossem
 milhões?
@@ -687,8 +683,6 @@ Curiosidade
 
 O operador condicional é associativo à direita. A expressão a ? b : c ? d : e
 é desenvolvida como a ? b : (c ? d : e), não como (a ? b : c) ? d : e.
-
-
 
 
 QUESTõES CoMENTADAS - DESENVoLVIMENTo BACK-END
@@ -2170,8 +2164,6 @@ O resultado produzido pela execução desse código é:
 a) Acelerando.
 
 b) Passeando.
-
-
 
 
 c) Movendo.

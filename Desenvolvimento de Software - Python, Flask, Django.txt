@@ -259,8 +259,6 @@ ELSE com a ramificação "if", tenta as ramificações "elif" e termina com a ra
 (até ser avaliada como True)
 
 
-
-
 EXCEPT
 
 Usada em blocos try...except. Ele define um bloco de código a serexecutado se o bloco
@@ -979,8 +977,6 @@ Retorna True se todos os caracteres da string forem minúsculos
 Retorna True se todos os caracteres da string forem numéricos
 
 
-
-
 ISPRINTABLEÍl Retorna True se todos os caracteres da string forem imprimíveis
 ISSPACEU Retorna True se todos os caracteres na string forem espaços em branco
 ISTITLEO Retorna True se a string seguiras regras de um título
@@ -1128,8 +1124,6 @@ EXEMPLO
 AND Retorna True se ambas as declarações forem verdadeiras x < 5 and x < io
 
 
-
-
 OR
 NÕT
 
@@ -1193,8 +1187,6 @@ mesmo que x // 2 ** y. Exemplo: 14 » 9 # decimal 0 2 » 1 #decimal 1. 1110 » 1
 binário 0
 
 10 » 1 # binário 1
-
-
 
 
 Coleções em Python
@@ -1907,8 +1899,6 @@ UNIONO Retorna um conjunto contendo a união de conjuntos
 UPDATEU Atualize o conjunto com a união deste conjunto e outros
 
 
-
-
 Dicionários Python
 
 Os dicionários são usados para armazenar valores de dados em pares chave:valor. Um
@@ -2071,8 +2061,6 @@ armazenados em uma ordem específica além
 disso, conjuntos não contém elementos repetidos. Portanto, conjuntos são diferentes de
 listas. Por fim, o item III está correto,
 é possível a alteração dos elementos de uma lista. (Gabarito: Letra D).
-
-
 
 
 Condições do Python
@@ -2463,8 +2451,6 @@ d) o -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
 e) -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
 
 
-
-
 Comentários: Pessoal, as bancas gostam muito de índices negativos, para dificultar um
 pouco. No caso da questão, é gerada
 uma sequência de números negativos iniciando em -1 e parando antes do -10 (ou seja, o for para no
@@ -2522,8 +2508,6 @@ e) -52
 Comentários: Pessoal, for k in range(i6,io, -2):gera 16,14 e 12. Nessa sequência, s -=
 k vai somar os valores negativos da
 seguinte forma: -16 -14 e -12 que gera como resultado -42.(Gabarito: Letra D).
-
-
 
 
 Funções do Python
@@ -2832,8 +2816,6 @@ você pode usá-
 lo livremente. NumPy significa Python Numérico. Em Python temos listas que servem ao propósito
 
 
-
-
 de arrays, mas são lentas para processar. O NumPy visa fornecer um objeto array até
 50X mais
 rápido que as listas tradicionais do Python.
@@ -3028,8 +3010,6 @@ def init(self, fname, lname):
 
 
 super().init(fname., lname)
-
-
 
 
 Iteradores Python
@@ -3286,8 +3266,6 @@ Mon Dec 31 17:41:00
 2018
 
 
-
-
 Matemática Python
 
 O Python possui um conjunto de funções matemáticas integradas, incluindo um extenso
@@ -3459,8 +3437,6 @@ Retorna a tangente hiperbólica de um número
 Retorna as partes inteiras truncadas de um número
 
 
-
-
 Python RegEx
 
 Um RegEx, ou Expressão Regular, é uma sequência de caracteres queforma um padrão de
@@ -3621,8 +3597,6 @@ alfabética entre a e n
 [0-91 Retorna uma correspondência para qualquer dígito entre 0 e 9
 
 
-
-
 [0-5H0-9]
 
 Retorna uma correspondência para qualquer número de dois dígitos de 00 a 59
@@ -3633,8 +3607,6 @@ e z, minúsculas OU maiúsculas
 Em conjuntos, +, */ |, (), $,{} não tem significado especial, então [+] significa:
 
 retornar uma correspondência para qualquer caractere + na string
-
-
 
 
 RESUMO
@@ -3897,8 +3869,6 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 V
 
 
-
-
 Barra invertida
 Nova linha
 
@@ -3984,8 +3954,6 @@ Retorna True se todos os caracteres na string forem espaços em branco
 Retorna True se a string seguiras regras de um título
 
 Retorna True se todos os caracteres da string forem maiúsculos
-
-
 
 
 JOINÜ
@@ -4125,8 +4093,6 @@ presente no objeto
 x in y
 
 
-
-
 Retorna True se uma sequência com o valor especificado não
 estiver presente no objeto
 
@@ -4178,8 +4144,6 @@ Remove o primeiro item com o valor especificado
 Inverte a ordem da lista
 
 Inverte a ordem da lista
-
-
 
 
 GO
@@ -4300,8 +4264,6 @@ valor especificado
 UPDATEO Atualiza o dicionário com os pares de valores-chave especificados
 
 VALUESO Retorna uma lista de todos os valores no dicionário
-
-
 
 
 LISTA E UMA COLEÇÃO ORDENADA E MUTÁVEL. PERMITE MEMBROS DUPLICADOS.
@@ -4479,8 +4441,6 @@ PM
 CST
 
 
-
-
 Número do dia do ano 001-366
 
 Número da semana do ano, domingo como 0 primeiro dia
@@ -4574,8 +4534,6 @@ Retorna a função de erro complementar de um número
 Retorna E elevado à potência de x
 
 Retorna Ex -1
-
-
 
 
 MATH.FABSO
@@ -4678,8 +4636,6 @@ Retorna as partes inteiras truncadas de um número
 FUNÇÃO DESCRIÇÃO
 
 
-
-
 Retorna uma lista contendo todas as correspondências
 
 Retorna um objeto Match se houver uma correspondência em qualquer lugar da string
@@ -4767,8 +4723,6 @@ caractere de espaço em branco
 "\S"
 
 
-
-
 \w Retorna uma correspondência em que a string contém qualquer
 caractere de palavra (caracteres de a a Z, dígitos de o a 9 e o
 caractere sublinhado _)
@@ -4811,8 +4765,6 @@ e z, minúsculas OU maiúsculas
 [+1 Em conjuntos, +, *, ., |, (), $,{} não tem significado especial,
 então [+] significa:
 retornar uma correspondência para qualquer caractere + na string
-
-
 
 
 Automação de Scripts
@@ -7252,8 +7204,6 @@ Gabarito: Letra A
 6i.(FCC-20i2-TRE/CE-Analista de Sistemas) Sobre Python é Correta afirmar:
 
 
-
-
 a) é uma linguagem compilada, ou seja, o código-fonte de um programa é lido pelo
 compilador,
 que cria um arquivo binário, executável diretamente pelo hardware.
@@ -8059,8 +8009,6 @@ The end
 
 c) Deu erro!
 Ok
-
-
 
 
 d) Ok

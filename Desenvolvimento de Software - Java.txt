@@ -759,8 +759,6 @@ Comentários: Pessoal, na verdade, não há a extensão EXE no ambiente citado. 
 .exe (Gabarito: Errado).
 
 
-
-
 3ava Virtual Machine (JVM)
 
 A máquina virtual Java atua como uma camada de abstração adicional entre a plataforma
@@ -1133,8 +1131,6 @@ das
 classes pode levar algum tempo. Para definir programas Java que rodem no servidor,
 veja como
 construir servlets.
-
-
 
 
 Os 5 métodos que definem o ciclo de vida de uma applet são:
@@ -1517,8 +1513,6 @@ estáticos podem ser acessados sem criar um objeto de uma classe
 
 Restringir a precisão e 0 arredondamento dos cálculos de ponto flutuante
 Refere-se a objetos da superclasse (pai)
-
-
 
 
 Seleciona um dos muitos blocos de código a serem executados
@@ -2329,8 +2323,6 @@ resultado de A|B é ooinioi. (Gabarito: Letra B).
 1 Sistemas Numéricos
 
 
-
-
 Vetores
 
 Um array ou vetor é um grupo de variáveis (chamados elementos ou componentes) que
@@ -2489,8 +2481,6 @@ System out.println(i);
 Veja que a diferença é sutil. Está apenas no "for (String i: cars)". O exemplo acima
 pode ser lido
 assim: para cada elemento String (chamado i - como no índice) em cars, imprima o valor de i.
-
-
 
 
 Se você comparar o loop for com o loop for-each , verá que o método for -each é
@@ -3770,8 +3760,6 @@ subclasses! Portanto nosso gabarito é
 apenas o item I. (Gabarito: Letra A).
 
 
-
-
 Herança e Encapsulamento
 
 Encapsulamento e ocultamento de informações
@@ -4134,8 +4122,6 @@ O polimorfismo permite escrever programas que processam objetos que compartilham
 superclasse, direta ou indiretamente, como se todos fossem objetos da superclasse; isso
 pode
 simplificara programação.
-
-
 
 
 Considere o exemplo de polimorfismo a seguir. Suponha que criamos um programa que
@@ -5036,8 +5022,6 @@ variável. Os nomes comuns para variáveis temporárias são i, j, k, m, n e par
 inteiros, c, d, e e para caracteres.
 
 
-
-
 CONSTANTES Constantes devem ter todas as letras maiúsculas separadas por underline
 
 As boas práticas de programação chamam a atenção a técnicas que irão
@@ -5641,8 +5625,6 @@ ELSE Usado em instruções condicionais
 ENUM Declara um tipo enumerado (imutável)
 
 
-
-
 Estende uma classe (indica que uma classe é herdada de outra classe)
 
 Um modificador sem acesso usado para classes, atributos e métodos, o que os torna
@@ -5709,8 +5691,6 @@ Um modificador sem acesso, que especifica que os métodos só podem ser acessado
 por um thread por vez
 
 Refere-se ao objeto atual em um método ou construtor
-
-
 
 
 Cria um erro personalizado
@@ -6126,8 +6106,6 @@ do qual ela retorna ao estado executável. As threads dormem quando, por um brev
 período, não têm de realizar nenhuma tarefa. Por exemplo, um processador de texto
 
 
-
-
 pode conter uma thread que grave periodicamente backups (isto é, grava uma cópia)
 do documento atual no disco para fins de recuperação. Se a thread não dormisse
 entre os sucessivos backups, seria necessário um loop em que testaria
@@ -6321,8 +6299,6 @@ direita e no fim da linha. Os comentários de bloco são utilizados para descrev
 arquivos de código, métodos ou algum algoritmo dentro de um método. Procure
 
 
-
-
 sempre inserir uma linha em branco antes do bloco de comentários. Os
 comentários de linha são para comentários curtos, e devem ser precedidos com
 uma linha em branco, assim como o comentário de bloco. Comentários muito
@@ -6388,8 +6364,6 @@ Fornece novos tipos de interface e implementações para geradores de número
 pseudo-aleatório (PRNGs). Essa mudança melhora a interoperabilidade de
 diferentes PRNGs e torna mais fácil solicitar um algoritmo com base em
 requisitos, em vez de codificar uma implementação específica.
-
-
 
 
 JEP 382: NOVO PIPELINE DE
@@ -6477,8 +6451,6 @@ Permite expressar cálculos vetoriais que compilam de forma confiável em tempo
 de execução para instruções vetoriais otimizadas em arquiteturas de CPU
 suportadas, alcançando, assim, um desempenho superior aos cálculos escalares
 equivalentes.
-
-
 
 
 QUESTõES CoMENTADAS - FCV
@@ -7412,8 +7384,6 @@ PreparedStatement é que, diferentemente de um objeto Statement, ele recebe uma
 instrução
 SQL quando é criado. A vantagem disso é que, na maioria dos casos, essa instrução SQL é
 enviada
-
-
 
 
 imediatamente ao DBMS, onde é compilada. Como resultado, o objeto
@@ -8514,8 +8484,6 @@ e executado
 por uma Java Virtual Machine (JVM). A letra c também está errada, foi apenas para
 confundir o
 candidato. A letra d trata da JRE, camada de software que é executado sobre um software de
-
-
 
 
 sistema operacional de um computador e fornece as bibliotecas de classe e outros

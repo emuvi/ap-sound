@@ -609,8 +609,6 @@ benefícios que você ganha ao tratar seus dados desta forma quando cobrirmos ra
 Quase Todas as Operações são locais
 
 
-
-
 A maioria das operações no Git só precisa de arquivos e recursos locais para operar
 - geralmente
 nenhuma informação é necessária de outro computador da rede. Se você estiver acostumado
@@ -776,8 +774,6 @@ Se for
 modificado, mas foi adicionado à área de preparo, é considerado preparado. E se ele
 for alterado
 depois de ter sido carregado, mas não foi preparado, ele é considerado modificado.
-
-
 
 
 Comandos GIT
@@ -1084,8 +1080,6 @@ default: Valores
 padrão personalizados para palavras-chave de trabalho, include: Importe a configuração de
 outros
 arquivos YAML. stages: Os nomes e a ordem dos estágios do pipeline. variables: Defina variáveis
-
-
 
 
 CI/CD para todos os trabalhos no pipeline. workflow: Controle quais tipos de
@@ -2513,8 +2507,6 @@ Comentários: ele realmente combina práticas e ferramentas que aumentam a capac
 uma organização de distribuir
 aplicativos e serviços e pode ser realizado na sprint do Scrum por meio da integração contínua
 (Correto).
-
-
 
 
 Conceitos Básicos

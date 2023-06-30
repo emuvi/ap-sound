@@ -613,8 +613,6 @@ Elementos ou
 Estilos que é aberto.
 
 
-
-
 K fi~l | Elements Console Sources Network Performance Memory Application Security Lighthouse
 Recorder Ã »
 CDOCTYPE html>
@@ -748,8 +746,6 @@ letras
 minúsculas em HTML e exige letras minúsculas para tipos de documento mais
 restritos,
 comoXHTML.
-
-
 
 
 Atributos HTML
@@ -1195,8 +1191,6 @@ Cabeçalho centralizado
 Parágrafo centralizado
 
 
-
-
 / 187
 
 /
@@ -1372,7 +1366,6 @@ documento ou artigo. As informações de contato podem ser um endereço de e-mai
 endereço físico, número de telefone, identificador de mídia social, etc. O texto no
 
 
-
 *
 
 
@@ -1431,7 +1424,6 @@ comentários, você pode colocar notificações e lembretes em seu código HTML.
 <p>Isto é um parágrafo.</p>
 
 <!-- Lembre-se de adicionar mais informações aqui -->
-
 
 
 *
@@ -1724,7 +1716,6 @@ Item. 2. URL relativo - Links para uma imagem hospedada no site. Aqui, a URL nã
 de domínio. Se a URL começar sem uma barra, ela será relativa à página atual. Exemplo:
 
 
-
 *
 
 
@@ -1979,8 +1970,6 @@ Para entender melhor o exemplo, adicionamos bordas à tabela.
 </html>
 
 
-
-
 <TABLE> DEFINE UMA TABELA
 
 <TH> DEFINE UMA CÉLULA DE CABEÇALHO EM UMA TABELA
@@ -2037,8 +2026,6 @@ Com a propriedade border-color, você pode definir a cor da borda. As
 tabelas HTML
 podem ter tamanhos diferentes para cada coluna, linha ou tabela inteira. Use o atributo
 style com as propriedades width ou height para especificar o tamanho de uma tabela,
-
-
 
 
 linha ou coluna, para definir a largura da tabela HTML, adicione o
@@ -2209,7 +2196,6 @@ termos, com uma descrição de cada termo. A tag <dl> define a lista de
 descrição, a tag
 
 <dt> define o termo (nome) e a tag <dd> descreve cada termo.
-
 
 
 * 05152001900 - Everton
@@ -3104,7 +3090,6 @@ com todas as
 classes especificadas.
 
 
-
 * 05152001900 - Everton
 Murilo Vieira
 
@@ -3303,8 +3288,6 @@ Tóquio é a capital do Japão.
 </body>
 
 </html>
-
-
 
 
 0 ATRIBUTO HTML CLASS ESPECIFICA UM OU MAIS NOMES DE CLASSE PARA UM ELEMENTO
@@ -3865,7 +3848,6 @@ suporte do navegador, um seletor de data pode aparecer no campo
 de entrada.
 
 
-
 /
 
 
@@ -4422,8 +4404,6 @@ O atributo HTML style tem a seguinte sintaxe4:
 4 property é uma propriedade CSS. vaLue é um valor CSS.
 
 
-
-
 <!DOCTYPE html>
 
 <html>
@@ -4469,8 +4449,6 @@ Background-color Define a cor de fundo de um elemento HTML
 Color Define a cor do texto para um elemento HTML
 
 Font-family Define a fonte a ser usada para um elemento HTML
-
-
 
 
 Font-size
@@ -4659,8 +4637,6 @@ Descreve o termo em uma lista de descrição
 Listas Não Ordenadas
 
 Valor Descrição
-
-
 
 
 Define o marcador de item da lista para um marcador (padrão).
@@ -5854,8 +5830,6 @@ criar um arquivo chamado "manifesto de cache" e vinculá-lo ao seu HTML usando a
 arquivos que devem ser armazenados em cache.
 
 
-
-
 Gabarito: Letra B
 
 Item. 9. (CESPE - MPE CE - 2020) Acerca de JSON e HTML 5, julgue o item subsecutivo.
@@ -6137,8 +6111,6 @@ inserir
 um valor antes de enviar o formulário. O atributo name é usado para dar um nome ao
 campo de entrada, que pode ser usado posteriormente para acessar o valor inserido pelo
 usuário. O botão de envio é criado usando o elemento <input type="submit">. Quando
-
-
 
 
 o usuário clica no botão, o formulário é enviado para o arquivo teste.html,
@@ -8243,8 +8215,6 @@ vez
 e clicou no botão três vezes, o valor da variável localStorage.clickcount seria definido
 
 
-
-
 como 4, pois começa em 1 e é incrementado em 1 toda vez que o botão é clicado. O
 valor da variável sessionStorage.clickcount também seria definido como 4, pois começa
 em 1 e é incrementado em 1 toda vez que o botão é clicado. sessionStorage -> os
@@ -9738,8 +9708,6 @@ o mouse seja movimentado sobre o botão.
 d) "Abrir" inicialmente, "on" quando o cursor do mouse entra na área do botão, e
 "Abrir" quando o cursor do mouse sai da área do botão, assim mudando a cada
 movimentação para dentro ou para fora.
-
-
 
 
 e) "Abrir" inicialmente, "on" quando o cursor do mouse entra na área do botão, e

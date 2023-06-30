@@ -235,8 +235,6 @@ alguns =
 :
 
 
-
-
 Comentários: Os comandos genéricos ou primitivos são utilizados em pseudocódigo, e não
 em fluxogramas.
 O fluxograma é uma das formas de se representar as instruções de programa, mas
@@ -460,8 +458,6 @@ copa é Brazuca, é possível decompor esse nome? Sim, basta dividi-lo em caract
 1 Uma música em .mp3, um texto em .pdf, uma imagem em jpg são todos tipos estruturados.
 
 
-
-
 o Cadeia de Caracteres: também conhecido como String, são representações de
 sequências de
 caracteres, incluindo ou não símbolos. Pode ser uma palavra, frase, código, etc, por
@@ -546,8 +542,6 @@ Maior ou igual a
 disso, parênteses possuem sempre a maior prioridade!
 
 
-
-
 Menor ou igual a
 
 Operadores Lógicos: servem para combinar resultados de expressões,
@@ -601,7 +595,6 @@ interferir na sequência de
 instruções executadas dependendo de uma condição de teste, i.e., o algoritmo
 terá caminhos diferentes
 para decisões diferentes. Bacana?
-
 
 
 * 05152001900 - Everton Murilo
@@ -877,8 +870,6 @@ entra na condicional,
 me <-a;
 
 3 Em inglês: If-Then, If-Then-Else, If-Then (nested) e Switch-Case.
-
-
 
 
 Atribui à variável me o valor de a, ou seja, 120.
@@ -1462,8 +1453,6 @@ produto de todos
 os inteiros positivos menores ou iguais a n.
 
 
-
-
 5!
 
 retorna 120
@@ -1636,8 +1625,6 @@ considerada uma das melhores da época. Ainda na mesma década, foram criados o 
 COBOL (COmmon Business Oriented Language).
 
 
-
-
 THE PERIODIC TABLE OF PROGRAMMING LANGUAGES
 
 VisualisaUon of tbe evolution of popular programmmg languages
@@ -1703,8 +1690,6 @@ Code), que foi criada
 com fins educativos. Conheciam? Eu também não!
 
 
-
-
 ■s
 
 FM rwo Mcts w ANt> i sm
@@ -1759,8 +1744,6 @@ ideias antigas. Uma filosofia de grande importância era a produtividade do prog
 muitas
 
 
-
-
 linguagens para suportar o Desenvolvimento Rápido de Aplicações (RAD). Em geral, elas
 vieram com uma
 IDE, Garbage Collector, e tudo que aumentasse a produtividade do programador.
@@ -1796,8 +1779,6 @@ o C#, criada pela
 Microsoft! Galera, e a evolução não parou! Atualmente, as linguagens
 de programação continuam
 crescendo, tanto na indústria quanto na pesquisa.
-
-
 
 
 QUESTõES CoMENTADAS - CESPE
@@ -1847,7 +1828,6 @@ caso
 contrário, outro comando é executado.
 
 Comentários:
-
 
 
 *
@@ -1920,8 +1900,6 @@ pode transitar para um
 estado para cada entrada. Portanto, ele não permite nem zero e nem n transições. Falso.
 
 
-
-
 e) consegue estar em vários estados ao mesmo tempo.
 Somente um estado. Falso. Gabarito: Letra C.
 
@@ -1992,8 +1970,6 @@ enquanto (atual <= numero) {
 valor = valor * atual
 
 
-
-
 atual = atual + 1
 
 }
@@ -2062,8 +2038,6 @@ e) O resultado da expressão (a == 3 11 b > 10 11 d == 8 ) é verdadeiro.
 Comentários:
 
 Consideremos a = 3, b = 7, c = 3 e d = 9.
-
-
 
 
 Consideremos os significados dos sinais de operação:
@@ -2178,8 +2152,6 @@ o (falso OU falso OU falso) = falso.
 * Portanto, o item está errado!
 
 Item. 8. (CESPE / CEBRASPE - 2021-SEED-PR)
-
-
 
 
 Item. 1. var
@@ -2308,8 +2280,6 @@ b) menor que 2, escreve X.
 Existem números inteiros pares menores do que 2, e que, portanto, escrevem Y. Errado.
 
 
-
-
 c) igual a 2, escreve Y.
 
 2 é um número par. Logo, escreve Y. Correto!
@@ -2383,8 +2353,6 @@ O teste é sempre feito no
 início do bloco.
 
 
-
-
 O trecho acima lê do usuário um valor, e vai somando esse valor na variável
 "resultado" para sempre... Desde
 que o valor seja diferente de zero. Ou seja, ele vai sair do loop se o valor for 0.
@@ -2454,8 +2422,6 @@ disso, ele multiplica na
 variável resultado o valor de cont.
 
 
-
-
 Assim, se o valor de num for 4, ele vai multiplicar i*i*2*3*4 = 24.
 Essa é a definição de fatorial.
 
@@ -2523,8 +2489,6 @@ ZY.
 Finalmente, podemos usar a distributiva mais uma vez: F(X, Y, Z) = Z(X + X') + XZ + YZ.
 
 
-
-
 Como X + X' é sempre verdadeiro (pois é a negação de X ou a negação de não X,
 que são complementares),
 podemos simplificar a expressão para F(X, Y, Z) = Z + XZ + YZ.
@@ -2587,8 +2551,6 @@ ma <-a;
 
 Atribui à variável ma o valor de a, ou seja, 120.
 se (ma < b) então ma <- b;
-
-
 
 
 Realizada uma condicional. Como ma = 120 e b = 30, 120 < 30 é falso. Portanto, não
@@ -2661,8 +2623,6 @@ Gabarito: Errado.
 Item. 16. (CESPE / CEBRASPE - 2021 - SEED-PR) (4 > 2) xor (5 = 3) and (4 > 2) or (5 = 5)
 
 Assinale a opção que apresenta o resultado da expressão anterior.
-
-
 
 
 a) 2
@@ -2758,8 +2718,6 @@ verdadeiro xor falso é verdadeiro.
 verdadeiro and verdadeiro or verdadeiro
 verdadeiro and verdadeiro é verdadeiro
 verdadeiro or verdadeiro
-
-
 
 
 verdadeiro
@@ -2883,8 +2841,6 @@ Define achou = true.
 
 Valores do vetor: [37,51,77,81,19].
 Para i = 3:
-
-
 
 
 Testa o if: se vetor[i] > vetor [i+1], ou seja, se vetor[3] > vetor[4], ou seja, se 81 > 19
@@ -3028,8 +2984,6 @@ Volta para o enquanto.
 Como achou = true, então entra no "enquanto".
 
 
-
-
 Define achou = false.
 
 Entra no "para", que irá rodar de 0 a 3, cada iteração com um valor para a variável i.
@@ -3098,8 +3052,6 @@ marcado com o
 comando LABEL.
 
 
-
-
 Seu uso indiscriminado pode gerar problemas de legibilidade no programa,
 dificultando, especialmente, a
 sua compreensão, e, consequentemente, sua manutenibilidade.
@@ -3153,8 +3105,6 @@ B somente são visíveis
 quando a sub-rotina TROCA é executada.
 
 Comentários:
-
-
 
 
 Como as variáveis A e B têm escopo global, elas são visíveis em qualquer ponto do algoritmo.
@@ -3218,8 +3168,6 @@ Portanto, o código pode ser lido da seguinte forma:
 "Se o valor de x for maior do que 0, então adiciona 1 ao x. Senão, e se o valor de x for
 menor do que 0, então
 subtrai 1 ao x".
-
-
 
 
 No caso de x ser igual a zero, nada ocorre.
@@ -3326,8 +3274,6 @@ Segunda instrução: a = b; a = 3;
 Terceira instrução: b = f; b = 8;
 
 
-
-
 Quarta instrução: Saída = 12358;
 
 Logo, temos que: i = 6; f = 8; a = 3; b = 8;
@@ -3384,8 +3330,6 @@ H 0 (6 - (-10)) - pot(5,2) mod 4, div é o Quociente da divisão, 20 div 3 = 6;
 H 0 (6 + 10) - 25mod 4, pot é a potenciação, 5 elevado ao 2, que é igual a 25;
 
 H 0 16 -1, mod é o resto da divisão, 25 mod 4 = 1;
-
-
 
 
 Portanto, H 0 15. Gabarito: C
@@ -3492,8 +3436,6 @@ processo e entrada
 manual. Portanto, está errado. Gabarito: Errado.
 
 
-
-
 Item. 30. (CESPE - 2014 - ANATEL - Analista de Sistemas) A recursividade é uma técnica que pode ser
 utilizada
 na implementação de sistemas de lógica complexa, com a finalidade de minimizar riscos de ocorrência
@@ -3539,8 +3481,6 @@ C = 8, o
 resultado que será computado para Área é igual a 32.
 
 
-
-
 Comentários:
 
 Vamos lá:
@@ -3570,8 +3510,6 @@ Comentários:
 Perfeito! Lembram-se que nós temos três estruturas de repetição? Pois é, o
 Enquanto-Faça serve para esse
 propósito! Gabarito: Certo
-
-
 
 
 Item. 34. (CESPE - 2010 - DETRAN/ES - Analista de Sistemas) O método de recursividade deve ser utilizado
@@ -3631,8 +3569,6 @@ necessitam
 de uma condição de saída ou de encerramento.
 
 
-
-
 Comentários:
 
 Por fim, gostaria de mencionar que existem dois tipos de recursividade: direta e
@@ -3646,8 +3582,6 @@ que chama a primeira (Ex: Função A chama a Função B, que chama a Função A)
 Conforme vimos em aula, existe recursividade direta e indireta, mas ambas precisam de
 um caso-base, que
 é uma condição de saída, para não ficar em loop infinito. Gabarito: Certo
-
-
 
 
 QUESTõES CoMENTADAS - FCC
@@ -3819,8 +3753,6 @@ não apresenta
 erros.
 
 
-
-
 var varl=l, var2=2: inteiro
 funcaol()
 
@@ -3899,8 +3831,6 @@ fim
 Neste caso, irá utilizar os valores de varl e var2 de dentro da
 funcaol. Ou seja, vai imprimir:
 "Variaveis dentro da funcaol (): var1= 100, var2 = 100".
-
-
 
 
 As variáveis globais não vão ser alteradas aqui porque as variáveis usadas
@@ -4083,8 +4013,6 @@ os dois últimos dígitos do
 ano. Observe:
 
 
-
-
 1945
 
 1900
@@ -4151,8 +4079,6 @@ pagos pelo usuário.
 Comentários:
 
 
-
-
 Vamos comentar item a item:
 
 a. o tipo básico inteiro para ambas as variáveis.
@@ -4195,8 +4121,6 @@ com por um intervalo, e não por valores discretos. Falso. Gabarito: D
 Item. 8. (FCC - 2017 - ARTESP) Considere o fluxograma abaixo.
 
 De acordo com a lógica expressa pelo fluxograma, conclui-se que:
-
-
 
 
 a) a solicitação da senha é encerrada quando o usuário fornece a senha admin.
@@ -4489,8 +4413,6 @@ Ela não é
 chamada dentro dela mesma. Falso.
 
 
-
-
 d) recursiva faz cálculos e apresenta resultados totalmente diferentes da função iterativa.
 
 É possível implementar de maneira iterativa funções recursivas, e retornar o mesmo
@@ -4575,8 +4497,6 @@ Da análise do algoritmo, podemos deduzir que:
 
 * O usuário deve preencher os valores 1, 2 e 3 para declarar votos nos candidatos 1, 2 e 3;
 0 caso o voto seja em branco; e -1 para finalizar e mostrar os resultados.
-
-
 
 
 o Usando o número informado (0, 1, 2 ou 3), armazenado na variável voto, o sistema
@@ -4786,8 +4706,6 @@ se (n < 10)
 65 <10? Falso, então vai para o "senão".
 
 
-
-
 Novamente a função recursiva, n/10 = 65/10 = 6. Rodemos novamente diqitos(ó). Quinta vez.
 se (n < 10)
 
@@ -4967,8 +4885,6 @@ Dito isso, o algoritmo ele funciona da seguinte maneira:
 * Define as variáveis "tres" e "cinco" como 0.
 
 
-
-
 * Dependendo do resto da divisão calculada, ele vai definir novos valores para as variáveis
 "cinco" e "tres".
 
@@ -5107,8 +5023,6 @@ E assim por diante. Até chegar em "k". Suponha que k = 6.
 Então, quando j = 7, ele coloca em v[7] o valor de v[6], e sai do loop.
 
 
-
-
 Até aí, note que ele transpôs para frente os valores do vetor, certo? E daí vem a
 seguinte instrução:
 v[k] x;
@@ -5224,8 +5138,6 @@ E <- E*B
 CB <- CB + 1
 
 
-
-
 Inicialmente E = 4 e B = 4. Portanto E <- 64*4 = 256. Então, E = 256. CB = 3 +
 1 =4. Volta para
 o teste.
@@ -5303,8 +5215,6 @@ e) Se for fornecido 1 para k, será impresso "Sucesso" duas vezes.
 Comentários:
 
 
-
-
 Da análise do algoritmo, nota-se que seu comportamento é o seguinte:
 
 * Temos um vetor de 10 posições.
@@ -5366,8 +5276,6 @@ e) Se for fornecido 1 para k, será impresso "Sucesso" duas vezes.
 Não. É o contrário. Será impresso "Insucesso" duas vezes, e "Sucesso" uma vez. Gabarito: B
 
 Item. 20. (FCC - 2014 - TRT-16) No algoritmo há:
-
-
 
 
 tipo V= vetor [1..10] inteiro
@@ -5512,8 +5420,6 @@ b) (n1 >= 0 E n1 <=10) OU (n2 >= 0 E n2 <=10)
 Isso vai permitir que n1 esteja entre 0 e 10, ou que n2 esteja entre 0 e 10.
 Queremos que os dois
 estejam entre 0 e 10. Falso.
-
-
 
 
 c) (n1 >= 0 OU n1 <=10) E (n2 >= 0 OU n2 <=10)
@@ -5709,8 +5615,6 @@ Z é lógico. X é inteiro. Y é inteiro. X + Y, ou seja, "X mais Y", resulta em
 
 Não é possível atribuir a uma variável lógica (Z) um resultado de uma expressão de soma de dois
 inteiros (X + Y). Falso. Gabarito: B
-
-
 
 
 Item. 24. (FCC - 2010 - TJ-PA) Considere a seguinte e somente a seguinte
@@ -5987,8 +5891,6 @@ em recursividade por meio de imagens como as apresentadas abaixo.
 Conforme vimos em aula, ela pode chamar a si mesma. Gabarito: E
 
 
-
-
 QUESTõES CoMENTADAS - FCV
 
 Item. 1. (FGV - 2018 - Câmara de Salvador-BA) Expressões lógicas são frequentemente utilizadas
@@ -6090,8 +5992,6 @@ Realiza o teste: 1 > 5
 Falso. Entra no "else".
 
 
-
-
 Realiza o teste: if a + b < c. 1 + 3 < 7.
 Verdadeiro. Entra dentro do if.
 
@@ -6129,8 +6029,6 @@ Verdadeiro. Entra dentro do loop.
 if a > c {
 
 Realiza o teste: 3 > 9
-
-
 
 
 Falso. Entra no "else".
@@ -6172,8 +6070,6 @@ Realiza o teste: 4 > 13
 Falso. Entra no "else".
 
 
-
-
 Realiza o teste: ifa + b<c. 4 + 9<15.
 Verdadeiro. Entra dentro do if.
 
@@ -6212,8 +6108,6 @@ Verdadeiro. Entra dentro do loop.
 if a > c {
 
 Realiza o teste: 6 > 17
-
-
 
 
 Falso. Entra no "else".
@@ -6301,8 +6195,6 @@ Depois, vem um if: if a <> b. Realiza o teste: a <> b. 8 <> 20.
 Verdadeiro. Entra no if, e cai em um outro if: if a > 5. Realiza o teste: a > 5. 8 > 5.
 
 Verdadeiro. Entra no "então", e imprime "8 20"
-
-
 
 
 Fora dos ifs, mas ainda dentro do loop, executa a = a + 3 = 8 + 3 = 11.
@@ -6414,8 +6306,6 @@ L[k+1] = L[k], ou seja, L[1 ] = L[0], ou seja, L[ 1 ] = 10.
 Define trocou = true.
 
 Valor de L = 2,2,40,53,28,12.
-
-
 
 
 Para k = 1:
@@ -6853,8 +6743,6 @@ Vai retornar recursivamente return x + f(x - 1), ou seja, return 8 + f(7)
 Entrou na função com f(7).
 
 
-
-
 Testa o if x = 1.
 
 
@@ -7006,8 +6894,6 @@ Vai retornar recursivamente return N + ff(N - 1), ou seja, return 11+ ff(10)
 Entrou na função com ff(10).
 
 
-
-
 Testa o if N = 5.
 
 Como N é 10, entra no "senão".
@@ -7043,8 +6929,6 @@ Como N é 6, entra no "senão".
 Vai retornar recursivamente return N + ff(N - 1), ou seja, return 6 + ff(5)
 
 Entrou na função com ff(5).
-
-
 
 
 Testa o if N = 5.
@@ -7139,8 +7023,6 @@ Portanto, vai executar 153 vezes.
 Gabarito: Letra B.
 
 Item. 9. (FGV - 2016 - SEE-PE) Analise o trecho de pseudocódigo a seguir.
-
-
 
 
 function f(a as integer, b as integer, c as
@@ -7323,8 +7205,6 @@ caso, se for professor, ele manda ingresso a 10 reais. Do contrário, o ingresso
 
 Note que, se ele for menor de 18, já tem ingresso de 10 reais.
 Agora, se não for, mas for estudante, ele tem ingresso a 10 reais.
-
-
 
 
 E, se não for estudante, ele tem ingresso a 10 reais também.
@@ -8877,8 +8757,6 @@ Enquanto X >= Y-1 faça, ou seja, enquanto 98 >= 21 faça.
 kWu
 
 
-
-
 ~ 05152001900 - Everton Murilo
 Vieira /
 
@@ -9686,8 +9564,6 @@ todo valor de num
 (linha 4):
 
 
-
-
 a) maior que 2, escreve Y.
 
 b) menor que 2, escreve X.
@@ -9739,8 +9615,6 @@ d) 15.
 e) 16.
 
 11 .(CESPE / CEBRASPE - 2021 - SEED-PR)
-
-
 
 
 Item. 1. var
@@ -9800,8 +9674,6 @@ d) pelo teorema de Morgan.
 e) pelo teorema da identidade.
 
 14.(CESPE / CEBRASPE - 2021 - PG-DF) O resultado do pseudocódigo precedente será 120.
-
-
 
 
 função avaliar( a, b )
@@ -9914,8 +9786,6 @@ proibido na
 programação estruturada.
 
 
-
-
 a) IF-THEN-ELSE
 
 b) CASE
@@ -9961,8 +9831,6 @@ variáveis A e B
 somente são visíveis quando a sub-rotina TROCA é executada.
 
 Item. 21. (CESPE / CEBRASPE - 2019 - TJ-AM]
-
-
 
 
 programa TROCA_VALORES
@@ -10351,8 +10219,6 @@ Item. 3. (FCC - 2019 - TRF-4) Considere o programa em pseudocódigo abaixo, que 
 erros.
 
 
-
-
 var varl=l, var2=2: inteiro
 funcaol()
 
@@ -10555,8 +10421,6 @@ e) após acessar o comando que exibe ACESSO OK a estrutura de repetição finali
 Item. 9. (FCC- 2017 - TRT 24a Região - MS - Técnico Judiciário - Tecnologia
 da Informação)
 Considere o algoritmo em pseudocódigo abaixo.
-
-
 
 
 var vl, v2, v3: inteiro
@@ -10927,8 +10791,6 @@ ter valor 0.
 Item. 17. (FCC - 2015 - DPE-SP) Considere o algoritmo a seguir, na forma de pseudocódigo:
 
 
-
-
 Var n, i, j , k,
 Var v: vetor[0.
 
@@ -11162,8 +11024,6 @@ devolva x
 ///////A/AAAAAÂA///////////////////AAAAA/Z///////////////////AAAZA/Z
 
 Considere agora o seguinte trecho de código que invoca a função f definida acima.
-
-
 
 
 escreva a

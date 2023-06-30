@@ -60,8 +60,6 @@ Capítulo. Desenvolvimento de Software - Estrutura de Dados (2).
 28) Estruturasde Dados - Bitmap - Lista de Questões.
 
 
-
-
 ESTRUTURA DE DADoS
 
 Pessoal, um programa pode ser visto como uma especificação formal da solução
@@ -184,8 +182,6 @@ podendo ser formado
 por outros TADs -, e esconde a efetiva implementação dessa estrutura de quem a manipula.
 
 1 Filas, Pilhas, Árvores, Deques, entre outros.
-
-
 
 
 VEToRES E MATRIZES
@@ -336,8 +332,6 @@ siga a
 = Não, é possível implementar pilhas com vetores também. Falso. (Gabarito: Letra D).
 
 
-
-
 LISTA ENCADEADA
 
 Também conhecida como Lista Encadeada Linear, Lista Ligada Linear ou Linked List,
@@ -393,8 +387,6 @@ ponteiro anterior do primeiro elemento aponta para o último
 elemento e o ponteiro posterior do último elemento aponta para o primeiro elemento.
 
 
-
-
 Observe que uma Lista Circular não tem um primeiro ou último nó natural. Precisamos,
 portanto, estabelecer
 um primeiro e um último nó por convenção. Uma convenção útil é permitir que o
@@ -428,8 +420,6 @@ ponteiros para os nós
 em ambos os lados. Dado um ponteiro para um elemento, pode-se acessar os elementos
 adjacentes e, dado
 um ponteiro para o último elemento, pode-se percorrer a lista em ordem inversa.
-
-
 
 
 Existem cinco operações básicas sobre uma lista encadeada: Criação, em que se cria a
@@ -505,8 +495,6 @@ elementos
 inicial e final não estejam ligados. Falso.
 
 
-
-
 b) Grafo
 
 Estrutura de dados com um conjunto de vértices ligados entre si por arestas. Falso.
@@ -552,8 +540,6 @@ possibilita que ela j
 
 3 No Acesso Sequencial: quanto mais ao fim, maior o tempo para acessar; no Acesso Direto: todos os
 elementos são acessados no mesmo tempo.
-
-
 
 
 a) uma fila.
@@ -916,8 +902,6 @@ subárvore, se houver)
 diretamente ao pai do nó removido. Vejamos:
 
 
-
-
 Já o último caso, nós podemos utilizar duas estratégias. Você pode escolher qual
 deseja utilizar em uma
 situação específica. Vejamos:
@@ -1250,8 +1234,6 @@ Esquerdo (Genial, né?). Neste caso, realizamos uma rotação à direita no Ramo
 imagem abaixo de forma a rebalancear a árvore.
 
 
-
-
 Já na imagem abaixo, a Árvore AVL tem sua propriedade violada no Nó 8. A altura da
 subárvore esquerda é
 maior do que a altura da subárvore direita em 2. Essa diferença de 2 é construída
@@ -1505,8 +1487,6 @@ de Adjacências. Existem
 só mais alguns detalhes.
 
 
-
-
 Em grafos não direcionados, as matrizes de adjacência são simétricas ao longo da
 diagonal principal - isto é,
 a entrada ay é igual à entrada ay. Matrizes de Adjacência de grafos direcionados, no entanto, não
@@ -1554,8 +1534,6 @@ I
 
 (CESPE/CEBRASPE - 2017 - TRF-1) Acerca dos conceitos de árvores e grafos, julgue o item que se
 segue. i
-
-
 
 
 A soma dos graus de todos os vértices de um grafo é sempre par.
@@ -2054,8 +2032,6 @@ Conforme vimos em aula, trata-se de pilha e árvore respectivamente.
 Gabarito: Letra D
 
 
-
-
 Item. 3. (CESPE - 2010 - DETRAN/ES - Analista de Sistemas) Um tipo abstrato de dados
 apresenta uma parte
 destinada à implementação e outra à especificação. Na primeira, são descritas, em forma
@@ -2125,8 +2101,6 @@ esconde a efetiva implementação dessa estrutura de quem a manipula.
 Conforme vimos em aula, definem classes de objetos com características semelhantes.
 
 
-
-
 Gabarito: Errado
 
 Item. 6. (CESPE - 2010 - BASA - Analista de Sistemas) A descrição dos parâmetros das operações e os
@@ -2192,8 +2166,6 @@ errada - infelizmente!).
 Gabarito: Letra E
 
 
-
-
 Item. 8. (FCC - 2009 - TRE/PI - Analista de Sistemas) Em relação a tipos abstratos de dados, é correto
 afirmar
 que:
@@ -2233,8 +2205,6 @@ Errado. Um TAD pode ser
 formado por outros TADs; (e) Correto. Escondem a implementação de quem os manipula.
 
 Gabarito: Letra E
-
-
 
 
 QUESTõES CoMENTADAS-VEToRES E MATRIZES -
@@ -2388,8 +2358,6 @@ são irrelevantes.
 Verdadeiro.
 
 Gabarito: Letra D
-
-
 
 
 (Profs. Paolla Ramos e Raphael L
@@ -2615,8 +2583,6 @@ AMAZONAS
 Gabarito: Letra E
 
 
-
-
 Item. 8. (FCC - 2012 - TJ-RJ) O algoritmo conhecido como busca binária é um algoritmo de desempenho
 ótimo
 para encontrar a posição de um item em
@@ -2690,8 +2656,6 @@ dizer que seu acesso é
 direto. Gabarito: E
 
 Gabarito: Letra E
-
-
 
 
 Item. 10. (CETAP - 2010 - AL-RR - Analista de Sistemas) Matrizes são estruturas de dados de
@@ -2832,8 +2796,6 @@ Este pseudocódigo
 a) exclui o valor contido na posição x do vetor v.
 
 
-
-
 b) insere o valor de x entre v[k-l] e v[k] no vetor v.
 
 c) exclui o valor contido na posição k do vetor v.
@@ -2856,8 +2818,6 @@ os valores, a partir da posição três, para incluir um novo valor, entre v[2] 
 v[k]).
 
 Gabarito: Letra B
-
-
 
 
 QUESTõES CoMENTADAS - LISTA ENCADEADA -
@@ -3106,8 +3066,6 @@ A lista é Vermelho - Azul - Amarelo - Verde.
 Gabarito: Letra E
 
 
-
-
 Item. 6. (FGV - 2021 - TJ-RO) Considere a lista duplamente encadeada exibida a seguir.
 
 (1, 3, 0, "Verde")
@@ -3280,8 +3238,6 @@ dados, um para o endereço do nó anterior, e outro para o endereço do nó post
 Comentários:
 
 
-
-
 Este é o conceito de lista duplamente encadeada, e não da lista encadeada. No caso, uma lista
 encadeada possui um
 endereço apenas para o nó posterior, e não para o anterior.
@@ -3357,8 +3313,6 @@ proporcional ao número de elementos nela armazenados. No entanto, não podemos 
 que os
 elementos armazenados na lista ocuparão um espaço de II contíguo, portanto, não temos
 acesso
-
-
 
 
 direto aos elementos da lista. Para que seja possível percorrer todos os elementos da
@@ -3516,8 +3470,6 @@ sobre a lista, como inserir novos dados, recuperar o tamanho da lista, entre out
 Comentários:
 
 
-
-
 Perfeito! Ele simplifica a implementação de algumas operações porque se guarda o
 endereço do primeiro e
 do último elemento de uma estrutura de dados de modo que o programador
@@ -3573,8 +3525,6 @@ listas
 podem ser dos seguintes tipos: de encadeamento simples, duplamente encadeadas e ordenadas.
 
 Comentários:
-
-
 
 
 Uma lista é, por natureza, heterogênea, i.e., seus elementos são compostos por tipos
@@ -3635,8 +3585,6 @@ trata de uma lista
 duplamente encadeada.
 
 Gabarito: Errado
-
-
 
 
 Item. 24. (CESPE - 2008 - HEMOBRÁS - Técnico de Informática) Uma estrutura do tipo lista, em que é
@@ -3764,8 +3712,6 @@ e) em ordem lógica e não, necessariamente, em ordem física.
 Comentários:
 
 
-
-
 A Ordem Física é sua disposição na memória do computador e a Ordem Lógica é como
 ela pode ser lida e
 entendida. Ora, a ordem em que ela se encontra na memória pouco importa,
@@ -3807,8 +3753,6 @@ para inclusão de
 elementos de ambas necessita do primeiro elemento (ou topo). Portanto, questão correta! Gabarito: C
 
 Gabarito: Correto
-
-
 
 
 QUESTõES CoMENTADAS - PILHAS - MULTIBANCAS
@@ -3886,8 +3830,6 @@ Falso.
 d) nó folha;
 
 Nó folha é o nó de uma árvore que não possui filhos. Não tem nada a ver com o enunciado. Falso.
-
-
 
 
 e) tabela hash.
@@ -3974,8 +3916,6 @@ I. Uma estrutura de dados heterogênea envolve a utilização de mais de um tipo
 Isso mesmo. Significa que cada elemento da estrutura de dados pode ter mais de um tipo básico de
 dado. Por exemplo,
 um inteiro, uma string, um booleano, etc. Verdadeiro.
-
-
 
 
 II. Uma lista encadeada pode ser definida como uma sequência de células em que cada
@@ -4144,8 +4084,6 @@ POP
 PUSH (20)
 
 
-
-
 PUSH (15)
 POP
 PUSH (19)
@@ -4222,8 +4160,6 @@ Pilha é uma estrutura de dados em que o último elemento a ser inserido será o
 retirado.
 
 Comentários:
-
-
 
 
 A pilha é uma estrutura de dados que usa o princípio LIFO (Last In, First Out), que significa
@@ -4308,8 +4244,6 @@ d) 6
 e) 2
 
 Comentários:
-
-
 
 
 Precisamos definir os comandos.
@@ -4451,8 +4385,6 @@ aumentar e diminuir durante sua existência.
 b) Os elementos na pilha são sempre removidos na mesma ordem em que foram inseridos.
 
 
-
-
 c) Uma pilha suporta apenas duas operações básicas, tradicionalmente denominadas push
 (insere um
 novo elemento no topo da pilha) e pop (remove um elemento do topo da pilha).
@@ -4520,8 +4452,6 @@ Comentários:
 E aí, já está automático para responder? Tem que ser automática: Pilha (LIFO) e Fila (FIFO).
 
 Gabarito: Letra B
-
-
 
 
 Item. 20. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da
@@ -4596,8 +4526,6 @@ d) que pode ser implementada somente por meio de listas.
 e) cujo acesso aos seus elementos segue a lógica LIFO, apenas.
 
 
-
-
 Comentários:
 
 (a) Não, somente LIFO; (b) Não, somente pelo Topo; (c) Não, pode ser por listas; (d)
@@ -4664,8 +4592,6 @@ d) Grafo
 e) Tabela de dispersão
 
 
-
-
 Comentários:
 
 Também conhecida como Lista LIFO (Last In First Out), basta lembrar de uma pilha de
@@ -4717,8 +4643,6 @@ escolhida é o topo da
 pilha. Item certo; (e) na verdade essas características são das filas. Item errado.
 
 Gabarito: Letra D
-
-
 
 
 Item. 1. (IBFC - 2022 - AFEAM) Assinale, das alternativas abaixo, a única que identifica
@@ -4966,8 +4890,6 @@ excluídos da outra.
 Comentários:
 
 
-
-
 Fila é uma estrutura de dados que segue a lógica FIFO (first-in first-out) armazena elementos de
 forma sequencial,
 permitindo a inserção de novos elementos no final da estrutura e a remoção de elementos do início.
@@ -5047,8 +4969,6 @@ d) fila simples.
 e) árvore binária.
 
 Comentários:
-
-
 
 
 No Round-Robin, os processos são organizados em uma estrutura de dados. Fatias de tempo da CPU são
@@ -5132,8 +5052,6 @@ Certo!
 Gabarito: Letra E
 
 Item. 11. (FCC - 2013 - TRE-SP) No que se refere a estruturas de dados é INCORRETO afirmar:
-
-
 
 
 a) Numa fila dupla, os elementos podem ser inseridos e removidos de qualquer um dos extremos da
@@ -5222,8 +5140,6 @@ Dessa forma, resgata-se o último estado válido e, não, o primeiro.
 Gabarito: Errado
 
 
-
-
 Item. 13. (CESPE - 2012 - TST - Analista de Sistemas - A) As pilhas e as filas são estruturas de dados
 essenciais
 para os sistemas computacionais. É correto afirmar que a fila é conhecida como lista LIFO - Last In
@@ -5280,8 +5196,6 @@ Comentários:
 Exato! Essa é a definição de fila: insere-se por um extremo e remove-se por outro.
 
 Gabarito: Correto
-
-
 
 
 Item. 18. (FCC - 2011 - TRT - 19- Região (AL) - Analista Judiciário - Tecnologia da Informação) FIFO
@@ -5347,8 +5261,6 @@ Perfeito, são todos exemplos de estruturas de dados!
 Gabarito: Correto
 
 
-
-
 Item. 22. (CESPE - 2004 - SES/PA - Analista de Sistemas) Uma estrutura mais geral que as pilhas e
 filas é o deque,
 em que as inserções, retiradas e acessos são permitidos em ambas as extremidades.
@@ -5406,8 +5318,6 @@ Comentários:
 Perfeito! É assim que funciona a prioridade em conjunto com filas. Gabarito: C
 
 Gabarito: Correto
-
-
 
 
 Item. 26. (CESPE - 2004 - STJ - Analista de Sistemas) A seguir, está representada corretamente uma
@@ -5481,8 +5391,6 @@ exemplo, suportam alguns métodos essenciais, como o:
 a) enqueue(x), que insere o elemento x no fim da fila, sobrepondo o último elemento.
 
 
-
-
 b) dequeue(), que remove e retorna o elemento do começo da fila; um erro ocorrerá
 se a fila estiver
 vazia.
@@ -5545,8 +5453,6 @@ essas duas estruturas. Bacana?
 Gabarito: Letra C
 
 
-
-
 QUESTõES CoMENTADAS - ESTRUTURAS DE DADoS -
 
 ÁRVoRE #42 - MULTIBANCAS
@@ -5592,7 +5498,6 @@ Gabarito: Letra B
 Item. 2. (FGV - 2022 - SEMSA Manaus) Numa estrutura de dados do tipo Árvore B, onde cada nó não raiz
 pode
 conter entre d e 2.d chaves, a complexidade do algoritmo de busca é da ordem
-
 
 
 * 05152001900 - Everton
@@ -5731,8 +5636,6 @@ Thomas H. Cormen et al. Algoritmos teoria
 e prática. Editora Campus, v. 2, 2002. p. 207.
 
 De acordo com a figura anterior, o procedimento
-
-
 
 
 CONSULTA (x)
@@ -5890,8 +5793,6 @@ Comentários:
 O limite superior da profundidade da árvore é d < 1 + log[d/2]((N+l)/2), sendo que:
 
 
-
-
 * d = a ordem da árvore, ou seja, o número máximo de chaves numa página não folha. Neste caso,
 d = 20.
 
@@ -5974,8 +5875,6 @@ d < 1 + log[s](15000,5)
 
 Vamos calcular log[8](15000,5) multiplicando 8 por 8 até o valor ultrapassar 15.000,5:
 8*8 = 64 (2x)
-
-
 
 
 64*8 = 512 (3x)
@@ -6118,8 +6017,6 @@ Gabarito: Letra D
 
 Item. 13. (FCC - 2019 - TRF-4) Determinada estrutura de dados foi projetada para minimizar o número de
 acessos à memória secundária. Como o número de acessos à memória secundária depende
-
-
 
 
 diretamente da altura da estrutura, esta foi concebida para ter uma altura inferior às
@@ -6297,8 +6194,6 @@ Deques são listas, e não pilhas, que permitem inserir e remover dados em ambas
 Falso.
 
 
-
-
 c) árvores n-árias, estruturas de dados lineares que não são adequadas para representar dados
 que devem ser
 dispostos de maneira hierárquica, como diretórios criados em um computador.
@@ -6445,8 +6340,6 @@ sendo uma
 principal e a outra secundária.
 
 
-
-
 Comentários:
 
 Não, uma árvore possui somente um nó raiz!
@@ -6502,8 +6395,6 @@ escolha de
 estruturas de dados em memória é especialmente relevante. Dentre outras classificações,
 é possível
 agrupar essas estruturas em lineares e não lineares, conforme a quantidade de sucessores e
-
-
 
 
 antecessores que os elementos da estrutura possam ter. Assinale a opção que
@@ -6632,8 +6523,6 @@ Logo, uma árvore pode ser percorrida de modo pré-fixado, in-fixado e pós-fixa
 Gabarito: Correto
 
 
-
-
 Item. 31. (FCC - 2016 - Prefeitura de Teresina - PI - Analista Tecnológico - Analista de Suporte
 Técnico)
 Considerando a estrutura de dados denominada árvore,
@@ -6700,8 +6589,6 @@ Letra C (11( 10(9(8))(14(13)(15))) está quase certa, mas faltou um parêntese:
 Gabarito: Anulada
 
 
-
-
 Item. 33. (CESGRANRIO - 2012 - PETROBRÁS - Analista de Sistemas) Qual figura representa uma árvore AVL?
 
 a)
@@ -6739,8 +6626,6 @@ da esquerda;
 (e) Correto. Trata-se de árvore binária de busca e está completamente balanceada -
 requisitos para ser
 definida como uma Árvore AVL.
-
-
 
 
 Gabarito: Letra E
@@ -6790,8 +6675,6 @@ b) árvore binária
 c) pilha
 
 d) árvore AVL
-
-
 
 
 e)deque
@@ -6859,8 +6742,6 @@ e) 2
 Comentários:
 
 
-
-
 Galera, vocês precisam saber uma coisa: uma minoria dos autores considera que as
 folhas de uma árvore
 possuem altura 1 (sendo que a maioria considera que a altura de uma folha é 0) - a
@@ -6884,8 +6765,6 @@ eu colocar mais um abaixo de 0003, ficará desbalanceado:
 Vejam na imagem acima! Coloquei 0003 e não desbalanceou; coloquei 0002, desbalanceou e
 na última eu
 tive que rebalancear. Vamos inserir o último:
-
-
 
 
 Pronto! Com seis nós, a altura máxima que atingiremos será 3. Portanto, a resposta
@@ -6924,8 +6803,6 @@ Correto, uma árvore com três nós e altura igual a três não pode estar balan
 Errado, uma árvore com seis nós e altura igual a três também está balanceada. Gabarito: D.
 
 Gabarito: Letra D
-
-
 
 
 Item. 39. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas) Após a inserção de um nó, é
@@ -7246,8 +7123,6 @@ encontramos o 33; (III) Correto. Trata-se de um Árvore Binária sem filhos.
 Gabarito: Letra E
 
 
-
-
 Item. 47. (CESPE - 2010 - PETROBRÁS - Analista de Sistemas) No sistema de dados do
 Departamento de
 Recursos Humanos de uma grande empresa multinacional, os registros de
@@ -7285,8 +7160,6 @@ Ramo 18-23. O resultado
 é mostrado a imagem abaixo e é na inserção do nó 15 que devemos fazer a primeira rotação.
 
 Gabarito: Letra D
-
-
 
 
 Item. 48. (CESPE - 2014 - TJ/SE - Analista de Sistemas) Existem dois vetores, chamados A
@@ -7366,8 +7239,6 @@ i=0, , N-l. Bacana?
 Gabarito: Letra A
 
 
-
-
 QUESTõES CoMENTADAS - GRAFoS - MULTIBANCAS
 
 Item. 1. (CESPE/CEBRASPE - 2017 -TRF-1) Acerca dos conceitos de árvores e grafos, julgue o item que se
@@ -7424,8 +7295,6 @@ os vértices D ou M. E existem caminhos mínimos entre eles, por exemplo:
 * JBLCM: tamanho 4
 
 Existem caminhos maiores, se eu quiser fazer, por exemplo:
-
-
 
 
 * ABKLCD: tamanho 5
@@ -7579,8 +7448,6 @@ seu sucessor, e cada elemento está associado a somente um antecessor e a vário
 Comentários:
 
 
-
-
 Em um grafo, cada vértice pode estar ligado a vários outros vértices por meio de arestas. Porém, os
 vértices em si não
 possuem relação de antecessor e sucessor. As arestas podem ou não ter direção -
@@ -7717,8 +7584,6 @@ As demais alternativas estão incorretas.
 Gabarito: Letra B
 
 
-
-
 Item. 10. (FCC - 2017 - ARTESP) Considere a estrutura abaixo que representa um problema de rotas em
 pequena
 escala.
@@ -7775,8 +7640,6 @@ Gabarito: Letra C
 Item. 11. (FCC - 2018 - DPE-AM) Considere o grafo abaixo.
 
 
-
-
 A complexidade ciclomático é uma métrico que mede o complexidade de um determinado
 módulo (uma classe, um
 método, uma função etc.), a partir da contagem do número de cominhos independentes que
@@ -7822,8 +7685,6 @@ Ciclomática de
 McCabe, com fundamentação na teoria dos grafos. Essa técnica define uma métrica de
 software que
 fornece uma medida quantitativa da complexidade lógica de um programa, apresentando um limite
-
-
 
 
 superior para a quantidade de casos de testes de software que devem ser conduzidos.A Complexidade
@@ -7884,8 +7745,6 @@ Adjacência simétrica é uma
 representação utilizada em grafos não-direcionados, logo a questão já está errada. Gabarito: E
 
 
-
-
 Item. 14. (FCC - 2013 - MPE/SE - Analista do Ministério Público) Considere:
 
 I. Estrutura de dados que possui uma sequência de células, na qual cada célula contém um objeto de
@@ -7939,8 +7798,6 @@ A = {(4, 2), (3, 1), (5, 1), (6, 2), (5, 3)}
 e) V = { 2, 4, 1, 3, 6, 5 }
 
 A = {(4, 2), (3, 1), (5, 2), (6, 3), (5, 3)}
-
-
 
 
 Comentários:
@@ -8010,8 +7867,6 @@ finais de
 ruas e cujas arestas sejam os trechos de ruas sem cruzamentos.
 
 
-
-
 Comentários:
 
 Um grafo simples é aquele que não contém laços. Um grafo vazio é aquele que contém
@@ -8074,8 +7929,6 @@ Um grafo é dito conexo ou conectado quando existir pelo menos um caminho entre 
 par de vértices.
 Caso contrário, ele será dito desconexo, isto é, se há pelo menos um par de vértices
 que não esteja ligado a
-
-
 
 
 nenhuma cadeia (caminho). Vejam a imagem do grafo que eu desenhei lá em
@@ -8145,8 +7998,6 @@ que conectam pares de vértices, conforme especificado em Al.
 Comentários:
 
 A questão está quase perfeita, mas ela possui um deslize: não existe a aresta (A,B) - seria (C,D).
-
-
 
 
 Gabarito: Errado
@@ -8291,7 +8142,6 @@ Conforme vimos em aula, um grafo com arcos numerados ou com peso são chamados G
 ou Grafos Valorados ou Grafos Pesados.
 
 Gabarito: Letra D
-
 
 
 * 05152001900 - Everton Murilo
@@ -8693,8 +8543,6 @@ e)
 101111
 
 
-
-
 102111
 
 105111
@@ -9008,8 +8856,6 @@ Verdadeiro.
 Gabarito: Letra D
 
 
-
-
 (Profs. Paolla Ramos e Raphael L
 
 Item. 4. (FUNDATEC - 2022 - Prefeitura de Restinga Sêca - RS) Assinale a estrutura de dados linear e
@@ -9236,8 +9082,6 @@ AMAZONAS
 Gabarito: Letra E
 
 
-
-
 Item. 8. (FCC - 2012 - TJ-RJ) O algoritmo conhecido como busca binária é um algoritmo de desempenho
 ótimo
 para encontrar a posição de um item em
@@ -9311,8 +9155,6 @@ dizer que seu acesso é
 direto. Gabarito: E
 
 Gabarito: Letra E
-
-
 
 
 Item. 10. (CETAP - 2010 - AL-RR - Analista de Sistemas) Matrizes são estruturas de dados de
@@ -9453,8 +9295,6 @@ Este pseudocódigo
 a) exclui o valor contido na posição x do vetor v.
 
 
-
-
 b) insere o valor de x entre v[k-l] e v[k] no vetor v.
 
 c) exclui o valor contido na posição k do vetor v.
@@ -9477,8 +9317,6 @@ os valores, a partir da posição três, para incluir um novo valor, entre v[2] 
 v[k]).
 
 Gabarito: Letra B
-
-
 
 
 QUESTõES CoMENTADAS - LISTA ENCADEADA -
@@ -9645,8 +9483,6 @@ d) uma pilha.
 Item. 9. (CESPE/CEBRASPE - 2018 - BNB)
 
 
-
-
 Uma lista encadeada é basicamente uma estrutura de dados em lista em que cada nó possui três
 campos: um para os
 dados, um para o endereço do nó anterior, e outro para o endereço do nó posterior.
@@ -9804,8 +9640,6 @@ para o elemento
 imediatamente anterior.
 
 
-
-
 Item. 23. (CESPE - 2009 - TCE-AC - Analista de Controle Externo - Processamentos de Dados) Uma lista
 encadeada
 é uma coleção de nodos que, juntos, formam uma ordem linear. Se é possível os nodos se deslocarem
@@ -9878,8 +9712,6 @@ e) em ordem lógica e não, necessariamente, em ordem física.
 Item. 32. (FCC - 2010 - DPE/SP - Analista de Sistemas) Uma estrutura de dados que possui
 três campos: dois
 ponteiros e campo de informação denomina-se:
-
-
 
 
 a) lista encadeada dupla.
@@ -10016,8 +9848,6 @@ Falso.
 d) nó folha;
 
 Nó folha é o nó de uma árvore que não possui filhos. Não tem nada a ver com o enunciado. Falso.
-
-
 
 
 e) tabela hash.
@@ -10184,8 +10014,6 @@ mesma. Dessa
 forma, qualquer elemento só pode ser removido quando todos os elementos inseridos após
 ele
 também forem removidos. Essa descrição caracteriza uma estrutura de dados conhecida como:
-
-
 
 
 a) Lista duplamente encadeada.
@@ -10356,8 +10184,6 @@ Portanto, 3 /19.
 Gabarito: Letra C
 
 
-
-
 Item. 9. (CESPE/CEBRASPE - 2018 - ABIN) Julgue o item subsequente, relativo à lógica de programação.
 
 Pilha é uma estrutura de dados em que o último elemento a ser inserido será o primeiro a ser
@@ -10515,8 +10341,6 @@ que é introduzido torna-
 se o elemento do topo, logo... questão correta!
 
 
-
-
 Bem, esse foi o Gabarito Preliminar, mas a banca mudou de opinião e, no Gabarito Definitivo,
 permaneceu
 como errada. E a justificativa dela foi: "A ausência de especificação do tipo de lista no item
@@ -10582,8 +10406,6 @@ Item. 17. (FCC - 2012 - TRE/CE - Analista de Sistemas) Sobre pilhas é correto a
 a) Uma lista LIFO (Last-ln/First-Out) é uma estrutura estática, ou seja, é uma
 coleção que não pode
 aumentar e diminuir durante sua existência.
-
-
 
 
 b) Os elementos na pilha são sempre removidos na mesma ordem em que foram inseridos.
@@ -10733,8 +10555,6 @@ c) que pode ser implementada somente por meio de vetores.
 d) que pode ser implementada somente por meio de listas.
 
 
-
-
 e) cujo acesso aos seus elementos segue a lógica LIFO, apenas.
 
 Comentários:
@@ -10801,8 +10621,6 @@ c) Pilha
 d) Grafo
 
 
-
-
 e) Tabela de dispersão
 
 Comentários:
@@ -10856,8 +10674,6 @@ escolhida é o topo da
 pilha. Item certo; (e) na verdade essas características são das filas. Item errado.
 
 Gabarito: Letra D
-
-
 
 
 GABARITo
@@ -11141,8 +10957,6 @@ d) matriz quadrada.
 e) cubo.
 
 
-
-
 Item. 19. (ESAF - 2010 - CVM - Analista de Sistemas - prova 2) Uma fila é um tipo de lista linear em
 que:
 
@@ -11215,8 +11029,6 @@ representa uma
 exclusão de elemento) e considerando também que a fila estava inicialmente vazia:
 
 
-
-
 Push 3, Push 5, Pop 3, Push 7, Pop 5, Push 9, Push 8
 
 Após a execução dessa sequência de comandos, o conjunto de elementos que resulta na fila é:
@@ -11266,8 +11078,6 @@ c) deque.
 d) fila circular.
 
 e) pilha
-
-
 
 
 GABARITo
@@ -11831,8 +11641,6 @@ Analista de Suporte Técnico)
 Considerando a estrutura de dados denominada árvore,
 
 
-
-
 a) a sua altura é definida como a profundidade média de todos os seus vértices.
 
 b) um vértice com um ou dois filhos é denominado folha.
@@ -11913,8 +11721,6 @@ para cada
 nó da árvore, a diferença entre as alturas das suas sub- árvores (direita e esquerda) sempre será:
 
 
-
-
 a) menor ou igual a 2.
 
 b) igual a 0 ou -1.
@@ -11979,8 +11785,6 @@ formado por
 {-2, -1, 0, +1, +2}.
 
 Analisando-se as afirmações acima, conclui-se que:
-
-
 
 
 a) as duas afirmações são verdadeiras, e a segunda justifica a primeira.
@@ -12052,8 +11856,6 @@ c) V-F
 d) V-V
 
 
-
-
 Item. 43. (CESGRANRIO - 2010 - PETROBRÁS - Analista de Sistemas) Uma sequência desordenada
 de números
 armazenada em um vetor é inserida em uma árvore AVL. Após a inserção nesta árvore, é
@@ -12112,8 +11914,6 @@ III - A árvore representada na figura (II) acima é uma árvore binária, apesa
 filhos.
 
 É (São) correta(s) APENAS a(s) afirmativa(s):
-
-
 
 
 a) I.
@@ -12180,8 +11980,6 @@ c) estão ordenados e não existe mais uma propriedade que relacione A[i] e B[i]
 d) não estão ordenados e A[i] < B[i], para todo i=0, , N-l.
 
 e) não estão ordenados e A[i] > B[i], para todo i=0, , N-l.
-
-
 
 
 GABARITo
@@ -13084,8 +12882,6 @@ e)
 105 111
 
 106 011
-
-
 
 
 GABARITo

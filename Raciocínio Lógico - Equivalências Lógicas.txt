@@ -1,18 +1,5 @@
 Capítulo. Raciocínio Lógico - Equivalências Lógicas.
 
-SERPRO - Raciocínio Lógico - 2023
-
-(Pós-Edital)
-
-Autor:
-
-Equipe Exatas Estratégia
-
-Concursos
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Índice
 
@@ -27,11 +14,6 @@ Equipe Exatas Estratégia Concursos
 5) Lista de Questões - Equivalências Lógicas - Cebraspe
 
 6) Lista de Questões - Introdução à Álgebra de Proposições - Cebraspe
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 APRESENTAçÃo DA AULA
@@ -59,11 +41,6 @@ Conte comigo nessa caminhada =)
 
 Prof. Eduardo Mocellin.
 (ÍS) @edu.mocellin
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 EQUIVALÊNCIAS LóGICAS
@@ -127,12 +104,6 @@ Para negar "ou": negar ambas as proposições e trocar por "e".
 ~(p<->q) = ( pA~q) V (qA~p)
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Outras equivalências
 
 |Equivalência do conectivo bicondicional|
@@ -155,11 +126,6 @@ antecedente.
 Quanto o termo comum é o antecedente, a equivalência apresenta uma conjunção no consequente.
 
 (p->q)A(p->r) = p->(qAr)
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 O que é uma equivalência lógica
@@ -209,11 +175,6 @@ Passo 1: determinar o número de linhas da tabela-verdade.
 
 Número de linhas = 2" = 22 = 4.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 'i
 
@@ -240,12 +201,6 @@ consequente é falso.
 
 A conjunção (p->q)A(q-»p)
 (q—>p) for verdadeiro.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 i Para a bicondicional, já sabemos que ela será verdadeira quando p e q forem ambos
@@ -276,12 +231,6 @@ p-O-q <=> (p—>q)A(q—>p)
 OU
 
 p^>q = (p—»q )A(q—>p)
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Equivalências fundamentais
@@ -327,11 +276,6 @@ então hoje não choveu".
 
 Em resumo: p->q não é equivalente a ~p->~q.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Mostre que são equivalentes p-»q e ~q-»~p.
 
@@ -349,12 +293,6 @@ Por fim, podemos incluir na
 assumidos por ~q-»~p.
 
 Observe que os valores lógicos são exatamente iguais e, portanto, p->q e ~q->~p são equivalentes.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Vamos resolver dois exercícios envolvendo essa equivalência que acabamos de aprender.
@@ -402,12 +340,6 @@ A proposição equivalente pode ser descrita por:
 ~o-»~u: "Se [não há fogo], então [não há fumaça]."
 
 Gabarito: Letra C.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 í (Pref. Bagé/2020) Uma proposição equivalente de "Se a prova está difícil, então
@@ -463,12 +395,6 @@ a->~p: "Se [Antônio for aprovado no concurso], então [a prova não está difí
 : Gabarito: Letra B.
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 INDO MAIS
 
 FUNDO!
@@ -519,12 +445,6 @@ p: "A prova está difícil."
 = a: "Antônio não será aprovado."
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 A proposição original é descrita por p-»a:
 
 p->a: "Se [a prova está difícil], então [Antônio não será aprovado no concurso]."
@@ -566,11 +486,6 @@ Observe que a frase seguinte é equivalente:
 
 ~pVq: "[Hoje não choveu] ou [João fez a barba]."
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Mostre que são equivalentes p-»q e ~pVq
 
@@ -604,12 +519,6 @@ Observe que os valores lógicos são exatamente iguais e, portanto, p->q e ~pVq 
 equivalentes.
 
 p->q = ~pVq
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Vamos resolver duas questões que utilizam essa equivalência.
@@ -673,11 +582,6 @@ A dupla negação de uma proposição corresponde à proposição original. Fica
 
 : ~C"*g = ~g-»C
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 A proposição equivalente pode ser escrita por:
 
@@ -735,11 +639,6 @@ portanto, aplicar a seguinte
 equivalência fundamental:
 
 p-»q = ~pVq
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 A equivalência é realizada do seguinte modo:
@@ -799,11 +698,6 @@ chamar ;
 realizamos uma disjunção inclusiva com o segundo termo.
 
 (~P)->q = ~(~p)Vq
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 A dupla negação de uma proposição simples é equivalente à própria proposição simples,
@@ -867,11 +761,6 @@ A equivalência obtida é descrita por:
 ~nw~o: "Se [os cantadores da madrugada não saíram hoje], então [eu não ouço bem]."
 j Gabarito: Letra E.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 DESPENCA NA
 
@@ -927,12 +816,6 @@ par, então o número não é par.
 ; Comentários:
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Sejam as proposições:
 
 p: "Um número inteiro é par."
@@ -960,11 +843,6 @@ Esse resultado pode ser lido como:
 inteiro não for par), então (o seu quadrado não é par)]."
 
 Gabarito: Letra A
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Equivalências provenientes da negação de proposições
@@ -1005,12 +883,6 @@ A prova dessa equivalência corresponde à tabela-verdade abaixo.
 Como exemplo, a dupla negação "Não é verdade que [Joãozinho não comeu o chocolate]" é
 equivalente a
 "Joãozinho comeu o chocolate".
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 ATENÇÃO
@@ -1064,12 +936,6 @@ proposições
 = simples de maneira alternada.
 
 = Para fins de comparação, vamos incluir ambas as proposições em uma mesma tabela.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 p q ~p ~q pf\q ~(p^q) ~py~q
@@ -1131,12 +997,6 @@ equivalentes.
 ~ (pAq) =~p V~q
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Negação da disjunção inclusiva
 
 De modo semelhante à negação da conjunção, para negarmos a disjunção inclusiva pVq,
@@ -1175,12 +1035,6 @@ Para negar "e": negar ambas as proposições e trocar por "ou".
 Para negar "ou": negar ambas as proposições e trocar por "e".
 
 ~ (pVq) =~p A~q
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 (SSP AM/2022) Considere a afirmação:
@@ -1235,11 +1089,6 @@ Logo, a negação requerida pode ser descrita por:
 
 Gabarito: Letra B.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 (SEMSA Manaus/2022) Considere a sentença:
 
@@ -1293,11 +1142,6 @@ Logo, a negação requerida pode ser descrita por:
 
 Gabarito: Letra D.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 (TRT 9/2022) A negação da afirmação: "não ficou doente e vai ficar em casa" é:
 
@@ -1346,12 +1190,6 @@ Logo, a negação requerida pode ser descrita por:
 dv~c: "[Ficou doente] ou [não vai ficar em casa]."
 
 Gabarito: Letra C.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 (SAAE/2018) Considere a afirmação:
@@ -1412,12 +1250,6 @@ Morgan e, além disso, a dupla negação de s corresponde à proposição origin
 Gabarito: Letra A.
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Negação da condicional
 
 A negação de p-»q é realizada por meio da seguinte equivalência:
@@ -1472,12 +1304,6 @@ obtemos:
 ~ÍP^q) = ~(~P)A~q
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 i A negação da negação de uma proposição é a própria proposição original. Portanto:
 
 ~(p->q) E pA~q
@@ -1522,12 +1348,6 @@ f: "O Flamengo perde."
 A sentença original pode ser descrita por j-»f:
 
 j—»f: "Se [João vai ao jogo], então [o Flamengo perde]".
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 i Para realizar a negação de uma condicional, usa-se a equivalência ~(p-»q)
@@ -1587,11 +1407,6 @@ i equivalência, devemos seguir o seguinte procedimento:
 i * Troca-se a condicional (->) pela conjunção (A); e
 
 : * Nega-se o segundo termo.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 .......................................... .........
@@ -1664,12 +1479,6 @@ Assim, temos:
 ~(pVq) E p«-»q
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 ATENÇÃO
 
 DECORE!
@@ -1730,11 +1539,6 @@ esquerdo da equivalência
 
 ~(poq) = (pYq)
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Podemos ainda negar a proposição bicondicional, negando apenas uma das suas proposições simples.
 Veja:
@@ -1785,12 +1589,6 @@ conjunção e
 disjunção inclusiva.
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 ATENÇÃO
 
 DECORE!
@@ -1804,11 +1602,6 @@ As quatro formas mais comuns de negação da bicondicional são:
 ~ (p«*q) E q)
 
 ~ (p<->q) E (pA~ q) V (qA~p)
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Outras equivalências
@@ -1842,12 +1635,6 @@ Equivalência da negação do bicondicional ~(P<->q): nega-se apenas um dos term
 ~ (p<->q) = (~ p)<->q
 
 ~ (p<—>q) = po( q)
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 ATENÇÃO
@@ -1916,12 +1703,6 @@ p<H>q E (~p)o(~q)
 : Gabarito: Letra D.
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Negações da conjunção para a forma condicional
 
 Existem duas maneiras de se negar a conjunção de modo que ela adquira a forma condicional:
@@ -1984,11 +1765,6 @@ A dupla negação ~(~q) equivale à proposição original q. Logo:
 
 ~(pAq) E q ->~p
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 ATENÇÃO
 
@@ -2040,12 +1816,6 @@ Aplicando essas equivalências para o caso em questão, ficamos com:
 (ii) . ~(cA~f) = c^~(~f)
 
 (iii) . ~(cA~f) = ~f-> ~c
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Como uma dupla negação corresponde à proposição original, nossas equivalências ficam assim:
@@ -2100,12 +1870,6 @@ c-»f: "Se [corro], então [fico cansado]."
 Gabarito: Letra A.
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Conjunção de condicionais
 
 Existem duas equivalências que de vez em quando aparecem nas provas:
@@ -2126,12 +1890,6 @@ consequente.
 (p-»q)A(p->r) = p->(qAr)
 
 Podemos verificar as duas equivalências por tabela-verdade:
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 ..........................................
@@ -2209,11 +1967,6 @@ atribuídos às proposições
 
 j simples que as compõem.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Para o caso em questão, podemos montar a seguinte tabela-verdade:
 
@@ -2244,12 +1997,6 @@ Vamos agora praticar algumas questões gerais sobre o que aprendemos.
 HORA DE
 
 PRATICAR!
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 (CBM AM/2022) Gabriel comprou a camiseta do Nacional-AM, e guardou para uma ocasião
@@ -2308,12 +2055,6 @@ temos a seguinte equivalência:
 Logo, a negação requerida pode ser descrita por:
 
 ~vV(~jA~b): "[Não vestiu a camiseta] ou [(não foi ao jogo) e (não foi ao bar)]."
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Veja que essa negação é apresentada na alternativa E, que a representa a expressão "e não" por
@@ -2378,11 +2119,6 @@ me alimentei)]."
 
 = Gabarito: Letra C.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 (DEPEN/2021) Com relação a lógica proposicional, julgue o item a seguir.
 
@@ -2436,19 +2172,8 @@ representada por sua forma equivalente ~(pA~q). O gabarito, portanto, é CERTO.
 
 Gabarito: CERTO.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 ÁLGEBRA DE PROPOSIÇÕES
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 A álgebra de proposições trata do uso sequencial de equivalências lógicas e de outras
@@ -2495,12 +2220,6 @@ pYq = qVp
 p<->q = q<->p
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 EXEMPLIFICANDO
 
 Suponha que uma questão peça para você a negação da seguinte condicional:
@@ -2544,12 +2263,6 @@ muitas vezes a banca
 altera a ordem das proposições nas alternativas justamente para tentar esconder a
 resposta. Vamos a um
 exemplo.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 (TJ SP/2015) Uma afirmação equivalente à afirmação: 'Se Marcondes é físico ou Isabela
@@ -2610,12 +2323,6 @@ II'Se [(Natália é advogada) ou (Rui não é médico)], então [(Marcondes não
 economista)]"
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 i Veja que a letra E apresenta uma frase muito parecida. Essa alternativa utilizou a propriedade
 comutativa
 
@@ -2665,12 +2372,6 @@ Observe que a propriedade associativa não mistura em uma mesma expressão o con
 "e" e o conectivo "ou"
 
 Vamos a um exemplo que mostra uma utilidade para a propriedade associativa.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Mostre que pV(qV~p) é uma tautologia.
@@ -2738,11 +2439,6 @@ podemos escrever:
 
 j Gabarito: Letra A.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Propriedade distributiva
 
@@ -2791,12 +2487,6 @@ podemos colocar o
 termo "pv" em evidência.
 
 (p\/jq) A (pVr) = pV(qA r)
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 (SEFAZ SC/2010) Na questão, considere a notação -X para a negação da proposição X.
@@ -2864,12 +2554,6 @@ k: "Sueli pratica corrida."
 corrida)]."
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Logo, temos a seguinte representação:
 
 sA(gVk)
@@ -2928,12 +2612,6 @@ Aplicando a propriedade distributiva em "PV", temos:
 PV[QA~R] = [PVQ] A [PV~R]
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 í Note, portanto, que a partir de PV[~(Q->R)] chegamos em [PVQ]A[PV~R]. Logo,
 as proposições são
 
@@ -2984,12 +2662,6 @@ Note que p A t é equivalente a p porque se trata de uma conjunção em que um t
 * Se p for falso, teremos F A V, que é uma conjunção falsa.
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Além disso, p A c é equivalente a c porque se trata de uma conjunção em que temos
 um termo sempre falso
 
@@ -3015,12 +2687,6 @@ sempre falso (c). Isso significa que o valor de pVc é consequência somente do 
 * Se p for verdadeiro, teremos V V F, que é uma disjunção verdadeira; e
 
 * Se p for falso, teremos F V F, que é uma disjunção falsa.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Para fins de memorização, observe o análogo da teoria dos conjuntos:
@@ -3053,12 +2719,6 @@ A disjunção inclusiva de um termo com uma contradição corresponde ao própri
 (pAq)
 
 ; Gabarito: Letra B.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Propriedade da absorção
@@ -3115,12 +2775,6 @@ d) ~(P Aq).
 = Gabarito: Letra A.
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Propriedade da idempotência
 
 A propriedade da idempotência é representada por duas equivalências:
@@ -3166,12 +2820,6 @@ inclusiva e trocando
 Ficamos com:
 
 [PA(~Q)]A(~Q)
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Pela propriedade associativa, podemos escrever:
@@ -3230,12 +2878,6 @@ uso dos parênteses que
 indicam uma ordem diferente de se executar o operador "ou". Utilizando a propriedade
 associativa do lado
 direito da bicondicional, podemos reescrever:
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 (~pV~q) V r <-> (~pV ~q) V r
@@ -3297,11 +2939,6 @@ PV~P é uma tautologia, logo:
 
 tVQ
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 í Observe que t V Q é a disjunção inclusiva de um termo que é sempre verdade com
 a proposição Q. Portanto, i
@@ -3342,12 +2979,6 @@ inclusiva é sempre verdadeira
 (propriedade da identidade para a disjunção inclusiva). Logo, trata-se de uma tautologia.
 
 Gabarito: CERTO.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 QUESTõES CoMENTADAS - CEBRASPE
@@ -3396,11 +3027,6 @@ A proposição equivalente pode ser escrita por:
 m-»~p: "Se [Maria está mentindo], então [Paulo não está mentindo]."
 
 Gabarito: CERTO.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 2.(CESPE/PM TO/2021) A proposição "Se André é culpado então Bruno não é suspeito" é equivalente à
@@ -3463,12 +3089,6 @@ b-»~a: "Se [Bruno é suspeito], então [André é inocente]."
 Gabarito: Letra A.
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 3.(CESPE/SEFAZ AL/2020) P: "Se o trabalho dos servidores públicos que atuam
 no setor Alfa fica
 prejudicado, então os servidores públicos que atuam nesse setor padecem.".
@@ -3519,12 +3139,6 @@ seres humanos saberiam se comportar".
 Comentários:
 
 Sejam as proposições simples:
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 h: "Os seres humanos sabem se comportar."
@@ -3579,12 +3193,6 @@ b->g: "Se [Sônia é baixa], então [Sônia pratica ginástica olímpica]."
 
 Para essa questão, vamos considerar correta a negação b utilizando o antônimo "alta". Nesse caso,
 temos:
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 ~b: "Sônia é alta."
@@ -3647,11 +3255,6 @@ Uma equivalência fundamental envolvendo o conectivo condicional é a contraposi
 E ~q->~p. Para
 aplicar essa equivalência, devemos realizar o seguinte procedimento:
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 * Invertem-se as posições do antecedente e do consequente; e
 
@@ -3710,11 +3313,6 @@ aplicar essa equivalência, devemos realizar o seguinte procedimento:
 
 * Negam-se ambos os termos da condicional.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Para o caso em questão, temos:
 
@@ -3763,11 +3361,6 @@ risco
 de ser punido)], [(aquele funcionário público será leniente com a fraude) ou (dela participará)]."
 
 Observe que a proposição a ser avaliada pode ser descrita por (cVd)->(aVb):
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 (cVd)-»(aVb): "Se [(aquele funcionário público foi leniente com a fraude) ou (dela participou)],
@@ -3829,12 +3422,6 @@ A dupla negação de b corresponde à proposição original. Logo, ficamos com:
 Essa proposição equivalente pode ser descrita por:
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 bvd: "[Paulo foi ao banco] ou [ele está sem dinheiro]."
 
 A assertiva erra ao inserir o conectivo "e" no lugar do conectivo "ou". O gabarito,
@@ -3892,12 +3479,6 @@ Para o caso em questão, temos:
 P = R->S = ~ RV S
 
 Gabarito: CERTO.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 ll.(CESPE/PF/2018) P: "A nomeação do novo servidor público ocorre para reposição de
@@ -3958,12 +3539,6 @@ Comentários:
 Sejam as proposições simples:
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 a: "O candidato X me dará um agrado antes da eleição."
 
 b: "Serei atingido por uma benfeitoria que o candidato X fizer depois de eleito."
@@ -3995,11 +3570,6 @@ benfeitoria que ele fizer após ser eleito]."
 A questão apresentou esse condicional na forma em que se omite o "então". O gabarito, portanto, é
 CERTO.
 Gabarito: CERTO.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Negação da conjunção e da disjunção inclusiva (leis de De Morgan)
@@ -4055,11 +3625,6 @@ esse setor não padecem."
 Comentários:
 
 Sejam as proposições simples:
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 s: "Os servidores públicos que atuam nesse setor padecem."
@@ -4121,11 +3686,6 @@ mundo.
 
 Comentário:
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Sejam as proposições simples:
 
@@ -4179,11 +3739,6 @@ Comentários:
 
 Sejam as proposições simples:
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 u: "O IPTU, eu pago parcelado."
 
@@ -4234,11 +3789,6 @@ kVa: "[O síndico troca de carro] ou [reforma seu apartamento]."
 Para realizar a negação de uma disjunção inclusiva, usa-se a equivalência ~(pVq) =
 ~pA~q. Para aplicar essa
 equivalência, devemos seguir o seguinte procedimento:
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 * Negam-se ambas as parcelas da disjunção inclusiva;
@@ -4294,11 +3844,6 @@ Para realizar a negação de uma disjunção inclusiva, usa-se a equivalência ~
 ~pA~q. Para aplicar essa
 equivalência, devemos seguir o seguinte procedimento:
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 * Negam-se ambas as parcelas da disjunção inclusiva;
 
@@ -4352,11 +3897,6 @@ temos:
 
 Logo, a negação pode ser descrita por:
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 ~p A ~i: "[O candidato não é pós-graduado] e [o candidato não sabe falar inglês]."
 
@@ -4401,12 +3941,6 @@ será falso, ou seja, trata-se de uma contradição.
 Gabarito: CERTO.
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 21.(CESPE/BNB/2018) Julgue o item que se segue, a respeito de lógica proposicional.
 
 Se P e Q forem proposições simples, então a proposição -■[PV(--Q)]o[(-'P)AQ] é uma tautologia.
@@ -4434,12 +3968,6 @@ lógicos. Isso significa
 que a bicondicional é sempre verdadeira e, portanto, trata-se de uma tautologia.
 
 Gabarito: CERTO.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Negação da Condicional
@@ -4491,12 +4019,6 @@ há crime.",
 julgue a seguir.
 
 A negação da proposição Q pode ser corretamente expressa por "Não há evidência, mas há crime.".
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Comentários:
@@ -4554,12 +4076,6 @@ Comentários:
 Devemos verificar se a bicondicional pAq<^~(p^~q) é uma tautologia.
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Observe que a segunda parcela, dada por ~(p-»~q), é a negação de uma condicional.
 
 Para realizar a negação de uma condicional, usa-se a equivalência ~(p-»q) =
@@ -4612,12 +4128,6 @@ p: "João tem problemas cardíacos."
 
 r: "João toma remédios que controlam a pressão."
 A proposição composta original pode ser definida pela condicional p->r:
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 p-»r: "Se [João tem problemas cardíacos], então [ele toma remédios que controlam a pressão]."
@@ -4678,12 +4188,6 @@ equivalência, devemos seguir o seguinte procedimento:
 * Troca-se a condicional (-») pela conjunção (A); e
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 * Nega-se o segundo termo.
 
 Para o caso em questão, temos:
@@ -4734,11 +4238,6 @@ Para o caso em questão, temos:
 Logo, a negação pode ser descrita por:
 
 eA~d: "[João se esforçou o bastante] e [não conseguiu o que desejava]".
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 A negação apresentada está errada, pois corresponde a ~eAd. Observe que a expressão
@@ -4802,12 +4301,6 @@ equivalência, devemos seguir o seguinte procedimento:
 Para o caso em questão, temos:
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 ~[(aVs)-»p] = (aVs) A ~p
 
 Utilizando o conectivo "mas" para representar a conjunção, temos:
@@ -4816,12 +4309,6 @@ Utilizando o conectivo "mas" para representar a conjunção, temos:
 superfaturada)], mas [a prestação de contas da prefeitura foi aprovada]".
 
 Gabarito: Letra A.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Outras equivalências e negações
@@ -4863,12 +4350,6 @@ cliente não obtém o dinheiro"
 Comentários:
 
 Sejam as proposições simples:
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 p: "O cliente aceita as regras ditadas pelo banco."
@@ -4925,12 +4406,6 @@ equivalentes, pois correspondem à seguinte equivalência:
 (p-»r)A(q->r) = (pVq)->r
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Caso você não se lembre dessa equivalência na hora da prova, não se esqueça que
 SEMPRE podemos
 recorrer à tabela-verdade para verificar se duas proposições são equivalentes.
@@ -4974,23 +4449,11 @@ proposições são equivalentes, pois correspondem à seguinte equivalência:
 (p-»r)A(q->r) = (pVq)->r
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Caso você não se lembre dessa equivalência na hora da prova, não se esqueça que
 SEMPRE podemos
 recorrer à tabela-verdade para verificar se duas proposições são equivalentes.
 
 Gabarito: CERTO.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Questões com mais de uma equivalência
@@ -5046,11 +4509,6 @@ um quadro", de fato pode ser
 representada por sua forma equivalente ~(pA~q). O gabarito, portanto, é CERTO.
 
 Gabarito: CERTO.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 34.(CESPE/PC DF/2021) A proposição "Se Marcos é culpado, então Paulo ou Carlos são inocentes."
@@ -5109,12 +4567,6 @@ A dupla negação de m corresponde à proposição original. Ficamos com:
 ~m->pVc E ~pA~c ->m
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Logo, temos a seguinte equivalência:
 
 ~pA~c -»m: "Se [(Paulo é culpado) e (Carlos é culpado)], então [Marcos é inocente]."
@@ -5164,12 +4616,6 @@ A segunda proposição pode ser descrita por (d A s) V a:
 (d A s) V a: "[A humanidade diminui a produção de material plástico] e [encontra uma solução para o
 problema do lixo desse material] ou [o acúmulo de plástico no meio ambiente degradará a vida no
 planeta]."
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Devemos verificar se (~d V~s)-»a é equivalente a (d A s) V a.
@@ -5232,12 +4678,6 @@ equivalentes.
 Gabarito: CERTO.
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Item. 37. (CESPE/SERPRO/2013) Considerando que o símbolo lógico A corresponda à conjunção
 "e"; V, à
 disjunção "ou"; —à condicional "se..., então"; <->, à bicondicional "se, e somente se";
@@ -5294,12 +4734,6 @@ como
 P, Q, R e S. A partir de proposições conhecidas, novas proposições podem ser
 construídas usando-se
 símbolos especiais. Alguns desses símbolos são apresentados na tabela abaixo.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 símbolo
@@ -5395,12 +4829,6 @@ termos da direita são iguais. Logo, as proposições são equivalentes.
 Gabarito: CERTO.
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Item. 39. (CESPE/SEFAZ-ES/2010) Considerando os símbolos lógicos - (negação), A (conjunção), V
 (disjunção), ->
 (condicional) e as proposições
@@ -5442,12 +4870,6 @@ Observe que, ao desenvolver ~ S, chegamos à proposição T. Logo, essas proposi
 equivalentes.
 
 Gabarito: CERTO.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Questões com mais de um item
@@ -5508,11 +4930,6 @@ descrita por ~aAd.
 ~aAd: "[Marcos não figura no quadro de associados], mas [ele está com os pagamentos em dia]."
 Feitas essas observações, vamos avaliar os itens da questão.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Questão 40
 
@@ -5565,12 +4982,6 @@ Questão 41
 Sabemos que a proposição composta P pode ser descrita por aAd->b.
 
 Note que o item apresenta como supostamente equivalente a P a proposição composta ~aV~d-»~b:
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 ~aV~d-»~b: "Se [(Marcos não figura no quadro de associados) ou (não está com os pagamentos em dia)],
@@ -5632,12 +5043,6 @@ Para o caso em questão, temos que a negação de ~aAd, dada por ~{~aAd), é:
 ~(~aAd) = ~a—»~d
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Logo, a negação da proposição composta Q pode ser descrita por:
 
 ~a-»~d: "Se [Marcos não figura no quadro de associados], então [Marcos não está com os pagamentos
@@ -5692,11 +5097,6 @@ p: "Os mutuários tiveram prejuízos."
 Note que a proposição Pl corresponde à condicional d-»~c escrita na forma em que se
 omite o "então":
 d-»~c: "Se [a fiscalização foi deficiente], [as falhas construtivas não foram corrigidas]."
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Além disso, a proposição P2 corresponde à condicional c-»~p escrita na forma em que se omite o
@@ -5753,12 +5153,6 @@ equivalência: p-*q = pA~q. Para o caso em questão, a negação de Pl é dada p
 A dupla negação em c corresponde à proposição original, de modo que a negação de Pl é dada por:
 
 ~(d-»~c) = dAc
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Logo, a negação correta é:
@@ -5822,11 +5216,6 @@ v: "(Eles) vencerão."
 Note que a proposição P pode ser descrita pela condicional fAa->v na forma em que se omite o
 "então".
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 fAa-»v: "Se [(o responsável pela indicação fizer sua parte) e (seus aliados trabalharem duro)],
 [vencerão]."
@@ -5880,12 +5269,6 @@ equivalência: p-*q = pA~q. Para o caso em questão, a negação de P é dada po
 ~{fAa-»v) = (fAa)A~v
 
 Logo, a negação correta é:
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 (fAa)A~v: "(O responsável pela indicação faz sua parte) e (seus aliados trabalharam duro) e (não
@@ -5946,11 +5329,6 @@ A proposição equivalente pode ser escrita por:
 
 ~s->~g:" Se [o cidadão-cliente não fica satisfeito], então [o servidor não gosta do que faz]."
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 O gabarito, portanto, é CERTO.
 
@@ -6002,11 +5380,6 @@ A proposição composta P pode ser definida pela condicional e-»d:
 e-»d:"Se [João se esforçar o bastante], então [João conseguirá o que desejar]."
 Vamos agora verificar as assertivas.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Questão 51
 
@@ -6053,11 +5426,6 @@ A proposição equivalente pode ser escrita por:
 ~d ->~e:" Se [João não conseguiu o que desejava], então [João não se esforçou o bastante]."
 
 Gabarito: 51 - CERTO. 52 - CERTO.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 .......................................... .........
@@ -6123,12 +5491,6 @@ que as duas proposições compostas são equivalentes:
 O gabarito, portanto, é CERTO.
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Questão 54
 
 A assertiva pede a negação de
@@ -6185,12 +5547,6 @@ Em português, (~r) -» q corresponde à negação apresentada:
 (~r) -> q: "Se [o bom jornalista não faz reportagem em benefício próprio], então [ele deixa de
 fazer aquela
 reportagem que prejudica seus interesses]."
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 O gabarito, portanto, é CERTO.
@@ -6259,12 +5615,6 @@ Para aplicar essa equivalência, devemos realizar o seguinte procedimento:
 Para o caso em questão, temos:
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 (~i V~d) -»e = ~e -» ~(~i V~d)
 
 Podemos aplicar De Morgan no consequente da nova condicional obtida. Ficamos com:
@@ -6314,12 +5664,6 @@ conectivo "e".
 
 O gabarito, portanto, é ERRADO.
 Gabarito: 56 - CERTO. 57 - ERRADO.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 QUESTõES CoMENTADAS - CEBRASPE
@@ -6372,12 +5716,6 @@ questão será
 sempre verdadeira. Logo, é correto afirmar que a bicondicional é uma tautologia.
 
 Gabarito: CERTO.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 2.(CESPE/EMAP/2018) Julgue o item seguinte, relativo à lógica proposicional e de argumentação.
@@ -6439,12 +5777,6 @@ suficiente por sua utilização nos primeiros anos de operação".
 Comentários:
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Sejam as proposições simples:
 
 g:" O governo quer que a ferrovia seja construída."
@@ -6502,11 +5834,6 @@ volumosos
 investimentos iniciais na construção] ou [haverá demanda suficiente por sua utilização nos
 primeiros anos
 de operação]."
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 A proposição que obtivemos difere da apresentada na assertiva somente pelo
@@ -6572,12 +5899,6 @@ podemos aplicar a mesma equivalência nessa parcela:
 ~[P->(Q->R)] = PA[QA(~R)J
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 A equivalência obtida corresponde à alternativa D, que não apresenta os
 colchetes. Isso porque, pela
 
@@ -6619,12 +5940,6 @@ necessariamente
 uma das duas parcelas é verdadeira. Isso significa que o nosso consequente fica:
 
 t V R
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Observe que t V R é uma disjunção inclusiva com um dos termos sempre verdadeiro t.
@@ -6672,12 +5987,6 @@ Veja que, ao colocar
 as duas proposições compostas em uma mesma tabela, percebe-se que elas não são
 equivalentes, pois seus
 valores são diferentes na primeira e na sétima linha.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 p Q R ~P ~Q ~R PA~Q QA~P [PÁ-O]—>~R R >[QA~P]
@@ -6745,12 +6054,6 @@ W: "é divisível por 15";
 então a proposição --Q, a negação de Q, poderá ser corretamente expressa por UAVA(--W).
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Comentários:
 
 Q é uma condicional que pode ser escrita do seguinte modo:
@@ -6791,12 +6094,6 @@ Comentários:
 Primeiramente, vale notar que a construção da tabela-verdade é uma solução possível.
 Ocorre que essa não
 é a melhor forma de se resolver a questão, pois levaria mais tempo.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Vamos resolver o problema por álgebra de proposições.
@@ -6872,12 +6169,6 @@ ERRADO.
 Gabarito: ERRADO.
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 1O.(CESPE/CADE/2O14) Considerando os conectivos lógicos usuais e que as letras maiúsculas
 representem
 proposições lógicas simples, julgue o item seguinte acerca da lógica proposicional.
@@ -6929,12 +6220,6 @@ lógico. Sendo assim, a bicondicional sempre será verdadeira, tratando-se de um
 Gabarito: CERTO.
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 Equivalências lógicas
 
 Equivalências fundamentais
@@ -6981,11 +6266,8 @@ A proposição "Se Sônia é baixa, então Sônia pratica ginástica olímpica."
 equivalente à
 sentença "Se Sônia é alta, então Sônia não pratica ginástica olímpica."
 
-Item. 0.0 SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
+Item. 0.0
 www. estra tegiaconcursos. com. br
-
-
-Equipe Exatas Estratégia Concursos
 
 
 6.(CESPE/MDIC/2014) A proposição "Se o interessado der três passos, alugará a pouca distância uma
@@ -7048,11 +6330,6 @@ A proposição C é equivalente à seguinte proposição: "Se o candidato X não
 agrado antes da
 eleição, serei atingido por uma benfeitoria que ele fizer após ser eleito".
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Negação da conjunção e da disjunção inclusiva (leis de De Morgan)
 
@@ -7111,12 +6388,6 @@ apartamento"
 pode ser corretamente expressa por "O síndico não troca de carro nem reforma seu apartamento".
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 18.(CESPE/PC MA/2018) A qualidade da educação dos jovens sobe ou a sensação de
 segurança da
 sociedade diminui.
@@ -7148,12 +6419,6 @@ A proposição (AVB)A[(--A)A(--B)] é sempre falsa.
 21.(CESPE/BNB/2018) Julgue o item que se segue, a respeito de lógica proposicional.
 
 Se P e Q forem proposições simples, então a proposição -■[PV(--Q)]o[(-'P)AQ] é uma tautologia.
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Negação da Condicional
@@ -7208,11 +6473,6 @@ A negação da proposição P pode ser corretamente expressa por "João não se 
 bastante, mas,
 mesmo assim, conseguiu o que desejava".
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Item. 28. (CESPE/COGE-CE/2019) Pl: Se os recursos foram aplicados em finalidade diversa da prevista ou
 se a
@@ -7239,11 +6499,6 @@ então a prestação de contas da prefeitura foi aprovada".
 e) "Se a prestação de contas da prefeitura foi aprovada, então os recursos não foram
 aplicados em finalidade
 diversa da prevista e a obra não foi superfaturada".
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Outras equivalências e negações
@@ -7292,11 +6547,6 @@ A proposição "Se não ajo como um homem da minha idade, sou tratado como crian
 mínimo de maturidade, sou tratado como criança" é equivalente a "Se não ajo como um homem da minha
 idade ou não tenho um mínimo de maturidade, sou tratado como criança"
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Questões com mais de uma equivalência
 
@@ -7344,11 +6594,6 @@ composta:
 [PA~(QVR)]~► [RA(P«->Q)j, julgue o próximo item.
 
 A negação de S —S - pode ser corretamente expressa por [~PV(QVR)]A[(~R)V~(P<^Q)j.
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Item. 38. (CESPE/TCE-ES/2012) Proposições são sentenças que podem ser julgadas como verdadeiras — V — ou
@@ -7427,11 +6672,6 @@ As proposições compostas --S e T são equivalentes, ou seja, têm a
 mesma tabela-verdade,
 independentemente dos valores lógicos das proposições simples p, q, e r que as constituem.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 Questões com mais de um item
 
@@ -7492,11 +6732,6 @@ que as falhas construtivas foram corrigidas".
 Item. 45. (CESPE/PF/2021) Uma negação correta da proposição Pl pode ser expressa por: "Se a fiscalização
 não
 foi deficiente, as falhas construtivas foram corrigidas".
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 46.(CESPE/PF/2021) A proposição P2 é equivalente a "Se as falhas construtivas não foram
@@ -7567,11 +6802,6 @@ Item. 51. (CESPE/MPOG/2015) A proposição "João não se esforça o bastante ou
 Item. 52. (CESPE/MPOG/2015) A proposição "Se João não conseguiu o que desejava, então João não se esforçou
 o bastante" é logicamente equivalente à proposição P.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 ..........................................
 ....................................................................................
@@ -7634,11 +6864,6 @@ democracia".
 Item. 57. (CESPE/TC-DF/2014) A proposição P é logicamente equivalente à proposição
 "Condenaremos a
 corrupção por ser imoral ou por corroer a legitimidade da democracia ou por motivos econômicos".
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 GABARITo - CEBRASPE
@@ -7703,12 +6928,6 @@ Item. 18. LETRA A 38.CERTO
 Item. 20. CERTO 40. ERRADO
 
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
-
 LISTA DE QUESTõES - CEBRASPE
 
 Álgebra de proposições
@@ -7754,12 +6973,6 @@ c) (~P)AQAR
 d) PAQA(~R).
 
 e) (-PH(Q^R)
-
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
 
 
 Item. 5. (CESPE/PF/2018) As proposições P, Q e R a seguir referem-se a um ilícito penal envolvendo João,
@@ -7808,11 +7021,6 @@ que P, Q e R representam proposições lógicas simples.
 
 A proposição [P-»(QAR)]<->{[(--P)VQ]A[(-«P)VR]} é uma tautologia.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 9.(CESPE/AFT/2O13)
 
@@ -7848,11 +7056,6 @@ proposições lógicas simples, julgue o item seguinte acerca da lógica proposi
 
 A proposição [(PVQ)A(RVS)] <-> [QA(RVS)]V[(PAR)V(PAS)J é uma tautologia.
 
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
-
-
-Equipe Exatas Estratégia Concursos
-
 
 GABARITo - CEBRASPE
 
@@ -7878,7 +7081,5 @@ Item. 8. CERTO
 Item. 9. ERRADO
 
 Item. 10. CERTO
-
-SERPRO - Raciocínio Lógico - 2023 (Pós-Edital)
 
 

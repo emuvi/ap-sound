@@ -146,8 +146,6 @@ legados, processamento de
 transações de mainframe, sistemas externos, entre outros.
 
 
-
-
 aplicações são inerentemente complexas, acessando dados de diversas fontes e
 distribuindo as
 aplicações entre os clientes.
@@ -554,8 +552,6 @@ mapeia-se
 cada componente do Java EE para seu contêiner correspondente. Existem três tipos
 básicos de
 módulo:
-
-
 
 
 MÓDULO DESCRIÇÃO
@@ -4028,7 +4024,6 @@ imagem anterior!
 1 Oracle afirma: "A servlet can almost be thought of as an applet that runs on the server side".
 
 
-
 * 05152001900 - Everton
 Murilo Vieira
 
@@ -4128,7 +4123,6 @@ res.setContentType("text/html");
 PrintWriter out = res.getWriter();
 
 out.println("<html>");
-
 
 
 * 05152001900 - Everton
@@ -4897,8 +4891,6 @@ para tratar
 requisições dos clientes. Chama-se então o método service com dois parâmetros:
 
 
-
-
 ServIetRequest, que contém a solicitação do cliente; e o ServIetResponse, que
 contém a
 resposta - ambos criados pelo contêiner.
@@ -5554,8 +5546,6 @@ apesar de não serem restritas a ele.
 Comentários:
 
 
-
-
 A documentação oficial afirma que se trata de uma classe java pura utilizada para
 estender as
 capacidades dos servidores que hospedam aplicações acessadas por meio de um
@@ -5834,8 +5824,6 @@ resposta
 era invalidate().
 
 Gabarito: D
-
-
 
 
 Item. 1. (CESPE - 2013 - TRT - 10a REGIÃO (DF e TO) - Técnico Judiciário - Tecnologia da Informação)
@@ -6651,8 +6639,6 @@ Aplicação Web. Ela possui as seguintes partes:
 * Um conjunto de tags para adicionar componentes à página web;
 
 1 As implementações da especificação mais famosas são Oracle Mojarra e o Apache MyFaces.
-
-
 
 
 * Um conjunto de Managed Beans (ou Beans Gerenciados);
@@ -8096,7 +8082,6 @@ WEB-INF.xml e FACES-CONFIG.xml.
 d) possui bibliotecas que suportam Ajax (Asynchronous JavaScript And XML).
 
 
-
 /
 
 
@@ -8215,8 +8200,6 @@ b) Expression Language (EL) é a linguagem utilizada para apresentação de cont
 que utilizam JSF. Sua principal limitação é a impossibilidade de acessar valores e
 métodos em
 beans gerenciados.
-
-
 
 
 c) Facelets é uma parte da especificação JSF e também a tecnologia para implementar as regras
@@ -8798,8 +8781,6 @@ como JAXB,
 JCA e SDO. Galera, isso nunca caiu em prova, mas eu acho importante saber que existe
 essa
 implementação também. Blz?
-
-
 
 
 QUESTõES CoMENTADAS - JPA - MULTIBANCAS
@@ -9667,8 +9648,6 @@ de
 dados.
 
 
-
-
 @lnheritance Define um relacionamento de herança à entidade.
 @ManyToOne Mapeamento muitos para um (N:1).
 @OneToMany Mapeamento um para muitos (1 :N).
@@ -10308,8 +10287,6 @@ uma camada de APIs (JNDI, JDBC e JTA). Vamos ver alguns desses componentes respo
 por controlar transações:
 
 2 Classes Persistentes não precisam implementar interfaces ou herdar de uma classe-base especial!
-
-
 
 
 * Session (org.hibernate.Session): trata-se de um objeto leve, single-threaded, de
@@ -12335,8 +12312,6 @@ d) Estabelecer a conexão com o Banco de Dados.
 e) Criar uma variável para logon do Banco de Dados.
 
 
-
-
 Comentários:
 
 Para acessar um banco de dados, o primeiro passo é estabelecer uma conexão! É
@@ -12457,8 +12432,6 @@ liberando
 recursos.
 
 Conforme vimos em aula, o nome correto é CalIableStatement. Gabarito: E
-
-
 
 
 LISTA DE QUESTõES - JDBC - MULTIBANCAS
@@ -12602,8 +12575,6 @@ um programa Java que não apresenta erros.
 a = DriverManager.getConnection("jdbc:odbc:Driver={Microsoft Access
 Driver
 (*.mdb)};DBQ=E:\\bd.mdb", ""l
-
-
 
 
 b = a.createStatement();

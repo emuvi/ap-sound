@@ -706,8 +706,6 @@ reaproveitadas (ou
 reutilizadas). A sintaxe que expressa o conceito de extensão de classes é a seguinte:
 
 
-
-
 class NomeClasseFilha extends NomeClassePai {
 
 //Atributos e Métodos
@@ -1408,7 +1406,6 @@ a) encapsulamento.
 b) sobrecarga de métodos.
 
 c) polimorfismo.
-
 
 
 /

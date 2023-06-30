@@ -2983,8 +2983,6 @@ página. Isso
 pode ser conseguido variando o tamanho, peso e cor.
 
 
-
-
 Item. 5. Escolha fontes que tenham uma altura de linha semelhante: Isso ajuda a manter a consistência
 e legibilidade em todo o texto.
 
@@ -3055,8 +3053,6 @@ Especifica se um texto deve ou não ser exibido em uma fonte
 minúscula
 
 Especifica o peso de uma fonte
-
-
 
 
 ícones de CSS
@@ -9148,8 +9144,6 @@ iniciada pela
 palavra carro.
 
 
-
-
 Questões FCV
 
 Item. 1. (FGV- TRT -13a Região (PB) - 2022) Numa codificação CSS, a propriedade z-index refere-se
@@ -9273,8 +9267,6 @@ c) Todos os elementos da página; elementos <h>; elementos com id="xpto".
 d) Todos os elementos da página; elementos da classe h1; elementos com id="#xpto"
 
 e) Todos os elementos da página; elementos <h1 >; elementos com id= "xpto".
-
-
 
 
 Item. 7. (FGV -SEMSA Manaus - 2022) Dentre os formatos de seletores que podem ser
@@ -10810,8 +10802,6 @@ fundo escuro;
 
 Define a cor de fundo para uma cor escura, geralmente usada em
 fundo claro.
-
-
 
 
 Componentes
@@ -13998,8 +13988,6 @@ de tela.
 Gabarito: Letra D
 
 
-
-
 26.(FEPESE - CELESC - 2022) O sistema de grid Bootstrap permite até quantas colunas?
 
 a) 16
@@ -14203,8 +14191,6 @@ Gabarito: Letra A
 <p>Frase inicial...</p>
 
 </div>
-
-
 
 
 Assinale o framework usualmente associado à classe utilizada.
@@ -15093,8 +15079,6 @@ c/bndyl-
 C./htmlj-
 
 
-
-
 Para que este código crie dois botões para paginação, "Anterior" e "Próximo", um ao
 lado do
 outro, utilizando Bootstrap, a lacuna I deve ser corretamente preenchida com.
@@ -15219,8 +15203,6 @@ c) CSS.
 d) JSON.
 
 e) SpringBoot.
-
-
 
 
 Item. 32. (Instituto AOCP - PRODEB - 2018) É possível considerar o Bootstrap como
